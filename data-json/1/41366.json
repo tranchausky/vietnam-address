@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829423,
+            "name": "Đường Giáp Bát",
+            "pid": 41366,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Giáp Bát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9836114",
+            "lng": "105.84224010000003"
+        },
+        {
+            "id": 829744,
+            "name": "Đường Kim Đồng",
+            "pid": 41366,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kim Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9836114",
+            "lng": "105.84224010000003"
+        },
+        {
+            "id": 117,
+            "name": "Giải Phóng",
+            "pid": 41366,
+            "type": 2,
+            "region": null,
+            "alias": "Giải Phóng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9869604",
+            "lng": "105.84116670000003"
+        },
+        {
+            "id": 665,
+            "name": "Giáp Bát",
+            "pid": 41366,
+            "type": 2,
+            "region": null,
+            "alias": "Giáp Bát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9842661",
+            "lng": "105.84297400000003"
+        },
+        {
+            "id": 405,
+            "name": "Kim Đồng",
+            "pid": 41366,
+            "type": 2,
+            "region": null,
+            "alias": "Kim Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.983714",
+            "lng": "105.84277640000005"
+        }
+    ],
+    "log_id": "675811bd543f4282"
+}

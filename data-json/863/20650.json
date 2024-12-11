@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410301,
+            "name": "Thôn Văn Hàn Bắc",
+            "pid": 20650,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Hàn Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5119634",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410297,
+            "name": "Thôn Văn Hàn Đông",
+            "pid": 20650,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Hàn Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5119634",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410299,
+            "name": "Thôn Văn Hàn Tây",
+            "pid": 20650,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Hàn Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5119634",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410305,
+            "name": "Thôn Vũ Thành Đoài",
+            "pid": 20650,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vũ Thành Đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5119634",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410303,
+            "name": "Thôn Vũ Thành Đông",
+            "pid": 20650,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vũ Thành Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5119634",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 731125,
+            "name": "Văn Hàn Trung",
+            "pid": 20650,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Hàn Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5119634",
+            "lng": "106.52010840000004"
+        }
+    ],
+    "log_id": "675909f3bd9c425"
+}

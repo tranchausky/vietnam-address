@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 736321,
+            "name": "Ấp Bình Châu",
+            "pid": 20770,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8180416",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 451973,
+            "name": "Ấp Cả Bản",
+            "pid": 20770,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Bản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8180416",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 451975,
+            "name": "Ấp Chòi Mòi",
+            "pid": 20770,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Chòi Mòi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8180416",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 451977,
+            "name": "Ấp Rạch Đình",
+            "pid": 20770,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rạch Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8180416",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 451979,
+            "name": "Ấp Rạch Mây",
+            "pid": 20770,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rạch Mây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8180416",
+            "lng": "105.8583873"
+        }
+    ],
+    "log_id": "675817853265a925"
+}

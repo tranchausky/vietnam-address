@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 461495,
+            "name": "Đồng Tân",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Đồng Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461493,
+            "name": "Đồng Văn",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Đồng Văn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461499,
+            "name": "Lưu Thuận",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Lưu Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461497,
+            "name": "Tân Lập",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Tân Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461483,
+            "name": "Tiểu Khu 1",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461485,
+            "name": "Tiểu Khu 2",
+            "pid": 21212,
+            "type": 10,
+            "region": null,
+            "alias": "Tiểu khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461487,
+            "name": "Tiểu Khu 3",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461489,
+            "name": "Tiểu Khu 4",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 461491,
+            "name": "Tiểu Khu Tam Đồng",
+            "pid": 21212,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu khu Tam Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8667376",
+            "lng": "106.022874"
+        }
+    ],
+    "log_id": "675814aa1655b993"
+}

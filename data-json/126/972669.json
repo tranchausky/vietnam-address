@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 975107,
+            "name": "Chung Cư Đức Khải",
+            "pid": 972669,
+            "type": 4,
+            "region": null,
+            "alias": "Chung Cư Đức Khải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7828514",
+            "lng": "106.734513"
+        },
+        {
+            "id": 972925,
+            "name": "Chung Cư New City",
+            "pid": 972669,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư New CiTy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7818816",
+            "lng": "106.7357367"
+        },
+        {
+            "id": 996471,
+            "name": "Chung Cư Paris Hoàng Kim",
+            "pid": 972669,
+            "type": 4,
+            "region": null,
+            "alias": "chung cư Paris Hoàng Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.78489670695363",
+            "lng": "106.7303905971897"
+        },
+        {
+            "id": 974381,
+            "name": "Đường 8",
+            "pid": 972669,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.783889",
+            "lng": "106.734722"
+        },
+        {
+            "id": 975267,
+            "name": "Đường D4",
+            "pid": 972669,
+            "type": 21,
+            "region": null,
+            "alias": "Đường D4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7890815",
+            "lng": "106.733903"
+        },
+        {
+            "id": 974313,
+            "name": "Đường Lương Định Của",
+            "pid": 972669,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Định Của",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.788140761389084",
+            "lng": "106.7351047325099"
+        },
+        {
+            "id": 974331,
+            "name": "Đường Trần Não",
+            "pid": 972669,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Não",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7826634",
+            "lng": "106.7291113"
+        },
+        {
+            "id": 1018599,
+            "name": "Phạm Văn Ngôn Phường Bình Khánh, Quận 2",
+            "pid": 972669,
+            "type": 4,
+            "region": null,
+            "alias": "Phạm Văn Ngôn Phường Bình Khánh, Quận 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7853162",
+            "lng": "106.7386163"
+        },
+        {
+            "id": 975109,
+            "name": "Trường Thpt Trần Đại Nghĩa",
+            "pid": 972669,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Trần Đại Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7835776",
+            "lng": "106.7356063"
+        }
+    ],
+    "log_id": "6758129b272d4698"
+}

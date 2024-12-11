@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 767494,
+            "name": "Phúc Đa",
+            "pid": 25993,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1130217",
+            "lng": "106.52010840000004"
+        },
+        {
+            "id": 864472,
+            "name": "Thôn 5 Nguyễn Huệ",
+            "pid": 25993,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1130217",
+            "lng": "106.52010840000004"
+        },
+        {
+            "id": 555037,
+            "name": "Thôn Hổ Lao",
+            "pid": 25993,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hổ Lao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1130217",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 555039,
+            "name": "Thôn Tân Thành",
+            "pid": 25993,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1130217",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 555041,
+            "name": "Thôn Tân Việt",
+            "pid": 25993,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Việt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1130217",
+            "lng": "106.52010840000003"
+        }
+    ],
+    "log_id": "675814c2426ed326"
+}

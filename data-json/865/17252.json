@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555867,
+            "name": "Phố 1",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555869,
+            "name": "Phố 2",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555871,
+            "name": "Phố 3",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555883,
+            "name": "Phố 3\/2",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555873,
+            "name": "Phố 4",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555877,
+            "name": "Phố Sao Đỏ",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Sao Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555881,
+            "name": "Phố Sơn Phòng",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Sơn Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555879,
+            "name": "Phố Thăng Lợi",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Thăng Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 555875,
+            "name": "Phố Thăng Long",
+            "pid": 17252,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Thăng Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0249908",
+            "lng": "105.50640870000007"
+        }
+    ],
+    "log_id": "67590a2339438563"
+}

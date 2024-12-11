@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641104,
+            "name": "Thôn An Bằng",
+            "pid": 22146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.786208",
+            "lng": "108.044775"
+        },
+        {
+            "id": 641101,
+            "name": "Thôn Hanh Đông",
+            "pid": 22146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hanh đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.786208",
+            "lng": "108.044775"
+        },
+        {
+            "id": 641095,
+            "name": "Thôn Hanh Tây",
+            "pid": 22146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hanh tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.786208",
+            "lng": "108.044775"
+        },
+        {
+            "id": 641098,
+            "name": "Thôn Mỹ Lễ",
+            "pid": 22146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.786208",
+            "lng": "108.044775"
+        },
+        {
+            "id": 641092,
+            "name": "Thôn Tây Lễ",
+            "pid": 22146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tây lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.786208",
+            "lng": "108.044775"
+        }
+    ],
+    "log_id": "675817e1ac5a5366"
+}

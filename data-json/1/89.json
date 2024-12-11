@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829018,
+            "name": "Đường Cầu Am",
+            "pid": 89,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cầu Am",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9786876",
+            "lng": "105.771796"
+        },
+        {
+            "id": 830041,
+            "name": "Đường Ngô Thì Sỹ",
+            "pid": 89,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Thì Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9786876",
+            "lng": "105.771796"
+        },
+        {
+            "id": 876892,
+            "name": "Đường Vạn Phúc",
+            "pid": 89,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vạn Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.978440579438697",
+            "lng": "105.77398538589478"
+        },
+        {
+            "id": 987307,
+            "name": "Ngõ 242 Vạn Phúc Hà Đông Hà Nội",
+            "pid": 89,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 242 Vạn Phúc Hà Đông Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.983729203947743",
+            "lng": "105.770224553968"
+        },
+        {
+            "id": 893,
+            "name": "Ngô Thì Sỹ",
+            "pid": 89,
+            "type": 2,
+            "region": null,
+            "alias": "Ngô Thì Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9804586",
+            "lng": "105.77786079999998"
+        },
+        {
+            "id": 830377,
+            "name": "Phố Lụa",
+            "pid": 89,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Lụa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9786876",
+            "lng": "105.771796"
+        },
+        {
+            "id": 986864,
+            "name": "Toà B2 Roman Tố Hữu Hà Đông",
+            "pid": 89,
+            "type": 4,
+            "region": null,
+            "alias": "Toà B2 Roman Tố Hữu Hà Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.986840774283472",
+            "lng": "105.777219230688"
+        },
+        {
+            "id": 52066,
+            "name": "Tòa Nhà Simco Sông Đà",
+            "pid": 89,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà Simco Sông Đà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 52326,
+            "name": "Tsq Galaxy",
+            "pid": 89,
+            "type": 4,
+            "region": null,
+            "alias": "TSQ Galaxy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc46354801"
+}

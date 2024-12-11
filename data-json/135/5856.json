@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981131,
+            "name": "Đường Chợ Con",
+            "pid": 5856,
+            "type": 21,
+            "region": null,
+            "alias": "đường Chợ Con",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981132,
+            "name": "Đường Hồ Sen",
+            "pid": 5856,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ sen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981130,
+            "name": "Đường Tô Hiệu",
+            "pid": 5856,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tô Hiệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675813662f8b3824"
+}

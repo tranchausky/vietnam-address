@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 792976,
+            "name": "Bách Nhẫn",
+            "pid": 25325,
+            "type": 16,
+            "region": null,
+            "alias": "Bách Nhẫn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3496652",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 792973,
+            "name": "Chung Thành",
+            "pid": 25325,
+            "type": 16,
+            "region": null,
+            "alias": "Chung Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3496652",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 792979,
+            "name": "Xóm 1",
+            "pid": 25325,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3496652",
+            "lng": "105.93767560000003"
+        }
+    ],
+    "log_id": "675813d919017901"
+}

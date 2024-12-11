@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 992848,
+            "name": "Thôn Bình An",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.47220906608725",
+            "lng": "107.61908621519099"
+        },
+        {
+            "id": 459325,
+            "name": "Thôn Phước An",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488822",
+            "lng": "107.60969469999998"
+        },
+        {
+            "id": 459323,
+            "name": "Thôn Phước Bình",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488822",
+            "lng": "107.60969469999998"
+        },
+        {
+            "id": 459321,
+            "name": "Thôn Phước Dũng",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Dũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488822",
+            "lng": "107.60969469999998"
+        },
+        {
+            "id": 459317,
+            "name": "Thôn Phước Hồng",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488822",
+            "lng": "107.60969469999998"
+        },
+        {
+            "id": 459315,
+            "name": "Thôn Phước Lạc",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488822",
+            "lng": "107.60969469999998"
+        },
+        {
+            "id": 459319,
+            "name": "Thôn Phước Trung",
+            "pid": 19401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488822",
+            "lng": "107.60969469999998"
+        }
+    ],
+    "log_id": "67581771987eb473"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444299,
+            "name": "Thôn Hòa Bình",
+            "pid": 18962,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1945062",
+            "lng": "109.06258560000003"
+        },
+        {
+            "id": 444303,
+            "name": "Thôn Hòa Ngãi",
+            "pid": 18962,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Ngãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1945062",
+            "lng": "109.06258560000003"
+        },
+        {
+            "id": 444301,
+            "name": "Thôn Hòa Nghĩa",
+            "pid": 18962,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1945062",
+            "lng": "109.06258560000003"
+        },
+        {
+            "id": 755767,
+            "name": "Thôn Hoà Thuận",
+            "pid": 18962,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoà Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1945062",
+            "lng": "109.06258560000003"
+        },
+        {
+            "id": 444305,
+            "name": "Thôn Hòa Trinh",
+            "pid": 18962,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1945062",
+            "lng": "109.06258560000003"
+        },
+        {
+            "id": 952981,
+            "name": "Ubnd Xã Sơn Định",
+            "pid": 18962,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã Sơn Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1945062",
+            "lng": "109.06258560000003"
+        }
+    ],
+    "log_id": "67590b80995fd698"
+}

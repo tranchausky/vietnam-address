@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113631,
+            "name": "Ấp Kinh 2B",
+            "pid": 18008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 2B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.135802",
+            "lng": "105.200219"
+        },
+        {
+            "id": 113651,
+            "name": "Ấp Kinh 4B",
+            "pid": 18008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 4B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.100879",
+            "lng": "105.186304"
+        },
+        {
+            "id": 113665,
+            "name": "Ấp Kinh 5B",
+            "pid": 18008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 5B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.084907",
+            "lng": "105.175588"
+        },
+        {
+            "id": 113619,
+            "name": "Ấp Tân An",
+            "pid": 18008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.119477",
+            "lng": "105.192076"
+        },
+        {
+            "id": 113603,
+            "name": "Ấp Tân Long",
+            "pid": 18008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.117670",
+            "lng": "105.193578"
+        }
+    ],
+    "log_id": "67581736233f67"
+}

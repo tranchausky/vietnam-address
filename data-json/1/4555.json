@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 826561,
+            "name": "Hồ Suối Hai",
+            "pid": 4555,
+            "type": 16,
+            "region": null,
+            "alias": "Hồ suối hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1641909",
+            "lng": "105.35410130000002"
+        },
+        {
+            "id": 807376,
+            "name": "Suối Hai",
+            "pid": 4555,
+            "type": 10,
+            "region": null,
+            "alias": "Suối Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040143",
+            "lng": "105.45660120000002"
+        },
+        {
+            "id": 54070,
+            "name": "Thôn Đông Phượng",
+            "pid": 4555,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Đông Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54054,
+            "name": "Trạm Y Tế Xã Cẩm Lĩnh",
+            "pid": 4555,
+            "type": 6,
+            "region": null,
+            "alias": "Trạm y tế xã Cẩm Lĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb8189868"
+}

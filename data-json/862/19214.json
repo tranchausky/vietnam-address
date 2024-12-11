@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668248,
+            "name": "Ấp Phước An",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.2757514"
+        },
+        {
+            "id": 493949,
+            "name": "Ấp Phước Bình A",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Bình A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 434865,
+            "name": "Ấp Phước Bình B",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Bình B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 873439,
+            "name": "Ấp Phước Chánh",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 668239,
+            "name": "Ấp Phước Đông",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.2757514"
+        },
+        {
+            "id": 668242,
+            "name": "Ấp Phước Hòa",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.2757514"
+        },
+        {
+            "id": 668236,
+            "name": "Ấp Phước Hội A",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hội A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.2757514"
+        },
+        {
+            "id": 493951,
+            "name": "Ấp Phước Hội B",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hội B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 434863,
+            "name": "Ấp Phước Tây",
+            "pid": 19214,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        }
+    ],
+    "log_id": "675909dccc06a671"
+}

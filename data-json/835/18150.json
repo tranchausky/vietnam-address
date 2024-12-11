@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 937394,
+            "name": "Bản Cuôn 2",
+            "pid": 18150,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cuôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2046767",
+            "lng": "105.58261229999994"
+        },
+        {
+            "id": 845875,
+            "name": "Cốc Thử",
+            "pid": 18150,
+            "type": 16,
+            "region": null,
+            "alias": "Cốc Thử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2046767",
+            "lng": "105.58261229999994"
+        },
+        {
+            "id": 845878,
+            "name": "Nà Bưa",
+            "pid": 18150,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Bưa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2046767",
+            "lng": "105.58261229999994"
+        }
+    ],
+    "log_id": "675815c93a69b184"
+}

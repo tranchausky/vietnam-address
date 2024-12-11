@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900919,
+            "name": "Đường Bùi Thị Xuân",
+            "pid": 15274,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Thị Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.444564",
+            "lng": "107.55111629999999"
+        },
+        {
+            "id": 608808,
+            "name": "Đường Nguyệt Biều",
+            "pid": 15274,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyệt Biều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.444564",
+            "lng": "107.55111629999999"
+        }
+    ],
+    "log_id": "67590b2635464890"
+}

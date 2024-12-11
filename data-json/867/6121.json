@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 447621,
+            "name": "Khóm 1",
+            "pid": 6121,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.930417799999999",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 447623,
+            "name": "Khóm 2",
+            "pid": 6121,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.930417799999999",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 447625,
+            "name": "Khóm 3",
+            "pid": 6121,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.930417799999999",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 447627,
+            "name": "Khóm 4",
+            "pid": 6121,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.930417799999999",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 731293,
+            "name": "Ký Túc Xá Đại Học Trà Vinh",
+            "pid": 6121,
+            "type": 17,
+            "region": null,
+            "alias": "Ký Túc Xá Đại Học Trà Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9304178",
+            "lng": "106.34785069999998"
+        }
+    ],
+    "log_id": "67590b43abe07346"
+}

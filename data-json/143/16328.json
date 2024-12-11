@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465485,
+            "name": "Làng Đông Tân An",
+            "pid": 16328,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Đông Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7886387",
+            "lng": "107.3257545"
+        },
+        {
+            "id": 465483,
+            "name": "Làng Tân Tân An",
+            "pid": 16328,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tân Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7886387",
+            "lng": "107.3257545"
+        },
+        {
+            "id": 465481,
+            "name": "Làng Thuận Đầu",
+            "pid": 16328,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Thuận Đầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7886387",
+            "lng": "107.3257545"
+        },
+        {
+            "id": 465487,
+            "name": "Mỹ Thủy",
+            "pid": 16328,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7886387",
+            "lng": "107.3257545"
+        }
+    ],
+    "log_id": "675813bc5f8ec633"
+}

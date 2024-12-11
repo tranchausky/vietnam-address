@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 764437,
+            "name": "Đồng Lâm",
+            "pid": 14587,
+            "type": 18,
+            "region": null,
+            "alias": "đồng Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5884373",
+            "lng": "105.98467690000008"
+        },
+        {
+            "id": 767620,
+            "name": "Tân Thành",
+            "pid": 14587,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5884373",
+            "lng": "105.98467690000008"
+        },
+        {
+            "id": 993803,
+            "name": "Xóm Làng Chàng",
+            "pid": 14587,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Làng Chàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.569084",
+            "lng": "105.979555"
+        }
+    ],
+    "log_id": "67590a09b3005377"
+}

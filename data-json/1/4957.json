@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102377,
+            "name": "Bùng",
+            "pid": 4957,
+            "type": 16,
+            "region": null,
+            "alias": "Bùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6969429",
+            "lng": "105.8715997"
+        },
+        {
+            "id": 102359,
+            "name": "Cầu",
+            "pid": 4957,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6985637",
+            "lng": "105.8620573"
+        },
+        {
+            "id": 102374,
+            "name": "Giới Đức",
+            "pid": 4957,
+            "type": 16,
+            "region": null,
+            "alias": "Giới Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6954257",
+            "lng": "105.8569193"
+        },
+        {
+            "id": 102314,
+            "name": "Nam Chính",
+            "pid": 4957,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7108392",
+            "lng": "105.8547173"
+        },
+        {
+            "id": 102305,
+            "name": "Quan Châm",
+            "pid": 4957,
+            "type": 16,
+            "region": null,
+            "alias": "Quan Châm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7136151",
+            "lng": "105.8521484"
+        },
+        {
+            "id": 102383,
+            "name": "Thần",
+            "pid": 4957,
+            "type": 16,
+            "region": null,
+            "alias": "Thần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7017014",
+            "lng": "105.8671954"
+        },
+        {
+            "id": 55762,
+            "name": "Ubnd Xã Minh Đức",
+            "pid": 4957,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Minh Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd413e7337"
+}

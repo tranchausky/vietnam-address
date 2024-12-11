@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 893017,
+            "name": "Nà Ái",
+            "pid": 17775,
+            "type": 16,
+            "region": null,
+            "alias": "Nà ái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6891841",
+            "lng": "106.92479320000008"
+        },
+        {
+            "id": 714841,
+            "name": "Thôn Nà Miền",
+            "pid": 17775,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nà miền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.714655",
+            "lng": "106.956891"
+        },
+        {
+            "id": 714844,
+            "name": "Thôn Thông May",
+            "pid": 17775,
+            "type": 10,
+            "region": null,
+            "alias": "thôn thông may",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.645153",
+            "lng": "106.931566"
+        }
+    ],
+    "log_id": "6758133f3156d593"
+}

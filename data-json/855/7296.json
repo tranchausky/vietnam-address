@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452081,
+            "name": "Ấp Cả Cát",
+            "pid": 7296,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.799616",
+            "lng": "105.745442"
+        },
+        {
+            "id": 452079,
+            "name": "Ấp Cả Nga",
+            "pid": 7296,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Nga",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.799616",
+            "lng": "105.745442"
+        },
+        {
+            "id": 452083,
+            "name": "Ấp Cả Nổ",
+            "pid": 7296,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Nổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.799616",
+            "lng": "105.745442"
+        },
+        {
+            "id": 452077,
+            "name": "Ấp Cả Sách",
+            "pid": 7296,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Sách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.799616",
+            "lng": "105.745442"
+        }
+    ],
+    "log_id": "67581785460e1427"
+}

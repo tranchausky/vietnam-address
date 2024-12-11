@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 673639,
+            "name": "Đường Âu Cơ",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Âu Cơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7725992",
+            "lng": "106.6494858"
+        },
+        {
+            "id": 679936,
+            "name": "Đường Lạc Long Quân",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lạc Long Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7776759",
+            "lng": "106.6498419"
+        },
+        {
+            "id": 678559,
+            "name": "Đường Lý Thường Kiệt",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thường Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7791647",
+            "lng": "106.6556893"
+        },
+        {
+            "id": 673504,
+            "name": "Đường Nguyễn Thị Nhỏ",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7721937",
+            "lng": "106.6528332"
+        },
+        {
+            "id": 674194,
+            "name": "Đường Tân Trang",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7788241",
+            "lng": "106.6546126"
+        },
+        {
+            "id": 681106,
+            "name": "Đường Thiên Phước",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thiên Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.77704",
+            "lng": "106.6545298"
+        },
+        {
+            "id": 670948,
+            "name": "Đường Trần Văn Hoàng",
+            "pid": 1436,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Văn Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7749063",
+            "lng": "106.6524652"
+        }
+    ],
+    "log_id": "6758129a86936341"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 633027,
+            "name": "Phố Chuối",
+            "pid": 36001,
+            "type": 21,
+            "region": null,
+            "alias": "phố Chuối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7073813",
+            "lng": "106.42733659999999"
+        },
+        {
+            "id": 633021,
+            "name": "Thôn Hà Hương",
+            "pid": 36001,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hà Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7098506",
+            "lng": " 106.43557763501217"
+        },
+        {
+            "id": 633009,
+            "name": "Thôn Lô Đông 1",
+            "pid": 36001,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lô Đông 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7073813",
+            "lng": "106.42733659999999"
+        },
+        {
+            "id": 633012,
+            "name": "Thôn Lô Đông 2",
+            "pid": 36001,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lô Đông 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7073813",
+            "lng": "106.42733659999999"
+        },
+        {
+            "id": 633015,
+            "name": "Thôn Lô Đông 3",
+            "pid": 36001,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lô Đông 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7073813",
+            "lng": "106.42733659999999"
+        },
+        {
+            "id": 633018,
+            "name": "Thôn Lô Đông 4",
+            "pid": 36001,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lô Đông 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7073813",
+            "lng": "106.42733659999999"
+        },
+        {
+            "id": 633024,
+            "name": "Thôn Nhân Lễ",
+            "pid": 36001,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nhân Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7073813",
+            "lng": "106.42733659999999"
+        }
+    ],
+    "log_id": "67581365d8331366"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1006897,
+            "name": "2-40 Hoàng Hoa Thám",
+            "pid": 1390,
+            "type": 29,
+            "region": null,
+            "alias": "2-40 Hoàng Hoa Thám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.818969904796546, 106.69888197052788",
+            "lng": "10.820321, 106.703902"
+        },
+        {
+            "id": 81053,
+            "name": "Bệnh Viện Nhân Dân Gia Định",
+            "pid": 1390,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện Nhân Dân Gia Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8037738",
+            "lng": "106.6941452"
+        },
+        {
+            "id": 677965,
+            "name": "Đường Hoàng Hoa Thám",
+            "pid": 1390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Hoa Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8063178",
+            "lng": "106.6903039"
+        },
+        {
+            "id": 673642,
+            "name": "Đường Lê Quang Định",
+            "pid": 1390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Quang Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8097081",
+            "lng": "106.6927439"
+        },
+        {
+            "id": 683458,
+            "name": "Đường Lê Trực",
+            "pid": 1390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8088621",
+            "lng": "106.689987"
+        },
+        {
+            "id": 678970,
+            "name": "Đường Nguyễn Văn Đậu",
+            "pid": 1390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Đậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8097752",
+            "lng": "106.6895727"
+        },
+        {
+            "id": 676192,
+            "name": "Đường Nơ Trang Long",
+            "pid": 1390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nơ Trang Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.808325",
+            "lng": "106.6950765"
+        },
+        {
+            "id": 671506,
+            "name": "Đường Phan Đăng Lưu",
+            "pid": 1390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đăng Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8032122",
+            "lng": "106.6914556"
+        },
+        {
+            "id": 565921,
+            "name": "Lẻ 5-55 Nơ Trang Long",
+            "pid": 1390,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 5-55 Nơ Trang Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.808222",
+            "lng": "106.694988"
+        }
+    ],
+    "log_id": "6758129b0a1a3753"
+}

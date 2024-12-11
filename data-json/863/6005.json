@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1006816,
+            "name": "230 -288 Trần Thánh Tông",
+            "pid": 6005,
+            "type": 10,
+            "region": null,
+            "alias": "230 -288 Trần Thánh Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.442380409465486",
+            "lng": "106.3372194545369"
+        },
+        {
+            "id": 948199,
+            "name": "Chẵn 6-34 Đường Quang Trung",
+            "pid": 6005,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 6-34 Đường Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.443770",
+            "lng": "106.337087"
+        },
+        {
+            "id": 964376,
+            "name": "Lẻ 305-353 Lý Bôn",
+            "pid": 6005,
+            "type": 10,
+            "region": null,
+            "alias": "lẻ 305-353 lý bôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.447721299145197, ",
+            "lng": "106.33621416425694"
+        },
+        {
+            "id": 411097,
+            "name": "Tổ 1",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 411099,
+            "name": "Tổ 2",
+            "pid": 6005,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 411095,
+            "name": "Tổ 6",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 750220,
+            "name": "Tổ 8",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 750244,
+            "name": "Tổ 8 Mới",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 8 Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 722053,
+            "name": "Tổ 9",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 824092,
+            "name": "Tổ 14",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 14",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        },
+        {
+            "id": 824089,
+            "name": "Tổ 16",
+            "pid": 6005,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 16",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4464594",
+            "lng": "106.33828510000001"
+        }
+    ],
+    "log_id": "675909f3bc922224"
+}

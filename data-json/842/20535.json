@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 849043,
+            "name": "Ban Mo",
+            "pid": 20535,
+            "type": 21,
+            "region": null,
+            "alias": "Ban Mo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8225495",
+            "lng": "105.494688"
+        },
+        {
+            "id": 883297,
+            "name": "Khu 1",
+            "pid": 20535,
+            "type": 21,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8225495",
+            "lng": "105.49468799999998"
+        },
+        {
+            "id": 1016780,
+            "name": "Khu 3 Pác Miầu",
+            "pid": 20535,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3 Pác Miầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.841177",
+            "lng": "105.494002"
+        },
+        {
+            "id": 818137,
+            "name": "Khu Phố 4",
+            "pid": 20535,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8225495",
+            "lng": "105.494688"
+        },
+        {
+            "id": 898198,
+            "name": "Nà Ca",
+            "pid": 20535,
+            "type": 21,
+            "region": null,
+            "alias": "Nà Ca",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8225495",
+            "lng": "105.49468799999998"
+        },
+        {
+            "id": 846037,
+            "name": "Nà Làng",
+            "pid": 20535,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8225495",
+            "lng": "105.49468799999998"
+        }
+    ],
+    "log_id": "675816628282d642"
+}

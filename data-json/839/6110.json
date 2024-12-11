@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91139,
+            "name": "Ấp 1 - Lạc An",
+            "pid": 6110,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1 - Lạc An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0587325",
+            "lng": "106.9230256"
+        },
+        {
+            "id": 91145,
+            "name": "Ấp 2 - Lạc An",
+            "pid": 6110,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 - Lạc An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 91151,
+            "name": "Ấp 3 - Lạc An",
+            "pid": 6110,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 - Lạc An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7133677",
+            "lng": "106.7011475"
+        },
+        {
+            "id": 91154,
+            "name": "Ấp 4 - Lạc An",
+            "pid": 6110,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4 - Lạc An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 91136,
+            "name": "Ấp Giáp Lạc",
+            "pid": 6110,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giáp Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.077544",
+            "lng": "106.852874"
+        }
+    ],
+    "log_id": "6758162186df9369"
+}

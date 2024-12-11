@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 460821,
+            "name": "Thôn Mỹ Thạnh Bắc",
+            "pid": 16215,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.125366",
+            "lng": "108.72813280000003"
+        },
+        {
+            "id": 776185,
+            "name": "Thôn Mỹ Thạnh Đông",
+            "pid": 16215,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.125366",
+            "lng": "108.72813280000004"
+        },
+        {
+            "id": 460819,
+            "name": "Thôn Mỹ Thạnh Nam",
+            "pid": 16215,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.125366",
+            "lng": "108.72813280000003"
+        },
+        {
+            "id": 460823,
+            "name": "Thôn Nam Phước",
+            "pid": 16215,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.125366",
+            "lng": "108.72813280000003"
+        }
+    ],
+    "log_id": "675909a4e239b801"
+}

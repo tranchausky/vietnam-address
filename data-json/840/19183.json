@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109851,
+            "name": "Ấp 1 Minh Tâm",
+            "pid": 19183,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1 minh tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.487155",
+            "lng": "11.592094"
+        },
+        {
+            "id": 109871,
+            "name": "Ấp 2",
+            "pid": 19183,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.543200",
+            "lng": "11.633827"
+        },
+        {
+            "id": 109897,
+            "name": "Ấp 3 Minh Tâm",
+            "pid": 19183,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 minh tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.557098",
+            "lng": "11.629514"
+        },
+        {
+            "id": 109911,
+            "name": "Ấp 4",
+            "pid": 19183,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.509441",
+            "lng": "11.628295"
+        }
+    ],
+    "log_id": "6758163798b39249"
+}

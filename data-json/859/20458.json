@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641782,
+            "name": "Tổ Dân Phố Hương An",
+            "pid": 20458,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố Hương An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.774172425243398",
+            "lng": "108.33413606440939"
+        },
+        {
+            "id": 641785,
+            "name": "Tổ Dân Phố Hương An Đông",
+            "pid": 20458,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố Hương An Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.781938747585997",
+            "lng": "108.32818645506482"
+        }
+    ],
+    "log_id": "675817e1aeb5e912"
+}

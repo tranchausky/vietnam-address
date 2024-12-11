@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 2049,
+            "name": "Huyện Bình Tân",
+            "pid": 868,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bình Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1218894",
+            "lng": "105.77288629999998"
+        },
+        {
+            "id": 2050,
+            "name": "Huyện Long Hồ",
+            "pid": 868,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Long Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1980682",
+            "lng": "105.94648740000002"
+        },
+        {
+            "id": 2051,
+            "name": "Huyện Mang Thít",
+            "pid": 868,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Mang Thít",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.18076",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 2052,
+            "name": "Huyện Tam Bình",
+            "pid": 868,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tam Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0679356",
+            "lng": "105.94648740000002"
+        },
+        {
+            "id": 2053,
+            "name": "Huyện Trà Ôn",
+            "pid": 868,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Trà Ôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9789961",
+            "lng": "105.99349099999995"
+        },
+        {
+            "id": 2054,
+            "name": "Huyện Vũng Liêm",
+            "pid": 868,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Vũng Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.058632",
+            "lng": "106.1345705"
+        },
+        {
+            "id": 2055,
+            "name": "Thành Phố Vĩnh Long",
+            "pid": 868,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Vĩnh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2448442",
+            "lng": "105.95886500000006"
+        },
+        {
+            "id": 8097,
+            "name": "Thị Xã Bình Minh",
+            "pid": 868,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Bình Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0861281",
+            "lng": "106.01699710000003"
+        }
+    ],
+    "log_id": "67590b592ca37670"
+}

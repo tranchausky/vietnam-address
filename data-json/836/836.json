@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1506,
+            "name": "Huyện Đông Hải",
+            "pid": 836,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.163064199999999",
+            "lng": "105.45367179999994"
+        },
+        {
+            "id": 1508,
+            "name": "Huyện Hòa Bình",
+            "pid": 836,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2704595",
+            "lng": "105.58973860000003"
+        },
+        {
+            "id": 1509,
+            "name": "Huyện Hồng Dân",
+            "pid": 836,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hồng Dân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.553902899999999",
+            "lng": "105.45204999999999"
+        },
+        {
+            "id": 1510,
+            "name": "Huyện Phước Long",
+            "pid": 836,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phước Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4006715",
+            "lng": "105.43023829999993"
+        },
+        {
+            "id": 1511,
+            "name": "Huyện Vĩnh Lợi",
+            "pid": 836,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Vĩnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3450296",
+            "lng": "105.71164640000006"
+        },
+        {
+            "id": 1512,
+            "name": "Thành Phố Bạc Liêu",
+            "pid": 836,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Bạc Liêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2573324",
+            "lng": "105.75577909999993"
+        },
+        {
+            "id": 8033,
+            "name": "Thị Xã Giá Rai",
+            "pid": 836,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Giá Rai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.260136",
+            "lng": "105.37531289999993"
+        }
+    ],
+    "log_id": "675815e147a6d373"
+}

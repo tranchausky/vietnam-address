@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 706243,
+            "name": "Thôn Cầu Khoai",
+            "pid": 14904,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Khoai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.626987",
+            "lng": "105.359771"
+        },
+        {
+            "id": 706258,
+            "name": "Thôn Cây Nhội",
+            "pid": 14904,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cây Nhội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.626987",
+            "lng": "105.359771"
+        },
+        {
+            "id": 706273,
+            "name": "Thôn Lục Liêu",
+            "pid": 14904,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lục Liêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.626987",
+            "lng": "105.359771"
+        },
+        {
+            "id": 706282,
+            "name": "Thôn Tân Thành",
+            "pid": 14904,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.626987",
+            "lng": "105.359771"
+        },
+        {
+            "id": 844744,
+            "name": "Yên Thường Trung Yen",
+            "pid": 14904,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Thường Trung Yen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        }
+    ],
+    "log_id": "6758138a2ccbf249"
+}

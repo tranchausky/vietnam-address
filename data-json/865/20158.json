@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558375,
+            "name": "Thôn Giữa",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558373,
+            "name": "Thôn Hậu",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558381,
+            "name": "Thôn Phú Đa",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558385,
+            "name": "Thôn Phú Ninh",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558383,
+            "name": "Thôn Phú Thịnh",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558377,
+            "name": "Thôn Thuần Nhất",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuần Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558371,
+            "name": "Thôn Trước",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 558379,
+            "name": "Thôn Xuân Yên",
+            "pid": 20158,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.918422",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 972654,
+            "name": "Trường Thpt Hậu Lộc 1",
+            "pid": 20158,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Hậu Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.926801265372397",
+            "lng": "105.9182357365516"
+        }
+    ],
+    "log_id": "67590a2304a4a778"
+}

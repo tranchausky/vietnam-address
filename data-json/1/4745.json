@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 867565,
+            "name": "Ao Vôi",
+            "pid": 4745,
+            "type": 16,
+            "region": null,
+            "alias": "Ao Vôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7924684",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 867562,
+            "name": "Phố Bóng",
+            "pid": 4745,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Bóng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7924684",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 98042,
+            "name": "Thôn An Cốc",
+            "pid": 4745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.796783",
+            "lng": "105.826563"
+        },
+        {
+            "id": 98051,
+            "name": "Thôn Hòa Mỹ",
+            "pid": 4745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.792793",
+            "lng": "105.824186"
+        },
+        {
+            "id": 100247,
+            "name": "Thôn Phù Bật",
+            "pid": 4745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Bật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.79200871318316,",
+            "lng": " 105.81756601447984"
+        },
+        {
+            "id": 100259,
+            "name": "Thôn Tân Độ",
+            "pid": 4745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.79121743781318,",
+            "lng": " 105.81918651253119"
+        }
+    ],
+    "log_id": "675811bcd3a3b237"
+}

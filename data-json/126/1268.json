@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011009,
+            "name": "315-331 Lê Văn Sỹ",
+            "pid": 1268,
+            "type": 29,
+            "region": null,
+            "alias": "315-331 Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7868278",
+            "lng": "106.6769701"
+        },
+        {
+            "id": 896899,
+            "name": "Chẵn 2-46 Trần Quang Diệu",
+            "pid": 1268,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 2-46 Trần Quang Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7846499",
+            "lng": "106.678402"
+        },
+        {
+            "id": 670714,
+            "name": "Đường Lê Văn Sỹ",
+            "pid": 1268,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.78766",
+            "lng": "106.6782872"
+        },
+        {
+            "id": 676861,
+            "name": "Đường Trần Quang Diệu",
+            "pid": 1268,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quang Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7869494",
+            "lng": "106.6783027"
+        },
+        {
+            "id": 678541,
+            "name": "Đường Trường Sa",
+            "pid": 1268,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7862661",
+            "lng": "106.6807942"
+        }
+    ],
+    "log_id": "6758129ae13b8881"
+}

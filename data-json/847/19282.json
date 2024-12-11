@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 842779,
+            "name": "Buôn Broái",
+            "pid": 19282,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Broái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.384213",
+            "lng": "108.498304"
+        },
+        {
+            "id": 626301,
+            "name": "Thôn Buôn Chứ",
+            "pid": 19282,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Buôn Chứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.384213",
+            "lng": "108.498304"
+        },
+        {
+            "id": 626304,
+            "name": "Thôn Buôn Niu",
+            "pid": 19282,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Niu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.384213",
+            "lng": "108.498304"
+        },
+        {
+            "id": 626298,
+            "name": "Thôn Buôn Ố",
+            "pid": 19282,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Ố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.384213",
+            "lng": "108.498304"
+        },
+        {
+            "id": 626307,
+            "name": "Thôn Buôn Tul",
+            "pid": 19282,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn tul",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.384213",
+            "lng": "108.498304"
+        }
+    ],
+    "log_id": "675816d37025c258"
+}

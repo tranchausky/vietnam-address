@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 771154,
+            "name": "Nghè",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Nghè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8244858",
+            "lng": "106.27869370000008"
+        },
+        {
+            "id": 652099,
+            "name": "Thôn Cáy",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cáy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.820924",
+            "lng": "106.279317"
+        },
+        {
+            "id": 652090,
+            "name": "Thôn Đĩnh Đào",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đĩnh Đào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.824349",
+            "lng": "106.279017"
+        },
+        {
+            "id": 652060,
+            "name": "Thôn Đươi",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đươi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.833093",
+            "lng": "106.277387"
+        },
+        {
+            "id": 652072,
+            "name": "Thôn Lúa",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lúa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.838212",
+            "lng": "106.279791"
+        },
+        {
+            "id": 652105,
+            "name": "Thôn Tháng",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tháng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.820924",
+            "lng": "106.279317"
+        },
+        {
+            "id": 652096,
+            "name": "Thôn Thung Độ",
+            "pid": 7089,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thung Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.820924",
+            "lng": "106.279317"
+        }
+    ],
+    "log_id": "675813f1ac5ba831"
+}

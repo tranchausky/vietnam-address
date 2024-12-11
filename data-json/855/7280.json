@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 499041,
+            "name": "Ấp Lộc Hậu",
+            "pid": 7280,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.613144",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 499037,
+            "name": "Ấp Lộc Tiền",
+            "pid": 7280,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Tiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.613144",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 499039,
+            "name": "Ấp Lộc Trung",
+            "pid": 7280,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.613144",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 85487,
+            "name": "Ấp Thanh Ba",
+            "pid": 7280,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.610745",
+            "lng": "106.637006"
+        },
+        {
+            "id": 916534,
+            "name": "Kế Mỹ",
+            "pid": 7280,
+            "type": 17,
+            "region": null,
+            "alias": "Kế Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.613144",
+            "lng": "106.63502500000004"
+        }
+    ],
+    "log_id": "6758178535d10815"
+}

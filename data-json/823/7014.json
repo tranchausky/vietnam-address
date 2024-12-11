@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94079,
+            "name": "Ấp 1",
+            "pid": 7014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.209572",
+            "lng": "107.348552"
+        },
+        {
+            "id": 94082,
+            "name": "Ấp 2",
+            "pid": 7014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.224768",
+            "lng": "107.392170"
+        },
+        {
+            "id": 94106,
+            "name": "Ấp 3",
+            "pid": 7014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.223398",
+            "lng": "107.377435"
+        },
+        {
+            "id": 94112,
+            "name": "Ấp 4",
+            "pid": 7014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.234871",
+            "lng": "107.393543"
+        },
+        {
+            "id": 94130,
+            "name": "Ấp 5",
+            "pid": 7014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.207644",
+            "lng": "107.365486"
+        },
+        {
+            "id": 94139,
+            "name": "Ấp 6",
+            "pid": 7014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.206103543589919",
+            "lng": "11.206103543589919,107.36309888141551"
+        }
+    ],
+    "log_id": "675814dd52679856"
+}

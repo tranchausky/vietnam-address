@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 701404,
+            "name": "Tổ 9",
+            "pid": 16640,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8823304",
+            "lng": "105.38923720000004"
+        },
+        {
+            "id": 839980,
+            "name": "Xóm Nút",
+            "pid": 16640,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nút",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8823304",
+            "lng": "105.38923720000004"
+        }
+    ],
+    "log_id": "6758172122563399"
+}

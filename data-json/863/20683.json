@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410513,
+            "name": "Thôn Khúc Mai",
+            "pid": 20683,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khúc Mai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5540762",
+            "lng": "106.44353189999993"
+        },
+        {
+            "id": 410515,
+            "name": "Thôn Thanh Do",
+            "pid": 20683,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Do",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5540762",
+            "lng": "106.44353189999993"
+        },
+        {
+            "id": 410509,
+            "name": "Thôn Vô Hối Đông",
+            "pid": 20683,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vô Hối Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5540762",
+            "lng": "106.44353189999993"
+        },
+        {
+            "id": 410511,
+            "name": "Thôn Vô Hối Tây",
+            "pid": 20683,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vô Hối Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5540762",
+            "lng": "106.44353189999993"
+        }
+    ],
+    "log_id": "675909f3b561b717"
+}

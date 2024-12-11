@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97055,
+            "name": "Ấp Rừng Dầu-Xã Mỹ Hạnh Bắc",
+            "pid": 20948,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rừng Dầu-Xã Mỹ Hạnh Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.878863",
+            "lng": "106.490771"
+        },
+        {
+            "id": 87023,
+            "name": "Ấp Rừng Sến- Xã Mỹ Hạnh Bắc",
+            "pid": 20948,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rừng Sến- Xã Mỹ Hạnh Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.902887",
+            "lng": "106.482539"
+        },
+        {
+            "id": 115279,
+            "name": "Ấp Tràm Lạc-Xã Mỹ Hạnh Bắc",
+            "pid": 20948,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tràm Lạc-Xã Mỹ Hạnh Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.900505",
+            "lng": "106.521874"
+        },
+        {
+            "id": 992408,
+            "name": "Cổng Văn Hóa Ấp Rừng Dầu",
+            "pid": 20948,
+            "type": 17,
+            "region": null,
+            "alias": "Cổng văn hóa ấp Rừng Dầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.875619162064001",
+            "lng": "106.5159708677790012"
+        },
+        {
+            "id": 87017,
+            "name": "Kcn Xuyên Á",
+            "pid": 20948,
+            "type": 17,
+            "region": null,
+            "alias": "KCN Xuyên Á",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.880722",
+            "lng": "106.523374"
+        },
+        {
+            "id": 1009447,
+            "name": "Xuyên Á",
+            "pid": 20948,
+            "type": 17,
+            "region": null,
+            "alias": "Xuyên Á",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.887841652337615",
+            "lng": "106.52568180701465"
+        }
+    ],
+    "log_id": "675817850e0d1732"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011841,
+            "name": "Bến Phà Gia Luận",
+            "pid": 23886,
+            "type": 16,
+            "region": null,
+            "alias": "Bến Phà Gia Luận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8586695",
+            "lng": "106.9798604"
+        },
+        {
+            "id": 996069,
+            "name": "Thôn 1",
+            "pid": 23886,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.81212341753893",
+            "lng": "106.98187987288145"
+        },
+        {
+            "id": 996068,
+            "name": "Thôn 2",
+            "pid": 23886,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.83110793614612",
+            "lng": "106.96972768623061"
+        },
+        {
+            "id": 1011887,
+            "name": "Vườn Quốc Gia Cát Bà",
+            "pid": 23886,
+            "type": 16,
+            "region": null,
+            "alias": "Vườn Quốc Gia Cát Bà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8087431",
+            "lng": "106.998013"
+        }
+    ],
+    "log_id": "67581366153f494"
+}

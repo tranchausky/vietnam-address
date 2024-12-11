@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410411,
+            "name": "Thôn An Dân",
+            "pid": 20685,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Dân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5737588",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410407,
+            "name": "Thôn An Tiêm",
+            "pid": 20685,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Tiêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5737588",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410409,
+            "name": "Thôn Vọng Lỗ",
+            "pid": 20685,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vọng Lỗ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5737588",
+            "lng": "106.4788714"
+        }
+    ],
+    "log_id": "675909f3be61033"
+}

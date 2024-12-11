@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616761,
+            "name": "Thôn Đồng Lê",
+            "pid": 21213,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Lê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9041992",
+            "lng": "105.9876149"
+        },
+        {
+            "id": 616764,
+            "name": "Thôn Quảng Hoá",
+            "pid": 21213,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Hoá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9041992",
+            "lng": "105.9876149"
+        },
+        {
+            "id": 616767,
+            "name": "Thôn Thượng Phong",
+            "pid": 21213,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9041992",
+            "lng": "105.9876149"
+        },
+        {
+            "id": 616770,
+            "name": "Thôn Tiền Phong",
+            "pid": 21213,
+            "type": 22,
+            "region": null,
+            "alias": "Thôn Tiền Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9041992",
+            "lng": "105.9876149"
+        },
+        {
+            "id": 616773,
+            "name": "Thôn Yên Xuân",
+            "pid": 21213,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9041992",
+            "lng": "105.9876149"
+        }
+    ],
+    "log_id": "675814aa169b1167"
+}

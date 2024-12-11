@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 968400,
+            "name": "Bệnh Viện Đa Khoa Đồng Nai",
+            "pid": 6940,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh Viện Đa Khoa Đồng Nai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.952851695901272",
+            "lng": "106.86786788419604"
+        },
+        {
+            "id": 988869,
+            "name": "Chi Cục Thú Y",
+            "pid": 6940,
+            "type": 4,
+            "region": null,
+            "alias": "Chi cục thú y",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.956489831177588",
+            "lng": "106.86208178644374"
+        },
+        {
+            "id": 968403,
+            "name": "Chưng Cư Cường Thuận",
+            "pid": 6940,
+            "type": 4,
+            "region": null,
+            "alias": "Chưng Cư Cường Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.953728589564331",
+            "lng": "106.86518839429156"
+        },
+        {
+            "id": 983,
+            "name": "Chung Cư Sơn An",
+            "pid": 6940,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư Sơn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.954043",
+            "lng": "106.865004"
+        },
+        {
+            "id": 11549,
+            "name": "Cục Hải Quan Đồng Nai",
+            "pid": 6940,
+            "type": 4,
+            "region": null,
+            "alias": "Cục Hải Quan Đồng Nai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.955138",
+            "lng": "106.865104"
+        },
+        {
+            "id": 806614,
+            "name": "Đài Phát Thanh Đồng Nai",
+            "pid": 6940,
+            "type": 4,
+            "region": null,
+            "alias": "Đài Phát Thanh Đồng Nai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9469591",
+            "lng": "106.86575719999996"
+        },
+        {
+            "id": 77598,
+            "name": "Giáo Xứ Bùi Thái",
+            "pid": 6940,
+            "type": 4,
+            "region": null,
+            "alias": "Giáo xứ Bùi Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.943365",
+            "lng": "106.863827"
+        },
+        {
+            "id": 93200,
+            "name": "Khu Phố 1 - P. Tam Hòa",
+            "pid": 6940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - P. Tam Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9419963",
+            "lng": "106.8634047"
+        },
+        {
+            "id": 93215,
+            "name": "Khu Phố 2 - P. Tam Hòa",
+            "pid": 6940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - P. Tam Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9664588",
+            "lng": "106.860892"
+        },
+        {
+            "id": 93221,
+            "name": "Khu Phố 3 - P. Tam Hòa",
+            "pid": 6940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - P. Tam Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9543823",
+            "lng": "106.8492909"
+        }
+    ],
+    "log_id": "675814dd5f59f429"
+}

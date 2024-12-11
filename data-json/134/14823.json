@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 835585,
+            "name": "Bản Hẻo",
+            "pid": 14823,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hẻo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9761722",
+            "lng": "106.57461239999998"
+        },
+        {
+            "id": 835594,
+            "name": "Nà Chả",
+            "pid": 14823,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Chả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9761722",
+            "lng": "106.57461239999998"
+        },
+        {
+            "id": 835582,
+            "name": "Nà Lắc",
+            "pid": 14823,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9761722",
+            "lng": "106.57461239999998"
+        },
+        {
+            "id": 919165,
+            "name": "Phù Huê",
+            "pid": 14823,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Huê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9761722",
+            "lng": "106.57461239999998"
+        }
+    ],
+    "log_id": "6758133f1b5b3509"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102845,
+            "name": "Ấp Cảng",
+            "pid": 7600,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525164",
+            "lng": "106.199423"
+        },
+        {
+            "id": 102881,
+            "name": "Ấp Đầu Giồng",
+            "pid": 7600,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đầu Giồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.516382",
+            "lng": "106.193984"
+        },
+        {
+            "id": 102902,
+            "name": "Ấp Giồng Chùa",
+            "pid": 7600,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.505591",
+            "lng": "106.199671"
+        }
+    ],
+    "log_id": "675909c166f479"
+}

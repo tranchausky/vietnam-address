@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 419727,
+            "name": "Đaại Từ",
+            "pid": 15377,
+            "type": 18,
+            "region": null,
+            "alias": "Đaại Từ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8060283",
+            "lng": "105.72044759999994"
+        },
+        {
+            "id": 419731,
+            "name": "Đà Ninh",
+            "pid": 15377,
+            "type": 18,
+            "region": null,
+            "alias": "Đà Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8060283",
+            "lng": "105.72044759999994"
+        },
+        {
+            "id": 419725,
+            "name": "Thôn Ngọc Lậu",
+            "pid": 15377,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Ngọc Lậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8060283",
+            "lng": "105.72044759999994"
+        }
+    ],
+    "log_id": "67590a23b8c75669"
+}

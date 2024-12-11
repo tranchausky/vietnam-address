@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 967331,
+            "name": "Đường Chí Sinh - Khu Vực Phú Thuận",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chí Sinh - Khu vực Phú Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.976402834",
+            "lng": "105.8194138"
+        },
+        {
+            "id": 70312,
+            "name": "Khu Công Nghiệp Hưng Phú 1 - Khu Vực Phú Thạnh",
+            "pid": 7919,
+            "type": 5,
+            "region": null,
+            "alias": "Khu công nghiệp Hưng Phú 1 - Khu vực Phú Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9883974",
+            "lng": "105.8179281"
+        },
+        {
+            "id": 565825,
+            "name": "Khu Vực Phú Lợi",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.965682",
+            "lng": "105.807271"
+        },
+        {
+            "id": 565822,
+            "name": "Khu Vực Phú Tân",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.973912",
+            "lng": "105.816362"
+        },
+        {
+            "id": 565816,
+            "name": "Khu Vực Phú Thắng",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.982626",
+            "lng": "105.823365"
+        },
+        {
+            "id": 846094,
+            "name": "Khu Vực Phú Thành",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.979891",
+            "lng": "105.820143"
+        },
+        {
+            "id": 565807,
+            "name": "Khu Vực Phú Thạnh",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9765574",
+            "lng": "105.8128443"
+        },
+        {
+            "id": 565813,
+            "name": "Khu Vực Phú Thuận",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.980607",
+            "lng": "105.811289"
+        },
+        {
+            "id": 565819,
+            "name": "Khu Vực Phú Thuận A",
+            "pid": 7919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phú Thuận A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.979800",
+            "lng": "105.810464"
+        }
+    ],
+    "log_id": "6758140cc633d178"
+}

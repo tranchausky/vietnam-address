@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435213,
+            "name": "Ấp Bến Cừ",
+            "pid": 16027,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bến Cừ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.225295",
+            "lng": "106.03197739999996"
+        },
+        {
+            "id": 435211,
+            "name": "Ấp Gò Nổi",
+            "pid": 16027,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Gò Nổi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.225295",
+            "lng": "106.03197739999996"
+        },
+        {
+            "id": 435209,
+            "name": "Ấp Trà Sim",
+            "pid": 16027,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Trà Sim",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.225295",
+            "lng": "106.03197739999996"
+        }
+    ],
+    "log_id": "675909dceb230380"
+}

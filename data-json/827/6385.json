@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995239,
+            "name": "Khu 1, Bồ Sao, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "khu 1, Bồ Sao, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.268757884749395",
+            "lng": "105.44902170634641"
+        },
+        {
+            "id": 995241,
+            "name": "Khu 1- Bồ Sao- Vĩnh Tường- Vĩnh Phúc",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "khu 1- Bồ Sao- Vĩnh Tường- Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.268797877087366",
+            "lng": "105.4492362830539"
+        },
+        {
+            "id": 995242,
+            "name": "Khu 2, Bồ Sao, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "khu 2, Bồ Sao, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.26915780764007",
+            "lng": "105.4491933677124"
+        },
+        {
+            "id": 761473,
+            "name": "Khu Chợ",
+            "pid": 6385,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424235,
+            "name": "Thôn Chùa",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424237,
+            "name": "Thôn Đình",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 734902,
+            "name": "Thôn Đồi",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đồi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 761476,
+            "name": "Thôn Máy Gạch",
+            "pid": 6385,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Máy Gạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424233,
+            "name": "Thôn Mới",
+            "pid": 6385,
+            "type": 10,
+            "region": null,
+            "alias": "thôn mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        }
+    ],
+    "log_id": "675815337bb17863"
+}

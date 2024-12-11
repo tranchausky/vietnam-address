@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566092,
+            "name": "Thôn La Cầu",
+            "pid": 6804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4810915",
+            "lng": "105.9964291"
+        },
+        {
+            "id": 566089,
+            "name": "Thôn Lương Ý́",
+            "pid": 6804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Ý́",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4810915",
+            "lng": "105.9964291"
+        },
+        {
+            "id": 566077,
+            "name": "Thôn Thượng Thọ",
+            "pid": 6804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4810915",
+            "lng": "105.9964291"
+        },
+        {
+            "id": 566083,
+            "name": "Thôn Văn Phú",
+            "pid": 6804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4810915",
+            "lng": "105.9964291"
+        }
+    ],
+    "log_id": "6758142832098660"
+}

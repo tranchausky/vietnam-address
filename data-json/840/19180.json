@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109479,
+            "name": "Ấp An Tân",
+            "pid": 19180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.512460",
+            "lng": "11.664050"
+        },
+        {
+            "id": 109817,
+            "name": "Ấp Bình Phú",
+            "pid": 19180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.553318",
+            "lng": "11.665693"
+        },
+        {
+            "id": 109051,
+            "name": "Ấp Phố Lố",
+            "pid": 19180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phố Lố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.535463",
+            "lng": "11.676595"
+        },
+        {
+            "id": 109765,
+            "name": "Ấp Sóc Rul",
+            "pid": 19180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Rul",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.533328",
+            "lng": "11.665279"
+        },
+        {
+            "id": 109569,
+            "name": "Ấp Tằng Hách",
+            "pid": 19180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tằng Hách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.534090",
+            "lng": "11.675082"
+        }
+    ],
+    "log_id": "67581637953d822"
+}

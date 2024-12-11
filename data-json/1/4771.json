@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118203,
+            "name": "Cụm 2 Hương Tảo",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 2 Hương Tảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.096247,",
+            "lng": "105.6026164"
+        },
+        {
+            "id": 118205,
+            "name": "Cụm 4 Hương Vĩnh",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 4 Hương Vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0974791",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 984965,
+            "name": "Cụm 5",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.092209",
+            "lng": "105.598927"
+        },
+        {
+            "id": 984973,
+            "name": "Cụm 6 Phú Thịnh",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 6 Phú Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.097562",
+            "lng": "105.598142"
+        },
+        {
+            "id": 984978,
+            "name": "Cụm 7",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.094397",
+            "lng": "105.607822"
+        },
+        {
+            "id": 984984,
+            "name": "Cụm 8",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.089288",
+            "lng": "105.607670"
+        },
+        {
+            "id": 984987,
+            "name": "Cụm 9",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.083996",
+            "lng": "105.598742"
+        },
+        {
+            "id": 984992,
+            "name": "Cụm 10",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.087811",
+            "lng": "105.594831"
+        },
+        {
+            "id": 118213,
+            "name": "Giáo Hạ",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Giáo Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0974791",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 118223,
+            "name": "Ngọc Tảo",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0974791",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 118199,
+            "name": "Phú Mỹ",
+            "pid": 4771,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1127738",
+            "lng": "105.6024012"
+        },
+        {
+            "id": 53422,
+            "name": "Thpt Ngọc Tảo",
+            "pid": 4771,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Ngọc Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 55090,
+            "name": "Ubnd Xã Ngọc Tảo",
+            "pid": 4771,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Ngọc Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc46e9d366"
+}

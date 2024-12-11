@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639357,
+            "name": "Thôn Cầu Gỗ",
+            "pid": 17700,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Gỗ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8794709",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639351,
+            "name": "Thôn Làng Chằm",
+            "pid": 17700,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Chằm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8794709",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639348,
+            "name": "Thôn Làng Ngà",
+            "pid": 17700,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Ngà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8794709",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639354,
+            "name": "Thôn Làng Tó",
+            "pid": 17700,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Tó",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8794709",
+            "lng": "106.30811940000001"
+        }
+    ],
+    "log_id": "675813f1ba302137"
+}

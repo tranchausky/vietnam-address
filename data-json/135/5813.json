@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 849220,
+            "name": "Chiêu Chinh",
+            "pid": 5813,
+            "type": 18,
+            "region": null,
+            "alias": "Chiêu Chinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8059874",
+            "lng": "106.64386730000001"
+        },
+        {
+            "id": 980969,
+            "name": "Đất Đỏ",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 980971,
+            "name": "Đông Sơn",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Đông Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 858130,
+            "name": "Kha Lâm",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Kha Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8059874",
+            "lng": "106.6438673"
+        },
+        {
+            "id": 980968,
+            "name": "Lê Tảo",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 887635,
+            "name": "Nguyễn Mẫn",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Mẫn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8059874",
+            "lng": "106.6438673"
+        },
+        {
+            "id": 636501,
+            "name": "Sư Đoàn 363",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Sư đoàn 363",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8059874",
+            "lng": "106.64386730000001"
+        },
+        {
+            "id": 980930,
+            "name": "Trần Nhân Tông",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Nhân Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980967,
+            "name": "Trần Nhân Tông",
+            "pid": 5813,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Nhân Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675813661d15c238"
+}

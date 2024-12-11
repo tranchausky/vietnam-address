@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1012677,
+            "name": "Thị Trấn Trung Phước",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Trung Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718022678914897",
+            "lng": "108.05882017375973"
+        },
+        {
+            "id": 84341,
+            "name": "Xã Ninh Phước",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ninh Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.672091",
+            "lng": "107.999989"
+        },
+        {
+            "id": 22130,
+            "name": "Xã Phước Ninh",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phước Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6926668",
+            "lng": "107.9413323"
+        },
+        {
+            "id": 22131,
+            "name": "Xã Quế Lâm",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quế Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6146322",
+            "lng": "107.92948150000007"
+        },
+        {
+            "id": 22132,
+            "name": "Xã Quế Lộc",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quế Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6786107",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 22133,
+            "name": "Xã Quế Ninh",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quế Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6600699",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 22135,
+            "name": "Xã Quế Trung",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quế Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7277906",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 22136,
+            "name": "Xã Sơn Viên",
+            "pid": 1892,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sơn Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7155774",
+            "lng": "108.13693749999993"
+        }
+    ],
+    "log_id": "675817e1636f9528"
+}

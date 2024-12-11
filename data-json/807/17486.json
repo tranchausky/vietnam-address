@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397605,
+            "name": "Đại Bái",
+            "pid": 17486,
+            "type": 16,
+            "region": null,
+            "alias": "đại bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4183399",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 397603,
+            "name": "Nham Kênh",
+            "pid": 17486,
+            "type": 16,
+            "region": null,
+            "alias": "nham kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4183399",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 397609,
+            "name": "Thanh Sơn",
+            "pid": 17486,
+            "type": 16,
+            "region": null,
+            "alias": "thanh sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4183399",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 397607,
+            "name": "Thôn Đại Kênh",
+            "pid": 17486,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đại Kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4183399",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 397601,
+            "name": "Thôn Thanh Bồng",
+            "pid": 17486,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thanh bồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4183399",
+            "lng": "105.89362240000003"
+        }
+    ],
+    "log_id": "6758142806837572"
+}

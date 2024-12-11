@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1008240,
+            "name": "Thôn Chản",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.710041617673152",
+            "lng": "105.89641773044899"
+        },
+        {
+            "id": 98957,
+            "name": "Thôn Chính",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.714590",
+            "lng": "105.896101"
+        },
+        {
+            "id": 98942,
+            "name": "Thôn Cựu",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.708593",
+            "lng": "105.889317"
+        },
+        {
+            "id": 98054,
+            "name": "Thôn Thượng",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.723414",
+            "lng": "105.883530"
+        },
+        {
+            "id": 98048,
+            "name": "Thôn Từ Thuận",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Từ Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.715346",
+            "lng": "105.886579"
+        },
+        {
+            "id": 98045,
+            "name": "Thôn Ứng Cử",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ứng Cử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.718783",
+            "lng": "105.880324"
+        },
+        {
+            "id": 98039,
+            "name": "Thôn Vực",
+            "pid": 4764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.719340",
+            "lng": "105.891176"
+        }
+    ],
+    "log_id": "675811bcd5108877"
+}

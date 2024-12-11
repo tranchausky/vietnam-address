@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112765,
+            "name": "Ấp Năm Trại",
+            "pid": 16015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Năm Trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.250044",
+            "lng": "106.170178"
+        },
+        {
+            "id": 112735,
+            "name": "Ấp Trường Ân",
+            "pid": 16015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Ân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.225109",
+            "lng": "106.149831"
+        },
+        {
+            "id": 112785,
+            "name": "Ấp Trường Đức",
+            "pid": 16015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.220367",
+            "lng": "106.149084"
+        },
+        {
+            "id": 112719,
+            "name": "Ấp Trường Lưu",
+            "pid": 16015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Lưu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.248073",
+            "lng": "106.167284"
+        },
+        {
+            "id": 112753,
+            "name": "Ấp Trường Phú",
+            "pid": 16015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.241605",
+            "lng": "106.172619"
+        }
+    ],
+    "log_id": "675909dce4fc0499"
+}

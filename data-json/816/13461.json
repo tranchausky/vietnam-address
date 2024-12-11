@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762925,
+            "name": "Chương Xá",
+            "pid": 13461,
+            "type": 16,
+            "region": null,
+            "alias": "Chương Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7898117",
+            "lng": "106.03756729999998"
+        },
+        {
+            "id": 630057,
+            "name": "Thôn Đồng An",
+            "pid": 13461,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7898117",
+            "lng": "106.03756729999998"
+        },
+        {
+            "id": 630051,
+            "name": "Thôn Nghĩa Giang",
+            "pid": 13461,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nghĩa giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7898117",
+            "lng": "106.03756729999998"
+        }
+    ],
+    "log_id": "675814910cf35989"
+}

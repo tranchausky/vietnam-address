@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 655237,
+            "name": "An Biên",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "An Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6591704126553",
+            "lng": "106.45735226707694"
+        },
+        {
+            "id": 655246,
+            "name": "Hoàng Kênh",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.650730208936693",
+            "lng": "106.45956159591276"
+        },
+        {
+            "id": 655243,
+            "name": "Kênh Trạch",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "Kênh Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.659874078055836",
+            "lng": "106.44931922474916"
+        },
+        {
+            "id": 655252,
+            "name": "Kênh Vàng",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "Kênh Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.662758058044552",
+            "lng": "106.45536829591303"
+        },
+        {
+            "id": 831814,
+            "name": "Kê Sơn 1",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "Kê Sơn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6627452",
+            "lng": "106.4553111"
+        },
+        {
+            "id": 655231,
+            "name": "Kê Sơn 2",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "Kê Sơn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.660158522180758",
+            "lng": "106.45592925358523"
+        },
+        {
+            "id": 1011826,
+            "name": "Tứ Duy",
+            "pid": 6736,
+            "type": 16,
+            "region": null,
+            "alias": "Tứ Duy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.665164347973203",
+            "lng": "106.4655362959131"
+        }
+    ],
+    "log_id": "67581365ccffe211"
+}

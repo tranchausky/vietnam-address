@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 826921,
+            "name": "Khu Tập Thể Quân Đội 108",
+            "pid": 26129,
+            "type": 10,
+            "region": null,
+            "alias": "khu tập thể Quân Đội 108",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8614762",
+            "lng": "106.71019580000006"
+        },
+        {
+            "id": 948567,
+            "name": "Tập Thể Sắt Tráng Men",
+            "pid": 26129,
+            "type": 10,
+            "region": null,
+            "alias": "Tập thể sắt tráng men",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.869410660554127",
+            "lng": "106.71168487694761"
+        }
+    ],
+    "log_id": "67581365ec4f4138"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603099,
+            "name": "Thôn Đầu Suối A",
+            "pid": 15762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đầu Suối A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8102445",
+            "lng": "109.03343180000001"
+        },
+        {
+            "id": 603102,
+            "name": "Thôn Đầu Suối B",
+            "pid": 15762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đầu Suối B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8102445",
+            "lng": "109.03343180000001"
+        },
+        {
+            "id": 603108,
+            "name": "Thôn Động Thông",
+            "pid": 15762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Động Thông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8102445",
+            "lng": "109.03343180000001"
+        },
+        {
+            "id": 603111,
+            "name": "Thôn Ma Trai",
+            "pid": 15762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Trai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8102445",
+            "lng": "109.03343180000001"
+        },
+        {
+            "id": 603105,
+            "name": "Thôn Tập Lá",
+            "pid": 15762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tập Lá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8102445",
+            "lng": "109.03343180000001"
+        }
+    ],
+    "log_id": "675817b98c6f7417"
+}

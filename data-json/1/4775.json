@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117911,
+            "name": "Linh Chiểu",
+            "pid": 4775,
+            "type": 16,
+            "region": null,
+            "alias": "Linh Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1394212",
+            "lng": "105.5269218"
+        },
+        {
+            "id": 117913,
+            "name": "Phương Độ",
+            "pid": 4775,
+            "type": 4,
+            "region": null,
+            "alias": "Phương Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1499289",
+            "lng": "105.5386447"
+        },
+        {
+            "id": 117903,
+            "name": "Sen Chiểu",
+            "pid": 4775,
+            "type": 16,
+            "region": null,
+            "alias": "Sen Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1394212",
+            "lng": "105.5269218"
+        },
+        {
+            "id": 55042,
+            "name": "Ubnd Xã Phương Độ Cũ",
+            "pid": 4775,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phương Độ cũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55046,
+            "name": "Ubnd Xã Sen Chiểu",
+            "pid": 4775,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Sen Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 117907,
+            "name": "Xóm Soi",
+            "pid": 4775,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Soi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1394212",
+            "lng": "105.5269218"
+        }
+    ],
+    "log_id": "675811bc481f8397"
+}

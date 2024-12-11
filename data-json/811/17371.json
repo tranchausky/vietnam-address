@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 958351,
+            "name": "Công An Huyện Nam Trực",
+            "pid": 17371,
+            "type": 21,
+            "region": null,
+            "alias": "Công an huyện Nam Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.342404",
+            "lng": "106.17867869999998"
+        },
+        {
+            "id": 402861,
+            "name": "Giáp Ba",
+            "pid": 17371,
+            "type": 16,
+            "region": null,
+            "alias": "giáp ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.342404",
+            "lng": "106.17867869999998"
+        },
+        {
+            "id": 402859,
+            "name": "Giáp Nhì",
+            "pid": 17371,
+            "type": 16,
+            "region": null,
+            "alias": "giáp nhì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.342404",
+            "lng": "106.17867869999998"
+        },
+        {
+            "id": 402863,
+            "name": "Giáp Tư",
+            "pid": 17371,
+            "type": 16,
+            "region": null,
+            "alias": "giáp tư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.342404",
+            "lng": "106.17867869999998"
+        },
+        {
+            "id": 403125,
+            "name": "Khu Phố Kinh Lũng",
+            "pid": 17371,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố kinh lũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2821804",
+            "lng": "106.23456329999999"
+        }
+    ],
+    "log_id": "6758145d6e44f598"
+}

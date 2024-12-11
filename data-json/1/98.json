@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830665,
+            "name": "Đường Thọ Lão",
+            "pid": 98,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thọ Lão",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0132762",
+            "lng": "105.85526189999996"
+        },
+        {
+            "id": 36101,
+            "name": "Tập Thể Nhà Máy Cơ Khí Trần Hưng Đạo",
+            "pid": 98,
+            "type": 5,
+            "region": null,
+            "alias": "Tập thể nhà máy cơ khí trần hưng đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0090571",
+            "lng": "105.86075069999993"
+        }
+    ],
+    "log_id": "675811bd1ab40583"
+}

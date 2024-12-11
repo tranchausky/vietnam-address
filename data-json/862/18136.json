@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435003,
+            "name": "Ấp Thạnh Hiệp",
+            "pid": 18136,
+            "type": 9,
+            "region": null,
+            "alias": "Ấp Thạnh Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5596203",
+            "lng": "106.14045099999998"
+        },
+        {
+            "id": 435005,
+            "name": "Ấp Thạnh Hòa",
+            "pid": 18136,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5596203",
+            "lng": "106.14045099999998"
+        },
+        {
+            "id": 435011,
+            "name": "Ấp Thạnh Hưng",
+            "pid": 18136,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5596203",
+            "lng": "106.14045099999998"
+        },
+        {
+            "id": 435007,
+            "name": "Ấp Thạnh Nghĩa",
+            "pid": 18136,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5596203",
+            "lng": "106.14045099999998"
+        },
+        {
+            "id": 435009,
+            "name": "Ấp Thạnh Quới",
+            "pid": 18136,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Quới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5596203",
+            "lng": "106.14045099999998"
+        }
+    ],
+    "log_id": "675909dcf380b424"
+}

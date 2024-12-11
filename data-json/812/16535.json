@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568122,
+            "name": "Thôn Đại Thành",
+            "pid": 16535,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.968849",
+            "lng": "108.00395159999993"
+        },
+        {
+            "id": 568119,
+            "name": "Thôn Đằng Thành",
+            "pid": 16535,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đằng Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.968849",
+            "lng": "108.00395159999993"
+        },
+        {
+            "id": 568125,
+            "name": "Thôn Văn Phong",
+            "pid": 16535,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.049893706602125, ",
+            "lng": "107.94684574864065"
+        }
+    ],
+    "log_id": "67581477ef243362"
+}

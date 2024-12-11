@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411615,
+            "name": "Thái Hòa 2",
+            "pid": 22244,
+            "type": 16,
+            "region": null,
+            "alias": "Thái Hòa 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4961933",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 411613,
+            "name": "Thôn Thái Hòa 1",
+            "pid": 22244,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Hòa 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4961933",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 411617,
+            "name": "Thôn Thanh Long",
+            "pid": 22244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thanh Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4961933",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 411611,
+            "name": "Tống Khê",
+            "pid": 22244,
+            "type": 16,
+            "region": null,
+            "alias": "Tống Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4961933",
+            "lng": "106.38464590000001"
+        }
+    ],
+    "log_id": "675909f378155685"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110093,
+            "name": "Ấp Chà Là",
+            "pid": 19191,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chà Là",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.607380",
+            "lng": "11.600260"
+        },
+        {
+            "id": 110109,
+            "name": "Ấp Đông Phất",
+            "pid": 19191,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Phất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.610949",
+            "lng": "11.616778"
+        },
+        {
+            "id": 110161,
+            "name": "Ấp Sóc Răng",
+            "pid": 19191,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Răng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.617574",
+            "lng": "11.607447"
+        },
+        {
+            "id": 110141,
+            "name": "Ấp Sở Nhì",
+            "pid": 19191,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sở Nhì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.604875",
+            "lng": "11.599705"
+        },
+        {
+            "id": 110075,
+            "name": "Ấp Xa Cát",
+            "pid": 19191,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xa Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.611866",
+            "lng": "11.583537"
+        }
+    ],
+    "log_id": "675816379807f356"
+}

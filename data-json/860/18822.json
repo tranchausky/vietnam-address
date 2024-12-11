@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 958619,
+            "name": "97 Trần Kiên",
+            "pid": 18822,
+            "type": 21,
+            "region": null,
+            "alias": "97 Trần Kiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 1009886,
+            "name": "Chợ Mới Đức Phổ",
+            "pid": 18822,
+            "type": 5,
+            "region": null,
+            "alias": "Chợ mới Đức Phổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.807250788544007",
+            "lng": "108.95931510185069"
+        },
+        {
+            "id": 1015907,
+            "name": "Đường Nguyễn Nghiêm",
+            "pid": 18822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Nghiêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.809478340072914",
+            "lng": "108.95662049271729"
+        },
+        {
+            "id": 741571,
+            "name": "Lê Văn Cao",
+            "pid": 18822,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Văn Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8115527",
+            "lng": "108.95913760000008"
+        }
+    ],
+    "log_id": "675909a4c914a189"
+}

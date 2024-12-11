@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 739018,
+            "name": "Cầu Sắt",
+            "pid": 19150,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Sắt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.513362",
+            "lng": "106.55619739999996"
+        },
+        {
+            "id": 739015,
+            "name": "Cổ Vài",
+            "pid": 19150,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ Vài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.513362",
+            "lng": "106.55619739999996"
+        },
+        {
+            "id": 757705,
+            "name": "Đồng Mậm",
+            "pid": 19150,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Mậm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.513362",
+            "lng": "106.55619739999996"
+        },
+        {
+            "id": 739009,
+            "name": "Tam Chẽ",
+            "pid": 19150,
+            "type": 18,
+            "region": null,
+            "alias": "Tam Chẽ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.513362",
+            "lng": "106.55619739999996"
+        },
+        {
+            "id": 739012,
+            "name": "Thôn Đấp",
+            "pid": 19150,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đấp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.513362",
+            "lng": "106.55619739999996"
+        }
+    ],
+    "log_id": "675813d913f8b984"
+}

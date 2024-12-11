@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462043,
+            "name": "Thôn La Hà Đông",
+            "pid": 21163,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Hà Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7325855",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 462041,
+            "name": "Thôn La Hà Nam",
+            "pid": 21163,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Hà Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7325855",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 462045,
+            "name": "Thôn La Hà Tây",
+            "pid": 21163,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Hà Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7325855",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 462039,
+            "name": "Thôn Văn Phú",
+            "pid": 21163,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7325855",
+            "lng": "106.41997549999996"
+        }
+    ],
+    "log_id": "675814aa06a9c88"
+}

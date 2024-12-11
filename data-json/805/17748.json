@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 513671,
+            "name": "Phú Khê",
+            "pid": 17748,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8613915",
+            "lng": "106.19632479999996"
+        },
+        {
+            "id": 513673,
+            "name": "Thôn Phủ",
+            "pid": 17748,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8613915",
+            "lng": "106.19632479999996"
+        },
+        {
+            "id": 513675,
+            "name": "Thôn Sồi Cầu",
+            "pid": 17748,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sồi Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8613915",
+            "lng": "106.19632479999996"
+        },
+        {
+            "id": 513677,
+            "name": "Thôn Sồi Tó",
+            "pid": 17748,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sồi Tó",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8613915",
+            "lng": "106.19632479999996"
+        },
+        {
+            "id": 513679,
+            "name": "Thôn Vạc",
+            "pid": 17748,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8613915",
+            "lng": "106.19632479999996"
+        }
+    ],
+    "log_id": "675813f1c899a911"
+}

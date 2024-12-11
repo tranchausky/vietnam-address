@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110273,
+            "name": "Ấp Mỹ Lợi",
+            "pid": 7378,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.924514",
+            "lng": "106.234660"
+        },
+        {
+            "id": 110311,
+            "name": "Ấp Vinh",
+            "pid": 7378,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.849680",
+            "lng": "106.187174"
+        },
+        {
+            "id": 110331,
+            "name": "Ấp Voi",
+            "pid": 7378,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Voi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.871744",
+            "lng": "106.237922"
+        }
+    ],
+    "log_id": "6758178530f31707"
+}

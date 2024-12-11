@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442561,
+            "name": "Ấp An Điền",
+            "pid": 7524,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9383032",
+            "lng": "106.59376580000003"
+        },
+        {
+            "id": 753835,
+            "name": "Ấp An Khuong",
+            "pid": 7524,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Khuong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9383032",
+            "lng": "106.59376580000004"
+        },
+        {
+            "id": 442557,
+            "name": "Ấp An Khương A",
+            "pid": 7524,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Khương a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9383032",
+            "lng": "106.59376580000003"
+        },
+        {
+            "id": 442559,
+            "name": "Ấp An Khương B",
+            "pid": 7524,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Khương b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9383032",
+            "lng": "106.59376580000003"
+        },
+        {
+            "id": 442563,
+            "name": "Ấp Giang Hà",
+            "pid": 7524,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Giang Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9383032",
+            "lng": "106.59376580000003"
+        }
+    ],
+    "log_id": "6758160dd9b60593"
+}

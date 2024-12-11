@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829354,
+            "name": "Đường Đức Giang",
+            "pid": 41398,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đức Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0701691",
+            "lng": "105.9068373"
+        },
+        {
+            "id": 876808,
+            "name": "Đường Ngô Gia Tự",
+            "pid": 41398,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Gia Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,059967",
+            "lng": "105,893585"
+        },
+        {
+            "id": 876814,
+            "name": "Đường Ô Cách",
+            "pid": 41398,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ô Cách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,059967",
+            "lng": "105,893585"
+        },
+        {
+            "id": 830905,
+            "name": "Đường Trường Lâm",
+            "pid": 41398,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0701691",
+            "lng": "105.9068373"
+        },
+        {
+            "id": 51902,
+            "name": "Ngõ 466 Ngô Gia Tự",
+            "pid": 41398,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 466 Ngô Gia Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bcd501e493"
+}

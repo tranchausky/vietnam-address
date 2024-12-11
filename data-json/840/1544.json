@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 18524,
+            "name": "Phường Hưng Long",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hưng Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.438829",
+            "lng": "106.61734150000007"
+        },
+        {
+            "id": 18525,
+            "name": "Phường Minh Hưng",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Minh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4827257",
+            "lng": "106.61734150000007"
+        },
+        {
+            "id": 18527,
+            "name": "Phường Minh Long",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Minh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4144689",
+            "lng": "106.56429980000007"
+        },
+        {
+            "id": 18529,
+            "name": "Phường Minh Thành",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Minh Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        },
+        {
+            "id": 18532,
+            "name": "Phường Thành Tâm",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thành Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3884467",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 18526,
+            "name": "Xã Minh Lập",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Minh Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5461267",
+            "lng": "106.75295140000003"
+        },
+        {
+            "id": 18528,
+            "name": "Xã Minh Thắng",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Minh Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5211152",
+            "lng": "106.71167000000003"
+        },
+        {
+            "id": 18530,
+            "name": "Xã Nha Bích",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nha Bích",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4552775",
+            "lng": "106.71167000000003"
+        },
+        {
+            "id": 18531,
+            "name": "Xã Quang Minh",
+            "pid": 1544,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quang Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.570132",
+            "lng": "106.72088229999997"
+        }
+    ],
+    "log_id": "6758163764bb8375"
+}

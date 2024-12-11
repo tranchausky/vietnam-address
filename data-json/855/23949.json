@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109013,
+            "name": "Khu Phố 1 - Tt Đông Thành",
+            "pid": 23949,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1 - TT Đông Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.894163",
+            "lng": "106.294475"
+        },
+        {
+            "id": 109025,
+            "name": "Khu Phố 2 - Tt Đông Thành",
+            "pid": 23949,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2 - TT Đông Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.899718",
+            "lng": "106.293231"
+        },
+        {
+            "id": 109033,
+            "name": "Khu Phố 3 - Tt Đông Thành",
+            "pid": 23949,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3 - TT Đông Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.893532",
+            "lng": "106.293540"
+        },
+        {
+            "id": 109047,
+            "name": "Khu Phố 4 - Tt Đông Thành",
+            "pid": 23949,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4 - TT Đông Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.895359",
+            "lng": "106.293221"
+        }
+    ],
+    "log_id": "675817852f981781"
+}

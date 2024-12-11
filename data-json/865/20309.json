@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600795,
+            "name": "Làng Tam Linh",
+            "pid": 20309,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tam Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.998343",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 600798,
+            "name": "Làng Thôn Thượng",
+            "pid": 20309,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.998343",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 600804,
+            "name": "Làng Trung Cự",
+            "pid": 20309,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trung Cự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.998343",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 600801,
+            "name": "Làng Xa Liễn",
+            "pid": 20309,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Xa Liễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.998343",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 848509,
+            "name": "Thôn Làng Giáp",
+            "pid": 20309,
+            "type": 16,
+            "region": null,
+            "alias": "thôn làng giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.998343",
+            "lng": "105.92886410000006"
+        }
+    ],
+    "log_id": "67590a231be83795"
+}

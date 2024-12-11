@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 961198,
+            "name": "3 - 13 Phan Đình Phùng",
+            "pid": 13523,
+            "type": 29,
+            "region": null,
+            "alias": "3 - 13 Phan Đình Phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.385199",
+            "lng": "107.978846"
+        },
+        {
+            "id": 961199,
+            "name": "4-176 Phan Đình Phùng",
+            "pid": 13523,
+            "type": 29,
+            "region": null,
+            "alias": "4-176 Phan Đình Phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.386603594528502",
+            "lng": "107.97737134448728"
+        },
+        {
+            "id": 712390,
+            "name": "Ngã 3 Trung Tín",
+            "pid": 13523,
+            "type": 16,
+            "region": null,
+            "alias": "Ngã 3 trung tín",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.380000",
+            "lng": "107.972642"
+        }
+    ],
+    "log_id": "6758174ce42b1814"
+}

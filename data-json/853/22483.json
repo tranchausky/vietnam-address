@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 620736,
+            "name": "Bản Hồng Ngại",
+            "pid": 22483,
+            "type": 16,
+            "region": null,
+            "alias": "bản Hồng Ngại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1690118",
+            "lng": "103.11637389999999"
+        },
+        {
+            "id": 852049,
+            "name": "Bản Nậm Pì",
+            "pid": 22483,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Pì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1690118",
+            "lng": "103.11637389999999"
+        }
+    ],
+    "log_id": "6758175e655a3994"
+}

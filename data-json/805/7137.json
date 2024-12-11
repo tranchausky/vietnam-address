@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107840,
+            "name": "Thôn Hoành Lộc",
+            "pid": 7137,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoành Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9821669",
+            "lng": "106.2401318"
+        },
+        {
+            "id": 638685,
+            "name": "Thôn Trạm Ngoại",
+            "pid": 7137,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạm Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.985012",
+            "lng": "106.25779149999994"
+        },
+        {
+            "id": 638682,
+            "name": "Thôn Trạm Nội",
+            "pid": 7137,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạm Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.985012",
+            "lng": "106.25779149999994"
+        },
+        {
+            "id": 107900,
+            "name": "Thôn Trạm Nội Trang",
+            "pid": 7137,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạm Nội Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.988248",
+            "lng": "106.2454843"
+        },
+        {
+            "id": 108125,
+            "name": "Thôn Uyên Đức",
+            "pid": 7137,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Uyên Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.983697",
+            "lng": "106.253405"
+        },
+        {
+            "id": 107756,
+            "name": "Thôn Văn Thai",
+            "pid": 7137,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Thai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9859335",
+            "lng": "106.2559032"
+        }
+    ],
+    "log_id": "675813f16763c982"
+}

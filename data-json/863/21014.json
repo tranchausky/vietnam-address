@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410047,
+            "name": "Thôn Đại Hữu",
+            "pid": 21014,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đại hữu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4253058",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410041,
+            "name": "Thôn Lạc Thành",
+            "pid": 21014,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lạc thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4253058",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410043,
+            "name": "Thôn Lạc Thành Bắc",
+            "pid": 21014,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lạc thành bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4253058",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410045,
+            "name": "Thôn Vĩnh Ninh",
+            "pid": 21014,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vĩnh ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4253058",
+            "lng": "106.52010840000003"
+        }
+    ],
+    "log_id": "675909f3a3eec869"
+}

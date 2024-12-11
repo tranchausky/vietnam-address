@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410859,
+            "name": "Chấp Chung 2",
+            "pid": 20963,
+            "type": 16,
+            "region": null,
+            "alias": "chấp chung 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6207801",
+            "lng": "106.23162159999993"
+        },
+        {
+            "id": 410853,
+            "name": "Đôn Nông",
+            "pid": 20963,
+            "type": 10,
+            "region": null,
+            "alias": "Đôn Nông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6207801",
+            "lng": "106.23162159999993"
+        },
+        {
+            "id": 410857,
+            "name": "Thôn Chấp Chung 1",
+            "pid": 20963,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn chấp chung 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6207801",
+            "lng": "106.23162159999993"
+        },
+        {
+            "id": 972606,
+            "name": "Thôn Văn Mỹ",
+            "pid": 20963,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.630922275642476",
+            "lng": "106.23213923612037"
+        },
+        {
+            "id": 410855,
+            "name": "Tiên La",
+            "pid": 20963,
+            "type": 10,
+            "region": null,
+            "alias": "tiên la",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6207801",
+            "lng": "106.23162159999993"
+        }
+    ],
+    "log_id": "675909f3a671f623"
+}

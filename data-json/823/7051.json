@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88178,
+            "name": "Ấp Đất Mới",
+            "pid": 7051,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đất Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7303088",
+            "lng": "106.8994256"
+        },
+        {
+            "id": 88184,
+            "name": "Ấp Phú Mỹ 1",
+            "pid": 7051,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Mỹ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5909756",
+            "lng": "107.0405077"
+        },
+        {
+            "id": 88187,
+            "name": "Ấp Phú Mỹ 2",
+            "pid": 7051,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Mỹ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5954229",
+            "lng": "107.0363405"
+        },
+        {
+            "id": 88172,
+            "name": "Ấp Xóm Hố",
+            "pid": 7051,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Hố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.735909204530403",
+            "lng": "106.8896144651895"
+        },
+        {
+            "id": 994219,
+            "name": "Công Ty Vmep",
+            "pid": 7051,
+            "type": 10,
+            "region": null,
+            "alias": "công ty Vmep",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.726400734675126",
+            "lng": "106.918008649256"
+        }
+    ],
+    "log_id": "675814dd4d984891"
+}

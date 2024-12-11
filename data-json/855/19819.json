@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452553,
+            "name": "Ấp Bắc Chang 1",
+            "pid": 19819,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc Chang 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778249",
+            "lng": "105.88774940000008"
+        },
+        {
+            "id": 452555,
+            "name": "Ấp Bắc Chang 2",
+            "pid": 19819,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bắc Chang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778249",
+            "lng": "105.88774940000008"
+        },
+        {
+            "id": 736459,
+            "name": "Ấp Bình Tây",
+            "pid": 19819,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778249",
+            "lng": "105.88774940000008"
+        },
+        {
+            "id": 452551,
+            "name": "Ấp Cái Sậy",
+            "pid": 19819,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Sậy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778249",
+            "lng": "105.88774940000008"
+        },
+        {
+            "id": 452557,
+            "name": "Ấp Gò Ớt",
+            "pid": 19819,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gò Ớt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778249",
+            "lng": "105.88774940000008"
+        }
+    ],
+    "log_id": "6758178535559225"
+}

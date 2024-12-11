@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515463,
+            "name": "Kim Xuyên 3",
+            "pid": 7182,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Xuyên 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0101371",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 515465,
+            "name": "Kim Xuyên 4",
+            "pid": 7182,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Xuyên 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0101371",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 515467,
+            "name": "Nghĩa Vũ",
+            "pid": 7182,
+            "type": 16,
+            "region": null,
+            "alias": "Nghĩa Vũ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0101371",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 515469,
+            "name": "Văn Ổ",
+            "pid": 7182,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Ổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0101371",
+            "lng": "106.50832560000003"
+        }
+    ],
+    "log_id": "675813f16e013855"
+}

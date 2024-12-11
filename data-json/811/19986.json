@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 576390,
+            "name": "Cảnh Tài",
+            "pid": 19986,
+            "type": 16,
+            "region": null,
+            "alias": "Cảnh Tài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2500104",
+            "lng": "106.24613709999994"
+        },
+        {
+            "id": 576381,
+            "name": "Ngọc Đông",
+            "pid": 19986,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2500104",
+            "lng": "106.24613709999994"
+        },
+        {
+            "id": 576387,
+            "name": "Thôn Bằng Trang",
+            "pid": 19986,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bằng Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2500104",
+            "lng": "106.24613709999994"
+        },
+        {
+            "id": 786610,
+            "name": "Thôn Duyên Lãng",
+            "pid": 19986,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Duyên Lãng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2500104",
+            "lng": "106.24613709999994"
+        }
+    ],
+    "log_id": "6758145d464f8301"
+}

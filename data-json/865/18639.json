@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558677,
+            "name": "Làng Lai",
+            "pid": 18639,
+            "type": 16,
+            "region": null,
+            "alias": "làng lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7123261",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 558691,
+            "name": "Tân Ấp",
+            "pid": 18639,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Ấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7123261",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 558683,
+            "name": "Thôn Lai Thịnh",
+            "pid": 18639,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lai thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7123261",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 558671,
+            "name": "Thôn Tân Cầu",
+            "pid": 18639,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7123261",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 558689,
+            "name": "Thôn Tân Sơn",
+            "pid": 18639,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7123261",
+            "lng": "105.63538779999999"
+        }
+    ],
+    "log_id": "67590a24b20ad75"
+}

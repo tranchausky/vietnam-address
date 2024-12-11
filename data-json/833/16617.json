@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110673,
+            "name": "Ấp Mỹ Á",
+            "pid": 16617,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Á",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5360404",
+            "lng": "105.04609019999998"
+        },
+        {
+            "id": 110637,
+            "name": "Ấp Núi Voi",
+            "pid": 16617,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Núi Voi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5360404",
+            "lng": "105.04609019999998"
+        },
+        {
+            "id": 110649,
+            "name": "Ấp Voi 1",
+            "pid": 16617,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Voi 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5360404",
+            "lng": "105.04609019999998"
+        }
+    ],
+    "log_id": "6758159dd48ba542"
+}

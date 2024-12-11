@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980965,
+            "name": "Cầu Niệm 2",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu Niệm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 636513,
+            "name": "Đoàn Kết",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        },
+        {
+            "id": 980959,
+            "name": "Đường 10 Cũ",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 10 cũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 836851,
+            "name": "Đường Lê Đại Thanh",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đại Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        },
+        {
+            "id": 980960,
+            "name": "Đường Quán Trữ",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quán Trữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 887629,
+            "name": "Hoàng Công Khanh",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Công Khanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        },
+        {
+            "id": 636516,
+            "name": "Khu Tái Định Cư Đồng Hòa 1 - Phương Khê",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tái định cư Đồng Hòa 1 - Phương Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        },
+        {
+            "id": 636519,
+            "name": "Khu Tái Định Cư Đồng Hòa 3 - Phương Khê",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tái định cư Đồng Hòa 3 - Phương Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        },
+        {
+            "id": 851932,
+            "name": "Mạc Thiên Phúc",
+            "pid": 5812,
+            "type": 18,
+            "region": null,
+            "alias": "Mạc Thiên Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        },
+        {
+            "id": 887632,
+            "name": "Phan Trứ",
+            "pid": 5812,
+            "type": 21,
+            "region": null,
+            "alias": "Phan Trứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8394761",
+            "lng": "106.65565749999996"
+        }
+    ],
+    "log_id": "6758136617985987"
+}

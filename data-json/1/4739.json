@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100358,
+            "name": "Thôn An Bình",
+            "pid": 4739,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.692152, 105.940647",
+            "lng": "20.692152, 105.940647"
+        },
+        {
+            "id": 54998,
+            "name": "Thôn Giáp Ba",
+            "pid": 4739,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Giáp Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.69228263674683",
+            "lng": "105.94062551016394"
+        },
+        {
+            "id": 100361,
+            "name": "Thôn Giáp Tư",
+            "pid": 4739,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Giáp Tư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.692242, 105.940604",
+            "lng": "20.692242, 105.940604"
+        },
+        {
+            "id": 100391,
+            "name": "Thôn Hoà Hạ",
+            "pid": 4739,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Hoà Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.672901, 105.952234",
+            "lng": "20.672901, 105.952234"
+        },
+        {
+            "id": 100400,
+            "name": "Thôn Hoà Thượng",
+            "pid": 4739,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Hoà Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.686231, 105.954509",
+            "lng": "20.686231, 105.954509"
+        },
+        {
+            "id": 100418,
+            "name": "Thôn Thủy Trú",
+            "pid": 4739,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thủy Trú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.697615, 105.952442",
+            "lng": "20.697615, 105.952442"
+        }
+    ],
+    "log_id": "675811bca0754355"
+}

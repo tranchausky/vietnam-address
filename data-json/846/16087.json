@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114237,
+            "name": "Ấp Tân Hòa A",
+            "pid": 16087,
+            "type": 21,
+            "region": null,
+            "alias": "ấp Tân Hòa A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.613788",
+            "lng": "105.476969"
+        },
+        {
+            "id": 114395,
+            "name": "Ấp Tân Thuận A",
+            "pid": 16087,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Thuận A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.613788",
+            "lng": "105.476969"
+        },
+        {
+            "id": 114421,
+            "name": "Ấp Tân Thuận B",
+            "pid": 16087,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Thuận B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.613788",
+            "lng": "105.476969"
+        }
+    ],
+    "log_id": "675816c041364126"
+}

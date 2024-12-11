@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 804706,
+            "name": "Thôn Hòa Thuận",
+            "pid": 20028,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Hòa Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.068033",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 804703,
+            "name": "Thôn Mỹ Dương",
+            "pid": 20028,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Mỹ Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.068033",
+            "lng": "105.79967690000001"
+        }
+    ],
+    "log_id": "67590a23c1888658"
+}

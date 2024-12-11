@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 399417,
+            "name": "Ca Dằn",
+            "pid": 20561,
+            "type": 16,
+            "region": null,
+            "alias": "ca dằn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8284306",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 399419,
+            "name": "Hoi Ngửa",
+            "pid": 20561,
+            "type": 16,
+            "region": null,
+            "alias": "hoi ngửa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8284306",
+            "lng": "105.84077219999995"
+        }
+    ],
+    "log_id": "67581662ab813649"
+}

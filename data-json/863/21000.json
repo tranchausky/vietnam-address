@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 409867,
+            "name": "Thôn Định Cư Đông",
+            "pid": 21000,
+            "type": 16,
+            "region": null,
+            "alias": "thôn định cư đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.45653",
+            "lng": "106.55546079999999"
+        },
+        {
+            "id": 409869,
+            "name": "Thông Định Cư Tây",
+            "pid": 21000,
+            "type": 16,
+            "region": null,
+            "alias": "thông định cư tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.45653",
+            "lng": "106.55546079999999"
+        },
+        {
+            "id": 409865,
+            "name": "Thôn Phụ Thành",
+            "pid": 21000,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phụ thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.45653",
+            "lng": "106.55546079999999"
+        },
+        {
+            "id": 409871,
+            "name": "Thôn Tân Hải",
+            "pid": 21000,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.45653",
+            "lng": "106.55546079999999"
+        },
+        {
+            "id": 409863,
+            "name": "Thôn Thành Long",
+            "pid": 21000,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thành long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.45653",
+            "lng": "106.55546079999999"
+        }
+    ],
+    "log_id": "675909f39f838104"
+}

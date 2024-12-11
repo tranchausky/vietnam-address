@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928630,
+            "name": "Chá Dính",
+            "pid": 19058,
+            "type": 18,
+            "region": null,
+            "alias": "Chá Dính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.194137",
+            "lng": "105.169757"
+        },
+        {
+            "id": 570531,
+            "name": "Mỏ Xí",
+            "pid": 19058,
+            "type": 16,
+            "region": null,
+            "alias": "Mỏ Xí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.194137",
+            "lng": "105.169757"
+        },
+        {
+            "id": 570534,
+            "name": "Thôn Há Đề",
+            "pid": 19058,
+            "type": 16,
+            "region": null,
+            "alias": "thôn há đề",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.194137",
+            "lng": "105.169757"
+        },
+        {
+            "id": 570528,
+            "name": "Tủng A",
+            "pid": 19058,
+            "type": 16,
+            "region": null,
+            "alias": "Tủng A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.194137",
+            "lng": "105.169757"
+        },
+        {
+            "id": 570525,
+            "name": "Tủng B",
+            "pid": 19058,
+            "type": 16,
+            "region": null,
+            "alias": "Tủng B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.194137",
+            "lng": "105.169757"
+        }
+    ],
+    "log_id": "675815663861b888"
+}

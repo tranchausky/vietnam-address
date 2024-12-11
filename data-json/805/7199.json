@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398021,
+            "name": "Bồ Dương",
+            "pid": 7199,
+            "type": 16,
+            "region": null,
+            "alias": "Bồ Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7188464",
+            "lng": "106.34104439999999"
+        },
+        {
+            "id": 398023,
+            "name": "Đồng Hội",
+            "pid": 7199,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7188464",
+            "lng": "106.34104439999999"
+        },
+        {
+            "id": 398025,
+            "name": "Động Trạch",
+            "pid": 7199,
+            "type": 16,
+            "region": null,
+            "alias": "Động Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7188464",
+            "lng": "106.34104439999999"
+        },
+        {
+            "id": 729763,
+            "name": "Quang Rực",
+            "pid": 7199,
+            "type": 16,
+            "region": null,
+            "alias": "Quang Rực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7188464",
+            "lng": "106.34104440000002"
+        }
+    ],
+    "log_id": "675813f1b8e3e212"
+}

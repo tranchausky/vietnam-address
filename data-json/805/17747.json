@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638958,
+            "name": "Thôn Kinh Nguyên",
+            "pid": 17747,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kinh Nguyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9769088",
+            "lng": "106.19117789999996"
+        },
+        {
+            "id": 638961,
+            "name": "Thôn Lũng",
+            "pid": 17747,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9769088",
+            "lng": "106.19117789999996"
+        },
+        {
+            "id": 638964,
+            "name": "Thôn Thích",
+            "pid": 17747,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thích",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9769088",
+            "lng": "106.19117789999996"
+        }
+    ],
+    "log_id": "675813f16ab02291"
+}

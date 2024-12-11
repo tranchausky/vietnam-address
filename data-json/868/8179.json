@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 447839,
+            "name": "An Điền 1",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "An Điền 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447849,
+            "name": "An Điền 2",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "An Điền 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447853,
+            "name": "An Lạc Đông",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "An Lạc Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447851,
+            "name": "An Lạc Tây",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "An Lạc Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447841,
+            "name": "An Thành Đông",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "An Thành Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447845,
+            "name": "An Thành Tây",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "An Thành Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447843,
+            "name": "Bình Thành",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447837,
+            "name": "Bình Trung",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 447847,
+            "name": "Trung Điền",
+            "pid": 8179,
+            "type": 17,
+            "region": null,
+            "alias": "Trung Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0688732",
+            "lng": "106.14633170000002"
+        }
+    ],
+    "log_id": "67590b59a97cd771"
+}

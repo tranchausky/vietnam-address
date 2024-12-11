@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 787555,
+            "name": "Chợ Quảng Trung",
+            "pid": 16882,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Quảng Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4182232",
+            "lng": "107.71624999999996"
+        },
+        {
+            "id": 988250,
+            "name": "Khu Quang Trung",
+            "pid": 16882,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.427594388203307",
+            "lng": " 107.73360401255225"
+        },
+        {
+            "id": 553179,
+            "name": "Thôn 1",
+            "pid": 16882,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4182232",
+            "lng": "107.71624999999995"
+        },
+        {
+            "id": 553181,
+            "name": "Thôn 2",
+            "pid": 16882,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4182232",
+            "lng": "107.71624999999995"
+        }
+    ],
+    "log_id": "675814c23286b604"
+}

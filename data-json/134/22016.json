@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 893050,
+            "name": "Bản Hạ",
+            "pid": 22016,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.955191600000006",
+            "lng": "106.5046436"
+        },
+        {
+            "id": 888313,
+            "name": "Bản Nhang",
+            "pid": 22016,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nhang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.955191600000006",
+            "lng": "106.5046436"
+        },
+        {
+            "id": 888310,
+            "name": "Bản Thượng",
+            "pid": 22016,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.955191600000006",
+            "lng": "106.5046436"
+        }
+    ],
+    "log_id": "6758133f18457755"
+}

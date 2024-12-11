@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562071,
+            "name": "Thôn Căm",
+            "pid": 22187,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Căm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2026064",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 562063,
+            "name": "Thôn Cú",
+            "pid": 22187,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Cú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2026064",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 562065,
+            "name": "Thôn Đá",
+            "pid": 22187,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2026064",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 562073,
+            "name": "Thôn Lót",
+            "pid": 22187,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Lót",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2026064",
+            "lng": "105.1375908"
+        }
+    ],
+    "log_id": "67590a2393081986"
+}

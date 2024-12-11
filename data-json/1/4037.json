@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1007874,
+            "name": "Thôn Lễ Pháp",
+            "pid": 4037,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lễ Pháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.134539422964963",
+            "lng": "105.83240914557679"
+        },
+        {
+            "id": 53782,
+            "name": "Trung Tâm Y Tế Đông Anh",
+            "pid": 4037,
+            "type": 6,
+            "region": null,
+            "alias": "Trung tâm y tế Đông Anh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54462,
+            "name": "Ubnd Xã Tiên Dương Đa",
+            "pid": 4037,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tiên Dương ĐA",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bbc9041953"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011413,
+            "name": "Cây Thị",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Cây Thị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6175594",
+            "lng": "105.9753745"
+        },
+        {
+            "id": 542799,
+            "name": "Xóm Hoan",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hoan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6530449",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 542801,
+            "name": "Xóm Khe Cạn",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khe Cạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6530449",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 542803,
+            "name": "Xóm Kim Cương",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Kim Cương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6530449",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 542805,
+            "name": "Xóm Mỹ Hoà",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mỹ Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6530449",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 542807,
+            "name": "Xóm Suối Găng",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Suối Găng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6530449",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 789649,
+            "name": "Xóm Trại Cau",
+            "pid": 14574,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trại Cau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6530449",
+            "lng": "106.00524369999994"
+        }
+    ],
+    "log_id": "67590a09b0739608"
+}

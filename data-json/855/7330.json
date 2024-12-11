@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451965,
+            "name": "Ấp Bàu Sen",
+            "pid": 7330,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bàu Sen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9631687",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 451963,
+            "name": "Ấp Cả Trốt",
+            "pid": 7330,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Trốt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9631687",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 451961,
+            "name": "Ấp Gò Châu Mai",
+            "pid": 7330,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Gò Châu Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9631687",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 451969,
+            "name": "Ấp Sậy Giăng",
+            "pid": 7330,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Sậy Giăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9631687",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 451967,
+            "name": "Ấp Tà Nu",
+            "pid": 7330,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tà Nu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9631687",
+            "lng": "105.69991219999997"
+        }
+    ],
+    "log_id": "675817852b92e724"
+}

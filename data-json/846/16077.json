@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112895,
+            "name": "Khóm Phú Mỹ",
+            "pid": 16077,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.555697",
+            "lng": "105.491704"
+        },
+        {
+            "id": 112661,
+            "name": "Khóm Tân Đông A",
+            "pid": 16077,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Đông A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.555697",
+            "lng": "105.491704"
+        },
+        {
+            "id": 112781,
+            "name": "Khóm Tân Đông B",
+            "pid": 16077,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Đông B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.555697",
+            "lng": "105.491704"
+        },
+        {
+            "id": 112195,
+            "name": "Khóm Tân Thuận",
+            "pid": 16077,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.555697",
+            "lng": "105.491704"
+        }
+    ],
+    "log_id": "675816c03626d694"
+}

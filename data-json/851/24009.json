@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115781,
+            "name": "Ấp 8\/1",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 8\/1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.796734",
+            "lng": "104.907051"
+        },
+        {
+            "id": 115773,
+            "name": "Ấp 8\/2",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 8\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.778920",
+            "lng": "104.926061"
+        },
+        {
+            "id": 115763,
+            "name": "Ấp 9A",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 9A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.815949",
+            "lng": " 104.898392"
+        },
+        {
+            "id": 115769,
+            "name": "Ấp 9B",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 9B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.757519",
+            "lng": "104.919382"
+        },
+        {
+            "id": 115759,
+            "name": "Ấp 10 Biển",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 10 Biển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.727093",
+            "lng": "104.932026"
+        },
+        {
+            "id": 115867,
+            "name": "Ấp Bần A",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bần A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.811190",
+            "lng": "104.9116693"
+        },
+        {
+            "id": 115783,
+            "name": "Ấp Bần B",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bần B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.804219",
+            "lng": "104.890159"
+        },
+        {
+            "id": 115871,
+            "name": "Ấp Xẻo Quao",
+            "pid": 24009,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Xẻo Quao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.803994",
+            "lng": "104.887409"
+        }
+    ],
+    "log_id": "67581736298c9195"
+}

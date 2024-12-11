@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117307,
+            "name": "Ấp Thạnh An 1",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh An 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.433118",
+            "lng": "105.975179"
+        },
+        {
+            "id": 117309,
+            "name": "Ấp Thạnh An 3",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh An 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.435557",
+            "lng": "106.003221"
+        },
+        {
+            "id": 117311,
+            "name": "Ấp Thạnh An 4",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh An 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.439329",
+            "lng": "106.006314"
+        },
+        {
+            "id": 117297,
+            "name": "Ấp Thanh Nhãn 1",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Nhãn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.503942",
+            "lng": "105.971615"
+        },
+        {
+            "id": 117299,
+            "name": "Ấp Thanh Nhãn 2",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Nhãn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.479503",
+            "lng": "105.970908"
+        },
+        {
+            "id": 117301,
+            "name": "Ấp Thạnh Ninh",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.465294",
+            "lng": "105.970879"
+        },
+        {
+            "id": 117295,
+            "name": "Ấp Thạnh Phú",
+            "pid": 7596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.519547",
+            "lng": "105.975023"
+        }
+    ],
+    "log_id": "675909c1683d9356"
+}

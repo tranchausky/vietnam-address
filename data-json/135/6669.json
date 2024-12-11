@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 763072,
+            "name": "Kinh Giao",
+            "pid": 6669,
+            "type": 16,
+            "region": null,
+            "alias": "Kinh Giao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933086",
+            "lng": "106.57903229999998"
+        },
+        {
+            "id": 857995,
+            "name": "Xóm Bắc - Xã Tân Tiến",
+            "pid": 6669,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm Bắc - Xã Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933086",
+            "lng": "106.57903229999998"
+        },
+        {
+            "id": 851842,
+            "name": "Xóm Đông - Xã Tân Tiến",
+            "pid": 6669,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm Đông - Xã Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933086",
+            "lng": "106.5790323"
+        },
+        {
+            "id": 851845,
+            "name": "Xóm Nam - Xã Tân Tiến",
+            "pid": 6669,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm Nam - Xã Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933086",
+            "lng": "106.5790323"
+        },
+        {
+            "id": 843043,
+            "name": "Xóm Tây - Xã Tân Tiến - An Dương",
+            "pid": 6669,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tây - Xã Tân Tiến - An Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933086",
+            "lng": "106.57903229999998"
+        }
+    ],
+    "log_id": "67581365a9052432"
+}

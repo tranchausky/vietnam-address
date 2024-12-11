@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 646357,
+            "name": "Thôn Đại Nghĩa",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.461854",
+            "lng": "105.369739"
+        },
+        {
+            "id": 646294,
+            "name": "Thôn Đồng Tâm",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.458033",
+            "lng": "105.372811"
+        },
+        {
+            "id": 646270,
+            "name": "Thôn Lê Lợi",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.459516636819586",
+            "lng": "105.36888048084076"
+        },
+        {
+            "id": 646183,
+            "name": "Thôn Lê Xoay",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Xoay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.461914",
+            "lng": "105.372491"
+        },
+        {
+            "id": 646321,
+            "name": "Thôn Liên Kết",
+            "pid": 6446,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Liên Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.464928282857475",
+            "lng": "105.35921592350428"
+        },
+        {
+            "id": 646231,
+            "name": "Thôn Minh Tân",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Minh Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.462038",
+            "lng": "105.374035"
+        },
+        {
+            "id": 646375,
+            "name": "Thôn Thống Nhất",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.447028812352322",
+            "lng": "105.37917041797732"
+        },
+        {
+            "id": 646405,
+            "name": "Thôn Tiền Phong",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.450539",
+            "lng": "105.378501"
+        },
+        {
+            "id": 646468,
+            "name": "Thôn Trần Phú",
+            "pid": 6446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.457574",
+            "lng": "105.372155"
+        }
+    ],
+    "log_id": "675815338e965413"
+}

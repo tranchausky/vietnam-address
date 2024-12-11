@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 791524,
+            "name": "Hẻm 127 - P. Tân Vạn",
+            "pid": 6947,
+            "type": 10,
+            "region": null,
+            "alias": "Hẻm 127 - P. Tân Vạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9117711",
+            "lng": "106.82724579999999"
+        },
+        {
+            "id": 93743,
+            "name": "Khu Phố 1 - P. Tân Vạn",
+            "pid": 6947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - P. Tân Vạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.910571",
+            "lng": "106.828677"
+        },
+        {
+            "id": 93749,
+            "name": "Khu Phố 2 - P. Tân Vạn",
+            "pid": 6947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - P. Tân Vạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.910571",
+            "lng": "106.828677"
+        },
+        {
+            "id": 93758,
+            "name": "Khu Phố 3 - P. Tân Vạn",
+            "pid": 6947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - P. Tân Vạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.910571",
+            "lng": "106.828677"
+        }
+    ],
+    "log_id": "675814dd5fcad457"
+}

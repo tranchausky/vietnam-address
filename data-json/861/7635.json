@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434767,
+            "name": "Ấp Kô Kô",
+            "pid": 7635,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kô Kô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.598083",
+            "lng": "106.081806"
+        },
+        {
+            "id": 434769,
+            "name": "Ấp Sóc Dong",
+            "pid": 7635,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Dong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.660306",
+            "lng": "106.070222"
+        },
+        {
+            "id": 434771,
+            "name": "Ấp Tân Lịch",
+            "pid": 7635,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lịch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.644167",
+            "lng": "106.075944"
+        },
+        {
+            "id": 434773,
+            "name": "Ấp Tân Quy A",
+            "pid": 7635,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Quy A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.620278",
+            "lng": "106.067472"
+        },
+        {
+            "id": 434775,
+            "name": "Ấp Tân Quy B",
+            "pid": 7635,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Quy B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.609833",
+            "lng": "106.078861"
+        }
+    ],
+    "log_id": "675909c16fcf0179"
+}

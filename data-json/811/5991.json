@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 847150,
+            "name": "Đường Đoàn Trần Nghiệp",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Trần Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 709516,
+            "name": "Đường Hà Huy Tập",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hà Huy Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525173,
+            "name": "Đường Hoàng Hoa Thám",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Hoa Thám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525177,
+            "name": "Đường Nguyễn Hiền",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525179,
+            "name": "Đường Phan Bội Châu",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Bội Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525181,
+            "name": "Đường Trần Đăng Ninh",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Đăng Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525183,
+            "name": "Đường Tràng Thi",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tràng Thi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 835657,
+            "name": "Lê Hồng Sơn",
+            "pid": 5991,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Hồng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7b124363"
+}

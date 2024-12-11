@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 901447,
+            "name": "Phiêng 1",
+            "pid": 24184,
+            "type": 16,
+            "region": null,
+            "alias": "Phiêng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6055985",
+            "lng": "104.50872830000004"
+        },
+        {
+            "id": 742225,
+            "name": "Phiêng 2",
+            "pid": 24184,
+            "type": 16,
+            "region": null,
+            "alias": "Phiêng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5703097",
+            "lng": "104.59466329999998"
+        },
+        {
+            "id": 880738,
+            "name": "Tdp Cửa Nhì",
+            "pid": 24184,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Cửa Nhì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5873546",
+            "lng": "104.51746520000006"
+        },
+        {
+            "id": 797893,
+            "name": "Tdp Hà Thịnh",
+            "pid": 24184,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Hà Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5703097",
+            "lng": "104.59466329999998"
+        },
+        {
+            "id": 880750,
+            "name": "Thác Hoa 3",
+            "pid": 24184,
+            "type": 16,
+            "region": null,
+            "alias": "Thác Hoa 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6341632",
+            "lng": "104.49853589999998"
+        },
+        {
+            "id": 731416,
+            "name": "Thôn Đồng Ban",
+            "pid": 24184,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Ban",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5703097",
+            "lng": "104.59466329999998"
+        },
+        {
+            "id": 731407,
+            "name": "Thôn Hồng Sơn",
+            "pid": 24184,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6526665",
+            "lng": "104.48688830000003"
+        },
+        {
+            "id": 880747,
+            "name": "Văn Thi 4",
+            "pid": 24184,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Thi 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6341632",
+            "lng": "104.49853589999998"
+        }
+    ],
+    "log_id": "6758131fa34d621"
+}

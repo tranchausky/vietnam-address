@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668896,
+            "name": "Đường Cà Dăm",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cà Dăm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.239574",
+            "lng": "105.9571928"
+        },
+        {
+            "id": 668875,
+            "name": "Đường Cao Thắng",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7731906",
+            "lng": "106.6784833"
+        },
+        {
+            "id": 668893,
+            "name": "Đường Đinh Tiên Hoàng",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đinh Tiên Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.072312",
+            "lng": "106.2383414"
+        },
+        {
+            "id": 668902,
+            "name": "Đường Nguyễn Huệ",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7656941",
+            "lng": "109.2251016"
+        },
+        {
+            "id": 668878,
+            "name": "Đường Nguyễn Trung Trực",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trung Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4851067",
+            "lng": "105.5760164"
+        },
+        {
+            "id": 668890,
+            "name": "Đường Phạm Hồng Thái",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Hồng Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0674041",
+            "lng": "108.2216287"
+        },
+        {
+            "id": 668884,
+            "name": "Đường Phan Đình Phùng",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đình Phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0407726",
+            "lng": "105.8410151"
+        },
+        {
+            "id": 668872,
+            "name": "Đường Phan Văn Đáng",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Văn Đáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7251875",
+            "lng": "106.7715203"
+        },
+        {
+            "id": 668899,
+            "name": "Đường Phó Cơ Điều",
+            "pid": 8091,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phó Cơ Điều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7585021",
+            "lng": "106.6570774"
+        }
+    ],
+    "log_id": "67590b59a66bf117"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424355,
+            "name": "Bảo Trúc",
+            "pid": 6364,
+            "type": 20,
+            "region": null,
+            "alias": "Bảo Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3820191",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 1001516,
+            "name": "Bưu Điện Thị Trấn Hợp Hòa",
+            "pid": 6364,
+            "type": 4,
+            "region": null,
+            "alias": "Bưu Điện Thị Trấn Hợp Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.379481686476968",
+            "lng": "105.54082053410713"
+        },
+        {
+            "id": 424343,
+            "name": "Tdp Bình Hòa",
+            "pid": 6364,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Bình Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3820191",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 424351,
+            "name": "Tdp Điền Lương",
+            "pid": 6364,
+            "type": 20,
+            "region": null,
+            "alias": "TDP điền lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3820191",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 424349,
+            "name": "Tdp Liên Bình",
+            "pid": 6364,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Liên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3820191",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 424345,
+            "name": "Tdp Long Trì",
+            "pid": 6364,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Long Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3820191",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 424341,
+            "name": "Tdp Vinh Phú",
+            "pid": 6364,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Vinh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3820191",
+            "lng": "105.53864470000008"
+        }
+    ],
+    "log_id": "675815333d32c388"
+}

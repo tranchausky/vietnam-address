@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599847,
+            "name": "Bà Từ",
+            "pid": 19807,
+            "type": 17,
+            "region": null,
+            "alias": "Bà Từ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599856,
+            "name": "Cồn Cống",
+            "pid": 19807,
+            "type": 17,
+            "region": null,
+            "alias": "Cồn Cống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599850,
+            "name": "Pháo Đài",
+            "pid": 19807,
+            "type": 17,
+            "region": null,
+            "alias": "Pháo Đài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599853,
+            "name": "Phú Hữu",
+            "pid": 19807,
+            "type": 17,
+            "region": null,
+            "alias": "Phú Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        }
+    ],
+    "log_id": "675814f3f3c61118"
+}

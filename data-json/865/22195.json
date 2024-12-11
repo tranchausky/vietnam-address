@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 970920,
+            "name": "Bản Cá Tớp",
+            "pid": 22195,
+            "type": 16,
+            "region": null,
+            "alias": "Bản cá Tớp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4655648",
+            "lng": "104.5541332"
+        },
+        {
+            "id": 813238,
+            "name": "Bản Cơm",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Bản Cơm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4602235",
+            "lng": "104.577181"
+        },
+        {
+            "id": 559791,
+            "name": "Bản Hạ Sơn",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Bản Hạ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4602235",
+            "lng": "104.577181"
+        },
+        {
+            "id": 559793,
+            "name": "Bản Na Tao",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Bản Na Tao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4602235",
+            "lng": "104.577181"
+        },
+        {
+            "id": 969034,
+            "name": "Cá Nọi",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Cá Nọi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4720086",
+            "lng": "104.5366287"
+        },
+        {
+            "id": 880120,
+            "name": "Đong Ban",
+            "pid": 22195,
+            "type": 18,
+            "region": null,
+            "alias": "đong Ban",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4602235",
+            "lng": "104.577181"
+        },
+        {
+            "id": 969035,
+            "name": "Pha Đén",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Pha đén",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.501255",
+            "lng": "104.5653819"
+        },
+        {
+            "id": 969032,
+            "name": "Pù Ngùa",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Pù Ngùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4560063",
+            "lng": "104.5431089"
+        },
+        {
+            "id": 969030,
+            "name": "Pù Quan",
+            "pid": 22195,
+            "type": 17,
+            "region": null,
+            "alias": "Pù Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4369861",
+            "lng": "104.5549966"
+        },
+        {
+            "id": 880123,
+            "name": "Pù Tong",
+            "pid": 22195,
+            "type": 16,
+            "region": null,
+            "alias": "Pù Tong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4602235",
+            "lng": "104.577181"
+        }
+    ],
+    "log_id": "67590a234aefe100"
+}

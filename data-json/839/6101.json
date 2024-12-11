@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 433319,
+            "name": "Ấp 1 - Hưng Hòa",
+            "pid": 6101,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1 - Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.223357601330292",
+            "lng": "106.6969593389478"
+        },
+        {
+            "id": 433321,
+            "name": "Ấp 2 - Hưng Hòa",
+            "pid": 6101,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 2 - Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.241325336998024",
+            "lng": "106.69435560526303"
+        },
+        {
+            "id": 433323,
+            "name": "Ấp 3 - Hưng Hòa",
+            "pid": 6101,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 3 - Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.213367626621226",
+            "lng": "106.70279649894837"
+        },
+        {
+            "id": 433325,
+            "name": "Ấp 4 - Hưng Hòa",
+            "pid": 6101,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 4 - Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.250081567316267",
+            "lng": "106.70696966402915"
+        },
+        {
+            "id": 433327,
+            "name": "Ấp 5 - Hưng Hòa",
+            "pid": 6101,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 5 - Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.20431473912741",
+            "lng": "106.6899388128846"
+        },
+        {
+            "id": 433329,
+            "name": "Ấp 6 - Hưng Hòa",
+            "pid": 6101,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 6 - Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.231494460988086",
+            "lng": "106.68580690492576"
+        }
+    ],
+    "log_id": "675816219a2ae554"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112435,
+            "name": "Đối Diện Công Ty Ptxd Hoàng Long - Quốc Lộ A",
+            "pid": 4899,
+            "type": 10,
+            "region": null,
+            "alias": "Đối Diện Công Ty PTXD Hoàng Long - Quốc Lộ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8661451",
+            "lng": "105.8704926"
+        },
+        {
+            "id": 770977,
+            "name": "Ngõ Mơ",
+            "pid": 4899,
+            "type": 10,
+            "region": null,
+            "alias": "ngõ mơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8628013",
+            "lng": "105.87894030000008"
+        },
+        {
+            "id": 55634,
+            "name": "Ubnd Xã Hà Hồi",
+            "pid": 4899,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Xã Hà Hồi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.865801",
+            "lng": "105.8721424,17"
+        },
+        {
+            "id": 112499,
+            "name": "Xóm Hòa Lương",
+            "pid": 4899,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hòa Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8628013",
+            "lng": "105.8789403"
+        },
+        {
+            "id": 112453,
+            "name": "Xóm Nguyễn Trãi",
+            "pid": 4899,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8617286",
+            "lng": "105.8686308"
+        },
+        {
+            "id": 112483,
+            "name": "Xóm Quang Trung",
+            "pid": 4899,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8654691",
+            "lng": "105.8735747"
+        }
+    ],
+    "log_id": "675811bd6e3df350"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453521,
+            "name": "Thôn Đăk Chum 1",
+            "pid": 19457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Chum 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.8797451",
+            "lng": "107.96503529999995"
+        },
+        {
+            "id": 453523,
+            "name": "Thôn Đăk Chum 2",
+            "pid": 19457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Chum 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.8797451",
+            "lng": "107.96503529999995"
+        },
+        {
+            "id": 453517,
+            "name": "Thôn Đăk Nen",
+            "pid": 19457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Nen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8797451",
+            "lng": "107.96503529999995"
+        },
+        {
+            "id": 744964,
+            "name": "Thôn Tu Cấp",
+            "pid": 19457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tu Cấp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.8797451",
+            "lng": "107.96503529999997"
+        },
+        {
+            "id": 744961,
+            "name": "Thôn Tumorong",
+            "pid": 19457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tumorong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.8797451",
+            "lng": "107.96503529999997"
+        },
+        {
+            "id": 453519,
+            "name": "Thôn Văn Xang",
+            "pid": 19457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Xang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.8797451",
+            "lng": "107.96503529999995"
+        }
+    ],
+    "log_id": "6758174cdac60180"
+}

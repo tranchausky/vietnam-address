@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443703,
+            "name": "Thôn Hội Cư",
+            "pid": 16487,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.966586",
+            "lng": "109.269742"
+        },
+        {
+            "id": 443705,
+            "name": "Thôn Phú Khánh",
+            "pid": 16487,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.966586",
+            "lng": "109.269742"
+        },
+        {
+            "id": 443707,
+            "name": "Thôn Xuân Thạnh 1",
+            "pid": 16487,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.966586",
+            "lng": "109.269742"
+        },
+        {
+            "id": 443709,
+            "name": "Thôn Xuân Thạnh 2",
+            "pid": 16487,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.966586",
+            "lng": "109.269742"
+        },
+        {
+            "id": 833446,
+            "name": "Trường Thcs Phạm Đình Quy",
+            "pid": 16487,
+            "type": 21,
+            "region": null,
+            "alias": "Trường THCS Phạm Đình Quy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.966586",
+            "lng": "109.269742"
+        }
+    ],
+    "log_id": "67590b80a1feb186"
+}

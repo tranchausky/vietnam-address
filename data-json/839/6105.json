@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 433309,
+            "name": "Ấp 1 - Tân Hưng",
+            "pid": 6105,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1 - Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.25240928678822",
+            "lng": "106.66064239393644"
+        },
+        {
+            "id": 433311,
+            "name": "Ấp 2 - Tân Hưng",
+            "pid": 6105,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 2 - Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.275059594571125",
+            "lng": "106.65131770840276"
+        },
+        {
+            "id": 433313,
+            "name": "Ấp 3 - Tân Hưng",
+            "pid": 6105,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 3 - Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.235233561247288",
+            "lng": "106.65165606873812"
+        },
+        {
+            "id": 433315,
+            "name": "Ấp 4 - Tân Hưng",
+            "pid": 6105,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 4 - Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.265659125370592",
+            "lng": "106.67243121478542"
+        },
+        {
+            "id": 433317,
+            "name": "Ấp 5 - Tân Hưng",
+            "pid": 6105,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 5 - Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.23773760772695",
+            "lng": "106.67789385920432"
+        }
+    ],
+    "log_id": "675816219b4dd352"
+}

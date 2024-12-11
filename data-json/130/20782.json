@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 590073,
+            "name": "Bản En",
+            "pid": 20782,
+            "type": 17,
+            "region": null,
+            "alias": "Bản En",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0775359",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590076,
+            "name": "Bản Kỳ Sơn",
+            "pid": 20782,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Kỳ Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0775359",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590079,
+            "name": "Bản Nhèm",
+            "pid": 20782,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nhèm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0775359",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590085,
+            "name": "Bản Suối Trắng",
+            "pid": 20782,
+            "type": 16,
+            "region": null,
+            "alias": "bản Suối Trắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0775359",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590082,
+            "name": "Bản Tăng",
+            "pid": 20782,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0775359",
+            "lng": "104.4373961"
+        }
+    ],
+    "log_id": "675812ef38a1f905"
+}

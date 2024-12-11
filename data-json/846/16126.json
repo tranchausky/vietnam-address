@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 991419,
+            "name": "Ấp 4",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.623185",
+            "lng": "105.773884"
+        },
+        {
+            "id": 619293,
+            "name": "Ấp 5A",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.623185",
+            "lng": "105.773884"
+        },
+        {
+            "id": 619296,
+            "name": "Ấp 5B",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.623185",
+            "lng": "105.773884"
+        },
+        {
+            "id": 619299,
+            "name": "Ấp 6A",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.623185",
+            "lng": "105.773884"
+        },
+        {
+            "id": 619302,
+            "name": "Ấp 6B",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.623185",
+            "lng": "105.773884"
+        },
+        {
+            "id": 78845,
+            "name": "Ấp Kinh Hội Kỳ Nhất",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Kinh Hội Kỳ Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12",
+            "lng": "109"
+        },
+        {
+            "id": 78848,
+            "name": "Ấp Kinh Hội Kỳ Nhì",
+            "pid": 16126,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Kinh Hội Kỳ Nhì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12",
+            "lng": "109"
+        }
+    ],
+    "log_id": "675816c0701b2396"
+}

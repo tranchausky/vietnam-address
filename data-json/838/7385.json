@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442449,
+            "name": "Khu Phố 1",
+            "pid": 7385,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.221433",
+            "lng": "106.35017800000003"
+        },
+        {
+            "id": 442451,
+            "name": "Khu Phố 2",
+            "pid": 7385,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.221433",
+            "lng": "106.35017800000003"
+        },
+        {
+            "id": 442453,
+            "name": "Khu Phố 3",
+            "pid": 7385,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.221433",
+            "lng": "106.35017800000003"
+        },
+        {
+            "id": 442455,
+            "name": "Khu Phố 4",
+            "pid": 7385,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.221433",
+            "lng": "106.35017800000003"
+        },
+        {
+            "id": 442447,
+            "name": "Khu Phố Mỹ Tân",
+            "pid": 7385,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Mỹ Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.221433",
+            "lng": "106.35017800000003"
+        }
+    ],
+    "log_id": "6758160dbc6de119"
+}

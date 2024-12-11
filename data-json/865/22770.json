@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 987253,
+            "name": "Đường 3",
+            "pid": 22770,
+            "type": 17,
+            "region": null,
+            "alias": "đường 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.944550778798234",
+            "lng": "105.49592056366399"
+        },
+        {
+            "id": 987270,
+            "name": "Đường 4, Thôn 1, Xuân Hòa",
+            "pid": 22770,
+            "type": 17,
+            "region": null,
+            "alias": "đường 4, thôn 1, xuân hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.949367728495638, 105.49639616308554",
+            "lng": "105.49639616308554"
+        },
+        {
+            "id": 594303,
+            "name": "Thôn Hạ Long",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hạ long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594297,
+            "name": "Thôn Khải Đông",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khải đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594294,
+            "name": "Thôn Kim Ốc",
+            "pid": 22770,
+            "type": 21,
+            "region": null,
+            "alias": "thôn kim ốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594291,
+            "name": "Thôn Phúc Thượng",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phúc thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594288,
+            "name": "Thôn Thọ Khang",
+            "pid": 22770,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Thọ Khang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594309,
+            "name": "Thôn Thượng Vôi",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thượng vôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594306,
+            "name": "Thôn Thủy Cơ",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thủy cơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594312,
+            "name": "Thôn Tỉnh Thôn 1",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tỉnh thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594315,
+            "name": "Thôn Tỉnh Thôn 2",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tỉnh thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 594300,
+            "name": "Thôn Trung Thành",
+            "pid": 22770,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trung thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9475479",
+            "lng": "105.49761809999995"
+        }
+    ],
+    "log_id": "67590a2407c78427"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719152,
+            "name": "Nội Mỹ",
+            "pid": 15072,
+            "type": 16,
+            "region": null,
+            "alias": "Nội Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.543323",
+            "lng": "109.1314726"
+        },
+        {
+            "id": 719089,
+            "name": "Phước Thuận",
+            "pid": 15072,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5390969",
+            "lng": "109.1322866"
+        },
+        {
+            "id": 719101,
+            "name": "Quang Đông",
+            "pid": 15072,
+            "type": 16,
+            "region": null,
+            "alias": "Quang Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5369132",
+            "lng": "109.1408013"
+        },
+        {
+            "id": 719134,
+            "name": "Thôn Phú Nghĩa",
+            "pid": 15072,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn PHÚ NGHĨA",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5481434",
+            "lng": "109.1393527"
+        },
+        {
+            "id": 719143,
+            "name": "Văn Định",
+            "pid": 15072,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5234523",
+            "lng": "109.1347742"
+        }
+    ],
+    "log_id": "67581585c31bc776"
+}

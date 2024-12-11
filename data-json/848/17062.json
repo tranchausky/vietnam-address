@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428625,
+            "name": "Cảng Cá Thạch Kim",
+            "pid": 17062,
+            "type": 10,
+            "region": null,
+            "alias": "Cảng cá Thạch Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428623,
+            "name": "Cụm Kcn Mới",
+            "pid": 17062,
+            "type": 10,
+            "region": null,
+            "alias": "Cụm KCN mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428611,
+            "name": "Giang Hà",
+            "pid": 17062,
+            "type": 16,
+            "region": null,
+            "alias": "Giang Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428615,
+            "name": "Hoa Thành",
+            "pid": 17062,
+            "type": 16,
+            "region": null,
+            "alias": "Hoa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428619,
+            "name": "Liên Tân",
+            "pid": 17062,
+            "type": 16,
+            "region": null,
+            "alias": "Liên Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428621,
+            "name": "Long Hải",
+            "pid": 17062,
+            "type": 16,
+            "region": null,
+            "alias": "Long Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428613,
+            "name": "Sơn Bằng",
+            "pid": 17062,
+            "type": 16,
+            "region": null,
+            "alias": "Sơn Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 428617,
+            "name": "Xuân Phượng",
+            "pid": 17062,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4598215",
+            "lng": "105.92005310000002"
+        }
+    ],
+    "log_id": "675816e9e6a16568"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639724,
+            "name": "Bản Chang Chảo Pá",
+            "pid": 22451,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chang Chảo Pá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.395168",
+            "lng": "102.977069"
+        },
+        {
+            "id": 639721,
+            "name": "Bản Hua Bum",
+            "pid": 22451,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hua Bum",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.396504",
+            "lng": "102.973960"
+        },
+        {
+            "id": 639727,
+            "name": "Bản Nậm Nghẹ",
+            "pid": 22451,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Nghẹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.424338",
+            "lng": "102.962088"
+        }
+    ],
+    "log_id": "6758175e5dbc5837"
+}

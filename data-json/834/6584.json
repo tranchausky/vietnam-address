@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962876,
+            "name": "704-850 Đường 30 Tháng 4",
+            "pid": 6584,
+            "type": 29,
+            "region": null,
+            "alias": "704-850 Đường 30 Tháng 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.401804870279973,",
+            "lng": "107.12230236786235"
+        },
+        {
+            "id": 962873,
+            "name": "777-899 Đường 30 Tháng 4",
+            "pid": 6584,
+            "type": 29,
+            "region": null,
+            "alias": "777-899 Đường 30 Tháng 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.401702053150684",
+            "lng": "107.12117108505122"
+        },
+        {
+            "id": 962871,
+            "name": "852-1172 Đường 30 Tháng 4",
+            "pid": 6584,
+            "type": 29,
+            "region": null,
+            "alias": "852-1172 Đường 30 Tháng 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.407000311313212",
+            "lng": "107.12984942553308"
+        },
+        {
+            "id": 962867,
+            "name": "1172-1210 Đường 30 Tháng 4",
+            "pid": 6584,
+            "type": 29,
+            "region": null,
+            "alias": "1172-1210 Đường 30 Tháng 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.409904521263922",
+            "lng": "107.13354512553306"
+        },
+        {
+            "id": 445557,
+            "name": "Bắc Sơn",
+            "pid": 6584,
+            "type": 21,
+            "region": null,
+            "alias": "Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4017412",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 445555,
+            "name": "Đô Lương",
+            "pid": 6584,
+            "type": 21,
+            "region": null,
+            "alias": "Đô Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4017412",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 445561,
+            "name": "Đường 2\/9",
+            "pid": 6584,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 2\/9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4017412",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 445559,
+            "name": "Đường 3\/2",
+            "pid": 6584,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4017412",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 962495,
+            "name": "Hẻm 780 Bình Giã, Phường 11, Thành Phố Vũng Tàu",
+            "pid": 6584,
+            "type": 21,
+            "region": null,
+            "alias": "Hẻm 780 Bình Giã, Phường 11, Thành phố Vũng Tàu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.390778744641132",
+            "lng": "107.12075614087443"
+        },
+        {
+            "id": 962496,
+            "name": "Hẻm 828, Bình Giã, Phường 11, Thành Phố Vũng Tàu",
+            "pid": 6584,
+            "type": 21,
+            "region": null,
+            "alias": "Hẻm 828, Bình Giã, Phường 11, Thành Phố Vũng Tàu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.395471252732861",
+            "lng": "107.12060954087445"
+        },
+        {
+            "id": 962494,
+            "name": "Hẻm 888 Đường 30 Tháng 4",
+            "pid": 6584,
+            "type": 16,
+            "region": null,
+            "alias": "Hẻm 888 Đường 30 Tháng 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.405648340370503",
+            "lng": "107.13232015436837"
+        },
+        {
+            "id": 74715,
+            "name": "Trường Thpt Chuyên Lê Quý Đôn",
+            "pid": 6584,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT chuyên Lê Quý Đôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.388728",
+            "lng": "107.135590"
+        }
+    ],
+    "log_id": "675815b3e7307388"
+}

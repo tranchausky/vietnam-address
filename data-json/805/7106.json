@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398181,
+            "name": "Báo Đáp",
+            "pid": 7106,
+            "type": 16,
+            "region": null,
+            "alias": "Báo Đáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8129812",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 398179,
+            "name": "Độ Trung",
+            "pid": 7106,
+            "type": 16,
+            "region": null,
+            "alias": "Độ Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8129812",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 398177,
+            "name": "Quảng Giang",
+            "pid": 7106,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8129812",
+            "lng": "106.33754929999998"
+        }
+    ],
+    "log_id": "675813f205e71477"
+}

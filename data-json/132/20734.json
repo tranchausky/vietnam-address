@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 416929,
+            "name": "Thôn Đồng Tâm",
+            "pid": 20734,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9341969",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 416931,
+            "name": "Thôn Phú Mĩ",
+            "pid": 20734,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mĩ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9341969",
+            "lng": "104.94472610000003"
+        }
+    ],
+    "log_id": "6758131fa58db387"
+}

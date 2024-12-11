@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568056,
+            "name": "Thôn Lập Đức",
+            "pid": 16537,
+            "type": 17,
+            "region": null,
+            "alias": "Thôn Lập Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.861701",
+            "lng": "107.823115"
+        },
+        {
+            "id": 568059,
+            "name": "Thôn Lập Phước",
+            "pid": 16537,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.861701",
+            "lng": "107.823115"
+        },
+        {
+            "id": 568062,
+            "name": "Thôn Lập Sơn",
+            "pid": 16537,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.861701",
+            "lng": "107.823115"
+        },
+        {
+            "id": 568065,
+            "name": "Thôn Tà Mon",
+            "pid": 16537,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Mon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.861701",
+            "lng": "107.823115"
+        }
+    ],
+    "log_id": "67581477ee54a822"
+}

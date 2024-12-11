@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117869,
+            "name": "Cổng Bầu",
+            "pid": 4779,
+            "type": 16,
+            "region": null,
+            "alias": "Cổng Bầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1214676",
+            "lng": "105.5327831"
+        },
+        {
+            "id": 117861,
+            "name": "Ổ Thôn",
+            "pid": 4779,
+            "type": 16,
+            "region": null,
+            "alias": "Ổ Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1214676",
+            "lng": "105.5327831"
+        },
+        {
+            "id": 117865,
+            "name": "Thượng Lộc",
+            "pid": 4779,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3896359",
+            "lng": "105.6940454"
+        },
+        {
+            "id": 41556,
+            "name": "Trường Hữu Nghị T78",
+            "pid": 4779,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Hữu nghị T78",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1197087",
+            "lng": "105.52618289999998"
+        },
+        {
+            "id": 55058,
+            "name": "Ubnd Xã Thọ Lộc",
+            "pid": 4779,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thọ Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 117863,
+            "name": "Xóm Bướm",
+            "pid": 4779,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bướm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1214676",
+            "lng": "105.5327831"
+        }
+    ],
+    "log_id": "675811bc48663119"
+}

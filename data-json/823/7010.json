@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88748,
+            "name": "Ấp Bến Cộ",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Cộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7564007",
+            "lng": "106.9225798"
+        },
+        {
+            "id": 435507,
+            "name": "Ấp Bến Cộ Khu A",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Cộ Khu A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442163",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 435505,
+            "name": "Ấp Bến Cộ Khu B",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Cộ Khu B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442163",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 435497,
+            "name": "Ấp Phước Lý Khu A",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lý Khu A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442163",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 435499,
+            "name": "Ấp Phước Lý Khu B",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lý Khu B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442163",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 435501,
+            "name": "Ấp Phước Lý Khu C",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lý Khu C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442163",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 435503,
+            "name": "Ấp Phước Lý Khu D",
+            "pid": 7010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lý Khu D",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442163",
+            "lng": "106.82373740000003"
+        }
+    ],
+    "log_id": "675814dd48992959"
+}

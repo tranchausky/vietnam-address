@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446917,
+            "name": "Ấp Phú Long A",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Long A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446919,
+            "name": "Ấp Phú Long B",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Long B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446925,
+            "name": "Ấp Phước Bình A",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Bình A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446927,
+            "name": "Ấp Phước Bình B",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Bình B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446913,
+            "name": "Ấp Phước Yên A",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Yên A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446915,
+            "name": "Ấp Phước Yên B",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Yên B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446921,
+            "name": "Ấp Phú Thạnh A",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Thạnh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        },
+        {
+            "id": 446923,
+            "name": "Ấp Phú Thạnh B",
+            "pid": 15690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Thạnh B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1508104",
+            "lng": "105.922551"
+        }
+    ],
+    "log_id": "67590b59a0b6a757"
+}

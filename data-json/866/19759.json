@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462809,
+            "name": "Thôn Phú Thành",
+            "pid": 19759,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2281581",
+            "lng": "107.29619530000002"
+        },
+        {
+            "id": 462811,
+            "name": "Thôn Phú Thượng",
+            "pid": 19759,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2281581",
+            "lng": "107.29619530000002"
+        },
+        {
+            "id": 462813,
+            "name": "Thôn Phú Xuân",
+            "pid": 19759,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2281581",
+            "lng": "107.29619530000002"
+        }
+    ],
+    "log_id": "67590b2654c43838"
+}

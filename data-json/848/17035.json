@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428365,
+            "name": "Thôn Hồng Sơn",
+            "pid": 17035,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hồng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 428355,
+            "name": "Thôn Tân Tiến",
+            "pid": 17035,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 428357,
+            "name": "Thôn Thượng Hà",
+            "pid": 17035,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Thượng Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 428353,
+            "name": "Thôn Tiến Thịnh",
+            "pid": 17035,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Tiến Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 428363,
+            "name": "Thôn Trà Sơn",
+            "pid": 17035,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trà Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 428361,
+            "name": "Thôn Vĩnh Phú",
+            "pid": 17035,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vĩnh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 428359,
+            "name": "Xóm Làng Hội",
+            "pid": 17035,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Làng Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4262193",
+            "lng": "105.67058010000005"
+        }
+    ],
+    "log_id": "675816e9aac8f748"
+}

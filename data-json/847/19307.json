@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 623637,
+            "name": "Buôn Blang",
+            "pid": 19307,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Blang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.167783",
+            "lng": "108.771989"
+        },
+        {
+            "id": 623640,
+            "name": "Buôn Diết",
+            "pid": 19307,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Diết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.167783",
+            "lng": "108.771989"
+        },
+        {
+            "id": 623646,
+            "name": "Thôn Thống Nhất",
+            "pid": 19307,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.167783",
+            "lng": "108.771989"
+        }
+    ],
+    "log_id": "675816d36f78718"
+}

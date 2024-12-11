@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668539,
+            "name": "Chung Cư Vân Canh, Vân Canh, Hoài Đức",
+            "pid": 4694,
+            "type": 4,
+            "region": null,
+            "alias": "chung cư Vân Canh, Vân Canh, Hoài Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0374698",
+            "lng": "105.7326886"
+        },
+        {
+            "id": 667150,
+            "name": "Đình An Trai",
+            "pid": 4694,
+            "type": 16,
+            "region": null,
+            "alias": "Đình An Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0308323",
+            "lng": "105.7324756"
+        },
+        {
+            "id": 667051,
+            "name": "Đình Hậu Ái, Xã Vân Canh, Hoài Đức, Hà Nội",
+            "pid": 4694,
+            "type": 16,
+            "region": null,
+            "alias": "Đình Hậu Ái, xã vân canh, hoài đức, hà nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0383063",
+            "lng": "105.726441"
+        },
+        {
+            "id": 721411,
+            "name": "Đường Vân Canh",
+            "pid": 4694,
+            "type": 18,
+            "region": null,
+            "alias": "đường Vân Canh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 73934,
+            "name": "Hậu Ái",
+            "pid": 4694,
+            "type": 16,
+            "region": null,
+            "alias": "hậu ái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0363966",
+            "lng": "105.7247561"
+        },
+        {
+            "id": 98762,
+            "name": "Làng An Trai, Xã Vân Canh, Huyện Hoài Đức, Hà Nội",
+            "pid": 4694,
+            "type": 18,
+            "region": null,
+            "alias": "Làng An Trai, xã Vân Canh, Huyện Hoài Đức, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0330854",
+            "lng": "105.735332"
+        },
+        {
+            "id": 53590,
+            "name": "Trung Cấp Nghề Nhân Lực Quốc Tế",
+            "pid": 4694,
+            "type": 9,
+            "region": null,
+            "alias": "Trung cấp nghề Nhân lực Quốc tế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.802618",
+            "lng": "106.66528300000004"
+        },
+        {
+            "id": 53594,
+            "name": "Trung Cấp Nghề Vân Canh",
+            "pid": 4694,
+            "type": 9,
+            "region": null,
+            "alias": "Trung cấp nghề Vân Canh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0339949",
+            "lng": "105.73806620000005"
+        },
+        {
+            "id": 721408,
+            "name": "Xóm 6 Kim Hoàng",
+            "pid": 4694,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 6 Kim Hoàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 721414,
+            "name": "Xóm 7 Kim Hoàng",
+            "pid": 4694,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 7 Kim Hoàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 754930,
+            "name": "Xóm 10",
+            "pid": 4694,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bba03c1954"
+}

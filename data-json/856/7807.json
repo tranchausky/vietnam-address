@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 577431,
+            "name": "Thôn Bồng Hải",
+            "pid": 7807,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bồng hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577425,
+            "name": "Thôn Phú Hậu",
+            "pid": 7807,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn phú hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577440,
+            "name": "Xóm 1",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577443,
+            "name": "Xóm 2",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577437,
+            "name": "Xóm Bến Xanh",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm bến xanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577422,
+            "name": "Xóm Cầu Âu",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm cầu âu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577434,
+            "name": "Xóm Chợ Xanh",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm chợ xanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577446,
+            "name": "Xóm Phong An",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm phong an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        },
+        {
+            "id": 577428,
+            "name": "Xóm Tây Phú",
+            "pid": 7807,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm tây phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2124098",
+            "lng": "106.11057640000001"
+        }
+    ],
+    "log_id": "67581799063b9317"
+}

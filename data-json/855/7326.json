@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452217,
+            "name": "Ấp Bà Mía",
+            "pid": 7326,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bà Mía",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6295619",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 452225,
+            "name": "Ấp Bà Nghiệm",
+            "pid": 7326,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bà Nghiệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6295619",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 452219,
+            "name": "Ấp Cầu Lớn",
+            "pid": 7326,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cầu Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6295619",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 452221,
+            "name": "Ấp Mỹ Hoà",
+            "pid": 7326,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Mỹ Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6295619",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 452223,
+            "name": "Ấp Vườn Cò",
+            "pid": 7326,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Vườn Cò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6295619",
+            "lng": "106.32871990000001"
+        }
+    ],
+    "log_id": "6758178547142944"
+}

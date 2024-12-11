@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 713644,
+            "name": "Chợ Thanh Quýt",
+            "pid": 17336,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Thanh Quýt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9367831",
+            "lng": "108.22292429999992"
+        },
+        {
+            "id": 697651,
+            "name": "Công Ty Hùng Tâm",
+            "pid": 17336,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty Hùng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9367831",
+            "lng": "108.22292429999992"
+        },
+        {
+            "id": 713641,
+            "name": "Công Ty Woochan",
+            "pid": 17336,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty Woochan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675817e182af5106"
+}

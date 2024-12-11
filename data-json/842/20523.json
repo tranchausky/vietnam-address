@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 505231,
+            "name": "Ubnd Xã Thắng Lợi",
+            "pid": 20523,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Xã Thắng Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7504729",
+            "lng": "106.70651029999999"
+        },
+        {
+            "id": 400077,
+            "name": "Xóm Bản Xà",
+            "pid": 20523,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Xà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7504729",
+            "lng": "106.70651029999999"
+        },
+        {
+            "id": 400079,
+            "name": "Xóm Hùng Binh",
+            "pid": 20523,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hùng Binh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7504729",
+            "lng": "106.70651029999999"
+        },
+        {
+            "id": 400081,
+            "name": "Xóm Hùng Cầu",
+            "pid": 20523,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hùng Cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7504729",
+            "lng": "106.70651029999999"
+        },
+        {
+            "id": 400083,
+            "name": "Xóm Thái Thông",
+            "pid": 20523,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thái Thông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7504729",
+            "lng": "106.70651029999999"
+        }
+    ],
+    "log_id": "67581662b06ef32"
+}

@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 647557,
+            "name": "Cố Phục Bắc",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "Cố Phục Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.949470",
+            "lng": "106.534872"
+        },
+        {
+            "id": 638301,
+            "name": "Cổ Phục Nam",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "cổ phục nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.946615",
+            "lng": "106.543824"
+        },
+        {
+            "id": 638304,
+            "name": "Lương Xá Bắc",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "Lương xá bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.946615",
+            "lng": "106.543824"
+        },
+        {
+            "id": 951845,
+            "name": "Lương Xá Nam",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "lương xá nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.958574",
+            "lng": "106.527600"
+        },
+        {
+            "id": 638310,
+            "name": "Thôn Cống Khê",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cống Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.946615",
+            "lng": "106.543824"
+        },
+        {
+            "id": 638313,
+            "name": "Thôn Phương Tân",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.946615",
+            "lng": "106.543824"
+        },
+        {
+            "id": 638307,
+            "name": "Thôn Vân Dương",
+            "pid": 78032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.946615",
+            "lng": "106.543824"
+        },
+        {
+            "id": 951848,
+            "name": "Xóm 1",
+            "pid": 78032,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.957441",
+            "lng": "106.527529"
+        },
+        {
+            "id": 951849,
+            "name": "Xóm 2",
+            "pid": 78032,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.956112",
+            "lng": "106.524624"
+        },
+        {
+            "id": 951851,
+            "name": "Xóm 3",
+            "pid": 78032,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.956863",
+            "lng": "106.523852"
+        },
+        {
+            "id": 951853,
+            "name": "Xóm 4",
+            "pid": 78032,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.959077",
+            "lng": "106.525869"
+        }
+    ],
+    "log_id": "675813f1f3852821"
+}

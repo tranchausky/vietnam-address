@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598896,
+            "name": "Hưng Hòa",
+            "pid": 19014,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.37973",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 598899,
+            "name": "Hưng Phú",
+            "pid": 19014,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.37973",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 598893,
+            "name": "Hưng Thạnh",
+            "pid": 19014,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.37973",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 598902,
+            "name": "Lăng Hoàng Gia",
+            "pid": 19014,
+            "type": 17,
+            "region": null,
+            "alias": "Lăng Hoàng Gia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.37973",
+            "lng": "106.68513600000006"
+        }
+    ],
+    "log_id": "675814f39eae9664"
+}

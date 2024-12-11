@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 610395,
+            "name": "Thôn Liên Sơn",
+            "pid": 6891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn liên sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2695571",
+            "lng": "106.29071969999995"
+        },
+        {
+            "id": 610398,
+            "name": "Thôn Quyết Chiến",
+            "pid": 6891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn quyết chiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2695571",
+            "lng": "106.29071969999995"
+        },
+        {
+            "id": 610404,
+            "name": "Thôn Thượng Tùng",
+            "pid": 6891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn thượng tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2695571",
+            "lng": "106.29071969999995"
+        },
+        {
+            "id": 610401,
+            "name": "Thôn Toàn Thắng",
+            "pid": 6891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn toàn thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2695571",
+            "lng": "106.29071969999995"
+        }
+    ],
+    "log_id": "675813d928991260"
+}

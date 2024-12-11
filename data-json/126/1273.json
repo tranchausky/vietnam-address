@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 917314,
+            "name": "Chẵn 170-448 Võ Văn Tần",
+            "pid": 1273,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 170-448 Võ Văn Tần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7693201",
+            "lng": "106.6833844"
+        },
+        {
+            "id": 680245,
+            "name": "Đường Cách Mạng Tháng Tám",
+            "pid": 1273,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cách Mạng Tháng Tám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.77439",
+            "lng": "106.6880216"
+        },
+        {
+            "id": 681769,
+            "name": "Đường Cao Thắng",
+            "pid": 1273,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7731906",
+            "lng": "106.6784833"
+        },
+        {
+            "id": 678529,
+            "name": "Đường Nguyễn Đình Chiểu",
+            "pid": 1273,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7728965",
+            "lng": "106.6848042"
+        },
+        {
+            "id": 922366,
+            "name": "Đường Nguyễn Thị Minh Khai",
+            "pid": 1273,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7784819",
+            "lng": "106.6939362"
+        },
+        {
+            "id": 676945,
+            "name": "Đường Nguyễn Thượng Hiền",
+            "pid": 1273,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thượng Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7728307",
+            "lng": "106.6848522"
+        },
+        {
+            "id": 676948,
+            "name": "Đường Võ Văn Tần",
+            "pid": 1273,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Tần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7715641",
+            "lng": "106.6856613"
+        },
+        {
+            "id": 91619,
+            "name": "Lẻ 183-299 Nguyễn Đình Chiểu",
+            "pid": 1273,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 183-299 Nguyễn Đình Chiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7713189",
+            "lng": "106.6834432"
+        },
+        {
+            "id": 91622,
+            "name": "Lẻ 401-459 Nguyễn Đình Chiểu",
+            "pid": 1273,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 401-459 Nguyễn Đình Chiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7702196",
+            "lng": "106.6824037"
+        }
+    ],
+    "log_id": "6758129ae10be179"
+}

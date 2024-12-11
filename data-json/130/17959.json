@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 803083,
+            "name": "Bản Na Băng",
+            "pid": 17959,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Băng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.003638",
+            "lng": "104.48397649999993"
+        },
+        {
+            "id": 911293,
+            "name": "Khấu Khoang",
+            "pid": 17959,
+            "type": 16,
+            "region": null,
+            "alias": "Khấu Khoang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.003638",
+            "lng": "104.48397649999993"
+        },
+        {
+            "id": 911296,
+            "name": "Nà Lắng",
+            "pid": 17959,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.003638",
+            "lng": "104.48397649999993"
+        }
+    ],
+    "log_id": "675812ef17959959"
+}

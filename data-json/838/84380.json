@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442427,
+            "name": "Phường 1",
+            "pid": 84380,
+            "type": 16,
+            "region": null,
+            "alias": "phường 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.237128",
+            "lng": "106.377068"
+        },
+        {
+            "id": 442429,
+            "name": "Phường 2",
+            "pid": 84380,
+            "type": 16,
+            "region": null,
+            "alias": "phường 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.237128",
+            "lng": "106.377068"
+        },
+        {
+            "id": 442431,
+            "name": "Phường 3",
+            "pid": 84380,
+            "type": 16,
+            "region": null,
+            "alias": "phường 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.237128",
+            "lng": "106.377068"
+        }
+    ],
+    "log_id": "6758160dbd399726"
+}

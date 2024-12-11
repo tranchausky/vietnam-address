@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 793303,
+            "name": "Chính Hạ",
+            "pid": 19114,
+            "type": 16,
+            "region": null,
+            "alias": "Chính Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2717121",
+            "lng": "106.31989079999994"
+        },
+        {
+            "id": 793297,
+            "name": "Chính Thượng",
+            "pid": 19114,
+            "type": 16,
+            "region": null,
+            "alias": "Chính Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2717121",
+            "lng": "106.31989079999994"
+        },
+        {
+            "id": 407357,
+            "name": "Thôn Lan Hoa",
+            "pid": 19114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lan Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2717121",
+            "lng": "106.31989079999994"
+        },
+        {
+            "id": 407359,
+            "name": "Thôn Muối",
+            "pid": 19114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Muối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2717121",
+            "lng": "106.31989079999994"
+        },
+        {
+            "id": 407361,
+            "name": "Thôn Trung An",
+            "pid": 19114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2717121",
+            "lng": "106.31989079999994"
+        },
+        {
+            "id": 407363,
+            "name": "Thôn Trung Hậu",
+            "pid": 19114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2717121",
+            "lng": "106.31989079999994"
+        }
+    ],
+    "log_id": "675813d96651836"
+}

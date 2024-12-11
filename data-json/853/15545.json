@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566836,
+            "name": "Bản Chang Chảo Pá",
+            "pid": 15545,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Chang Chảo Pá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3949397",
+            "lng": "102.9770184"
+        },
+        {
+            "id": 566833,
+            "name": "Bản Hua Bum",
+            "pid": 15545,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Hua Bum",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3529233",
+            "lng": "103.0126523"
+        },
+        {
+            "id": 566839,
+            "name": "Bản Nậm Nghẹ",
+            "pid": 15545,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Nậm Nghẹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1845892",
+            "lng": "104.2512221"
+        },
+        {
+            "id": 566830,
+            "name": "Bản Pa Mu",
+            "pid": 15545,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Pa Mu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6215893",
+            "lng": "102.6673781"
+        },
+        {
+            "id": 733180,
+            "name": "Nậm Bụm",
+            "pid": 15545,
+            "type": 16,
+            "region": null,
+            "alias": "Nậm Bụm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3529233",
+            "lng": "103.0126523"
+        }
+    ],
+    "log_id": "6758175e59b6f573"
+}

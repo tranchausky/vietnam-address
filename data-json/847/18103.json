@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 626100,
+            "name": "Thôn Buôn Hoang 1",
+            "pid": 18103,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Hoang 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.344339",
+            "lng": "108.447079"
+        },
+        {
+            "id": 626103,
+            "name": "Thôn Buôn Hoang 2",
+            "pid": 18103,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Hoang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.344339",
+            "lng": "108.447079"
+        },
+        {
+            "id": 626091,
+            "name": "Thôn Buôn Khanh",
+            "pid": 18103,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Khanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.344339",
+            "lng": "108.447079"
+        },
+        {
+            "id": 626097,
+            "name": "Thôn Buôn Líp",
+            "pid": 18103,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Líp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.344339",
+            "lng": "108.447079"
+        },
+        {
+            "id": 626094,
+            "name": "Thôn Quyết Thắng",
+            "pid": 18103,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.344339",
+            "lng": "108.447079"
+        }
+    ],
+    "log_id": "675816d37e19e521"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 556783,
+            "name": "Bản Đuốm",
+            "pid": 22208,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Đuốm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5339229",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556785,
+            "name": "Bản Hang",
+            "pid": 22208,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5339229",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556787,
+            "name": "Bản Sại",
+            "pid": 22208,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Sại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5339229",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556789,
+            "name": "Bản Tân Phúc",
+            "pid": 22208,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tân Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5339229",
+            "lng": "105.06743170000004"
+        }
+    ],
+    "log_id": "67590a239a189899"
+}

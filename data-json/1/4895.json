@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 972378,
+            "name": "105 Tả Môn, Thị Trấn Thường Tín",
+            "pid": 4895,
+            "type": 18,
+            "region": null,
+            "alias": "105 Tả Môn, thị trấn Thường Tín",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.86866853549838",
+            "lng": "105.8631799899019"
+        },
+        {
+            "id": 55698,
+            "name": "Bênh Viện Đa Khoa Thường Tín",
+            "pid": 4895,
+            "type": 6,
+            "region": null,
+            "alias": "Bênh viện Đa khoa Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.865630385488572",
+            "lng": "105.86038963919997"
+        },
+        {
+            "id": 972046,
+            "name": "Bhxh Huyện Thường Tín, Trần Phú Thị Trấn Thường Tín Hà Nội",
+            "pid": 4895,
+            "type": 16,
+            "region": null,
+            "alias": "BHXH huyện Thường Tín, Trần Phú thị trấn Thường Tín Hà Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.867435747380895",
+            "lng": "105.86049702896962"
+        },
+        {
+            "id": 53178,
+            "name": "Cao Đẳng Sư Phạm Hà Tây",
+            "pid": 4895,
+            "type": 9,
+            "region": null,
+            "alias": "Cao đẳng Sư phạm Hà Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8661206",
+            "lng": "105.8631561,17"
+        },
+        {
+            "id": 53182,
+            "name": "Cao Đẳng Truyền Hình",
+            "pid": 4895,
+            "type": 9,
+            "region": null,
+            "alias": "Cao đẳng Truyền hình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 53698,
+            "name": "Gdtx Thường Tín",
+            "pid": 4895,
+            "type": 9,
+            "region": null,
+            "alias": "GDTX Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 114423,
+            "name": "Phố Ga",
+            "pid": 4895,
+            "type": 21,
+            "region": null,
+            "alias": "phố ga",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8715715",
+            "lng": "105.8627913"
+        },
+        {
+            "id": 972208,
+            "name": "Tảo Môn, Trần Phú, Thị Trấn Thường Tín",
+            "pid": 4895,
+            "type": 18,
+            "region": null,
+            "alias": "Tảo môn, Trần Phú, Thị trấn Thường Tín",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.868625341138966",
+            "lng": "105.86315082107073"
+        },
+        {
+            "id": 53686,
+            "name": "Thpt Thường Tín",
+            "pid": 4895,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 55694,
+            "name": "Ubnd Huyện Thường Tín",
+            "pid": 4895,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Huyện Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54206,
+            "name": "Ubnd Thị Trấn Chúc Sơn",
+            "pid": 4895,
+            "type": 4,
+            "region": null,
+            "alias": "UBND thị trấn Chúc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8945942",
+            "lng": "105.7171011,12"
+        },
+        {
+            "id": 55578,
+            "name": "Ubnd Thị Trấn Thường Tín",
+            "pid": 4895,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Thị trấn Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8665148",
+            "lng": "105.8636958,17"
+        }
+    ],
+    "log_id": "675811bd6bdf1614"
+}

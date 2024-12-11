@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 436379,
+            "name": "Ấp 17",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 17",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 882373,
+            "name": "Ấp Sóc Bế",
+            "pid": 19821,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Bế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6610857",
+            "lng": "106.62028869999996"
+        },
+        {
+            "id": 436363,
+            "name": "Phú Lạc",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436367,
+            "name": "Phú Thành",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436361,
+            "name": "Sóc Bưng",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Sóc Bưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436373,
+            "name": "Thanh Hà",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436375,
+            "name": "Thanh Sơn",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436369,
+            "name": "Thanh Thuỷ",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Thuỷ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436371,
+            "name": "Thanh Xuân",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        },
+        {
+            "id": 436377,
+            "name": "Vườn Rau",
+            "pid": 19821,
+            "type": 16,
+            "region": null,
+            "alias": "Vườn Rau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        }
+    ],
+    "log_id": "675816377f797786"
+}

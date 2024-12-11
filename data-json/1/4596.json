@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117513,
+            "name": "Đại Từ",
+            "pid": 4596,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Từ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8878993",
+            "lng": "105.7349766"
+        },
+        {
+            "id": 117507,
+            "name": "Duyên Ứng",
+            "pid": 4596,
+            "type": 16,
+            "region": null,
+            "alias": "Duyên Ứng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8877331",
+            "lng": "105.7232916"
+        },
+        {
+            "id": 117503,
+            "name": "Lam Điền",
+            "pid": 4596,
+            "type": 16,
+            "region": null,
+            "alias": "LAM ĐIỀN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8920863",
+            "lng": "105.7238218"
+        },
+        {
+            "id": 117511,
+            "name": "Lương Xá",
+            "pid": 4596,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7402716",
+            "lng": "105.7725297"
+        },
+        {
+            "id": 54278,
+            "name": "Ubnd Lam Điền",
+            "pid": 4596,
+            "type": 4,
+            "region": null,
+            "alias": "UBND LAM ĐIỀN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8925955",
+            "lng": "105.7242873"
+        },
+        {
+            "id": 117505,
+            "name": "Ứng Hòa",
+            "pid": 4596,
+            "type": 16,
+            "region": null,
+            "alias": "Ứng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8867006",
+            "lng": "105.7175138"
+        }
+    ],
+    "log_id": "675811bb725e8651"
+}

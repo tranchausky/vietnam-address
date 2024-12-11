@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410401,
+            "name": "Thôn Chính",
+            "pid": 20686,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5754776",
+            "lng": "106.4612009"
+        },
+        {
+            "id": 410403,
+            "name": "Thôn Hòe Nha 1",
+            "pid": 20686,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòe Nha 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5754776",
+            "lng": "106.4612009"
+        },
+        {
+            "id": 410405,
+            "name": "Thôn Hòe Nha 2",
+            "pid": 20686,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòe Nha 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5754776",
+            "lng": "106.4612009"
+        },
+        {
+            "id": 410399,
+            "name": "Thôn Miếu",
+            "pid": 20686,
+            "type": 22,
+            "region": null,
+            "alias": "Thôn Miếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5754776",
+            "lng": "106.4612009"
+        },
+        {
+            "id": 872689,
+            "name": "Thôn Thượng",
+            "pid": 20686,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.575477600000006",
+            "lng": "106.4612009"
+        }
+    ],
+    "log_id": "675909f3be284129"
+}

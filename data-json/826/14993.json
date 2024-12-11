@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 578181,
+            "name": "Khu Vực An Lợi",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực An Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578169,
+            "name": "Khu Vực Châu Thành",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Châu Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578175,
+            "name": "Khu Vực Lý Tây",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Lý Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578178,
+            "name": "Khu Vực Nhơn Thuận",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Nhơn Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578172,
+            "name": "Khu Vực Phú Thành",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578163,
+            "name": "Khu Vực Tiên Hội",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Tiên Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578166,
+            "name": "Khu Vực Vạn Thuận",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Vạn Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 578160,
+            "name": "Khu Vực Vĩnh Phú",
+            "pid": 14993,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Vĩnh Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        },
+        {
+            "id": 874552,
+            "name": "Võ Trứ 1",
+            "pid": 14993,
+            "type": 16,
+            "region": null,
+            "alias": "Võ Trứ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9459647",
+            "lng": "109.08693160000007"
+        }
+    ],
+    "log_id": "6758150da7b4e331"
+}

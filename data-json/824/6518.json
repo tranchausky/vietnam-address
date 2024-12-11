@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599331,
+            "name": "Bình An",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        },
+        {
+            "id": 599334,
+            "name": "Bình Hiệp",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        },
+        {
+            "id": 599337,
+            "name": "Bình Hòa A",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Hòa A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        },
+        {
+            "id": 599340,
+            "name": "Bình Hòa B",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Hòa B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        },
+        {
+            "id": 599343,
+            "name": "Bình Long",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        },
+        {
+            "id": 599346,
+            "name": "Bình Thuận",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        },
+        {
+            "id": 599349,
+            "name": "Tân Tĩnh",
+            "pid": 6518,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Tĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.372568",
+            "lng": "106.414178"
+        }
+    ],
+    "log_id": "675814f3a5329994"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 773995,
+            "name": "Hẻm 60",
+            "pid": 13430,
+            "type": 21,
+            "region": null,
+            "alias": "Hẻm 60",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3723385",
+            "lng": "107.07236680000004"
+        },
+        {
+            "id": 773998,
+            "name": "Hẻm 187",
+            "pid": 13430,
+            "type": 21,
+            "region": null,
+            "alias": "Hẻm 187",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3723385",
+            "lng": "107.07236680000004"
+        }
+    ],
+    "log_id": "675815b3e93e7687"
+}

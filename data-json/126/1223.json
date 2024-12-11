@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962173,
+            "name": "91 Nguyễn Kim",
+            "pid": 1223,
+            "type": 4,
+            "region": null,
+            "alias": "91 Nguyễn Kim",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.763715",
+            "lng": "106.661582"
+        },
+        {
+            "id": 961598,
+            "name": "497 Hòa Hảo",
+            "pid": 1223,
+            "type": 4,
+            "region": null,
+            "alias": "497 Hòa Hảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7603262903",
+            "lng": "106.661704164"
+        },
+        {
+            "id": 961533,
+            "name": "Cư Xá Lý Thường Kiệt",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Cư xá Lý Thường Kiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7608103",
+            "lng": "106.6615949"
+        },
+        {
+            "id": 675631,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7643826",
+            "lng": "106.6610752"
+        },
+        {
+            "id": 676870,
+            "name": "Đường Đào Duy Từ",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Từ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7595001",
+            "lng": "106.662311"
+        },
+        {
+            "id": 675943,
+            "name": "Đường Hòa Hảo",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hòa Hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7601995",
+            "lng": "106.6610256"
+        },
+        {
+            "id": 679906,
+            "name": "Đường Lý Thường Kiệt",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thường Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7614827",
+            "lng": "106.6606454"
+        },
+        {
+            "id": 673429,
+            "name": "Đường Nguyễn Chí Thanh",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7584399",
+            "lng": "106.6614971"
+        },
+        {
+            "id": 675529,
+            "name": "Đường Nguyễn Kim",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7614556",
+            "lng": "106.6621991"
+        },
+        {
+            "id": 673141,
+            "name": "Đường Nhật Tảo",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nhật Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7631863",
+            "lng": "106.6613691"
+        },
+        {
+            "id": 670753,
+            "name": "Đường Tân Phước",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7607928",
+            "lng": "106.6596056"
+        },
+        {
+            "id": 680452,
+            "name": "Đường Vĩnh Viễn",
+            "pid": 1223,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Viễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.762203",
+            "lng": "106.6613216"
+        },
+        {
+            "id": 38450,
+            "name": "Kí Túc Xá Đại Học Bách Khoa",
+            "pid": 1223,
+            "type": 4,
+            "region": null,
+            "alias": "Kí túc xá Đại học Bách khoa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7604495",
+            "lng": "106.6619508"
+        }
+    ],
+    "log_id": "6758129b0a5a8684"
+}

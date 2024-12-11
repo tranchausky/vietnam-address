@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 608058,
+            "name": "Khu Vực Thới An 1",
+            "pid": 7941,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới An 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2903986",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 608061,
+            "name": "Khu Vực Thới An 2",
+            "pid": 7941,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới An 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2903986",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 947120,
+            "name": "Khu Vực Thới An 3",
+            "pid": 7941,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới An 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.296180",
+            "lng": "105.507914"
+        },
+        {
+            "id": 608067,
+            "name": "Khu Vực Thới An 4",
+            "pid": 7941,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới An 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2903986",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 608070,
+            "name": "Khu Vực Thới Bình 1",
+            "pid": 7941,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Bình 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2903986",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 608073,
+            "name": "Khu Vực Thới Bình 2",
+            "pid": 7941,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Bình 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2903986",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 118855,
+            "name": "Nhà Máy Gạo Họp Ngọc",
+            "pid": 7941,
+            "type": 10,
+            "region": null,
+            "alias": "Nhà máy Gạo Họp Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2918083",
+            "lng": "105.4997883"
+        },
+        {
+            "id": 118833,
+            "name": "Trường Thpt Thốt Nốt",
+            "pid": 7941,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Thốt Nốt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2862201",
+            "lng": "105.5190907"
+        }
+    ],
+    "log_id": "6758140cb59c5984"
+}

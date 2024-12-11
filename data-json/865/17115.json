@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559413,
+            "name": "Thôn Phượng Mao",
+            "pid": 17115,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phượng Mao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8991375",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 559401,
+            "name": "Thôn Vĩnh Gia 1",
+            "pid": 17115,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Gia 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8991375",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 559403,
+            "name": "Thôn Vĩnh Gia 2",
+            "pid": 17115,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Gia 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8991375",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 559405,
+            "name": "Thôn Vĩnh Gia 3",
+            "pid": 17115,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Gia 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8991375",
+            "lng": "105.77913269999999"
+        }
+    ],
+    "log_id": "67590a2376200241"
+}

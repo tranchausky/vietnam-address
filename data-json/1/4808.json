@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119589,
+            "name": "Đường Đại Lộ Thăng Long",
+            "pid": 4808,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Đại lộ Thăng Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0026358",
+            "lng": "105.6573544"
+        },
+        {
+            "id": 119591,
+            "name": "Thôn Ba Nhà",
+            "pid": 4808,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba Nhà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9886357",
+            "lng": "105.6649335"
+        },
+        {
+            "id": 119593,
+            "name": "Thôn Quảng Yên",
+            "pid": 4808,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.002255",
+            "lng": "105.657843"
+        },
+        {
+            "id": 119595,
+            "name": "Thôn Sơn Trung",
+            "pid": 4808,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0077435",
+            "lng": "105.6589367"
+        },
+        {
+            "id": 55138,
+            "name": "Ubnd Xã Yên Sơn",
+            "pid": 4808,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Yên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bcd7c6f998"
+}

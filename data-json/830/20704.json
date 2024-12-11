@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407977,
+            "name": "Bản Tính",
+            "pid": 20704,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.729114",
+            "lng": "105.44195460000003"
+        },
+        {
+            "id": 407973,
+            "name": "Nà Đon",
+            "pid": 20704,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Đon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.729114",
+            "lng": "105.44195460000003"
+        },
+        {
+            "id": 407971,
+            "name": "Nẳm Ắn",
+            "pid": 20704,
+            "type": 16,
+            "region": null,
+            "alias": "Nẳm ẮN",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.729114",
+            "lng": "105.44195460000003"
+        },
+        {
+            "id": 407975,
+            "name": "Nà Quac",
+            "pid": 20704,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Quac",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.729114",
+            "lng": "105.44195460000003"
+        }
+    ],
+    "log_id": "675815664ff64512"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109173,
+            "name": "Ấp Tân Hậu A1",
+            "pid": 8018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hậu A1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.821044",
+            "lng": "105.177062"
+        },
+        {
+            "id": 109193,
+            "name": "Ấp Tân Hậu A2",
+            "pid": 8018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hậu A2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.81216777182039",
+            "lng": "105.21060183187485"
+        },
+        {
+            "id": 109209,
+            "name": "Ấp Tân Hòa B",
+            "pid": 8018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hòa B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.823735",
+            "lng": "105.178085"
+        },
+        {
+            "id": 109289,
+            "name": "Ấp Tân Hòa C",
+            "pid": 8018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hòa C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.824294",
+            "lng": "105.179222"
+        },
+        {
+            "id": 109161,
+            "name": "Ấp Tân Lập",
+            "pid": 8018,
+            "type": 10,
+            "region": null,
+            "alias": "Ấp Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.811211061554554",
+            "lng": "105.19575501047377"
+        },
+        {
+            "id": 109145,
+            "name": "Ấp Tân Lợi",
+            "pid": 8018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.809344",
+            "lng": "105.169028"
+        },
+        {
+            "id": 109329,
+            "name": "Ấp Tân Phú B",
+            "pid": 8018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.826186",
+            "lng": "105.188306"
+        },
+        {
+            "id": 985724,
+            "name": "Chợ Tân An",
+            "pid": 8018,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.805975793855332",
+            "lng": "105.2063223394431"
+        }
+    ],
+    "log_id": "6758159dc79fd932"
+}

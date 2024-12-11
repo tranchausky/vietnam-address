@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631185,
+            "name": "Thôn Đầm Tròn",
+            "pid": 16708,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đầm tròn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1556217",
+            "lng": "107.42628130000003"
+        },
+        {
+            "id": 631188,
+            "name": "Thôn Đồng Cống",
+            "pid": 16708,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng cống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1556217",
+            "lng": "107.42628130000003"
+        },
+        {
+            "id": 631191,
+            "name": "Thôn Đồng Đá",
+            "pid": 16708,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đồng Đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1556217",
+            "lng": "107.42628130000003"
+        },
+        {
+            "id": 631197,
+            "name": "Thôn Voàng Tre",
+            "pid": 16708,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Voàng Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1556217",
+            "lng": "107.42628130000003"
+        }
+    ],
+    "log_id": "675814c22eeae881"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 570690,
+            "name": "Sảng Ma Sao",
+            "pid": 19067,
+            "type": 16,
+            "region": null,
+            "alias": "Sảng ma sao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2310562",
+            "lng": "105.35410130000002"
+        },
+        {
+            "id": 570693,
+            "name": "Thôn Đề Đay",
+            "pid": 19067,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đề Đay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2310562",
+            "lng": "105.35410130000002"
+        },
+        {
+            "id": 570684,
+            "name": "Thôn Há Đề",
+            "pid": 19067,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Há Đề",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2310562",
+            "lng": "105.35410130000002"
+        }
+    ],
+    "log_id": "675815663c28e775"
+}

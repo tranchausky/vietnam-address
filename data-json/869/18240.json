@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107150,
+            "name": "Thôn 1",
+            "pid": 18240,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.530782",
+            "lng": "109.049573"
+        },
+        {
+            "id": 107153,
+            "name": "Thôn 2",
+            "pid": 18240,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.540552",
+            "lng": "109.070820"
+        },
+        {
+            "id": 107156,
+            "name": "Thôn 3",
+            "pid": 18240,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.540552",
+            "lng": "109.070820"
+        },
+        {
+            "id": 107159,
+            "name": "Thôn 4",
+            "pid": 18240,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.542644",
+            "lng": "109.079226"
+        },
+        {
+            "id": 107165,
+            "name": "Thôn 5",
+            "pid": 18240,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.531909",
+            "lng": "13.531909"
+        },
+        {
+            "id": 107171,
+            "name": "Thôn 6",
+            "pid": 18240,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.531909",
+            "lng": "13.531909"
+        }
+    ],
+    "log_id": "67590b80b2d9c573"
+}

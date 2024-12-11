@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476241,
+            "name": "Thôn An Ninh",
+            "pid": 13611,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476243,
+            "name": "Thôn An Tập",
+            "pid": 13611,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Tập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476247,
+            "name": "Thôn Cầu Gạo",
+            "pid": 13611,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Gạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476245,
+            "name": "Thôn Cầu Giữa",
+            "pid": 13611,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476249,
+            "name": "Thôn Đức Lân",
+            "pid": 13611,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức Lân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        }
+    ],
+    "log_id": "675815f8d7b4f967"
+}

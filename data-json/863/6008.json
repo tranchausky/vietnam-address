@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962979,
+            "name": "Đường Trần Quang Khải",
+            "pid": 6008,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Trần Quang Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.483622839649456",
+            "lng": "106.4289928679763"
+        },
+        {
+            "id": 963415,
+            "name": "Hai Bà Trưng",
+            "pid": 6008,
+            "type": 10,
+            "region": null,
+            "alias": "Hai Bà Trưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.448871088711535",
+            "lng": "106.34467428331713"
+        },
+        {
+            "id": 963414,
+            "name": "Số 01-207 Trần Nhân Tông",
+            "pid": 6008,
+            "type": 10,
+            "region": null,
+            "alias": "Số 01-207 Trần Nhân Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.452816813916808",
+            "lng": "106.34316821030504"
+        },
+        {
+            "id": 963413,
+            "name": "Số 2-228 Trần Thánh Tông",
+            "pid": 6008,
+            "type": 10,
+            "region": null,
+            "alias": "Số 2-228 Trần Thánh Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.434454314047553",
+            "lng": "106.34981271215231"
+        }
+    ],
+    "log_id": "675909f3bd5a2957"
+}

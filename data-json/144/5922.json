@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 874648,
+            "name": "Đường Hoà Sơn",
+            "pid": 5922,
+            "type": 21,
+            "region": null,
+            "alias": "đường Hoà Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 775981,
+            "name": "Lương Văn Can",
+            "pid": 5922,
+            "type": 21,
+            "region": null,
+            "alias": "Lương Văn Can",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 882682,
+            "name": "Mai Đọ",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Mai đọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 886522,
+            "name": "Thôn Mai Đọ",
+            "pid": 5922,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai đọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 874645,
+            "name": "Thôn Thanh Mai",
+            "pid": 5922,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Mai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 609993,
+            "name": "Tổ Dân Phố Hòa Sơn",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Hòa Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 610005,
+            "name": "Tổ Dân Phố Mai Đình",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Mai Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 609996,
+            "name": "Tổ Dân Phố Mai Đọ",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Mai Đọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 609999,
+            "name": "Tổ Dân Phố Tân Mai",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Tân Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 610002,
+            "name": "Tổ Dân Phố Tân Thành",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        },
+        {
+            "id": 610008,
+            "name": "Tổ Dân Phố Thanh Mai",
+            "pid": 5922,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Thanh Mai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2867841",
+            "lng": "106.16691560000004"
+        }
+    ],
+    "log_id": "675813d96108e421"
+}

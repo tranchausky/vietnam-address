@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112605,
+            "name": "Thôn 7",
+            "pid": 17628,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.962601",
+            "lng": "11.828438"
+        },
+        {
+            "id": 112625,
+            "name": "Thôn An Lương",
+            "pid": 17628,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.977611",
+            "lng": "11.867479"
+        },
+        {
+            "id": 112599,
+            "name": "Thôn Bù Xiết",
+            "pid": 17628,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bù Xiết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.988876",
+            "lng": "11.842405"
+        },
+        {
+            "id": 112581,
+            "name": "Thôn Nhơn Hòa 1",
+            "pid": 17628,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhơn Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.987919",
+            "lng": "11.837959"
+        },
+        {
+            "id": 112589,
+            "name": "Thôn Nhơn Hòa 2",
+            "pid": 17628,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhơn Hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.977845",
+            "lng": "11.840480"
+        }
+    ],
+    "log_id": "675816379446e150"
+}

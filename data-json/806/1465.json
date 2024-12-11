@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7922,
+            "name": "Phường Ba Láng",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Ba Láng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9832675",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 7917,
+            "name": "Phường Hưng Phú",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hưng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0291938",
+            "lng": "105.79674190000003"
+        },
+        {
+            "id": 7918,
+            "name": "Phường Hưng Thạnh",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hưng Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.999998",
+            "lng": "105.778068"
+        },
+        {
+            "id": 7921,
+            "name": "Phường Lê Bình",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Lê Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.998954699999999",
+            "lng": "105.74978779999992"
+        },
+        {
+            "id": 7920,
+            "name": "Phường Phú Thứ",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Phú Thứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.993177",
+            "lng": "105.799761"
+        },
+        {
+            "id": 7919,
+            "name": "Phường Tân Phú",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.979891",
+            "lng": "105.820143"
+        },
+        {
+            "id": 7923,
+            "name": "Phường Thường Thạnh",
+            "pid": 1465,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thường Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9744365",
+            "lng": "105.75272210000003"
+        }
+    ],
+    "log_id": "6758140c603f5795"
+}

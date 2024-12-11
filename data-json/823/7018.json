@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91688,
+            "name": "Ấp Đồng Phát",
+            "pid": 7018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.516667",
+            "lng": "105.55"
+        },
+        {
+            "id": 91700,
+            "name": "Ấp Quảng Biên",
+            "pid": 7018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Quảng Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9488251",
+            "lng": "106.9885128"
+        },
+        {
+            "id": 91694,
+            "name": "Ấp Quảng Hòa",
+            "pid": 7018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Quảng Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7134326",
+            "lng": "105.7527221"
+        },
+        {
+            "id": 91697,
+            "name": "Ấp Quảng Lộc",
+            "pid": 7018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Quảng Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6645157",
+            "lng": "105.8143528"
+        },
+        {
+            "id": 91691,
+            "name": "Ấp Quảng Phát",
+            "pid": 7018,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Quảng Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9500339",
+            "lng": "106.9927351"
+        }
+    ],
+    "log_id": "675814dd48cba682"
+}

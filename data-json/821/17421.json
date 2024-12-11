@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 527985,
+            "name": "Khối 1",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999995"
+        },
+        {
+            "id": 527987,
+            "name": "Khối 2",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999995"
+        },
+        {
+            "id": 527989,
+            "name": "Khối 3",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999995"
+        },
+        {
+            "id": 527991,
+            "name": "Khối 4",
+            "pid": 17421,
+            "type": 16,
+            "region": null,
+            "alias": "Khối 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999995"
+        },
+        {
+            "id": 763753,
+            "name": "Khối 5",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999996"
+        },
+        {
+            "id": 665191,
+            "name": "Khối 6",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999995"
+        },
+        {
+            "id": 665188,
+            "name": "Khối 7",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999995"
+        },
+        {
+            "id": 763762,
+            "name": "Khối 8",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999996"
+        },
+        {
+            "id": 763759,
+            "name": "Khối 9",
+            "pid": 17421,
+            "type": 16,
+            "region": null,
+            "alias": "Khối 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999996"
+        },
+        {
+            "id": 763756,
+            "name": "Kim Liên",
+            "pid": 17421,
+            "type": 18,
+            "region": null,
+            "alias": "Kim Liên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7853365",
+            "lng": "105.64184279999996"
+        }
+    ],
+    "log_id": "67581208db54f186"
+}

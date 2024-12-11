@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 811285,
+            "name": "16 Đường 206",
+            "pid": 20139,
+            "type": 10,
+            "region": null,
+            "alias": "16 đường 206",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9669005",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 831583,
+            "name": "Đội 5 Xã Đình Dù",
+            "pid": 20139,
+            "type": 22,
+            "region": null,
+            "alias": "đội 5 Xã đình Dù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9669005",
+            "lng": "106.00230540000008"
+        },
+        {
+            "id": 629160,
+            "name": "Thôn Đình Dù",
+            "pid": 20139,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đình dù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9669005",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 629166,
+            "name": "Thôn Ngải Dương",
+            "pid": 20139,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngải dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9669005",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 629163,
+            "name": "Thôn Thị Trung",
+            "pid": 20139,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thị trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9669005",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 928897,
+            "name": "Thôn Thị Trung",
+            "pid": 20139,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thị Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9851968",
+            "lng": "106.022874"
+        },
+        {
+            "id": 629169,
+            "name": "Thôn Xuân Lôi",
+            "pid": 20139,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9669005",
+            "lng": "106.00230540000007"
+        }
+    ],
+    "log_id": "67581490b601f643"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981055,
+            "name": "Cát Dài",
+            "pid": 36141,
+            "type": 21,
+            "region": null,
+            "alias": "cát dài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981056,
+            "name": "Hai Bà Trưng",
+            "pid": 36141,
+            "type": 21,
+            "region": null,
+            "alias": "Hai Bà Trưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981058,
+            "name": "Nhà Thương",
+            "pid": 36141,
+            "type": 21,
+            "region": null,
+            "alias": "Nhà Thương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981060,
+            "name": "Phố Hàng Gà",
+            "pid": 36141,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Hàng Gà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581366266c5630"
+}

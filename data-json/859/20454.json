@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015729,
+            "name": "Dmx Quảng Nam - Quế Sơn",
+            "pid": 20454,
+            "type": 10,
+            "region": null,
+            "alias": "DMX Quảng Nam - Quế Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.669.582",
+            "lng": "108.209.165"
+        },
+        {
+            "id": 467197,
+            "name": "Thôn Cang Tây",
+            "pid": 20454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cang Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6859126",
+            "lng": "108.21995879999997"
+        },
+        {
+            "id": 467199,
+            "name": "Thôn Lãnh Thượng 1",
+            "pid": 20454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lãnh Thượng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6859126",
+            "lng": "108.21995879999997"
+        },
+        {
+            "id": 467201,
+            "name": "Thôn Lãnh Thượng 2",
+            "pid": 20454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lãnh Thượng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6859126",
+            "lng": "108.21995879999997"
+        },
+        {
+            "id": 467203,
+            "name": "Thôn Mỹ Đông",
+            "pid": 20454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6859126",
+            "lng": "108.21995879999997"
+        },
+        {
+            "id": 467207,
+            "name": "Thôn Tam Hòa",
+            "pid": 20454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6859126",
+            "lng": "108.21995879999997"
+        },
+        {
+            "id": 467205,
+            "name": "Thôn Thuận An",
+            "pid": 20454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6859126",
+            "lng": "108.21995879999997"
+        }
+    ],
+    "log_id": "675817e1b6e6029"
+}

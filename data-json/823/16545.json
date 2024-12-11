@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94544,
+            "name": "Ấp Hòa Đồng",
+            "pid": 16545,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.220125, ",
+            "lng": "107.318604"
+        },
+        {
+            "id": 94535,
+            "name": "Ấp Hòa Hiệp",
+            "pid": 16545,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.228238",
+            "lng": "107.308274"
+        },
+        {
+            "id": 94526,
+            "name": "Ấp Hòa Thành",
+            "pid": 16545,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.205173",
+            "lng": "107.305777"
+        },
+        {
+            "id": 94541,
+            "name": "Ấp Hòa Thuận",
+            "pid": 16545,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.174538",
+            "lng": "107.327878"
+        },
+        {
+            "id": 94511,
+            "name": "Ấp Hoà Trung",
+            "pid": 16545,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hoà Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.189643",
+            "lng": "107.280786"
+        }
+    ],
+    "log_id": "675814dd4d087403"
+}

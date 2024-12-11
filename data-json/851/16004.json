@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111231,
+            "name": "Ấp Cản Đất",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cản Đất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.153359",
+            "lng": "105.044023"
+        },
+        {
+            "id": 111243,
+            "name": "Ấp Mỹ Tân",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mỹ Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.170939",
+            "lng": "105.057487"
+        },
+        {
+            "id": 111279,
+            "name": "Ấp Nguyễn Văn Hạnh",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nguyễn Văn Hạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.143216",
+            "lng": "105.043249"
+        },
+        {
+            "id": 111261,
+            "name": "Ấp Số 4",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Số 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.144348",
+            "lng": "105.042882"
+        },
+        {
+            "id": 111295,
+            "name": "Ấp Sơn Thuận",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Sơn Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.163117",
+            "lng": "105.071926"
+        },
+        {
+            "id": 1016467,
+            "name": "Trạm Y Tế Xã Mỹ Thuận",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "Trạm y tế xã Mỹ Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.153359",
+            "lng": "105.044023"
+        },
+        {
+            "id": 968235,
+            "name": "Trường Thcs Mỹ Thuận",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "Trường THCS Mỹ Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.153245",
+            "lng": "105.042768"
+        },
+        {
+            "id": 968233,
+            "name": "Ubnd Xã Mỹ Thuận",
+            "pid": 16004,
+            "type": 17,
+            "region": null,
+            "alias": "UBND xã Mỹ Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.153994",
+            "lng": "105.043146"
+        }
+    ],
+    "log_id": "675817364aa99362"
+}

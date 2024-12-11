@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 104969,
+            "name": "Thôn Lương Quy",
+            "pid": 6665,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Quy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.86166442464049",
+            "lng": "106.59388855829643"
+        },
+        {
+            "id": 843016,
+            "name": "Thôn Trạm Bạc",
+            "pid": 6665,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạm Bạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8624991",
+            "lng": "106.61292090000006"
+        },
+        {
+            "id": 98030,
+            "name": "Thôn Tràng Duệ",
+            "pid": 6665,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tràng Duệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.858256",
+            "lng": "106.584664"
+        }
+    ],
+    "log_id": "67581365a8f0e39"
+}

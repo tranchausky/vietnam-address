@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115233,
+            "name": "Rượu Trịnh Gia (Vi_Wine)",
+            "pid": 4923,
+            "type": 16,
+            "region": null,
+            "alias": "Rượu Trịnh Gia (Vi_Wine)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7927657",
+            "lng": "105.8767381"
+        },
+        {
+            "id": 114455,
+            "name": "Thôn Minh Nga",
+            "pid": 4923,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Nga",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.791821",
+            "lng": "105.895366"
+        },
+        {
+            "id": 114437,
+            "name": "Thôn Nguyên Hanh",
+            "pid": 4923,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nguyên Hanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8055441",
+            "lng": "105.8838579"
+        },
+        {
+            "id": 55682,
+            "name": "Ubnd Xã Văn Tự",
+            "pid": 4923,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Văn Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 971946,
+            "name": "Xóm Lẻ, Xã Văn Tự, Thường Tín",
+            "pid": 4923,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lẻ, xã Văn Tự, Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.78059172155195",
+            "lng": "105.89575607094193"
+        }
+    ],
+    "log_id": "675811bca054b574"
+}

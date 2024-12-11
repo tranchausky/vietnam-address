@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800824,
+            "name": "Năm Tân",
+            "pid": 35478,
+            "type": 18,
+            "region": null,
+            "alias": "Năm Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.3493224"
+        },
+        {
+            "id": 639297,
+            "name": "Thôn Đột Dưới",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đột dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.3493224"
+        },
+        {
+            "id": 639300,
+            "name": "Thôn Đột Trên",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đột trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.3493224"
+        },
+        {
+            "id": 639291,
+            "name": "Thôn Long Động",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.3493224"
+        },
+        {
+            "id": 639303,
+            "name": "Thôn Quảng Tân",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.3493224"
+        },
+        {
+            "id": 836731,
+            "name": "Thôn Tè",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.34932240000002"
+        },
+        {
+            "id": 639294,
+            "name": "Thôn Trung Hà",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0663246",
+            "lng": "106.3493224"
+        },
+        {
+            "id": 800752,
+            "name": "Trung Hà",
+            "pid": 35478,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9922832",
+            "lng": "106.33754929999998"
+        }
+    ],
+    "log_id": "675813f1c56f4923"
+}

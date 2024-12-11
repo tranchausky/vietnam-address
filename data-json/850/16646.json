@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 736135,
+            "name": "Đoàn Kết 2",
+            "pid": 16646,
+            "type": 18,
+            "region": null,
+            "alias": "đoàn Kết 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9392921",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 727468,
+            "name": "Quyết Tiến",
+            "pid": 16646,
+            "type": 18,
+            "region": null,
+            "alias": "Quyết Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9392921",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 699244,
+            "name": "Xóm Đoàn Kết 1",
+            "pid": 16646,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đoàn kết 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9392921",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 779044,
+            "name": "Xóm Mon",
+            "pid": 16646,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mon",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9392921",
+            "lng": "105.40095080000003"
+        }
+    ],
+    "log_id": "675817212875761"
+}

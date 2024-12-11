@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108713,
+            "name": "Ấp Bưng Lức",
+            "pid": 7598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Lức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.514806",
+            "lng": "106.162917"
+        },
+        {
+            "id": 108705,
+            "name": "Ấp Chợ",
+            "pid": 7598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.498433",
+            "lng": "106.202781"
+        },
+        {
+            "id": 108711,
+            "name": "Ấp Mỏ Ó",
+            "pid": 7598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỏ Ó",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.440277",
+            "lng": "106.179149"
+        },
+        {
+            "id": 108701,
+            "name": "Ấp Nhà Thờ",
+            "pid": 7598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhà Thờ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.490070",
+            "lng": "106.198689"
+        }
+    ],
+    "log_id": "675909c165fcb344"
+}

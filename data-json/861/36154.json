@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434791,
+            "name": "Ấp 1",
+            "pid": 36154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.639028",
+            "lng": "106.125639"
+        },
+        {
+            "id": 434793,
+            "name": "Ấp 2",
+            "pid": 36154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.611111",
+            "lng": "106.135361"
+        },
+        {
+            "id": 827506,
+            "name": "Ấp 3",
+            "pid": 36154,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9619639",
+            "lng": "106124278"
+        },
+        {
+            "id": 434797,
+            "name": "Ấp 4",
+            "pid": 36154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.610028",
+            "lng": "106.116028"
+        },
+        {
+            "id": 434799,
+            "name": "Ấp 5",
+            "pid": 36154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.599500",
+            "lng": "106.130639"
+        },
+        {
+            "id": 434801,
+            "name": "Ấp Khoan Tang",
+            "pid": 36154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Khoan Tang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6221576",
+            "lng": "106.11692990000006"
+        }
+    ],
+    "log_id": "675909c16cdf5444"
+}

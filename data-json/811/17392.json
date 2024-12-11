@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 404459,
+            "name": "Đường Trần Huy Liệu",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Trần Huy Liệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 846907,
+            "name": "Lương Thế Vinh",
+            "pid": 17392,
+            "type": 21,
+            "region": null,
+            "alias": "Lương Thế Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 863821,
+            "name": "Tây Sơn",
+            "pid": 17392,
+            "type": 21,
+            "region": null,
+            "alias": "Tây Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 404463,
+            "name": "Thôn Đông Côi Sơn",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Côi Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 404461,
+            "name": "Thôn Mỹ Côi",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Côi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 404469,
+            "name": "Thôn Non Côi",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Non Côi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 404471,
+            "name": "Thôn Tây Côi Sơn",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây Côi Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 404465,
+            "name": "Thôn Tây Sôi",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây Sôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 404467,
+            "name": "Thôn Văn Côi",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn vĂN Côi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 846904,
+            "name": "Vân Côi",
+            "pid": 17392,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Côi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3344711",
+            "lng": "106.07871419999992"
+        }
+    ],
+    "log_id": "6758145d23aa3920"
+}

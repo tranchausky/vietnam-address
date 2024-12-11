@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 480489,
+            "name": "Ấp 9A1",
+            "pid": 6234,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp 9A1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.876865",
+            "lng": "105.558628"
+        },
+        {
+            "id": 480491,
+            "name": "Ấp 9A2",
+            "pid": 6234,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 9A2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.876865",
+            "lng": "105.558628"
+        }
+    ],
+    "log_id": "675816fe3962a851"
+}

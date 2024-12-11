@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 419963,
+            "name": "Bắc Bằng 1",
+            "pid": 17173,
+            "type": 21,
+            "region": null,
+            "alias": "Bắc Bằng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        },
+        {
+            "id": 419965,
+            "name": "Bắc Bằng 2",
+            "pid": 17173,
+            "type": 21,
+            "region": null,
+            "alias": "Bắc Bằng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        },
+        {
+            "id": 419953,
+            "name": "Chấn Long",
+            "pid": 17173,
+            "type": 21,
+            "region": null,
+            "alias": "Chấn Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        },
+        {
+            "id": 419955,
+            "name": "Thôn Nam Bằng 1",
+            "pid": 17173,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Bằng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        },
+        {
+            "id": 419957,
+            "name": "Thôn Nam Bằng 2",
+            "pid": 17173,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Bằng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        },
+        {
+            "id": 419959,
+            "name": "Thôn Quản Xá",
+            "pid": 17173,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quản Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        },
+        {
+            "id": 419961,
+            "name": "Thôn Thắng Long",
+            "pid": 17173,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8909695",
+            "lng": "105.73771260000001"
+        }
+    ],
+    "log_id": "67590a23a88f839"
+}

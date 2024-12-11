@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 456155,
+            "name": "Buôn A Ring",
+            "pid": 16057,
+            "type": 16,
+            "region": null,
+            "alias": "buôn a ring",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.7524007",
+            "lng": "108.18437560000007"
+        },
+        {
+            "id": 456157,
+            "name": "Buôn Cuor Dang A",
+            "pid": 16057,
+            "type": 16,
+            "region": null,
+            "alias": "buôn cuor dang a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7524007",
+            "lng": "108.18437560000007"
+        },
+        {
+            "id": 456159,
+            "name": "Buôn Cuôr Đăng B",
+            "pid": 16057,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Cuôr Đăng B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7524007",
+            "lng": "108.18437560000007"
+        },
+        {
+            "id": 456153,
+            "name": "Buôn Koneh",
+            "pid": 16057,
+            "type": 16,
+            "region": null,
+            "alias": "buôn koneh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.7524007",
+            "lng": "108.18437560000007"
+        },
+        {
+            "id": 456161,
+            "name": "Buôn Kroah B",
+            "pid": 16057,
+            "type": 16,
+            "region": null,
+            "alias": "buôn kroah b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7524007",
+            "lng": "108.18437560000007"
+        },
+        {
+            "id": 456163,
+            "name": "Buôn Kroah C",
+            "pid": 16057,
+            "type": 16,
+            "region": null,
+            "alias": "buôn kroah c",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7524007",
+            "lng": "108.18437560000007"
+        }
+    ],
+    "log_id": "675816786576c620"
+}

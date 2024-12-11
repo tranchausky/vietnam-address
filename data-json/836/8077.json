@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 792820,
+            "name": "Ấp 13",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 13",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.212424031914276",
+            "lng": "105.67680358886719"
+        },
+        {
+            "id": 112637,
+            "name": "Ấp 14",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 14",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.177177255143356",
+            "lng": "105.66856384277345"
+        },
+        {
+            "id": 112653,
+            "name": "Ấp Cái Tràm",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Tràm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.260713181867581",
+            "lng": "105.65483093261719"
+        },
+        {
+            "id": 121029,
+            "name": "Ấp Thống Nhất",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.194631626557445",
+            "lng": "105.66255569458009"
+        },
+        {
+            "id": 112723,
+            "name": "Ấp Toàn Thắng",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Toàn Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.25478329209058",
+            "lng": "105.64556121826173"
+        },
+        {
+            "id": 112749,
+            "name": "Ấp Vĩnh Mẫu",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Mẫu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.21276292618221",
+            "lng": "105.65345764160156"
+        },
+        {
+            "id": 112777,
+            "name": "Ấp Vĩnh Thạnh",
+            "pid": 8077,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.242753779980458",
+            "lng": "105.6522560119629"
+        }
+    ],
+    "log_id": "675815e16e25e977"
+}

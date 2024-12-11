@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118779,
+            "name": "Thôn Gia Răng",
+            "pid": 19702,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia Răng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.220389",
+            "lng": "108.860750"
+        },
+        {
+            "id": 913855,
+            "name": "Thôn Gia Rú",
+            "pid": 19702,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia Rú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2150063",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 118781,
+            "name": "Thôn Tà Mơ",
+            "pid": 19702,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Mơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.239778",
+            "lng": "108.881861"
+        }
+    ],
+    "log_id": "675815859fc26710"
+}

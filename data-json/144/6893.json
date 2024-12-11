@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 765334,
+            "name": "Chợ Mới",
+            "pid": 6893,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.204030300000003",
+            "lng": "106.2433886"
+        },
+        {
+            "id": 407885,
+            "name": "Phố Tiểu Khu 1",
+            "pid": 6893,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Tiểu Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2040303",
+            "lng": "106.2433886"
+        },
+        {
+            "id": 407887,
+            "name": "Phố Tiểu Khu 2",
+            "pid": 6893,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Tiểu Khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040303",
+            "lng": "106.2433886"
+        },
+        {
+            "id": 407889,
+            "name": "Phố Tiểu Khu 3",
+            "pid": 6893,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Tiểu Khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040303",
+            "lng": "106.2433886"
+        },
+        {
+            "id": 407891,
+            "name": "Phố Tiểu Khu 4",
+            "pid": 6893,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Tiểu Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040303",
+            "lng": "106.2433886"
+        },
+        {
+            "id": 407893,
+            "name": "Phố Tiểu Khu 5",
+            "pid": 6893,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Tiểu Khu 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040303",
+            "lng": "106.2433886"
+        },
+        {
+            "id": 407895,
+            "name": "Phố Tiểu Khu 6",
+            "pid": 6893,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Tiểu Khu 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2040303",
+            "lng": "106.2433886"
+        }
+    ],
+    "log_id": "675813d919c89332"
+}

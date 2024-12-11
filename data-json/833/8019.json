@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108789,
+            "name": "Ấp Long Hiệp",
+            "pid": 8019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp long Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.796175914585463, ",
+            "lng": "105.19377337132951"
+        },
+        {
+            "id": 108821,
+            "name": "Ấp Long Hòa",
+            "pid": 8019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.788311",
+            "lng": "105.189011"
+        },
+        {
+            "id": 108811,
+            "name": "Ấp Long Thành",
+            "pid": 8019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.803794705780875, ",
+            "lng": "105.20853397244326"
+        },
+        {
+            "id": 108845,
+            "name": "Ấp Tân Hậu B2",
+            "pid": 8019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân hậu B2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.783514944310877",
+            "lng": "105.16797726789706"
+        },
+        {
+            "id": 985478,
+            "name": "Trường Th B Long An",
+            "pid": 8019,
+            "type": 9,
+            "region": null,
+            "alias": "Trường TH B Long An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.783262511363297, ",
+            "lng": "105.16797649205812"
+        }
+    ],
+    "log_id": "6758159dcafcd74"
+}

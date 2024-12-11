@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53562,
+            "name": "Tc Nghề Công Nghệ Tây An",
+            "pid": 4625,
+            "type": 9,
+            "region": null,
+            "alias": "TC nghề Công nghệ Tây An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 668701,
+            "name": "Thôn Vĩnh Kì, Tân Hội, Đan Phượng",
+            "pid": 4625,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vĩnh Kì, Tân Hội, Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0982037",
+            "lng": "105.6948065"
+        },
+        {
+            "id": 54414,
+            "name": "Ubnd Xã Tân Hội",
+            "pid": 4625,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tân Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53878,
+            "name": "Vincity Đan Phượng",
+            "pid": 4625,
+            "type": 5,
+            "region": null,
+            "alias": "Vincity Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb9aa3f915"
+}

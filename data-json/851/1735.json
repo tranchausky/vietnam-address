@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 15985,
+            "name": "Thị Trấn Minh Lương",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Minh Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9044207",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 15986,
+            "name": "Xã Bình An",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.862106599999999",
+            "lng": "105.14343869999993"
+        },
+        {
+            "id": 15987,
+            "name": "Xã Giục Tượng",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Giục Tượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9586817",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 15988,
+            "name": "Xã Minh Hòa",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Minh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8754252",
+            "lng": "105.20777980000003"
+        },
+        {
+            "id": 15989,
+            "name": "Xã Mong Thọ",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mong Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0216637",
+            "lng": "105.21363020000001"
+        },
+        {
+            "id": 15990,
+            "name": "Xã Mong Thọ A",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mong Thọ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0450276",
+            "lng": "105.17853070000001"
+        },
+        {
+            "id": 15991,
+            "name": "Xã Mong Thọ B",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mong Thọ B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9679141",
+            "lng": "105.2019295"
+        },
+        {
+            "id": 15992,
+            "name": "Xã Thạnh Lộc",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thạnh Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0089019",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 15993,
+            "name": "Xã Vĩnh Hòa Hiệp",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hòa Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9277341",
+            "lng": "105.1317431"
+        },
+        {
+            "id": 15994,
+            "name": "Xã Vĩnh Hòa Phú",
+            "pid": 1735,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hòa Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8957161",
+            "lng": "105.12004819999993"
+        }
+    ],
+    "log_id": "67581735f1ee465"
+}

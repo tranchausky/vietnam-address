@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114941,
+            "name": "Ấp Lý Hòa Hiệp",
+            "pid": 1158,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Lý Hòa Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4630405",
+            "lng": "106.9004472"
+        },
+        {
+            "id": 114937,
+            "name": "Ấp Lý Thái Bửu",
+            "pid": 1158,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Lý Thái Bửu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4721062",
+            "lng": "106.7712094"
+        },
+        {
+            "id": 114931,
+            "name": "Ấp Tân Điền",
+            "pid": 1158,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Tân Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4741086",
+            "lng": "106.7722986"
+        }
+    ],
+    "log_id": "6758129a4ac1840"
+}

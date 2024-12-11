@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719314,
+            "name": "Bưu Điện Cam Phúc Nam",
+            "pid": 17665,
+            "type": 18,
+            "region": null,
+            "alias": "bưu điện Cam Phúc Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.939698",
+            "lng": "109.178628"
+        },
+        {
+            "id": 719329,
+            "name": "Chợ Xuân Ninh",
+            "pid": 17665,
+            "type": 18,
+            "region": null,
+            "alias": "chợ Xuân Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.942582,",
+            "lng": "109.180218"
+        },
+        {
+            "id": 719323,
+            "name": "Đài Liệt Sĩ Cam Phúc Nam",
+            "pid": 17665,
+            "type": 18,
+            "region": null,
+            "alias": "đài liệt sĩ Cam Phúc Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.935063",
+            "lng": "109.176343"
+        },
+        {
+            "id": 978528,
+            "name": "Đường Hùng Vương",
+            "pid": 17665,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.983167",
+            "lng": "109.189528"
+        },
+        {
+            "id": 935150,
+            "name": "Đường Hùng Vương Số Chẵn 1234-1500",
+            "pid": 17665,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Hùng Vương số chẵn 1234-1500",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.983167",
+            "lng": "109.189528"
+        },
+        {
+            "id": 935153,
+            "name": "Đuờng Hùng Vương Số Lẻ 1261-1499",
+            "pid": 17665,
+            "type": 29,
+            "region": null,
+            "alias": "Đuờng Hùng Vương số lẻ 1261-1499",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.983167",
+            "lng": "109.189528"
+        },
+        {
+            "id": 719335,
+            "name": "Nhà Thờ An Tôn",
+            "pid": 17665,
+            "type": 18,
+            "region": null,
+            "alias": "nhà thờ An Tôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.936730,",
+            "lng": "109.179142"
+        },
+        {
+            "id": 992262,
+            "name": "Tdp Hải Thủy",
+            "pid": 17665,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Hải Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.93710451546328",
+            "lng": " 109.17529015559441"
+        },
+        {
+            "id": 987258,
+            "name": "Tdp Ninh Xuân",
+            "pid": 17665,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Ninh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.939777",
+            "lng": "109.186778"
+        },
+        {
+            "id": 978998,
+            "name": "Tdp Phúc Hải",
+            "pid": 17665,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Phúc Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.938119",
+            "lng": "109.177994"
+        },
+        {
+            "id": 992263,
+            "name": "Tdp Phúc Sơn",
+            "pid": 17665,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Phúc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.945978993078171",
+            "lng": "109.17744504990122"
+        },
+        {
+            "id": 987256,
+            "name": "Tdp Xuân Ninh",
+            "pid": 17665,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Xuân Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.947009",
+            "lng": "109.181301"
+        },
+        {
+            "id": 719341,
+            "name": "Trường Chu Văn An",
+            "pid": 17665,
+            "type": 18,
+            "region": null,
+            "alias": "trường Chu Văn An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.938716",
+            "lng": "109.175859"
+        }
+    ],
+    "log_id": "67581585b6b20790"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 729628,
+            "name": "Cổ Phục Nam",
+            "pid": 7162,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ Phục Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9452483",
+            "lng": "106.5365709"
+        },
+        {
+            "id": 762997,
+            "name": "Cổ Phục Bắc",
+            "pid": 7162,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ Phục bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9499966",
+            "lng": "106.5318919"
+        },
+        {
+            "id": 729625,
+            "name": "Lương Xá Bắc",
+            "pid": 7162,
+            "type": 16,
+            "region": null,
+            "alias": "Lương xá bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 883936,
+            "name": "Lương Xá Nam",
+            "pid": 7162,
+            "type": 16,
+            "region": null,
+            "alias": "Lương xá nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9499966",
+            "lng": "106.5318919"
+        }
+    ],
+    "log_id": "675813f1f360f670"
+}

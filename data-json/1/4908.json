@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112343,
+            "name": "Thôn Lộc Dư",
+            "pid": 4908,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Dư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8522403",
+            "lng": "105.846785"
+        },
+        {
+            "id": 99380,
+            "name": "Thôn Mễ Sơn",
+            "pid": 4908,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Mễ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8540902",
+            "lng": "105.8561853"
+        },
+        {
+            "id": 53678,
+            "name": "Thpt Lý Tử Tấn",
+            "pid": 4908,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Lý Tử Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 55642,
+            "name": "Ubnd Xã Nguyễn Trãi",
+            "pid": 4908,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc9f83622"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962220,
+            "name": "Đường Vĩnh Phúc",
+            "pid": 44,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.044620311062513",
+            "lng": "105.81039171452119"
+        },
+        {
+            "id": 12672,
+            "name": "Ngõ 6 Đốc Ngữ",
+            "pid": 44,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 6 Đốc Ngữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "675811bc47dc0195"
+}

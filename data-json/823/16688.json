@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 933404,
+            "name": "Đường Hoàng Minh Châu Khu Kim Sơn",
+            "pid": 16688,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Hoàng Minh Châu Khu Kim Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.780869603265955",
+            "lng": "106.93470174052364"
+        },
+        {
+            "id": 994949,
+            "name": "Khách Sạn Hoàng Cầm Khu Phước Hải",
+            "pid": 16688,
+            "type": 10,
+            "region": null,
+            "alias": "Khách Sạn Hoàng Cầm khu phước hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.783077500638907",
+            "lng": "106.95191467254395"
+        },
+        {
+            "id": 994942,
+            "name": "Nhà Thuốc Fpt Long Châu",
+            "pid": 16688,
+            "type": 10,
+            "region": null,
+            "alias": "Nhà Thuốc FPT Long Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.780704165709405",
+            "lng": "106.95266447842981"
+        },
+        {
+            "id": 995961,
+            "name": "Nhà Văn Hóa Khu Kim Sơn",
+            "pid": 16688,
+            "type": 10,
+            "region": null,
+            "alias": "Nhà văn hóa khu Kim Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.778449124819026",
+            "lng": "106.94029062280266"
+        },
+        {
+            "id": 933272,
+            "name": "Trường Cao Đẳng Nghề Công Nghệ Cao Đồng Nai Khu Phước Hải",
+            "pid": 16688,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Cao Đẳng Nghề Công Nghệ Cao Đồng Nai khu phước hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.819375105826088",
+            "lng": "106.94229755443762"
+        }
+    ],
+    "log_id": "675814dd5a383443"
+}

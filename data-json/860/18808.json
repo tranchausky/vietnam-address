@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467865,
+            "name": "An Thường",
+            "pid": 18808,
+            "type": 16,
+            "region": null,
+            "alias": "An Thường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7810685",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 90308,
+            "name": "Công Ty Cổ Phần May Vinatex Đức Phổ",
+            "pid": 18808,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty cổ phần may Vinatex Đức Phổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.805535",
+            "lng": "108.963459"
+        },
+        {
+            "id": 467863,
+            "name": "Hiển Văn",
+            "pid": 18808,
+            "type": 16,
+            "region": null,
+            "alias": "Hiển Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7810685",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 467859,
+            "name": "Hòa Thịnh",
+            "pid": 18808,
+            "type": 16,
+            "region": null,
+            "alias": "Hòa Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7810685",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 467861,
+            "name": "Nho Lâm",
+            "pid": 18808,
+            "type": 16,
+            "region": null,
+            "alias": "Nho Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7810685",
+            "lng": "108.95616610000002"
+        }
+    ],
+    "log_id": "675909a4c8a0d453"
+}

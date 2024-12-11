@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118271,
+            "name": "Nhà Thờ Lục Xuân",
+            "pid": 4770,
+            "type": 16,
+            "region": null,
+            "alias": "Nhà thờ Lục xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1170795",
+            "lng": "105.5796808"
+        },
+        {
+            "id": 118273,
+            "name": "Phù Long",
+            "pid": 4770,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1203769",
+            "lng": "105.5793143"
+        },
+        {
+            "id": 118275,
+            "name": "Triệu Xuyên",
+            "pid": 4770,
+            "type": 16,
+            "region": null,
+            "alias": "Triệu Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1170795",
+            "lng": "105.5796808"
+        }
+    ],
+    "log_id": "675811bc4738c495"
+}

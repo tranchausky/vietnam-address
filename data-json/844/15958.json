@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 782581,
+            "name": "Quảng Thành",
+            "pid": 15958,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8661061",
+            "lng": "107.52638049999996"
+        },
+        {
+            "id": 669001,
+            "name": "Thôn Quảng Đạt",
+            "pid": 15958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Đạt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.855838",
+            "lng": "107.549628"
+        },
+        {
+            "id": 668992,
+            "name": "Thôn Quảng Lộc",
+            "pid": 15958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.855838",
+            "lng": "107.549628"
+        },
+        {
+            "id": 668986,
+            "name": "Thôn Quảng Phước",
+            "pid": 15958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.855838",
+            "lng": "107.549628"
+        },
+        {
+            "id": 668998,
+            "name": "Thôn Quảng Thọ",
+            "pid": 15958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.855838",
+            "lng": "107.549628"
+        }
+    ],
+    "log_id": "675816912ad28228"
+}

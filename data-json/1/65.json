@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881383,
+            "name": "Đường Chùa Bộc",
+            "pid": 65,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chùa Bộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,013364",
+            "lng": "105,826406"
+        },
+        {
+            "id": 881377,
+            "name": "Đường Nguyễn Lương Bằng",
+            "pid": 65,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Lương Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,013364",
+            "lng": "105,826406"
+        },
+        {
+            "id": 881248,
+            "name": "Đường Tây Sơn",
+            "pid": 65,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tây Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,003885",
+            "lng": "105,820935"
+        }
+    ],
+    "log_id": "675811bbeee2e818"
+}

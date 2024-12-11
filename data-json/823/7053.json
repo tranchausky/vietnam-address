@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88067,
+            "name": "Ấp Bến Đình",
+            "pid": 7053,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.716497653903929",
+            "lng": "106.82119912866193"
+        },
+        {
+            "id": 88076,
+            "name": "Ấp Bến Ngự",
+            "pid": 7053,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Ngự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.719165",
+            "lng": "106.800066"
+        },
+        {
+            "id": 88088,
+            "name": "Ấp Giồng Ông Đông",
+            "pid": 7053,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Ông Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.719895",
+            "lng": "106.800562"
+        },
+        {
+            "id": 79589,
+            "name": "Ấp Phú Tân",
+            "pid": 7053,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.686490",
+            "lng": "106.776832"
+        },
+        {
+            "id": 88046,
+            "name": "Ấp Thị Cầu",
+            "pid": 7053,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1628716",
+            "lng": "106.2014719"
+        }
+    ],
+    "log_id": "675814dd46149757"
+}

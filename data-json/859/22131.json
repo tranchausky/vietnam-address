@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 760765,
+            "name": "Thôn Cấm La",
+            "pid": 22131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cấm La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6146322",
+            "lng": "107.92948150000008"
+        },
+        {
+            "id": 641242,
+            "name": "Thôn Phước Hội",
+            "pid": 22131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.641903",
+            "lng": "107.998164"
+        },
+        {
+            "id": 641254,
+            "name": "Thôn Thạch Bích",
+            "pid": 22131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Bích",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.641903",
+            "lng": "107.99816"
+        },
+        {
+            "id": 641263,
+            "name": "Thôn Tứ Nhũ",
+            "pid": 22131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tứ Nhũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.641903",
+            "lng": " 107.998164"
+        },
+        {
+            "id": 641248,
+            "name": "Thôn Tứ Trung",
+            "pid": 22131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tứ Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.641903",
+            "lng": "107.998164"
+        }
+    ],
+    "log_id": "675817e18452b83"
+}

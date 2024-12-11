@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476335,
+            "name": "An Động",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "An Động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        },
+        {
+            "id": 476341,
+            "name": "Hộ Vệ",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "Hộ Vệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        },
+        {
+            "id": 476339,
+            "name": "Hương Vân",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "Hương Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        },
+        {
+            "id": 476333,
+            "name": "Nam Viên",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        },
+        {
+            "id": 476331,
+            "name": "Nội Viên",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "Nội Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        },
+        {
+            "id": 476337,
+            "name": "Phố Lạc Vệ",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Lạc Vệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        },
+        {
+            "id": 476329,
+            "name": "Xuân Hội",
+            "pid": 13630,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1185051",
+            "lng": "106.08165359999998"
+        }
+    ],
+    "log_id": "675815f8ccdd9512"
+}

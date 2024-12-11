@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 794245,
+            "name": "Chợ Điền",
+            "pid": 15715,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0102411",
+            "lng": "106.06628780000004"
+        },
+        {
+            "id": 794188,
+            "name": "Đào Viên",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Đào Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9961269",
+            "lng": "106.0744262"
+        },
+        {
+            "id": 810433,
+            "name": "Điện Tiền",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Điện Tiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0035277",
+            "lng": "106.069361"
+        },
+        {
+            "id": 628854,
+            "name": "Kim Tháp",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Tháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0092266",
+            "lng": "106.0660243"
+        },
+        {
+            "id": 628857,
+            "name": "Lê Xá",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Lê Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0055684",
+            "lng": "106.0640179"
+        },
+        {
+            "id": 794272,
+            "name": "Quán Tranh",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Quán Tranh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0233681",
+            "lng": "106.0611535"
+        },
+        {
+            "id": 794248,
+            "name": "Thư Đôi",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Thư đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0120811",
+            "lng": "106.0583425"
+        },
+        {
+            "id": 628860,
+            "name": "Yên Nhuế",
+            "pid": 15715,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Nhuế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0078646",
+            "lng": "106.0441161"
+        }
+    ],
+    "log_id": "675815f8c2e27598"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455641,
+            "name": "Thôn Châu Đắc",
+            "pid": 17600,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu Đắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8223988",
+            "lng": "108.86959249999995"
+        },
+        {
+            "id": 455639,
+            "name": "Thôn Ma Hoa",
+            "pid": 17600,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8223988",
+            "lng": "108.86959249999995"
+        },
+        {
+            "id": 455633,
+            "name": "Thôn Tà Lú 1",
+            "pid": 17600,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Lú 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8223988",
+            "lng": "108.86959249999995"
+        },
+        {
+            "id": 455635,
+            "name": "Thôn Tà Lú 2",
+            "pid": 17600,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Lú 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8223988",
+            "lng": "108.86959249999995"
+        },
+        {
+            "id": 455637,
+            "name": "Thôn Tà Lú 3",
+            "pid": 17600,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Lú 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8223988",
+            "lng": "108.86959249999995"
+        }
+    ],
+    "log_id": "675817b9793a8748"
+}

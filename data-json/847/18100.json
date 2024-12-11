@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 702022,
+            "name": "Buôn Hoai",
+            "pid": 18100,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Hoai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3743393",
+            "lng": "108.39898089999996"
+        },
+        {
+            "id": 626088,
+            "name": "Kho Đạn K54",
+            "pid": 18100,
+            "type": 10,
+            "region": null,
+            "alias": "Kho Đạn K54",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3743393",
+            "lng": "108.39898089999997"
+        },
+        {
+            "id": 626085,
+            "name": "Thôn Buôn Hiao",
+            "pid": 18100,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Hiao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3743393",
+            "lng": "108.39898089999997"
+        }
+    ],
+    "log_id": "675816d3764f8788"
+}

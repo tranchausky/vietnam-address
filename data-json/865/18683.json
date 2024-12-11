@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 814033,
+            "name": "Bưu Điện Nghi Sơn",
+            "pid": 18683,
+            "type": 21,
+            "region": null,
+            "alias": "Bưu điện Nghi Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3286153",
+            "lng": "105.82022340000003"
+        },
+        {
+            "id": 814036,
+            "name": "Ubnd Nghi Sơn",
+            "pid": 18683,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Nghi Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3286153",
+            "lng": "105.82022340000003"
+        }
+    ],
+    "log_id": "67590a23b0fbd91"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830011,
+            "name": "Đường Nghĩa Tân",
+            "pid": 49,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nghĩa Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0460441",
+            "lng": "105.79110969999999"
+        },
+        {
+            "id": 881257,
+            "name": "Đường Tô Hiệu",
+            "pid": 49,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tô Hiệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,043088",
+            "lng": "105,792492"
+        },
+        {
+            "id": 621,
+            "name": "Tô Hiệu",
+            "pid": 49,
+            "type": 2,
+            "region": null,
+            "alias": "Tô Hiệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.042043",
+            "lng": "105.7925543"
+        }
+    ],
+    "log_id": "675811bd5652b276"
+}

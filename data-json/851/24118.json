@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108669,
+            "name": "Ấp Nguyễn Văn Thới",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp nguyễn văn thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.998629",
+            "lng": "105.443498"
+        },
+        {
+            "id": 108651,
+            "name": "Ấp Thạnh An",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.963698",
+            "lng": "105.382630"
+        },
+        {
+            "id": 108655,
+            "name": "Ấp Thạnh Hiệp",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.967381",
+            "lng": "105.388997"
+        },
+        {
+            "id": 108665,
+            "name": "Ấp Thạnh Lợi",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.005783",
+            "lng": "105.402289"
+        },
+        {
+            "id": 117997,
+            "name": "Ấp Thạnh Thắng",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.971117",
+            "lng": "105.395347"
+        },
+        {
+            "id": 108663,
+            "name": "Ấp Thạnh Thới",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.997221",
+            "lng": "105.442760"
+        },
+        {
+            "id": 108659,
+            "name": "Ấp Thạnh Vinh",
+            "pid": 24118,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.995022",
+            "lng": "105.449619"
+        }
+    ],
+    "log_id": "67581736445f499"
+}

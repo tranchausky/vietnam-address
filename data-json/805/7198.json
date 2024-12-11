@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398015,
+            "name": "Đồng Lạc",
+            "pid": 7198,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7768824",
+            "lng": "106.31474070000002"
+        },
+        {
+            "id": 398017,
+            "name": "Kim Húc",
+            "pid": 7198,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Húc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7768824",
+            "lng": "106.31474070000002"
+        },
+        {
+            "id": 398019,
+            "name": "Mai Động",
+            "pid": 7198,
+            "type": 16,
+            "region": null,
+            "alias": "Mai Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7768824",
+            "lng": "106.31474070000002"
+        },
+        {
+            "id": 398013,
+            "name": "Tế Cầu",
+            "pid": 7198,
+            "type": 16,
+            "region": null,
+            "alias": "Tế Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7768824",
+            "lng": "106.31474070000002"
+        }
+    ],
+    "log_id": "675813f1b946f851"
+}

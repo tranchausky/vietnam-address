@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630873,
+            "name": "Thôn Ba Hàng",
+            "pid": 13444,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ba hàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6568572",
+            "lng": "106.09635129999992"
+        },
+        {
+            "id": 630879,
+            "name": "Thôn Lê Bãi",
+            "pid": 13444,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lê bãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6568572",
+            "lng": "106.09635129999992"
+        },
+        {
+            "id": 630876,
+            "name": "Thôn Nội Lăng",
+            "pid": 13444,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nội lăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6568572",
+            "lng": "106.09635129999992"
+        },
+        {
+            "id": 630870,
+            "name": "Thôn Tất Viên",
+            "pid": 13444,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tất viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6568572",
+            "lng": "106.09635129999992"
+        },
+        {
+            "id": 948496,
+            "name": "Thôn Tây Lĩnh",
+            "pid": 13444,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tây Lĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 630867,
+            "name": "Thôn Thống Nhất",
+            "pid": 13444,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thống nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6568572",
+            "lng": "106.09635129999992"
+        }
+    ],
+    "log_id": "67581490f40e7458"
+}

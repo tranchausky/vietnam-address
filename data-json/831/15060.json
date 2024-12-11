@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 457265,
+            "name": "Phú Thọ 1",
+            "pid": 15060,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thọ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5136671",
+            "lng": "109.20584359999998"
+        },
+        {
+            "id": 457267,
+            "name": "Phú Thọ 2",
+            "pid": 15060,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thọ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5136671",
+            "lng": "109.20584359999998"
+        },
+        {
+            "id": 457269,
+            "name": "Phú Thọ 3",
+            "pid": 15060,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thọ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5136671",
+            "lng": "109.20584359999998"
+        },
+        {
+            "id": 997507,
+            "name": "Tdp Phú Thọ 3 (Số Chẳn 68-100 Đường Lê Hồng Phong)",
+            "pid": 15060,
+            "type": 10,
+            "region": null,
+            "alias": "TDP Phú Thọ 3 (số chẳn 68-100 Đường Lê Hồng Phong)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.535594544411147",
+            "lng": "109.21726378162971"
+        },
+        {
+            "id": 457271,
+            "name": "Thạnh Danh",
+            "pid": 15060,
+            "type": 16,
+            "region": null,
+            "alias": "Thạnh Danh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5136671",
+            "lng": "109.20584359999998"
+        }
+    ],
+    "log_id": "67581585b9563572"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995873,
+            "name": "Bưu Điện Thị Trấn Phước Hải",
+            "pid": 15731,
+            "type": 10,
+            "region": null,
+            "alias": "Bưu Điện Thị trấn Phước Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.428265223395758",
+            "lng": "107.29269248383181"
+        },
+        {
+            "id": 444859,
+            "name": "Khu Phố Hải An",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444871,
+            "name": "Khu Phố Hải Phúc",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444869,
+            "name": "Khu Phố Hải Sơn",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444873,
+            "name": "Khu Phố Hải Tân",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444865,
+            "name": "Khu Phố Hải Trung",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444857,
+            "name": "Khu Phố Lộc An",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lộc An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444867,
+            "name": "Khu Phố Phước Điền",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        },
+        {
+            "id": 444863,
+            "name": "Khu Phố Phước Trung",
+            "pid": 15731,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4054168",
+            "lng": "107.2607289"
+        }
+    ],
+    "log_id": "675815b40c75178"
+}

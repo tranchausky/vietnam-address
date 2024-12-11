@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 924289,
+            "name": "Châu Sơn",
+            "pid": 18643,
+            "type": 16,
+            "region": null,
+            "alias": "Châu Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 558751,
+            "name": "Ct May Hoàng Thái 1",
+            "pid": 18643,
+            "type": 10,
+            "region": null,
+            "alias": "CT May Hoàng Thái 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 558753,
+            "name": "Ct May Hoàng Thái 2",
+            "pid": 18643,
+            "type": 10,
+            "region": null,
+            "alias": "CT May Hoàng Thái 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 558747,
+            "name": "Hà Khẩu",
+            "pid": 18643,
+            "type": 18,
+            "region": null,
+            "alias": "Hà Khẩu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 558749,
+            "name": "Hợp Nhất",
+            "pid": 18643,
+            "type": 18,
+            "region": null,
+            "alias": "Hợp Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 558743,
+            "name": "Tế Đô",
+            "pid": 18643,
+            "type": 18,
+            "region": null,
+            "alias": "Tế Đô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 558745,
+            "name": "Thịnh Lạc",
+            "pid": 18643,
+            "type": 18,
+            "region": null,
+            "alias": "Thịnh Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6597606",
+            "lng": "105.70577920000005"
+        }
+    ],
+    "log_id": "67590a24b1ac0415"
+}

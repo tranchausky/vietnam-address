@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 99986,
+            "name": "Miêng Hạ",
+            "pid": 4951,
+            "type": 16,
+            "region": null,
+            "alias": "Miêng Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7800002",
+            "lng": "105.7505213"
+        },
+        {
+            "id": 100004,
+            "name": "Miêng Thượng",
+            "pid": 4951,
+            "type": 16,
+            "region": null,
+            "alias": "Miêng Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7792373",
+            "lng": "105.7431858"
+        },
+        {
+            "id": 53658,
+            "name": "Thpt Trần Đăng Ninh",
+            "pid": 4951,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Trần Đăng Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 100112,
+            "name": "Trần Đăng",
+            "pid": 4951,
+            "type": 16,
+            "region": null,
+            "alias": "Trần Đăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7714439",
+            "lng": "105.7490542"
+        },
+        {
+            "id": 55714,
+            "name": "Ubnd Xã Hoa Sơn",
+            "pid": 4951,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hoa Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd3d89e261"
+}

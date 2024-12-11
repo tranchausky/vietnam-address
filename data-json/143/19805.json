@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465203,
+            "name": "Thôn An Tiêm",
+            "pid": 19805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Tiêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        },
+        {
+            "id": 465197,
+            "name": "Thôn Bích La Đông",
+            "pid": 19805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bích la Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        },
+        {
+            "id": 465207,
+            "name": "Thôn Bích La Trung",
+            "pid": 19805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bích La Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        },
+        {
+            "id": 465201,
+            "name": "Thôn Cổ Thành",
+            "pid": 19805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        },
+        {
+            "id": 465209,
+            "name": "Thôn Hà Lệt",
+            "pid": 19805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Lệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        },
+        {
+            "id": 465199,
+            "name": "Thôn Nại Cửu",
+            "pid": 19805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nại Cửu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        },
+        {
+            "id": 465205,
+            "name": "Thôn Nam Xuân Đức",
+            "pid": 19805,
+            "type": 9,
+            "region": null,
+            "alias": "Thôn Nam Xuân Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.66387",
+            "lng": "106.6409198"
+        }
+    ],
+    "log_id": "675813bc68ac6425"
+}

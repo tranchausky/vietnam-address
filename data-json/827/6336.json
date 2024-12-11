@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 549927,
+            "name": "Phương Nha 1",
+            "pid": 6336,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Nha 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549929,
+            "name": "Phương Nha 2",
+            "pid": 6336,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Nha 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549925,
+            "name": "Phú Phong",
+            "pid": 6336,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549931,
+            "name": "Trung Nha",
+            "pid": 6336,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Nha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "67581533492eb68"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424211,
+            "name": "Thôn Mới",
+            "pid": 6398,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424213,
+            "name": "Thôn Nội",
+            "pid": 6398,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424215,
+            "name": "Thôn Thượng Lạp 5",
+            "pid": 6398,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thượng lạp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 901147,
+            "name": "Xóm Mới",
+            "pid": 6398,
+            "type": 18,
+            "region": null,
+            "alias": "XÓM MỚI",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        }
+    ],
+    "log_id": "675815337c564506"
+}

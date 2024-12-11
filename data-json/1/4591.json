@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117351,
+            "name": "Bài Trượng",
+            "pid": 4591,
+            "type": 16,
+            "region": null,
+            "alias": "Bài Trượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9510391",
+            "lng": "104.0202948"
+        },
+        {
+            "id": 117349,
+            "name": "Cốc Hạ",
+            "pid": 4591,
+            "type": 16,
+            "region": null,
+            "alias": "Cốc Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8492023",
+            "lng": "105.7387846"
+        },
+        {
+            "id": 117347,
+            "name": "Cốc Thượng",
+            "pid": 4591,
+            "type": 4,
+            "region": null,
+            "alias": "Cốc Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8580344",
+            "lng": "105.7373176"
+        },
+        {
+            "id": 117361,
+            "name": "Trại Trung",
+            "pid": 4591,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8592403",
+            "lng": "105.7321831"
+        }
+    ],
+    "log_id": "675811bb71fb9236"
+}

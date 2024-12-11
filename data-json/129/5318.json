@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981990,
+            "name": "Đường Nguyễn Chí Thanh",
+            "pid": 5318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981882,
+            "name": "Đường Thái Phiên",
+            "pid": 5318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Phiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981989,
+            "name": "Đường Trần Bình Trọng",
+            "pid": 5318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bình Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981988,
+            "name": "Đường Yên Bái",
+            "pid": 5318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d17100c455"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830506,
+            "name": "Đường Quỳnh Mai",
+            "pid": 41462,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quỳnh Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0090571",
+            "lng": "105.86075069999993"
+        },
+        {
+            "id": 830365,
+            "name": "Phố 8\/3",
+            "pid": 41462,
+            "type": 21,
+            "region": null,
+            "alias": "Phố 8\/3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0090571",
+            "lng": "105.86075069999993"
+        },
+        {
+            "id": 107,
+            "name": "Quỳnh Mai",
+            "pid": 41462,
+            "type": 2,
+            "region": null,
+            "alias": "Quỳnh Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0011245",
+            "lng": "105.86095649999993"
+        }
+    ],
+    "log_id": "675811bd1b8e9404"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 767704,
+            "name": "Khu Phố An Thới",
+            "pid": 19232,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.058894300000002",
+            "lng": "106.32389139999998"
+        },
+        {
+            "id": 110965,
+            "name": "Khu Phố Bình Nguyên 1",
+            "pid": 19232,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Bình Nguyên 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.065604",
+            "lng": "106.304608"
+        },
+        {
+            "id": 767719,
+            "name": "Khu Phố Bình Nguyên 2",
+            "pid": 19232,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Bình Nguyên 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0346486",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 110821,
+            "name": "Khu Phố Chánh",
+            "pid": 19232,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.057740",
+            "lng": "106.325810"
+        },
+        {
+            "id": 110849,
+            "name": "Khu Phố Phước Hậu",
+            "pid": 19232,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.063867",
+            "lng": " 106.326148"
+        },
+        {
+            "id": 110899,
+            "name": "Khu Phố Phước Hiệp",
+            "pid": 19232,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.066331",
+            "lng": "106.326009"
+        }
+    ],
+    "log_id": "675909dcefb6c540"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981157,
+            "name": "Cầu Đất",
+            "pid": 26081,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu Đất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981160,
+            "name": "Nguyễn Khuyến",
+            "pid": 26081,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Khuyến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981213,
+            "name": "Trần Bình Trọng",
+            "pid": 26081,
+            "type": 21,
+            "region": null,
+            "alias": "trần bình trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981159,
+            "name": "Trần Nhật Duật",
+            "pid": 26081,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Nhật Duật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981158,
+            "name": "Trần Phú",
+            "pid": 26081,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581365de45b573"
+}

@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 971565,
+            "name": "Chẵn 78-120 Nghĩa Thục, Phường 5, Quận 5",
+            "pid": 1303,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 78-120 Nghĩa Thục, Phường 5, Quận 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.752217246838557",
+            "lng": "106.6737178666023"
+        },
+        {
+            "id": 672637,
+            "name": "Đường An Bình",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7521335",
+            "lng": "106.6724513"
+        },
+        {
+            "id": 677371,
+            "name": "Đường Bạch Vân",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7516265",
+            "lng": "106.6753015"
+        },
+        {
+            "id": 682156,
+            "name": "Đường Bùi Hữu Nghĩa",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Hữu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7527234",
+            "lng": "106.6750045"
+        },
+        {
+            "id": 675685,
+            "name": "Đường Chiêu Anh Các",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chiêu Anh Các",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7524682",
+            "lng": "106.6759909"
+        },
+        {
+            "id": 673957,
+            "name": "Đường Đào Tấn",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7507636",
+            "lng": "106.6755415"
+        },
+        {
+            "id": 683302,
+            "name": "Đường Huỳnh Mẫn Đạt",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Mẫn Đạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7532642",
+            "lng": "106.6771591"
+        },
+        {
+            "id": 673756,
+            "name": "Đường Nghĩa Thục",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nghĩa Thục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7527234",
+            "lng": "106.6750045"
+        },
+        {
+            "id": 676189,
+            "name": "Đường Nhiêu Tâm",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nhiêu Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7524682",
+            "lng": "106.6759909"
+        },
+        {
+            "id": 682024,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7536226",
+            "lng": "106.6747451"
+        },
+        {
+            "id": 677980,
+            "name": "Đường Trần Tuấn Khải",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Tuấn Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7513865",
+            "lng": "106.6744304"
+        },
+        {
+            "id": 676891,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 1303,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7497537",
+            "lng": "106.6755383"
+        },
+        {
+            "id": 772735,
+            "name": "Lẻ 963-1169 Trần Hưng Đạo",
+            "pid": 1303,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 963-1169 Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.754107",
+            "lng": "106.676830"
+        }
+    ],
+    "log_id": "6758129a96edb995"
+}

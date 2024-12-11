@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444827,
+            "name": "Ấp Cầu Mới",
+            "pid": 19869,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cầu Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6605776",
+            "lng": "107.15436010000008"
+        },
+        {
+            "id": 444829,
+            "name": "Ấp Cầu Ri",
+            "pid": 19869,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cầu Ri",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6605776",
+            "lng": "107.15436010000008"
+        },
+        {
+            "id": 444831,
+            "name": "Ấp Phước Bình",
+            "pid": 19869,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6605776",
+            "lng": "107.15436010000008"
+        },
+        {
+            "id": 444833,
+            "name": "Ấp Sông Xoài 1",
+            "pid": 19869,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sông Xoài 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6605776",
+            "lng": "107.15436010000008"
+        },
+        {
+            "id": 444835,
+            "name": "Ấp Sông Xoài 2",
+            "pid": 19869,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sông Xoài 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6605776",
+            "lng": "107.15436010000008"
+        },
+        {
+            "id": 444837,
+            "name": "Ấp Sông Xoài 3",
+            "pid": 19869,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sông Xoài 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6605776",
+            "lng": "107.15436010000008"
+        }
+    ],
+    "log_id": "675815b41524f209"
+}

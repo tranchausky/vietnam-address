@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 843634,
+            "name": "Ấp Kim Qui A",
+            "pid": 10101,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kim Qui A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.58722",
+            "lng": "104.873063"
+        },
+        {
+            "id": 736222,
+            "name": "Ấp Kim Qui B",
+            "pid": 10101,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kim Qui B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.58722",
+            "lng": "104.873063"
+        },
+        {
+            "id": 843625,
+            "name": "Ấp Kinh 5",
+            "pid": 10101,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.58722",
+            "lng": "104.873063"
+        },
+        {
+            "id": 736210,
+            "name": "Ấp Mương Đào A",
+            "pid": 10101,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Đào A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.58722",
+            "lng": "104.873063"
+        },
+        {
+            "id": 115693,
+            "name": "Ấp Mương Đào B",
+            "pid": 10101,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Đào B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.591763",
+            "lng": "104.897461"
+        },
+        {
+            "id": 115695,
+            "name": "Ấp Mương Đào C",
+            "pid": 10101,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Đào C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.602084",
+            "lng": "104.923899"
+        }
+    ],
+    "log_id": "6758173622427656"
+}

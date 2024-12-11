@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995888,
+            "name": "Xã An Bình",
+            "pid": 35486,
+            "type": 1,
+            "region": null,
+            "alias": "Xã An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.428798353385998",
+            "lng": "109.08499002557816"
+        },
+        {
+            "id": 995887,
+            "name": "Xã An Hải",
+            "pid": 35486,
+            "type": 1,
+            "region": null,
+            "alias": "Xã An Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.376759488043948",
+            "lng": "109.12758271208422"
+        },
+        {
+            "id": 995886,
+            "name": "Xã An Vĩnh",
+            "pid": 35486,
+            "type": 1,
+            "region": null,
+            "alias": "Xã An Vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.376887716146813",
+            "lng": "109.10226416790645"
+        }
+    ],
+    "log_id": "675909a4928a9946"
+}

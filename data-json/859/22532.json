@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467291,
+            "name": "A Xò",
+            "pid": 22532,
+            "type": 16,
+            "region": null,
+            "alias": "A Xò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 467293,
+            "name": "Blăng",
+            "pid": 22532,
+            "type": 16,
+            "region": null,
+            "alias": "Blăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 895393,
+            "name": "Côn Zốt",
+            "pid": 22532,
+            "type": 16,
+            "region": null,
+            "alias": "Côn Zốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 716281,
+            "name": "Thôn G Rát",
+            "pid": 22532,
+            "type": 16,
+            "region": null,
+            "alias": "thôn G Rát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        }
+    ],
+    "log_id": "675817e1b82a4423"
+}

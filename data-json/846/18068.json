@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443225,
+            "name": "Ấp Hoàng Việt",
+            "pid": 18068,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Hoàng Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8390414",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 443223,
+            "name": "Ấp Tân Bảnh",
+            "pid": 18068,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Bảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8390414",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 443227,
+            "name": "Ấp Tuyết Hồng",
+            "pid": 18068,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tuyết Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8390414",
+            "lng": "105.55916150000007"
+        }
+    ],
+    "log_id": "675816c048fa342"
+}

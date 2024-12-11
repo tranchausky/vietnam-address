@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117009,
+            "name": "Ấp Phú Hòa A",
+            "pid": 18083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Hòa A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7368718",
+            "lng": "105.30726460000005"
+        },
+        {
+            "id": 117011,
+            "name": "Ấp Phú Hòa B",
+            "pid": 18083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Hòa B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7368718",
+            "lng": "105.30726460000005"
+        },
+        {
+            "id": 117013,
+            "name": "Ấp Phú Thạnh A",
+            "pid": 18083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Thạnh A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7368718",
+            "lng": "105.30726460000005"
+        },
+        {
+            "id": 117015,
+            "name": "Ấp Phú Thạnh B",
+            "pid": 18083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Thạnh B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7368718",
+            "lng": "105.30726460000005"
+        },
+        {
+            "id": 866329,
+            "name": "Phú Lợi A",
+            "pid": 18083,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lợi A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7368718",
+            "lng": "105.30726460000004"
+        }
+    ],
+    "log_id": "675816c0432e1758"
+}

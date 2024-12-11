@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 808168,
+            "name": "Châu Mai",
+            "pid": 4869,
+            "type": 16,
+            "region": null,
+            "alias": "Châu Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 116577,
+            "name": "Thôn Châu Mai",
+            "pid": 4869,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.814116",
+            "lng": "20.803298"
+        },
+        {
+            "id": 116545,
+            "name": "Thôn Từ Châu",
+            "pid": 4869,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Từ Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.830986",
+            "lng": "20.814725"
+        },
+        {
+            "id": 55486,
+            "name": "Ubnd Xã Liên Châu",
+            "pid": 4869,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Liên Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd6b4df916"
+}

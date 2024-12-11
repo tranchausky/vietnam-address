@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638730,
+            "name": "Thôn Hoàng Gia",
+            "pid": 7138,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9719835",
+            "lng": "106.2492724"
+        },
+        {
+            "id": 638727,
+            "name": "Thôn Nghĩa Phú",
+            "pid": 7138,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9719835",
+            "lng": "106.2492724"
+        },
+        {
+            "id": 638724,
+            "name": "Thôn Phú Lộc",
+            "pid": 7138,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9719835",
+            "lng": "106.2492724"
+        }
+    ],
+    "log_id": "675813f166fa256"
+}

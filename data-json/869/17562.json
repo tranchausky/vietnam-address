@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 774406,
+            "name": "Đường Kim Đồng",
+            "pid": 17562,
+            "type": 21,
+            "region": null,
+            "alias": "đường Kim Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 774397,
+            "name": "Đường Nguyễn Hồng Sơn",
+            "pid": 17562,
+            "type": 21,
+            "region": null,
+            "alias": "đường Nguyễn Hồng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 443821,
+            "name": "Kp Chánh Bắc",
+            "pid": 17562,
+            "type": 16,
+            "region": null,
+            "alias": "KP Chánh Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 443815,
+            "name": "Kp Dân Phước",
+            "pid": 17562,
+            "type": 16,
+            "region": null,
+            "alias": "KP Dân Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 443819,
+            "name": "Kp Mỹ Thành",
+            "pid": 17562,
+            "type": 16,
+            "region": null,
+            "alias": "KP Mỹ Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 443817,
+            "name": "Kp Vạn Phước",
+            "pid": 17562,
+            "type": 16,
+            "region": null,
+            "alias": "KP Vạn Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 833929,
+            "name": "Trạm Y Tế Phường Xuân Thành",
+            "pid": 17562,
+            "type": 21,
+            "region": null,
+            "alias": "Trạm y tế phường Xuân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        },
+        {
+            "id": 828088,
+            "name": "Ubnd Phường Xuân Thành",
+            "pid": 17562,
+            "type": 21,
+            "region": null,
+            "alias": "UBND phường Xuân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4416852",
+            "lng": "109.22241570000006"
+        }
+    ],
+    "log_id": "67590b8091f89928"
+}

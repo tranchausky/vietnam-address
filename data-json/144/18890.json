@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 406157,
+            "name": "Thôn Cây Gạo",
+            "pid": 18890,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Cây Gạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 406159,
+            "name": "Thôn Chỉ Chòe",
+            "pid": 18890,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chỉ Chòe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 406149,
+            "name": "Thôn Đền",
+            "pid": 18890,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 406153,
+            "name": "Thôn Thiều",
+            "pid": 18890,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thiều",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 406147,
+            "name": "Thôn Tiếu",
+            "pid": 18890,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tiếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 406155,
+            "name": "Thôn Trại Cả",
+            "pid": 18890,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trại cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 406151,
+            "name": "Thôn Vàng",
+            "pid": 18890,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.456999",
+            "lng": "106.14339130000008"
+        }
+    ],
+    "log_id": "675813d9181f4320"
+}

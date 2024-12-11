@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 480521,
+            "name": "Khu Vực Bình Hiếu",
+            "pid": 15652,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Bình Hiếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.729234",
+            "lng": "105.579748"
+        },
+        {
+            "id": 480525,
+            "name": "Khu Vực Bình Hòa",
+            "pid": 15652,
+            "type": 21,
+            "region": null,
+            "alias": "khu vực Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.729234",
+            "lng": "105.579748"
+        },
+        {
+            "id": 480523,
+            "name": "Kv Bình Tân",
+            "pid": 15652,
+            "type": 21,
+            "region": null,
+            "alias": "Kv Bình Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.729234",
+            "lng": "105.579748"
+        }
+    ],
+    "log_id": "675816fe424f8600"
+}

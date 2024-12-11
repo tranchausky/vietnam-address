@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476443,
+            "name": "Mao Dộc",
+            "pid": 13594,
+            "type": 16,
+            "region": null,
+            "alias": "Mao Dộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.150714",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 476447,
+            "name": "Mao Lại",
+            "pid": 13594,
+            "type": 16,
+            "region": null,
+            "alias": "Mao Lại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.150714",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 476445,
+            "name": "Mao Trung",
+            "pid": 13594,
+            "type": 16,
+            "region": null,
+            "alias": "Mao Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.150714",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 476449,
+            "name": "Mao Yên",
+            "pid": 13594,
+            "type": 16,
+            "region": null,
+            "alias": "Mao Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.150714",
+            "lng": "106.1375107"
+        }
+    ],
+    "log_id": "675815f8cd6e1280"
+}

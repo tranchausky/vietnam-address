@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 784270,
+            "name": "Đường Bạch Đằng",
+            "pid": 14979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Đằng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        },
+        {
+            "id": 784273,
+            "name": "Đường Bùi Xuân Phái",
+            "pid": 14979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Xuân Phái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        },
+        {
+            "id": 886339,
+            "name": "Đường Đào Duy Tân",
+            "pid": 14979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        },
+        {
+            "id": 886330,
+            "name": "Đường Đào Duy Từ",
+            "pid": 14979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Từ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        },
+        {
+            "id": 886333,
+            "name": "Đường Đoàn Thị Điểm",
+            "pid": 14979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Thị Điểm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        },
+        {
+            "id": 821872,
+            "name": "Đường Lê Đức Thọ",
+            "pid": 14979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đức Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        },
+        {
+            "id": 748156,
+            "name": "Ngân Hàng Bidv",
+            "pid": 14979,
+            "type": 4,
+            "region": null,
+            "alias": "Ngân Hàng BIDV",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7771602",
+            "lng": "109.22888639999996"
+        }
+    ],
+    "log_id": "6758150ddf2dc622"
+}

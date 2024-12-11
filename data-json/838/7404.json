@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 441433,
+            "name": "Ấp Ao Vuông",
+            "pid": 7404,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Ao Vuông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1919465",
+            "lng": "106.59965950000003"
+        },
+        {
+            "id": 441429,
+            "name": "Ấp Giồng Kiến",
+            "pid": 7404,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Giồng Kiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1919465",
+            "lng": "106.59965950000003"
+        },
+        {
+            "id": 441431,
+            "name": "Ấp Giồng Tre",
+            "pid": 7404,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Giồng Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1919465",
+            "lng": "106.59965950000003"
+        },
+        {
+            "id": 441435,
+            "name": "Ấp Rạch Gừa",
+            "pid": 7404,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rạch Gừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1919465",
+            "lng": "106.59965950000003"
+        }
+    ],
+    "log_id": "6758160dba2b7761"
+}

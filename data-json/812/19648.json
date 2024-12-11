@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 792574,
+            "name": "Bình Đức",
+            "pid": 19648,
+            "type": 16,
+            "region": null,
+            "alias": "Bình đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2294255",
+            "lng": "108.52850720000004"
+        },
+        {
+            "id": 762214,
+            "name": "Bình Tiến",
+            "pid": 19648,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2294255",
+            "lng": "108.52850720000004"
+        },
+        {
+            "id": 792577,
+            "name": "Cửa Hàng Tạp Hoá Cô Ủn",
+            "pid": 19648,
+            "type": 10,
+            "region": null,
+            "alias": "cửa hàng tạp hoá cô ủn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2294255",
+            "lng": "108.52850720000004"
+        }
+    ],
+    "log_id": "6758147790cc6158"
+}

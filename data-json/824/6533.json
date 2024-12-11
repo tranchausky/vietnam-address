@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598515,
+            "name": "Ấp Hậu Quế",
+            "pid": 6533,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hậu Quế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5179143",
+            "lng": "105.96411239999998"
+        },
+        {
+            "id": 598521,
+            "name": "Ấp Mỹ Thuận",
+            "pid": 6533,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5179143",
+            "lng": "105.96411239999998"
+        },
+        {
+            "id": 598518,
+            "name": "Ấp Mỹ Trung",
+            "pid": 6533,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5179143",
+            "lng": "105.96411239999998"
+        }
+    ],
+    "log_id": "675814f3b7619263"
+}

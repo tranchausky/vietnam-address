@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 833911,
+            "name": "Bãi Tắm Vịnh Hoà",
+            "pid": 17569,
+            "type": 21,
+            "region": null,
+            "alias": "Bãi tắm Vịnh Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        },
+        {
+            "id": 833926,
+            "name": "Đồn Biên Phòng Vịnh Hoà",
+            "pid": 17569,
+            "type": 21,
+            "region": null,
+            "alias": "Đồn Biên Phòng Vịnh Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        },
+        {
+            "id": 828097,
+            "name": "Làng Cà Ná",
+            "pid": 17569,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Cà Ná",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        },
+        {
+            "id": 443839,
+            "name": "Thôn Hoà Hiệp",
+            "pid": 17569,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoà Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        },
+        {
+            "id": 443841,
+            "name": "Thôn Phú Dương",
+            "pid": 17569,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        },
+        {
+            "id": 443845,
+            "name": "Thôn Từ Nham",
+            "pid": 17569,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Từ Nham",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        },
+        {
+            "id": 443843,
+            "name": "Thôn Vịnh Hoà",
+            "pid": 17569,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vịnh Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.489165",
+            "lng": "109.284882"
+        }
+    ],
+    "log_id": "67590b8094255788"
+}

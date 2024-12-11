@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834919,
+            "name": "Nậm Nịch",
+            "pid": 23102,
+            "type": 16,
+            "region": null,
+            "alias": "Nậm Nịch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8999477",
+            "lng": "104.81627840000002"
+        },
+        {
+            "id": 834922,
+            "name": "Nặm Tẳm",
+            "pid": 23102,
+            "type": 16,
+            "region": null,
+            "alias": "Nặm Tẳm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8999477",
+            "lng": "104.81627840000002"
+        },
+        {
+            "id": 572529,
+            "name": "Thôn Nậm Lạ",
+            "pid": 23102,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nậm lạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8999477",
+            "lng": "104.81627839999999"
+        },
+        {
+            "id": 572526,
+            "name": "Thôn Nậm Tà",
+            "pid": 23102,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nậm tà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8999477",
+            "lng": "104.81627839999999"
+        }
+    ],
+    "log_id": "6758156666e1a199"
+}

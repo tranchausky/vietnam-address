@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566206,
+            "name": "Khu Đô Thị Lam Hạ",
+            "pid": 5959,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị Lam Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 836608,
+            "name": "Lương Văn Can",
+            "pid": 5959,
+            "type": 21,
+            "region": null,
+            "alias": "Lương Văn Can",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 566191,
+            "name": "Quang Ấm",
+            "pid": 5959,
+            "type": 16,
+            "region": null,
+            "alias": "quang ấm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 566200,
+            "name": "Thôn Đình Tràng",
+            "pid": 5959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đình tràng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 566203,
+            "name": "Thôn Đường Ấm",
+            "pid": 5959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đường ấm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 566197,
+            "name": "Thôn Hòa Lạc",
+            "pid": 5959,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hòa lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 111767,
+            "name": "Thôn Lương Cổ",
+            "pid": 5959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Cổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 566212,
+            "name": "Thôn Quỳnh Chân",
+            "pid": 5959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quỳnh Chân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5560832",
+            "lng": "105.93767560000003"
+        }
+    ],
+    "log_id": "67581428327a8702"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599121,
+            "name": "Chợ Bến",
+            "pid": 6569,
+            "type": 17,
+            "region": null,
+            "alias": "Chợ Bến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.357783",
+            "lng": "106.74115589999997"
+        },
+        {
+            "id": 599115,
+            "name": "Gò Me",
+            "pid": 6569,
+            "type": 17,
+            "region": null,
+            "alias": "Gò Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.357783",
+            "lng": "106.74115589999997"
+        },
+        {
+            "id": 599118,
+            "name": "Kinh Dưới",
+            "pid": 6569,
+            "type": 17,
+            "region": null,
+            "alias": "Kinh Dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.357783",
+            "lng": "106.74115589999997"
+        },
+        {
+            "id": 599124,
+            "name": "Kinh Trên",
+            "pid": 6569,
+            "type": 17,
+            "region": null,
+            "alias": "Kinh Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.357783",
+            "lng": "106.74115589999997"
+        },
+        {
+            "id": 599127,
+            "name": "Xóm Đen",
+            "pid": 6569,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.357783",
+            "lng": "106.74115589999997"
+        }
+    ],
+    "log_id": "675814f3ac443411"
+}

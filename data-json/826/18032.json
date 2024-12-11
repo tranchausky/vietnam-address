@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 577962,
+            "name": "Làng Canh Lãnh",
+            "pid": 18032,
+            "type": 17,
+            "region": null,
+            "alias": "làng canh lãnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.5493786",
+            "lng": "108.98588199999995"
+        },
+        {
+            "id": 577965,
+            "name": "Làng Canh Phước",
+            "pid": 18032,
+            "type": 17,
+            "region": null,
+            "alias": "làng canh phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.5493786",
+            "lng": "108.98588199999995"
+        },
+        {
+            "id": 577968,
+            "name": "Làng Canh Thành",
+            "pid": 18032,
+            "type": 17,
+            "region": null,
+            "alias": "làng canh thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.5493786",
+            "lng": "108.98588199999995"
+        },
+        {
+            "id": 852628,
+            "name": "Trường Tiểu Học Canh Hòa",
+            "pid": 18032,
+            "type": 9,
+            "region": null,
+            "alias": "Trường tiểu học Canh Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.5493786",
+            "lng": "108.98588199999995"
+        }
+    ],
+    "log_id": "6758150dcb1be478"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652141,
+            "name": "Đồng Tái",
+            "pid": 17703,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Tái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.813230",
+            "lng": "106.310742"
+        },
+        {
+            "id": 652150,
+            "name": "Thôn Đồng Đợi",
+            "pid": 17703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Đợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.809059",
+            "lng": "106.311644"
+        },
+        {
+            "id": 652147,
+            "name": "Thôn Đồng Đức",
+            "pid": 17703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.805032",
+            "lng": "106.315077"
+        },
+        {
+            "id": 652153,
+            "name": "Thôn Kênh Triều",
+            "pid": 17703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kênh Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.818581",
+            "lng": "106.306623"
+        },
+        {
+            "id": 652156,
+            "name": "Thôn Lạc Thương",
+            "pid": 17703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Thương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.809685",
+            "lng": "106.304905"
+        }
+    ],
+    "log_id": "675813f1b8a5717"
+}

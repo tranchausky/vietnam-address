@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119253,
+            "name": "Đường Cách Mạng Tháng 8 - Hiệp Ninh",
+            "pid": 13646,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cách mạng tháng 8 - Hiệp Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.307539",
+            "lng": "106.120781"
+        },
+        {
+            "id": 119293,
+            "name": "Khu Phố Hiệp Bình",
+            "pid": 13646,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.310590",
+            "lng": "106.118303"
+        },
+        {
+            "id": 119297,
+            "name": "Khu Phố Hiệp Lễ",
+            "pid": 13646,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.310880",
+            "lng": "106.127313"
+        },
+        {
+            "id": 119295,
+            "name": "Khu Phố Hiệp Nghĩa",
+            "pid": 13646,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.310871",
+            "lng": "106.130834"
+        },
+        {
+            "id": 119301,
+            "name": "Khu Phố Hiệp Thạnh",
+            "pid": 13646,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.321536",
+            "lng": "106.121748"
+        }
+    ],
+    "log_id": "675909dce60eb833"
+}

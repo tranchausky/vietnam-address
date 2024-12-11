@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629892,
+            "name": "Thôn 1 Đại Hưng",
+            "pid": 20103,
+            "type": 10,
+            "region": null,
+            "alias": "thôn 1 Đại Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7873811",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 629889,
+            "name": "Thôn 2 Đại Hưng",
+            "pid": 20103,
+            "type": 10,
+            "region": null,
+            "alias": "thôn 2 Đại Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7873811",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 629883,
+            "name": "Thôn 3 Đại Hưng",
+            "pid": 20103,
+            "type": 10,
+            "region": null,
+            "alias": "thôn 3 Đại Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7873811",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 629886,
+            "name": "Thôn 4 Đại Hưng",
+            "pid": 20103,
+            "type": 10,
+            "region": null,
+            "alias": "thôn 4 Đại Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7873811",
+            "lng": "106.00230540000007"
+        },
+        {
+            "id": 800359,
+            "name": "Xóm Chùa Mét",
+            "pid": 20103,
+            "type": 18,
+            "region": null,
+            "alias": "xóm chùa mét",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7873811",
+            "lng": "106.00230540000007"
+        }
+    ],
+    "log_id": "67581490bde93642"
+}

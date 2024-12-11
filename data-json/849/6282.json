@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101675,
+            "name": "Ấp Cầu Xáng",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cầu Xáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.821758",
+            "lng": "105.644097"
+        },
+        {
+            "id": 102194,
+            "name": "Ấp Tân Hiệp",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.903619",
+            "lng": "105.642051"
+        },
+        {
+            "id": 102959,
+            "name": "Ấp Tân Long A",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Long A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.846470",
+            "lng": "105.648495"
+        },
+        {
+            "id": 103088,
+            "name": "Ấp Tân Phú",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.852328",
+            "lng": "105.647490"
+        },
+        {
+            "id": 103142,
+            "name": "Ấp Tân Phú A",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.874046",
+            "lng": "105.640428"
+        },
+        {
+            "id": 103112,
+            "name": "Ấp Tân Thành",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.885940",
+            "lng": "105.639717"
+        },
+        {
+            "id": 102968,
+            "name": "Tân Long",
+            "pid": 6282,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.885291",
+            "lng": "105.655833"
+        }
+    ],
+    "log_id": "675816fe3dabc868"
+}

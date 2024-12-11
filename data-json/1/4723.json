@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120283,
+            "name": "Bình Lạng",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Lạng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.721361,",
+            "lng": "105.6918253"
+        },
+        {
+            "id": 120273,
+            "name": "Đặng",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Đặng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7277224",
+            "lng": "105.7085338"
+        },
+        {
+            "id": 120275,
+            "name": "Hạ",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7277224",
+            "lng": "105.7085338"
+        },
+        {
+            "id": 120285,
+            "name": "Thanh Lợi",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7127001",
+            "lng": "105.6932214"
+        },
+        {
+            "id": 120279,
+            "name": "Thượng",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.6735131"
+        },
+        {
+            "id": 120277,
+            "name": "Trung",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7277224",
+            "lng": "105.7085338"
+        },
+        {
+            "id": 54838,
+            "name": "Ubnd Xã Hồng Sơn",
+            "pid": 4723,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hồng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 120281,
+            "name": "Vĩnh An",
+            "pid": 4723,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7277224",
+            "lng": "105.7085338"
+        }
+    ],
+    "log_id": "675811bc2081d30"
+}

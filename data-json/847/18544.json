@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 875497,
+            "name": "Làng Ch'rơng 1",
+            "pid": 18544,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ch'rơng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.026267",
+            "lng": "108.340999"
+        },
+        {
+            "id": 826402,
+            "name": "Làng Chrơng 2",
+            "pid": 18544,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Chrơng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0216269",
+            "lng": "108.3445308"
+        },
+        {
+            "id": 623853,
+            "name": "Thôn Nhơn Tân",
+            "pid": 18544,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhơn Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0216269",
+            "lng": "108.3445308"
+        },
+        {
+            "id": 623856,
+            "name": "Thôn Nhơn Thọ",
+            "pid": 18544,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhơn Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0216269",
+            "lng": "108.3445308"
+        },
+        {
+            "id": 866386,
+            "name": "Trại Giam Gia Trung",
+            "pid": 18544,
+            "type": 16,
+            "region": null,
+            "alias": "trại giam gia trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.072215",
+            "lng": "108.337405"
+        }
+    ],
+    "log_id": "675816d36ebe7263"
+}

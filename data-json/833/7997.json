@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 751426,
+            "name": "Ấp Bình Hòa",
+            "pid": 7997,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3742727",
+            "lng": "105.4052433"
+        },
+        {
+            "id": 116745,
+            "name": "Ấp Bình Hòa 1",
+            "pid": 7997,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Hòa 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3792302",
+            "lng": "105.38725729999999"
+        },
+        {
+            "id": 116753,
+            "name": "Ấp Bình Hòa 2",
+            "pid": 7997,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Hòa 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3792302",
+            "lng": "105.38725729999999"
+        },
+        {
+            "id": 116759,
+            "name": "Ấp Bình Khánh",
+            "pid": 7997,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Khánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3792302",
+            "lng": "105.38725729999999"
+        },
+        {
+            "id": 998292,
+            "name": "Cây Xăng Long Huy (Võ Văn Hoài, Xã Mỹ Khánh)",
+            "pid": 7997,
+            "type": 10,
+            "region": null,
+            "alias": "Cây xăng Long Huy (Võ văn hoài, xã Mỹ Khánh)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.374348405646005, ",
+            "lng": "105.40527483778448"
+        }
+    ],
+    "log_id": "6758159dc205e568"
+}

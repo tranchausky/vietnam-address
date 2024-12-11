@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640912,
+            "name": "Bàn Tân",
+            "pid": 22141,
+            "type": 16,
+            "region": null,
+            "alias": "Bàn Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640915,
+            "name": "Hà Nha",
+            "pid": 22141,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Nha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640900,
+            "name": "Phước Định",
+            "pid": 22141,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.873745764914856",
+            "lng": "108.02154096195113"
+        },
+        {
+            "id": 640906,
+            "name": "Thôn Lâm Tây",
+            "pid": 22141,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lâm Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640903,
+            "name": "Vĩnh Phước",
+            "pid": 22141,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        }
+    ],
+    "log_id": "675817e1a74f9785"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425237,
+            "name": "Thôn Cẩm La",
+            "pid": 6335,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425239,
+            "name": "Thôn Kim Lân",
+            "pid": 6335,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Lân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425233,
+            "name": "Thôn Ngọc Đường",
+            "pid": 6335,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Đường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425235,
+            "name": "Thôn Ngọc Long",
+            "pid": 6335,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "675815334932c641"
+}

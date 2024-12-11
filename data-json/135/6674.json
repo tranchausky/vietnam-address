@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 414433,
+            "name": "Thôn An Luận",
+            "pid": 6674,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Luận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8309111",
+            "lng": "106.5672462"
+        },
+        {
+            "id": 414437,
+            "name": "Thôn Khúc Giản",
+            "pid": 6674,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khúc Giản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8309111",
+            "lng": "106.5672462"
+        },
+        {
+            "id": 414435,
+            "name": "Thôn Tiên Hội",
+            "pid": 6674,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8309111",
+            "lng": "106.5672462"
+        }
+    ],
+    "log_id": "67581365c8992785"
+}

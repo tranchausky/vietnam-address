@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 419717,
+            "name": "Đa Sỹ",
+            "pid": 36166,
+            "type": 21,
+            "region": null,
+            "alias": "Đa Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8049755",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 789580,
+            "name": "Thôn Đồng Cao",
+            "pid": 36166,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Đồng Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8049755",
+            "lng": "105.69991219999996"
+        },
+        {
+            "id": 419721,
+            "name": "Thôn Tam Thọ",
+            "pid": 36166,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Tam Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8049755",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 419719,
+            "name": "Thôn Văn Khê",
+            "pid": 36166,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8049755",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 419723,
+            "name": "Thôn Văn Vật",
+            "pid": 36166,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Văn Vật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8049755",
+            "lng": "105.69991219999997"
+        }
+    ],
+    "log_id": "67590a23cee23540"
+}

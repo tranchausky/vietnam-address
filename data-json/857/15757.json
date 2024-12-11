@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 894568,
+            "name": "Quán Thẻ 1",
+            "pid": 15757,
+            "type": 16,
+            "region": null,
+            "alias": "Quán Thẻ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.4702151",
+            "lng": "108.91456749999996"
+        },
+        {
+            "id": 847537,
+            "name": "Thiên Đức",
+            "pid": 15757,
+            "type": 16,
+            "region": null,
+            "alias": "Thiên Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.4702151",
+            "lng": "108.91456749999996"
+        },
+        {
+            "id": 847534,
+            "name": "Từ Thiện",
+            "pid": 15757,
+            "type": 16,
+            "region": null,
+            "alias": "Từ Thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.4702151",
+            "lng": "108.91456749999996"
+        }
+    ],
+    "log_id": "675817b983fec421"
+}

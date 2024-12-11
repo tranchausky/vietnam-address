@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 862438,
+            "name": "Lô Cdp 6 Kcn La Sơn",
+            "pid": 18856,
+            "type": 21,
+            "region": null,
+            "alias": "Lô CDP 6 KCN La Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3243551",
+            "lng": "107.7362363"
+        },
+        {
+            "id": 462093,
+            "name": "Thôn An Sơn",
+            "pid": 18856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3261637",
+            "lng": "107.74585589999992"
+        },
+        {
+            "id": 462097,
+            "name": "Thôn La Sơn",
+            "pid": 18856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3261637",
+            "lng": "107.74585589999992"
+        },
+        {
+            "id": 462099,
+            "name": "Thôn Vinh Sơn",
+            "pid": 18856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3261637",
+            "lng": "107.74585589999992"
+        },
+        {
+            "id": 462095,
+            "name": "Thôn Xuân Sơn",
+            "pid": 18856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3261637",
+            "lng": "107.74585589999992"
+        }
+    ],
+    "log_id": "67590b262593d81"
+}

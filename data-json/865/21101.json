@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 556363,
+            "name": "Phú Sơn",
+            "pid": 21101,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1577385",
+            "lng": "105.44781310000008"
+        },
+        {
+            "id": 556367,
+            "name": "Sơn Lập",
+            "pid": 21101,
+            "type": 16,
+            "region": null,
+            "alias": "Sơn Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1577385",
+            "lng": "105.44781310000008"
+        },
+        {
+            "id": 556369,
+            "name": "Trung Chính",
+            "pid": 21101,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1577385",
+            "lng": "105.44781310000008"
+        },
+        {
+            "id": 848488,
+            "name": "Trung Độ",
+            "pid": 21101,
+            "type": 16,
+            "region": null,
+            "alias": "Trung độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1577385",
+            "lng": "105.44781310000008"
+        }
+    ],
+    "log_id": "67590a23ce0e0339"
+}

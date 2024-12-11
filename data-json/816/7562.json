@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 862897,
+            "name": "Đội 7",
+            "pid": 7562,
+            "type": 22,
+            "region": null,
+            "alias": "đội 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.720896600000003",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 762913,
+            "name": "Phượng Lâu",
+            "pid": 7562,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng Lâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.720896600000003",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 629946,
+            "name": "Thôn Duyên Yên",
+            "pid": 7562,
+            "type": 16,
+            "region": null,
+            "alias": "thôn duyên yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7208966",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 629949,
+            "name": "Thôn Ngọc Đồng",
+            "pid": 7562,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngọc đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7208966",
+            "lng": "106.03168979999998"
+        }
+    ],
+    "log_id": "6758149106236861"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 766300,
+            "name": "Đội 9",
+            "pid": 5948,
+            "type": 22,
+            "region": null,
+            "alias": "đội 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.621942800000006",
+            "lng": "106.08312339999998"
+        },
+        {
+            "id": 800578,
+            "name": "Đội 10 Hà Châu",
+            "pid": 5948,
+            "type": 22,
+            "region": null,
+            "alias": "đội 10 Hà Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6219428",
+            "lng": "106.08312339999998"
+        },
+        {
+            "id": 766303,
+            "name": "Phù Sa",
+            "pid": 5948,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Sa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.621942800000006",
+            "lng": "106.08312339999998"
+        },
+        {
+            "id": 808615,
+            "name": "Thôn An Châu",
+            "pid": 5948,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.621942800000006",
+            "lng": "106.08312339999998"
+        },
+        {
+            "id": 800569,
+            "name": "Thôn An Châu 1",
+            "pid": 5948,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Châu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6219428",
+            "lng": "106.08312339999998"
+        }
+    ],
+    "log_id": "6758149116039213"
+}

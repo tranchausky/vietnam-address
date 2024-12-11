@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 700789,
+            "name": "Thôn Nậm Biếu",
+            "pid": 24154,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nậm Biếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7257237",
+            "lng": "104.48397649999993"
+        },
+        {
+            "id": 1011858,
+            "name": "Thôn Nậm Mười",
+            "pid": 24154,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nậm Mười",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.744019827915213",
+            "lng": "104.49266639490796"
+        }
+    ],
+    "log_id": "6758131fa4722491"
+}

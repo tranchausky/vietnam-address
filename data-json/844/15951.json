@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 969414,
+            "name": "Đăk Nang",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Đăk Nang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.932254",
+            "lng": "107.946365"
+        },
+        {
+            "id": 737593,
+            "name": "Thôn 1",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8632427",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 737596,
+            "name": "Thôn 2",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8632427",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 969417,
+            "name": "Thôn 2 Đắk Nang",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Đắk Nang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.938786",
+            "lng": "107.942644"
+        },
+        {
+            "id": 737590,
+            "name": "Thôn 3",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8632427",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 969418,
+            "name": "Thôn 3 Đắk Nang",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 Đắk Nang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.934573",
+            "lng": "107.927210"
+        },
+        {
+            "id": 737599,
+            "name": "Thôn 4",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8632427",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 969421,
+            "name": "Thôn 4 Đắk Nang",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4 Đắk Nang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.933031",
+            "lng": "107.953753"
+        },
+        {
+            "id": 737587,
+            "name": "Thôn 5",
+            "pid": 15951,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8632427",
+            "lng": "107.91763119999996"
+        }
+    ],
+    "log_id": "6758169124b0b757"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1016713,
+            "name": "1-241 Ngọc Thụy",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "1-241 Ngọc Thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.047196169807904",
+            "lng": "105.86629674140356"
+        },
+        {
+            "id": 1016691,
+            "name": "243-535 Ngọc Thụy",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "243-535 Ngọc Thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.052819782083272",
+            "lng": "105.8635142244714"
+        },
+        {
+            "id": 1016714,
+            "name": "270-390 Ngọc Thụy",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "270-390 Ngọc Thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.061298474473663",
+            "lng": "105.86468939753324"
+        },
+        {
+            "id": 1016715,
+            "name": "392-438 Ngọc Thụy",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "392-438 Ngọc Thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.062636021168707",
+            "lng": "105.86663390917337"
+        },
+        {
+            "id": 881338,
+            "name": "Đường Bắc Cầu",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bắc Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,058493",
+            "lng": "105,864636"
+        },
+        {
+            "id": 829927,
+            "name": "Đường Lý Sơn",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0588582",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 881344,
+            "name": "Phố Gia Thượng",
+            "pid": 41390,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Gia Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,058493",
+            "lng": "105,864636"
+        }
+    ],
+    "log_id": "675811bcd503a782"
+}

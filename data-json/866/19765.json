@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462705,
+            "name": "Thôn Ca Vá",
+            "pid": 19765,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ca Vá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1126512",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 462703,
+            "name": "Thôn Loa Ta Vai",
+            "pid": 19765,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Loa Ta Vai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1126512",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 462707,
+            "name": "Thôn Tru Chai",
+            "pid": 19765,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tru Chai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1126512",
+            "lng": "107.31984239999997"
+        }
+    ],
+    "log_id": "67590b2651f85361"
+}

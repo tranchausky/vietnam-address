@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452377,
+            "name": "Ấp Bà Luông",
+            "pid": 7356,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bà Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6966712",
+            "lng": "106.19338370000003"
+        },
+        {
+            "id": 736315,
+            "name": "Ấp Nhơn Xuyên",
+            "pid": 7356,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhơn Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6966712",
+            "lng": "106.19338370000004"
+        },
+        {
+            "id": 452379,
+            "name": "Âp Trà Cú",
+            "pid": 7356,
+            "type": 16,
+            "region": null,
+            "alias": "Âp Trà Cú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6966712",
+            "lng": "106.19338370000003"
+        },
+        {
+            "id": 452373,
+            "name": "Âp Vàm Lớn",
+            "pid": 7356,
+            "type": 16,
+            "region": null,
+            "alias": "Âp Vàm Lớn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6966712",
+            "lng": "106.19338370000003"
+        },
+        {
+            "id": 452375,
+            "name": "Ấp Vườn Xoài",
+            "pid": 7356,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Vườn Xoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6966712",
+            "lng": "106.19338370000003"
+        }
+    ],
+    "log_id": "6758178544302386"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 399713,
+            "name": "Bến Đò",
+            "pid": 16811,
+            "type": 16,
+            "region": null,
+            "alias": "Bến Đò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6853233",
+            "lng": "106.16397489999997"
+        },
+        {
+            "id": 399685,
+            "name": "Cao Minh",
+            "pid": 16811,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6853233",
+            "lng": "106.16397489999997"
+        },
+        {
+            "id": 399687,
+            "name": "Đoàn Kết",
+            "pid": 16811,
+            "type": 16,
+            "region": null,
+            "alias": "Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6853233",
+            "lng": "106.16397489999997"
+        },
+        {
+            "id": 399689,
+            "name": "Hào Lịch",
+            "pid": 16811,
+            "type": 16,
+            "region": null,
+            "alias": "Hào Lịch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6853233",
+            "lng": "106.16397489999997"
+        },
+        {
+            "id": 935333,
+            "name": "Xóm Nà Riêm",
+            "pid": 16811,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Nà Riêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6853233",
+            "lng": "106.16397489999997"
+        }
+    ],
+    "log_id": "67581662a0df4331"
+}

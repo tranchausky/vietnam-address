@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630723,
+            "name": "Thôn Nhật Lệ",
+            "pid": 16932,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nhật lệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        },
+        {
+            "id": 630720,
+            "name": "Thôn Quang Yên",
+            "pid": 16932,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quang yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        },
+        {
+            "id": 630726,
+            "name": "Thôn Tân An",
+            "pid": 16932,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        }
+    ],
+    "log_id": "67581490d0bf3523"
+}

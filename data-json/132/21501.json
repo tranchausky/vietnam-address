@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 824560,
+            "name": "Tổ 1",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 845047,
+            "name": "Tổ 2",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 873550,
+            "name": "Tổ 3",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 699076,
+            "name": "Tổ 4",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 864874,
+            "name": "Tổ 5",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 912142,
+            "name": "Tổ 6",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 924379,
+            "name": "Tông Co 2",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tông Co 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5928826",
+            "lng": "104.50436000000002"
+        },
+        {
+            "id": 915280,
+            "name": "Tổ Tông Co",
+            "pid": 21501,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Tông Co",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5873546",
+            "lng": "104.51746520000006"
+        }
+    ],
+    "log_id": "6758131fb8323300"
+}

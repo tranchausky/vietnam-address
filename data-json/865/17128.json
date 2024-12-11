@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559331,
+            "name": "Thôn Cự Đà",
+            "pid": 17128,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cự Đà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8538461",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 559333,
+            "name": "Thôn Mỹ Đà",
+            "pid": 17128,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Đà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8538461",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 559329,
+            "name": "Thôn Nội Tý",
+            "pid": 17128,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội Tý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8538461",
+            "lng": "105.83196529999998"
+        }
+    ],
+    "log_id": "67590a2388b1e292"
+}

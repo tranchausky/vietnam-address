@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 578643,
+            "name": "Xóm Củm",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Củm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5887839",
+            "lng": "105.03820760000008"
+        },
+        {
+            "id": 578646,
+            "name": "Xóm Khán",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.581848702870534",
+            "lng": "105.02725081416482"
+        },
+        {
+            "id": 968560,
+            "name": "Xóm Khò Muồng",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khò Muồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.61400916665772",
+            "lng": "105.04609425494132"
+        },
+        {
+            "id": 578640,
+            "name": "Xóm Lọng",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5887839",
+            "lng": "105.03820760000008"
+        },
+        {
+            "id": 578637,
+            "name": "Xóm Nghẹ",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nghẹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5887839",
+            "lng": "105.03820760000008"
+        },
+        {
+            "id": 578655,
+            "name": "Xóm Thanh Mai",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thanh Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5887839",
+            "lng": "105.03820760000008"
+        },
+        {
+            "id": 578658,
+            "name": "Xóm Thanh Mỹ",
+            "pid": 21397,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thanh Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5887839",
+            "lng": "105.03820760000008"
+        }
+    ],
+    "log_id": "6758172141b77704"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 726094,
+            "name": "Ấp Base B",
+            "pid": 6168,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Base B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.914286",
+            "lng": "106.285264"
+        },
+        {
+            "id": 498043,
+            "name": "Ấp Bóc Chếch",
+            "pid": 6168,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bóc Chếch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9104645",
+            "lng": "106.28752099999997"
+        },
+        {
+            "id": 726082,
+            "name": "Ấp Ô Chích A",
+            "pid": 6168,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ô Chích A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.915043",
+            "lng": "106.284110"
+        },
+        {
+            "id": 726088,
+            "name": "Ấp Ô Chích B",
+            "pid": 6168,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ô Chích B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.914286",
+            "lng": "106.284110"
+        },
+        {
+            "id": 498045,
+            "name": "Base A",
+            "pid": 6168,
+            "type": 16,
+            "region": null,
+            "alias": "BaSe a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9104645",
+            "lng": "106.28752099999997"
+        },
+        {
+            "id": 498041,
+            "name": "Bình La",
+            "pid": 6168,
+            "type": 16,
+            "region": null,
+            "alias": "Bình La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9104645",
+            "lng": "106.28752099999997"
+        },
+        {
+            "id": 498039,
+            "name": "Sâm Bua",
+            "pid": 6168,
+            "type": 16,
+            "region": null,
+            "alias": "Sâm Bua",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9104645",
+            "lng": "106.28752099999997"
+        }
+    ],
+    "log_id": "67590b439b131156"
+}

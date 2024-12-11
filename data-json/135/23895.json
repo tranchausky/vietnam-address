@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515947,
+            "name": "Minh Hồng",
+            "pid": 23895,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8033734",
+            "lng": "106.86365430000001"
+        },
+        {
+            "id": 515949,
+            "name": "Minh Tân",
+            "pid": 23895,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8033734",
+            "lng": "106.86365430000001"
+        },
+        {
+            "id": 515951,
+            "name": "Ninh Tiếp",
+            "pid": 23895,
+            "type": 16,
+            "region": null,
+            "alias": "Ninh Tiếp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8033734",
+            "lng": "106.86365430000001"
+        }
+    ],
+    "log_id": "6758136615483582"
+}

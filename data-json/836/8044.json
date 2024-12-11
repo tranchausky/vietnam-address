@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439689,
+            "name": "Ấp Bà Gồng",
+            "pid": 8044,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bà Gồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.562618",
+            "lng": "105.457786"
+        },
+        {
+            "id": 439693,
+            "name": "Ấp Bà Hiên",
+            "pid": 8044,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bà Hiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.554138",
+            "lng": "105.452692"
+        },
+        {
+            "id": 439691,
+            "name": "Ấp Nội Ô",
+            "pid": 8044,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nội Ô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.565853",
+            "lng": "105.449202"
+        },
+        {
+            "id": 439697,
+            "name": "Ấp Thống Nhất",
+            "pid": 8044,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.5876154",
+            "lng": "105.4527514"
+        },
+        {
+            "id": 439695,
+            "name": "Ấp Trèm Trẹm",
+            "pid": 8044,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Trèm Trẹm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.576207",
+            "lng": "105.432808"
+        },
+        {
+            "id": 439699,
+            "name": "Ấp Xẻo Quao",
+            "pid": 8044,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Xẻo Quao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.583108",
+            "lng": "105.450752"
+        }
+    ],
+    "log_id": "675815e169710555"
+}

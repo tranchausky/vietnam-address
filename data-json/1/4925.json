@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 48244,
+            "name": "Bộ Công An",
+            "pid": 4925,
+            "type": 4,
+            "region": null,
+            "alias": "Bộ Công An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 743,
+            "name": "Cổ Nhuế",
+            "pid": 4925,
+            "type": 2,
+            "region": null,
+            "alias": "Cổ Nhuế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0576943",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 829177,
+            "name": "Đường Đặng Thùy Trâm",
+            "pid": 4925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Thùy Trâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0578696",
+            "lng": "105.78231099999994"
+        },
+        {
+            "id": 21263,
+            "name": "Hoàng Quốc Việt",
+            "pid": 4925,
+            "type": 2,
+            "region": null,
+            "alias": "Hoàng Quốc Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0460546",
+            "lng": "105.7926804"
+        },
+        {
+            "id": 741,
+            "name": "Liên Cơ",
+            "pid": 4925,
+            "type": 2,
+            "region": null,
+            "alias": "Liên Cơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0371026",
+            "lng": "105.76499460000002"
+        },
+        {
+            "id": 3933,
+            "name": "Phan Bá Vành",
+            "pid": 4925,
+            "type": 2,
+            "region": null,
+            "alias": "Phan Bá Vành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0544892",
+            "lng": "105.77287649999994"
+        },
+        {
+            "id": 73535,
+            "name": "Trần Cung",
+            "pid": 4925,
+            "type": 2,
+            "region": null,
+            "alias": "trần cung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.046723",
+            "lng": "105.74843120000003"
+        }
+    ],
+    "log_id": "675811bc9f614476"
+}

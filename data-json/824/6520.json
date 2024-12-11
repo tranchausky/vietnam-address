@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599409,
+            "name": "Bình An",
+            "pid": 6520,
+            "type": 20,
+            "region": null,
+            "alias": "Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599412,
+            "name": "Bình Ninh",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599415,
+            "name": "Bình Phú Quới",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Phú Quới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599418,
+            "name": "Bình Thành",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599421,
+            "name": "Đăng Nẫm",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Đăng Nẫm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599424,
+            "name": "Đăng Phong Dưới",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Đăng Phong Dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599427,
+            "name": "Đăng Phong Trên",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Đăng Phong Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599430,
+            "name": "Hưng Ngãi",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Ngãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 599433,
+            "name": "Vĩnh Phước",
+            "pid": 6520,
+            "type": 17,
+            "region": null,
+            "alias": "Vĩnh Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3956494",
+            "lng": "106.43469789999995"
+        }
+    ],
+    "log_id": "675814f39f05d732"
+}

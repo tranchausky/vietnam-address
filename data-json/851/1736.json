@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 18449,
+            "name": "Xã Phú Lợi",
+            "pid": 1736,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phú Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4377187",
+            "lng": "104.58883560000004"
+        },
+        {
+            "id": 18450,
+            "name": "Xã Phú Mỹ",
+            "pid": 1736,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4377187",
+            "lng": "104.58883560000004"
+        },
+        {
+            "id": 18451,
+            "name": "Xã Tân Khánh Hòa",
+            "pid": 1736,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Khánh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4897169",
+            "lng": "104.64712209999993"
+        },
+        {
+            "id": 18452,
+            "name": "Xã Vĩnh Điều",
+            "pid": 1736,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Điều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4749466",
+            "lng": "104.72876070000007"
+        },
+        {
+            "id": 18453,
+            "name": "Xã Vĩnh Phú",
+            "pid": 1736,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.443799",
+            "lng": "104.759275"
+        }
+    ],
+    "log_id": "67581735f2116304"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609462,
+            "name": "Làng Trui",
+            "pid": 19171,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trui",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7925385",
+            "lng": "108.55225310000003"
+        },
+        {
+            "id": 609465,
+            "name": "Mang Biều",
+            "pid": 19171,
+            "type": 16,
+            "region": null,
+            "alias": "Mang Biều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7925385",
+            "lng": "108.55225310000003"
+        },
+        {
+            "id": 609471,
+            "name": "Thôn Ka Rầy",
+            "pid": 19171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ka Rầy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7925385",
+            "lng": "108.55225310000003"
+        },
+        {
+            "id": 609468,
+            "name": "Thôn Nước Tỉa",
+            "pid": 19171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nước Tỉa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7925385",
+            "lng": "108.55225310000003"
+        }
+    ],
+    "log_id": "675909a4c559f415"
+}

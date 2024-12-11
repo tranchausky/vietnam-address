@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 845437,
+            "name": "02-300 Đường Nam Kì Khởi Nghĩa",
+            "pid": 6595,
+            "type": 21,
+            "region": null,
+            "alias": "02-300 Đường Nam Kì Khởi Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3522829",
+            "lng": "107.07018440000002"
+        },
+        {
+            "id": 817960,
+            "name": "Võ Thị Sáu",
+            "pid": 6595,
+            "type": 21,
+            "region": null,
+            "alias": "Võ Thị Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3434329",
+            "lng": "107.09147259999997"
+        }
+    ],
+    "log_id": "675815b3e7153473"
+}

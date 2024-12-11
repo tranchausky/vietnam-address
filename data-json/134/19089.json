@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910048,
+            "name": "Thôn Kép 2",
+            "pid": 19089,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Kép 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6406856",
+            "lng": "106.22500300000002"
+        },
+        {
+            "id": 714787,
+            "name": "Xóm Kép 1",
+            "pid": 19089,
+            "type": 18,
+            "region": null,
+            "alias": "xóm kép 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.661692",
+            "lng": "106.207948"
+        }
+    ],
+    "log_id": "6758133f226cb271"
+}

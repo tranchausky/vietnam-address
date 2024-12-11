@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 19825,
+            "name": "Phường An Lộc",
+            "pid": 1548,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 19823,
+            "name": "Phường Hưng Chiến",
+            "pid": 1548,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hưng Chiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6379094",
+            "lng": "106.59376580000003"
+        },
+        {
+            "id": 19824,
+            "name": "Phường Phú Đức",
+            "pid": 1548,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Phú Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.64494",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 19822,
+            "name": "Phường Phú Thịnh",
+            "pid": 1548,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Phú Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6610857",
+            "lng": "106.62028869999994"
+        },
+        {
+            "id": 19820,
+            "name": "Xã Thanh Lương",
+            "pid": 1548,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thanh Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7238502",
+            "lng": "106.61727730000007"
+        },
+        {
+            "id": 19821,
+            "name": "Xã Thanh Phú",
+            "pid": 1548,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thanh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.690850",
+            "lng": "106.611067"
+        }
+    ],
+    "log_id": "6758163763407601"
+}

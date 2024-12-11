@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435121,
+            "name": "Ấp Bàu Sen",
+            "pid": 16023,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bàu Sen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3650279",
+            "lng": "105.981739"
+        },
+        {
+            "id": 494199,
+            "name": "Ấp Bình Lợi",
+            "pid": 16023,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3650279",
+            "lng": "105.981739"
+        },
+        {
+            "id": 657970,
+            "name": "Ấp Cầu Trường",
+            "pid": 16023,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cầu Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.37495",
+            "lng": "106.01050"
+        },
+        {
+            "id": 435119,
+            "name": "Ấp Sân Lễ",
+            "pid": 16023,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Sân Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3650279",
+            "lng": "105.981739"
+        },
+        {
+            "id": 435117,
+            "name": "Ấp Trường",
+            "pid": 16023,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3650279",
+            "lng": "105.981739"
+        }
+    ],
+    "log_id": "675909dcebd0e967"
+}

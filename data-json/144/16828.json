@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 751978,
+            "name": "Đại Đồng 1",
+            "pid": 16828,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Đồng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3219345",
+            "lng": "105.98467690000008"
+        },
+        {
+            "id": 705259,
+            "name": "Đại Đồng 2",
+            "pid": 16828,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Đồng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3219345",
+            "lng": "105.98467690000008"
+        },
+        {
+            "id": 738016,
+            "name": "Danh Thượng 2",
+            "pid": 16828,
+            "type": 16,
+            "region": null,
+            "alias": "Danh Thượng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3219345",
+            "lng": "105.98467690000008"
+        },
+        {
+            "id": 705256,
+            "name": "Danh Thượng 3",
+            "pid": 16828,
+            "type": 16,
+            "region": null,
+            "alias": "Danh thượng 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3219345",
+            "lng": "105.98467690000008"
+        }
+    ],
+    "log_id": "675813d91555a691"
+}

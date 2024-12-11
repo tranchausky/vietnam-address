@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 576645,
+            "name": "Đường 10",
+            "pid": 7797,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 847258,
+            "name": "Phú Hải",
+            "pid": 7797,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000004"
+        },
+        {
+            "id": 576630,
+            "name": "Xóm Hào Phú",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hào Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 576618,
+            "name": "Xóm Phú An",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phú An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 576636,
+            "name": "Xóm Phú Bình",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phú Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 576633,
+            "name": "Xóm Phú Cường",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 576621,
+            "name": "Xóm Phú Long",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phú Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 576639,
+            "name": "Xóm Phú Sơn",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phú Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        },
+        {
+            "id": 576624,
+            "name": "Xóm Phú Tân",
+            "pid": 7797,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phú Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2335787",
+            "lng": "106.02083130000005"
+        }
+    ],
+    "log_id": "67581798ef0d6171"
+}

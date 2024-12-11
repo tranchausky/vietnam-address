@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439991,
+            "name": "Ấp Phú Điền",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1181619",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 439985,
+            "name": "Ấp Phú Hòa Yên",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hòa Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1181619",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 439989,
+            "name": "Ấp Phú Hữu Yên",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hữu Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1181619",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 439987,
+            "name": "Ấp Phú Lợi",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1181619",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 439981,
+            "name": "Ấp Phú Ninh",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1132723",
+            "lng": "105.8957107"
+        },
+        {
+            "id": 439983,
+            "name": "Ấp Phú Trường",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1181619",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 439993,
+            "name": "Ấp Phú Trường Yên",
+            "pid": 8147,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Trường Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1181619",
+            "lng": "105.91711609999993"
+        }
+    ],
+    "log_id": "67590b59886fd616"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411737,
+            "name": "Duyên Phú",
+            "pid": 22262,
+            "type": 16,
+            "region": null,
+            "alias": "Duyên Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5712429",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411735,
+            "name": "Duyên Tục",
+            "pid": 22262,
+            "type": 16,
+            "region": null,
+            "alias": "Duyên Tục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5712429",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411739,
+            "name": "Thôn Duyên Giang",
+            "pid": 22262,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Duyên Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5712429",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411741,
+            "name": "Thôn Duyên Trang Đông",
+            "pid": 22262,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Duyên Trang Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5712429",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411743,
+            "name": "Thôn Duyên Trang Tây",
+            "pid": 22262,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Duyên Trang Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5712429",
+            "lng": "106.32577679999997"
+        }
+    ],
+    "log_id": "675909f395889313"
+}

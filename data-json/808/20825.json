@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 416157,
+            "name": "Thôn Nậm Xi Tan",
+            "pid": 20825,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nậm xi tan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0567613",
+            "lng": "104.02065760000005"
+        },
+        {
+            "id": 416155,
+            "name": "Thôn Tu Thượng",
+            "pid": 20825,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tu thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0567613",
+            "lng": "104.02065760000005"
+        },
+        {
+            "id": 416153,
+            "name": "Tu Hạ",
+            "pid": 20825,
+            "type": 16,
+            "region": null,
+            "alias": "Tu Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0567613",
+            "lng": "104.02065760000005"
+        }
+    ],
+    "log_id": "6758144513fa171"
+}

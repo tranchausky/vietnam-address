@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639318,
+            "name": "Thôn An Giới",
+            "pid": 7168,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn An giới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0073123",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 639309,
+            "name": "Thôn Cõi",
+            "pid": 7168,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cõi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0073123",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 639315,
+            "name": "Thôn Hưng Sơn",
+            "pid": 7168,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn hưng sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0073123",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 639312,
+            "name": "Thôn Nhuế Sơn",
+            "pid": 7168,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhuế sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0073123",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 639306,
+            "name": "Thôn Quan Sơn",
+            "pid": 7168,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quan Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0073123",
+            "lng": "106.30223390000003"
+        }
+    ],
+    "log_id": "675813f1bfb75693"
+}

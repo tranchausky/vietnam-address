@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462943,
+            "name": "Thôn Đông A",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 462945,
+            "name": "Thôn Đông B",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 462947,
+            "name": "Thôn Giang Tây",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giang Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 875203,
+            "name": "Thôn Giang Trung",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 968986,
+            "name": "Thôn Khê Xá",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khê Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.463531457855716",
+            "lng": "107.70705709305845"
+        },
+        {
+            "id": 462939,
+            "name": "Thôn Lê Xá Đông",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Xá Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 462941,
+            "name": "Thôn Lê Xá Tây",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Xá Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 875206,
+            "name": "Thôn Lê Xá Trung",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Xá Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4561073",
+            "lng": "107.68664710000007"
+        },
+        {
+            "id": 968716,
+            "name": "Thôn Lương Lộc",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.441423470251724",
+            "lng": "107.6920109120665"
+        },
+        {
+            "id": 968720,
+            "name": "Thôn Vĩnh Lưu",
+            "pid": 16288,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.458438612145915",
+            "lng": "107.70604290503923"
+        }
+    ],
+    "log_id": "67590b261fc2a978"
+}

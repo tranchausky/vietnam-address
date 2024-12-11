@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1004725,
+            "name": "Công Ty An Hưng",
+            "pid": 16474,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty An Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.973632",
+            "lng": "109387378"
+        },
+        {
+            "id": 443901,
+            "name": "Thôn Đa Ngư",
+            "pid": 16474,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Ngư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9603614",
+            "lng": "109.39616660000002"
+        },
+        {
+            "id": 443903,
+            "name": "Thôn Phú Lạc",
+            "pid": 16474,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9603614",
+            "lng": "109.39616660000002"
+        },
+        {
+            "id": 443899,
+            "name": "Thôn Thọ Lâm",
+            "pid": 16474,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thọ Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9603614",
+            "lng": "109.39616660000002"
+        },
+        {
+            "id": 828559,
+            "name": "Ubnd Hòa Hiệp Nam",
+            "pid": 16474,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Hòa Hiệp Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.9603614",
+            "lng": "109.39616660000002"
+        }
+    ],
+    "log_id": "67590b80bca5c746"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 409823,
+            "name": "Thôn Nho Lâm Đông",
+            "pid": 20998,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nho lâm đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3883611",
+            "lng": "106.543676"
+        },
+        {
+            "id": 409825,
+            "name": "Thôn Nho Lâm Tây",
+            "pid": 20998,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nho lâm tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3883611",
+            "lng": "106.543676"
+        },
+        {
+            "id": 409821,
+            "name": "Thôn Thanh Đông",
+            "pid": 20998,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thanh đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3883611",
+            "lng": "106.543676"
+        },
+        {
+            "id": 409819,
+            "name": "Thôn Thanh Tây",
+            "pid": 20998,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3883611",
+            "lng": "106.543676"
+        }
+    ],
+    "log_id": "675909f39f599298"
+}

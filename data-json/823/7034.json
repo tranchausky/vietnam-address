@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94100,
+            "name": "Ấp Cam Tiên",
+            "pid": 7034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cam Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.832566",
+            "lng": "107.241786"
+        },
+        {
+            "id": 94127,
+            "name": "Ấp Chính Nghĩa",
+            "pid": 7034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chính Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.855897",
+            "lng": "107,243414"
+        },
+        {
+            "id": 94109,
+            "name": "Ấp Duyên Lãng",
+            "pid": 7034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Duyên Lãng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.836081",
+            "lng": "107.235129"
+        },
+        {
+            "id": 94118,
+            "name": "Ấp Tân Lập",
+            "pid": 7034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.846131",
+            "lng": "107,235191"
+        }
+    ],
+    "log_id": "675814dd43e2c285"
+}

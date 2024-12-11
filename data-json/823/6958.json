@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93965,
+            "name": "Ấp Bảo Định",
+            "pid": 6958,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bảo Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.890203",
+            "lng": "107.260493"
+        },
+        {
+            "id": 93968,
+            "name": "Ấp Bảo Thị",
+            "pid": 6958,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bảo Thị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.890203",
+            "lng": "107.260493 "
+        },
+        {
+            "id": 93971,
+            "name": "Ấp Nông Doanh",
+            "pid": 6958,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nông Doanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.890203",
+            "lng": "107.260493"
+        },
+        {
+            "id": 94067,
+            "name": "Ấp Suối Rết",
+            "pid": 6958,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Rết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0503291",
+            "lng": "107.3324991"
+        }
+    ],
+    "log_id": "675814dd0b8d6120"
+}

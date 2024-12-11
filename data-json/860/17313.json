@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015733,
+            "name": "Dmx Quảng Ngãi - Sơn Tịnh",
+            "pid": 17313,
+            "type": 10,
+            "region": null,
+            "alias": "DMX Quảng Ngãi - Sơn Tịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "151.925",
+            "lng": "108.802.028"
+        },
+        {
+            "id": 467937,
+            "name": "Phong Niên Hạ",
+            "pid": 17313,
+            "type": 10,
+            "region": null,
+            "alias": "Phong Niên Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2085186",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 467939,
+            "name": "Phong Niên Thượng",
+            "pid": 17313,
+            "type": 10,
+            "region": null,
+            "alias": "Phong Niên Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2085186",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 899608,
+            "name": "Thế Lợi",
+            "pid": 17313,
+            "type": 16,
+            "region": null,
+            "alias": "Thế Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.208518599999998",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 899599,
+            "name": "Thế Long",
+            "pid": 17313,
+            "type": 16,
+            "region": null,
+            "alias": "Thế Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.208518599999998",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 764143,
+            "name": "Thôn Phú Lộc",
+            "pid": 17313,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Phú Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.208518599999998",
+            "lng": "108.80167879999999"
+        }
+    ],
+    "log_id": "675909a4de5df962"
+}

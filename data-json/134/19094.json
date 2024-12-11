@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910090,
+            "name": "Làng Trang",
+            "pid": 19094,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5797875",
+            "lng": "106.19706010000004"
+        },
+        {
+            "id": 910087,
+            "name": "Mỏ Vàng",
+            "pid": 19094,
+            "type": 16,
+            "region": null,
+            "alias": "Mỏ Vàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5797875",
+            "lng": "106.19706010000004"
+        },
+        {
+            "id": 832375,
+            "name": "Quyết Thắng",
+            "pid": 19094,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5797875",
+            "lng": "106.19706010000004"
+        },
+        {
+            "id": 832372,
+            "name": "Thôn Hợp Thành",
+            "pid": 19094,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hợp Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5797875",
+            "lng": "106.19706010000004"
+        }
+    ],
+    "log_id": "6758133f21796637"
+}

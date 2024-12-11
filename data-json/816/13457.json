@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762916,
+            "name": "Bệnh Viện Tâm Thần Kinh",
+            "pid": 13457,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện Tâm thần kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7338975",
+            "lng": "106.05267600000002"
+        },
+        {
+            "id": 796114,
+            "name": "Thôn Hoàng Độc",
+            "pid": 13457,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hoàng Độc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7338975",
+            "lng": "106.05267600000002"
+        }
+    ],
+    "log_id": "675814910725b375"
+}

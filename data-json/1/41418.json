@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1018821,
+            "name": "1-65 Sài Đồng",
+            "pid": 41418,
+            "type": 21,
+            "region": null,
+            "alias": "1-65 Sài Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.037378455163154",
+            "lng": "105.91158509563513"
+        },
+        {
+            "id": 830515,
+            "name": "1-189 Sài Đồng",
+            "pid": 41418,
+            "type": 21,
+            "region": null,
+            "alias": "1-189 Sài Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0348453",
+            "lng": "105.91271080000001"
+        },
+        {
+            "id": 1018822,
+            "name": "2-62 Sài Đồng",
+            "pid": 41418,
+            "type": 21,
+            "region": null,
+            "alias": "2-62 Sài Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.03517525812664",
+            "lng": "105.91019373796327"
+        }
+    ],
+    "log_id": "675811bccaae0865"
+}

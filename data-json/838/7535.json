@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 892597,
+            "name": "Ấp Bình Khánh",
+            "pid": 7535,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Khánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0489706",
+            "lng": "106.43469789999996"
+        },
+        {
+            "id": 442685,
+            "name": "Ấp Phú Hòa",
+            "pid": 7535,
+            "type": 17,
+            "region": null,
+            "alias": "ấp phú hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0489706",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 442683,
+            "name": "Ấp Phú Lợi",
+            "pid": 7535,
+            "type": 17,
+            "region": null,
+            "alias": "ấp phú lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0489706",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 442687,
+            "name": "Ấp Phú Long Phụng A",
+            "pid": 7535,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Long Phụng a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0489706",
+            "lng": "106.43469789999995"
+        },
+        {
+            "id": 442689,
+            "name": "Ấp Phú Long Phụng B",
+            "pid": 7535,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Long Phụng b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0489706",
+            "lng": "106.43469789999995"
+        }
+    ],
+    "log_id": "6758160dd9422308"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515309,
+            "name": "Khu Bến Hàn",
+            "pid": 5876,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Bến Hàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9697223",
+            "lng": "106.33166289999997"
+        },
+        {
+            "id": 515311,
+            "name": "Thôn Chùa Thượng",
+            "pid": 5876,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chùa Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9697223",
+            "lng": "106.33166289999997"
+        },
+        {
+            "id": 515315,
+            "name": "Thôn Tiền",
+            "pid": 5876,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9697223",
+            "lng": "106.33166289999997"
+        },
+        {
+            "id": 515317,
+            "name": "Thôn Trác Châu",
+            "pid": 5876,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trác Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9697223",
+            "lng": "106.33166289999997"
+        }
+    ],
+    "log_id": "675813f2002e6850"
+}

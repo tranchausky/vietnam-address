@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 647803,
+            "name": "Thôn Dưỡng Mông",
+            "pid": 17740,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dưỡng Mông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.944459274641734",
+            "lng": "106.49231629547343"
+        },
+        {
+            "id": 647806,
+            "name": "Thôn Quảng Đạt",
+            "pid": 17740,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Đạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9567431946713",
+            "lng": " 106.48500640132957"
+        }
+    ],
+    "log_id": "675813f203770493"
+}

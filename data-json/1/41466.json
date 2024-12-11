@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881359,
+            "name": "Đường Chùa Quỳnh",
+            "pid": 41466,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chùa Quỳnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,998962",
+            "lng": "105,856027"
+        },
+        {
+            "id": 881353,
+            "name": "Đường Hồng Mai",
+            "pid": 41466,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,998962",
+            "lng": "105,856027"
+        },
+        {
+            "id": 830503,
+            "name": "Đường Quỳnh Lôi",
+            "pid": 41466,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quỳnh Lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0090571",
+            "lng": "105.86075069999993"
+        }
+    ],
+    "log_id": "675811bd1b29c124"
+}

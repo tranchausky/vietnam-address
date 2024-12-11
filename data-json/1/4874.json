@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102089,
+            "name": "Thôn Cao Mật Hạ",
+            "pid": 4874,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Mật Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.877454",
+            "lng": "105.746805"
+        },
+        {
+            "id": 102107,
+            "name": "Thôn Cao Mật Thượng",
+            "pid": 4874,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Mật Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.882737",
+            "lng": "105.746874"
+        },
+        {
+            "id": 102143,
+            "name": "Thôn Ninh Dương",
+            "pid": 4874,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ninh Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.889047",
+            "lng": "105.758676"
+        },
+        {
+            "id": 102164,
+            "name": "Thôn Thanh Giang",
+            "pid": 4874,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.891394",
+            "lng": "105.756087"
+        },
+        {
+            "id": 102212,
+            "name": "Thôn Thanh Thần",
+            "pid": 4874,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Thần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.885301",
+            "lng": "105.750765"
+        },
+        {
+            "id": 102278,
+            "name": "Thôn Thượng Thanh",
+            "pid": 4874,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.887421",
+            "lng": "105.757564"
+        },
+        {
+            "id": 55446,
+            "name": "Ubnd Xã Thanh Cao",
+            "pid": 4874,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thanh Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd6bd3f533"
+}

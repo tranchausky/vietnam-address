@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 865150,
+            "name": "Cẩm Nam 12",
+            "pid": 5307,
+            "type": 10,
+            "region": null,
+            "alias": "Cẩm Nam 12",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9722296",
+            "lng": "108.17251540000008"
+        },
+        {
+            "id": 1003106,
+            "name": "Cồn Dầu 14",
+            "pid": 5307,
+            "type": 10,
+            "region": null,
+            "alias": "Cồn Dầu 14",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.024635019555554",
+            "lng": "108.22977998847874"
+        },
+        {
+            "id": 981569,
+            "name": "Đường Hoàng Đình Ái",
+            "pid": 5307,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Đình Ái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981550,
+            "name": "Đường Mẹ Thứ",
+            "pid": 5307,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mẹ Thứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981549,
+            "name": "Đường Phạm Hùng",
+            "pid": 5307,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981555,
+            "name": "Đường Võ Chí Công",
+            "pid": 5307,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Chí Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 865357,
+            "name": "Euro Village 2",
+            "pid": 5307,
+            "type": 21,
+            "region": null,
+            "alias": "Euro Village 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.0019983",
+            "lng": "108.21995879999996"
+        },
+        {
+            "id": 1018349,
+            "name": "Giáng Hương 6",
+            "pid": 5307,
+            "type": 16,
+            "region": null,
+            "alias": "Giáng Hương 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.02400527660468, 108.23086542923325",
+            "lng": "16.024829892113267, 108.23144798918094"
+        }
+    ],
+    "log_id": "675812d16c734315"
+}

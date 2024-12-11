@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609195,
+            "name": "Bình Bắc",
+            "pid": 17320,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.193231",
+            "lng": "108.7185184"
+        },
+        {
+            "id": 609189,
+            "name": "Bình Đông",
+            "pid": 17320,
+            "type": 18,
+            "region": null,
+            "alias": "Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.193231",
+            "lng": "108.7185184"
+        },
+        {
+            "id": 609192,
+            "name": "Bình Nam",
+            "pid": 17320,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.193231",
+            "lng": "108.7185184"
+        }
+    ],
+    "log_id": "675909a4deba1447"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881623,
+            "name": "Đường Hàng Chuối",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Chuối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,018555",
+            "lng": "105,858803"
+        },
+        {
+            "id": 881608,
+            "name": "Đường Hàn Thuyên",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Thuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,018555",
+            "lng": "105,858803"
+        },
+        {
+            "id": 881611,
+            "name": "Đường Nguyễn Trung Ngạn",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trung Ngạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,018555",
+            "lng": "105,858803"
+        },
+        {
+            "id": 830296,
+            "name": "Đường Phạm Đình Hổ",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Đình Hổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0161916",
+            "lng": "105.85765330000004"
+        },
+        {
+            "id": 830569,
+            "name": "Đường Tăng Bạt Hổ",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tăng Bạt Hổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0161916",
+            "lng": "105.85765330000004"
+        },
+        {
+            "id": 881605,
+            "name": "Đường Trần Thánh Tông",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Thánh Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,018555",
+            "lng": "105,858803"
+        },
+        {
+            "id": 831064,
+            "name": "Đường Yec Xanh",
+            "pid": 104,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yec Xanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0161916",
+            "lng": "105.85765330000004"
+        },
+        {
+            "id": 409,
+            "name": "Lê Ngọc Hân",
+            "pid": 104,
+            "type": 2,
+            "region": null,
+            "alias": "Lê Ngọc Hân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0163225",
+            "lng": "105.85529589999999"
+        }
+    ],
+    "log_id": "675811bd1b0d4184"
+}

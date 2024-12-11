@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111497,
+            "name": "Ấp Ninh An",
+            "pid": 16034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ninh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.312810",
+            "lng": "106.155110"
+        },
+        {
+            "id": 111373,
+            "name": "Ấp Ninh Bình",
+            "pid": 16034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ninh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.316802",
+            "lng": "106.160653"
+        },
+        {
+            "id": 111303,
+            "name": "Ấp Ninh Hiệp",
+            "pid": 16034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ninh Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.309500",
+            "lng": "106.151323"
+        },
+        {
+            "id": 111163,
+            "name": "Ấp Ninh Hòa",
+            "pid": 16034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ninh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.334534",
+            "lng": "106.164562"
+        },
+        {
+            "id": 111083,
+            "name": "Ấp Ninh Phú",
+            "pid": 16034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ninh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.318033",
+            "lng": "106.154580"
+        },
+        {
+            "id": 111435,
+            "name": "Ấp Ninh Thuận",
+            "pid": 16034,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ninh Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.305508",
+            "lng": "106.143469"
+        },
+        {
+            "id": 986330,
+            "name": "Shop 35K Quần Áo May Sẵn",
+            "pid": 16034,
+            "type": 10,
+            "region": null,
+            "alias": "Shop 35K Quần Áo May Sẵn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.318145586452822",
+            "lng": "106.16238757429261"
+        }
+    ],
+    "log_id": "675909dccf70433"
+}

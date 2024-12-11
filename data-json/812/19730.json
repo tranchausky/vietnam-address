@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568221,
+            "name": "Khu Phố Phú Hải",
+            "pid": 19730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phú Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1746757",
+            "lng": "108.5688619"
+        },
+        {
+            "id": 568224,
+            "name": "Khu Phố Phú Hòa",
+            "pid": 19730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1746757",
+            "lng": "108.5688619"
+        },
+        {
+            "id": 568227,
+            "name": "Khu Phố Phú Tân",
+            "pid": 19730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1746757",
+            "lng": "108.5688619"
+        },
+        {
+            "id": 568218,
+            "name": "Khu Phố Phú Thủy",
+            "pid": 19730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phú Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1746757",
+            "lng": "108.5688619"
+        }
+    ],
+    "log_id": "6758147808398562"
+}

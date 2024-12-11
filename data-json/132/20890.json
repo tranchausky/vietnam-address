@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 551949,
+            "name": "Thôn Ba Khuy",
+            "pid": 20890,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba Khuy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7639955",
+            "lng": "104.577181"
+        },
+        {
+            "id": 551951,
+            "name": "Thôn Bản Tát",
+            "pid": 20890,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bản Tát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7639955",
+            "lng": "104.577181"
+        },
+        {
+            "id": 551953,
+            "name": "Thôn Trung Tâm",
+            "pid": 20890,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7639955",
+            "lng": "104.577181"
+        }
+    ],
+    "log_id": "6758131fc510c184"
+}

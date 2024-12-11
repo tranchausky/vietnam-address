@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828856,
+            "name": "Đường 2-2",
+            "pid": 41382,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 2-2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 829672,
+            "name": "Đường Hưng Phúc",
+            "pid": 41382,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hưng Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 829381,
+            "name": "Đường Số 2 Gamuda Garden",
+            "pid": 41382,
+            "type": 21,
+            "region": null,
+            "alias": "Đường số 2 Gamuda Garden",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 830518,
+            "name": "Đường Sở Thượng",
+            "pid": 41382,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sở Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 831070,
+            "name": "Đường Yên Duyên",
+            "pid": 41382,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Duyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 831103,
+            "name": "Đường Yên Sở",
+            "pid": 41382,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Sở",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 22502,
+            "name": "Hưng Phúc",
+            "pid": 41382,
+            "type": 2,
+            "region": null,
+            "alias": "Hưng Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618125",
+            "lng": "105.86771139999996"
+        },
+        {
+            "id": 36898,
+            "name": "Sở Thượng",
+            "pid": 41382,
+            "type": 2,
+            "region": null,
+            "alias": "Sở Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9671632",
+            "lng": "105.86574229999997"
+        },
+        {
+            "id": 900,
+            "name": "Yên Duyên",
+            "pid": 41382,
+            "type": 2,
+            "region": null,
+            "alias": "Yên Duyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9692545",
+            "lng": "105.87110159999997"
+        },
+        {
+            "id": 695,
+            "name": "Yên Sở",
+            "pid": 41382,
+            "type": 2,
+            "region": null,
+            "alias": "Yên Sở",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9618527",
+            "lng": "105.87306779999994"
+        }
+    ],
+    "log_id": "675811bd54023295"
+}

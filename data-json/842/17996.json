@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 725845,
+            "name": "Bản Danh",
+            "pid": 17996,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Danh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7492376",
+            "lng": "106.3287199"
+        },
+        {
+            "id": 754279,
+            "name": "Đèo Mã Phục",
+            "pid": 17996,
+            "type": 10,
+            "region": null,
+            "alias": "đèo Mã Phục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7492376",
+            "lng": "106.3287199"
+        },
+        {
+            "id": 937637,
+            "name": "Xóm Cốc Phát",
+            "pid": 17996,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Cốc Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7492376",
+            "lng": "106.3287199"
+        }
+    ],
+    "log_id": "675816629a3b1769"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 805288,
+            "name": "Đường Lê Lợi",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 813733,
+            "name": "Khu Phố Đông Thôn",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Đông Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 813721,
+            "name": "Khu Phố Liên Giang",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Liên Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 813727,
+            "name": "Khu Phố Sơn Nam",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Sơn Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 805282,
+            "name": "Khu Phố Trường Sơn",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Trường Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 805297,
+            "name": "Khu Phố Xuân Nội",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Xuân Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 823996,
+            "name": "Khu Phố Điền Lư",
+            "pid": 17245,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Điền Lư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0804297",
+            "lng": "105.91711609999993"
+        }
+    ],
+    "log_id": "67590a23ad2ab81"
+}

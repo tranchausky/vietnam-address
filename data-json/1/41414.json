@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1016686,
+            "name": "Chẵn 2-82 Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 2-82 Phú Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.03735688652241",
+            "lng": "105.86651523126265"
+        },
+        {
+            "id": 1016687,
+            "name": "Chẵn 84-156 Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 84-156 Phú Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.037585791179",
+            "lng": "105.86694257084827"
+        },
+        {
+            "id": 1016689,
+            "name": "Chẵn 158 - 306 Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 158 - 306 Phú Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.032709035038494",
+            "lng": "105.86995805335246"
+        },
+        {
+            "id": 829627,
+            "name": "Đường Hoàng Như Tiếp",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Như Tiếp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0371784",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 830371,
+            "name": "Đường Hồng Tiến",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0371784",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 989585,
+            "name": "Đường Lâm Hạ, Phường Bồ Đề, Quận Long Biên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "đường Lâm Hạ, phường Bồ Đề, quận Long Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.03876862427279,",
+            "lng": " 105.88236872151855"
+        },
+        {
+            "id": 884974,
+            "name": "Đường Nguyễn Văn Cừ",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.037732",
+            "lng": "105.873984"
+        },
+        {
+            "id": 830428,
+            "name": "Đường Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phú Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0371784",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 1016685,
+            "name": "Lẻ 1 - 93 Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 1 - 93 Phú Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.036580",
+            "lng": "105.870315"
+        },
+        {
+            "id": 1016690,
+            "name": "Lẻ 93 - 199 Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 93 - 199 Phú Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.035632640632688",
+            "lng": "105.86815812451663"
+        },
+        {
+            "id": 1016688,
+            "name": "Lẻ 201 Phú Viên",
+            "pid": 41414,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 201 Phú Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.033101074938305",
+            "lng": "105.87010188218851"
+        }
+    ],
+    "log_id": "675811bcd4f84108"
+}

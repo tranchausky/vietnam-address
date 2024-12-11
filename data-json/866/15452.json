@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 756448,
+            "name": "Đường Lê Sĩ Thận",
+            "pid": 15452,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Sĩ Thận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.395781200000002",
+            "lng": "107.39671049999993"
+        },
+        {
+            "id": 782374,
+            "name": "Đường Nguyễn Khoa Thuyên",
+            "pid": 15452,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Khoa Thuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5322989",
+            "lng": "107.46177069999999"
+        },
+        {
+            "id": 665776,
+            "name": "Khu Công Nghiệp Tứ Hạ",
+            "pid": 15452,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Công Nghiệp Tứ Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5322989",
+            "lng": "107.46177069999999"
+        },
+        {
+            "id": 106607,
+            "name": "Tổ Dân Phố 4",
+            "pid": 15452,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.524570",
+            "lng": "107.462859"
+        },
+        {
+            "id": 106628,
+            "name": "Tổ Dân Phố 5",
+            "pid": 15452,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.529414",
+            "lng": "107.466743"
+        },
+        {
+            "id": 106631,
+            "name": "Tổ Dân Phố 7",
+            "pid": 15452,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.521847",
+            "lng": "107.459563"
+        },
+        {
+            "id": 463251,
+            "name": "Tổ Dân Phố 8",
+            "pid": 15452,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5322989",
+            "lng": "107.46177069999999"
+        },
+        {
+            "id": 106613,
+            "name": "Tổ Dân Phố 9",
+            "pid": 15452,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.525632",
+            "lng": "107.462395"
+        }
+    ],
+    "log_id": "67590b2641d81693"
+}

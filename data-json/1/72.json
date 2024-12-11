@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829555,
+            "name": "Đường Hồ Văn Chương",
+            "pid": 72,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Văn Chương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.022491",
+            "lng": "105.83710259999998"
+        },
+        {
+            "id": 829891,
+            "name": "Đường Linh Quang",
+            "pid": 72,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Linh Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.022491",
+            "lng": "105.83710259999998"
+        },
+        {
+            "id": 876796,
+            "name": "Đường Quốc Tử Giám",
+            "pid": 72,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quốc Tử Giám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.027033432796358",
+            "lng": "105.83608388900757"
+        },
+        {
+            "id": 876802,
+            "name": "Đường Trần Quý Cáp",
+            "pid": 72,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quý Cáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.02332304544008",
+            "lng": "105.83956003189087"
+        },
+        {
+            "id": 939,
+            "name": "Ngõ Linh Quang",
+            "pid": 72,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Linh Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0222245",
+            "lng": "105.83913319999999"
+        },
+        {
+            "id": 950,
+            "name": "Ngõ Lương Sử",
+            "pid": 72,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Lương Sử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0253861",
+            "lng": "105.83726409999997"
+        },
+        {
+            "id": 949,
+            "name": "Ngõ Lương Sử B",
+            "pid": 72,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Lương Sử B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0253861",
+            "lng": "105.83726409999997"
+        },
+        {
+            "id": 948,
+            "name": "Ngõ Lương Sử C",
+            "pid": 72,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Lương Sử C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0253009",
+            "lng": "105.83739279999998"
+        },
+        {
+            "id": 24067,
+            "name": "Ngõ Văn Chương",
+            "pid": 72,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Văn Chương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0223629",
+            "lng": "105.8350097"
+        }
+    ],
+    "log_id": "675811bbe9650258"
+}

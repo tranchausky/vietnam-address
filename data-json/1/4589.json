@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120175,
+            "name": "An Sơn",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "An Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9354092",
+            "lng": "105.6229255"
+        },
+        {
+            "id": 120169,
+            "name": "Đông Cựu",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Cựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9213898",
+            "lng": "105.6240343"
+        },
+        {
+            "id": 120173,
+            "name": "Lương Sơn",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.871913,",
+            "lng": "105.5040269"
+        },
+        {
+            "id": 120151,
+            "name": "Phố Gốt",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Gốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9123761",
+            "lng": "105.6133961"
+        },
+        {
+            "id": 120163,
+            "name": "Quyết Hạ",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9206917",
+            "lng": "105.6097311"
+        },
+        {
+            "id": 120167,
+            "name": "Quyết Thượng",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9253975",
+            "lng": "105.6214594"
+        },
+        {
+            "id": 120177,
+            "name": "Thanh Trì",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9218413",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 54238,
+            "name": "Ubnd Xã Đông Sơn",
+            "pid": 4589,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Đông Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 120161,
+            "name": "Xóm Đông",
+            "pid": 4589,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9439113",
+            "lng": "105.7101796"
+        },
+        {
+            "id": 120171,
+            "name": "Yên Kiện",
+            "pid": 4589,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Kiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5870193",
+            "lng": "105.1785307"
+        }
+    ],
+    "log_id": "675811bb72581477"
+}

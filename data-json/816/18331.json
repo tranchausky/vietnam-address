@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629433,
+            "name": "Thôn Bảo Tàng",
+            "pid": 18331,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bảo Tàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8084394",
+            "lng": "106.06632769999999"
+        },
+        {
+            "id": 629430,
+            "name": "Thôn Bình Cầu",
+            "pid": 18331,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8084394",
+            "lng": "106.06632769999999"
+        },
+        {
+            "id": 629436,
+            "name": "Thôn Bình Hồ",
+            "pid": 18331,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8084394",
+            "lng": "106.06632769999999"
+        }
+    ],
+    "log_id": "67581491367f5805"
+}

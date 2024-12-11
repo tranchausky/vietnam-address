@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 509903,
+            "name": "Bản Hua Mùn",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hua Mùn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7449581",
+            "lng": "103.28871520000007"
+        },
+        {
+            "id": 509901,
+            "name": "Bản Phát Khoang",
+            "pid": 18589,
+            "type": 18,
+            "region": null,
+            "alias": "Bản phát khoang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7449581",
+            "lng": "103.28871520000007"
+        },
+        {
+            "id": 584889,
+            "name": "Bản Thẩm Mú",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "bản thẩm mú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7449581",
+            "lng": "103.28871520000007"
+        },
+        {
+            "id": 584892,
+            "name": "Bản Thẩm Táng",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "bản thẩm táng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7449581",
+            "lng": "103.28871520000007"
+        },
+        {
+            "id": 969045,
+            "name": "Hua Mức 1",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "Hua mức 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5875872",
+            "lng": "103.41913220000004"
+        },
+        {
+            "id": 969047,
+            "name": "Hua Mức 2",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "Hua mức 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5875872",
+            "lng": "103.41913220000004"
+        },
+        {
+            "id": 969048,
+            "name": "Hua Mức 3",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "Hua mức 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5875872",
+            "lng": "103.41913220000004"
+        },
+        {
+            "id": 584886,
+            "name": "Pú Xi 2",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "pú xi 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7449581",
+            "lng": "103.28871520000007"
+        },
+        {
+            "id": 584883,
+            "name": "Thôn Pú Xi 1",
+            "pid": 18589,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn pú xi 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7449581",
+            "lng": "103.28871520000007"
+        }
+    ],
+    "log_id": "675816a584250791"
+}

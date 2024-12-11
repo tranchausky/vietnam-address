@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120445,
+            "name": "Đục Khê",
+            "pid": 4727,
+            "type": 16,
+            "region": null,
+            "alias": "Đục Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6147118",
+            "lng": "105.7893901"
+        },
+        {
+            "id": 563723,
+            "name": "Hà Đoạn",
+            "pid": 4727,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Đoạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6201924",
+            "lng": "105.7808156"
+        },
+        {
+            "id": 120443,
+            "name": "Hội Xá",
+            "pid": 4727,
+            "type": 16,
+            "region": null,
+            "alias": "Hội Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6187009",
+            "lng": "105.7815119"
+        },
+        {
+            "id": 120451,
+            "name": "Phú Yên",
+            "pid": 4727,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6041258",
+            "lng": "105.7644596"
+        },
+        {
+            "id": 120449,
+            "name": "Tiên Mai",
+            "pid": 4727,
+            "type": 16,
+            "region": null,
+            "alias": "Tiên Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.614838",
+            "lng": "105.805614"
+        },
+        {
+            "id": 54870,
+            "name": "Ubnd Xã Hương Sơn",
+            "pid": 4727,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hương Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 120447,
+            "name": "Yến Vỹ",
+            "pid": 4727,
+            "type": 16,
+            "region": null,
+            "alias": "Yến Vỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6114276",
+            "lng": "105.7771159"
+        }
+    ],
+    "log_id": "675811bc4b3a4502"
+}

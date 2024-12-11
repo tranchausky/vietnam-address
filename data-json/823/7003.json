@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 791233,
+            "name": "Ấp Phương Lâm 1",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phương Lâm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2747338",
+            "lng": "107.49430689999996"
+        },
+        {
+            "id": 791230,
+            "name": "Ấp Phương Lâm 2",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phương Lâm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2747338",
+            "lng": "107.49430689999996"
+        },
+        {
+            "id": 791236,
+            "name": "Ấp Phương Lâm 3",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phương Lâm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2747338",
+            "lng": "107.49430689999996"
+        },
+        {
+            "id": 92132,
+            "name": "Ấp Phương Mai 1",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Mai 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92135,
+            "name": "Ấp Phương Mai 2",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Mai 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0009521",
+            "lng": "105.8406854"
+        },
+        {
+            "id": 92138,
+            "name": "Ấp Phương Mai 3",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Mai 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0012748",
+            "lng": "105.8393044"
+        },
+        {
+            "id": 92123,
+            "name": "Ấp Thanh Thọ 1",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Thọ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.278367",
+            "lng": "107.4905851"
+        },
+        {
+            "id": 92126,
+            "name": "Ấp Thanh Thọ 2",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Thọ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92129,
+            "name": "Ấp Thanh Thọ 3",
+            "pid": 7003,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Thọ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        }
+    ],
+    "log_id": "675814dd5ca42825"
+}

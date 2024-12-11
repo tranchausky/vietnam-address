@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 683533,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7610722",
+            "lng": "106.6548058"
+        },
+        {
+            "id": 671386,
+            "name": "Đường Đỗ Ngọc Thạnh",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đỗ Ngọc Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7581937",
+            "lng": "106.6558957"
+        },
+        {
+            "id": 678409,
+            "name": "Đường Hà Tôn Quyền",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hà Tôn Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7587457",
+            "lng": "106.6526513"
+        },
+        {
+            "id": 675400,
+            "name": "Đường Lê Đại Hành",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đại Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7607053",
+            "lng": "106.65807"
+        },
+        {
+            "id": 679351,
+            "name": "Đường Nguyễn Thị Nhỏ",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7585122",
+            "lng": "106.65132"
+        },
+        {
+            "id": 683077,
+            "name": "Đường Tân Phước",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7599519",
+            "lng": "106.6558799"
+        },
+        {
+            "id": 673660,
+            "name": "Đường Tạ Uyên",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tạ Uyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.75924",
+            "lng": "106.6534019"
+        },
+        {
+            "id": 674356,
+            "name": "Đường Trần Quý",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7587234",
+            "lng": "106.6541506"
+        },
+        {
+            "id": 955959,
+            "name": "Lẻ 969-1187 Đường Ba Tháng Hai, Phường 6, Quận 11",
+            "pid": 1238,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 969-1187 Đường Ba Tháng Hai, Phường 6, Quận 11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.762093",
+            "lng": "106.65682"
+        },
+        {
+            "id": 955960,
+            "name": "Lẻ 1201-1273 Đường Ba Tháng Hai, Phường 6, Quận 11",
+            "pid": 1238,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1201-1273 Đường Ba Tháng Hai, Phường 6, Quận 11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.75986",
+            "lng": "106.65296"
+        },
+        {
+            "id": 676261,
+            "name": "Phó Cơ Điều",
+            "pid": 1238,
+            "type": 21,
+            "region": null,
+            "alias": "Phó Cơ Điều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7594655",
+            "lng": "106.6570847"
+        }
+    ],
+    "log_id": "6758129ae6113987"
+}

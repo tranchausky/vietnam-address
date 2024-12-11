@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398311,
+            "name": "Nghi Khê",
+            "pid": 17697,
+            "type": 16,
+            "region": null,
+            "alias": "Nghi Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8286102",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 398309,
+            "name": "Ngọc Lâm",
+            "pid": 17697,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8286102",
+            "lng": "106.35520919999999"
+        }
+    ],
+    "log_id": "675813f1dfbb9802"
+}

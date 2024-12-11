@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981095,
+            "name": "Đường Đặng Ma La",
+            "pid": 5789,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Ma La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981100,
+            "name": "Đường Đoàn Kết",
+            "pid": 5789,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981093,
+            "name": "Đường Hoàng Ngọc Phách",
+            "pid": 5789,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Ngọc Phách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981092,
+            "name": "Đường Ngô Kim Tài",
+            "pid": 5789,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Kim Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981088,
+            "name": "Đường Nguyễn Văn Linh",
+            "pid": 5789,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981090,
+            "name": "Đường Thiên Lôi",
+            "pid": 5789,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thiên Lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 836866,
+            "name": "Ktx Sinh Viên Tập Trung",
+            "pid": 5789,
+            "type": 8,
+            "region": null,
+            "alias": "Ktx Sinh Viên Tập Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8317687",
+            "lng": "106.6895581"
+        },
+        {
+            "id": 801238,
+            "name": "Mương Cứu Hoả",
+            "pid": 5789,
+            "type": 10,
+            "region": null,
+            "alias": "Mương Cứu Hoả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8317687",
+            "lng": "106.6895581"
+        }
+    ],
+    "log_id": "6758136628564857"
+}

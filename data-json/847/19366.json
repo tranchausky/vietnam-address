@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450039,
+            "name": "Đội 2",
+            "pid": 19366,
+            "type": 16,
+            "region": null,
+            "alias": "Đội 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450037,
+            "name": "Làng Phìn",
+            "pid": 19366,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450033,
+            "name": "Thôn 6",
+            "pid": 19366,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450031,
+            "name": "Thôn Đông Hà",
+            "pid": 19366,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450035,
+            "name": "Thôn Làng Bò",
+            "pid": 19366,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Bò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 1012548,
+            "name": "Tổ Dân Phố 1",
+            "pid": 19366,
+            "type": 16,
+            "region": null,
+            "alias": "tổ dân phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.75917036115226",
+            "lng": "107.89359402891036"
+        },
+        {
+            "id": 1012549,
+            "name": "Tổ Dân Phố 1",
+            "pid": 19366,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ Dân Phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.759170361152261",
+            "lng": "107.89359402891036"
+        },
+        {
+            "id": 450021,
+            "name": "Tổ Dân Phố 2",
+            "pid": 19366,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450023,
+            "name": "Tổ Dân Phố 3",
+            "pid": 19366,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450025,
+            "name": "Tổ Dân Phố 4",
+            "pid": 19366,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450027,
+            "name": "Tổ Dân Phố 5",
+            "pid": 19366,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 450029,
+            "name": "Tổ Dân Phố 6",
+            "pid": 19366,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7439275",
+            "lng": "107.89393199999995"
+        }
+    ],
+    "log_id": "675816d317ca6160"
+}

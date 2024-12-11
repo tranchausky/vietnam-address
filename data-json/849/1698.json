@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 6265,
+            "name": "Xã Lương Nghĩa",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lương Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6225676",
+            "lng": "105.41266519999999"
+        },
+        {
+            "id": 6267,
+            "name": "Xã Lương Tâm",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lương Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.609132299999999",
+            "lng": "105.43471160000001"
+        },
+        {
+            "id": 6268,
+            "name": "Xã Thuận Hòa",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thuận Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6212777",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 6269,
+            "name": "Xã Thuận Hưng",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thuận Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6428695",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 6270,
+            "name": "Xã Vĩnh Thuận Đông",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Thuận Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.693365499999999",
+            "lng": "105.51813019999997"
+        },
+        {
+            "id": 6271,
+            "name": "Xã Vĩnh Viễn",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Viễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6729408",
+            "lng": "105.41528979999998"
+        },
+        {
+            "id": 6272,
+            "name": "Xã Vĩnh Viễn A",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Viễn A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6729408",
+            "lng": "105.41528979999998"
+        },
+        {
+            "id": 6273,
+            "name": "Xã Xà Phiên",
+            "pid": 1698,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Xà Phiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.623426",
+            "lng": "105.51226939999992"
+        }
+    ],
+    "log_id": "675816fe01a84879"
+}

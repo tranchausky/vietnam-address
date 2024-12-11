@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 596121,
+            "name": "Khu Hòa Bình",
+            "pid": 20147,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9222511",
+            "lng": "105.89020749999997"
+        },
+        {
+            "id": 596118,
+            "name": "Khu Trung Phú",
+            "pid": 20147,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Trung Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9222511",
+            "lng": "105.89020749999997"
+        },
+        {
+            "id": 596124,
+            "name": "Khu Yên Nội",
+            "pid": 20147,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Yên Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9222511",
+            "lng": "105.89020749999997"
+        }
+    ],
+    "log_id": "67590a2306a63459"
+}

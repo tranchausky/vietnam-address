@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 461501,
+            "name": "Thôn 1 Thanh Thạch",
+            "pid": 21216,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Thanh Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9830726",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 461503,
+            "name": "Thôn 2 Thanh Thạch",
+            "pid": 21216,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Thanh Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9830726",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 461505,
+            "name": "Thôn 3 Thanh Thạch",
+            "pid": 21216,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 Thanh Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9830726",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 461507,
+            "name": "Thôn 4 Thanh Thạch",
+            "pid": 21216,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4 Thanh Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9830726",
+            "lng": "105.87013159999992"
+        }
+    ],
+    "log_id": "675814aa17dba979"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 70252,
+            "name": "Ấp Bà Tứ",
+            "pid": 6100,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bà Tứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.345112637689665",
+            "lng": "106.57853830086232"
+        },
+        {
+            "id": 433363,
+            "name": "Ấp Ông Chài",
+            "pid": 6100,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Ông Chài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.361458698948233",
+            "lng": "106.57392062435217"
+        },
+        {
+            "id": 433365,
+            "name": "Ấp Ông Thanh",
+            "pid": 6100,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Ông Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.315930644984274",
+            "lng": "106.56779335860938"
+        },
+        {
+            "id": 433367,
+            "name": "Ấp Suối Cạn",
+            "pid": 6100,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Suối Cạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.362194545623662",
+            "lng": "106.5458982965733"
+        }
+    ],
+    "log_id": "67581621a0e2c855"
+}

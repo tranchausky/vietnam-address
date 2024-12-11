@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 844945,
+            "name": "Tam Dinh",
+            "pid": 6394,
+            "type": 16,
+            "region": null,
+            "alias": "Tam Dinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 423957,
+            "name": "Thôn Bảo Chưng",
+            "pid": 6394,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bảo chưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 864691,
+            "name": "Thôn Chung",
+            "pid": 6394,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Chung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 797467,
+            "name": "Thôn Đông",
+            "pid": 6394,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 423959,
+            "name": "Thôn Gồ",
+            "pid": 6394,
+            "type": 16,
+            "region": null,
+            "alias": "thôn gồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 797470,
+            "name": "Yên Định",
+            "pid": 6394,
+            "type": 16,
+            "region": null,
+            "alias": "Yên định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        }
+    ],
+    "log_id": "675815337b371216"
+}

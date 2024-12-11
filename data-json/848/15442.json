@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 427921,
+            "name": "Thôn Đan Khê",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Đan Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0279256",
+            "lng": "108.6888227"
+        },
+        {
+            "id": 427923,
+            "name": "Thôn Phúc Thanh",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "thôn phúc thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0117335",
+            "lng": "105.8476625"
+        },
+        {
+            "id": 427931,
+            "name": "Thôn Tân Phúc",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Tân Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2027562",
+            "lng": "105.2019295"
+        },
+        {
+            "id": 427929,
+            "name": "Thôn Thanh Lan.",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Thanh Lan.",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9907713",
+            "lng": "105.8885839"
+        },
+        {
+            "id": 427925,
+            "name": "Thôn Vĩnh Long",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Vĩnh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.239574",
+            "lng": "105.9571928"
+        },
+        {
+            "id": 427917,
+            "name": "Xóm Đồng Giang",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đồng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9611634",
+            "lng": "105.9031664"
+        },
+        {
+            "id": 427913,
+            "name": "Xóm Tân Hương",
+            "pid": 15442,
+            "type": 18,
+            "region": null,
+            "alias": "xóm tân hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9831411",
+            "lng": "105.9156599"
+        }
+    ],
+    "log_id": "675816e9d454b413"
+}

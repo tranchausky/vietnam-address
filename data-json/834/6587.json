@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 481117,
+            "name": "Đường 3\/2",
+            "pid": 6587,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 3\/2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3564094",
+            "lng": "107.09380970000007"
+        },
+        {
+            "id": 481113,
+            "name": "Đường Trần Bình Trọng",
+            "pid": 6587,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bình Trọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3564094",
+            "lng": "107.09380970000007"
+        },
+        {
+            "id": 845551,
+            "name": "Khu Biệt Thự Phương Nam",
+            "pid": 6587,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Biệt Thự Phương Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3564094",
+            "lng": "107.09380970000008"
+        },
+        {
+            "id": 481107,
+            "name": "Lê Hồng Phong",
+            "pid": 6587,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3564094",
+            "lng": "107.09380970000007"
+        }
+    ],
+    "log_id": "675815b3e6bfe277"
+}

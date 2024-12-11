@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1013341,
+            "name": "Thôn Bắc Sơn",
+            "pid": 18688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.444285",
+            "lng": "105.677609"
+        },
+        {
+            "id": 648703,
+            "name": "Thôn Bắc Sơn",
+            "pid": 18688,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.444401",
+            "lng": "105.677638"
+        },
+        {
+            "id": 648688,
+            "name": "Thôn Trung Sơn",
+            "pid": 18688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4257487159726",
+            "lng": "105.67595299999999"
+        }
+    ],
+    "log_id": "67590a23b3512537"
+}

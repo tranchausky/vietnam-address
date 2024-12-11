@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 618384,
+            "name": "Ấp 1",
+            "pid": 16141,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        },
+        {
+            "id": 618387,
+            "name": "Ấp 2",
+            "pid": 16141,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        },
+        {
+            "id": 618390,
+            "name": "Ấp 3",
+            "pid": 16141,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        },
+        {
+            "id": 618393,
+            "name": "Ấp 4",
+            "pid": 16141,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        },
+        {
+            "id": 618396,
+            "name": "Ấp 5",
+            "pid": 16141,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        },
+        {
+            "id": 618399,
+            "name": "Ấp 6",
+            "pid": 16141,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        },
+        {
+            "id": 618402,
+            "name": "Ấp 7",
+            "pid": 16141,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5318166",
+            "lng": "105.5826123"
+        }
+    ],
+    "log_id": "675816c064eb527"
+}

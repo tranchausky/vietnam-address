@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834904,
+            "name": "Sủng Nhí B",
+            "pid": 21089,
+            "type": 20,
+            "region": null,
+            "alias": "Sủng Nhí B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1997304",
+            "lng": "105.31897260000004"
+        },
+        {
+            "id": 571446,
+            "name": "Sủng Quáng",
+            "pid": 21089,
+            "type": 16,
+            "region": null,
+            "alias": "sủng quáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1997304",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 571443,
+            "name": "Sủng Ú",
+            "pid": 21089,
+            "type": 16,
+            "region": null,
+            "alias": "sủng ú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1997304",
+            "lng": "105.31897260000005"
+        }
+    ],
+    "log_id": "6758156648e3f32"
+}

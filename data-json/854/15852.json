@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 837112,
+            "name": "Đông Hà",
+            "pid": 15852,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7539347",
+            "lng": "108.07027019999998"
+        },
+        {
+            "id": 837106,
+            "name": "Tầm Xá",
+            "pid": 15852,
+            "type": 16,
+            "region": null,
+            "alias": "Tầm Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7539347",
+            "lng": "108.07027019999998"
+        },
+        {
+            "id": 837115,
+            "name": "Thanh Trì",
+            "pid": 15852,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7539347",
+            "lng": "108.07027019999998"
+        },
+        {
+            "id": 837109,
+            "name": "Tiền Lâm",
+            "pid": 15852,
+            "type": 16,
+            "region": null,
+            "alias": "Tiền Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7539347",
+            "lng": "108.07027019999998"
+        }
+    ],
+    "log_id": "67581771b47cd385"
+}

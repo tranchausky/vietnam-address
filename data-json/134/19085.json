@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 832309,
+            "name": "Thôn Keo",
+            "pid": 19085,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Keo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.458630600000006",
+            "lng": "106.35152790000004"
+        },
+        {
+            "id": 832306,
+            "name": "Thôn Mới",
+            "pid": 19085,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.458630600000006",
+            "lng": "106.35152790000004"
+        }
+    ],
+    "log_id": "6758133f21e6c991"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1017699,
+            "name": "Chợ Sáng Đại Đồng, Huyện Kiến Thuỵ, Hải Phòng",
+            "pid": 6687,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ sáng Đại Đồng, Huyện Kiến Thuỵ, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.774936",
+            "lng": "106.678641"
+        },
+        {
+            "id": 412193,
+            "name": "Đưc Phong",
+            "pid": 6687,
+            "type": 16,
+            "region": null,
+            "alias": "Đưc Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7724211",
+            "lng": "106.6910322"
+        },
+        {
+            "id": 1017351,
+            "name": "Mầm Non Xã Đại Đồng, Huyện Kiến Thuỵ, Hải Phòng",
+            "pid": 6687,
+            "type": 9,
+            "region": null,
+            "alias": "Mầm non xã Đại Đồng, Huyện Kiến Thuỵ, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.775175",
+            "lng": "106.680651"
+        },
+        {
+            "id": 412197,
+            "name": "Phong Quang",
+            "pid": 6687,
+            "type": 16,
+            "region": null,
+            "alias": "Phong Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7724211",
+            "lng": "106.6910322"
+        },
+        {
+            "id": 412195,
+            "name": "Thôn Phong Cầu",
+            "pid": 6687,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phong Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7724211",
+            "lng": "106.6910322"
+        }
+    ],
+    "log_id": "6758136642952538"
+}

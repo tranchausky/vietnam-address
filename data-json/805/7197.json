@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398009,
+            "name": "Đồng Han",
+            "pid": 7197,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Han",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7334259",
+            "lng": "106.37146819999998"
+        },
+        {
+            "id": 398005,
+            "name": "Đô Tràng",
+            "pid": 7197,
+            "type": 16,
+            "region": null,
+            "alias": "Đô Tràng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7334259",
+            "lng": "106.37146819999998"
+        },
+        {
+            "id": 398011,
+            "name": "Thượng Đồng",
+            "pid": 7197,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7334259",
+            "lng": "106.37146819999998"
+        },
+        {
+            "id": 398007,
+            "name": "Thượng Xá",
+            "pid": 7197,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7334259",
+            "lng": "106.37146819999998"
+        }
+    ],
+    "log_id": "675813f1b9617694"
+}

@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91760,
+            "name": "Ấp 1",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9676461",
+            "lng": "107.024444"
+        },
+        {
+            "id": 91763,
+            "name": "Ấp 2",
+            "pid": 7019,
+            "type": 6,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9709431",
+            "lng": "107.021006"
+        },
+        {
+            "id": 91766,
+            "name": "Ấp 3",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0007231",
+            "lng": "107.051603"
+        },
+        {
+            "id": 91769,
+            "name": "Ấp 4",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 91772,
+            "name": "Ấp 5",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9812278",
+            "lng": "107.0224095"
+        },
+        {
+            "id": 91775,
+            "name": "Ấp 6",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.989447",
+            "lng": "107.0283675"
+        },
+        {
+            "id": 91778,
+            "name": "Ấp 7",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0177347",
+            "lng": "107.0343598"
+        },
+        {
+            "id": 91781,
+            "name": "Ấp 8",
+            "pid": 7019,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0227878",
+            "lng": "107.030436"
+        },
+        {
+            "id": 997961,
+            "name": "Công Ty Tnhh Phòng Khám Đa Khoa Hưng Hòa Phát",
+            "pid": 7019,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty Tnhh Phòng Khám Đa Khoa Hưng Hòa Phát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.956372031910973",
+            "lng": "10.956372031910973, 107.01840972126507"
+        },
+        {
+            "id": 997962,
+            "name": "Cửa Hàng Minh Thái",
+            "pid": 7019,
+            "type": 10,
+            "region": null,
+            "alias": "Cửa Hàng Minh Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.960171738301542",
+            "lng": "107.01863505597578"
+        },
+        {
+            "id": 96416,
+            "name": "Kcn Bàu Xéo - Xã Sông Trầu",
+            "pid": 7019,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Bàu Xéo - Xã Sông Trầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9573525",
+            "lng": "107.032797"
+        }
+    ],
+    "log_id": "675814dd43fcb789"
+}

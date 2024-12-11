@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 89051,
+            "name": "Ấp 1 Xã Tam An",
+            "pid": 6987,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1 Xã Tam An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.776099",
+            "lng": "106.5780894"
+        },
+        {
+            "id": 91838,
+            "name": "Ấp 2 Xã Tam An",
+            "pid": 6987,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 Xã Tam An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 89060,
+            "name": "Ấp 3 Xã Tam An",
+            "pid": 6987,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 Xã Tam An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 89069,
+            "name": "Ấp 4 Xã Tam An",
+            "pid": 6987,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4 Xã Tam An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 89072,
+            "name": "Ấp 5 Xã Tam An",
+            "pid": 6987,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5 Xã Tam An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5335974",
+            "lng": "106.2110311"
+        },
+        {
+            "id": 790951,
+            "name": "Đường Số 7 Kcn Long Thành",
+            "pid": 6987,
+            "type": 5,
+            "region": null,
+            "alias": "đường số 7 KCN Long Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8106836",
+            "lng": "106.90044720000004"
+        }
+    ],
+    "log_id": "675814dd58105104"
+}

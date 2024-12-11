@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 499013,
+            "name": "Ấp Thuận Bắc",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thuận Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 499015,
+            "name": "Ấp Thuận Đông",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thuận Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 499011,
+            "name": "Ấp Thuận Nam",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thuận Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 499017,
+            "name": "Ấp Thuận Tây 1",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thuận Tây 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 499019,
+            "name": "Ấp Thuận Tây 2",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thuận Tây 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 871507,
+            "name": "Đường 835",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "đường 835",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 763243,
+            "name": "Thuận Thành",
+            "pid": 7287,
+            "type": 16,
+            "region": null,
+            "alias": "Thuận Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5734893",
+            "lng": "106.61439440000004"
+        }
+    ],
+    "log_id": "6758178535ab2463"
+}

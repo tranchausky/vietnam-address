@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 734269,
+            "name": "Thôn 1",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 734254,
+            "name": "Thôn 2",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0102708",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 734251,
+            "name": "Thôn 3",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0102708",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 556041,
+            "name": "Thôn Yên Lọc",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Lọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0102708",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 556047,
+            "name": "Thôn Yên Lý",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0102708",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 556043,
+            "name": "Thôn Yên Sơn",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0102708",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 556045,
+            "name": "Thôn Yên Tu",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Tu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0102708",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 734260,
+            "name": "Yên Bái",
+            "pid": 17266,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Bái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        }
+    ],
+    "log_id": "67590a233c850233"
+}

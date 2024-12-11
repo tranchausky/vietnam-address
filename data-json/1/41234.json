@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 990056,
+            "name": "Chẵn 2-50 Tô Vĩnh Diện",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 2-50 Tô Vĩnh Diện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.000564823483348",
+            "lng": "105.82207106798467"
+        },
+        {
+            "id": 990058,
+            "name": "Chẵn 52-106 Tô Vĩnh Diện",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 52-106 Tô Vĩnh Diện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.000183321608976",
+            "lng": "105.82121171031405"
+        },
+        {
+            "id": 829783,
+            "name": "Đường Lạc Hồng",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lạc Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9971504",
+            "lng": "105.82169109999995"
+        },
+        {
+            "id": 831025,
+            "name": "Đường Vương Thừa Vũ",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vương Thừa Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9971504",
+            "lng": "105.82169109999995"
+        },
+        {
+            "id": 1127,
+            "name": "Khương Trung Mới",
+            "pid": 41234,
+            "type": 2,
+            "region": null,
+            "alias": "Khương Trung Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9967918",
+            "lng": "105.81632130000003"
+        },
+        {
+            "id": 3879,
+            "name": "Lạc Hồng",
+            "pid": 41234,
+            "type": 2,
+            "region": null,
+            "alias": "Lạc Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9927893",
+            "lng": "105.82612549999999"
+        },
+        {
+            "id": 990057,
+            "name": "Lẻ 1-49 Tô Vĩnh Diện",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 1-49 Tô Vĩnh Diện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.000863439133912",
+            "lng": "105.82220266983224"
+        },
+        {
+            "id": 990863,
+            "name": "Lẻ 1-129 Hoàng Văn Thái",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 1-129 Hoàng Văn Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.996400286311655",
+            "lng": "105.82808410162677"
+        },
+        {
+            "id": 990059,
+            "name": "Lẻ 51-105 Tô Vĩnh Diện",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 51-105 Tô Vĩnh Diện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999697276249968",
+            "lng": "105.82086205449079"
+        },
+        {
+            "id": 990864,
+            "name": "Lẻ 129-295 Hoàng Văn Thái",
+            "pid": 41234,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 129-295 Hoàng Văn Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.99669056462457",
+            "lng": "105.82648545264321"
+        },
+        {
+            "id": 628,
+            "name": "Nguyễn Ngọc Nại",
+            "pid": 41234,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Ngọc Nại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9994572",
+            "lng": "105.82496500000002"
+        },
+        {
+            "id": 989,
+            "name": "Tô Vĩnh Diện",
+            "pid": 41234,
+            "type": 2,
+            "region": null,
+            "alias": "Tô Vĩnh Diện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9983976",
+            "lng": "105.81988150000006"
+        }
+    ],
+    "log_id": "675811bd442e7874"
+}

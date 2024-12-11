@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114667,
+            "name": "Ấp Giồng Giữa",
+            "pid": 8032,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.250232599999999",
+            "lng": "105.7583857"
+        },
+        {
+            "id": 114693,
+            "name": "Ấp Giồng Nhãn",
+            "pid": 8032,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Nhãn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2211153,",
+            "lng": "105.738097"
+        },
+        {
+            "id": 114717,
+            "name": "Ấp Giồng Nhãn A",
+            "pid": 8032,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Nhãn A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2314832",
+            "lng": "105.7397015"
+        },
+        {
+            "id": 114859,
+            "name": "Ấp Xóm Lẫm",
+            "pid": 8032,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Lẫm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2573037",
+            "lng": "105.7562101"
+        }
+    ],
+    "log_id": "675815e17f9d6422"
+}

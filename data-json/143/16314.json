@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465839,
+            "name": "Thôn Lâm Xuân",
+            "pid": 16314,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lâm Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8908783",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 465845,
+            "name": "Thôn Mai Đông",
+            "pid": 16314,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8908783",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 465835,
+            "name": "Thôn Mai Xá",
+            "pid": 16314,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8908783",
+            "lng": "107.13072890000001"
+        },
+        {
+            "id": 465837,
+            "name": "Thôn Tân Minh",
+            "pid": 16314,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8908783",
+            "lng": "107.13072890000001"
+        }
+    ],
+    "log_id": "675813bc4c57f359"
+}

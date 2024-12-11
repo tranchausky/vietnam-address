@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1013760,
+            "name": "Công Ty Giaỳ Da Sao Vàng",
+            "pid": 6671,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty Giaỳ da sao vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.81480591474995",
+            "lng": "106.60124847110535"
+        },
+        {
+            "id": 414397,
+            "name": "Khu An Tràng",
+            "pid": 6671,
+            "type": 20,
+            "region": null,
+            "alias": "Khu An Tràng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8164393",
+            "lng": "106.59671260000004"
+        },
+        {
+            "id": 414399,
+            "name": "Khu Văn Tràng 1",
+            "pid": 6671,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Văn Tràng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8164393",
+            "lng": "106.59671260000004"
+        },
+        {
+            "id": 414401,
+            "name": "Khu Văn Tràng 2",
+            "pid": 6671,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Văn Tràng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8164393",
+            "lng": "106.59671260000004"
+        },
+        {
+            "id": 414403,
+            "name": "Khu Xuân Áng",
+            "pid": 6671,
+            "type": 22,
+            "region": null,
+            "alias": "Khu Xuân Áng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8164393",
+            "lng": "106.59671260000004"
+        }
+    ],
+    "log_id": "67581365c86b533"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1877,
+            "name": "Huyện Bố Trạch",
+            "pid": 818,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bố Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.5047078",
+            "lng": "106.29929119999997"
+        },
+        {
+            "id": 1878,
+            "name": "Huyện Lệ Thủy",
+            "pid": 818,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Lệ Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1064913",
+            "lng": "106.67629199999999"
+        },
+        {
+            "id": 1879,
+            "name": "Huyện Minh Hoá",
+            "pid": 818,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Minh Hoá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.719816",
+            "lng": "105.92299000000003"
+        },
+        {
+            "id": 1880,
+            "name": "Huyện Quảng Ninh",
+            "pid": 818,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Quảng Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2394584",
+            "lng": "106.46162460000005"
+        },
+        {
+            "id": 1881,
+            "name": "Huyện Quảng Trạch",
+            "pid": 818,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Quảng Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8640126",
+            "lng": "106.39347769999995"
+        },
+        {
+            "id": 1882,
+            "name": "Huyện Tuyên Hoá",
+            "pid": 818,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tuyên Hoá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.9319039",
+            "lng": "105.97228139999993"
+        },
+        {
+            "id": 1883,
+            "name": "Thành Phố Đồng Hới",
+            "pid": 818,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Đồng Hới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4659391",
+            "lng": "106.59839579999993"
+        },
+        {
+            "id": 2102,
+            "name": "Thị Xã Ba Đồn",
+            "pid": 818,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Ba Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7530355",
+            "lng": "106.42352849999997"
+        }
+    ],
+    "log_id": "675814a97cde8246"
+}

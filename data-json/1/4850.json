@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 489009,
+            "name": "Bách Kim",
+            "pid": 4850,
+            "type": 16,
+            "region": null,
+            "alias": "Bách Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.062464",
+            "lng": "105.5778405"
+        },
+        {
+            "id": 835021,
+            "name": "Đường Ubnd",
+            "pid": 4850,
+            "type": 21,
+            "region": null,
+            "alias": "Đường ubnd",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.062464",
+            "lng": "105.57784049999998"
+        },
+        {
+            "id": 489013,
+            "name": "Ngoại Thôn",
+            "pid": 4850,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoại Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.062464",
+            "lng": "105.5778405"
+        },
+        {
+            "id": 489011,
+            "name": "Nội Thôn",
+            "pid": 4850,
+            "type": 16,
+            "region": null,
+            "alias": "Nội Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.062464",
+            "lng": "105.5778405"
+        },
+        {
+            "id": 489005,
+            "name": "Phú Nghĩa",
+            "pid": 4850,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.062464",
+            "lng": "105.5778405"
+        },
+        {
+            "id": 784960,
+            "name": "Thôn 7",
+            "pid": 4850,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.062464",
+            "lng": "105.57784049999998"
+        },
+        {
+            "id": 489003,
+            "name": "Thúy Lai",
+            "pid": 4850,
+            "type": 16,
+            "region": null,
+            "alias": "Thúy Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0571158",
+            "lng": "105.58787"
+        },
+        {
+            "id": 55346,
+            "name": "Ubnd Xã Phú Kim",
+            "pid": 4850,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phú Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc0f7cf293"
+}

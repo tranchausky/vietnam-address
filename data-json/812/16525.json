@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567807,
+            "name": "Thôn 1",
+            "pid": 16525,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.086865",
+            "lng": "108.208573"
+        },
+        {
+            "id": 567810,
+            "name": "Thôn 2",
+            "pid": 16525,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.086865",
+            "lng": "108.208573"
+        },
+        {
+            "id": 567813,
+            "name": "Thôn 3",
+            "pid": 16525,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.086865",
+            "lng": "108.208573"
+        },
+        {
+            "id": 567816,
+            "name": "Thôn 4",
+            "pid": 16525,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.086865",
+            "lng": "108.208573"
+        },
+        {
+            "id": 567819,
+            "name": "Thôn 5",
+            "pid": 16525,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.086865",
+            "lng": "108.208573"
+        },
+        {
+            "id": 869005,
+            "name": "Thôn Suối Đá",
+            "pid": 16525,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.086865",
+            "lng": "108.208573"
+        }
+    ],
+    "log_id": "67581477f307e734"
+}

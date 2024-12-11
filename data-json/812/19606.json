@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567603,
+            "name": "Thôn An Bình",
+            "pid": 19606,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3274661",
+            "lng": "108.43947400000002"
+        },
+        {
+            "id": 567606,
+            "name": "Thôn An Hòa",
+            "pid": 19606,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3274661",
+            "lng": "108.43947400000002"
+        },
+        {
+            "id": 567615,
+            "name": "Thôn An Lạc",
+            "pid": 19606,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3274661",
+            "lng": "108.43947400000002"
+        },
+        {
+            "id": 567609,
+            "name": "Thôn An Thạnh",
+            "pid": 19606,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3274661",
+            "lng": "108.43947400000002"
+        },
+        {
+            "id": 567612,
+            "name": "Thôn An Trung",
+            "pid": 19606,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3274661",
+            "lng": "108.43947400000002"
+        }
+    ],
+    "log_id": "675814778a8d9307"
+}

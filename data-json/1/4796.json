@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119415,
+            "name": "Thôn Bái Ngoại",
+            "pid": 4796,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bái Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9812759",
+            "lng": "105.6003509"
+        },
+        {
+            "id": 119417,
+            "name": "Thôn Bái Nội",
+            "pid": 4796,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bái Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9846752",
+            "lng": "105.6032614"
+        },
+        {
+            "id": 119421,
+            "name": "Thôn Đại Phu",
+            "pid": 4796,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Phu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9820251",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 119423,
+            "name": "Thôn Thông Đạt",
+            "pid": 4796,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thông Đạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9812759",
+            "lng": "105.6003509"
+        },
+        {
+            "id": 119419,
+            "name": "Thôn Vĩnh Phúc",
+            "pid": 4796,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9812759",
+            "lng": "105.6003509"
+        }
+    ],
+    "log_id": "675811bcd4e4697"
+}

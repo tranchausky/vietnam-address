@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 849943,
+            "name": "Đồng Tâm",
+            "pid": 14897,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5414606",
+            "lng": "105.30891169999995"
+        },
+        {
+            "id": 844729,
+            "name": "Hung Thịnh",
+            "pid": 14897,
+            "type": 16,
+            "region": null,
+            "alias": "Hung Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.541460600000004",
+            "lng": "105.30891169999997"
+        },
+        {
+            "id": 844732,
+            "name": "Lương Thiện",
+            "pid": 14897,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.541460600000004",
+            "lng": "105.30891169999997"
+        },
+        {
+            "id": 873358,
+            "name": "Phu Tho 1",
+            "pid": 14897,
+            "type": 16,
+            "region": null,
+            "alias": "Phu Tho 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.541460600000004",
+            "lng": "105.30891169999997"
+        },
+        {
+            "id": 837892,
+            "name": "Thôn Thái Thịnh",
+            "pid": 14897,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thái Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.541460600000004",
+            "lng": "105.30891169999997"
+        }
+    ],
+    "log_id": "6758138a28aab105"
+}

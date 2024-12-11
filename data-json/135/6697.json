@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412031,
+            "name": "Cao Bộ",
+            "pid": 6697,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Bộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7227815",
+            "lng": "106.66744840000001"
+        },
+        {
+            "id": 412035,
+            "name": "Cao Tiến",
+            "pid": 6697,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7227815",
+            "lng": "106.66744840000001"
+        },
+        {
+            "id": 412033,
+            "name": "Ngọc Liễn",
+            "pid": 6697,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Liễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7227815",
+            "lng": "106.66744840000001"
+        },
+        {
+            "id": 412037,
+            "name": "Nhân Trai",
+            "pid": 6697,
+            "type": 16,
+            "region": null,
+            "alias": "Nhân Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7227815",
+            "lng": "106.66744840000001"
+        }
+    ],
+    "log_id": "6758136642b7e810"
+}

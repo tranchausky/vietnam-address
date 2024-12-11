@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110149,
+            "name": "Thôn Quảng Đức",
+            "pid": 16434,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0345133",
+            "lng": "109.1276182"
+        },
+        {
+            "id": 110781,
+            "name": "Thôn Suối Cát",
+            "pid": 16434,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0302067",
+            "lng": "109.1254699"
+        },
+        {
+            "id": 110791,
+            "name": "Thôn Vĩnh Thái",
+            "pid": 16434,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0206840",
+            "lng": "109.1294657"
+        }
+    ],
+    "log_id": "67581585d6337946"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629913,
+            "name": "Thôn Hương Quất",
+            "pid": 20105,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hương quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7692606",
+            "lng": "105.99495999999999"
+        },
+        {
+            "id": 629919,
+            "name": "Thôn Quan Xuyên",
+            "pid": 20105,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quan xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7692606",
+            "lng": "105.99495999999999"
+        },
+        {
+            "id": 629916,
+            "name": "Thôn Sài Quất",
+            "pid": 20105,
+            "type": 16,
+            "region": null,
+            "alias": "thôn sài quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7692606",
+            "lng": "105.99495999999999"
+        }
+    ],
+    "log_id": "67581490c2764630"
+}

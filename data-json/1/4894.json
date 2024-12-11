@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 958582,
+            "name": "Xóm 7 Yên Mỹ",
+            "pid": 4894,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 7 Yên Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 795970,
+            "name": "Xóm 8",
+            "pid": 4894,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd1d732901"
+}

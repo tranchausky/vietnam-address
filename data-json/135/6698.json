@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412083,
+            "name": "Thôn Đa Ngư",
+            "pid": 6698,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Ngư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.703442",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 412085,
+            "name": "Thôn Kim Sơn",
+            "pid": 6698,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.703442",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 412081,
+            "name": "Thôn Ngọc Tỉnh",
+            "pid": 6698,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Tỉnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.703442",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 1017774,
+            "name": "Trường Mầm Non",
+            "pid": 6698,
+            "type": 9,
+            "region": null,
+            "alias": "Trường mầm non",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.715763",
+            "lng": "106.66018"
+        }
+    ],
+    "log_id": "67581366448b8524"
+}

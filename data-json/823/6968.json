@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 987280,
+            "name": "Ấp 1, Xã Bình Lợi",
+            "pid": 6968,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1, xã Bình Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.035598566975688",
+            "lng": "106.8301955607328"
+        },
+        {
+            "id": 987281,
+            "name": "Ấp 2, Xã Bình Lợi",
+            "pid": 6968,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2, xã Bình Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.043691100926624",
+            "lng": "106.82208456073472"
+        },
+        {
+            "id": 987282,
+            "name": "Ấp 3, Xã Bình Lợi",
+            "pid": 6968,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3, Xã Bình Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.04349768787057",
+            "lng": "106.82094080984166"
+        }
+    ],
+    "log_id": "675814dd15c0e410"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981189,
+            "name": "An Đà",
+            "pid": 10435,
+            "type": 21,
+            "region": null,
+            "alias": "An Đà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8461821",
+            "lng": "106.703233"
+        },
+        {
+            "id": 981190,
+            "name": "Chu Văn An",
+            "pid": 10435,
+            "type": 21,
+            "region": null,
+            "alias": "Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981192,
+            "name": "Đường An Đà Nội",
+            "pid": 10435,
+            "type": 21,
+            "region": null,
+            "alias": "Đường An Đà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981188,
+            "name": "Đường Nguyễn Bỉnh Khiêm",
+            "pid": 10435,
+            "type": 21,
+            "region": null,
+            "alias": "đường Nguyễn Bỉnh Khiêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 826894,
+            "name": "Nam Pháp 2",
+            "pid": 10435,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Pháp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8617041",
+            "lng": "106.69378449999999"
+        }
+    ],
+    "log_id": "67581365ecb8b247"
+}

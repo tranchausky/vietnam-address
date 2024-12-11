@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 760687,
+            "name": "Xóm Cỏi",
+            "pid": 21795,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cỏi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.127527",
+            "lng": "104.92720439999994"
+        },
+        {
+            "id": 666700,
+            "name": "Xóm Dù Xã Xuân Sơn Huyện Tân Sơn Tỉnh Phú Thọ",
+            "pid": 21795,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Dù Xã Xuân Sơn Huyện Tân Sơn Tỉnh Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.127527",
+            "lng": "104.92720439999994"
+        },
+        {
+            "id": 666703,
+            "name": "Xóm Lạng Xã Xuân Sơn Huyện Tân Sơn Tỉnh Phú Thọ",
+            "pid": 21795,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lạng Xã Xuân Sơn Huyện Tân Sơn Tỉnh Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.127527",
+            "lng": "104.92720439999994"
+        },
+        {
+            "id": 666706,
+            "name": "Xóm Lấp Xã Xuân Sơn Huyện Tân Sơn Tỉnh Phú Thọ",
+            "pid": 21795,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lấp Xã Xuân Sơn Huyện Tân Sơn Tỉnh Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.127527",
+            "lng": "104.92720439999994"
+        }
+    ],
+    "log_id": "675817cdd89d2510"
+}

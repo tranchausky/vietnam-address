@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101840,
+            "name": "Thôn Bái Xuyên",
+            "pid": 4748,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Bái Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.681353",
+            "lng": "105.961246"
+        },
+        {
+            "id": 101843,
+            "name": "Thôn Đồng Lạc",
+            "pid": 4748,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.674994",
+            "lng": "105.961053"
+        },
+        {
+            "id": 101858,
+            "name": "Thôn Kim Quy",
+            "pid": 4748,
+            "type": 16,
+            "region": null,
+            "alias": "thôn kim quy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.675672",
+            "lng": "105.974121"
+        },
+        {
+            "id": 101885,
+            "name": "Thôn Mai Trang",
+            "pid": 4748,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Mai Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.667957, 105.952318",
+            "lng": "20.667957, 105.952318"
+        },
+        {
+            "id": 102338,
+            "name": "Thôn Tân Tiến",
+            "pid": 4748,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.682859",
+            "lng": "105.985000"
+        },
+        {
+            "id": 102401,
+            "name": "Thôn Thành Lập",
+            "pid": 4748,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.678181",
+            "lng": "105.972394"
+        },
+        {
+            "id": 102413,
+            "name": "Thôn Thần Quy",
+            "pid": 4748,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thần quy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.663626",
+            "lng": "105.955668"
+        }
+    ],
+    "log_id": "675811bcd4070199"
+}

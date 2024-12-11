@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109803,
+            "name": "Thôn Vĩnh Đông",
+            "pid": 16430,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9931240",
+            "lng": "109.1270608"
+        },
+        {
+            "id": 109899,
+            "name": "Thôn Vĩnh Nam",
+            "pid": 16430,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9881363",
+            "lng": "109.1240586"
+        },
+        {
+            "id": 109881,
+            "name": "Thôn Vĩnh Trung",
+            "pid": 16430,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9729855",
+            "lng": "109.1226018"
+        }
+    ],
+    "log_id": "67581585dbe4b359"
+}

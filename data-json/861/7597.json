@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109065,
+            "name": "Ấp Bưng Buối",
+            "pid": 7597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Buối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.539889",
+            "lng": "106.102722"
+        },
+        {
+            "id": 109097,
+            "name": "Ấp Bưng Triết",
+            "pid": 7597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Triết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.517889",
+            "lng": "106.112833"
+        },
+        {
+            "id": 109081,
+            "name": "Ấp Đại Nôn",
+            "pid": 7597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đại Nôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.489278",
+            "lng": "106.125306"
+        },
+        {
+            "id": 109105,
+            "name": "Ấp Giồng Chát",
+            "pid": 7597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Chát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.489167",
+            "lng": "106.125306"
+        },
+        {
+            "id": 109115,
+            "name": "Ấp Tổng Cáng",
+            "pid": 7597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tổng Cáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.448333",
+            "lng": "106.090667"
+        }
+    ],
+    "log_id": "675909c1673a2159"
+}

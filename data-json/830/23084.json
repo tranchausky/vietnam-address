@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928618,
+            "name": "Nhìu Sang",
+            "pid": 23084,
+            "type": 16,
+            "region": null,
+            "alias": "Nhìu Sang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8777937",
+            "lng": "104.80460659999994"
+        },
+        {
+            "id": 572706,
+            "name": "Thôn Nậm Lầu",
+            "pid": 23084,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nậm lầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8777937",
+            "lng": "104.80460659999994"
+        },
+        {
+            "id": 572709,
+            "name": "Thôn Tả Ván",
+            "pid": 23084,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tả ván",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8777937",
+            "lng": "104.80460659999994"
+        }
+    ],
+    "log_id": "675815666a3db731"
+}

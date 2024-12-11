@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981484,
+            "name": "Đường Đoàn Nguyễn Thục",
+            "pid": 5306,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Nguyễn Thục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981492,
+            "name": "Đường Lê Đại Hành",
+            "pid": 5306,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đại Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d16c19f382"
+}

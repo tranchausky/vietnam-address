@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 833419,
+            "name": "Agribank Tây Hòa",
+            "pid": 15024,
+            "type": 21,
+            "region": null,
+            "alias": "Agribank Tây Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 833422,
+            "name": "Bệnh Viện Phú Thứ",
+            "pid": 15024,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện Phú Thứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 833416,
+            "name": "Bưu Điện Phú Thứ",
+            "pid": 15024,
+            "type": 21,
+            "region": null,
+            "alias": "Bưu điện Phú thứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 443687,
+            "name": "Kp Mỹ Lệ Đông",
+            "pid": 15024,
+            "type": 16,
+            "region": null,
+            "alias": "KP Mỹ Lệ Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 443689,
+            "name": "Kp Mỹ Lệ Tây",
+            "pid": 15024,
+            "type": 16,
+            "region": null,
+            "alias": "KP Mỹ Lệ Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 443691,
+            "name": "Kp Phước Mỹ Tây",
+            "pid": 15024,
+            "type": 16,
+            "region": null,
+            "alias": "KP Phước Mỹ Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 443685,
+            "name": "Kp Phước Thịnh",
+            "pid": 15024,
+            "type": 16,
+            "region": null,
+            "alias": "KP Phước Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        },
+        {
+            "id": 443683,
+            "name": "Kp Phú Thứ",
+            "pid": 15024,
+            "type": 16,
+            "region": null,
+            "alias": "KP Phú Thứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0012163",
+            "lng": "109.24003659999994"
+        }
+    ],
+    "log_id": "67590b80a0734371"
+}

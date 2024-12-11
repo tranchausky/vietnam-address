@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562307,
+            "name": "02-74 Trịnh Khả",
+            "pid": 15214,
+            "type": 29,
+            "region": null,
+            "alias": "02-74 Trịnh Khả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7958336",
+            "lng": "105.77664349999998"
+        },
+        {
+            "id": 562325,
+            "name": "Đường Đặng Thai Mai",
+            "pid": 15214,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Thai Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7958336",
+            "lng": "105.77664349999998"
+        },
+        {
+            "id": 562295,
+            "name": "Đường Ngõ Ngọc Lan",
+            "pid": 15214,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngõ Ngọc Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7958336",
+            "lng": "105.77664349999998"
+        },
+        {
+            "id": 699331,
+            "name": "Đường Tân An",
+            "pid": 15214,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7958336",
+            "lng": "105.77664349999998"
+        }
+    ],
+    "log_id": "67590a2389105112"
+}

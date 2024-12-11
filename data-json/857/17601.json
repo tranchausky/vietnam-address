@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455677,
+            "name": "Thôn Chà Đung",
+            "pid": 17601,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chà Đung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8831417",
+            "lng": "108.96377499999994"
+        },
+        {
+            "id": 455681,
+            "name": "Thôn Ha Lá Hạ",
+            "pid": 17601,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ha Lá Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8831417",
+            "lng": "108.96377499999994"
+        },
+        {
+            "id": 455683,
+            "name": "Thôn Ma Oai",
+            "pid": 17601,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Oai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8831417",
+            "lng": "108.96377499999994"
+        },
+        {
+            "id": 455679,
+            "name": "Thôn Ma Ty",
+            "pid": 17601,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Ty",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8831417",
+            "lng": "108.96377499999994"
+        }
+    ],
+    "log_id": "675817b97aeb2802"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 14522,
+            "name": "Đường Bắc Cường",
+            "pid": 13751,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bắc Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7288473",
+            "lng": "104.88491859999999"
+        },
+        {
+            "id": 15627,
+            "name": "Đường Phạm Khắc Vinh",
+            "pid": 13751,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Khắc Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7206683",
+            "lng": "104.8740345"
+        },
+        {
+            "id": 13769,
+            "name": "Đường Trần Bình Trọng",
+            "pid": 13751,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bình Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7278301",
+            "lng": "104.87097670000003"
+        },
+        {
+            "id": 797956,
+            "name": "Đường Trần Đình Trọng",
+            "pid": 13751,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Trần Đình Trọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7119663",
+            "lng": "104.87902959999997"
+        },
+        {
+            "id": 901381,
+            "name": "Khu Dân Cư Cầu Đền",
+            "pid": 13751,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Dân Cư Cầu Đền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7280946",
+            "lng": "104.87756999999999"
+        },
+        {
+            "id": 605226,
+            "name": "Khu Dân Cư Cường Bắc",
+            "pid": 13751,
+            "type": 8,
+            "region": null,
+            "alias": "Khu dân cư Cường Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7280946",
+            "lng": "104.87756999999999"
+        },
+        {
+            "id": 605229,
+            "name": "Khu Dân Cư Đồng Tiến",
+            "pid": 13751,
+            "type": 5,
+            "region": null,
+            "alias": "Khu dân cư Đồng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7280946",
+            "lng": "104.87756999999999"
+        },
+        {
+            "id": 605235,
+            "name": "Khu Dân Cư Nam Thọ",
+            "pid": 13751,
+            "type": 5,
+            "region": null,
+            "alias": "Khu dân cư Nam Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7280946",
+            "lng": "104.87756999999999"
+        }
+    ],
+    "log_id": "6758131f61e77313"
+}

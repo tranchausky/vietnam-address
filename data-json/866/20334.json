@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462819,
+            "name": "Thôn Chà Măng",
+            "pid": 20334,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chà Măng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1139211",
+            "lng": "107.77546499999994"
+        },
+        {
+            "id": 462815,
+            "name": "Thôn Dỗi",
+            "pid": 20334,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1139211",
+            "lng": "107.77546499999994"
+        },
+        {
+            "id": 462817,
+            "name": "Thôn Ria Hố",
+            "pid": 20334,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ria Hố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1139211",
+            "lng": "107.77546499999994"
+        }
+    ],
+    "log_id": "67590b2636e91755"
+}

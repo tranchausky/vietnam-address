@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 802105,
+            "name": "Big C",
+            "pid": 6000,
+            "type": 10,
+            "region": null,
+            "alias": "Big C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 786844,
+            "name": "Đường Điện Biên",
+            "pid": 6000,
+            "type": 21,
+            "region": null,
+            "alias": "đường điện Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 802096,
+            "name": "Tân An",
+            "pid": 6000,
+            "type": 10,
+            "region": null,
+            "alias": "Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 401559,
+            "name": "Thôn Lương Xá",
+            "pid": 6000,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 401557,
+            "name": "Thôn Phú Ốc",
+            "pid": 6000,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Ốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7b5fb966"
+}

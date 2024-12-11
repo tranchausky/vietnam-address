@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467915,
+            "name": "Đông Quang",
+            "pid": 18810,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8481384",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 467909,
+            "name": "Tập An Bắc",
+            "pid": 18810,
+            "type": 16,
+            "region": null,
+            "alias": "Tập An Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8481384",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 467907,
+            "name": "Tập An Nam",
+            "pid": 18810,
+            "type": 16,
+            "region": null,
+            "alias": "Tập An Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8481384",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 467913,
+            "name": "Thủy Triều",
+            "pid": 18810,
+            "type": 16,
+            "region": null,
+            "alias": "Thủy Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8481384",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 467911,
+            "name": "Văn Trường",
+            "pid": 18810,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8481384",
+            "lng": "108.95616610000002"
+        }
+    ],
+    "log_id": "675909a4cb21c280"
+}

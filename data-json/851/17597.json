@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110203,
+            "name": "Ấp Hòn Heo",
+            "pid": 17597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòn Heo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.178450",
+            "lng": "104.531822"
+        },
+        {
+            "id": 110223,
+            "name": "Ấp Hòn Ngang",
+            "pid": 17597,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòn Ngang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.153741",
+            "lng": "104.522210"
+        }
+    ],
+    "log_id": "6758173645678625"
+}

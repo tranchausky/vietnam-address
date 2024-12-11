@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834895,
+            "name": "Mã Pì Lèng",
+            "pid": 21087,
+            "type": 18,
+            "region": null,
+            "alias": "Mã Pì Lèng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2507611",
+            "lng": "105.38923720000004"
+        },
+        {
+            "id": 571434,
+            "name": "Tà Làng",
+            "pid": 21087,
+            "type": 16,
+            "region": null,
+            "alias": "tà làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2507611",
+            "lng": "105.38923720000003"
+        },
+        {
+            "id": 571431,
+            "name": "Thôn Ngài Lầu",
+            "pid": 21087,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn ngài lầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2507611",
+            "lng": "105.38923720000003"
+        },
+        {
+            "id": 941072,
+            "name": "Trường Tiểu Học Xã Pải Lủng",
+            "pid": 21087,
+            "type": 9,
+            "region": null,
+            "alias": "trường Tiểu Học Xã Pải Lủng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2507611",
+            "lng": "105.38923720000004"
+        }
+    ],
+    "log_id": "675815664bf74262"
+}

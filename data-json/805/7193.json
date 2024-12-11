@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800863,
+            "name": "Chợ Vé",
+            "pid": 7193,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Vé",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267",
+            "lng": "106.39820099999997"
+        },
+        {
+            "id": 397981,
+            "name": "Giâm Me",
+            "pid": 7193,
+            "type": 16,
+            "region": null,
+            "alias": "Giâm Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267",
+            "lng": "106.39820099999997"
+        },
+        {
+            "id": 397977,
+            "name": "Tranh Xuyên",
+            "pid": 7193,
+            "type": 16,
+            "region": null,
+            "alias": "Tranh Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267",
+            "lng": "106.39820099999997"
+        },
+        {
+            "id": 397979,
+            "name": "Vé",
+            "pid": 7193,
+            "type": 16,
+            "region": null,
+            "alias": "Vé",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267",
+            "lng": "106.39820099999997"
+        }
+    ],
+    "log_id": "675813f1bba29553"
+}

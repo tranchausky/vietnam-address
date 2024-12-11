@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 70436,
+            "name": "Bệnh Viện Tim Mạch Tp. Cần Thơ",
+            "pid": 7910,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh Viện Tim Mạch TP. Cần Thơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0342922",
+            "lng": "105.7756399"
+        },
+        {
+            "id": 966238,
+            "name": "Chẵn 2-248 Trần Hưng Đạo",
+            "pid": 7910,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 2-248 Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.037577228962277",
+            "lng": "105.77616475748941"
+        },
+        {
+            "id": 822301,
+            "name": "Đường Lê Anh Xuân",
+            "pid": 7910,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Anh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.039245800000002",
+            "lng": "105.7710624"
+        },
+        {
+            "id": 119375,
+            "name": "Đường Mậu Thân",
+            "pid": 7910,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mậu Thân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.036296",
+            "lng": "105.772320"
+        },
+        {
+            "id": 776011,
+            "name": "Đường Nguyễn Văn Trỗi",
+            "pid": 7910,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Trỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.039245800000002",
+            "lng": "105.7710624"
+        },
+        {
+            "id": 997190,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 7910,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0388925",
+            "lng": "105.7738625"
+        }
+    ],
+    "log_id": "6758140cc3f7a922"
+}

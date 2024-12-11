@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 602910,
+            "name": "Thôn An Hòa",
+            "pid": 16416,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6552431",
+            "lng": "108.99182539999992"
+        },
+        {
+            "id": 602901,
+            "name": "Thôn An Nhơn",
+            "pid": 16416,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Nhơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6552431",
+            "lng": "108.99182539999992"
+        },
+        {
+            "id": 602904,
+            "name": "Thôn An Xuân",
+            "pid": 16416,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6552431",
+            "lng": "108.99182539999992"
+        },
+        {
+            "id": 602913,
+            "name": "Thôn Phước Nhơn 1",
+            "pid": 16416,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phước Nhơn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6552431",
+            "lng": "108.99182539999992"
+        },
+        {
+            "id": 602907,
+            "name": "Thôn Thành Sơn",
+            "pid": 16416,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thành Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6552431",
+            "lng": "108.99182539999992"
+        }
+    ],
+    "log_id": "675817b979d1b182"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640927,
+            "name": "Đại An",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "Đại An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640933,
+            "name": "Hà Dục Tây",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Dục Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640930,
+            "name": "Hà Tân",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640924,
+            "name": "Tân An",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640918,
+            "name": "Tân Hà",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640936,
+            "name": "Thôn Hoằng Phước Bắc",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hoằng Phước Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        },
+        {
+            "id": 640921,
+            "name": "Tịnh Đông Tây",
+            "pid": 22139,
+            "type": 16,
+            "region": null,
+            "alias": "Tịnh Đông Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.851525",
+            "lng": "108.010202"
+        }
+    ],
+    "log_id": "675817e1ab282465"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 794332,
+            "name": "Đông Khê",
+            "pid": 15717,
+            "type": 16,
+            "region": null,
+            "alias": "đông Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0626443",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 826363,
+            "name": "Lạc Hoài",
+            "pid": 15717,
+            "type": 16,
+            "region": null,
+            "alias": "Lạc Hoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0626443",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 629001,
+            "name": "Thôn Đạo Tú",
+            "pid": 15717,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đạo Tú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0626443",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 628998,
+            "name": "Thôn Tú Tháp",
+            "pid": 15717,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tú Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0626443",
+            "lng": "106.09047209999994"
+        }
+    ],
+    "log_id": "675815f8ca0cd928"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1012084,
+            "name": "Thôn Hồng Kỳ",
+            "pid": 18668,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5005959",
+            "lng": "105.7455279"
+        },
+        {
+            "id": 875035,
+            "name": "Thôn Hồng Quang",
+            "pid": 18668,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4946413",
+            "lng": "105.74098520000008"
+        }
+    ],
+    "log_id": "67590a23b0fa1129"
+}

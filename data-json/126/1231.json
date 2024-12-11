@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 679135,
+            "name": "Đường Âu Cơ",
+            "pid": 1231,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Âu Cơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7713612",
+            "lng": "106.650272"
+        },
+        {
+            "id": 678469,
+            "name": "Đường Bình Thới",
+            "pid": 1231,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7672014",
+            "lng": "106.649742"
+        },
+        {
+            "id": 683737,
+            "name": "Đường Ông Ích Khiêm",
+            "pid": 1231,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ông Ích Khiêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7656068",
+            "lng": "106.6458819"
+        }
+    ],
+    "log_id": "6758129ae5ec3925"
+}

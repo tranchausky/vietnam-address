@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 864241,
+            "name": "Phú Quý",
+            "pid": 15486,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5917032",
+            "lng": "108.52850720000004"
+        },
+        {
+            "id": 899524,
+            "name": "Phú Thạnh",
+            "pid": 15486,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5917032",
+            "lng": "108.52850720000004"
+        },
+        {
+            "id": 899539,
+            "name": "Trường Thpt Duy Tân",
+            "pid": 15486,
+            "type": 21,
+            "region": null,
+            "alias": "Trường THPT Duy Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5917032",
+            "lng": "108.52850720000004"
+        }
+    ],
+    "log_id": "675817e1c0e7a231"
+}

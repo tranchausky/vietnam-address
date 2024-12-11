@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434263,
+            "name": "Ấp Sa Bâu",
+            "pid": 7616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sa Bâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.68310",
+            "lng": "105.90000"
+        },
+        {
+            "id": 434257,
+            "name": "Ấp Trà Canh A1",
+            "pid": 7616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Canh A1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.68147",
+            "lng": "105.92618"
+        },
+        {
+            "id": 434259,
+            "name": "Ấp Trà Canh A2",
+            "pid": 7616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Canh A2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.68581",
+            "lng": "105.91519"
+        },
+        {
+            "id": 434261,
+            "name": "Ấp Trà Canh B",
+            "pid": 7616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Canh B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.66877",
+            "lng": "105.90850"
+        },
+        {
+            "id": 434265,
+            "name": "Ấp Trà Quýt B",
+            "pid": 7616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Quýt B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.68791",
+            "lng": "105.88369"
+        }
+    ],
+    "log_id": "675909c1945ee277"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93962,
+            "name": "Ấp Bưng Cần",
+            "pid": 6952,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Cần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.887651",
+            "lng": "107.290222"
+        },
+        {
+            "id": 93959,
+            "name": "Ấp Chiến Thắng",
+            "pid": 6952,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chiến Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.887651",
+            "lng": "107.290222"
+        },
+        {
+            "id": 93953,
+            "name": "Ấp Hòa Bình",
+            "pid": 6952,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.887651",
+            "lng": "107.290222"
+        },
+        {
+            "id": 93956,
+            "name": "Ấp Hòa Hợp",
+            "pid": 6952,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Hợp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.887651",
+            "lng": "107.290222"
+        }
+    ],
+    "log_id": "675814dd0ae0c284"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111181,
+            "name": "Ấp An Biên",
+            "pid": 16614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5639847",
+            "lng": "104.92720439999994"
+        },
+        {
+            "id": 111191,
+            "name": "Ấp Phú Cường",
+            "pid": 16614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.56398474",
+            "lng": "104.92720439999994"
+        },
+        {
+            "id": 111167,
+            "name": "Ấp Tân Biên",
+            "pid": 16614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5639847",
+            "lng": "104.92720439999994"
+        }
+    ],
+    "log_id": "6758159dd4699463"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995360,
+            "name": "Đường Đồng Lợi",
+            "pid": 77990,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Đồng Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.333426561153082",
+            "lng": " 103.84150156305942"
+        },
+        {
+            "id": 606765,
+            "name": "Tổ 1",
+            "pid": 77990,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.334509",
+            "lng": "103.841628"
+        },
+        {
+            "id": 606768,
+            "name": "Tổ 2",
+            "pid": 77990,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.334509",
+            "lng": "103.841628"
+        },
+        {
+            "id": 606771,
+            "name": "Tổ 3",
+            "pid": 77990,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.334509",
+            "lng": "103.841628"
+        }
+    ],
+    "log_id": "6758144515f50252"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411717,
+            "name": "Duyên Hà",
+            "pid": 22260,
+            "type": 16,
+            "region": null,
+            "alias": "Duyên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5448002",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 411719,
+            "name": "Kinh Hào",
+            "pid": 22260,
+            "type": 16,
+            "region": null,
+            "alias": "Kinh Hào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5448002",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 411721,
+            "name": "Thôn Kinh Nậu",
+            "pid": 22260,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kinh Nậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5448002",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 411723,
+            "name": "Thôn Lãm Khê",
+            "pid": 22260,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lãm Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5448002",
+            "lng": "106.41997549999996"
+        }
+    ],
+    "log_id": "675909f3782f4136"
+}

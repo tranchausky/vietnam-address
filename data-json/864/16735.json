@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412985,
+            "name": "Xóm Bình",
+            "pid": 16735,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4600334",
+            "lng": "105.97750070000006"
+        },
+        {
+            "id": 412979,
+            "name": "Xóm Điềm Thụy",
+            "pid": 16735,
+            "type": 18,
+            "region": null,
+            "alias": "xóm điềm thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4600334",
+            "lng": "105.97750070000006"
+        },
+        {
+            "id": 412977,
+            "name": "Xóm Ngọc Sơn",
+            "pid": 16735,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Ngọc sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "ádfghjkdf",
+            "lng": "105.97750070000006"
+        },
+        {
+            "id": 412981,
+            "name": "Xóm Thuần Pháp",
+            "pid": 16735,
+            "type": 18,
+            "region": null,
+            "alias": "xóm thuần pháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4600334",
+            "lng": "105.97750070000006"
+        },
+        {
+            "id": 412983,
+            "name": "Xóm Trung",
+            "pid": 16735,
+            "type": 18,
+            "region": null,
+            "alias": "xóm trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4600334",
+            "lng": "105.97750070000006"
+        }
+    ],
+    "log_id": "67590a09ba9f1729"
+}

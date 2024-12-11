@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443879,
+            "name": "Thôn Long Hòa",
+            "pid": 18243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.428251",
+            "lng": "109.082122"
+        },
+        {
+            "id": 443877,
+            "name": "Thôn Long Mỹ",
+            "pid": 18243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.428251",
+            "lng": "109.082122"
+        },
+        {
+            "id": 443883,
+            "name": "Thôn Long Nguyên",
+            "pid": 18243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Nguyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.428251",
+            "lng": "109.082122"
+        },
+        {
+            "id": 443881,
+            "name": "Thôn Long Thạch",
+            "pid": 18243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.428251",
+            "lng": "109.082122"
+        },
+        {
+            "id": 828328,
+            "name": "Ubnd Xã Xuân Long",
+            "pid": 18243,
+            "type": 21,
+            "region": null,
+            "alias": "UBND xã Xuân Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.428251",
+            "lng": "109.082122"
+        }
+    ],
+    "log_id": "67590b80b3082682"
+}

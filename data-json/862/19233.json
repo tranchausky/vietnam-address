@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110625,
+            "name": "Khu Phố Gia Lâm",
+            "pid": 19233,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Gia Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.050184",
+            "lng": "106.360714"
+        },
+        {
+            "id": 110737,
+            "name": "Khu Phố Gia Tân",
+            "pid": 19233,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Gia Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.065547",
+            "lng": "106.355763"
+        },
+        {
+            "id": 110793,
+            "name": "Khu Phố Lộc Khê",
+            "pid": 19233,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lộc Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.084819",
+            "lng": "106.339850"
+        },
+        {
+            "id": 110471,
+            "name": "Khu Phố Lộc Trát",
+            "pid": 19233,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lộc Trát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.049905",
+            "lng": "106.344782"
+        },
+        {
+            "id": 110425,
+            "name": "Khu Phố Tân Lộc",
+            "pid": 19233,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.045375",
+            "lng": "106.346977"
+        }
+    ],
+    "log_id": "675909dcef154168"
+}

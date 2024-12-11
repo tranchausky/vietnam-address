@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 580605,
+            "name": "Xóm Tràng Thọ",
+            "pid": 21633,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tràng Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7238667",
+            "lng": "105.3921656"
+        },
+        {
+            "id": 530881,
+            "name": "Xóm Trường Lĩnh",
+            "pid": 21633,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trường Lĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7238667",
+            "lng": "105.3921656"
+        },
+        {
+            "id": 580602,
+            "name": "Xóm Trường Xuân",
+            "pid": 21633,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trường Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7238667",
+            "lng": "105.3921656"
+        },
+        {
+            "id": 580599,
+            "name": "Xóm Xuân Tường",
+            "pid": 21633,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Xuân Tường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7238667",
+            "lng": "105.3921656"
+        }
+    ],
+    "log_id": "67581208c3560759"
+}

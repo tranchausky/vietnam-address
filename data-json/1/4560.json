@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54094,
+            "name": "Tòa Nhà Trạm Y Tế Đông Quang",
+            "pid": 4560,
+            "type": 4,
+            "region": null,
+            "alias": "tòa nhà Trạm y tế Đông Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54098,
+            "name": "Tòa Nhà Ubnd Xã Đông Quang",
+            "pid": 4560,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà UBND xã Đông Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb7ac4d494"
+}

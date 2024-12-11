@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434323,
+            "name": "Ấp An Tập",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Tập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.65920",
+            "lng": "105.88322"
+        },
+        {
+            "id": 434321,
+            "name": "Ấp An Trạch",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.65645",
+            "lng": "105.93991"
+        },
+        {
+            "id": 434313,
+            "name": "Ấp Bưng Tróp A",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Tróp A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.63645",
+            "lng": "105.90365"
+        },
+        {
+            "id": 434311,
+            "name": "Ấp Bưng Tróp B",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Tróp B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.64057",
+            "lng": "105.91528"
+        },
+        {
+            "id": 434315,
+            "name": "Ấp Giồng Chùa A",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Chùa A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.64504",
+            "lng": "105.93038"
+        },
+        {
+            "id": 434317,
+            "name": "Ấp Giồng Chùa B",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Chùa B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.65499",
+            "lng": "105.90725"
+        },
+        {
+            "id": 434319,
+            "name": "Ấp Phụng Hiệp",
+            "pid": 7612,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phụng Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.64585",
+            "lng": "105.95549"
+        },
+        {
+            "id": 70476,
+            "name": "Kcn An Nghiệp",
+            "pid": 7612,
+            "type": 5,
+            "region": null,
+            "alias": "KCN An Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.643013",
+            "lng": "105.9611748"
+        }
+    ],
+    "log_id": "675909c1959a3861"
+}

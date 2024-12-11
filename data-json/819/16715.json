@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631200,
+            "name": "Thôn Bình Minh",
+            "pid": 16715,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7213004",
+            "lng": "107.33757909999997"
+        },
+        {
+            "id": 631203,
+            "name": "Thôn Bình Ngọc",
+            "pid": 16715,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7213004",
+            "lng": "107.33757909999997"
+        },
+        {
+            "id": 631206,
+            "name": "Thôn Ngọc Hải",
+            "pid": 16715,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ngọc Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7213004",
+            "lng": "107.33757909999997"
+        },
+        {
+            "id": 631209,
+            "name": "Thôn Ngọc Nam",
+            "pid": 16715,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ngọc Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7213004",
+            "lng": "107.33757909999997"
+        }
+    ],
+    "log_id": "675814c22f374674"
+}

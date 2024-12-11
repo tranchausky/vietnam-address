@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571407,
+            "name": "Nà Tằm",
+            "pid": 21083,
+            "type": 16,
+            "region": null,
+            "alias": "nà tằm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0865683",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 571410,
+            "name": "Thôn Nà Nông",
+            "pid": 21083,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn nà nông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0865683",
+            "lng": "105.34824600000002"
+        }
+    ],
+    "log_id": "6758156645580702"
+}

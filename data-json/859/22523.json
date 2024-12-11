@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467287,
+            "name": "Đắc Ngọn",
+            "pid": 22523,
+            "type": 16,
+            "region": null,
+            "alias": "Đắc Ngọn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6615534",
+            "lng": "107.36122999999998"
+        },
+        {
+            "id": 467289,
+            "name": "Pa Lan",
+            "pid": 22523,
+            "type": 16,
+            "region": null,
+            "alias": "Pa Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6615534",
+            "lng": "107.36122999999998"
+        },
+        {
+            "id": 467285,
+            "name": "Pà Oi",
+            "pid": 22523,
+            "type": 16,
+            "region": null,
+            "alias": "Pà Oi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6615534",
+            "lng": "107.36122999999998"
+        }
+    ],
+    "log_id": "675817e1b7000125"
+}

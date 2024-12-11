@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442519,
+            "name": "Ấp Bình Công",
+            "pid": 7390,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2403718",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 442515,
+            "name": "Ấp Bình Thạnh",
+            "pid": 7390,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2403718",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 442517,
+            "name": "Ấp Phú Lợi",
+            "pid": 7390,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2403718",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 758278,
+            "name": "Bình Thành",
+            "pid": 7390,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2403718",
+            "lng": "106.34343579999997"
+        },
+        {
+            "id": 883285,
+            "name": "Mỹ Thành",
+            "pid": 7390,
+            "type": 17,
+            "region": null,
+            "alias": "Mỹ Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2403718",
+            "lng": "106.34343579999997"
+        }
+    ],
+    "log_id": "6758160dbe228229"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 815905,
+            "name": "Khuổi Lùng",
+            "pid": 21955,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Lùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1477516",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 815908,
+            "name": "Khuổi Ngành",
+            "pid": 21955,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Ngành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1477516",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 727963,
+            "name": "Nà Kéo",
+            "pid": 21955,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Kéo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1477516",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 730351,
+            "name": "Nà Lùng",
+            "pid": 21955,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1477516",
+            "lng": "106.3191551"
+        }
+    ],
+    "log_id": "6758133ecee96638"
+}

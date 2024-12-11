@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 945716,
+            "name": "Đường Nguyễn Cảnh Chân",
+            "pid": 1203,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Cảnh Chân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.758698",
+            "lng": "106.687985"
+        },
+        {
+            "id": 945704,
+            "name": "Đường Nguyễn Văn Cừ",
+            "pid": 1203,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.754691",
+            "lng": "106.686568"
+        },
+        {
+            "id": 945689,
+            "name": "Đường Trần Đình Xu",
+            "pid": 1203,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Đình Xu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.761262",
+            "lng": "106.690138"
+        },
+        {
+            "id": 945710,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 1203,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757502",
+            "lng": "106.690419"
+        },
+        {
+            "id": 945677,
+            "name": "Nhà Sách Xuân Thu",
+            "pid": 1203,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà sách Xuân Thu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.760151",
+            "lng": "106.688765"
+        },
+        {
+            "id": 958296,
+            "name": "Thẩm Mỹ Viện Nevada",
+            "pid": 1203,
+            "type": 4,
+            "region": null,
+            "alias": "Thẩm mỹ viện Nevada",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7597253",
+            "lng": "106.6888551"
+        }
+    ],
+    "log_id": "6758129b20d5a119"
+}

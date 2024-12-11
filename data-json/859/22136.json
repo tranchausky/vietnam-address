@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641149,
+            "name": "Thôn Phước Bình",
+            "pid": 22136,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.705851",
+            "lng": "108.107938"
+        },
+        {
+            "id": 641152,
+            "name": "Thôn Trung Yên",
+            "pid": 22136,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.705851",
+            "lng": "108.107938"
+        }
+    ],
+    "log_id": "675817e185d53204"
+}

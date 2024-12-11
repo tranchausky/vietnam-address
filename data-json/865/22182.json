@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562149,
+            "name": "Đội 1",
+            "pid": 22182,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 562151,
+            "name": "Đội 2",
+            "pid": 22182,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 562157,
+            "name": "Thôn Ang",
+            "pid": 22182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 562155,
+            "name": "Thôn Bắc Nặm",
+            "pid": 22182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc Nặm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 562145,
+            "name": "Thôn Chiềng Nang",
+            "pid": 22182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chiềng Nang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 562147,
+            "name": "Thôn Chiềng Viên",
+            "pid": 22182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chiềng Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 562153,
+            "name": "Thôn Trô",
+            "pid": 22182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0783455",
+            "lng": "105.23118269999998"
+        }
+    ],
+    "log_id": "67590a2390e06652"
+}

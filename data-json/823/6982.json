@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88244,
+            "name": "Ấp 5",
+            "pid": 6982,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.718673535078265",
+            "lng": "107.02712530203634"
+        },
+        {
+            "id": 88211,
+            "name": "Ấp Đất Mới",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Đất Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7329232",
+            "lng": "106.9844186"
+        },
+        {
+            "id": 88166,
+            "name": "Ấp Phước Hoà",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Phước Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.720613941895596",
+            "lng": "107.02374475376904"
+        },
+        {
+            "id": 88568,
+            "name": "Ấp Tập Phước",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Tập Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.718353164478643",
+            "lng": "106.99502324182866"
+        },
+        {
+            "id": 992943,
+            "name": "Cây Xăng Bà Ký",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "Cây xăng Bà Ký",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.727646395275443",
+            "lng": "106.98539033443146"
+        },
+        {
+            "id": 992949,
+            "name": "Đình Bà Ký",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "đình bà ký",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.72191449045127",
+            "lng": "106.97636911024347"
+        },
+        {
+            "id": 987857,
+            "name": "Ngã Tư 67",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã tư 67",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.711488088270878",
+            "lng": "107.00682225067644"
+        },
+        {
+            "id": 952176,
+            "name": "Trường Lilama",
+            "pid": 6982,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Lilama",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.700801101022579",
+            "lng": "107.01371686604804"
+        },
+        {
+            "id": 88241,
+            "name": "Xóm Gò Bà Ký",
+            "pid": 6982,
+            "type": 21,
+            "region": null,
+            "alias": "Xóm Gò Bà Ký",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5020093",
+            "lng": "105.5430409"
+        }
+    ],
+    "log_id": "675814dd580ff789"
+}

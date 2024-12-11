@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109459,
+            "name": "Ấp Cây Chôm",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cây Chôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.183792",
+            "lng": "104.848929"
+        },
+        {
+            "id": 109439,
+            "name": "Ấp Huỳnh Sơn",
+            "pid": 15999,
+            "type": 20,
+            "region": null,
+            "alias": "ấp Huỳnh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.190491",
+            "lng": "104.888263"
+        },
+        {
+            "id": 109503,
+            "name": "Ấp Lình Huỳnh",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Lình Huỳnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.150059",
+            "lng": "104.853920"
+        },
+        {
+            "id": 109477,
+            "name": "Ấp Vàm Biển",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vàm Biển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.166958",
+            "lng": "104.868126"
+        },
+        {
+            "id": 966713,
+            "name": "Cầu Cả Cội",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "Cầu Cả Cội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1716933",
+            "lng": "104.8711983"
+        },
+        {
+            "id": 966521,
+            "name": "Cống Tà Lức",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "Cống Tà Lức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1301478",
+            "lng": "104.8635441"
+        },
+        {
+            "id": 966587,
+            "name": "Đồn Biên Phòng",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "Đồn Biên Phòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1429607",
+            "lng": "104.8554057"
+        },
+        {
+            "id": 966520,
+            "name": "Trạm Biên Phòng",
+            "pid": 15999,
+            "type": 17,
+            "region": null,
+            "alias": "Trạm Biên Phòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1424978",
+            "lng": "104.8477681"
+        }
+    ],
+    "log_id": "675817364b134637"
+}

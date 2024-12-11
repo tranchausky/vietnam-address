@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 987403,
+            "name": "Cổng Trước Công Ty Áo Vàng",
+            "pid": 6042,
+            "type": 4,
+            "region": null,
+            "alias": "Cổng Trước Công Ty Áo Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.029842898427678, 106.660142148708",
+            "lng": "11.029842898427678, 106.660142148708"
+        },
+        {
+            "id": 80783,
+            "name": "Nhà Ở Xã Hội Becamex Định Hòa",
+            "pid": 6042,
+            "type": 21,
+            "region": null,
+            "alias": "Nhà ở xã hội Becamex Định Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.051163",
+            "lng": "106.661046"
+        }
+    ],
+    "log_id": "6758162192509485"
+}

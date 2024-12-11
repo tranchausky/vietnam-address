@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599748,
+            "name": "Bình Đông",
+            "pid": 6563,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3481219",
+            "lng": "106.5429507"
+        },
+        {
+            "id": 599745,
+            "name": "Bình Tây",
+            "pid": 6563,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3481219",
+            "lng": "106.5429507"
+        },
+        {
+            "id": 599739,
+            "name": "Bình Trung",
+            "pid": 6563,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3481219",
+            "lng": "106.5429507"
+        },
+        {
+            "id": 599742,
+            "name": "Tân Thạnh",
+            "pid": 6563,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3481219",
+            "lng": "106.5429507"
+        },
+        {
+            "id": 599736,
+            "name": "Thạnh Lạc Đông",
+            "pid": 6563,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh Lạc Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3481219",
+            "lng": "106.5429507"
+        }
+    ],
+    "log_id": "675814f3d139d251"
+}

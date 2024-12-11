@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 610224,
+            "name": "Thôn Bảy",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bảy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        },
+        {
+            "id": 610233,
+            "name": "Thôn Bình Voi",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bình voi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        },
+        {
+            "id": 610221,
+            "name": "Thôn Đông",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        },
+        {
+            "id": 610227,
+            "name": "Thôn Dưới",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn dưới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        },
+        {
+            "id": 610218,
+            "name": "Thôn Nhất",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        },
+        {
+            "id": 610236,
+            "name": "Thôn Tân Mỹ",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tân mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        },
+        {
+            "id": 610230,
+            "name": "Thôn Tây",
+            "pid": 6895,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1912742",
+            "lng": "106.25665359999994"
+        }
+    ],
+    "log_id": "675813d928587949"
+}

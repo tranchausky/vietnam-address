@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 961767,
+            "name": "808 - Lý Thái Tổ - Phường Phú Tân",
+            "pid": 6047,
+            "type": 8,
+            "region": null,
+            "alias": "808 - Lý Thái Tổ - Phường Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.051250649628466",
+            "lng": " 106.6915358832082"
+        },
+        {
+            "id": 848893,
+            "name": "Khu Phố 2, Phường Phú Tân",
+            "pid": 6047,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2, phường Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11°02'42.6\"N",
+            "lng": "106°41'23.9\"E"
+        }
+    ],
+    "log_id": "6758162193d4e151"
+}

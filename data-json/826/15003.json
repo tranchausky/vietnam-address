@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 702769,
+            "name": "Cầu Đen",
+            "pid": 15003,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu đen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.831846300000002",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 578280,
+            "name": "Thôn Đông Bình",
+            "pid": 15003,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8318463",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 578277,
+            "name": "Thôn Ngọc Thạnh",
+            "pid": 15003,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8318463",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 578283,
+            "name": "Thôn Thọ Lộc 1",
+            "pid": 15003,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thọ Lộc 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8318463",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 578286,
+            "name": "Thôn Thọ Lộc 2",
+            "pid": 15003,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thọ Lộc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8318463",
+            "lng": "109.05720859999997"
+        }
+    ],
+    "log_id": "6758150da6d3e338"
+}

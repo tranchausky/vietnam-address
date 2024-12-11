@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452033,
+            "name": "Ấp 4",
+            "pid": 7298,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6957335",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 452035,
+            "name": "Ấp 5",
+            "pid": 7298,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6957335",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 452031,
+            "name": "Ấp Vàm Gừa",
+            "pid": 7298,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Vàm Gừa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6957335",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 452029,
+            "name": "Ấp Võ Văn Be",
+            "pid": 7298,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Võ Văn Be",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6957335",
+            "lng": "105.79380689999994"
+        }
+    ],
+    "log_id": "675817853bba5337"
+}

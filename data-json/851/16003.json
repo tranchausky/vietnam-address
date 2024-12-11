@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110787,
+            "name": "Ấp Mỹ Thái",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mỹ Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.227924",
+            "lng": "105.020654"
+        },
+        {
+            "id": 110797,
+            "name": "Ấp Thái Hưng",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thái Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.275501",
+            "lng": "105.042598"
+        },
+        {
+            "id": 110777,
+            "name": "Ấp Thái Tân",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thái Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.222971",
+            "lng": "104.985149"
+        },
+        {
+            "id": 110805,
+            "name": "Ấp Thái Thịnh",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thái Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289185",
+            "lng": "105.058834"
+        },
+        {
+            "id": 110813,
+            "name": "Ấp Thái Tiến",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thái Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.267197",
+            "lng": "105.024548"
+        },
+        {
+            "id": 968634,
+            "name": "Công An Xã Mỹ Thái",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "Công An Xã Mỹ Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.227813",
+            "lng": "105.020693"
+        },
+        {
+            "id": 1003926,
+            "name": "Trạm Y Tế Xã Mỹ Thái",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "Trạm y tế xã Mỹ Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.227924",
+            "lng": "105.020654"
+        },
+        {
+            "id": 1003917,
+            "name": "Trường Mẫu Giáo Mỹ Thái",
+            "pid": 16003,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mẫu Giáo Mỹ Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.267197",
+            "lng": "105.024548"
+        },
+        {
+            "id": 968633,
+            "name": "Ubnd Xã Mỹ Thái",
+            "pid": 16003,
+            "type": 17,
+            "region": null,
+            "alias": "UBND xã Mỹ Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.227707",
+            "lng": "105.029778"
+        }
+    ],
+    "log_id": "6758173645b1c578"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115259,
+            "name": "Thôn Phú Mỹ",
+            "pid": 4915,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8591067",
+            "lng": "105.9071151"
+        },
+        {
+            "id": 115253,
+            "name": "Thôn Thư Dương",
+            "pid": 4915,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thư Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8577934",
+            "lng": "105.8961324"
+        },
+        {
+            "id": 115249,
+            "name": "Thôn Vĩnh Lộc",
+            "pid": 4915,
+            "type": 6,
+            "region": null,
+            "alias": "thôn Vĩnh Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8627753",
+            "lng": "105.9037313"
+        },
+        {
+            "id": 55638,
+            "name": "Ubnd Xã Thư Phú",
+            "pid": 4915,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thư Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc74116783"
+}

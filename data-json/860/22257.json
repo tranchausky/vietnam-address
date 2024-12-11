@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609375,
+            "name": "Ba Nhà",
+            "pid": 22257,
+            "type": 16,
+            "region": null,
+            "alias": "Ba Nhà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8029211",
+            "lng": "108.62943840000003"
+        },
+        {
+            "id": 609381,
+            "name": "Nước Lô",
+            "pid": 22257,
+            "type": 16,
+            "region": null,
+            "alias": "Nước Lô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8029211",
+            "lng": "108.62943840000003"
+        },
+        {
+            "id": 609378,
+            "name": "Thôn Gò Khôn",
+            "pid": 22257,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gò Khôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8029211",
+            "lng": "108.62943840000003"
+        }
+    ],
+    "log_id": "675909a4bdef1284"
+}

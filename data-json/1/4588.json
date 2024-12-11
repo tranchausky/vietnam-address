@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 994889,
+            "name": "Chợ Đông Phương Yên",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Chợ Đông Phương Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.917853",
+            "lng": "105.64111946"
+        },
+        {
+            "id": 117293,
+            "name": "Đồi 1",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Đồi 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9137445",
+            "lng": "105.6375871"
+        },
+        {
+            "id": 117313,
+            "name": "Đồi 2",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Đồi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9192066",
+            "lng": "105.6323884"
+        },
+        {
+            "id": 117315,
+            "name": "Đồi 3",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Đồi 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9188868",
+            "lng": " 105.636854"
+        },
+        {
+            "id": 117323,
+            "name": "Đông Cựu",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Cựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9279402",
+            "lng": "105.6328902"
+        },
+        {
+            "id": 117317,
+            "name": "Lũng Vị",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Lũng Vị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9263809",
+            "lng": "105.6419858"
+        },
+        {
+            "id": 54234,
+            "name": "Ubnd Xã Đông Phương Yên",
+            "pid": 4588,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Đông Phương Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 117319,
+            "name": "Yên Kiện",
+            "pid": 4588,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Kiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9278589",
+            "lng": "105.6339216"
+        }
+    ],
+    "log_id": "675811bb73307978"
+}

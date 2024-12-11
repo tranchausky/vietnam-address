@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 607731,
+            "name": "Bon Bu Đăk",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Bon Bu Đăk",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3907296",
+            "lng": "107.58602129999997"
+        },
+        {
+            "id": 607728,
+            "name": "Bon Sapa",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Bon sapa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3907296",
+            "lng": "107.58602129999997"
+        },
+        {
+            "id": 118709,
+            "name": "Thôn Đức An",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.416090",
+            "lng": "107.580258"
+        },
+        {
+            "id": 118675,
+            "name": "Thôn Đức Hòa",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.390153",
+            "lng": "107.587591"
+        },
+        {
+            "id": 731635,
+            "name": "Thôn Thuận Bắc",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3907296",
+            "lng": "107.58602129999996"
+        },
+        {
+            "id": 731629,
+            "name": "Thôn Thuận Hạnh",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Hạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3907296",
+            "lng": "107.58602129999996"
+        },
+        {
+            "id": 118637,
+            "name": "Thôn Thuận Hòa",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.398336",
+            "lng": "107.568070"
+        },
+        {
+            "id": 118159,
+            "name": "Thôn Thuận Nam",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.392233",
+            "lng": "107.585836"
+        },
+        {
+            "id": 731632,
+            "name": "Thôn Thuận Sơn",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3907296",
+            "lng": "107.58602129999996"
+        },
+        {
+            "id": 118745,
+            "name": "Thôn Thuận Thành",
+            "pid": 19328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.409215",
+            "lng": "107.557428"
+        }
+    ],
+    "log_id": "67581691198ea404"
+}

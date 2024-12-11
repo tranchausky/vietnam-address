@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 886738,
+            "name": "Khuổi Luông",
+            "pid": 87566,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3066478",
+            "lng": "105.9582372"
+        },
+        {
+            "id": 937463,
+            "name": "Thôn Khuổi Bốc",
+            "pid": 87566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Khuổi Bốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3066478",
+            "lng": "105.9582372"
+        }
+    ],
+    "log_id": "675815c94099d222"
+}

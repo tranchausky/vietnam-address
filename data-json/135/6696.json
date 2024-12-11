@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412047,
+            "name": "Thôn Đoài",
+            "pid": 6696,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7280301",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 412045,
+            "name": "Thôn Đông",
+            "pid": 6696,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7280301",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 412049,
+            "name": "Thôn Mai Dương",
+            "pid": 6696,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7280301",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 412041,
+            "name": "Thôn Nghi Dương",
+            "pid": 6696,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghi Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7280301",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 412043,
+            "name": "Thôn Xuân Chiếng",
+            "pid": 6696,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Chiếng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7280301",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 1017416,
+            "name": "Ubnd, Công An Xã Ngũ Phúc, Huyện Kiến Thuỵ, Hải Phòng",
+            "pid": 6696,
+            "type": 10,
+            "region": null,
+            "alias": "UBND, Công an xã Ngũ Phúc, Huyện Kiến Thuỵ, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.733016",
+            "lng": "106.6190979"
+        }
+    ],
+    "log_id": "6758136645dc2301"
+}

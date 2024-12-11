@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 983390,
+            "name": "Đường Hà Đông 2",
+            "pid": 5341,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hà Đông 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983392,
+            "name": "Đường Hà Đông 3",
+            "pid": 5341,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hà Đông 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983387,
+            "name": "Đường Hà Khê",
+            "pid": 5341,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hà Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d179327849"
+}

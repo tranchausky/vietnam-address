@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434581,
+            "name": "Ấp An Bình",
+            "pid": 7623,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8901831",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 434589,
+            "name": "Ấp An Ninh",
+            "pid": 7623,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8901831",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 434587,
+            "name": "Ấp An Ninh 2",
+            "pid": 7623,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Ninh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8901831",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 434583,
+            "name": "Ấp An Thới",
+            "pid": 7623,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8901831",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 434585,
+            "name": "Ấp Phèn Đen",
+            "pid": 7623,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phèn Đen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8901831",
+            "lng": "105.92886410000006"
+        }
+    ],
+    "log_id": "675909c181e36932"
+}

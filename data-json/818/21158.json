@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910987,
+            "name": "Bắc Sơn",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.734433",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 462055,
+            "name": "Đông Bắc",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.734433",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 462053,
+            "name": "Mới",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.734433",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 462047,
+            "name": "Nam Thủy",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.734433",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 462051,
+            "name": "Thượng Thủy",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.734433",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 462049,
+            "name": "Trung Thủy",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.734433",
+            "lng": "106.34785069999998"
+        },
+        {
+            "id": 895222,
+            "name": "Xuân Thủy",
+            "pid": 21158,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.6885751",
+            "lng": "106.3640398"
+        }
+    ],
+    "log_id": "675814aa03f90460"
+}

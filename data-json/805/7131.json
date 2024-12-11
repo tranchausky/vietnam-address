@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 796213,
+            "name": "Thôn Cộng Hòa",
+            "pid": 7131,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Cộng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9102924",
+            "lng": "106.25147879999996"
+        },
+        {
+            "id": 638793,
+            "name": "Thôn Ha Xá",
+            "pid": 7131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ha Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9102924",
+            "lng": "106.25147879999997"
+        },
+        {
+            "id": 725803,
+            "name": "Thôn Hòa Bình",
+            "pid": 7131,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9102924",
+            "lng": "106.25147879999996"
+        },
+        {
+            "id": 638790,
+            "name": "Thôn Kim Xá",
+            "pid": 7131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9102924",
+            "lng": "106.25147879999997"
+        },
+        {
+            "id": 638796,
+            "name": "Thôn Quảng Cư",
+            "pid": 7131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9102924",
+            "lng": "106.25147879999997"
+        }
+    ],
+    "log_id": "675813f16510b979"
+}

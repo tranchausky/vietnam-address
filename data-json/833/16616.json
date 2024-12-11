@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110127,
+            "name": "Ấp Đông Hưng",
+            "pid": 16616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6533543",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 110101,
+            "name": "Ấp Tây Hưng",
+            "pid": 16616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6533543",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 110085,
+            "name": "Ấp Trung Bắc Hưng",
+            "pid": 16616,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Bắc Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6533543",
+            "lng": "105.0031457"
+        }
+    ],
+    "log_id": "6758159dd5c3e729"
+}

@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 701524,
+            "name": "Bệnh Viện Thái An",
+            "pid": 15161,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh Viện Thái An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999996"
+        },
+        {
+            "id": 532061,
+            "name": "Công An Phường Đội Cung",
+            "pid": 15161,
+            "type": 4,
+            "region": null,
+            "alias": "Công An Phường Đội Cung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 532065,
+            "name": "Công Ty 471",
+            "pid": 15161,
+            "type": 4,
+            "region": null,
+            "alias": "Công Ty 471",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 580959,
+            "name": "Đào Tấn",
+            "pid": 15161,
+            "type": 21,
+            "region": null,
+            "alias": "Đào Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 532067,
+            "name": "Đội Cung",
+            "pid": 15161,
+            "type": 21,
+            "region": null,
+            "alias": "Đội Cung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 808888,
+            "name": "Ngõ Cổng Chốt",
+            "pid": 15161,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Cổng Chốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999996"
+        },
+        {
+            "id": 579924,
+            "name": "Nguyễn Thị Định",
+            "pid": 15161,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Thị Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 532071,
+            "name": "Nguyễn Tiềm",
+            "pid": 15161,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Tiềm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 532075,
+            "name": "Trần Nhật Duật",
+            "pid": 15161,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Nhật Duật",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 532089,
+            "name": "Ubnd Phường Đội Cung",
+            "pid": 15161,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Phường Đội Cung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        },
+        {
+            "id": 532077,
+            "name": "Vệ Định",
+            "pid": 15161,
+            "type": 21,
+            "region": null,
+            "alias": "Vệ Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6726468",
+            "lng": "105.66544739999995"
+        }
+    ],
+    "log_id": "67581209a724531"
+}

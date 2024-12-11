@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 730654,
+            "name": "Cty Gỗ Tam Minh",
+            "pid": 16181,
+            "type": 5,
+            "region": null,
+            "alias": "CTY Gỗ Tam Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 940316,
+            "name": "Ngã Tư Thiên Đàng",
+            "pid": 16181,
+            "type": 10,
+            "region": null,
+            "alias": "Ngã tư Thiên Đàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 631899,
+            "name": "Phước Thành",
+            "pid": 16181,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 631884,
+            "name": "Thôn Hải Ninh",
+            "pid": 16181,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 631887,
+            "name": "Thôn Trung An",
+            "pid": 16181,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 988693,
+            "name": "Thôn Vĩnh An",
+            "pid": 16181,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.381933641334115",
+            "lng": "108.76886061999802"
+        },
+        {
+            "id": 899572,
+            "name": "Toàn An",
+            "pid": 16181,
+            "type": 18,
+            "region": null,
+            "alias": "Toàn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 631896,
+            "name": "Xóm Phước An",
+            "pid": 16181,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phước An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 631902,
+            "name": "Xóm Tây An",
+            "pid": 16181,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tây An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        }
+    ],
+    "log_id": "675909a4de6b9919"
+}

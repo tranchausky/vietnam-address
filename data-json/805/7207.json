@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514125,
+            "name": "An Dương",
+            "pid": 7207,
+            "type": 16,
+            "region": null,
+            "alias": "An Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7136102",
+            "lng": "106.22792240000001"
+        },
+        {
+            "id": 514127,
+            "name": "Chiều Dương",
+            "pid": 7207,
+            "type": 16,
+            "region": null,
+            "alias": "Chiều Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7136102",
+            "lng": "106.22792240000001"
+        },
+        {
+            "id": 514129,
+            "name": "Hội Yên",
+            "pid": 7207,
+            "type": 16,
+            "region": null,
+            "alias": "Hội Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7136102",
+            "lng": "106.22792240000001"
+        }
+    ],
+    "log_id": "675813f1e0348404"
+}

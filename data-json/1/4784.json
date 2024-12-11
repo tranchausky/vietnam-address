@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53430,
+            "name": "Thpt Vân Cốc",
+            "pid": 4784,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Vân Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 55034,
+            "name": "Ubnd Xã Vân Nam",
+            "pid": 4784,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Vân Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 117927,
+            "name": "Vĩnh Thuận",
+            "pid": 4784,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.151335",
+            "lng": "105.5855438"
+        },
+        {
+            "id": 807697,
+            "name": "Xóm Lầy",
+            "pid": 4784,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Lầy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1491318",
+            "lng": "105.6089981"
+        }
+    ],
+    "log_id": "675811bd3da0f402"
+}

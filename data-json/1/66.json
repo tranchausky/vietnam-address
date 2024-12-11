@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 546,
+            "name": "Đoàn Thị Điểm",
+            "pid": 66,
+            "type": 2,
+            "region": null,
+            "alias": "Đoàn Thị Điểm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0263432",
+            "lng": "105.83224110000003"
+        },
+        {
+            "id": 829300,
+            "name": "Đường Đoàn Thị Điểm",
+            "pid": 66,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Thị Điểm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0272556",
+            "lng": "105.83269919999998"
+        },
+        {
+            "id": 829546,
+            "name": "Đường Hồ Giám",
+            "pid": 66,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Giám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0272556",
+            "lng": "105.83269919999998"
+        },
+        {
+            "id": 881368,
+            "name": "Đường Ngõ Thông Phong",
+            "pid": 66,
+            "type": 21,
+            "region": null,
+            "alias": "Đường ngõ Thông Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,025752",
+            "lng": "105,833355"
+        },
+        {
+            "id": 35784,
+            "name": "Ngõ Thông Phong",
+            "pid": 66,
+            "type": 2,
+            "region": null,
+            "alias": "ngõ Thông Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.025292",
+            "lng": "105.83574290000001"
+        },
+        {
+            "id": 941,
+            "name": "Ngõ Thông Phong",
+            "pid": 66,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Thông Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0255475",
+            "lng": "105.83506729999999"
+        }
+    ],
+    "log_id": "675811bbe948a36"
+}

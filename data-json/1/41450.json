@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876544,
+            "name": "Đường Trích Sài",
+            "pid": 41450,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trích Sài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04833",
+            "lng": "105.808627"
+        },
+        {
+            "id": 876547,
+            "name": "Đường Võng Thị",
+            "pid": 41450,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võng Thị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04833",
+            "lng": "105.808627"
+        }
+    ],
+    "log_id": "675811bd69834945"
+}

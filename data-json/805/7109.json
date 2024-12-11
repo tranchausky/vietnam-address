@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398191,
+            "name": "Đại Hà",
+            "pid": 7109,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7486865",
+            "lng": "106.42227969999999"
+        },
+        {
+            "id": 398193,
+            "name": "Hà Hải",
+            "pid": 7109,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7486865",
+            "lng": "106.42227969999999"
+        },
+        {
+            "id": 398195,
+            "name": "Trạch Lộ",
+            "pid": 7109,
+            "type": 16,
+            "region": null,
+            "alias": "Trạch Lộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7486865",
+            "lng": "106.42227969999999"
+        }
+    ],
+    "log_id": "675813f1df871325"
+}

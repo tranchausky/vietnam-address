@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443905,
+            "name": "Thôn Bàn Thạch",
+            "pid": 16476,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bàn Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 443911,
+            "name": "Thôn Hiệp Đồng",
+            "pid": 16476,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 443913,
+            "name": "Thôn Phú Khê 1",
+            "pid": 16476,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khê 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 443915,
+            "name": "Thôn Phú Khê 2",
+            "pid": 16476,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khê 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 443907,
+            "name": "Thôn Thạch Tuân 1",
+            "pid": 16476,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Tuân 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 443909,
+            "name": "Thôn Thạch Tuân 2",
+            "pid": 16476,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Tuân 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 828598,
+            "name": "Trường Thcs Nguyễn Chí Thanh",
+            "pid": 16476,
+            "type": 21,
+            "region": null,
+            "alias": "Trường THCS Nguyễn Chí Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        }
+    ],
+    "log_id": "67590b80c1385829"
+}

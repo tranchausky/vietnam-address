@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 460935,
+            "name": "An Thạch",
+            "pid": 18812,
+            "type": 16,
+            "region": null,
+            "alias": "An Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8928688",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 460933,
+            "name": "An Thổ",
+            "pid": 18812,
+            "type": 16,
+            "region": null,
+            "alias": "An Thổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8928688",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 460937,
+            "name": "Hội An 1",
+            "pid": 18812,
+            "type": 16,
+            "region": null,
+            "alias": "Hội An 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8928688",
+            "lng": "108.95616610000002"
+        },
+        {
+            "id": 460939,
+            "name": "Hội An 2",
+            "pid": 18812,
+            "type": 16,
+            "region": null,
+            "alias": "Hội An 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8928688",
+            "lng": "108.95616610000002"
+        }
+    ],
+    "log_id": "675909a4c8d03874"
+}

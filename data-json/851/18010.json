@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113833,
+            "name": "Ấp Đông Thọ A",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Thọ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.053837",
+            "lng": "105.222175"
+        },
+        {
+            "id": 113841,
+            "name": "Ấp Đông Thọ B",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Thọ B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.016046",
+            "lng": "105.243212"
+        },
+        {
+            "id": 113853,
+            "name": "Ấp Tàu Hơi A",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tàu Hơi A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.970875",
+            "lng": "105.288475"
+        },
+        {
+            "id": 113867,
+            "name": "Ấp Tàu Hơi B",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tàu Hơi B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.970875",
+            "lng": "105.288475"
+        },
+        {
+            "id": 113899,
+            "name": "Ấp Thạnh An 1",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh An 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.972957",
+            "lng": "105.290893"
+        },
+        {
+            "id": 113889,
+            "name": "Ấp Thạnh Trị",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.970875",
+            "lng": "105.288475"
+        },
+        {
+            "id": 113879,
+            "name": "Ấp Thạnh Trúc",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Trúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.970875",
+            "lng": "105.288475"
+        },
+        {
+            "id": 1004335,
+            "name": "Trạm Y Tế Xã Thạnh Trị",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Trạm y tế xã Thạnh Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.016046",
+            "lng": "105.243212"
+        },
+        {
+            "id": 1004326,
+            "name": "Trường Mẫu Giáo Thạnh Trị",
+            "pid": 18010,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mẫu Giáo Thạnh Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.016046",
+            "lng": "105.243212"
+        },
+        {
+            "id": 1004338,
+            "name": "Trường Thcs Đông Thọ",
+            "pid": 18010,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Đông Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.016046",
+            "lng": "105.243212"
+        },
+        {
+            "id": 1004337,
+            "name": "Trường Tiểu Học Và Thcs Đông Thọ",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "Trường Tiểu học và THCS Đông Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.053837",
+            "lng": "105.222175"
+        },
+        {
+            "id": 1004332,
+            "name": "Ubnd Xã Thạnh Trị",
+            "pid": 18010,
+            "type": 17,
+            "region": null,
+            "alias": "UBND xã Thạnh Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.016046",
+            "lng": "105.243212"
+        }
+    ],
+    "log_id": "6758173626c53667"
+}

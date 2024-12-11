@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 13666,
+            "name": "Phường Đức Xuân",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đức Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1413077",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 13736,
+            "name": "Phường Huyền Tụng",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Huyền Tụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1717336",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 13712,
+            "name": "Phường Nguyễn Thị Minh Khai",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nguyễn Thị Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1542051",
+            "lng": "105.84517579999999"
+        },
+        {
+            "id": 13721,
+            "name": "Phường Phùng Chí Kiên",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Phùng Chí Kiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1308765",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 13718,
+            "name": "Phường Sông Cầu",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Sông Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1436327",
+            "lng": "105.82022340000003"
+        },
+        {
+            "id": 13726,
+            "name": "Phường Xuất Hóa",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Xuất Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1050606",
+            "lng": "105.88774940000008"
+        },
+        {
+            "id": 13732,
+            "name": "Xã Dương Quang",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Dương Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.165956",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 13678,
+            "name": "Xã Nông Thượng",
+            "pid": 1505,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nông Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1120373",
+            "lng": "105.81728810000004"
+        }
+    ],
+    "log_id": "675815c90af7a895"
+}

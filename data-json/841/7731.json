@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 438227,
+            "name": "Dinh Hạn",
+            "pid": 7731,
+            "type": 17,
+            "region": null,
+            "alias": "Dinh Hạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6340159",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 438225,
+            "name": "Nhà Diệu",
+            "pid": 7731,
+            "type": 17,
+            "region": null,
+            "alias": "Nhà Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6340159",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 438231,
+            "name": "Ô Rô",
+            "pid": 7731,
+            "type": 17,
+            "region": null,
+            "alias": "Ô Rô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6340159",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 438223,
+            "name": "Xẻo Mắm",
+            "pid": 7731,
+            "type": 17,
+            "region": null,
+            "alias": "Xẻo Mắm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6340159",
+            "lng": "105.04405199999997"
+        }
+    ],
+    "log_id": "6758164db56a6814"
+}

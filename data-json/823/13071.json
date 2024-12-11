@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 791431,
+            "name": "Hẻm 703",
+            "pid": 13071,
+            "type": 10,
+            "region": null,
+            "alias": "Hẻm 703",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.926897",
+            "lng": "106.81609709999998"
+        },
+        {
+            "id": 92984,
+            "name": "Khu Phố 1 - P. Bửu Hòa",
+            "pid": 13071,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - P. Bửu Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7756587",
+            "lng": "106.7004238"
+        },
+        {
+            "id": 92987,
+            "name": "Khu Phố 2 - P. Bửu Hòa",
+            "pid": 13071,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - P. Bửu Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9700672",
+            "lng": "106.8749268"
+        },
+        {
+            "id": 92990,
+            "name": "Khu Phố 3 - P. Bửu Hòa",
+            "pid": 13071,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - P. Bửu Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1309966",
+            "lng": "106.6129209"
+        },
+        {
+            "id": 92993,
+            "name": "Khu Phố 4 - P. Bửu Hòa",
+            "pid": 13071,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4 - P. Bửu Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7574561",
+            "lng": "106.5903461"
+        },
+        {
+            "id": 92996,
+            "name": "Khu Phố 5 - P. Bửu Hòa",
+            "pid": 13071,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5 - P. Bửu Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.867473",
+            "lng": "106.726325"
+        }
+    ],
+    "log_id": "675814dd581c1107"
+}

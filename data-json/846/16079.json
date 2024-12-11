@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113659,
+            "name": "Ấp Bình Chánh",
+            "pid": 16079,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.563183",
+            "lng": "105.554117"
+        },
+        {
+            "id": 113633,
+            "name": "Ấp Bình Định",
+            "pid": 16079,
+            "type": 21,
+            "region": null,
+            "alias": "ấp Bình Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.563183",
+            "lng": "105.554117"
+        },
+        {
+            "id": 113691,
+            "name": "Ấp Bình Hòa",
+            "pid": 16079,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.563183",
+            "lng": "105.554117"
+        },
+        {
+            "id": 113719,
+            "name": "Ấp Bình Thuận",
+            "pid": 16079,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.563183",
+            "lng": "105.554117"
+        },
+        {
+            "id": 113705,
+            "name": "Ấp Bình Trung",
+            "pid": 16079,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.563183",
+            "lng": "105.554117"
+        }
+    ],
+    "log_id": "675816c0375f4148"
+}

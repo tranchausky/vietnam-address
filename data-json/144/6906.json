@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928366,
+            "name": "Tân Linh",
+            "pid": 6906,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1733608",
+            "lng": "106.26104039999996"
+        },
+        {
+            "id": 765364,
+            "name": "Ubnd",
+            "pid": 6906,
+            "type": 10,
+            "region": null,
+            "alias": "ubnd",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1733608",
+            "lng": "106.26104039999996"
+        },
+        {
+            "id": 877831,
+            "name": "Xóm Bắc An",
+            "pid": 6906,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bắc an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1733608",
+            "lng": "106.26104039999996"
+        }
+    ],
+    "log_id": "675813d929ceb990"
+}

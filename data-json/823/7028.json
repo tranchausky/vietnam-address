@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93869,
+            "name": "Khu Phố Cẩm Tân",
+            "pid": 7028,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Cẩm Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.904308",
+            "lng": "107.232882"
+        },
+        {
+            "id": 93878,
+            "name": "Khu Phố Nông Doanh",
+            "pid": 7028,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Nông Doanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.900632",
+            "lng": "107.242345"
+        },
+        {
+            "id": 93872,
+            "name": "Khu Phố Tân Phong",
+            "pid": 7028,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Tân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.897084",
+            "lng": "107.228258"
+        }
+    ],
+    "log_id": "675814dd6168b702"
+}

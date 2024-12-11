@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 743437,
+            "name": "Ấp 1",
+            "pid": 7443,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0425358",
+            "lng": "106.59666590000006"
+        },
+        {
+            "id": 441283,
+            "name": "Ấp Hưng Nhơn",
+            "pid": 7443,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP HƯNG NHƠN",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 441287,
+            "name": "Ấp Kinh Mới",
+            "pid": 7443,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP KINH MỚI",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 441289,
+            "name": "Ấp Tân An",
+            "pid": 7443,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP TÂN AN",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 441285,
+            "name": "Ấp Tân Khai",
+            "pid": 7443,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP TÂN KHAI",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 441281,
+            "name": "Ấp Xẻo Sâu",
+            "pid": 7443,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP XẺO SÂU",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 732424,
+            "name": "Khu Phố 6",
+            "pid": 7443,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 743452,
+            "name": "Tân Khai",
+            "pid": 7443,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Khai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0567895",
+            "lng": "106.49359800000002"
+        }
+    ],
+    "log_id": "6758160deae8f173"
+}

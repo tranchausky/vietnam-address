@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 36466,
+            "name": "Kcn Phú Mỹ 3",
+            "pid": 6609,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Phú Mỹ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5640726",
+            "lng": "107.05952330000002"
+        },
+        {
+            "id": 444753,
+            "name": "Khu Phố Hải Sơn",
+            "pid": 6609,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5146084",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 444751,
+            "name": "Khu Phố Lam Sơn",
+            "pid": 6609,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5146084",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 444755,
+            "name": "Khu Phố Phước Sơn",
+            "pid": 6609,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5146084",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 444749,
+            "name": "Khu Phố Tân Lộc",
+            "pid": 6609,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5146084",
+            "lng": "107.04803779999997"
+        }
+    ],
+    "log_id": "675815b4139bd569"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629232,
+            "name": "Phạm Kham",
+            "pid": 20146,
+            "type": 16,
+            "region": null,
+            "alias": "Phạm kham",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9594191",
+            "lng": "106.01993549999997"
+        },
+        {
+            "id": 629238,
+            "name": "Quang Trung",
+            "pid": 20146,
+            "type": 16,
+            "region": null,
+            "alias": "quang trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9594191",
+            "lng": "106.01993549999997"
+        },
+        {
+            "id": 629223,
+            "name": "Thôn Hồng Thái",
+            "pid": 20146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hồng thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9594191",
+            "lng": "106.01993549999997"
+        },
+        {
+            "id": 629235,
+            "name": "Thôn Minh Hải",
+            "pid": 20146,
+            "type": 16,
+            "region": null,
+            "alias": "thôn minh hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9594191",
+            "lng": "106.01993549999997"
+        },
+        {
+            "id": 928879,
+            "name": "Thôn Thị Trung",
+            "pid": 20146,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thị Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9594191",
+            "lng": "106.01993549999996"
+        }
+    ],
+    "log_id": "67581490b5e24576"
+}

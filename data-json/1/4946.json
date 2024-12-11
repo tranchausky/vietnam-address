@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102227,
+            "name": "Đồng Xung",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Xung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7093041",
+            "lng": "105.8440749"
+        },
+        {
+            "id": 102200,
+            "name": "Khả Lạc",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Khả Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7151144",
+            "lng": "105.8400383"
+        },
+        {
+            "id": 102209,
+            "name": "Mỹ Cầu",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7097007",
+            "lng": "105.843708"
+        },
+        {
+            "id": 120159,
+            "name": "Thái Bằng",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Thái Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.706011",
+            "lng": "105.8444419"
+        },
+        {
+            "id": 53666,
+            "name": "Thpt Ứng Hoà B",
+            "pid": 4946,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Ứng Hoà B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 102218,
+            "name": "Tứ Kì",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Tứ Kì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7097007",
+            "lng": "105.843708"
+        },
+        {
+            "id": 102188,
+            "name": "Vọng Tân",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Vọng Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7097007",
+            "lng": "105.843708"
+        },
+        {
+            "id": 102254,
+            "name": "Xuân Tình",
+            "pid": 4946,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Tình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7028219",
+            "lng": "105.8514145"
+        }
+    ],
+    "log_id": "675811bd3d9a6856"
+}

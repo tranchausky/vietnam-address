@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630759,
+            "name": "Thôn Ngũ Lão",
+            "pid": 16934,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngũ lão",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7517647",
+            "lng": "106.20015360000002"
+        },
+        {
+            "id": 630750,
+            "name": "Thôn Quang Xá",
+            "pid": 16934,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quang xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7517647",
+            "lng": "106.20015360000002"
+        },
+        {
+            "id": 630753,
+            "name": "Thôn Thọ Lão",
+            "pid": 16934,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thọ lão",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7517647",
+            "lng": "106.20015360000002"
+        },
+        {
+            "id": 630747,
+            "name": "Thôn Viên Quang",
+            "pid": 16934,
+            "type": 16,
+            "region": null,
+            "alias": "thôn viên quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7517647",
+            "lng": "106.20015360000002"
+        }
+    ],
+    "log_id": "67581490ce95f918"
+}

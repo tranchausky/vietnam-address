@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 754030,
+            "name": "Thình Phù",
+            "pid": 17976,
+            "type": 18,
+            "region": null,
+            "alias": "Thình Phù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6724053",
+            "lng": "106.55767049999996"
+        },
+        {
+            "id": 1014734,
+            "name": "Xóm Hòa Bình",
+            "pid": 17976,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.676870",
+            "lng": "106.527300"
+        },
+        {
+            "id": 1014733,
+            "name": "Xóm Kim Bảng",
+            "pid": 17976,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Kim Bảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.678691",
+            "lng": "106.519061"
+        },
+        {
+            "id": 1014898,
+            "name": "Xuân Yên A",
+            "pid": 17976,
+            "type": 18,
+            "region": null,
+            "alias": "Xuân Yên A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.680757",
+            "lng": "106.550498"
+        },
+        {
+            "id": 1015121,
+            "name": "Xuân Yên B",
+            "pid": 17976,
+            "type": 18,
+            "region": null,
+            "alias": "Xuân Yên B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.687778",
+            "lng": "106.557107"
+        }
+    ],
+    "log_id": "6758166285467489"
+}

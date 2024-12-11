@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 916363,
+            "name": "Cát Động",
+            "pid": 4867,
+            "type": 16,
+            "region": null,
+            "alias": "Cát động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 116149,
+            "name": "Thôn Hoạch An",
+            "pid": 4867,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoạch an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.757230",
+            "lng": "20.846008"
+        },
+        {
+            "id": 116101,
+            "name": "Thôn Ngọc Liên",
+            "pid": 4867,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn ngọc liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.754150",
+            "lng": "20.845229"
+        },
+        {
+            "id": 116139,
+            "name": "Thôn Tràng Cát",
+            "pid": 4867,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tràng cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.739910",
+            "lng": "20.842494"
+        },
+        {
+            "id": 55466,
+            "name": "Ubnd Xã Kim An",
+            "pid": 4867,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Kim An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd6b637436"
+}

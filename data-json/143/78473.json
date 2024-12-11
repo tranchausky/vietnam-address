@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465537,
+            "name": "Thôn An Thơ",
+            "pid": 78473,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6923637",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 627906,
+            "name": "Thôn Câu Hà",
+            "pid": 78473,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Câu Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6706103",
+            "lng": "107.30801859999997"
+        },
+        {
+            "id": 627888,
+            "name": "Thôn Hội Điền",
+            "pid": 78473,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6923637",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 465541,
+            "name": "Thôn Hưng Nhơn",
+            "pid": 78473,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Hưng Nhơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6923637",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 465539,
+            "name": "Thôn Phú Kinh",
+            "pid": 78473,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6923637",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 627912,
+            "name": "Thôn Phú Kinh Phường",
+            "pid": 78473,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Kinh Phường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6923637",
+            "lng": "107.31984239999997"
+        },
+        {
+            "id": 465545,
+            "name": "Thôn Văn Qũy",
+            "pid": 78473,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Qũy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6706103",
+            "lng": "107.30801859999997"
+        },
+        {
+            "id": 465543,
+            "name": "Thôn Văn Trị",
+            "pid": 78473,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6706103",
+            "lng": "107.30801859999997"
+        }
+    ],
+    "log_id": "675813bc604c3903"
+}

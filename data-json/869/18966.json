@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 787222,
+            "name": "Buôn Ma Gú",
+            "pid": 18966,
+            "type": 21,
+            "region": null,
+            "alias": "Buôn Ma Gú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1431691",
+            "lng": "108.95022319999998"
+        },
+        {
+            "id": 111693,
+            "name": "Thôn Hòn Ông",
+            "pid": 18966,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòn Ông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189",
+            "lng": "109.023206"
+        },
+        {
+            "id": 111757,
+            "name": "Thôn Ma Gú",
+            "pid": 18966,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Gú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.145445",
+            "lng": "108.947515"
+        },
+        {
+            "id": 111725,
+            "name": "Thôn Tân Bình",
+            "pid": 18966,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.145445",
+            "lng": "108.947515"
+        },
+        {
+            "id": 111739,
+            "name": "Thôn Tân Hiên",
+            "pid": 18966,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.145445",
+            "lng": "108.947515"
+        },
+        {
+            "id": 111711,
+            "name": "Thôn Tân Hòa",
+            "pid": 18966,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.145445",
+            "lng": "108.947515"
+        },
+        {
+            "id": 847957,
+            "name": "Ubnd Xã Sơn Phước",
+            "pid": 18966,
+            "type": 10,
+            "region": null,
+            "alias": "UBND xã Sơn Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1431691",
+            "lng": "108.95022319999998"
+        }
+    ],
+    "log_id": "67590b809b00b529"
+}

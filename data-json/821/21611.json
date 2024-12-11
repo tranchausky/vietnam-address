@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 580788,
+            "name": "Xóm Đông Nam Sơn",
+            "pid": 21611,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đông Nam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7016195",
+            "lng": "105.45074239999997"
+        },
+        {
+            "id": 530839,
+            "name": "Xóm Ngọc Chùa",
+            "pid": 21611,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ngọc Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7016195",
+            "lng": "105.45074239999997"
+        },
+        {
+            "id": 701836,
+            "name": "Xóm Tân Phong",
+            "pid": 21611,
+            "type": 18,
+            "region": null,
+            "alias": "xóm tân phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7016195",
+            "lng": "105.45074239999997"
+        },
+        {
+            "id": 580785,
+            "name": "Xóm Văn Thịnh",
+            "pid": 21611,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Văn Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7016195",
+            "lng": "105.45074239999997"
+        }
+    ],
+    "log_id": "67581208bfc02409"
+}

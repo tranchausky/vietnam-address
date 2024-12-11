@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411601,
+            "name": "Phong Lôi Tây",
+            "pid": 21042,
+            "type": 16,
+            "region": null,
+            "alias": "Phong Lôi Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5452787",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 411595,
+            "name": "Thôn Long Bối",
+            "pid": 21042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Bối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5452787",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 411597,
+            "name": "Thôn Long Bối Đông",
+            "pid": 21042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Bối Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5452787",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 411599,
+            "name": "Thôn Phong Lôi Đông",
+            "pid": 21042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phong Lôi Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5452787",
+            "lng": "106.35520919999999"
+        }
+    ],
+    "log_id": "675909f377d5d100"
+}

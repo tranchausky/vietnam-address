@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 464783,
+            "name": "Thôn 37",
+            "pid": 19799,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 37",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4938635",
+            "lng": "107.04213240000001"
+        },
+        {
+            "id": 464785,
+            "name": "Thôn Cựp",
+            "pid": 19799,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cựp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4938635",
+            "lng": "107.04213240000001"
+        },
+        {
+            "id": 464779,
+            "name": "Thôn Húc Nghì",
+            "pid": 19799,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Húc Nghì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4938635",
+            "lng": "107.04213240000001"
+        },
+        {
+            "id": 464781,
+            "name": "Thôn La Tó",
+            "pid": 19799,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Tó",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4938635",
+            "lng": "107.04213240000001"
+        }
+    ],
+    "log_id": "675813bc146ff248"
+}

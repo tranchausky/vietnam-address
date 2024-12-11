@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 103328,
+            "name": "Thôn An Kỳ",
+            "pid": 15516,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.205964",
+            "lng": "108.905007"
+        },
+        {
+            "id": 102974,
+            "name": "Thôn An Vĩnh",
+            "pid": 15516,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.206317",
+            "lng": "108.915250"
+        },
+        {
+            "id": 103427,
+            "name": "Thôn Kỳ Xuyên",
+            "pid": 15516,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kỳ Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.206330",
+            "lng": "108.915149"
+        }
+    ],
+    "log_id": "675909a4d4461981"
+}

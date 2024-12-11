@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91667,
+            "name": "Ấp Tân Bắc",
+            "pid": 7068,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4286046",
+            "lng": "104.6937674"
+        },
+        {
+            "id": 91670,
+            "name": "Ấp Tân Bình",
+            "pid": 7068,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8019644",
+            "lng": "106.6417258"
+        },
+        {
+            "id": 91664,
+            "name": "Ấp Trà Cổ",
+            "pid": 7068,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Cổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.483996",
+            "lng": "108.059866"
+        },
+        {
+            "id": 996506,
+            "name": "Gia Linh Shop",
+            "pid": 7068,
+            "type": 10,
+            "region": null,
+            "alias": "GIA LINH SHOP",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.945060135903335",
+            "lng": " 106.97296806185204"
+        },
+        {
+            "id": 884911,
+            "name": "Phòng Khám Đk Bảo Anh",
+            "pid": 7068,
+            "type": 17,
+            "region": null,
+            "alias": "Phòng Khám ĐK Bảo Anh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.95339",
+            "lng": "106.97718269999996"
+        },
+        {
+            "id": 996505,
+            "name": "Tạp Hóa Phương Thảo",
+            "pid": 7068,
+            "type": 10,
+            "region": null,
+            "alias": "Tạp Hóa Phương Thảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.946485608061066",
+            "lng": "106.97496807173097"
+        }
+    ],
+    "log_id": "675814dd3b983484"
+}

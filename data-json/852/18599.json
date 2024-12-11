@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 626700,
+            "name": "Thôn 8",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 626703,
+            "name": "Thôn 9",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 626706,
+            "name": "Thôn 10",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 626709,
+            "name": "Thôn 11",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 626712,
+            "name": "Thôn 12",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 12",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 626715,
+            "name": "Thôn 13",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 13",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 626718,
+            "name": "Thôn 14",
+            "pid": 18599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 14",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4366872",
+            "lng": "108.17844549999995"
+        }
+    ],
+    "log_id": "6758174ccb6c1611"
+}

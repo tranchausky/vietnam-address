@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 711841,
+            "name": "Làng Wet",
+            "pid": 15868,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Wet",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.082318",
+            "lng": "108.039577"
+        },
+        {
+            "id": 711832,
+            "name": "Thôn Ngô Sơn",
+            "pid": 15868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngô Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.082356",
+            "lng": "108.039402"
+        }
+    ],
+    "log_id": "675816d31d1f6141"
+}

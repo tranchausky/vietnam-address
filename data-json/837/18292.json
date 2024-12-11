@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114845,
+            "name": "Thôn Bồng Lai",
+            "pid": 18292,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bồng Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0194628",
+            "lng": "106.2639352"
+        },
+        {
+            "id": 113711,
+            "name": "Thôn Lai Hạ",
+            "pid": 18292,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lai Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0194628",
+            "lng": "106.2639352"
+        },
+        {
+            "id": 882730,
+            "name": "Thôn Thanh Khê",
+            "pid": 18292,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0172783",
+            "lng": "106.27428020000002"
+        },
+        {
+            "id": 862675,
+            "name": "Thôn Văn Phạm",
+            "pid": 18292,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Phạm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0172783",
+            "lng": "106.27428020000002"
+        }
+    ],
+    "log_id": "675815f8ccf36363"
+}

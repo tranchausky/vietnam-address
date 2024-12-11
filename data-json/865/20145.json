@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 813187,
+            "name": "Thôn 8",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 558301,
+            "name": "Thôn Bái Hà Xuân",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bái Hà Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 558295,
+            "name": "Thôn Đông Hòa",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 900307,
+            "name": "Thôn Đông Thượng",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 558299,
+            "name": "Thôn Hòa Lan",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 558291,
+            "name": "Thôn Hữu Nghĩa",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hữu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 558297,
+            "name": "Thôn Phú Mỹ",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 558293,
+            "name": "Thôn Xuân Phú",
+            "pid": 20145,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8963534",
+            "lng": "105.90536889999998"
+        }
+    ],
+    "log_id": "67590a2308c69818"
+}

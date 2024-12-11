@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 904357,
+            "name": "Cầu Tre",
+            "pid": 4819,
+            "type": 18,
+            "region": null,
+            "alias": "Cầu Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3322109",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 904360,
+            "name": "Sân Golf",
+            "pid": 4819,
+            "type": 18,
+            "region": null,
+            "alias": "Sân Golf",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3322109",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 908272,
+            "name": "Sân Golf Đại Lải",
+            "pid": 4819,
+            "type": 18,
+            "region": null,
+            "alias": "Sân Golf Đại Lải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2779513",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 53366,
+            "name": "Thpt Minh Trí",
+            "pid": 4819,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Minh Trí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 55214,
+            "name": "Ubnd Xã Minh Trí",
+            "pid": 4819,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Minh Trí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 908230,
+            "name": "Việt Phủ Thành Chương",
+            "pid": 4819,
+            "type": 18,
+            "region": null,
+            "alias": "Việt Phủ Thành Chương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3322109",
+            "lng": "105.78793710000002"
+        }
+    ],
+    "log_id": "675811bc4cc8c371"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462393,
+            "name": "Thôn Kế Môn",
+            "pid": 20352,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kế Môn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7080047",
+            "lng": "107.40262439999992"
+        },
+        {
+            "id": 462391,
+            "name": "Thôn Vĩnh Xương",
+            "pid": 20352,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn VĨnh Xương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7080047",
+            "lng": "107.40262439999992"
+        }
+    ],
+    "log_id": "67590b254fc8e876"
+}

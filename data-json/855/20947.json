@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97106,
+            "name": "Ấp 3 - Xã Đức Hòa Đông",
+            "pid": 20947,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 - xã đức Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.840460",
+            "lng": "106.495871"
+        },
+        {
+            "id": 97109,
+            "name": "Ấp 4 - Xã Đức Hòa Đông",
+            "pid": 20947,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4 - xã Đức Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.840460",
+            "lng": "106.495871"
+        },
+        {
+            "id": 75736,
+            "name": "Ấp 5 - Xã Đức Hòa Đông",
+            "pid": 20947,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5 - xã Đức Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.795774",
+            "lng": "106.502705"
+        },
+        {
+            "id": 97412,
+            "name": "Khu Công Nghiệp Hạnh Phúc- Xã Đức Hoà Đông",
+            "pid": 20947,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Công Nghiệp Hạnh Phúc- Xã Đức Hoà Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10°48'9\"N   ",
+            "lng": "106°30'10\"E"
+        }
+    ],
+    "log_id": "675817850fdef623"
+}

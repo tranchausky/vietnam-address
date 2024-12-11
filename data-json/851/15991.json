@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115187,
+            "name": "Ấp Phước Hòa",
+            "pid": 15991,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.791795",
+            "lng": "107.003426"
+        },
+        {
+            "id": 115195,
+            "name": "Ấp Phước Lợi",
+            "pid": 15991,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.641779",
+            "lng": "106.536139"
+        },
+        {
+            "id": 115225,
+            "name": "Ấp Phước Ninh",
+            "pid": 15991,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.968675",
+            "lng": "105.202777"
+        },
+        {
+            "id": 115205,
+            "name": "Ấp Phước Tân",
+            "pid": 15991,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.926410",
+            "lng": "106.902319"
+        },
+        {
+            "id": 115219,
+            "name": "Ấp Phước Trung",
+            "pid": 15991,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.150107",
+            "lng": "106.043230"
+        }
+    ],
+    "log_id": "675817360bb44185"
+}

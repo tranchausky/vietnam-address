@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995231,
+            "name": "Khu 1, Lũng Hòa, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "khu 1, Lũng hòa, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.26659914890362",
+            "lng": "105.46892385169589"
+        },
+        {
+            "id": 995233,
+            "name": "Khu 2, Lũng Hòa, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "khu 2, Lũng hòa, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.26659914890362",
+            "lng": "105.46892385169589"
+        },
+        {
+            "id": 995234,
+            "name": "Khu 3, Lũng Hòa, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "khu 3, Lũng hòa, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.275201516651943",
+            "lng": "105.46936246822276"
+        },
+        {
+            "id": 995235,
+            "name": "Khu 4, Lũng Hòa, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "khu 4, Lũng hòa, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.45835535091088",
+            "lng": "21.271665929534425"
+        },
+        {
+            "id": 995236,
+            "name": "Khu 5, Lũng Hòa, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "khu 5, Lũng hòa, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.274191357572075",
+            "lng": "105.47157223041036"
+        },
+        {
+            "id": 995237,
+            "name": "Khu 6, Lũng Hòa, Vĩnh Tường, Vĩnh Phúc",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "khu 6, Lũng hòa, Vĩnh Tường, Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.267547446237096",
+            "lng": "105.46773641680169"
+        },
+        {
+            "id": 424171,
+            "name": "Thôn Hòa Loan 1",
+            "pid": 6390,
+            "type": 10,
+            "region": null,
+            "alias": "THôn Hòa Loan 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424173,
+            "name": "Thôn Hòa Loan 2",
+            "pid": 6390,
+            "type": 10,
+            "region": null,
+            "alias": "THôn Hòa Loan 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424175,
+            "name": "Thôn Hòa Loan 3",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "THôn Hòa Loan 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424177,
+            "name": "Thôn Lũng Ngoại 1",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lũng Ngoại 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424179,
+            "name": "Thôn Lũng Ngoại 2",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lũng Ngoại 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424181,
+            "name": "Thôn Lũng Ngoại 3",
+            "pid": 6390,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lũng Ngoại 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        }
+    ],
+    "log_id": "675815337b05d17"
+}

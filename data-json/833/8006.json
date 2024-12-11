@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 965785,
+            "name": "Đường Phan Xích Long",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Xích Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.717362622184403",
+            "lng": "105.11030145762403"
+        },
+        {
+            "id": 965783,
+            "name": "Đường Tây Xuyên",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tây Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.718516313495373",
+            "lng": "105.11206788823343"
+        },
+        {
+            "id": 965766,
+            "name": "Đường Tuy Biên",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tuy Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.734988765789197",
+            "lng": "105.10524819630578"
+        },
+        {
+            "id": 989263,
+            "name": "Đường Nguyễn Hữu Trí",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hữu Trí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.714550162517462, ",
+            "lng": "105.10545955749879"
+        },
+        {
+            "id": 965767,
+            "name": "Kdc Vĩnh Ngươn",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "KDC Vĩnh Ngươn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.717468780740855",
+            "lng": "105.11000396789971"
+        },
+        {
+            "id": 109595,
+            "name": "Khóm Vĩnh Chánh 1",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Chánh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7222677",
+            "lng": "105.10543080000002"
+        },
+        {
+            "id": 109603,
+            "name": "Khóm Vĩnh Chánh 2",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Chánh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7222677",
+            "lng": "105.10543080000002"
+        },
+        {
+            "id": 109611,
+            "name": "Khóm Vĩnh Chánh 3",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Chánh 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7222677",
+            "lng": "105.10543080000002"
+        },
+        {
+            "id": 109647,
+            "name": "Khóm Vĩnh Tân",
+            "pid": 8006,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7222677",
+            "lng": "105.10543080000002"
+        }
+    ],
+    "log_id": "6758159da4966590"
+}

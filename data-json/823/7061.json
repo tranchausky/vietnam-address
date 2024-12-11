@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93704,
+            "name": "Ấp Bắc Sơn",
+            "pid": 7061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.022385",
+            "lng": "107.173016"
+        },
+        {
+            "id": 93713,
+            "name": "Ấp Lạc Sơn",
+            "pid": 7061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lạc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.030828",
+            "lng": "107.216628"
+        },
+        {
+            "id": 93707,
+            "name": "Ấp Lê Lợi",
+            "pid": 7061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.970813",
+            "lng": "107.158475"
+        },
+        {
+            "id": 93701,
+            "name": "Ấp Nam Sơn",
+            "pid": 7061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.013430",
+            "lng": "107.173976"
+        },
+        {
+            "id": 93710,
+            "name": "Ấp Nguyễn Huệ",
+            "pid": 7061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nguyễn Huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.982228",
+            "lng": "107.172010"
+        }
+    ],
+    "log_id": "675814dd3c4cd542"
+}

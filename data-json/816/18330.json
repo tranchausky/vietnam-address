@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758785,
+            "name": "Công Ty May Smart Shirts",
+            "pid": 18330,
+            "type": 21,
+            "region": null,
+            "alias": "Công ty may Smart Shirts",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8047357",
+            "lng": "106.09341169999992"
+        },
+        {
+            "id": 629427,
+            "name": "Thôn Hồng Lương",
+            "pid": 18330,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8830689",
+            "lng": "106.1441264"
+        },
+        {
+            "id": 629421,
+            "name": "Thôn Huệ Lai",
+            "pid": 18330,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Huệ Lai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8830689",
+            "lng": "106.1441264"
+        },
+        {
+            "id": 629424,
+            "name": "Thôn Kim Lũ",
+            "pid": 18330,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Lũ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8830689",
+            "lng": "106.1441264"
+        },
+        {
+            "id": 629415,
+            "name": "Thôn La Mát",
+            "pid": 18330,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Mát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8830689",
+            "lng": "106.1441264"
+        },
+        {
+            "id": 629418,
+            "name": "Thôn Sa Lung",
+            "pid": 18330,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sa Lung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8830689",
+            "lng": "106.1441264"
+        }
+    ],
+    "log_id": "67581491396ae708"
+}

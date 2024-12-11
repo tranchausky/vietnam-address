@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 867637,
+            "name": "Nhân Vực",
+            "pid": 4763,
+            "type": 16,
+            "region": null,
+            "alias": "Nhân Vực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7714636",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 807562,
+            "name": "Thôn Chanh Thôn",
+            "pid": 4763,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chanh Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.771463600000004",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 867640,
+            "name": "Văn Nhân",
+            "pid": 4763,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7714636",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "675811bcd6ce5228"
+}

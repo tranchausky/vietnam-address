@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 468159,
+            "name": "Khóm A Rồng",
+            "pid": 19790,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm A Rồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7065887",
+            "lng": "106.8827427"
+        },
+        {
+            "id": 468153,
+            "name": "Khóm I",
+            "pid": 19790,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7065887",
+            "lng": "106.8827427"
+        },
+        {
+            "id": 468155,
+            "name": "Khóm Ii",
+            "pid": 19790,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7065887",
+            "lng": "106.8827427"
+        },
+        {
+            "id": 468157,
+            "name": "Khóm Khe Xong",
+            "pid": 19790,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Khe Xong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7065887",
+            "lng": "106.8827427"
+        },
+        {
+            "id": 468161,
+            "name": "Khóm Làng Cát",
+            "pid": 19790,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Làng Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7065887",
+            "lng": "106.8827427"
+        }
+    ],
+    "log_id": "675813bc13db5235"
+}

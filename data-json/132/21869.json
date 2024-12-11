@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 417241,
+            "name": "Thôn Chí Lư",
+            "pid": 21869,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chí Lư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5277416",
+            "lng": "104.53815239999994"
+        },
+        {
+            "id": 417239,
+            "name": "Thôn Suối Xuân",
+            "pid": 21869,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5277416",
+            "lng": "104.53815239999994"
+        },
+        {
+            "id": 417237,
+            "name": "Thôn Tà Chử",
+            "pid": 21869,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Chử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5277416",
+            "lng": "104.53815239999994"
+        }
+    ],
+    "log_id": "6758131fa39b1917"
+}

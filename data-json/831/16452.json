@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120987,
+            "name": "Đại Điền Đông 1",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Điền Đông 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.275667",
+            "lng": "109.111167"
+        },
+        {
+            "id": 120989,
+            "name": "Đại Điền Đông 2",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Điền Đông 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.290861",
+            "lng": "109.106778"
+        },
+        {
+            "id": 120991,
+            "name": "Đại Điền Đông 3",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Điền Đông 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.281806",
+            "lng": "109.103611"
+        },
+        {
+            "id": 884029,
+            "name": "Diên Điền",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Diên điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2616224",
+            "lng": "109.09584889999996"
+        },
+        {
+            "id": 120993,
+            "name": "Thôn Trung 1",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.271528",
+            "lng": "109.105583"
+        },
+        {
+            "id": 120995,
+            "name": "Thôn Trung 2",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.273306",
+            "lng": "109.146806"
+        },
+        {
+            "id": 120997,
+            "name": "Thôn Trung 3",
+            "pid": 16452,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.270194",
+            "lng": "109.106306"
+        }
+    ],
+    "log_id": "67581585a89d8908"
+}

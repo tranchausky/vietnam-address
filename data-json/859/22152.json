@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640807,
+            "name": "Thanh Vân",
+            "pid": 22152,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.846751",
+            "lng": " 108.087128"
+        },
+        {
+            "id": 641029,
+            "name": "Thôn Khương Mỹ ,",
+            "pid": 22152,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khương mỹ ,",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.846720",
+            "lng": " 108.087042"
+        },
+        {
+            "id": 641023,
+            "name": "Thôn Ô Gia",
+            "pid": 22152,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ô gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.846720",
+            "lng": " 108.087042"
+        },
+        {
+            "id": 641020,
+            "name": "Thôn Quảng Đại",
+            "pid": 22152,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quảng đại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.846720",
+            "lng": " 108.087042"
+        },
+        {
+            "id": 641026,
+            "name": "Trang Điền - Gia Nam",
+            "pid": 22152,
+            "type": 16,
+            "region": null,
+            "alias": "Trang Điền - Gia Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.846720",
+            "lng": " 108.087042"
+        }
+    ],
+    "log_id": "675817e1aa49545"
+}

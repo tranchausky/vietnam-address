@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 795496,
+            "name": "Bắc Quảng",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "Bắc Quảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 799450,
+            "name": "Khưa Đi",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "Khưa đi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 506441,
+            "name": "Trạm Y Tế Xã Thụy Hùng",
+            "pid": 20515,
+            "type": 6,
+            "region": null,
+            "alias": "Trạm Y Tế Xã Thụy Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 506443,
+            "name": "Trường Mầm Non Thụy Hùng",
+            "pid": 20515,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mầm Non Thụy Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 506445,
+            "name": "Trường Thcs Thụy Hùng",
+            "pid": 20515,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Thụy Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 506447,
+            "name": "Trường Tiểu Học Thụy Hùng",
+            "pid": 20515,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Thụy Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 506449,
+            "name": "Ubnd Xã Thụy Hùng",
+            "pid": 20515,
+            "type": 10,
+            "region": null,
+            "alias": "UBND Xã Thụy Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 398905,
+            "name": "Xóm Bản Néng",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Néng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 398907,
+            "name": "Xóm Bản Sliền",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Sliền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 831244,
+            "name": "Xóm Cốc Bao",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Cốc Bao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 398909,
+            "name": "Xóm Ka Liệng",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ka Liệng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 818164,
+            "name": "Xóm Khưa Đí",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "xóm khưa đí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 398911,
+            "name": "Xóm Khuổi Cáp",
+            "pid": 20515,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khuổi Cáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4851467",
+            "lng": "106.4759262"
+        }
+    ],
+    "log_id": "675816627f693215"
+}

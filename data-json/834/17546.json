@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445145,
+            "name": "Khu Phố Láng Sim",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Láng Sim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        },
+        {
+            "id": 445139,
+            "name": "Khu Phố Phước An",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        },
+        {
+            "id": 445143,
+            "name": "Khu Phố Phước Hòa",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        },
+        {
+            "id": 445141,
+            "name": "Khu Phố Phước Lộc",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phước Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        },
+        {
+            "id": 445151,
+            "name": "Khu Phố Phước Tiến",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        },
+        {
+            "id": 445147,
+            "name": "Khu Phố Thạnh Sơn",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Thạnh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        },
+        {
+            "id": 445149,
+            "name": "Khu Phố Xóm Rẫy",
+            "pid": 17546,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Xóm Rẫy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5353285",
+            "lng": "107.40558140000007"
+        }
+    ],
+    "log_id": "675815b3ece4b23"
+}

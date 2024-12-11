@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 653965,
+            "name": "Thôn Bình Trị",
+            "pid": 19636,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.172242889289304",
+            "lng": "109.05714818370409"
+        },
+        {
+            "id": 659776,
+            "name": "Thôn Tân An",
+            "pid": 19636,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.19461400603226",
+            "lng": "109.07104238930931"
+        },
+        {
+            "id": 659779,
+            "name": "Thôn Trung Thành 1",
+            "pid": 19636,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thành 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.147781812909296",
+            "lng": "109.07282977830808"
+        },
+        {
+            "id": 653935,
+            "name": "Thôn Trung Thành 2",
+            "pid": 19636,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thành 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.167948522235744",
+            "lng": "109.08377256588994"
+        },
+        {
+            "id": 659785,
+            "name": "Thôn Trung Thành 3",
+            "pid": 19636,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thành 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.172443154272397",
+            "lng": " 109.05775186747567"
+        },
+        {
+            "id": 659788,
+            "name": "Thôn Trung Thành 4",
+            "pid": 19636,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thành 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.188165496094859,",
+            "lng": "109.05897876293352"
+        }
+    ],
+    "log_id": "6758150d9de63423"
+}

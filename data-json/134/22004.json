@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1010338,
+            "name": "Bản Cháu",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cháu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.157176444940607",
+            "lng": "106.60426336632021"
+        },
+        {
+            "id": 1008893,
+            "name": "Bản Manh",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Manh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.148066082961343",
+            "lng": "106.64373014868195"
+        },
+        {
+            "id": 1008859,
+            "name": "Bản Pẻn",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pẻn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.162705765261865",
+            "lng": "106.62415988252216"
+        },
+        {
+            "id": 1008892,
+            "name": "Khuổi Trang",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.172129714983352",
+            "lng": "106.65181371690988"
+        },
+        {
+            "id": 1008895,
+            "name": "Nà Tồng",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Tồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.15836047376849",
+            "lng": "106.68732367733969"
+        },
+        {
+            "id": 1008897,
+            "name": "Pá Tặp",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Pá Tặp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.133358504381246",
+            "lng": "106.60591059732987"
+        },
+        {
+            "id": 1008890,
+            "name": "Thôn Pò Hà",
+            "pid": 22004,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pò Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.13242251557992",
+            "lng": "106.62048989002668"
+        }
+    ],
+    "log_id": "6758133f3d131530"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88727,
+            "name": "Ấp 1",
+            "pid": 7048,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.679793",
+            "lng": "106.786871"
+        },
+        {
+            "id": 88733,
+            "name": "Ấp 2",
+            "pid": 7048,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 88730,
+            "name": "Ấp 3",
+            "pid": 7048,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.642257213811826",
+            "lng": "106.83826672558519"
+        },
+        {
+            "id": 991069,
+            "name": "Công Ty Cp Điện Lực Dầu Khí",
+            "pid": 7048,
+            "type": 4,
+            "region": null,
+            "alias": "Công Ty CP Điện Lực Dầu Khí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.641920921378343",
+            "lng": "106.8383762205691"
+        },
+        {
+            "id": 992006,
+            "name": "Nhà Máy Điện Nhơn Trạch 1",
+            "pid": 7048,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà Máy Điện Nhơn Trạch 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.673804656176715",
+            "lng": "106.79745913326452"
+        }
+    ],
+    "log_id": "675814dd4723f709"
+}

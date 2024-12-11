@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 468295,
+            "name": "Pà Rum A",
+            "pid": 22539,
+            "type": 16,
+            "region": null,
+            "alias": "Pà Rum a",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7365791",
+            "lng": "107.55051520000006"
+        },
+        {
+            "id": 468297,
+            "name": "Pà Rum B",
+            "pid": 22539,
+            "type": 16,
+            "region": null,
+            "alias": "Pà Rum B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7365791",
+            "lng": "107.55051520000006"
+        },
+        {
+            "id": 468291,
+            "name": "Thôn Công Dồn",
+            "pid": 22539,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Công Dồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7365791",
+            "lng": "107.55051520000006"
+        },
+        {
+            "id": 468293,
+            "name": "Thôn Pà Đhí",
+            "pid": 22539,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pà Đhí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7365791",
+            "lng": "107.55051520000006"
+        }
+    ],
+    "log_id": "675817e1c3172685"
+}

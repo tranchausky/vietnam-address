@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 701056,
+            "name": "Đa Qúy",
+            "pid": 13497,
+            "type": 16,
+            "region": null,
+            "alias": "Đa Qúy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9438381",
+            "lng": "108.52235199999996"
+        },
+        {
+            "id": 871930,
+            "name": "Đa Thọ",
+            "pid": 13497,
+            "type": 16,
+            "region": null,
+            "alias": "Đa Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9438381",
+            "lng": "108.52235199999996"
+        },
+        {
+            "id": 458945,
+            "name": "Lộc Qúy",
+            "pid": 13497,
+            "type": 16,
+            "region": null,
+            "alias": "Lộc Qúy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9438381",
+            "lng": "108.52235199999996"
+        },
+        {
+            "id": 701059,
+            "name": "Túy Sơn",
+            "pid": 13497,
+            "type": 21,
+            "region": null,
+            "alias": "Túy Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9438381",
+            "lng": "108.52235199999996"
+        },
+        {
+            "id": 458947,
+            "name": "Xuân Thành",
+            "pid": 13497,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9438381",
+            "lng": "108.52235199999996"
+        }
+    ],
+    "log_id": "67581771cc309529"
+}

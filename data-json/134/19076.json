@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910222,
+            "name": "Dô Lương",
+            "pid": 19076,
+            "type": 16,
+            "region": null,
+            "alias": "Dô Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5116297",
+            "lng": "106.2639825"
+        },
+        {
+            "id": 832456,
+            "name": "Phủ Đô",
+            "pid": 19076,
+            "type": 16,
+            "region": null,
+            "alias": "Phủ đô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5116297",
+            "lng": "106.2639825"
+        },
+        {
+            "id": 910225,
+            "name": "Suối Tràng",
+            "pid": 19076,
+            "type": 16,
+            "region": null,
+            "alias": "Suối Tràng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5116297",
+            "lng": "106.2639825"
+        },
+        {
+            "id": 910228,
+            "name": "Thôn Gióng",
+            "pid": 19076,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Gióng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5116297",
+            "lng": "106.2639825"
+        },
+        {
+            "id": 832453,
+            "name": "Trại Mới",
+            "pid": 19076,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5116297",
+            "lng": "106.2639825"
+        }
+    ],
+    "log_id": "6758133f1e1ac613"
+}

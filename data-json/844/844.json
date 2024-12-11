@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1598,
+            "name": "Huyện Cư Jút",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cư Jút",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.657282",
+            "lng": "107.86561240000003"
+        },
+        {
+            "id": 1599,
+            "name": "Huyện Đắk Glong",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đắk GLong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1013642",
+            "lng": "107.80235429999993"
+        },
+        {
+            "id": 1600,
+            "name": "Huyện Đắk Mil",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đắk Mil",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5049537",
+            "lng": "107.69256740000003"
+        },
+        {
+            "id": 1601,
+            "name": "Huyện Đắk Rlấp",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đắk RLấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9213338",
+            "lng": "107.52684709999994"
+        },
+        {
+            "id": 1602,
+            "name": "Huyện Đắk Song",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đắk Song",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2328311",
+            "lng": "107.6216789"
+        },
+        {
+            "id": 1603,
+            "name": "Huyện Krông Nô",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Krông Nô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3426475",
+            "lng": "107.81100000000004"
+        },
+        {
+            "id": 1604,
+            "name": "Huyện Tuy Đức",
+            "pid": 844,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tuy Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1576117",
+            "lng": "107.43423129999996"
+        },
+        {
+            "id": 1605,
+            "name": "Thành Phố Gia Nghĩa",
+            "pid": 844,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Gia Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0036455",
+            "lng": "107.68764809999993"
+        }
+    ],
+    "log_id": "67581690ebdc8176"
+}

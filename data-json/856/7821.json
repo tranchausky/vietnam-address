@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562481,
+            "name": "Thôn Bồ Đình",
+            "pid": 7821,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bồ đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562483,
+            "name": "Thôn Trại Đức",
+            "pid": 7821,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trại đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562469,
+            "name": "Xóm 1",
+            "pid": 7821,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562471,
+            "name": "Xóm 2",
+            "pid": 7821,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562473,
+            "name": "Xóm 3",
+            "pid": 7821,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562475,
+            "name": "Xóm 4",
+            "pid": 7821,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562477,
+            "name": "Xóm 5",
+            "pid": 7821,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        },
+        {
+            "id": 562479,
+            "name": "Xóm 6",
+            "pid": 7821,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3445851",
+            "lng": "105.84471789999998"
+        }
+    ],
+    "log_id": "6758179907adf758"
+}

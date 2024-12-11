@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 792871,
+            "name": "An Ninh",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 853618,
+            "name": "Ấp Dinh",
+            "pid": 16849,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 792862,
+            "name": "Định Ninh",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "định Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 859438,
+            "name": "Đồng Ngang",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Ngang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 792892,
+            "name": "Ninh Giang",
+            "pid": 16849,
+            "type": 18,
+            "region": null,
+            "alias": "Ninh Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 698587,
+            "name": "Núi Phá",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "Núi Phá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 698581,
+            "name": "Tam Sơn",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "Tam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 738034,
+            "name": "Tân Định",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "Tân định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 792877,
+            "name": "Thanh Lâm",
+            "pid": 16849,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3966756",
+            "lng": "105.99055290000001"
+        }
+    ],
+    "log_id": "675813d914e17823"
+}

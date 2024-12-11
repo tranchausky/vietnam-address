@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398257,
+            "name": "Nhũ Tỉnh",
+            "pid": 17680,
+            "type": 16,
+            "region": null,
+            "alias": "Nhũ Tỉnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8090427",
+            "lng": "106.3749484"
+        },
+        {
+            "id": 398259,
+            "name": "Tân Quang",
+            "pid": 17680,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8090427",
+            "lng": "106.3749484"
+        },
+        {
+            "id": 398261,
+            "name": "Vũ Xá",
+            "pid": 17680,
+            "type": 16,
+            "region": null,
+            "alias": "Vũ Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8090427",
+            "lng": "106.3749484"
+        }
+    ],
+    "log_id": "675813f1e0ede371"
+}

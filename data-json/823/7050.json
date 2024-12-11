@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88739,
+            "name": "Ấp Cát Lái",
+            "pid": 7050,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cát Lái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.728836",
+            "lng": "106.817656"
+        },
+        {
+            "id": 435509,
+            "name": "Ấp Câu Kê",
+            "pid": 7050,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Câu Kê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7250628",
+            "lng": "106.77654430000007"
+        },
+        {
+            "id": 88742,
+            "name": "Ấp Phước Lương",
+            "pid": 7050,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7400467",
+            "lng": "106.7757697"
+        },
+        {
+            "id": 88736,
+            "name": "Ấp Rạch Bảy",
+            "pid": 7050,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rạch Bảy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.743786",
+            "lng": "106.8048656"
+        },
+        {
+            "id": 435511,
+            "name": "Ấp Rạch Cá",
+            "pid": 7050,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rạch Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7250628",
+            "lng": "106.77654430000007"
+        }
+    ],
+    "log_id": "675814dd46714911"
+}

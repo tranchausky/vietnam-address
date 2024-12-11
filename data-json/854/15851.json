@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 988917,
+            "name": "Thôn An Bình",
+            "pid": 15851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.691559962501904",
+            "lng": "108.20219298765416"
+        },
+        {
+            "id": 988896,
+            "name": "Thôn Đoàn Kết",
+            "pid": 15851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoàn Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.717860566899745",
+            "lng": "108.19030497808836"
+        },
+        {
+            "id": 988897,
+            "name": "Thôn Nhân Hòa",
+            "pid": 15851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.713255710109657",
+            "lng": "108.19653696077444"
+        },
+        {
+            "id": 988923,
+            "name": "Thôn Phượng Lâm",
+            "pid": 15851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phượng Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.68215915714162",
+            "lng": "108.18152902499814"
+        },
+        {
+            "id": 988921,
+            "name": "Thôn Tân Lập",
+            "pid": 15851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.713733859803694",
+            "lng": "108.19301570676863"
+        },
+        {
+            "id": 988924,
+            "name": "Thôn Thống Nhất",
+            "pid": 15851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.689804018649763",
+            "lng": "108.19252101171774"
+        }
+    ],
+    "log_id": "67581771aa051559"
+}

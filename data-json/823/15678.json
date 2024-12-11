@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 993216,
+            "name": "Công An Huyện Trảng Bom",
+            "pid": 15678,
+            "type": 10,
+            "region": null,
+            "alias": "Công An Huyện Trảng Bom",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.952284692725462",
+            "lng": "106.99885596786605"
+        },
+        {
+            "id": 996632,
+            "name": "Cơ Sở Màn Cửa Vạn Phúc",
+            "pid": 15678,
+            "type": 10,
+            "region": null,
+            "alias": "Cơ Sở Màn Cửa Vạn Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.957817107583153",
+            "lng": "106.99518960997948"
+        },
+        {
+            "id": 993215,
+            "name": "Đường 29\/4",
+            "pid": 15678,
+            "type": 10,
+            "region": null,
+            "alias": "Đường 29\/4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.952102156248767",
+            "lng": " 107.01421129470098"
+        },
+        {
+            "id": 92399,
+            "name": "Khu Phố 1",
+            "pid": 15678,
+            "type": 10,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.954999",
+            "lng": "107.017150"
+        },
+        {
+            "id": 92402,
+            "name": "Khu Phố 2",
+            "pid": 15678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.955891",
+            "lng": "107.006788"
+        },
+        {
+            "id": 92405,
+            "name": "Khu Phố 3",
+            "pid": 15678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.961447",
+            "lng": "107.000485"
+        },
+        {
+            "id": 92408,
+            "name": "Khu Phố 4",
+            "pid": 15678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.943691",
+            "lng": "107.011711"
+        },
+        {
+            "id": 92411,
+            "name": "Khu Phố 5",
+            "pid": 15678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.948754",
+            "lng": "107.006317"
+        },
+        {
+            "id": 996631,
+            "name": "Trà Sữa Bii Tea",
+            "pid": 15678,
+            "type": 10,
+            "region": null,
+            "alias": "Trà sữa BII TEA",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.958368703102122",
+            "lng": "107.00494410582114"
+        }
+    ],
+    "log_id": "675814dd3cc0a818"
+}

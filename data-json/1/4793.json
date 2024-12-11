@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 55122,
+            "name": "Ubnd Xã Đông Xuân",
+            "pid": 4793,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đông Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 119361,
+            "name": "Xóm Cửa Khâu",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cửa Khâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.965259",
+            "lng": "105.5109352"
+        },
+        {
+            "id": 119363,
+            "name": "Xóm Đá Thâm",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đá Thâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9519938",
+            "lng": "105.4953941"
+        },
+        {
+            "id": 119367,
+            "name": "Xóm Đồng Âm",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Âm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9547856",
+            "lng": "105.5215717"
+        },
+        {
+            "id": 119369,
+            "name": "Xóm Đồng Bèn",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Bèn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9528072",
+            "lng": "105.5156846"
+        },
+        {
+            "id": 119371,
+            "name": "Xóm Đồng Bồ",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Bồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.946056",
+            "lng": "105.5005831"
+        },
+        {
+            "id": 119373,
+            "name": "Xóm Đồng Chằm",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Chằm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9676067",
+            "lng": "105.5176608"
+        },
+        {
+            "id": 119377,
+            "name": "Xóm Đồng Rằng",
+            "pid": 4793,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Rằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9622824",
+            "lng": "105.5007652"
+        },
+        {
+            "id": 119379,
+            "name": "Xóm Lập Thành",
+            "pid": 4793,
+            "type": 9,
+            "region": null,
+            "alias": "Xóm Lập Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9641343",
+            "lng": "105.5249611"
+        }
+    ],
+    "log_id": "675811bccada1767"
+}

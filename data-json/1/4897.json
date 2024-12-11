@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114127,
+            "name": "Thôn Cổ Chất",
+            "pid": 4897,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Chất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.815530426294643, ",
+            "lng": "105.8549238470646"
+        },
+        {
+            "id": 55666,
+            "name": "Ubnd Xã Dũng Tiến",
+            "pid": 4897,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Dũng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.814412658712115, ",
+            "lng": "105.85443168911324"
+        }
+    ],
+    "log_id": "675811bd6c900983"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 5327,
+            "name": "Phường Hòa Hiệp Bắc",
+            "pid": 1099,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Hiệp Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1531669",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 5326,
+            "name": "Phường Hòa Hiệp Nam",
+            "pid": 1099,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Hiệp Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0996754",
+            "lng": "108.13693749999993"
+        },
+        {
+            "id": 5323,
+            "name": "Phường Hòa Khánh Bắc",
+            "pid": 1099,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Khánh Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0770582",
+            "lng": "108.13693749999993"
+        },
+        {
+            "id": 5325,
+            "name": "Phường Hòa Khánh Nam",
+            "pid": 1099,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Khánh Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0534112",
+            "lng": "108.14879640000004"
+        },
+        {
+            "id": 5324,
+            "name": "Phường Hòa Minh",
+            "pid": 1099,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0657336",
+            "lng": "108.16955039999993"
+        }
+    ],
+    "log_id": "675812d14a5ab371"
+}

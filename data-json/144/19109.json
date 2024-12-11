@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407533,
+            "name": "Thôn Bưởi",
+            "pid": 19109,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bưởi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1831825",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 407535,
+            "name": "Thôn Chiền",
+            "pid": 19109,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1831825",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 407537,
+            "name": "Thôn Húi",
+            "pid": 19109,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Húi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1831825",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 407539,
+            "name": "Thôn Triệu",
+            "pid": 19109,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Triệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1831825",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 407541,
+            "name": "Thôn Vườn",
+            "pid": 19109,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vườn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1831825",
+            "lng": "106.33754929999998"
+        }
+    ],
+    "log_id": "675813d9656f956"
+}

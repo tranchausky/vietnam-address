@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53754,
+            "name": "Thpt Tiến Thịnhh",
+            "pid": 4710,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Tiến Thịnhh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54774,
+            "name": "Ubnd Xã Tiến Thịnhh",
+            "pid": 4710,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tiến Thịnhh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc4892e574"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 409889,
+            "name": "Thôn An Chính",
+            "pid": 21003,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an chính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3580201",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 409893,
+            "name": "Thôn Hữu Vi",
+            "pid": 21003,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hữu vi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3580201",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 409891,
+            "name": "Thôn Năng Tĩnh",
+            "pid": 21003,
+            "type": 16,
+            "region": null,
+            "alias": "thôn năng tĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3580201",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 409887,
+            "name": "Thôn Thủ Chính",
+            "pid": 21003,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thủ chính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3580201",
+            "lng": "106.52894600000002"
+        }
+    ],
+    "log_id": "675909f39dcbc446"
+}

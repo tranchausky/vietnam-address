@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107825,
+            "name": "Khu Phố 1",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.026496",
+            "lng": "105.107329"
+        },
+        {
+            "id": 107831,
+            "name": "Khu Phố 2",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.043423",
+            "lng": "105.115258"
+        },
+        {
+            "id": 107837,
+            "name": "Khu Phố 3",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.021754",
+            "lng": "105.095905"
+        },
+        {
+            "id": 107846,
+            "name": "Khu Phố 4",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.041887",
+            "lng": "105.091813"
+        },
+        {
+            "id": 107849,
+            "name": "Khu Phố 5",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.033785",
+            "lng": "105.091010"
+        },
+        {
+            "id": 107852,
+            "name": "Khu Phố 6",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.059470",
+            "lng": "105.085906"
+        },
+        {
+            "id": 107426,
+            "name": "Khu Phố Dãy Óc",
+            "pid": 11007,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Dãy Óc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.016521",
+            "lng": "105.106087"
+        }
+    ],
+    "log_id": "675817363248b741"
+}

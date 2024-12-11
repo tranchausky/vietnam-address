@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981073,
+            "name": "Đường Hàng Kênh",
+            "pid": 26161,
+            "type": 21,
+            "region": null,
+            "alias": "đường Hàng Kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981076,
+            "name": "Đường Mương Hồ Sen",
+            "pid": 26161,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mương Hồ Sen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981075,
+            "name": "Hồ Sen",
+            "pid": 26161,
+            "type": 21,
+            "region": null,
+            "alias": "Hồ Sen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981069,
+            "name": "Miếu Hai Xã",
+            "pid": 26161,
+            "type": 21,
+            "region": null,
+            "alias": "Miếu Hai Xã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758136628a73443"
+}

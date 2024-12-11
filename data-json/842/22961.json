@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 707491,
+            "name": "Bản Cải",
+            "pid": 22961,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 725848,
+            "name": "Cốc Phát",
+            "pid": 22961,
+            "type": 18,
+            "region": null,
+            "alias": "Cốc Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 725836,
+            "name": "Nà Danh",
+            "pid": 22961,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Danh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 707494,
+            "name": "Nặm Loát",
+            "pid": 22961,
+            "type": 18,
+            "region": null,
+            "alias": "Nặm Loát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 707509,
+            "name": "Thua Bó",
+            "pid": 22961,
+            "type": 18,
+            "region": null,
+            "alias": "Thua Bó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 878008,
+            "name": "Xóm Án Lại",
+            "pid": 22961,
+            "type": 10,
+            "region": null,
+            "alias": "Xóm Án Lại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 815155,
+            "name": "Xóm Canh Biện",
+            "pid": 22961,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Canh Biện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7169823",
+            "lng": "106.30517659999998"
+        }
+    ],
+    "log_id": "67581662a135c200"
+}

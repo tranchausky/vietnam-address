@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112423,
+            "name": "Thôn Cây Sung",
+            "pid": 16455,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cây Sung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.220528",
+            "lng": "108.983151"
+        },
+        {
+            "id": 112459,
+            "name": "Thôn Đá Mài",
+            "pid": 16455,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Mài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.220528",
+            "lng": "108.983151"
+        },
+        {
+            "id": 112443,
+            "name": "Thôn Láng Nhớt",
+            "pid": 16455,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Láng Nhớt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.220528",
+            "lng": "108.983151"
+        }
+    ],
+    "log_id": "67581585b2810228"
+}

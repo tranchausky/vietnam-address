@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 832396,
+            "name": "Đồng Sinh",
+            "pid": 19091,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Sinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.588733",
+            "lng": "106.22353220000002"
+        },
+        {
+            "id": 832402,
+            "name": "Hợp Thành",
+            "pid": 19091,
+            "type": 16,
+            "region": null,
+            "alias": "Hợp Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.588733",
+            "lng": "106.22353220000002"
+        },
+        {
+            "id": 832399,
+            "name": "Lân Vầu",
+            "pid": 19091,
+            "type": 16,
+            "region": null,
+            "alias": "Lân Vầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.588733",
+            "lng": "106.22353220000002"
+        },
+        {
+            "id": 832408,
+            "name": "Tân Châu",
+            "pid": 19091,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.588733",
+            "lng": "106.22353220000002"
+        }
+    ],
+    "log_id": "6758133f21916535"
+}

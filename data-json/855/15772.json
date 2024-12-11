@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 769909,
+            "name": "Ấp 1",
+            "pid": 15772,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4685614",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 769906,
+            "name": "Ấp 2",
+            "pid": 15772,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4685614",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 769915,
+            "name": "Ấp 4",
+            "pid": 15772,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4685614",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 769897,
+            "name": "Ấp 5",
+            "pid": 15772,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4685614",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 935183,
+            "name": "Ấp 6",
+            "pid": 15772,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4790697",
+            "lng": "106.4738801"
+        },
+        {
+            "id": 769912,
+            "name": "Ấp 7",
+            "pid": 15772,
+            "type": 22,
+            "region": null,
+            "alias": "ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4685614",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 769894,
+            "name": "Ấp 8",
+            "pid": 15772,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4685614",
+            "lng": "106.49359800000002"
+        }
+    ],
+    "log_id": "67581785038af123"
+}

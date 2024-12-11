@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 485817,
+            "name": "Thôn Hòn Dung",
+            "pid": 17690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hòn Dung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.041743",
+            "lng": "108.92050990000007"
+        },
+        {
+            "id": 485821,
+            "name": "Thôn Liên Hiệp",
+            "pid": 17690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.041743",
+            "lng": "108.92050990000007"
+        },
+        {
+            "id": 485815,
+            "name": "Thôn Tà Gụ",
+            "pid": 17690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Gụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.041743",
+            "lng": "108.92050990000007"
+        },
+        {
+            "id": 485819,
+            "name": "Thôn Xà Bói",
+            "pid": 17690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xà Bói",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.041743",
+            "lng": "108.92050990000007"
+        }
+    ],
+    "log_id": "67581585d6249280"
+}

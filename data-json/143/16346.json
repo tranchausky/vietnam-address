@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465445,
+            "name": "Đại An Khê",
+            "pid": 16346,
+            "type": 16,
+            "region": null,
+            "alias": "Đại an Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7232348",
+            "lng": "107.22526749999997"
+        },
+        {
+            "id": 465443,
+            "name": "Thượng Xá",
+            "pid": 16346,
+            "type": 16,
+            "region": null,
+            "alias": "thượng xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7232348",
+            "lng": "107.22526749999997"
+        }
+    ],
+    "log_id": "675813bc6adda321"
+}

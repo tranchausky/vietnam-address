@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398263,
+            "name": "Kiêm Tân",
+            "pid": 17681,
+            "type": 16,
+            "region": null,
+            "alias": "Kiêm Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8110438",
+            "lng": "106.3241276"
+        },
+        {
+            "id": 398265,
+            "name": "Mạc",
+            "pid": 17681,
+            "type": 16,
+            "region": null,
+            "alias": "Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8110438",
+            "lng": "106.3241276"
+        },
+        {
+            "id": 398267,
+            "name": "Mỹ Đức",
+            "pid": 17681,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8110438",
+            "lng": "106.3241276"
+        }
+    ],
+    "log_id": "675813f1dfc8f773"
+}

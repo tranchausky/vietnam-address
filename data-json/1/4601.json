@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117555,
+            "name": "Đồng Trữ",
+            "pid": 4601,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Trữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.071252,",
+            "lng": "105.8781593"
+        },
+        {
+            "id": 53850,
+            "name": "Kcn Phú Nghĩa",
+            "pid": 4601,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Phú Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9293515",
+            "lng": "105.6691502"
+        },
+        {
+            "id": 117553,
+            "name": "Khê Than",
+            "pid": 4601,
+            "type": 16,
+            "region": null,
+            "alias": "Khê Than",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.928047,",
+            "lng": "105.6551826"
+        },
+        {
+            "id": 117559,
+            "name": "Nghĩa Hảo",
+            "pid": 4601,
+            "type": 16,
+            "region": null,
+            "alias": "Nghĩa Hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.926186,",
+            "lng": "105.6595817"
+        },
+        {
+            "id": 117565,
+            "name": "Phú Hữu",
+            "pid": 4601,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9359513",
+            "lng": "105.6559158"
+        },
+        {
+            "id": 117561,
+            "name": "Phú Vinh",
+            "pid": 4601,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.930225,",
+            "lng": " 105.650083"
+        },
+        {
+            "id": 117563,
+            "name": "Quan Châm",
+            "pid": 4601,
+            "type": 16,
+            "region": null,
+            "alias": "Quan Châm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9359513",
+            "lng": "105.6559158"
+        },
+        {
+            "id": 54286,
+            "name": "Tòa Nhà Ubnd Xã Phú Nghĩa",
+            "pid": 4601,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà UBND Xã Phú Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 908005,
+            "name": "Xóm Hạ",
+            "pid": 4601,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9359513",
+            "lng": "105.6559158"
+        }
+    ],
+    "log_id": "675811bb73eba529"
+}

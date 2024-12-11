@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120637,
+            "name": "Thôn Nội Đồng",
+            "pid": 4700,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2013129",
+            "lng": "105.708236"
+        },
+        {
+            "id": 53742,
+            "name": "Thpt Mê Linh",
+            "pid": 4700,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Mê Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53766,
+            "name": "Thpt Nguyễn Du",
+            "pid": 4700,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Nguyễn Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54798,
+            "name": "Ubnd Huyện Mê Linh",
+            "pid": 4700,
+            "type": 4,
+            "region": null,
+            "alias": "UBND huyện Mê Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54730,
+            "name": "Ubnd Xã Đại Thịnhh",
+            "pid": 4700,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đại Thịnhh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc460a6911"
+}

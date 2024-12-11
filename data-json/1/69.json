@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 35748,
+            "name": "133 Thái Hà",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "133 Thái Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.013235",
+            "lng": "105.81941000000006"
+        },
+        {
+            "id": 994781,
+            "name": "Chẵn 172-252 Tây Sơn",
+            "pid": 69,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 172-252 Tây Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.01074188872389",
+            "lng": "105.82491028108109"
+        },
+        {
+            "id": 829180,
+            "name": "Đường Đặng Tiến Đông",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Tiến Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108448",
+            "lng": "105.82242500000007"
+        },
+        {
+            "id": 830596,
+            "name": "Đường Thái Hà",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108448",
+            "lng": "105.82242500000007"
+        },
+        {
+            "id": 876754,
+            "name": "Đường Thái Hà Mới",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Hà Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.014539925191116",
+            "lng": "105.81959903240204"
+        },
+        {
+            "id": 830878,
+            "name": "Đường Trung Liệt",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trung Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108448",
+            "lng": "105.82242500000007"
+        },
+        {
+            "id": 876709,
+            "name": "Đường Võ Văn Dũng",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Dũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0155815081064",
+            "lng": "105.824577212334"
+        },
+        {
+            "id": 35764,
+            "name": "Kinh Đô Building",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Kinh đô Building",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0180725",
+            "lng": "105.8299495"
+        },
+        {
+            "id": 48468,
+            "name": "Mbland Tower - Chùa Bộc",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "MBLand Tower - Chùa Bộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0792617",
+            "lng": "105.81406130000005"
+        },
+        {
+            "id": 35752,
+            "name": "Viet Tower - Parkson",
+            "pid": 69,
+            "type": 21,
+            "region": null,
+            "alias": "Viet Tower - Parkson",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0092587",
+            "lng": "105.82372559999999"
+        }
+    ],
+    "log_id": "675811bbea5bd888"
+}

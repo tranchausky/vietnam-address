@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110151,
+            "name": "Ấp Đây Cà Hom",
+            "pid": 16621,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đây Cà Hom",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5859787",
+            "lng": "105.03820760000008 "
+        },
+        {
+            "id": 110185,
+            "name": "Ấp Mằng Rò",
+            "pid": 16621,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mằng Rò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5859787",
+            "lng": "105.03820760000008 "
+        },
+        {
+            "id": 110241,
+            "name": "Ấp Sây Sà Kốth",
+            "pid": 16621,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sây Sà Kốth",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5859787",
+            "lng": "105.03820760000008 "
+        },
+        {
+            "id": 110221,
+            "name": "Ấp Văn Trà",
+            "pid": 16621,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Văn Trà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5859787",
+            "lng": "105.03820760000008 "
+        }
+    ],
+    "log_id": "6758159dd40f8166"
+}

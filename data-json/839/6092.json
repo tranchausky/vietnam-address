@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112959,
+            "name": "Ấp Núi Đất",
+            "pid": 6092,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Núi Đất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.385042",
+            "lng": "11.369504"
+        },
+        {
+            "id": 112983,
+            "name": "Ấp Rạch Đá",
+            "pid": 6092,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rạch Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.361696",
+            "lng": "11.328101"
+        },
+        {
+            "id": 783130,
+            "name": "Ấp Suối Sâu",
+            "pid": 6092,
+            "type": 4,
+            "region": null,
+            "alias": "Ấp Suối Sâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3439602",
+            "lng": "106.3581527"
+        },
+        {
+            "id": 113005,
+            "name": "Ấp Tha La",
+            "pid": 6092,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tha La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.359474",
+            "lng": "11.338044"
+        },
+        {
+            "id": 113065,
+            "name": "Ấp Yên Ngựa",
+            "pid": 6092,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Yên Ngựa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.353456",
+            "lng": "11.312615"
+        }
+    ],
+    "log_id": "675816218f9f8860"
+}

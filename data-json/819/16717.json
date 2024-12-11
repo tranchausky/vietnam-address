@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631212,
+            "name": "Cống Đông",
+            "pid": 16717,
+            "type": 16,
+            "region": null,
+            "alias": "Cống Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9184143",
+            "lng": "107.32575450000002"
+        },
+        {
+            "id": 631215,
+            "name": "Cống Tây",
+            "pid": 16717,
+            "type": 16,
+            "region": null,
+            "alias": "Cống Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9184143",
+            "lng": "107.32575450000002"
+        },
+        {
+            "id": 631218,
+            "name": "Quyết Thắng",
+            "pid": 16717,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9184143",
+            "lng": "107.32575450000002"
+        },
+        {
+            "id": 631221,
+            "name": "Thi Đua",
+            "pid": 16717,
+            "type": 16,
+            "region": null,
+            "alias": "Thi Đua",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9184143",
+            "lng": "107.32575450000002"
+        }
+    ],
+    "log_id": "675814c22ee20684"
+}

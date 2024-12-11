@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 595518,
+            "name": "Liên Vinh",
+            "pid": 18693,
+            "type": 16,
+            "region": null,
+            "alias": "Liên Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3732352",
+            "lng": "105.77326330000005"
+        },
+        {
+            "id": 595521,
+            "name": "Thắng Hải",
+            "pid": 18693,
+            "type": 16,
+            "region": null,
+            "alias": "Thắng Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3732352",
+            "lng": "105.77326330000005"
+        },
+        {
+            "id": 595524,
+            "name": "Trung Sơn",
+            "pid": 18693,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3732352",
+            "lng": "105.77326330000005"
+        }
+    ],
+    "log_id": "67590a23b0095338"
+}

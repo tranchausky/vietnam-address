@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 433307,
+            "name": "Ấp Bến Tượng",
+            "pid": 6102,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bến Tượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.181412416464148",
+            "lng": "106.6293095853248"
+        },
+        {
+            "id": 433305,
+            "name": "Ấp Cầu Đôi",
+            "pid": 6102,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Cầu Đôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.178129197857114",
+            "lng": "106.59827577577505"
+        },
+        {
+            "id": 433303,
+            "name": "Ấp Cầu Sắt",
+            "pid": 6102,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Cầu Sắt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.235006249411121",
+            "lng": "106.59576129473845"
+        },
+        {
+            "id": 433301,
+            "name": "Ấp Lai Khê",
+            "pid": 6102,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Lai Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.201267432397541",
+            "lng": "106.6110299966636"
+        },
+        {
+            "id": 963395,
+            "name": "Công Ty Cổ Phần Găng Việt",
+            "pid": 6102,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Cổ Phần Găng Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.246224819448877",
+            "lng": "106.60338175599426"
+        },
+        {
+            "id": 980003,
+            "name": "Công Ty Khải Hoàn",
+            "pid": 6102,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty Khải Hoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.24663853175437",
+            "lng": "106.60126883120299"
+        },
+        {
+            "id": 963397,
+            "name": "Khu Dân Cư 5E",
+            "pid": 6102,
+            "type": 21,
+            "region": null,
+            "alias": "khu dân cư 5E",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2262581867924",
+            "lng": "106.63330030872004"
+        },
+        {
+            "id": 949388,
+            "name": "Khu Nhà Ở Xã Hội Becamex",
+            "pid": 6102,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Nhà Ở Xã Hội Becamex",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.227972236059518",
+            "lng": "106.63127946545676"
+        },
+        {
+            "id": 992734,
+            "name": "Tổ 1, Ấp Cầu Sắt",
+            "pid": 6102,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 1, ấp cầu sắt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.224941",
+            "lng": "106.617263"
+        },
+        {
+            "id": 992594,
+            "name": "Tổ 1, Ấp Lai Khê, Lai Hưng",
+            "pid": 6102,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 1, ấp lai khê, lai hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.196481",
+            "lng": "106.614286"
+        },
+        {
+            "id": 992604,
+            "name": "Tổ 2, Lai Khê, Lai Hưng",
+            "pid": 6102,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 2, lai khê, lai hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.201893",
+            "lng": "106.621057"
+        },
+        {
+            "id": 992737,
+            "name": "Tổ 9, Âp Cầu Sắt, Lai Hưng, Bàu Bàng",
+            "pid": 6102,
+            "type": 20,
+            "region": null,
+            "alias": "TỔ 9, Âp cầu sắt, lai hưng, bàu bàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.246332",
+            "lng": "106.594965"
+        }
+    ],
+    "log_id": "6758162199d8e712"
+}

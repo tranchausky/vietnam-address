@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116177,
+            "name": "Thôn Áng Phao",
+            "pid": 4386,
+            "type": 16,
+            "region": null,
+            "alias": "thôn áng phao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.765178",
+            "lng": "20.803292"
+        },
+        {
+            "id": 116165,
+            "name": "Thôn Cao Xá",
+            "pid": 4386,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cao xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.767582",
+            "lng": "20.812750"
+        },
+        {
+            "id": 116213,
+            "name": "Thôn Mọc",
+            "pid": 4386,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.757774",
+            "lng": "20.814126"
+        },
+        {
+            "id": 116269,
+            "name": "Thôn Mới",
+            "pid": 4386,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.761831",
+            "lng": "20.812175"
+        },
+        {
+            "id": 116189,
+            "name": "Thôn Thị Nguyên",
+            "pid": 4386,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thị nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.760965",
+            "lng": "20.816180"
+        },
+        {
+            "id": 55490,
+            "name": "Ubnd Xã Cao Dương",
+            "pid": 4386,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Cao Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 116225,
+            "name": "Xóm Bến",
+            "pid": 4386,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.758726",
+            "lng": "20.818451"
+        }
+    ],
+    "log_id": "675811bd55cbb153"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108795,
+            "name": "Ấp Châu Thành",
+            "pid": 7599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Châu Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.476889",
+            "lng": "106.147583"
+        },
+        {
+            "id": 108823,
+            "name": "Ấp Giồng Giữa",
+            "pid": 7599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.487306",
+            "lng": "106.146500"
+        },
+        {
+            "id": 108861,
+            "name": "Ấp Hội Trung",
+            "pid": 7599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hội Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.491583",
+            "lng": "106.162667"
+        },
+        {
+            "id": 108871,
+            "name": "Ấp Phố Dưới",
+            "pid": 7599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phố Dưới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.473306",
+            "lng": "106.148444"
+        }
+    ],
+    "log_id": "675909c165cfa283"
+}

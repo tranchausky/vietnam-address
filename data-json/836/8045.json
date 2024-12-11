@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439757,
+            "name": "Ấp Cầu Đỏ",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cầu Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.588474",
+            "lng": "105.359992"
+        },
+        {
+            "id": 439759,
+            "name": "Ấp Nhụy Cầm",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhụy Cầm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525493",
+            "lng": "105.384536"
+        },
+        {
+            "id": 439761,
+            "name": "Ấp Sơn Trắng",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Sơn Trắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.591664",
+            "lng": "105.417925"
+        },
+        {
+            "id": 439763,
+            "name": "Ấp Vĩnh Bình",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.528769",
+            "lng": "105.349419"
+        },
+        {
+            "id": 439765,
+            "name": "Ấp Vĩnh Hòa",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.564223",
+            "lng": "105.371042"
+        },
+        {
+            "id": 439769,
+            "name": "Ấp Vĩnh Thạnh",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.537830",
+            "lng": "105.371230"
+        },
+        {
+            "id": 439767,
+            "name": "Ấp Vĩnh Thành Lập",
+            "pid": 8045,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Thành Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.529069",
+            "lng": "105.395758"
+        }
+    ],
+    "log_id": "675815e16db9c29"
+}

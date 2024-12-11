@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112421,
+            "name": "Thôn Đại Hữu",
+            "pid": 16449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.227017",
+            "lng": "109.025379"
+        },
+        {
+            "id": 112387,
+            "name": "Thôn Đãnh Thạnh",
+            "pid": 16449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đãnh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.227017",
+            "lng": "109.025379"
+        },
+        {
+            "id": 112373,
+            "name": "Thôn Mỹ Lộc",
+            "pid": 16449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.227017",
+            "lng": "109.025379"
+        }
+    ],
+    "log_id": "67581585b26f9772"
+}

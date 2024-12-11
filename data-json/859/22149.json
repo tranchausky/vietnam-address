@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641047,
+            "name": "Thôn Mỹ Đông",
+            "pid": 22149,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.854924",
+            "lng": "108.048837"
+        },
+        {
+            "id": 641053,
+            "name": "Thôn Mỹ Hảo",
+            "pid": 22149,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.854924",
+            "lng": "108.048837"
+        },
+        {
+            "id": 641056,
+            "name": "Thôn Mỹ Phước",
+            "pid": 22149,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.854924",
+            "lng": "108.048837"
+        },
+        {
+            "id": 641059,
+            "name": "Thôn Mỹ Tân",
+            "pid": 22149,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.854924",
+            "lng": "108.048837"
+        }
+    ],
+    "log_id": "675817e1ab5fb400"
+}

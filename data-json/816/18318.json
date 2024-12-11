@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629253,
+            "name": "Thôn An Đỗ",
+            "pid": 18318,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Đỗ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8710246",
+            "lng": "106.09635129999992"
+        },
+        {
+            "id": 629250,
+            "name": "Thôn An Khải",
+            "pid": 18318,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8710246",
+            "lng": "106.09635129999992"
+        }
+    ],
+    "log_id": "6758149130f8d372"
+}

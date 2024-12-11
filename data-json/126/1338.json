@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 772942,
+            "name": "130-230 Lưu Hữu Phước",
+            "pid": 1338,
+            "type": 29,
+            "region": null,
+            "alias": "130-230 Lưu Hữu Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.714723",
+            "lng": "106.628523"
+        },
+        {
+            "id": 772948,
+            "name": "231-265 Lưu Hữu Phước",
+            "pid": 1338,
+            "type": 29,
+            "region": null,
+            "alias": "231-265 Lưu Hữu Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.724353",
+            "lng": "106.634018"
+        },
+        {
+            "id": 772939,
+            "name": "Chẵn 302-376 Bến Bình Đông",
+            "pid": 1338,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 302-376 Bến Bình Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.732875",
+            "lng": "106.635395"
+        },
+        {
+            "id": 957549,
+            "name": "Cư Xá Bình Đông",
+            "pid": 1338,
+            "type": 10,
+            "region": null,
+            "alias": "Cư xá Bình Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.73414",
+            "lng": "106.636688"
+        },
+        {
+            "id": 679774,
+            "name": "Đường Bình Đông",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7360827",
+            "lng": "106.6387948"
+        },
+        {
+            "id": 673549,
+            "name": "Đường Bình Đức",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7239604",
+            "lng": "106.6321678"
+        },
+        {
+            "id": 674158,
+            "name": "Đường Lê Thành Phương",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Thành Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7174635",
+            "lng": "106.629336"
+        },
+        {
+            "id": 674779,
+            "name": "Đường Lương Văn Can",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Văn Can",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7348181",
+            "lng": "106.6398817"
+        },
+        {
+            "id": 683368,
+            "name": "Đường Mai Hắc Đế",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mai Hắc Đế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7184485",
+            "lng": "106.6298102"
+        },
+        {
+            "id": 712546,
+            "name": "Đường Nguyễn Nhược Thị",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Nhược Thị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7343068",
+            "lng": "106.642388"
+        },
+        {
+            "id": 679786,
+            "name": "Đường Nguyễn Sĩ Cố",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Sĩ Cố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7246501",
+            "lng": "106.6327749"
+        },
+        {
+            "id": 681232,
+            "name": "Đường Rạch Cát",
+            "pid": 1338,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Rạch Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7164687",
+            "lng": "106.6286589"
+        }
+    ],
+    "log_id": "6758129ada33e430"
+}

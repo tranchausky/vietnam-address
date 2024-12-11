@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 595170,
+            "name": "Thôn Đại Thắng",
+            "pid": 22842,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đại thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9849628",
+            "lng": "105.51666499999999"
+        },
+        {
+            "id": 595167,
+            "name": "Thôn Phú Vinh",
+            "pid": 22842,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9849628",
+            "lng": "105.51666499999999"
+        },
+        {
+            "id": 595164,
+            "name": "Thôn Thọ Long",
+            "pid": 22842,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thọ long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9849628",
+            "lng": "105.51666499999999"
+        }
+    ],
+    "log_id": "67590a240714d366"
+}

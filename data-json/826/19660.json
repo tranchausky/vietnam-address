@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 577845,
+            "name": "Khu Phố Hội Phú",
+            "pid": 19660,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Hội Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5212811",
+            "lng": "108.99182539999993"
+        },
+        {
+            "id": 577839,
+            "name": "Khu Phố Phụng Du 2",
+            "pid": 19660,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phụng Du 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5212811",
+            "lng": "108.99182539999993"
+        },
+        {
+            "id": 577830,
+            "name": "Khu Phố Tấn Thạnh 1",
+            "pid": 19660,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Tấn Thạnh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5212811",
+            "lng": "108.99182539999993"
+        }
+    ],
+    "log_id": "6758150dc3172372"
+}

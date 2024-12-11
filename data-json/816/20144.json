@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629217,
+            "name": "Thôn Mộc Ty",
+            "pid": 20144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mộc ty",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9426093",
+            "lng": "106.0140586"
+        },
+        {
+            "id": 629205,
+            "name": "Thôn Ngọc Lịch",
+            "pid": 20144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngọc lịch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9426093",
+            "lng": "106.0140586"
+        },
+        {
+            "id": 928927,
+            "name": "Trí Trung",
+            "pid": 20144,
+            "type": 16,
+            "region": null,
+            "alias": "Trí Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9426093",
+            "lng": "106.01405859999998"
+        },
+        {
+            "id": 629208,
+            "name": "Tuấn Dị",
+            "pid": 20144,
+            "type": 10,
+            "region": null,
+            "alias": "Tuấn Dị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9426093",
+            "lng": "106.0140586"
+        }
+    ],
+    "log_id": "67581490bc116869"
+}

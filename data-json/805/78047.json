@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652210,
+            "name": "Thôn Chùa Thượng",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chùa Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.964488",
+            "lng": "106.317537"
+        },
+        {
+            "id": 652219,
+            "name": "Thôn Đồng",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.976424",
+            "lng": "106.329254"
+        },
+        {
+            "id": 652207,
+            "name": "Thôn Đồng Chè",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Chè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.963592",
+            "lng": "106.324876"
+        },
+        {
+            "id": 652216,
+            "name": "Thôn Đông Giàng",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Giàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.967463",
+            "lng": "106.320069"
+        },
+        {
+            "id": 652204,
+            "name": "Thôn Nam Thượng",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.967896",
+            "lng": "106.331743"
+        },
+        {
+            "id": 849181,
+            "name": "Thôn Tiền",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.970112",
+            "lng": "106.331506"
+        },
+        {
+            "id": 652213,
+            "name": "Thôn Trác Châu",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trác Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.962789",
+            "lng": "106.336806"
+        },
+        {
+            "id": 652201,
+            "name": "Thôn Trà Tân",
+            "pid": 78047,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trà Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.967896",
+            "lng": "106.331743"
+        }
+    ],
+    "log_id": "675813f1f3802645"
+}

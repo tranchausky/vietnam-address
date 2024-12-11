@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630885,
+            "name": "Thôn Giai Lệ",
+            "pid": 13448,
+            "type": 16,
+            "region": null,
+            "alias": "thôn giai lệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6956689",
+            "lng": "106.15956400000005"
+        },
+        {
+            "id": 630888,
+            "name": "Thôn Phí Xá",
+            "pid": 13448,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phí xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6956689",
+            "lng": "106.15956400000005"
+        },
+        {
+            "id": 630891,
+            "name": "Thôn Phù Liễu",
+            "pid": 13448,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phù liễu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6956689",
+            "lng": "106.15956400000005"
+        }
+    ],
+    "log_id": "67581490f10a7489"
+}

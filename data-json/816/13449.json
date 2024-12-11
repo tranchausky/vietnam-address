@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 708856,
+            "name": "Chỉ Thiện",
+            "pid": 13449,
+            "type": 16,
+            "region": null,
+            "alias": "Chỉ Thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6828499",
+            "lng": "106.13842769999997"
+        },
+        {
+            "id": 630897,
+            "name": "Thôn An Lạc",
+            "pid": 13449,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6828499",
+            "lng": "106.13842769999997"
+        },
+        {
+            "id": 708550,
+            "name": "Thôn Chỉ Thiện",
+            "pid": 13449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chỉ Thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6828499",
+            "lng": "106.13842769999997"
+        },
+        {
+            "id": 630894,
+            "name": "Thôn Lạc Dục",
+            "pid": 13449,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lạc dục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6828499",
+            "lng": "106.13842769999997"
+        },
+        {
+            "id": 630900,
+            "name": "Thôn Lương Trụ",
+            "pid": 13449,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lương trụ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6828499",
+            "lng": "106.13842769999997"
+        }
+    ],
+    "log_id": "67581490f1eae720"
+}

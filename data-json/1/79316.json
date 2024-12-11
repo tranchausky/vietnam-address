@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101486,
+            "name": "Thôn Cát Bi",
+            "pid": 79316,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cát Bi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'47.5\"N",
+            "lng": "105°55'47.4\"E"
+        },
+        {
+            "id": 101444,
+            "name": "Thôn Đại Gia",
+            "pid": 79316,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'36.6\"N",
+            "lng": "105°56'55.3\"E"
+        },
+        {
+            "id": 100853,
+            "name": "Thôn Nhân Vực",
+            "pid": 79316,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Vực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'55.5\"N 105°55'30.5\"E",
+            "lng": "20°46'55.5\"N 105°55'30.5\"E"
+        }
+    ],
+    "log_id": "675811bcd27ee134"
+}

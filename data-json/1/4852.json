@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120907,
+            "name": "Kim Bông",
+            "pid": 4852,
+            "type": 10,
+            "region": null,
+            "alias": "Kim Bông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0350764",
+            "lng": "105.545825"
+        },
+        {
+            "id": 120909,
+            "name": "Mục Uyên 1",
+            "pid": 4852,
+            "type": 16,
+            "region": null,
+            "alias": "Mục Uyên 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0277701",
+            "lng": "105.557696"
+        },
+        {
+            "id": 120911,
+            "name": "Mục Uyên 2",
+            "pid": 4852,
+            "type": 16,
+            "region": null,
+            "alias": "Mục Uyên 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0277701",
+            "lng": "105.557696"
+        },
+        {
+            "id": 489101,
+            "name": "Phú Hữu",
+            "pid": 4852,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0253886",
+            "lng": "105.5355082"
+        },
+        {
+            "id": 53446,
+            "name": "Trường Thpt Hai Bà Trưng",
+            "pid": 4852,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Hai Bà Trưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc1113092"
+}

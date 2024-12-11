@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443827,
+            "name": "Thôn Dân Phú 1",
+            "pid": 17570,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dân Phú 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.484556",
+            "lng": "109.263262"
+        },
+        {
+            "id": 443829,
+            "name": "Thôn Dân Phú 2",
+            "pid": 17570,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dân Phú 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.484556",
+            "lng": "109.263262"
+        },
+        {
+            "id": 828043,
+            "name": "Thôn Lệ Uyên",
+            "pid": 17570,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lệ Uyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.484556",
+            "lng": "109.263262"
+        },
+        {
+            "id": 443825,
+            "name": "Thôn Phú Mỹ",
+            "pid": 17570,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.484556",
+            "lng": "109.263262"
+        },
+        {
+            "id": 443823,
+            "name": "Thôn Trung Trinh",
+            "pid": 17570,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Trinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.484556",
+            "lng": "109.263262"
+        }
+    ],
+    "log_id": "67590b8093dd052"
+}

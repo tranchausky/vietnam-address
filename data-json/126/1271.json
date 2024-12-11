@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 902374,
+            "name": "Chẵn 596-698 Nguyễn Đình Chiểu",
+            "pid": 1271,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 596-698 Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7680193",
+            "lng": "106.6800718"
+        },
+        {
+            "id": 868888,
+            "name": "Đường Cao Thắng",
+            "pid": 1271,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7732898",
+            "lng": "106.6783556"
+        },
+        {
+            "id": 671233,
+            "name": "Đường Điện Biên Phủ",
+            "pid": 1271,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7715178",
+            "lng": "106.6775807"
+        },
+        {
+            "id": 672169,
+            "name": "Đường Nguyễn Đình Chiểu",
+            "pid": 1271,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7684394",
+            "lng": "106.6805867"
+        },
+        {
+            "id": 678823,
+            "name": "Đường Nguyễn Thiện Thuật",
+            "pid": 1271,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thiện Thuật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7684673",
+            "lng": "106.6793563"
+        }
+    ],
+    "log_id": "6758129ae281b625"
+}

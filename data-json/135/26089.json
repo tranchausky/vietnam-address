@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981179,
+            "name": "An Đà",
+            "pid": 26089,
+            "type": 21,
+            "region": null,
+            "alias": "An Đà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981174,
+            "name": "Đường Bao Quanh Hồ An Biên",
+            "pid": 26089,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bao Quanh Hồ An Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981191,
+            "name": "Đường Bao Quanh Hồ An Biên",
+            "pid": 26089,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bao Quanh Hồ An Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 826957,
+            "name": "Tổ 26",
+            "pid": 26089,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 26",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8521048",
+            "lng": "106.70282500000007"
+        }
+    ],
+    "log_id": "67581365dd0f7275"
+}

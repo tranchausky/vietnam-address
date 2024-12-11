@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93737,
+            "name": "Ấp Gia Yên",
+            "pid": 7063,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gia Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.040520",
+            "lng": "107.192603"
+        },
+        {
+            "id": 93731,
+            "name": "Ấp Phúc Nhạc 1",
+            "pid": 7063,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phúc Nhạc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.037189",
+            "lng": "107.156344"
+        },
+        {
+            "id": 93734,
+            "name": "Ấp Phúc Nhạc 2",
+            "pid": 7063,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phúc Nhạc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.050745",
+            "lng": "107.202314"
+        },
+        {
+            "id": 93740,
+            "name": "Ấp Tân Yên",
+            "pid": 7063,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.040825",
+            "lng": "107.146026"
+        }
+    ],
+    "log_id": "675814dd3c217500"
+}

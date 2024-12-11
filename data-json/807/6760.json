@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397929,
+            "name": "Thôn 1",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 397931,
+            "name": "Thôn 2",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 397933,
+            "name": "Thôn 3",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 397935,
+            "name": "Thôn 4",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 397937,
+            "name": "Thôn 5",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 662197,
+            "name": "Thôn Phù Thụy",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 662200,
+            "name": "Thôn Quyển Sơn",
+            "pid": 6760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyển Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 867382,
+            "name": "Xóm 13",
+            "pid": 6760,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 13",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5626857",
+            "lng": "105.86719540000001"
+        },
+        {
+            "id": 732889,
+            "name": "Xóm 14",
+            "pid": 6760,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 14",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5396353",
+            "lng": "105.83490089999998"
+        }
+    ],
+    "log_id": "6758142818902247"
+}

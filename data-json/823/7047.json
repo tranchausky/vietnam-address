@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 74034,
+            "name": "Ấp Bến Cam",
+            "pid": 7047,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7564007",
+            "lng": "106.9225798"
+        },
+        {
+            "id": 74038,
+            "name": "Ấp Bến Sắn",
+            "pid": 7047,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Sắn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7584612",
+            "lng": "106.9343848"
+        },
+        {
+            "id": 74030,
+            "name": "Ấp Trầu",
+            "pid": 7047,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2230247",
+            "lng": ""
+        },
+        {
+            "id": 992647,
+            "name": "Chợ Phước Thiền",
+            "pid": 7047,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Phước Thiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.9420765",
+            "lng": "10.7579146"
+        },
+        {
+            "id": 983714,
+            "name": "Đường Biên Hùng- Ấp Bến Sắn",
+            "pid": 7047,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Biên Hùng- Ấp Bến Sắn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983711,
+            "name": "Đường Lý Thái Tổ - Ấp Trầu",
+            "pid": 7047,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Lý Thái Tổ - Ấp Trầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 990583,
+            "name": "Đường Trần Phú, Bến Cam",
+            "pid": 7047,
+            "type": 17,
+            "region": null,
+            "alias": "Đường Trần Phú, Bến Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.753456072308213",
+            "lng": "106.9238822455675"
+        },
+        {
+            "id": 990618,
+            "name": "Ngã Tư Chợ Ông Hảo",
+            "pid": 7047,
+            "type": 10,
+            "region": null,
+            "alias": "Ngã Tư Chợ Ông Hảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7524203 ",
+            "lng": "106.9292868"
+        },
+        {
+            "id": 983715,
+            "name": "Ngã Tư Chợ Ông Hảo - Bến Sắn",
+            "pid": 7047,
+            "type": 20,
+            "region": null,
+            "alias": "Ngã Tư Chợ Ông Hảo - Bến Sắn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983717,
+            "name": "Nhà Văn Hóa - Ấp Bến Cam",
+            "pid": 7047,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà Văn Hóa - Ấp Bến Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.752252231989331",
+            "lng": "106.9236280548123"
+        },
+        {
+            "id": 983716,
+            "name": "Tái Định Cư- Bến Cam",
+            "pid": 7047,
+            "type": 20,
+            "region": null,
+            "alias": "TÁI ĐỊNH CƯ- BẾN CAM",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757558403222362",
+            "lng": "106.92376562823756"
+        },
+        {
+            "id": 990585,
+            "name": "Vòng Xoay Bến Cam",
+            "pid": 7047,
+            "type": 10,
+            "region": null,
+            "alias": "Vòng Xoay Bến Cam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.75735988717767",
+            "lng": "106.9234573942408"
+        }
+    ],
+    "log_id": "675814dd45c06513"
+}

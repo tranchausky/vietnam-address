@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117517,
+            "name": "Khôn Duy",
+            "pid": 4597,
+            "type": 4,
+            "region": null,
+            "alias": "Khôn Duy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8507258",
+            "lng": "105.6837789"
+        },
+        {
+            "id": 754900,
+            "name": "Núi Sáo",
+            "pid": 4597,
+            "type": 18,
+            "region": null,
+            "alias": "Núi Sáo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.853681100000006",
+            "lng": "105.66764710000008"
+        },
+        {
+            "id": 807409,
+            "name": "Thôn Vôi Đá",
+            "pid": 4597,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vôi đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.853681100000006",
+            "lng": "105.66764710000008"
+        },
+        {
+            "id": 54346,
+            "name": "Ubnd Xã Mỹ Lương",
+            "pid": 4597,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Mỹ Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 117521,
+            "name": "Xóm Đông",
+            "pid": 4597,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8536811",
+            "lng": "105.6676471"
+        },
+        {
+            "id": 117519,
+            "name": "Xóm Giao",
+            "pid": 4597,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Giao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8536811",
+            "lng": "105.6676471"
+        },
+        {
+            "id": 907996,
+            "name": "Xóm Gốm",
+            "pid": 4597,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Gốm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.853681100000006",
+            "lng": "105.66764710000008"
+        },
+        {
+            "id": 117525,
+            "name": "Xóm Thầy",
+            "pid": 4597,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thầy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8536811",
+            "lng": "105.6676471"
+        },
+        {
+            "id": 117527,
+            "name": "Xóm Trồ",
+            "pid": 4597,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8536811",
+            "lng": "105.6676471"
+        }
+    ],
+    "log_id": "675811bb71bb6982"
+}

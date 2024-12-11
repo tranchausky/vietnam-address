@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 878350,
+            "name": "Lan Đình",
+            "pid": 20106,
+            "type": 16,
+            "region": null,
+            "alias": "Lan đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7612192",
+            "lng": "105.97292549999996"
+        },
+        {
+            "id": 629922,
+            "name": "Thôn Lê Lợi",
+            "pid": 20106,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lê lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7612192",
+            "lng": "105.97292549999997"
+        },
+        {
+            "id": 629925,
+            "name": "Thôn Quang Trung",
+            "pid": 20106,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quang trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7612192",
+            "lng": "105.97292549999997"
+        },
+        {
+            "id": 878353,
+            "name": "Tiền Phong",
+            "pid": 20106,
+            "type": 16,
+            "region": null,
+            "alias": "Tiền Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7612192",
+            "lng": "105.97292549999996"
+        }
+    ],
+    "log_id": "67581490c0d7f292"
+}

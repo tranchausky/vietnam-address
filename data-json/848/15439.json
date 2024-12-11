@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 856210,
+            "name": "Đồng Khánh",
+            "pid": 15439,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3657201",
+            "lng": "105.97586329999999"
+        },
+        {
+            "id": 427993,
+            "name": "Thôn Bắc Dinh",
+            "pid": 15439,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc Dinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1781766",
+            "lng": "106.0710255"
+        },
+        {
+            "id": 427995,
+            "name": "Thôn Bắc Trị",
+            "pid": 15439,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0090206",
+            "lng": "105.8065732"
+        },
+        {
+            "id": 427999,
+            "name": "Thôn Đại Tiến",
+            "pid": 15439,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Đại Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0055636",
+            "lng": "105.846166"
+        },
+        {
+            "id": 427991,
+            "name": "Thôn Hồng Dinh",
+            "pid": 15439,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Hồng Dinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6328015",
+            "lng": "106.4464766"
+        },
+        {
+            "id": 427997,
+            "name": "Thôn Toàn Thắng",
+            "pid": 15439,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Toàn Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8464817",
+            "lng": "106.2904635"
+        },
+        {
+            "id": 427989,
+            "name": "Thôn Trần Phú",
+            "pid": 15439,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9723243",
+            "lng": "105.884813"
+        }
+    ],
+    "log_id": "675816e9d22fa654"
+}

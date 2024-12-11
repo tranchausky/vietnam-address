@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1979,
+            "name": "Huyện Đại Từ",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đại Từ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6304358",
+            "lng": "105.6412527"
+        },
+        {
+            "id": 1980,
+            "name": "Huyện Định Hóa",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Định Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8879551",
+            "lng": "105.61779419999993"
+        },
+        {
+            "id": 1981,
+            "name": "Huyện Đồng Hỷ",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đồng Hỷ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6286393",
+            "lng": "105.89949560000002"
+        },
+        {
+            "id": 1983,
+            "name": "Huyện Phú Bình",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phú Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4849768",
+            "lng": "105.94648740000002"
+        },
+        {
+            "id": 1984,
+            "name": "Huyện Phú Lương",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phú Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.786057",
+            "lng": "105.71164640000006"
+        },
+        {
+            "id": 1985,
+            "name": "Huyện Võ Nhai",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Võ Nhai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7793409",
+            "lng": "106.01699710000003"
+        },
+        {
+            "id": 1987,
+            "name": "Thành Phố Sông Công",
+            "pid": 864,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Sông Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4757637",
+            "lng": "105.82347660000005"
+        },
+        {
+            "id": 1986,
+            "name": "Thành Phố Thái Nguyên",
+            "pid": 864,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Thái Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5671559",
+            "lng": "105.82520380000005"
+        },
+        {
+            "id": 1982,
+            "name": "Thị Xã Phổ Yên",
+            "pid": 864,
+            "type": 7,
+            "region": null,
+            "alias": "Thị xã Phổ Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.413875",
+            "lng": "105.8486183"
+        }
+    ],
+    "log_id": "67590a096bc0496"
+}

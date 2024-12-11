@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1513,
+            "name": "Huyện Gia Bình",
+            "pid": 837,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Gia Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0764073",
+            "lng": "106.21691390000001"
+        },
+        {
+            "id": 1514,
+            "name": "Huyện Lương Tài",
+            "pid": 837,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Lương Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0278149",
+            "lng": "106.24044679999997"
+        },
+        {
+            "id": 1515,
+            "name": "Huyện Quế Võ",
+            "pid": 837,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Quế Võ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1377307",
+            "lng": "106.18161959999998"
+        },
+        {
+            "id": 1516,
+            "name": "Huyện Thuận Thành",
+            "pid": 837,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thuận Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0357781",
+            "lng": "106.07925739999996"
+        },
+        {
+            "id": 1517,
+            "name": "Huyện Tiên Du",
+            "pid": 837,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tiên Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1178311",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 1518,
+            "name": "Huyện Yên Phong",
+            "pid": 837,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Yên Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 1519,
+            "name": "Thành Phố Bắc Ninh",
+            "pid": 837,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Bắc Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1766814",
+            "lng": "106.06215910000003"
+        },
+        {
+            "id": 1520,
+            "name": "Thị Xã Từ Sơn",
+            "pid": 837,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Từ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        }
+    ],
+    "log_id": "675815f88782339"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111981,
+            "name": "Thôn Cù Hin",
+            "pid": 16431,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cù Hin",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0695943",
+            "lng": "109.1851621"
+        },
+        {
+            "id": 111987,
+            "name": "Thôn Thủy Triều",
+            "pid": 16431,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thủy Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1157465",
+            "lng": "109.1956888"
+        }
+    ],
+    "log_id": "67581585d6fc0256"
+}

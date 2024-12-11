@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 581769,
+            "name": "Bản Chao",
+            "pid": 21462,
+            "type": 16,
+            "region": null,
+            "alias": "bản chao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 581784,
+            "name": "Na Lau",
+            "pid": 21462,
+            "type": 16,
+            "region": null,
+            "alias": "Na Lau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 581775,
+            "name": "Na Môn",
+            "pid": 21462,
+            "type": 16,
+            "region": null,
+            "alias": "Na Môn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 819793,
+            "name": "Ná No",
+            "pid": 21462,
+            "type": 18,
+            "region": null,
+            "alias": "Ná No",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 581778,
+            "name": "Thôn Cướm",
+            "pid": 21462,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cướm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 581772,
+            "name": "Thôn Na Lạnh",
+            "pid": 21462,
+            "type": 16,
+            "region": null,
+            "alias": "thôn na lạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 924127,
+            "name": "Xóm Hốc",
+            "pid": 21462,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        },
+        {
+            "id": 819784,
+            "name": "Xốp Hốc",
+            "pid": 21462,
+            "type": 16,
+            "region": null,
+            "alias": "Xốp Hốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4315488",
+            "lng": "104.97028210000008"
+        }
+    ],
+    "log_id": "67581208a4a7f355"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114541,
+            "name": "Phú Cang 1 Bắc",
+            "pid": 19720,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Cang 1 Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.705841",
+            "lng": "109.222996"
+        },
+        {
+            "id": 114531,
+            "name": "Phú Cang 2",
+            "pid": 19720,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Cang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.696816",
+            "lng": "109.214660"
+        },
+        {
+            "id": 639850,
+            "name": "Phú Cang 2 Nam",
+            "pid": 19720,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Cang 2 Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.699792",
+            "lng": "109.198728"
+        },
+        {
+            "id": 118333,
+            "name": "Tân Phú",
+            "pid": 19720,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.729181,",
+            "lng": "109.183147"
+        },
+        {
+            "id": 114517,
+            "name": "Thôn Phú Cang 1",
+            "pid": 19720,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Cang 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.701530",
+            "lng": "109.212115"
+        },
+        {
+            "id": 114563,
+            "name": "Thônvinh Huề",
+            "pid": 19720,
+            "type": 16,
+            "region": null,
+            "alias": "ThônVinh Huề",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.703851",
+            "lng": "109.196993"
+        }
+    ],
+    "log_id": "67581585a4d91134"
+}

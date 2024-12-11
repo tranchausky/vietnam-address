@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1005985,
+            "name": "22-68 Nguyễn Trãi",
+            "pid": 41230,
+            "type": 29,
+            "region": null,
+            "alias": "22-68 Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.001377225350698",
+            "lng": "105.81732967443001"
+        },
+        {
+            "id": 643,
+            "name": "Cự Lộc",
+            "pid": 41230,
+            "type": 2,
+            "region": null,
+            "alias": "Cự Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.002933",
+            "lng": "105.81170799999995"
+        },
+        {
+            "id": 877567,
+            "name": "Đường Cự Lộc",
+            "pid": 41230,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cự Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,001047",
+            "lng": "105,817724"
+        },
+        {
+            "id": 877573,
+            "name": "Đường Thượng Đình",
+            "pid": 41230,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thượng Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,001047",
+            "lng": "105,817724"
+        },
+        {
+            "id": 650872,
+            "name": "Lẻ 165-351 Quan Nhân",
+            "pid": 41230,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 165-351 Quan Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.003693",
+            "lng": "105.811215"
+        },
+        {
+            "id": 980084,
+            "name": "Ngõ 133 Nguyễn Trãi",
+            "pid": 41230,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 133 Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999290",
+            "lng": "105.814825"
+        },
+        {
+            "id": 641,
+            "name": "Thượng Đình",
+            "pid": 41230,
+            "type": 2,
+            "region": null,
+            "alias": "Thượng Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0006046",
+            "lng": "105.8158204"
+        },
+        {
+            "id": 980091,
+            "name": "Tòa R1 Royal City",
+            "pid": 41230,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa R1 Royal City",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.00334727013215",
+            "lng": "105.81388873307499"
+        }
+    ],
+    "log_id": "675811bc9cefa228"
+}

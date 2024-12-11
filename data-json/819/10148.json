@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 985846,
+            "name": "Kđt Hoa Nhàn",
+            "pid": 10148,
+            "type": 5,
+            "region": null,
+            "alias": "KĐT Hoa Nhàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.034249021415423",
+            "lng": "106.7430414789621"
+        },
+        {
+            "id": 554769,
+            "name": "Khu 1",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0174575",
+            "lng": "106.75295140000003"
+        },
+        {
+            "id": 554765,
+            "name": "Khu Bí Giàng",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Bí Giàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0174575",
+            "lng": "106.75295140000003"
+        },
+        {
+            "id": 701206,
+            "name": "Khu Cầu Sến",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Cầu Sến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.017457500000006",
+            "lng": "106.75295140000004"
+        },
+        {
+            "id": 554767,
+            "name": "Khu Lạc Thanh",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Lạc Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0174575",
+            "lng": "106.75295140000003"
+        },
+        {
+            "id": 723025,
+            "name": "Khu Núi Gạc",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Núi Gạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.017457500000006",
+            "lng": "106.75295140000004"
+        },
+        {
+            "id": 554761,
+            "name": "Khu Phú Thanh Đông",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phú Thanh Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0174575",
+            "lng": "106.75295140000003"
+        },
+        {
+            "id": 554763,
+            "name": "Khu Phú Thanh Tây",
+            "pid": 10148,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phú Thanh Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0174575",
+            "lng": "106.75295140000003"
+        }
+    ],
+    "log_id": "675814c23439f128"
+}

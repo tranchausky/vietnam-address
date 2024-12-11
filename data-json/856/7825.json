@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 925654,
+            "name": "Đường 477",
+            "pid": 7825,
+            "type": 16,
+            "region": null,
+            "alias": "đường 477",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3533055",
+            "lng": "105.81435280000004"
+        },
+        {
+            "id": 562453,
+            "name": "Thôn Đoan Bình",
+            "pid": 7825,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đoan bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3533055",
+            "lng": "105.81435280000005"
+        },
+        {
+            "id": 562455,
+            "name": "Thôn Kính Chúc",
+            "pid": 7825,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn kính chúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3533055",
+            "lng": "105.81435280000005"
+        },
+        {
+            "id": 562451,
+            "name": "Thôn Ngô Đồng",
+            "pid": 7825,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngô đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3533055",
+            "lng": "105.81435280000005"
+        }
+    ],
+    "log_id": "67581798f27df401"
+}

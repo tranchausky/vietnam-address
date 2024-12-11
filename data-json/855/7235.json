@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 925567,
+            "name": "Đỗ Trình Thoại",
+            "pid": 7235,
+            "type": 10,
+            "region": null,
+            "alias": "Đỗ Trình Thoại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5483857",
+            "lng": "106.4229199"
+        },
+        {
+            "id": 852364,
+            "name": "Khu Phố Bình Phú",
+            "pid": 7235,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5483857",
+            "lng": "106.42291990000001"
+        },
+        {
+            "id": 712561,
+            "name": "Khu Phố Nhơn Hòa 1",
+            "pid": 7235,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố nhơn hòa 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712567,
+            "name": "Khu Phố Nhơn Hòa 2",
+            "pid": 7235,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố nhơn hòa 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712534,
+            "name": "Khu Phố Nhơn Phú",
+            "pid": 7235,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Nhơn Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 871606,
+            "name": "Khu Phố Thanh Xuân",
+            "pid": 7235,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Thanh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.534168199999998",
+            "lng": "106.42233579999993"
+        },
+        {
+            "id": 916603,
+            "name": "Nguyễn Văn Tiếp",
+            "pid": 7235,
+            "type": 10,
+            "region": null,
+            "alias": "Nguyễn Văn Tiếp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5483857",
+            "lng": "106.4229199"
+        },
+        {
+            "id": 871627,
+            "name": "Tòa Nhà Viettel Long An",
+            "pid": 7235,
+            "type": 4,
+            "region": null,
+            "alias": "tòa nhà Viettel Long An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5483857",
+            "lng": "106.4229199"
+        }
+    ],
+    "log_id": "675817851cf29270"
+}

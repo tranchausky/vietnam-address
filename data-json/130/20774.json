@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 590151,
+            "name": "Bản Hang Chú",
+            "pid": 20774,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hang Chú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3565554",
+            "lng": "104.30937590000008"
+        },
+        {
+            "id": 590157,
+            "name": "Bản Pa Cư Sáng",
+            "pid": 20774,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pa Cư Sáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3565554",
+            "lng": "104.30937590000008"
+        },
+        {
+            "id": 430255,
+            "name": "Bản Pá Đông",
+            "pid": 20774,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pá Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3565554",
+            "lng": "104.30937590000008"
+        },
+        {
+            "id": 590160,
+            "name": "Bản Pá Hốc",
+            "pid": 20774,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pá Hốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3565554",
+            "lng": "104.30937590000008"
+        },
+        {
+            "id": 590154,
+            "name": "Bản Phình Hồ",
+            "pid": 20774,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Phình Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3565554",
+            "lng": "104.30937590000008"
+        },
+        {
+            "id": 590166,
+            "name": "Bản Suối Lềnh",
+            "pid": 20774,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Suối Lềnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3565554",
+            "lng": "104.30937590000008"
+        }
+    ],
+    "log_id": "675812ef204e6229"
+}

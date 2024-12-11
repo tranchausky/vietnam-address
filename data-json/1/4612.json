@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117691,
+            "name": "Chi Nê",
+            "pid": 4612,
+            "type": 16,
+            "region": null,
+            "alias": "Chi Nê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4892421",
+            "lng": "105.7850022"
+        },
+        {
+            "id": 818224,
+            "name": "Thôn Đỉnh Ngàn",
+            "pid": 4612,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đỉnh ngàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8959102",
+            "lng": "105.65005040000005"
+        },
+        {
+            "id": 117693,
+            "name": "Tinh Mỹ",
+            "pid": 4612,
+            "type": 16,
+            "region": null,
+            "alias": "Tinh Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8976441",
+            "lng": " 105.633833"
+        },
+        {
+            "id": 117697,
+            "name": "Trung Cao",
+            "pid": 4612,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9061808",
+            "lng": "105.6477593"
+        },
+        {
+            "id": 54306,
+            "name": "Ubnd Xã Trung Hòa",
+            "pid": 4612,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Trung Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 807436,
+            "name": "Xóm Gò Đậu",
+            "pid": 4612,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Gò đậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8959102",
+            "lng": "105.65005040000004"
+        }
+    ],
+    "log_id": "675811bb74e39276"
+}

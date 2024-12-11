@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 426437,
+            "name": "Thọ Ninh",
+            "pid": 21253,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.544423",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 426435,
+            "name": "Thọ Tường",
+            "pid": 21253,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Tường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.544423",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 928744,
+            "name": "Xóm 3",
+            "pid": 21253,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.544423",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 426441,
+            "name": "Yên Mỹ",
+            "pid": 21253,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.544423",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 426439,
+            "name": "Yên Phú",
+            "pid": 21253,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.544423",
+            "lng": "105.6031342"
+        }
+    ],
+    "log_id": "675816e9cc085967"
+}

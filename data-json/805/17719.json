@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 963705,
+            "name": "Thôn Thúy Lâm",
+            "pid": 17719,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thúy lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8652681",
+            "lng": "106.4465117"
+        },
+        {
+            "id": 963707,
+            "name": "Thôn Tráng Liệt",
+            "pid": 17719,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tráng liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8574882",
+            "lng": "106.4285409"
+        }
+    ],
+    "log_id": "675813f1c98e5647"
+}

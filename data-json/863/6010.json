@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 967939,
+            "name": "1-277 Đường Quang Trung",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "1-277 đường Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.435315583667332, ",
+            "lng": "106.33139508148993"
+        },
+        {
+            "id": 408793,
+            "name": "Chẵn 2-120 Đường Ngô Thì Nhậm",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 2-120 đường Ngô Thì Nhậm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4373541",
+            "lng": "106.33195339999997"
+        },
+        {
+            "id": 930307,
+            "name": "Chẵn 80-94 Kỳ Đồng",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 80-94 Kỳ Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.437354100000004",
+            "lng": "106.33195339999996"
+        },
+        {
+            "id": 967865,
+            "name": "Chẵn 290-366 Đường Phan Bá Vành",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "chẵn 290-366 đường Phan Bá Vành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.434101810457324",
+            "lng": "106.32723959657957"
+        },
+        {
+            "id": 967884,
+            "name": "Chẵn 368-400 Đường Phan Bá Vành",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 368-400 đường Phan Bá Vành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.435315583667332, ",
+            "lng": "106.33139508148993"
+        },
+        {
+            "id": 408801,
+            "name": "Chẵn 462-580 Lý Bôn",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "chẵn 462-580 Lý Bôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4373541",
+            "lng": "106.33195339999997"
+        },
+        {
+            "id": 408789,
+            "name": "Đường Hoàng Công Chất",
+            "pid": 6010,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Hoàng Công Chất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4373541",
+            "lng": "106.33195339999997"
+        },
+        {
+            "id": 1010149,
+            "name": "Đường Lý Thái Tổ",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thái Tổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.439845961171805",
+            "lng": " 106.33427276944381"
+        },
+        {
+            "id": 408795,
+            "name": "Đường Ngô Văn Sở",
+            "pid": 6010,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Ngô Văn Sở",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4373541",
+            "lng": "106.33195339999997"
+        },
+        {
+            "id": 967922,
+            "name": "Lẻ 311-323 Phan Bá Vành",
+            "pid": 6010,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 311-323 Phan Bá Vành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.435315583667332, ",
+            "lng": "106.33139508148993"
+        }
+    ],
+    "log_id": "675909f3baf87723"
+}

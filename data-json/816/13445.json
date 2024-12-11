@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 735493,
+            "name": "Bến Xe Triều Dương",
+            "pid": 13445,
+            "type": 16,
+            "region": null,
+            "alias": "Bến Xe Triều Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654932341120354",
+            "lng": "106.1241894293228"
+        },
+        {
+            "id": 735490,
+            "name": "Công Ty May Thiên Sơn",
+            "pid": 13445,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty May Thiên Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.656069751518487",
+            "lng": "106.12273838143874"
+        },
+        {
+            "id": 735526,
+            "name": "Thôn Diệt Phát",
+            "pid": 13445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Diệt Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 735523,
+            "name": "Thôn Lam Sơn",
+            "pid": 13445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 741079,
+            "name": "Thôn Tân Khai",
+            "pid": 13445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Khai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6551762",
+            "lng": "106.11399000000006"
+        },
+        {
+            "id": 735520,
+            "name": "Thôn Thiện Phiến",
+            "pid": 13445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Phiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 758743,
+            "name": "Thôn Toàn Tiến",
+            "pid": 13445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Toàn Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6551762",
+            "lng": "106.11399000000006"
+        }
+    ],
+    "log_id": "6758149102e36635"
+}

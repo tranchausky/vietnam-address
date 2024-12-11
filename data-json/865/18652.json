@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558503,
+            "name": "Đông Hoa",
+            "pid": 18652,
+            "type": 18,
+            "region": null,
+            "alias": "Đông Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6177049",
+            "lng": "105.75565640000002"
+        },
+        {
+            "id": 558499,
+            "name": "Nguyên Ngọc",
+            "pid": 18652,
+            "type": 18,
+            "region": null,
+            "alias": "Nguyên Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6177049",
+            "lng": "105.75565640000002"
+        },
+        {
+            "id": 558501,
+            "name": "Tân Ngọc",
+            "pid": 18652,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6177049",
+            "lng": "105.75565640000002"
+        },
+        {
+            "id": 558505,
+            "name": "Trường Thành",
+            "pid": 18652,
+            "type": 18,
+            "region": null,
+            "alias": "Trường Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6177049",
+            "lng": "105.75565640000002"
+        },
+        {
+            "id": 558507,
+            "name": "Yên Tuần",
+            "pid": 18652,
+            "type": 18,
+            "region": null,
+            "alias": "Yên Tuần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6177049",
+            "lng": "105.75565640000002"
+        }
+    ],
+    "log_id": "67590a24ba7cc424"
+}

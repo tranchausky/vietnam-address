@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562333,
+            "name": "Phố Me",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 562331,
+            "name": "Phố Mới",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 562343,
+            "name": "Phố Mỹ Cát",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố mỹ cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 562335,
+            "name": "Phố Mỹ Sơn",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố mỹ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 562337,
+            "name": "Phố Mỹ Trung",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Mỹ Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 819874,
+            "name": "Phố Tân Mỹ",
+            "pid": 7828,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Tân Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 562341,
+            "name": "Phố Thống Nhất",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Thống nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 562339,
+            "name": "Phố Tiến Yết",
+            "pid": 7828,
+            "type": 10,
+            "region": null,
+            "alias": "Phố tiến yết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3511349",
+            "lng": "105.83783659999995"
+        }
+    ],
+    "log_id": "6758179905248275"
+}

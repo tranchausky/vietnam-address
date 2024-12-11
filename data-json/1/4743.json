@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100838,
+            "name": "Phố Cầu Giẽ",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "phố cầu giẽ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.695531",
+            "lng": "105.910459"
+        },
+        {
+            "id": 100928,
+            "name": "Thôn Cổ Trai",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.701118",
+            "lng": "105.914651"
+        },
+        {
+            "id": 100961,
+            "name": "Thôn Đa Chất",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Chất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.681173",
+            "lng": "105.935529"
+        },
+        {
+            "id": 100982,
+            "name": "Thôn Kiều Đoài",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn kiều đoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.717190",
+            "lng": "105.914117"
+        },
+        {
+            "id": 874294,
+            "name": "Thôn Kiều Đông",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiều Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.71213032488432, ",
+            "lng": "105.92776109491172"
+        },
+        {
+            "id": 726319,
+            "name": "Thôn Thái Lai",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7003229",
+            "lng": "105.91572739999992"
+        },
+        {
+            "id": 101099,
+            "name": "Thôn Thường Xuyên",
+            "pid": 4743,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thường xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.686512",
+            "lng": "105.925026"
+        }
+    ],
+    "log_id": "675811bcd4110277"
+}

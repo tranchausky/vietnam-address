@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444903,
+            "name": "Ấp Cây Cám",
+            "pid": 15732,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cây Cám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5249522",
+            "lng": "107.34940430000006"
+        },
+        {
+            "id": 444905,
+            "name": "Ấp Gò Sầm",
+            "pid": 15732,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Gò Sầm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5249522",
+            "lng": "107.34940430000006"
+        },
+        {
+            "id": 444901,
+            "name": "Ấp Thanh An",
+            "pid": 15732,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thanh An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5249522",
+            "lng": "107.34940430000006"
+        }
+    ],
+    "log_id": "675815b40d0c7750"
+}

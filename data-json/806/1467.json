@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7948,
+            "name": "Phường Châu Văn Liêm",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Châu Văn Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.109625",
+            "lng": "105.6236268"
+        },
+        {
+            "id": 7951,
+            "name": "Phường Long Hưng",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Long Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 7953,
+            "name": "Phường Phước Thới",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Phước Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1136618",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 7952,
+            "name": "Phường Thới An",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thới An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1427952",
+            "lng": "105.6353878"
+        },
+        {
+            "id": 7949,
+            "name": "Phường Thới Hòa",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thới Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1304997",
+            "lng": "105.60899810000001"
+        },
+        {
+            "id": 7950,
+            "name": "Phường Thới Long",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thới Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1770898",
+            "lng": "105.60020239999994"
+        },
+        {
+            "id": 7954,
+            "name": "Phường Trường Lạc",
+            "pid": 1467,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trường Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0713905",
+            "lng": "105.65298299999995"
+        }
+    ],
+    "log_id": "6758140c5f9df965"
+}

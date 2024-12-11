@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 18075,
+            "name": "Phường An Bình A",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Bình A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7829013",
+            "lng": "105.37166839999998"
+        },
+        {
+            "id": 18076,
+            "name": "Phường An Bình B",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Bình B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.787635",
+            "lng": "105.423843"
+        },
+        {
+            "id": 18072,
+            "name": "Phường An Lạc",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8342679",
+            "lng": "105.3306814"
+        },
+        {
+            "id": 18073,
+            "name": "Phường An Lộc",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7976262",
+            "lng": "105.35117360000004"
+        },
+        {
+            "id": 18074,
+            "name": "Phường An Thạnh",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8143532",
+            "lng": "105.3453184"
+        },
+        {
+            "id": 18077,
+            "name": "Xã Bình Thạnh",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8255238",
+            "lng": "105.3950939"
+        },
+        {
+            "id": 18078,
+            "name": "Xã Tân Hội",
+            "pid": 1636,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.849108",
+            "lng": "105.347314"
+        }
+    ],
+    "log_id": "675816c025dab11"
+}

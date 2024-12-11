@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424265,
+            "name": "Phú Thịnh",
+            "pid": 84404,
+            "type": 16,
+            "region": null,
+            "alias": "Phú thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.248763",
+            "lng": "105.4247079"
+        },
+        {
+            "id": 424267,
+            "name": "Tân Cương",
+            "pid": 84404,
+            "type": 21,
+            "region": null,
+            "alias": "Tân cương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.248763",
+            "lng": "105.4247079"
+        }
+    ],
+    "log_id": "675815337acbb862"
+}

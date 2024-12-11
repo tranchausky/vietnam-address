@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 565768,
+            "name": "Đường Hương Lộ 2",
+            "pid": 8011,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hương Lộ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.801828328230233",
+            "lng": "105.23187197350799"
+        },
+        {
+            "id": 565765,
+            "name": "Đường Trần Phú",
+            "pid": 8011,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.801670249014814",
+            "lng": "105.22414051812892"
+        },
+        {
+            "id": 109575,
+            "name": "Khóm Long Châu",
+            "pid": 8011,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.80062305416305",
+            "lng": "105.21759013031662"
+        },
+        {
+            "id": 109759,
+            "name": "Khóm Long Hưng",
+            "pid": 8011,
+            "type": 17,
+            "region": null,
+            "alias": "khóm Long Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.801986",
+            "lng": "105.215410"
+        },
+        {
+            "id": 109613,
+            "name": "Khóm Long Thạnh",
+            "pid": 8011,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.801389",
+            "lng": "105.216360"
+        },
+        {
+            "id": 952998,
+            "name": "Trung Tâm Bồi Dưỡng Chính Trị",
+            "pid": 8011,
+            "type": 21,
+            "region": null,
+            "alias": "Trung Tâm bồi Dưỡng Chính Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.794713926754248",
+            "lng": "105.23441583329553"
+        },
+        {
+            "id": 954489,
+            "name": "Ubnd Long Châu",
+            "pid": 8011,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Long Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.797328",
+            "lng": "105.235274"
+        }
+    ],
+    "log_id": "6758159dc7806945"
+}

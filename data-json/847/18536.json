@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 968515,
+            "name": "Làng Alao",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng ALao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.991150",
+            "lng": "108.304256"
+        },
+        {
+            "id": 954708,
+            "name": "Làng Blen",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Blen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.914042",
+            "lng": "108.285304"
+        },
+        {
+            "id": 968510,
+            "name": "Làng Bờ Dầu",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Bờ Dầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.945820",
+            "lng": "108.341837"
+        },
+        {
+            "id": 623880,
+            "name": "Làng Chóp",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Chóp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9366564",
+            "lng": "108.2637019"
+        },
+        {
+            "id": 968509,
+            "name": "Làng Đăk Lăh",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Đăk Lăh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.961884",
+            "lng": "108.285687"
+        },
+        {
+            "id": 623883,
+            "name": "Làng Hlim",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Hlim",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9366564",
+            "lng": "108.2637019"
+        },
+        {
+            "id": 623886,
+            "name": "Làng Roh",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Roh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9366564",
+            "lng": "108.2637019"
+        },
+        {
+            "id": 968508,
+            "name": "Làng T' Răh",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Làng T' Răh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.955190",
+            "lng": "108.276305"
+        },
+        {
+            "id": 954709,
+            "name": "Trại Chăn Nuôi Bò Lơ Pang",
+            "pid": 18536,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Chăn Nuôi Bò Lơ Pang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.911202",
+            "lng": "108.278913"
+        }
+    ],
+    "log_id": "675816d37e5c7398"
+}

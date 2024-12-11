@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877441,
+            "name": "Đường Đốc Ngữ",
+            "pid": 36,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đốc Ngữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,036332",
+            "lng": "105,815084"
+        },
+        {
+            "id": 829312,
+            "name": "Đường Đội Cấn",
+            "pid": 36,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đội Cấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0379972",
+            "lng": "105.81875579999996"
+        },
+        {
+            "id": 877447,
+            "name": "Đường Liễu Giai",
+            "pid": 36,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Liễu Giai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,036332",
+            "lng": "105,815084"
+        },
+        {
+            "id": 877444,
+            "name": "Đường Vạn Bảo",
+            "pid": 36,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vạn Bảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,036332",
+            "lng": "105,815084"
+        },
+        {
+            "id": 877450,
+            "name": "Đường Văn Cao",
+            "pid": 36,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Văn Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,036332",
+            "lng": "105,815084"
+        },
+        {
+            "id": 10909,
+            "name": "Ngõ 33 Văn Cao",
+            "pid": 36,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 33 Văn Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1766814",
+            "lng": "106.06215910000003"
+        },
+        {
+            "id": 47352,
+            "name": "Ngõ 290 Kim Mã",
+            "pid": 36,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 290 Kim Mã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.034143558863303",
+            "lng": "105.82474185295146"
+        },
+        {
+            "id": 987,
+            "name": "Phố Quần Ngựa",
+            "pid": 36,
+            "type": 8,
+            "region": null,
+            "alias": "Phố Quần Ngựa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0412703",
+            "lng": "105.81504500000005"
+        }
+    ],
+    "log_id": "675811bc4847c340"
+}

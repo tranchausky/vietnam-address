@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 848644,
+            "name": "Bái Vượng",
+            "pid": 15359,
+            "type": 16,
+            "region": null,
+            "alias": "Bái Vượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7628822",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 419693,
+            "name": "Hoàng Thịnh",
+            "pid": 15359,
+            "type": 18,
+            "region": null,
+            "alias": "Hoàng thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7628822",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 764332,
+            "name": "Hoàng Văn",
+            "pid": 15359,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7628822",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 419691,
+            "name": "Thôn Chiếu Thượng",
+            "pid": 15359,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chiếu Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7628822",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 419697,
+            "name": "Thôn Hoàng Mậu",
+            "pid": 15359,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Hoàng Mậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7628822",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 419695,
+            "name": "Thôn Phú Bình",
+            "pid": 15359,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Phú Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7628822",
+            "lng": "105.7175138"
+        }
+    ],
+    "log_id": "67590a23b58eb760"
+}

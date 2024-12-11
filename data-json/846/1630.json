@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 16090,
+            "name": "Thị Trấn Lấp Vò",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Lấp Vò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3577289",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 16091,
+            "name": "Xã Bình Thành",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3413789",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 16092,
+            "name": "Xã Bình Thạnh Trung",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Thạnh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3803603",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 16093,
+            "name": "Xã Định An",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Định An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3219082",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 16094,
+            "name": "Xã Định Yên",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Định Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309874",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 16095,
+            "name": "Xã Hội An Đông",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hội An Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4078862",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 16096,
+            "name": "Xã Long Hưng A",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Hưng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3585135",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 16097,
+            "name": "Xã Long Hưng B",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Hưng B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3264445",
+            "lng": "105.65884849999998"
+        },
+        {
+            "id": 16098,
+            "name": "Xã Mỹ An Hưng A",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mỹ An Hưng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4067257",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 16099,
+            "name": "Xã Mỹ An Hưng B",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mỹ An Hưng B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3831971",
+            "lng": "105.6119301"
+        },
+        {
+            "id": 16100,
+            "name": "Xã Tân Khánh Trung",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Khánh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3791189",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 16101,
+            "name": "Xã Tân Mỹ",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3923418",
+            "lng": "105.64711779999993"
+        },
+        {
+            "id": 16102,
+            "name": "Xã Vĩnh Thạnh",
+            "pid": 1630,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3363197",
+            "lng": "105.6181712"
+        }
+    ],
+    "log_id": "675816c026594914"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445283,
+            "name": "Ấp 1",
+            "pid": 17547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6970348",
+            "lng": "107.37305630000003"
+        },
+        {
+            "id": 445285,
+            "name": "Ấp 2 Đông",
+            "pid": 17547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6970348",
+            "lng": "107.37305630000003"
+        },
+        {
+            "id": 445287,
+            "name": "Ấp 2 Tây",
+            "pid": 17547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6970348",
+            "lng": "107.37305630000003"
+        },
+        {
+            "id": 445289,
+            "name": "Ấp 2B",
+            "pid": 17547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6970348",
+            "lng": "107.37305630000003"
+        },
+        {
+            "id": 445291,
+            "name": "Ấp 3",
+            "pid": 17547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6970348",
+            "lng": "107.37305630000003"
+        },
+        {
+            "id": 445293,
+            "name": "Ấp 3B",
+            "pid": 17547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6970348",
+            "lng": "107.37305630000003"
+        }
+    ],
+    "log_id": "675815b3ec107827"
+}

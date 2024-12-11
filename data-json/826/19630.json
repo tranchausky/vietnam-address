@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 653917,
+            "name": "Thôn An Lạc 1",
+            "pid": 19630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An lạc 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.18122886681012",
+            "lng": "109.02027546744735"
+        },
+        {
+            "id": 653914,
+            "name": "Thôn An Lạc 2",
+            "pid": 19630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Lạc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.184302642135195",
+            "lng": "109.04005963260511"
+        },
+        {
+            "id": 563727,
+            "name": "Thôn Gia Vấn",
+            "pid": 19630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia Vấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.169331773529432",
+            "lng": "109.02220335523762"
+        },
+        {
+            "id": 654199,
+            "name": "Thôn Hội Khánh",
+            "pid": 19630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.195831007471515,",
+            "lng": "109.01894271547758"
+        },
+        {
+            "id": 654334,
+            "name": "Thôn Hội Phú",
+            "pid": 19630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.19432304391807",
+            "lng": "109.01908104881623"
+        },
+        {
+            "id": 654160,
+            "name": "Thôn Phước Thọ",
+            "pid": 19630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.184492853437202",
+            "lng": "109.01999278539145"
+        }
+    ],
+    "log_id": "6758150d9c8da279"
+}

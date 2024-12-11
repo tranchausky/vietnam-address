@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397999,
+            "name": "Bùi Hòa",
+            "pid": 7196,
+            "type": 16,
+            "region": null,
+            "alias": "Bùi Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7614248",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 397997,
+            "name": "Di Linh",
+            "pid": 7196,
+            "type": 16,
+            "region": null,
+            "alias": "Di Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7614248",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 398001,
+            "name": "Tam Cửu",
+            "pid": 7196,
+            "type": 16,
+            "region": null,
+            "alias": "Tam Cửu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7614248",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 398003,
+            "name": "Xuân Trì",
+            "pid": 7196,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7614248",
+            "lng": "106.27280910000002"
+        }
+    ],
+    "log_id": "675813f1b94e3508"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877546,
+            "name": "Đường Châu Văn Liêm",
+            "pid": 22979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Châu Văn Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,012253",
+            "lng": "105,775183"
+        },
+        {
+            "id": 881542,
+            "name": "Đường Lê Quang Đạo",
+            "pid": 22979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Quang Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,011387",
+            "lng": "105,77062"
+        },
+        {
+            "id": 881545,
+            "name": "Đường Nguyễn Văn Giáp",
+            "pid": 22979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn văn giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,011387",
+            "lng": "105,77062"
+        },
+        {
+            "id": 877555,
+            "name": "Đường Sa Đôi",
+            "pid": 22979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sa Đôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,012253",
+            "lng": "105,775183"
+        },
+        {
+            "id": 3926,
+            "name": "Sa Đôi",
+            "pid": 22979,
+            "type": 2,
+            "region": null,
+            "alias": "Sa Đôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.046723",
+            "lng": "105.74843120000003"
+        },
+        {
+            "id": 17598,
+            "name": "Vườn Cam",
+            "pid": 22979,
+            "type": 2,
+            "region": null,
+            "alias": "Vườn Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0140423",
+            "lng": "105.77110229999994"
+        },
+        {
+            "id": 1008112,
+            "name": "Xóm La",
+            "pid": 22979,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.00946793704255",
+            "lng": "105.76211479486356"
+        }
+    ],
+    "log_id": "675811bc9e19f644"
+}

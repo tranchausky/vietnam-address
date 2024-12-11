@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 106169,
+            "name": "Khu Vực 1",
+            "pid": 7364,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.6870607",
+            "lng": "109.2303731"
+        },
+        {
+            "id": 106196,
+            "name": "Khu Vực 2",
+            "pid": 7364,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7227002",
+            "lng": "109.2088168"
+        },
+        {
+            "id": 106220,
+            "name": "Khu Vực 3",
+            "pid": 7364,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7408174",
+            "lng": "109.2073301"
+        },
+        {
+            "id": 106238,
+            "name": "Khu Vực 4",
+            "pid": 7364,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3044392",
+            "lng": "105.6203997"
+        },
+        {
+            "id": 106295,
+            "name": "Khu Vực 5",
+            "pid": 7364,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0730366",
+            "lng": "105.7579323"
+        }
+    ],
+    "log_id": "6758178506190608"
+}

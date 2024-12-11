@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451929,
+            "name": "Ấp Cà Na",
+            "pid": 7336,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cà Na",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.844825",
+            "lng": "105.76445960000001"
+        },
+        {
+            "id": 451931,
+            "name": "Ấp Cả Nga",
+            "pid": 7336,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Nga",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.844825",
+            "lng": "105.76445960000001"
+        },
+        {
+            "id": 451933,
+            "name": "Ấp Kinh Mới",
+            "pid": 7336,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Kinh Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.844825",
+            "lng": "105.76445960000001"
+        },
+        {
+            "id": 451935,
+            "name": "Ấp Ông Lẹt",
+            "pid": 7336,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Ông Lẹt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.844825",
+            "lng": "105.76445960000001"
+        },
+        {
+            "id": 451927,
+            "name": "Ấp Xóm Mới",
+            "pid": 7336,
+            "type": 10,
+            "region": null,
+            "alias": "Ấp Xóm Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.844825",
+            "lng": "105.76445960000001"
+        }
+    ],
+    "log_id": "675817852b957689"
+}

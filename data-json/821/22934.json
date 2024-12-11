@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 937820,
+            "name": "Bản Chổi",
+            "pid": 22934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chổi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.574673800000006",
+            "lng": "104.88048930000002"
+        },
+        {
+            "id": 582165,
+            "name": "Bản Cọ Muồng",
+            "pid": 22934,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Cọ Muồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5746738",
+            "lng": "104.88048930000002"
+        },
+        {
+            "id": 767161,
+            "name": "Bản Đô",
+            "pid": 22934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản đô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.574673800000006",
+            "lng": "104.88048930000002"
+        },
+        {
+            "id": 767167,
+            "name": "Bản Hữu Văn",
+            "pid": 22934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hữu Văn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.574673800000006",
+            "lng": "104.88048930000002"
+        },
+        {
+            "id": 582171,
+            "name": "Bản Khoằng Đồ",
+            "pid": 22934,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Khoằng đồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5746738",
+            "lng": "104.88048930000002"
+        },
+        {
+            "id": 665311,
+            "name": "Bản Kim Khê",
+            "pid": 22934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Kim Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 582168,
+            "name": "Bản Liên Phương",
+            "pid": 22934,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Liên Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5746738",
+            "lng": "104.88048930000002"
+        }
+    ],
+    "log_id": "67581208adc9f788"
+}

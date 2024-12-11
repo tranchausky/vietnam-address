@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 531325,
+            "name": "Xóm 1",
+            "pid": 20378,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        },
+        {
+            "id": 812443,
+            "name": "Xóm 3",
+            "pid": 20378,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        },
+        {
+            "id": 531319,
+            "name": "Xóm 4",
+            "pid": 20378,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        },
+        {
+            "id": 812440,
+            "name": "Xóm 5",
+            "pid": 20378,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        },
+        {
+            "id": 763819,
+            "name": "Xóm 6",
+            "pid": 20378,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        },
+        {
+            "id": 531327,
+            "name": "Xóm Đình Phùng",
+            "pid": 20378,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đình Phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        },
+        {
+            "id": 531331,
+            "name": "Xóm Tân Quang",
+            "pid": 20378,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tân Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9987238",
+            "lng": "105.491758"
+        }
+    ],
+    "log_id": "67581208b7d5152"
+}

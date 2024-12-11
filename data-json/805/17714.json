@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514259,
+            "name": "An Khoái",
+            "pid": 17714,
+            "type": 18,
+            "region": null,
+            "alias": "An Khoái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7708183",
+            "lng": "106.2322623"
+        },
+        {
+            "id": 514261,
+            "name": "An Nghiệp",
+            "pid": 17714,
+            "type": 16,
+            "region": null,
+            "alias": "An Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7708183",
+            "lng": "106.2322623"
+        },
+        {
+            "id": 514263,
+            "name": "Gia Cốc",
+            "pid": 17714,
+            "type": 16,
+            "region": null,
+            "alias": "Gia Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7708183",
+            "lng": "106.2322623"
+        },
+        {
+            "id": 514265,
+            "name": "Phú Mễ",
+            "pid": 17714,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Mễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7708183",
+            "lng": "106.2322623"
+        }
+    ],
+    "log_id": "675813f1f3409776"
+}

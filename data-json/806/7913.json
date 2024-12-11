@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 996481,
+            "name": "29-89 Đường 3\/2",
+            "pid": 7913,
+            "type": 29,
+            "region": null,
+            "alias": "29-89 đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0196923",
+            "lng": "105.7554875"
+        },
+        {
+            "id": 564163,
+            "name": "Bến Xe 91B",
+            "pid": 7913,
+            "type": 4,
+            "region": null,
+            "alias": "Bến xe 91B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.024088",
+            "lng": "105.761916"
+        },
+        {
+            "id": 120111,
+            "name": "Đường 3 Tháng 2",
+            "pid": 7913,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 3 tháng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.017081",
+            "lng": "105.751436"
+        },
+        {
+            "id": 120119,
+            "name": "Đường 30 Tháng 4 - Hưng Lợi",
+            "pid": 7913,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 30 tháng 4 - Hưng Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.015465",
+            "lng": "105.763569"
+        },
+        {
+            "id": 120123,
+            "name": "Đường Nguyễn Văn Linh - Phường Hưng Lợi",
+            "pid": 7913,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Linh - Phường Hưng Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.020729",
+            "lng": "105.766268"
+        },
+        {
+            "id": 120125,
+            "name": "Đường Tầm Vu",
+            "pid": 7913,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tầm Vu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.011606",
+            "lng": "105.769354"
+        },
+        {
+            "id": 120121,
+            "name": "Đường Trần Hoàng Na",
+            "pid": 7913,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hoàng Na",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.011844",
+            "lng": "105.764709"
+        },
+        {
+            "id": 867118,
+            "name": "Đường Trần Ngọc Quế",
+            "pid": 7913,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Ngọc Quế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0146429",
+            "lng": "105.76152520000005"
+        },
+        {
+            "id": 564166,
+            "name": "Hẻm 12 Đường 3\/2",
+            "pid": 7913,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 12 đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.013947",
+            "lng": "105.755220"
+        },
+        {
+            "id": 564190,
+            "name": "Hẻm 68 Đường 3\/2",
+            "pid": 7913,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 68 đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.015728",
+            "lng": "105.758397"
+        },
+        {
+            "id": 564160,
+            "name": "Hẻm 102 Đường 3\/2",
+            "pid": 7913,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 102 đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.017663",
+            "lng": "105.759095"
+        },
+        {
+            "id": 564169,
+            "name": "Hẻm 391 Đường 30\/4",
+            "pid": 7913,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 391 đường 30\/4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.018866",
+            "lng": "105.768317"
+        },
+        {
+            "id": 996483,
+            "name": "Lẻ 91-209 Đường 3\/2",
+            "pid": 7913,
+            "type": 29,
+            "region": null,
+            "alias": "lẻ 91-209 đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0196928",
+            "lng": "105.7554877"
+        }
+    ],
+    "log_id": "6758140cbd9fc935"
+}

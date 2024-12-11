@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 627360,
+            "name": "Thôn Bong Bang",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bong Bang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627366,
+            "name": "Thôn Đăk Xây",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Xây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627363,
+            "name": "Thôn Kon Liêm",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Liêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627369,
+            "name": "Thôn Long Ri",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Ri",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627372,
+            "name": "Thôn Tân Dum",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Dum",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627375,
+            "name": "Thôn Xốp Dùi",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xốp Dùi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627378,
+            "name": "Thôn Xốp Nghẹt",
+            "pid": 19242,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xốp Nghẹt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0814057",
+            "lng": "107.8346924"
+        }
+    ],
+    "log_id": "6758174cd8590966"
+}

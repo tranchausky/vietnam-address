@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 645679,
+            "name": "Bàn Giang .",
+            "pid": 6395,
+            "type": 16,
+            "region": null,
+            "alias": "bàn giang .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 645685,
+            "name": "Bàn Mạch.",
+            "pid": 6395,
+            "type": 16,
+            "region": null,
+            "alias": "bàn mạch.",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 645715,
+            "name": "Đan Thượng .",
+            "pid": 6395,
+            "type": 16,
+            "region": null,
+            "alias": "đan thượng .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 645718,
+            "name": "Đình .",
+            "pid": 6395,
+            "type": 18,
+            "region": null,
+            "alias": "đình .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 645697,
+            "name": "Yên Xuyên .",
+            "pid": 6395,
+            "type": 16,
+            "region": null,
+            "alias": "yên xuyên .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        }
+    ],
+    "log_id": "675815337b040737"
+}

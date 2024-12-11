@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115755,
+            "name": "Ấp Cây Gỏ",
+            "pid": 24021,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Gỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.542256",
+            "lng": "104.835245"
+        },
+        {
+            "id": 115747,
+            "name": "Ấp Kênh 5 Đất Sét",
+            "pid": 24021,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kênh 5 Đất Sét",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.542073",
+            "lng": "104.901831"
+        },
+        {
+            "id": 115741,
+            "name": "Ấp Kim Qui A1",
+            "pid": 24021,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kim Qui A1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.551818",
+            "lng": "104.880363"
+        },
+        {
+            "id": 115745,
+            "name": "Ấp Kim Qui A 2",
+            "pid": 24021,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kim Qui A 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.549718",
+            "lng": "104.890729"
+        },
+        {
+            "id": 115751,
+            "name": "Ấp Phát Đạt",
+            "pid": 24021,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phát Đạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.538871",
+            "lng": "104.847605"
+        }
+    ],
+    "log_id": "6758173622c8096"
+}

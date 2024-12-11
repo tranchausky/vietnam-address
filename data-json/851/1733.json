@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 10090,
+            "name": "Thị Trấn Thứ Ba",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Thứ Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8116123",
+            "lng": "105.06158649999998"
+        },
+        {
+            "id": 10095,
+            "name": "Xã Đông Thái",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.775516999999999",
+            "lng": "105.02067569999997"
+        },
+        {
+            "id": 10096,
+            "name": "Xã Đông Yên",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7506944",
+            "lng": "105.09081470000001"
+        },
+        {
+            "id": 10094,
+            "name": "Xã Hưng Yên",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hưng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8146501",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 10092,
+            "name": "Xã Nam Thái",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nam Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8416255",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 10091,
+            "name": "Xã Nam Thái A",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nam Thái A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.822034",
+            "lng": "104.95056709999994"
+        },
+        {
+            "id": 15983,
+            "name": "Xã Nam Yên",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nam Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8612066",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 10093,
+            "name": "Xã Tây Yên",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tây Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.925253399999999",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 15984,
+            "name": "Xã Tây Yên A",
+            "pid": 1733,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tây Yên A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.875619499999999",
+            "lng": "105.08496869999999"
+        }
+    ],
+    "log_id": "67581735f2422695"
+}

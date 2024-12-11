@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449551,
+            "name": "Thôn 1",
+            "pid": 19322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0046091",
+            "lng": "108.65838699999995"
+        },
+        {
+            "id": 449553,
+            "name": "Thôn 2",
+            "pid": 19322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0046091",
+            "lng": "108.65838699999995"
+        },
+        {
+            "id": 449555,
+            "name": "Thôn 3",
+            "pid": 19322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0046091",
+            "lng": "108.65838699999995"
+        },
+        {
+            "id": 449557,
+            "name": "Thôn 4",
+            "pid": 19322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0046091",
+            "lng": "108.65838699999995"
+        },
+        {
+            "id": 765868,
+            "name": "Thôn 5",
+            "pid": 19322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.004609099999998",
+            "lng": "108.65838699999996"
+        },
+        {
+            "id": 765871,
+            "name": "Thôn 6",
+            "pid": 19322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.004609099999998",
+            "lng": "108.65838699999996"
+        }
+    ],
+    "log_id": "675816d335920228"
+}

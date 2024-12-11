@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116647,
+            "name": "Khóm Bình Long 1",
+            "pid": 7989,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Bình Long 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.380645",
+            "lng": "105.443107"
+        },
+        {
+            "id": 116649,
+            "name": "Khóm Bình Long 2",
+            "pid": 7989,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Bình Long 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.380645",
+            "lng": "105.443107"
+        },
+        {
+            "id": 116651,
+            "name": "Khóm Bình Long 3",
+            "pid": 7989,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Bình Long 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.380645",
+            "lng": "105.443107"
+        },
+        {
+            "id": 116653,
+            "name": "Khóm Bình Long 4",
+            "pid": 7989,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Bình Long 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.380645",
+            "lng": "105.443107"
+        },
+        {
+            "id": 116655,
+            "name": "Khóm Nguyễn Du",
+            "pid": 7989,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Nguyễn Du",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.380645",
+            "lng": "105.443107"
+        }
+    ],
+    "log_id": "6758159dc1af9137"
+}

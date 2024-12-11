@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 628755,
+            "name": "Á Lữ",
+            "pid": 15707,
+            "type": 16,
+            "region": null,
+            "alias": "Á Lữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0712759",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 628758,
+            "name": "Đồng Đoài",
+            "pid": 15707,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0712759",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 928474,
+            "name": "Đồng Đông",
+            "pid": 15707,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0712759",
+            "lng": "106.06107870000004"
+        },
+        {
+            "id": 765760,
+            "name": "Đồng Văn",
+            "pid": 15707,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Văn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0712759",
+            "lng": "106.06107870000004"
+        }
+    ],
+    "log_id": "675815f8b742c672"
+}

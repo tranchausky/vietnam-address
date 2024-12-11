@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758167,
+            "name": "Mai Ổ",
+            "pid": 13588,
+            "type": 16,
+            "region": null,
+            "alias": "Mai Ổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1283682",
+            "lng": "106.15147750000006"
+        },
+        {
+            "id": 758149,
+            "name": "Mộ Đạo",
+            "pid": 13588,
+            "type": 16,
+            "region": null,
+            "alias": "Mộ Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1283682",
+            "lng": "106.15147750000006"
+        },
+        {
+            "id": 807241,
+            "name": "Trạng Nhiệt",
+            "pid": 13588,
+            "type": 16,
+            "region": null,
+            "alias": "Trạng Nhiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1283682",
+            "lng": "106.15147750000006"
+        },
+        {
+            "id": 822013,
+            "name": "Trúc Ổ",
+            "pid": 13588,
+            "type": 16,
+            "region": null,
+            "alias": "Trúc ổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1283682",
+            "lng": "106.15147750000006"
+        }
+    ],
+    "log_id": "675815f8c4c49998"
+}

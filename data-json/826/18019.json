@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 578529,
+            "name": "Thôn Chánh Oai",
+            "pid": 18019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chánh Oai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0120417",
+            "lng": "109.22962970000003"
+        },
+        {
+            "id": 578532,
+            "name": "Thôn Tân Thắng",
+            "pid": 18019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0120417",
+            "lng": "109.22962970000003"
+        },
+        {
+            "id": 578526,
+            "name": "Thôn Tân Thanh",
+            "pid": 18019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0120417",
+            "lng": "109.22962970000003"
+        },
+        {
+            "id": 578523,
+            "name": "Thôn Vĩnh Hội",
+            "pid": 18019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0120417",
+            "lng": "109.22962970000003"
+        }
+    ],
+    "log_id": "6758150d8e144869"
+}

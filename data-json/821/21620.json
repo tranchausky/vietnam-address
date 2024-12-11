@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 530857,
+            "name": "Phú Quang",
+            "pid": 21620,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7742449",
+            "lng": "105.35628220000001"
+        },
+        {
+            "id": 580578,
+            "name": "Thôn Minh Nhuận",
+            "pid": 21620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Minh Nhuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7742449",
+            "lng": "105.35628220000001"
+        },
+        {
+            "id": 580575,
+            "name": "Thôn Yên Đình",
+            "pid": 21620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7742449",
+            "lng": "105.35628220000001"
+        },
+        {
+            "id": 580572,
+            "name": "Thôn Yên Lạc",
+            "pid": 21620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7742449",
+            "lng": "105.35628220000001"
+        },
+        {
+            "id": 580569,
+            "name": "Thôn Yên Xuân",
+            "pid": 21620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7742449",
+            "lng": "105.35628220000001"
+        }
+    ],
+    "log_id": "67581208bf7fd409"
+}

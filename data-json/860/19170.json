@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609399,
+            "name": "Con Riêng",
+            "pid": 19170,
+            "type": 16,
+            "region": null,
+            "alias": "Con Riêng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7322101",
+            "lng": "108.87297319999993"
+        },
+        {
+            "id": 609396,
+            "name": "Thôn Con Dóc",
+            "pid": 19170,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Con Dóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7322101",
+            "lng": "108.87297319999993"
+        },
+        {
+            "id": 609402,
+            "name": "Thôn Nước Đang",
+            "pid": 19170,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nước Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7322101",
+            "lng": "108.87297319999993"
+        }
+    ],
+    "log_id": "675909a4c8d3e430"
+}

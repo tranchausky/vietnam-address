@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 436143,
+            "name": "Ấp 1",
+            "pid": 18502,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 436145,
+            "name": "Ấp 2",
+            "pid": 18502,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 436147,
+            "name": "Ấp 3",
+            "pid": 18502,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 436149,
+            "name": "Ấp 5",
+            "pid": 18502,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 436151,
+            "name": "Ấp 6",
+            "pid": 18502,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 436153,
+            "name": "Ấp 8",
+            "pid": 18502,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 747307,
+            "name": "Chợ Bù Na",
+            "pid": 18502,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Bù Na",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        }
+    ],
+    "log_id": "67581637a0ae7522"
+}

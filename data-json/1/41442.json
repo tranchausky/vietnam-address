@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829786,
+            "name": "Đường Lạc Long Quân",
+            "pid": 41442,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lạc Long Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0596756",
+            "lng": "105.80407960000002"
+        },
+        {
+            "id": 875683,
+            "name": "Đường Nguyễn Hoàng Tôn",
+            "pid": 41442,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hoàng Tôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0738661",
+            "lng": "105.7979217"
+        },
+        {
+            "id": 877147,
+            "name": "Đường Xuân La",
+            "pid": 41442,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xuân La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,063662",
+            "lng": "105,806796"
+        },
+        {
+            "id": 992164,
+            "name": "Khu Liên Cơ Võ Chí Công",
+            "pid": 41442,
+            "type": 5,
+            "region": null,
+            "alias": "Khu liên cơ Võ Chí Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.068710260153562",
+            "lng": "105.80888257783768"
+        },
+        {
+            "id": 561,
+            "name": "Tây Hồ",
+            "pid": 41442,
+            "type": 2,
+            "region": null,
+            "alias": "Tây Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0650633",
+            "lng": "105.82389319999993"
+        }
+    ],
+    "log_id": "675811bd6b2bc156"
+}

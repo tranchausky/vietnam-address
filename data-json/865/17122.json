@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559307,
+            "name": "Thôn 3 Liêm Chính",
+            "pid": 17122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 Liêm Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9106453",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 559303,
+            "name": "Thôn Cần Kiệm",
+            "pid": 17122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cần Kiệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9106453",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 559305,
+            "name": "Thôn Liêm Chính",
+            "pid": 17122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liêm Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9106453",
+            "lng": "105.84370799999999"
+        }
+    ],
+    "log_id": "67590a2388dd2318"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 628794,
+            "name": "Bút Tháp",
+            "pid": 15708,
+            "type": 16,
+            "region": null,
+            "alias": "Bút Tháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0569243",
+            "lng": "106.0200701"
+        },
+        {
+            "id": 810448,
+            "name": "Đại Trạch",
+            "pid": 15708,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0540319",
+            "lng": "106.040795"
+        },
+        {
+            "id": 628800,
+            "name": "Đình Tổ",
+            "pid": 15708,
+            "type": 16,
+            "region": null,
+            "alias": "Đình Tổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0577051",
+            "lng": "106.0240805"
+        },
+        {
+            "id": 954794,
+            "name": "Ô Trì",
+            "pid": 15708,
+            "type": 16,
+            "region": null,
+            "alias": "Ô Trì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0588458",
+            "lng": "106.0299326"
+        },
+        {
+            "id": 954795,
+            "name": "Phú Mỹ",
+            "pid": 15708,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0636494",
+            "lng": "106.0380056"
+        }
+    ],
+    "log_id": "675815f8c3e13460"
+}

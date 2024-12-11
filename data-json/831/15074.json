@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 978509,
+            "name": "Mỹ Giang",
+            "pid": 15074,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.469599",
+            "lng": "109.289391"
+        },
+        {
+            "id": 457241,
+            "name": "Ninh Uyển",
+            "pid": 15074,
+            "type": 16,
+            "region": null,
+            "alias": "Ninh Uyển",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4705015",
+            "lng": "109.27125849999993"
+        },
+        {
+            "id": 457237,
+            "name": "Thôn Mỹ Giang",
+            "pid": 15074,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.469599",
+            "lng": "109.289391"
+        },
+        {
+            "id": 457239,
+            "name": "Thôn Ninh Tịnh",
+            "pid": 15074,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ninh tịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.432965",
+            "lng": "109.284051"
+        },
+        {
+            "id": 115015,
+            "name": "Thôn Tây",
+            "pid": 15074,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12°22′54″B",
+            "lng": "109°17′36″Đ"
+        }
+    ],
+    "log_id": "67581585bcd58127"
+}

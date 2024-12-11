@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616353,
+            "name": "Thôn Đại Phong",
+            "pid": 18973,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2435596",
+            "lng": "106.77949349999994"
+        },
+        {
+            "id": 616350,
+            "name": "Thôn Thượng Phong",
+            "pid": 18973,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2435596",
+            "lng": "106.77949349999994"
+        }
+    ],
+    "log_id": "675814a9d0218960"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 784156,
+            "name": "Đường Lý Thường Kiệt",
+            "pid": 14971,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thường Kiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7770619",
+            "lng": "109.2222203"
+        },
+        {
+            "id": 978255,
+            "name": "Đường Hoàng Hoa Thám",
+            "pid": 14971,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Hoa Thám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.780492082430417",
+            "lng": " 109.22350470894955"
+        }
+    ],
+    "log_id": "6758150de0214103"
+}

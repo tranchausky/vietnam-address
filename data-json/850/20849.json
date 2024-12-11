@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 849154,
+            "name": "Trạch",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000003"
+        },
+        {
+            "id": 758590,
+            "name": "Vầy Nưa",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Vầy Nưa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000004"
+        },
+        {
+            "id": 758593,
+            "name": "Xăng Bờ",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Xăng Bờ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000004"
+        },
+        {
+            "id": 396049,
+            "name": "Xóm Ang",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000003"
+        },
+        {
+            "id": 99809,
+            "name": "Xóm Dướng",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "xóm dướng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8162332,105.2155594",
+            "lng": "105.2155594"
+        },
+        {
+            "id": 396061,
+            "name": "Xóm Lau Bai",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lau Bai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000003"
+        },
+        {
+            "id": 758596,
+            "name": "Xóm Săng Trệch",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Săng Trệch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000004"
+        },
+        {
+            "id": 396063,
+            "name": "Xóm Thăm",
+            "pid": 20849,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thăm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8001445",
+            "lng": "105.20777980000003"
+        }
+    ],
+    "log_id": "675817211824575"
+}

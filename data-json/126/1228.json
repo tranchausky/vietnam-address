@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 683659,
+            "name": "Đường Bình Thới",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7675321",
+            "lng": "106.649825"
+        },
+        {
+            "id": 672265,
+            "name": "Đường Đội Cung",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đội Cung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7661691",
+            "lng": "106.6494163"
+        },
+        {
+            "id": 677776,
+            "name": "Đường Lãnh Binh Thăng",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lãnh Binh Thăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.763137",
+            "lng": "106.6504958"
+        },
+        {
+            "id": 672301,
+            "name": "Đường Lê Đại Hành",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đại Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.767041",
+            "lng": "106.6535717"
+        },
+        {
+            "id": 676096,
+            "name": "Đường Lê Thị Bạch Cát",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Thị Bạch Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7645467",
+            "lng": "106.651454"
+        },
+        {
+            "id": 683491,
+            "name": "Đường Lò Siêu",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lò Siêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7628",
+            "lng": "106.6511996"
+        },
+        {
+            "id": 681613,
+            "name": "Đường Quân Sự",
+            "pid": 1228,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quân Sự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7644857",
+            "lng": "106.649261"
+        }
+    ],
+    "log_id": "6758129ae63b1344"
+}

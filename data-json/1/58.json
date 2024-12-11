@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829624,
+            "name": "Đường Hoàng Ngọc Phách",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Ngọc Phách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0153717",
+            "lng": "105.81288510000002"
+        },
+        {
+            "id": 876511,
+            "name": "Đường Huỳnh Thúc Kháng",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Thúc Kháng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.012619",
+            "lng": "105.812483"
+        },
+        {
+            "id": 876514,
+            "name": "Đường Láng Hạ",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Láng Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.012619",
+            "lng": "105.812483"
+        },
+        {
+            "id": 829807,
+            "name": "Đường Láng Trung",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Láng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0153717",
+            "lng": "105.81288510000002"
+        },
+        {
+            "id": 876517,
+            "name": "Đường Thái Thịnh 2",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Thịnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.012619",
+            "lng": "105.812483"
+        },
+        {
+            "id": 830863,
+            "name": "Đường Trúc Khê",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trúc Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0153717",
+            "lng": "105.81288510000002"
+        },
+        {
+            "id": 831004,
+            "name": "Đường Vũ Ngọc Phan",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vũ Ngọc Phan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0153717",
+            "lng": "105.81288510000002"
+        },
+        {
+            "id": 49884,
+            "name": "Khu Tập Thể Nam Thành Công",
+            "pid": 58,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tập thể Nam Thành Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0161657",
+            "lng": "105.81215129999998"
+        },
+        {
+            "id": 24052,
+            "name": "Láng Trung",
+            "pid": 58,
+            "type": 2,
+            "region": null,
+            "alias": "Láng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0180725",
+            "lng": "105.8299495"
+        },
+        {
+            "id": 49108,
+            "name": "Ngõ 62 Nguyễn Chí Thanh",
+            "pid": 58,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 62 Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 24055,
+            "name": "Ngõ Láng Trung",
+            "pid": 58,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Láng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0143615",
+            "lng": "105.80773039999997"
+        },
+        {
+            "id": 36278,
+            "name": "Sky City Tower",
+            "pid": 58,
+            "type": 4,
+            "region": null,
+            "alias": "Sky City Tower",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0124824",
+            "lng": "105.8112754"
+        }
+    ],
+    "log_id": "675811bbca317572"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 461007,
+            "name": "Tà Ngót",
+            "pid": 22372,
+            "type": 16,
+            "region": null,
+            "alias": "Tà Ngót",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2588037",
+            "lng": "108.49790580000001"
+        },
+        {
+            "id": 461009,
+            "name": "Thôn Tà Ngon",
+            "pid": 22372,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Ngon",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2588037",
+            "lng": "108.49790580000001"
+        },
+        {
+            "id": 461011,
+            "name": "Trường Biện",
+            "pid": 22372,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Biện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2588037",
+            "lng": "108.49790580000001"
+        },
+        {
+            "id": 461013,
+            "name": "Trường Giang",
+            "pid": 22372,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2588037",
+            "lng": "108.49790580000001"
+        }
+    ],
+    "log_id": "675909a4e2d0d253"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 847351,
+            "name": "Khánh Hội",
+            "pid": 16413,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.619538",
+            "lng": "109.06540300000006"
+        },
+        {
+            "id": 847348,
+            "name": "Khánh Tường",
+            "pid": 16413,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Tường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.619538",
+            "lng": "109.06540300000006"
+        },
+        {
+            "id": 847330,
+            "name": "Tân An",
+            "pid": 16413,
+            "type": 16,
+            "region": null,
+            "alias": "Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.619538",
+            "lng": "109.06540300000006"
+        },
+        {
+            "id": 847345,
+            "name": "Tri Thủy",
+            "pid": 16413,
+            "type": 16,
+            "region": null,
+            "alias": "Tri Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.619538",
+            "lng": "109.06540300000006"
+        }
+    ],
+    "log_id": "675817b979eef42"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 880234,
+            "name": "Luống Đồng",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Luống đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.585223000000006",
+            "lng": "105.30141090000004"
+        },
+        {
+            "id": 559957,
+            "name": "Thôn Làng Bai",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Bai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.585223",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 559959,
+            "name": "Thôn Làng Cống",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Cống",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.585223",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 559961,
+            "name": "Thôn Tân Hiệp",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.585223",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 559963,
+            "name": "Thôn Tân Hòa",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.585223",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 559965,
+            "name": "Thôn Tân Thành",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.585223",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 559967,
+            "name": "Thôn Thanh Sơn",
+            "pid": 22719,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.585223",
+            "lng": "105.30141090000006"
+        }
+    ],
+    "log_id": "67590a234ab11765"
+}

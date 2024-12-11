@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 561551,
+            "name": "Lộc Tiến",
+            "pid": 17106,
+            "type": 16,
+            "region": null,
+            "alias": "Lộc Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.609824",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 561549,
+            "name": "Thạch Tiến",
+            "pid": 17106,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.609824",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 561557,
+            "name": "Thôn Dũng",
+            "pid": 17106,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dũng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.609824",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 561553,
+            "name": "Trà 1",
+            "pid": 17106,
+            "type": 16,
+            "region": null,
+            "alias": "Trà 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.609824",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 561555,
+            "name": "Trà 2",
+            "pid": 17106,
+            "type": 16,
+            "region": null,
+            "alias": "Trà 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.609824",
+            "lng": "105.77913269999999"
+        }
+    ],
+    "log_id": "67590a233dfd9521"
+}

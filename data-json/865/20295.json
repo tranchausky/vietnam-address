@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900334,
+            "name": "Chính Nghĩa",
+            "pid": 20295,
+            "type": 16,
+            "region": null,
+            "alias": "Chính Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 600726,
+            "name": "Làng Nhân Sơn",
+            "pid": 20295,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Nhân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 600732,
+            "name": "Làng Phong Phú",
+            "pid": 20295,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Phong Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 600738,
+            "name": "Làng Tân Hải",
+            "pid": 20295,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tân Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 600741,
+            "name": "Làng Tân Phát",
+            "pid": 20295,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tân Phát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 600735,
+            "name": "Làng Tân Thịnh",
+            "pid": 20295,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tân Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 600729,
+            "name": "Làng Văn Đức",
+            "pid": 20295,
+            "type": 10,
+            "region": null,
+            "alias": "Làng Văn Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0453588",
+            "lng": "106.04638369999998"
+        }
+    ],
+    "log_id": "67590a231686b369"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 422943,
+            "name": "Mề",
+            "pid": 21345,
+            "type": 18,
+            "region": null,
+            "alias": "Mề",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7093553",
+            "lng": "105.23264540000002"
+        },
+        {
+            "id": 422945,
+            "name": "Tằm",
+            "pid": 21345,
+            "type": 18,
+            "region": null,
+            "alias": "Tằm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7093553",
+            "lng": "105.23264540000002"
+        },
+        {
+            "id": 422947,
+            "name": "Thăm",
+            "pid": 21345,
+            "type": 18,
+            "region": null,
+            "alias": "Thăm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7093553",
+            "lng": "105.23264540000002"
+        },
+        {
+            "id": 422941,
+            "name": "Xóm Đay",
+            "pid": 21345,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7093553",
+            "lng": "105.23264540000002"
+        }
+    ],
+    "log_id": "67581720eedf88"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 850651,
+            "name": "Bung Tôn",
+            "pid": 19243,
+            "type": 16,
+            "region": null,
+            "alias": "Bung Tôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.284451",
+            "lng": "107.658569"
+        },
+        {
+            "id": 627237,
+            "name": "Thôn Bung Kon",
+            "pid": 19243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bung Kon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.284451",
+            "lng": "107.658569"
+        },
+        {
+            "id": 627243,
+            "name": "Thôn Đăk Book",
+            "pid": 19243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Book",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.284451",
+            "lng": "107.658569"
+        },
+        {
+            "id": 627246,
+            "name": "Thôn Lao Mưng",
+            "pid": 19243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lao Mưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.284451",
+            "lng": "107.658569"
+        },
+        {
+            "id": 627240,
+            "name": "Thôn Peng Lang",
+            "pid": 19243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Peng Lang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.284451",
+            "lng": "107.658569"
+        },
+        {
+            "id": 850648,
+            "name": "Ủy Ban",
+            "pid": 19243,
+            "type": 16,
+            "region": null,
+            "alias": "Ủy Ban",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.284451",
+            "lng": "107.658569"
+        }
+    ],
+    "log_id": "6758174cd8073600"
+}

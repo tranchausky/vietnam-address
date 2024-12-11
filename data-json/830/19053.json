@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 916315,
+            "name": "Khu 1",
+            "pid": 19053,
+            "type": 16,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.2781471",
+            "lng": "105.36273359999996"
+        },
+        {
+            "id": 855715,
+            "name": "Khu2",
+            "pid": 19053,
+            "type": 18,
+            "region": null,
+            "alias": "Khu2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 754810,
+            "name": "Khu Phố 1",
+            "pid": 19053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 570438,
+            "name": "Phố Trồ",
+            "pid": 19053,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Trồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 570435,
+            "name": "Tả Kha",
+            "pid": 19053,
+            "type": 16,
+            "region": null,
+            "alias": "Tả Kha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 570441,
+            "name": "Thôn Phiến Ngài",
+            "pid": 19053,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phiến ngài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 754819,
+            "name": "Tổ 7",
+            "pid": 19053,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 570444,
+            "name": "Xóm Mới",
+            "pid": 19053,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2472787",
+            "lng": "105.19022970000003"
+        }
+    ],
+    "log_id": "675815662f636932"
+}

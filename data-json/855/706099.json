@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108245,
+            "name": "Ấp Hòa Bình 2",
+            "pid": 706099,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Bình 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 1006990,
+            "name": "Ấp Hòa Hiệp 2",
+            "pid": 706099,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Hiệp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.942220566170061",
+            "lng": "106.35706666621499"
+        },
+        {
+            "id": 108287,
+            "name": "Ấp Hòa Thuận 2",
+            "pid": 706099,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Thuận 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9404463",
+            "lng": "106.3537375"
+        },
+        {
+            "id": 1006989,
+            "name": "Hòa Bình 1",
+            "pid": 706099,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Bình 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.942000986223954",
+            "lng": "106.33818671215444"
+        },
+        {
+            "id": 850876,
+            "name": "Hòa Thuận 1",
+            "pid": 706099,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Thuận 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.942578",
+            "lng": "106.341778"
+        }
+    ],
+    "log_id": "675817850637c928"
+}

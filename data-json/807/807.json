@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1666,
+            "name": "Huyện Bình Lục",
+            "pid": 807,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bình Lục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5029885",
+            "lng": "106.04050600000005"
+        },
+        {
+            "id": 1667,
+            "name": "Huyện Duy Tiên",
+            "pid": 807,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Duy Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.626842",
+            "lng": "105.95155399999999"
+        },
+        {
+            "id": 1668,
+            "name": "Huyện Kim Bảng",
+            "pid": 807,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Kim Bảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5633623",
+            "lng": "105.85624729999995"
+        },
+        {
+            "id": 1669,
+            "name": "Huyện Lý Nhân",
+            "pid": 807,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Lý Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5553005",
+            "lng": "106.099291"
+        },
+        {
+            "id": 1670,
+            "name": "Huyện Thanh Liêm",
+            "pid": 807,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thanh Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4699057",
+            "lng": "105.89949560000002"
+        },
+        {
+            "id": 1671,
+            "name": "Thành Phố Phủ Lý",
+            "pid": 807,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Phủ Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5476734",
+            "lng": "105.93473840000001"
+        }
+    ],
+    "log_id": "67581427d5b81467"
+}

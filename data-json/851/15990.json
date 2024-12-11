@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115135,
+            "name": "Ấp Hòa Bình",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.022657",
+            "lng": "105.213416"
+        },
+        {
+            "id": 115165,
+            "name": "Ấp Hòa Ninh",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.040848",
+            "lng": "105.168645"
+        },
+        {
+            "id": 115115,
+            "name": "Ấp Hòa Thuận 1",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Thuận 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.053772",
+            "lng": "105.177867"
+        },
+        {
+            "id": 115125,
+            "name": "Ấp Hòa Thuận 2",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Thuận 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.053772",
+            "lng": "105.177867"
+        },
+        {
+            "id": 115139,
+            "name": "Ấp Thạnh An",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.013110",
+            "lng": "105.180657"
+        },
+        {
+            "id": 115149,
+            "name": "Ấp Thạnh Hòa",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.054311",
+            "lng": "105.177867"
+        },
+        {
+            "id": 115145,
+            "name": "Ấp Thạnh Lợi",
+            "pid": 15990,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.035981",
+            "lng": "105.196149"
+        }
+    ],
+    "log_id": "675817360d0b5520"
+}

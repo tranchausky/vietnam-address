@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112083,
+            "name": "Bản Hua Pảng",
+            "pid": 15553,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hua Pảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,441662",
+            "lng": "103,026117"
+        },
+        {
+            "id": 111993,
+            "name": "Bản Nậm Chẻ",
+            "pid": 15553,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Chẻ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,296253 ",
+            "lng": "103,105081"
+        },
+        {
+            "id": 112011,
+            "name": "Bản Nậm Ô",
+            "pid": 15553,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Ô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,358499",
+            "lng": "103,127741"
+        },
+        {
+            "id": 111845,
+            "name": "Bản Nậm Vạc 1",
+            "pid": 15553,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Vạc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.388977 ",
+            "lng": "103.114008"
+        },
+        {
+            "id": 111879,
+            "name": "Bản Nậm Vạc 2",
+            "pid": 15553,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Vạc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.402944",
+            "lng": "103.164133"
+        },
+        {
+            "id": 112045,
+            "name": "Bản Nậm Vản",
+            "pid": 15553,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Vản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,452451",
+            "lng": "103.087229"
+        }
+    ],
+    "log_id": "6758175e5f472451"
+}

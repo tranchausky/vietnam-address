@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 648514,
+            "name": "Thôn Lương Điền",
+            "pid": 18697,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lương Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.386244",
+            "lng": "105.708860"
+        },
+        {
+            "id": 648481,
+            "name": "Thôn Trường Sơn 2",
+            "pid": 18697,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trường Sơn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.377748",
+            "lng": "105.718662"
+        }
+    ],
+    "log_id": "67590a23b4e0b658"
+}

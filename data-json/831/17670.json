@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719476,
+            "name": "Dốc Sạn",
+            "pid": 17670,
+            "type": 18,
+            "region": null,
+            "alias": "Dốc Sạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.895286,",
+            "lng": "109.109795"
+        },
+        {
+            "id": 719485,
+            "name": "Ngã Ba Xóm Mới , Đường Lên Đà Lạt",
+            "pid": 17670,
+            "type": 18,
+            "region": null,
+            "alias": "ngã ba xóm mới , đường lên Đà Lạt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.851766,",
+            "lng": "109.105549"
+        },
+        {
+            "id": 719479,
+            "name": "Quán Cơm Cây Dừa",
+            "pid": 17670,
+            "type": 18,
+            "region": null,
+            "alias": "quán cơm Cây Dừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.868222,",
+            "lng": ", 109.106488"
+        },
+        {
+            "id": 719491,
+            "name": "Tàu Bể",
+            "pid": 17670,
+            "type": 18,
+            "region": null,
+            "alias": "tàu bể",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.868559",
+            "lng": " 109.182212"
+        },
+        {
+            "id": 987261,
+            "name": "Thôn Sông Cạn",
+            "pid": 17670,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sông Cạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9177184",
+            "lng": "109.1488108"
+        },
+        {
+            "id": 744211,
+            "name": "Thôn Sông Cạn Trung",
+            "pid": 17670,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sông Cạn Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.878186",
+            "lng": "109.07504219999998"
+        },
+        {
+            "id": 987260,
+            "name": "Thôn Suối Rua",
+            "pid": 17670,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Rua",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.88415",
+            "lng": "109.051485"
+        }
+    ],
+    "log_id": "67581585b8d0b785"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 580191,
+            "name": "Xóm Đồng Hòa",
+            "pid": 21608,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.855363",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 580194,
+            "name": "Xóm Thuận Hòa",
+            "pid": 21608,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thuận Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.855363",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 580197,
+            "name": "Xóm Yên Hòa",
+            "pid": 21608,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Yên Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.855363",
+            "lng": "105.23703390000003"
+        }
+    ],
+    "log_id": "67581208c51a8363"
+}

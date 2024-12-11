@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 844726,
+            "name": "Quyết Thắng",
+            "pid": 14891,
+            "type": 20,
+            "region": null,
+            "alias": "Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        },
+        {
+            "id": 613302,
+            "name": "Thôn Lãng Cư",
+            "pid": 14891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lãng Cư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        },
+        {
+            "id": 421829,
+            "name": "Thôn Lẫng Cư",
+            "pid": 14891,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lẫng cư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        },
+        {
+            "id": 613305,
+            "name": "Thôn Liên Thắng",
+            "pid": 14891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        },
+        {
+            "id": 613296,
+            "name": "Thôn Sài Lĩnh",
+            "pid": 14891,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sài Lĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        },
+        {
+            "id": 613299,
+            "name": "Thônthượng Bản",
+            "pid": 14891,
+            "type": 16,
+            "region": null,
+            "alias": "ThônThượng Bản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        },
+        {
+            "id": 421827,
+            "name": "Thượng Bản",
+            "pid": 14891,
+            "type": 18,
+            "region": null,
+            "alias": "thượng bản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.636336",
+            "lng": "105.27388700000006"
+        }
+    ],
+    "log_id": "6758138a2b5dd22"
+}

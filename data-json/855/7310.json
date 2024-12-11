@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452941,
+            "name": "Ấp Bình Hòa",
+            "pid": 7310,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 452939,
+            "name": "Ấp Bình Lợi",
+            "pid": 7310,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 452943,
+            "name": "Ấp Tân Bình",
+            "pid": 7310,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 941138,
+            "name": "Khu Phố Bình Hòa",
+            "pid": 7310,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000004"
+        },
+        {
+            "id": 941141,
+            "name": "Khu Phố Chợ Bình Hòa",
+            "pid": 7310,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Chợ Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000004"
+        },
+        {
+            "id": 852259,
+            "name": "Nguyễn Văn Tiến",
+            "pid": 7310,
+            "type": 17,
+            "region": null,
+            "alias": "Nguyễn Văn Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.584573",
+            "lng": "106.479158"
+        },
+        {
+            "id": 941147,
+            "name": "Tòa Nhà Cục Thi Hành Án",
+            "pid": 7310,
+            "type": 4,
+            "region": null,
+            "alias": "tòa nhà Cục thi hành án",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000004"
+        },
+        {
+            "id": 941129,
+            "name": "Ủy Ban Nhân Dân Tan Trụ",
+            "pid": 7310,
+            "type": 21,
+            "region": null,
+            "alias": "ủy Ban Nhân Dân Tan Trụ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000004"
+        }
+    ],
+    "log_id": "6758178544a13427"
+}

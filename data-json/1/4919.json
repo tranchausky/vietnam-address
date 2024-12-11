@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115247,
+            "name": "Thôn Bình Vọng",
+            "pid": 4919,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình Vọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8741907",
+            "lng": "105.8657274"
+        },
+        {
+            "id": 115241,
+            "name": "Thôn Văn Giáp",
+            "pid": 4919,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Văn Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8863341",
+            "lng": "105.8598553"
+        },
+        {
+            "id": 115243,
+            "name": "Thôn Văn Hội",
+            "pid": 4919,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Văn Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8856881",
+            "lng": "105.8618653"
+        },
+        {
+            "id": 55602,
+            "name": "Ubnd Xã Văn Bình",
+            "pid": 4919,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Văn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 977034,
+            "name": "Xóm 6, Đường Văn Từ, Văn Hội, Văn Bình, Thường Tín",
+            "pid": 4919,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 6, đường Văn Từ, Văn Hội, Văn Bình, Thường Tín",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.885798275532363",
+            "lng": "105.866242652124"
+        },
+        {
+            "id": 972002,
+            "name": "Xóm 9, Thôn Bình Vọng, Xã Văn Bình",
+            "pid": 4919,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 9, thôn Bình Vọng, xã Văn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.87618514685406",
+            "lng": "105.86338876598884"
+        },
+        {
+            "id": 979574,
+            "name": "Xóm 9, Văn Bình, Thường Tín, Hà Nội",
+            "pid": 4919,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 9, Văn Bình, Thường Tín, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.87618514685406",
+            "lng": "105.86338876598884"
+        }
+    ],
+    "log_id": "675811bc75eb5345"
+}

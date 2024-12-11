@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829120,
+            "name": "Đường Cự Khối",
+            "pid": 41426,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cự Khối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0059693",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 876619,
+            "name": "Đường Độc Lập",
+            "pid": 41426,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Độc Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,010265",
+            "lng": "105,905712"
+        },
+        {
+            "id": 876622,
+            "name": "Đường Tự Do 2",
+            "pid": 41426,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tự Do 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,010265",
+            "lng": "105,905712"
+        },
+        {
+            "id": 876628,
+            "name": "Đường Xuân Đỗ",
+            "pid": 41426,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xuân Đỗ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,010265",
+            "lng": "105,905712"
+        },
+        {
+            "id": 35342,
+            "name": "Ngõ Thống Nhất",
+            "pid": 41426,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9963658",
+            "lng": "105.84620519999999"
+        }
+    ],
+    "log_id": "675811bcd4cf4500"
+}

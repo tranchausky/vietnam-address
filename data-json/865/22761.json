@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 594480,
+            "name": "Đội 1",
+            "pid": 22761,
+            "type": 22,
+            "region": null,
+            "alias": "đội 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9002089",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 594483,
+            "name": "Đội 2",
+            "pid": 22761,
+            "type": 22,
+            "region": null,
+            "alias": "đội 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9002089",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 594486,
+            "name": "Đội 3",
+            "pid": 22761,
+            "type": 22,
+            "region": null,
+            "alias": "đội 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9002089",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 987152,
+            "name": "Làng Đại Lữ",
+            "pid": 22761,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Đại Lữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.90740889702521",
+            "lng": "105.57202253742804"
+        },
+        {
+            "id": 987154,
+            "name": "Làng Dừa",
+            "pid": 22761,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Dừa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.893602250248627",
+            "lng": "105.57359624506294"
+        },
+        {
+            "id": 987153,
+            "name": "Làng Mạnh Chư",
+            "pid": 22761,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Mạnh Chư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.903171997041913",
+            "lng": "105.568099062251"
+        }
+    ],
+    "log_id": "67590a243686064"
+}

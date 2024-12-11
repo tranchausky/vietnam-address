@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 17609,
+            "name": "Thị Trấn Tân Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Tân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7831006",
+            "lng": "108.77346160000002"
+        },
+        {
+            "id": 17615,
+            "name": "Xã Hòa Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7101233",
+            "lng": "108.76455140000007"
+        },
+        {
+            "id": 17611,
+            "name": "Xã Lâm Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lâm Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8292322",
+            "lng": "108.69556590000002"
+        },
+        {
+            "id": 17612,
+            "name": "Xã Lương Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lương Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6888699",
+            "lng": "108.73633700000005"
+        },
+        {
+            "id": 17613,
+            "name": "Xã Ma Nới",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ma Nới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6579106",
+            "lng": "108.69030739999994"
+        },
+        {
+            "id": 17614,
+            "name": "Xã Mỹ Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mỹ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6824581",
+            "lng": "108.8313832"
+        },
+        {
+            "id": 17610,
+            "name": "Xã Nhơn Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nhơn Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6116532",
+            "lng": "108.92578639999999"
+        },
+        {
+            "id": 17616,
+            "name": "Xã Quảng Sơn",
+            "pid": 1851,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quảng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7457721",
+            "lng": "108.70070069999997"
+        }
+    ],
+    "log_id": "675817b96670a196"
+}

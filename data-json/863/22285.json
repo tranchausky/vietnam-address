@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 408565,
+            "name": "Thôn Luật Ngoại",
+            "pid": 22285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Luật Ngoại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4187867",
+            "lng": "106.40819829999998"
+        },
+        {
+            "id": 408567,
+            "name": "Thôn Luật Nội",
+            "pid": 22285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Luật Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4187867",
+            "lng": "106.40819829999998"
+        },
+        {
+            "id": 408569,
+            "name": "Thôn Luật Trung",
+            "pid": 22285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Luật Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4187867",
+            "lng": "106.40819829999998"
+        }
+    ],
+    "log_id": "675909f36f944852"
+}

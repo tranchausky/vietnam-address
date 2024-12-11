@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119383,
+            "name": "Đông Hạ",
+            "pid": 4794,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9335457",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 119385,
+            "name": "Đông Thượng",
+            "pid": 4794,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9335457",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 119389,
+            "name": "Thôn Việt Yên",
+            "pid": 4794,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Việt Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9335457",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 119387,
+            "name": "Thôn Yên Thái",
+            "pid": 4794,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.934066",
+            "lng": "105.5906742"
+        },
+        {
+            "id": 55202,
+            "name": "Ubnd Xã Đông Yên",
+            "pid": 4794,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đông Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 119391,
+            "name": "Xóm Trại Vàng",
+            "pid": 4794,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trại Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.920347",
+            "lng": "105.5939723"
+        }
+    ],
+    "log_id": "675811bcdadc1541"
+}

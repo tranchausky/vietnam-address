@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600006,
+            "name": "Khu Phố 1",
+            "pid": 6463,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3759818",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 600009,
+            "name": "Khu Phố 2",
+            "pid": 6463,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3759818",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 600012,
+            "name": "Khu Phố 3",
+            "pid": 6463,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3759818",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 600015,
+            "name": "Khu Phố 4",
+            "pid": 6463,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3759818",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 600018,
+            "name": "Khu Phố 5",
+            "pid": 6463,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3759818",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 1000251,
+            "name": "Khu Phố Trung Lương",
+            "pid": 6463,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Trung Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10382912",
+            "lng": "106340919"
+        }
+    ],
+    "log_id": "675814f38b8de657"
+}

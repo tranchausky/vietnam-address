@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117001,
+            "name": "Ấp Long Hòa",
+            "pid": 18082,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7708956",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 117003,
+            "name": "Ấp Long Hưng",
+            "pid": 18082,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7708956",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 117005,
+            "name": "Ấp Long Thới A",
+            "pid": 18082,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Thới A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7708956",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 117007,
+            "name": "Ấp Long Thới B",
+            "pid": 18082,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Thới B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7708956",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 116999,
+            "name": "Long Thạnh",
+            "pid": 18082,
+            "type": 17,
+            "region": null,
+            "alias": "Long Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7708956",
+            "lng": "105.28385109999999"
+        }
+    ],
+    "log_id": "675816c042c15379"
+}

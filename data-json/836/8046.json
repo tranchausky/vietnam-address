@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439771,
+            "name": "Ấp Ba Đình",
+            "pid": 8046,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ba Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.583245",
+            "lng": "105.330504"
+        },
+        {
+            "id": 439773,
+            "name": "Ấp Bần Ôỉ",
+            "pid": 8046,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bần Ôỉ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.603864",
+            "lng": "105.337451"
+        },
+        {
+            "id": 439775,
+            "name": "Ấp Bến Bào",
+            "pid": 8046,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bến Bào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.633371",
+            "lng": "105.295070"
+        },
+        {
+            "id": 439777,
+            "name": "Ấp Bình Lộc",
+            "pid": 8046,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.569979",
+            "lng": "105.363703"
+        },
+        {
+            "id": 439779,
+            "name": "Ấp Lộ Xe",
+            "pid": 8046,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Lộ Xe",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.545048",
+            "lng": "105.336875"
+        },
+        {
+            "id": 439781,
+            "name": "Ấp Lộ Xe A",
+            "pid": 8046,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Lộ Xe A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.577799",
+            "lng": "105.338312"
+        }
+    ],
+    "log_id": "675815e16c9d1249"
+}

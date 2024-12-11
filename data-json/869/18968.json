@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444239,
+            "name": "Thôn Đoàn Kết",
+            "pid": 18968,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoàn Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0433651",
+            "lng": "108.8860985"
+        },
+        {
+            "id": 444235,
+            "name": "Thôn Hoàn Thành",
+            "pid": 18968,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàn Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0433651",
+            "lng": "108.8860985"
+        },
+        {
+            "id": 444237,
+            "name": "Thôn Thống Nhất",
+            "pid": 18968,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0433651",
+            "lng": "108.8860985"
+        },
+        {
+            "id": 444233,
+            "name": "Thôn Xậy Dựng",
+            "pid": 18968,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xậy Dựng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0433651",
+            "lng": "108.8860985"
+        },
+        {
+            "id": 834019,
+            "name": "Ubnd Xã Suối Trai",
+            "pid": 18968,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã Suối Trai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0433651",
+            "lng": "108.8860985"
+        }
+    ],
+    "log_id": "67590b809aa87557"
+}

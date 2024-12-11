@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558023,
+            "name": "Bệnh Viện Đa Khoa Bỉm Sơn",
+            "pid": 17246,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện đa Khoa Bỉm Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0747162",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 805198,
+            "name": "Đường Lê Lợi",
+            "pid": 17246,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0747162",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 805210,
+            "name": "Đường Trần Phú",
+            "pid": 17246,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0747162",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 937940,
+            "name": "Khu Phố 9",
+            "pid": 17246,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0747162",
+            "lng": "105.884813"
+        },
+        {
+            "id": 558021,
+            "name": "Thôn Cổ Đam",
+            "pid": 17246,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Đam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0747162",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 558027,
+            "name": "Thôn Nghĩa Môn",
+            "pid": 17246,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Môn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0747162",
+            "lng": "105.88481300000001"
+        }
+    ],
+    "log_id": "67590a23adac3878"
+}

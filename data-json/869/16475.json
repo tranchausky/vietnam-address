@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828601,
+            "name": "Bưu Điện Hòa Thành",
+            "pid": 16475,
+            "type": 21,
+            "region": null,
+            "alias": "Bưu điện Hòa Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 443921,
+            "name": "Thôn Lộc Đông",
+            "pid": 16475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 443927,
+            "name": "Thôn Phú Lễ",
+            "pid": 16475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 443919,
+            "name": "Thôn Phước Bình Bắc",
+            "pid": 16475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Bình Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 443917,
+            "name": "Thôn Phước Bình Nam",
+            "pid": 16475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Bình Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 443923,
+            "name": "Thôn Phước Lộc 1",
+            "pid": 16475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 443925,
+            "name": "Thôn Phước Lộc 2",
+            "pid": 16475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Lộc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 828625,
+            "name": "Trường Tôn Đức Thắng",
+            "pid": 16475,
+            "type": 21,
+            "region": null,
+            "alias": "Trường Tôn Đức Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        }
+    ],
+    "log_id": "67590b80c1f68684"
+}

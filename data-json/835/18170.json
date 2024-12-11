@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834415,
+            "name": "Khâu Ban",
+            "pid": 18170,
+            "type": 16,
+            "region": null,
+            "alias": "Khâu Ban",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4298126",
+            "lng": "105.65298299999996"
+        },
+        {
+            "id": 886570,
+            "name": "Khuoi Luong",
+            "pid": 18170,
+            "type": 16,
+            "region": null,
+            "alias": "Khuoi Luong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4298126",
+            "lng": "105.65298299999996"
+        },
+        {
+            "id": 886567,
+            "name": "Na Làng",
+            "pid": 18170,
+            "type": 16,
+            "region": null,
+            "alias": "Na Làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4298126",
+            "lng": "105.65298299999996"
+        }
+    ],
+    "log_id": "675815c922070839"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 438537,
+            "name": "Ấp So Đũa",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp So Đũa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438541,
+            "name": "Ấp Tân Thành",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438543,
+            "name": "Bàu Chấu",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Bàu Chấu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438535,
+            "name": "Dân Quân",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Dân Quân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438545,
+            "name": "Hiệp Thành",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Hiệp Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438531,
+            "name": "Kiến Vàng A",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Kiến Vàng A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438533,
+            "name": "Kiến Vàng B",
+            "pid": 7763,
+            "type": 16,
+            "region": null,
+            "alias": "Kiến Vàng B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438539,
+            "name": "Má Tám",
+            "pid": 7763,
+            "type": 17,
+            "region": null,
+            "alias": "Má Tám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8670727",
+            "lng": "104.96809140000005"
+        }
+    ],
+    "log_id": "6758164daab44225"
+}

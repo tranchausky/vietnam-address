@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 423829,
+            "name": "Xóm Bà Rà",
+            "pid": 18356,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bà Rà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7421266",
+            "lng": "105.54963550000002"
+        },
+        {
+            "id": 423831,
+            "name": "Xóm Bưa Cầu",
+            "pid": 18356,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bưa Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7421266",
+            "lng": "105.54963550000002"
+        },
+        {
+            "id": 423835,
+            "name": "Xóm Mát",
+            "pid": 18356,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm MÁT",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7421266",
+            "lng": "105.54963550000002"
+        },
+        {
+            "id": 423833,
+            "name": "Xóm Rộc",
+            "pid": 18356,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Rộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7421266",
+            "lng": "105.54963550000002"
+        }
+    ],
+    "log_id": "6758172131afa483"
+}

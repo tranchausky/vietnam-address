@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 480503,
+            "name": "Khu Vực An Hòa",
+            "pid": 15653,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực An Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.683807",
+            "lng": "105.56938400000001"
+        },
+        {
+            "id": 480495,
+            "name": "Khu Vực B",
+            "pid": 15653,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.683807",
+            "lng": "105.56938400000001"
+        },
+        {
+            "id": 480499,
+            "name": "Khu Vực Bình An",
+            "pid": 15653,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Bình An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.683807",
+            "lng": "105.56938400000001"
+        },
+        {
+            "id": 480497,
+            "name": "Khu Vực C",
+            "pid": 15653,
+            "type": 21,
+            "region": null,
+            "alias": "khu vực c",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.683807",
+            "lng": "105.56938400000001"
+        },
+        {
+            "id": 480501,
+            "name": "Khu Vực Thạnh Hiếu",
+            "pid": 15653,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thạnh Hiếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.683807",
+            "lng": "105.56938400000001"
+        }
+    ],
+    "log_id": "675816fe461e1155"
+}

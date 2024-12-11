@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91196,
+            "name": "Ấp 1 - Tân Định",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1 - Tân Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.776099",
+            "lng": "106.5780894"
+        },
+        {
+            "id": 91199,
+            "name": "Ấp 2 - Tân Định",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 - Tân Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 91202,
+            "name": "Ấp 3 - Tân Định",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 - Tân Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 91205,
+            "name": "Ấp Bà Đã",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bà Đã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.166667",
+            "lng": "106.8833329"
+        },
+        {
+            "id": 954346,
+            "name": "Ấp Bằng Lăng",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bằng Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.220876105063606",
+            "lng": "106.8647569117587"
+        },
+        {
+            "id": 91217,
+            "name": "Ấp Cây Chanh",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Chanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.208080",
+            "lng": "106.876960"
+        },
+        {
+            "id": 91208,
+            "name": "Ấp Thiềng Liềng",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thiềng Liềng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5132236",
+            "lng": "106.95583"
+        },
+        {
+            "id": 91214,
+            "name": "Ấp Vườm Ươm",
+            "pid": 6112,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vườm Ươm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.737727",
+            "lng": "107.4204099"
+        }
+    ],
+    "log_id": "6758162183d4f762"
+}

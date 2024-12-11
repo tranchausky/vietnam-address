@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450471,
+            "name": "Làng Bông",
+            "pid": 19335,
+            "type": 16,
+            "region": null,
+            "alias": "làng Bông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8349514",
+            "lng": "108.5926991"
+        },
+        {
+            "id": 450469,
+            "name": "Làng Đăk Hquay",
+            "pid": 19335,
+            "type": 16,
+            "region": null,
+            "alias": "làng Đăk Hquay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8349514",
+            "lng": "108.5926991"
+        },
+        {
+            "id": 450473,
+            "name": "Làng Kôm",
+            "pid": 19335,
+            "type": 16,
+            "region": null,
+            "alias": "làng Kôm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8349514",
+            "lng": "108.5926991"
+        },
+        {
+            "id": 450467,
+            "name": "Làng Làng Brăng",
+            "pid": 19335,
+            "type": 16,
+            "region": null,
+            "alias": "làng làng Brăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8349514",
+            "lng": "108.5926991"
+        }
+    ],
+    "log_id": "675816d362551785"
+}

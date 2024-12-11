@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 987263,
+            "name": "Cty May Thọ Hải",
+            "pid": 22773,
+            "type": 17,
+            "region": null,
+            "alias": "cty may thọ hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.94244646436364",
+            "lng": "105.46946560253656"
+        },
+        {
+            "id": 595149,
+            "name": "Thôn Công Thành",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "thôn công thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        },
+        {
+            "id": 595158,
+            "name": "Thôn Hải Mậu",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Hải Mậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        },
+        {
+            "id": 595152,
+            "name": "Thôn Hải Thành",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Hải Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        },
+        {
+            "id": 595137,
+            "name": "Thôn Hương 1",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Hương 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        },
+        {
+            "id": 595140,
+            "name": "Thôn Hương 2",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "thôn hương 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        },
+        {
+            "id": 595143,
+            "name": "Thôn Phấn Thôn",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "thôn phấn thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        },
+        {
+            "id": 595146,
+            "name": "Thôn Tân Thành",
+            "pid": 22773,
+            "type": 21,
+            "region": null,
+            "alias": "thôn tân thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9433156",
+            "lng": "105.48003819999997"
+        }
+    ],
+    "log_id": "67590a2408f52955"
+}

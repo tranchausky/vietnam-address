@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762412,
+            "name": "Hà Ri",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Ri",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1139858",
+            "lng": "108.7782522"
+        },
+        {
+            "id": 713875,
+            "name": "Làng Hà Ri",
+            "pid": 19002,
+            "type": 18,
+            "region": null,
+            "alias": "Làng Hà Ri",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1071306",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 747778,
+            "name": "Làng M1",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "Làng M1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.107130599999998",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 747775,
+            "name": "Thôn Tà Lét",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Lét",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.107130599999998",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 700957,
+            "name": "Thôn Thạnh Quang",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thạnh quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.107130599999998",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 713884,
+            "name": "Thôn Vĩnh Cửu",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Cửu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1071306",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 713881,
+            "name": "Thôn Vĩnh Khương",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Khương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1071306",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 713878,
+            "name": "Thôn Vĩnh Phúc",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1071306",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 700942,
+            "name": "Thôn Vĩnh Thọ",
+            "pid": 19002,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vĩnh thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.107130599999998",
+            "lng": "108.78715209999996"
+        },
+        {
+            "id": 747784,
+            "name": "Thủy Điện Định Bình",
+            "pid": 19002,
+            "type": 21,
+            "region": null,
+            "alias": "Thủy điện Định Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.107130599999998",
+            "lng": "108.78715209999996"
+        }
+    ],
+    "log_id": "6758150dae1f7217"
+}

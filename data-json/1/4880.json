@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 859729,
+            "name": "Đại Áng Thanh Trì",
+            "pid": 4880,
+            "type": 10,
+            "region": null,
+            "alias": "đại áng Thanh Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.994941",
+            "lng": "105.89068590000002"
+        },
+        {
+            "id": 815404,
+            "name": "Nhựa Việt Nhật Dung Sự",
+            "pid": 4880,
+            "type": 18,
+            "region": null,
+            "alias": "nhựa Việt Nhật Dung Sự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9115334",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 856051,
+            "name": "Sân Bóng Nguyệt Áng",
+            "pid": 4880,
+            "type": 18,
+            "region": null,
+            "alias": "Sân bóng Nguyệt Áng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9115334",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 754984,
+            "name": "Vĩnh Thịnh",
+            "pid": 4880,
+            "type": 18,
+            "region": null,
+            "alias": "Vĩnh Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9115334",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 795979,
+            "name": "Vĩnh Trung",
+            "pid": 4880,
+            "type": 18,
+            "region": null,
+            "alias": "Vĩnh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9115334",
+            "lng": "105.8231588"
+        }
+    ],
+    "log_id": "675811bd1b40c942"
+}

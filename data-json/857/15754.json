@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 746074,
+            "name": "Thôn Phước Hà",
+            "pid": 15754,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.497918",
+            "lng": "108.776958"
+        },
+        {
+            "id": 894538,
+            "name": "Thôn Tà Nô",
+            "pid": 15754,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Nô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.497918",
+            "lng": "108.776958"
+        }
+    ],
+    "log_id": "675817b9adbb7999"
+}

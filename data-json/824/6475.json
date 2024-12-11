@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 454189,
+            "name": "Ấp Phú Hữu",
+            "pid": 6475,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hữu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8835468",
+            "lng": "105.1142011"
+        },
+        {
+            "id": 454183,
+            "name": "Ấp Phú Nhuận",
+            "pid": 6475,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Nhuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7991944",
+            "lng": "106.6802639"
+        },
+        {
+            "id": 454187,
+            "name": "Ấp Phú Thạnh",
+            "pid": 6475,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2222167",
+            "lng": "105.7879371"
+        },
+        {
+            "id": 454185,
+            "name": "Ấp Phú Xuân",
+            "pid": 6475,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6286249",
+            "lng": "105.2838511"
+        }
+    ],
+    "log_id": "675814f38f19a336"
+}

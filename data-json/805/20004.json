@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 887599,
+            "name": "Bãi Giá Minh Hòa",
+            "pid": 20004,
+            "type": 18,
+            "region": null,
+            "alias": "Bãi Giá Minh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9510967",
+            "lng": "106.57903229999998"
+        },
+        {
+            "id": 515645,
+            "name": "Thôn Tam Đa Ngoại",
+            "pid": 20004,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Đa Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9510967",
+            "lng": "106.5790323"
+        },
+        {
+            "id": 515647,
+            "name": "Thôn Tam Đa Nội",
+            "pid": 20004,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Đa Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9510967",
+            "lng": "106.5790323"
+        },
+        {
+            "id": 515649,
+            "name": "Thôn Tư Đa",
+            "pid": 20004,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tư Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9510967",
+            "lng": "106.5790323"
+        }
+    ],
+    "log_id": "675813f1a6107122"
+}

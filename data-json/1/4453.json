@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877534,
+            "name": "Đường Liên Mạc",
+            "pid": 4453,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Liên Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,089864",
+            "lng": "105,777367"
+        },
+        {
+            "id": 877435,
+            "name": "Đường Mạc Xá",
+            "pid": 4453,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mạc Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,08216",
+            "lng": "105,749531"
+        },
+        {
+            "id": 877438,
+            "name": "Đường Sùng Khang",
+            "pid": 4453,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sùng Khang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,08216",
+            "lng": "105,749531"
+        },
+        {
+            "id": 831091,
+            "name": "Đường Yên Nội",
+            "pid": 4453,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0660875",
+            "lng": "105.76396980000004"
+        },
+        {
+            "id": 16909,
+            "name": "Mạc Xá",
+            "pid": 4453,
+            "type": 2,
+            "region": null,
+            "alias": "Mạc Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0862723",
+            "lng": "105.75967390000005"
+        },
+        {
+            "id": 16897,
+            "name": "Sùng Khang",
+            "pid": 4453,
+            "type": 2,
+            "region": null,
+            "alias": "Sùng Khang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0809609",
+            "lng": "105.74208020000003"
+        },
+        {
+            "id": 16886,
+            "name": "Yên Nội",
+            "pid": 4453,
+            "type": 2,
+            "region": null,
+            "alias": "Yên Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0841772",
+            "lng": "105.75198849999992"
+        }
+    ],
+    "log_id": "675811bc9f3bc526"
+}

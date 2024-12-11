@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1006973,
+            "name": "313 Vĩnh Hưng",
+            "pid": 41346,
+            "type": 18,
+            "region": null,
+            "alias": "313 Vĩnh Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.994588353756154",
+            "lng": "105.87984040977555"
+        },
+        {
+            "id": 1006974,
+            "name": "317 Vĩnh Hưng",
+            "pid": 41346,
+            "type": 18,
+            "region": null,
+            "alias": "317 Vĩnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.99485048168283",
+            "lng": "105.87993661069903"
+        },
+        {
+            "id": 1006900,
+            "name": "321 Vĩnh Hưng",
+            "pid": 41346,
+            "type": 18,
+            "region": null,
+            "alias": "321 Vĩnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.996387592703638",
+            "lng": "105.87978590830159"
+        },
+        {
+            "id": 21224,
+            "name": "Đông Thiên",
+            "pid": 41346,
+            "type": 2,
+            "region": null,
+            "alias": "Đông Thiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9897406",
+            "lng": "105.87881770000001"
+        },
+        {
+            "id": 829345,
+            "name": "Đường Đông Thiên",
+            "pid": 41346,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đông Thiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9892354",
+            "lng": "105.87453589999996"
+        },
+        {
+            "id": 877048,
+            "name": "Đường Vĩnh Hoàng",
+            "pid": 41346,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,998266",
+            "lng": "105,879864"
+        },
+        {
+            "id": 49964,
+            "name": "Kcn Vĩnh Tuy",
+            "pid": 41346,
+            "type": 16,
+            "region": null,
+            "alias": "KCN Vĩnh Tuy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9826614",
+            "lng": "105.87179760000004"
+        },
+        {
+            "id": 50148,
+            "name": "Ngõ 254 Vĩnh Hưng",
+            "pid": 41346,
+            "type": 16,
+            "region": null,
+            "alias": "Ngõ 254 Vĩnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9914264",
+            "lng": "105.88029540000002"
+        }
+    ],
+    "log_id": "675811bd54bca417"
+}

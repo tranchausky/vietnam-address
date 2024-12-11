@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 720496,
+            "name": "Bản Khích",
+            "pid": 19936,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khích",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.805090",
+            "lng": "103.591158"
+        },
+        {
+            "id": 720499,
+            "name": "Bản Máng",
+            "pid": 19936,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Máng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.805090",
+            "lng": "103.591158"
+        },
+        {
+            "id": 733696,
+            "name": "Pha Khinh",
+            "pid": 19936,
+            "type": 16,
+            "region": null,
+            "alias": "Pha Khinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3363608",
+            "lng": "103.84378519999996"
+        }
+    ],
+    "log_id": "675812ef1961f162"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88109,
+            "name": "Ấp Bà Trường",
+            "pid": 7012,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bà Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.703882131373055, ",
+            "lng": "106.95796266523247"
+        },
+        {
+            "id": 941531,
+            "name": "Ấp Bàu Bông",
+            "pid": 7012,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Bông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.656182307747281",
+            "lng": "106.94257414850101"
+        },
+        {
+            "id": 88139,
+            "name": "Ấp Quới Thạnh",
+            "pid": 7012,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Quới Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.644297259235731, 106.95060912346642",
+            "lng": "10.644297259235731, 106.95060912346642"
+        },
+        {
+            "id": 88133,
+            "name": "Ấp Vũng Gấm",
+            "pid": 7012,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vũng Gấm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.7490265",
+            "lng": "105.4228953"
+        },
+        {
+            "id": 746962,
+            "name": "Chung Cư Dầu Khí",
+            "pid": 7012,
+            "type": 4,
+            "region": null,
+            "alias": "chung cư Dầu khí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.677155492377153",
+            "lng": "106.93966656743197"
+        },
+        {
+            "id": 746956,
+            "name": "Khu Dân Cư Dta",
+            "pid": 7012,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Dân Cư DTA",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.675136984441023, 106.89087434389137",
+            "lng": "10.675136984441023, 106.89087434389137"
+        }
+    ],
+    "log_id": "675814dd4806f993"
+}

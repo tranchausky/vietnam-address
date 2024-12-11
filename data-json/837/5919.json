@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753379,
+            "name": "Đường Lê Phụng Hiêu",
+            "pid": 5919,
+            "type": 21,
+            "region": null,
+            "alias": "đường Lê Phụng Hiêu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.173800600000003",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 957273,
+            "name": "Đường Lê Phụng Hiểu",
+            "pid": 5919,
+            "type": 29,
+            "region": null,
+            "alias": "đường Lê Phụng Hiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1848232",
+            "lng": "106.0529878"
+        }
+    ],
+    "log_id": "675815f8b321b754"
+}

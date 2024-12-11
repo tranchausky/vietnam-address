@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 617811,
+            "name": "Thôn Phù Lưu",
+            "pid": 21176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8513273",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 617805,
+            "name": "Thôn Tam Đa",
+            "pid": 21176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8513273",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 617808,
+            "name": "Thôn Vân Tiền",
+            "pid": 21176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Tiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.8513273",
+            "lng": "106.34049249999998"
+        }
+    ],
+    "log_id": "675814aa06b9d285"
+}

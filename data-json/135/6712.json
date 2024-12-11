@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412015,
+            "name": "Hợp Hưng",
+            "pid": 6712,
+            "type": 16,
+            "region": null,
+            "alias": "Hợp Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6376219",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 412011,
+            "name": "Thôn Minh Hưng",
+            "pid": 6712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Minh Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6376219",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 412017,
+            "name": "Thôn Tân Hưng",
+            "pid": 6712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6376219",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 412013,
+            "name": "Thôn Xuân Hưng",
+            "pid": 6712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6376219",
+            "lng": "106.62323590000005"
+        }
+    ],
+    "log_id": "6758136603041742"
+}

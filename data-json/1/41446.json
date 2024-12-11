@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830641,
+            "name": "Đường Thanh Niên",
+            "pid": 41446,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thanh Niên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0534309",
+            "lng": "105.83930439999995"
+        },
+        {
+            "id": 877252,
+            "name": "Đường Yên Phụ",
+            "pid": 41446,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Phụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,055151",
+            "lng": "105,83859"
+        },
+        {
+            "id": 569,
+            "name": "Yên Phụ",
+            "pid": 41446,
+            "type": 20,
+            "region": null,
+            "alias": "Yên Phụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0534309",
+            "lng": "105.83930439999995"
+        }
+    ],
+    "log_id": "675811bd6ca65756"
+}

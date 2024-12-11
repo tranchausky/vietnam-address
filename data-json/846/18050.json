@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 838201,
+            "name": "Ấp 1",
+            "pid": 18050,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6774666",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 619188,
+            "name": "Ấp 2",
+            "pid": 18050,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6774666",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 838207,
+            "name": "Ấp 3",
+            "pid": 18050,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6774666",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 838204,
+            "name": "Ấp Phú An",
+            "pid": 18050,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6774666",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 845161,
+            "name": "Ninh Thuận",
+            "pid": 18050,
+            "type": 17,
+            "region": null,
+            "alias": "Ninh Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6774666",
+            "lng": "105.40095080000003"
+        }
+    ],
+    "log_id": "675816c07a6a7480"
+}

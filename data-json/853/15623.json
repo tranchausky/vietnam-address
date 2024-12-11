@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 649675,
+            "name": "Bản Cáp Na 1",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cáp Na 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.860352",
+            "lng": "103.802430"
+        },
+        {
+            "id": 649798,
+            "name": "Bản Khít",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Bản khít",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.888230",
+            "lng": "103.766381"
+        },
+        {
+            "id": 649765,
+            "name": "Bản Noong Ô",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Noong Ô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.852386",
+            "lng": "103.758141"
+        },
+        {
+            "id": 649699,
+            "name": "Cáp Na 2",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Cáp Na 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.849200",
+            "lng": "103.780114"
+        },
+        {
+            "id": 649726,
+            "name": "Cáp Na 3",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Cáp Na 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.817967",
+            "lng": "103.758141"
+        },
+        {
+            "id": 649747,
+            "name": "Hua Chít",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Hua Chít",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.825617",
+            "lng": "103.729302"
+        },
+        {
+            "id": 649783,
+            "name": "Noong Ma",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Noong Ma",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.867999",
+            "lng": "103.753163"
+        },
+        {
+            "id": 649804,
+            "name": "Pa Chít Táu",
+            "pid": 15623,
+            "type": 16,
+            "region": null,
+            "alias": "Pa Chít Táu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.906547",
+            "lng": "103.785950"
+        }
+    ],
+    "log_id": "6758175e5776b858"
+}

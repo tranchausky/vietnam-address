@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 969895,
+            "name": "1 - 99 Trần Hưng Đạo",
+            "pid": 16623,
+            "type": 29,
+            "region": null,
+            "alias": "1 - 99 Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4236329",
+            "lng": "105.001938"
+        },
+        {
+            "id": 969896,
+            "name": "100 - 250 Trần Hưng Đạo",
+            "pid": 16623,
+            "type": 29,
+            "region": null,
+            "alias": "100 - 250 Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4121409",
+            "lng": "105.005908"
+        },
+        {
+            "id": 970176,
+            "name": "Đường 3\/2",
+            "pid": 16623,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.427662",
+            "lng": "105.003708"
+        },
+        {
+            "id": 1002612,
+            "name": "Đường Nam Kỳ Khởi Nghĩa",
+            "pid": 16623,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nam Kỳ Khởi Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 970174,
+            "name": "Đường Nguyễn Văn Cừ",
+            "pid": 16623,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4194934",
+            "lng": "105.007637"
+        },
+        {
+            "id": 111569,
+            "name": "Khóm 1",
+            "pid": 16623,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 108481,
+            "name": "Khóm 2",
+            "pid": 16623,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 108503,
+            "name": "Khóm 3",
+            "pid": 16623,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 108507,
+            "name": "Khóm 4",
+            "pid": 16623,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 108529,
+            "name": "Khóm 5",
+            "pid": 16623,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 108537,
+            "name": "Khóm 6",
+            "pid": 16623,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4236989",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 970042,
+            "name": "Khu Sao Mai",
+            "pid": 16623,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Sao Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4251250",
+            "lng": "104.996605"
+        },
+        {
+            "id": 970175,
+            "name": "Tỉnh Lộ 941",
+            "pid": 16623,
+            "type": 21,
+            "region": null,
+            "alias": "Tỉnh lộ 941",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4210890",
+            "lng": "105.020842"
+        }
+    ],
+    "log_id": "6758159df29b650"
+}

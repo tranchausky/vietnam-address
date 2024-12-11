@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762880,
+            "name": "Đình Hàn",
+            "pid": 15318,
+            "type": 16,
+            "region": null,
+            "alias": "Đình Hàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4134583",
+            "lng": "105.85545130000004"
+        },
+        {
+            "id": 427557,
+            "name": "Sông Hải",
+            "pid": 15318,
+            "type": 18,
+            "region": null,
+            "alias": "Sông Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4134583",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 427559,
+            "name": "Sông Tiến",
+            "pid": 15318,
+            "type": 18,
+            "region": null,
+            "alias": "Sông Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4134583",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 427563,
+            "name": "Tân Hợp",
+            "pid": 15318,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Hợp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4134583",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 800071,
+            "name": "Tri Khê",
+            "pid": 15318,
+            "type": 16,
+            "region": null,
+            "alias": "Tri Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4134583",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 427567,
+            "name": "Vạn Đò",
+            "pid": 15318,
+            "type": 18,
+            "region": null,
+            "alias": "Vạn Đò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.4134583",
+            "lng": "105.85545130000003"
+        }
+    ],
+    "log_id": "675816e9d22ed910"
+}

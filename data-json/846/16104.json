@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117043,
+            "name": "Ấp Định Mỹ",
+            "pid": 16104,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Định Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1953911",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 117047,
+            "name": "Ấp Định Phong",
+            "pid": 16104,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Định Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1953911",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 117039,
+            "name": "Ấp Định Phú",
+            "pid": 16104,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Định Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1953911",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 117041,
+            "name": "Ấp Định Tân",
+            "pid": 16104,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Định Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1953911",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 117045,
+            "name": "Ấp Định Thành",
+            "pid": 16104,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Định Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1953911",
+            "lng": "105.67058010000005"
+        }
+    ],
+    "log_id": "675816c054a03415"
+}

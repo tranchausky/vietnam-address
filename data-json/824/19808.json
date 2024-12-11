@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599865,
+            "name": "Tân Bình",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599862,
+            "name": "Tân Định",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599868,
+            "name": "Tân Hiệp",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599871,
+            "name": "Tân Hưng",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599859,
+            "name": "Tân Hương",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599874,
+            "name": "Tân Lợi",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599880,
+            "name": "Tân Phú",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        },
+        {
+            "id": 599877,
+            "name": "Tân Quý",
+            "pid": 19808,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Quý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2931003",
+            "lng": "106.52894600000002"
+        }
+    ],
+    "log_id": "675814f401d23643"
+}

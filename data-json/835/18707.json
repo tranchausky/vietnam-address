@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 810355,
+            "name": "Bản Duồm",
+            "pid": 18707,
+            "type": 16,
+            "region": null,
+            "alias": "bản duồm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 834553,
+            "name": "Bản Luộc",
+            "pid": 18707,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Luộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875120000002"
+        },
+        {
+            "id": 752857,
+            "name": "Khuổi Shảo",
+            "pid": 18707,
+            "type": 18,
+            "region": null,
+            "alias": "Khuổi Shảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875120000002"
+        },
+        {
+            "id": 810358,
+            "name": "Nà Hin",
+            "pid": 18707,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Hin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 937481,
+            "name": "Thôn Nà Cà",
+            "pid": 18707,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nà Cà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875120000002"
+        },
+        {
+            "id": 937490,
+            "name": "Thôn Phiêng Khít",
+            "pid": 18707,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phiêng Khít",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875120000002"
+        },
+        {
+            "id": 937487,
+            "name": "Thôn Rỏng Thù",
+            "pid": 18707,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Rỏng Thù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5312492",
+            "lng": "106.02875120000002"
+        }
+    ],
+    "log_id": "675815c93fa64719"
+}

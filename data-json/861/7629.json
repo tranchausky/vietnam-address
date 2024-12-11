@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434843,
+            "name": "Ấp Trường An",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.660624",
+            "lng": "106.028570"
+        },
+        {
+            "id": 434839,
+            "name": "Ấp Trường Bình",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.713662",
+            "lng": "106.025389"
+        },
+        {
+            "id": 434849,
+            "name": "Ấp Trường Hưng",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.664115",
+            "lng": "106.016148"
+        },
+        {
+            "id": 434841,
+            "name": "Ấp Trường Lộc",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.711391",
+            "lng": "106.004811"
+        },
+        {
+            "id": 434845,
+            "name": "Ấp Trường Thành A",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Thành A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.674720",
+            "lng": "106.008827"
+        },
+        {
+            "id": 434847,
+            "name": "Ấp Trường Thành B",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Thành B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.674720",
+            "lng": "106.008827"
+        },
+        {
+            "id": 434851,
+            "name": "Ấp Trường Thọ",
+            "pid": 7629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.663913",
+            "lng": "105.996531"
+        }
+    ],
+    "log_id": "675909c170cbb440"
+}

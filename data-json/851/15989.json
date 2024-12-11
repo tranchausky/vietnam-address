@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115097,
+            "name": "Ấp Hòa An",
+            "pid": 15989,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.017216",
+            "lng": "105.183290"
+        },
+        {
+            "id": 115103,
+            "name": "Ấp Hòa Bình",
+            "pid": 15989,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.022351",
+            "lng": "105.213443"
+        },
+        {
+            "id": 115099,
+            "name": "Ấp Hòa Phú",
+            "pid": 15989,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.971666",
+            "lng": "105.212858"
+        },
+        {
+            "id": 115093,
+            "name": "Ấp Hòa Thọ",
+            "pid": 15989,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.029078",
+            "lng": "105.214259"
+        },
+        {
+            "id": 115107,
+            "name": "Ấp Hòa Tiến",
+            "pid": 15989,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.025890",
+            "lng": "105.213228"
+        }
+    ],
+    "log_id": "67581736180fd305"
+}

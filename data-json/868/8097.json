@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 15670,
+            "name": "Phường Cái Vồn",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Cái Vồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0665624",
+            "lng": "105.80848229999992"
+        },
+        {
+            "id": 15671,
+            "name": "Phường Đông Thuận",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0451829",
+            "lng": "105.8361807"
+        },
+        {
+            "id": 15672,
+            "name": "Phường Thành Phước",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thành Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0610769",
+            "lng": "105.79995050000002"
+        },
+        {
+            "id": 15673,
+            "name": "Xã Đông Bình",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.056571",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 15674,
+            "name": "Xã Đông Thành",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0120838",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 15675,
+            "name": "Xã Đông Thạnh",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0120838",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 15676,
+            "name": "Xã Mỹ Hòa",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mỹ Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0137967",
+            "lng": "105.83490089999998"
+        },
+        {
+            "id": 15677,
+            "name": "Xã Thuận An",
+            "pid": 8097,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thuận An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.086487",
+            "lng": "105.826192"
+        }
+    ],
+    "log_id": "67590b59772d3624"
+}

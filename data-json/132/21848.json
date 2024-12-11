@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 605067,
+            "name": "Tổ Dân Phố Số 1",
+            "pid": 21848,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố số 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8528313",
+            "lng": "104.0836104"
+        },
+        {
+            "id": 605070,
+            "name": "Tổ Dân Phố Số 2",
+            "pid": 21848,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ dân phố số 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8528313",
+            "lng": "104.0836104"
+        },
+        {
+            "id": 605073,
+            "name": "Tổ Dân Phố Số 3",
+            "pid": 21848,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ dân phố số 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8528313",
+            "lng": "104.0836104"
+        },
+        {
+            "id": 605076,
+            "name": "Tổ Dân Phố Số 4",
+            "pid": 21848,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ dân phố số 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8528313",
+            "lng": "104.0836104"
+        },
+        {
+            "id": 605079,
+            "name": "Tổ Dân Phố Số 5",
+            "pid": 21848,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ dân phố số 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8528313",
+            "lng": "104.0836104"
+        }
+    ],
+    "log_id": "6758131fa4ef7188"
+}

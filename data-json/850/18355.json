@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98096,
+            "name": "Thôn Bình Tân",
+            "pid": 18355,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bình tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.612965",
+            "lng": "105.588994"
+        },
+        {
+            "id": 394949,
+            "name": "Xóm Bãi Xe",
+            "pid": 18355,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bãi Xe",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6235684",
+            "lng": "105.58554379999998"
+        },
+        {
+            "id": 394943,
+            "name": "Xóm Bình Tân",
+            "pid": 18355,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bình Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6235684",
+            "lng": "105.58554379999998"
+        },
+        {
+            "id": 394937,
+            "name": "Xóm Bôi Cả",
+            "pid": 18355,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bôi Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6235684",
+            "lng": "105.58554379999998"
+        },
+        {
+            "id": 394947,
+            "name": "Xóm Nam Hạ",
+            "pid": 18355,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nam Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6235684",
+            "lng": "105.58554379999998"
+        },
+        {
+            "id": 394939,
+            "name": "Xóm Nam Thượng",
+            "pid": 18355,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nam Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6235684",
+            "lng": "105.58554379999998"
+        },
+        {
+            "id": 394941,
+            "name": "Xóm Nước Ruộng",
+            "pid": 18355,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nước Ruộng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6235684",
+            "lng": "105.58554379999998"
+        }
+    ],
+    "log_id": "675817212bb18940"
+}

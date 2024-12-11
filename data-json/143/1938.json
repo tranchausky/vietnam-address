@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 15142,
+            "name": "Phường 1",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.81948",
+            "lng": "107.10284869999998"
+        },
+        {
+            "id": 15143,
+            "name": "Phường 2",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8265671",
+            "lng": "107.10659409999994"
+        },
+        {
+            "id": 15144,
+            "name": "Phường 3",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8176852",
+            "lng": "107.08606910000003"
+        },
+        {
+            "id": 15146,
+            "name": "Phường 4",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        },
+        {
+            "id": 15145,
+            "name": "Phường 5",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.800091",
+            "lng": "107.09233310000002"
+        },
+        {
+            "id": 15148,
+            "name": "Phường Đông Giang",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8427468",
+            "lng": "107.10806260000004"
+        },
+        {
+            "id": 15149,
+            "name": "Phường Đông Lễ",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8234769",
+            "lng": "107.11891409999998"
+        },
+        {
+            "id": 15626,
+            "name": "Phường Đông Lương",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7834932",
+            "lng": "107.08642659999998"
+        },
+        {
+            "id": 15147,
+            "name": "Phường Đông Thanh",
+            "pid": 1938,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8304002",
+            "lng": "107.0831498"
+        }
+    ],
+    "log_id": "675813bbef528555"
+}

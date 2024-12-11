@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 526607,
+            "name": "Xóm Bắc Xuân",
+            "pid": 20230,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bắc Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.015833",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 526609,
+            "name": "Xóm Liên Hoa",
+            "pid": 20230,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Liên Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.015833",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 526611,
+            "name": "Xóm Nam Xuân",
+            "pid": 20230,
+            "type": 9,
+            "region": null,
+            "alias": "Xóm Nam Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.015833",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 526613,
+            "name": "Xóm Trung Xuân",
+            "pid": 20230,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trung Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.015833",
+            "lng": "105.5620927"
+        }
+    ],
+    "log_id": "6758120849f4b324"
+}

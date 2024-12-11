@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 842107,
+            "name": "Ngã Ba Phương Đông",
+            "pid": 18886,
+            "type": 16,
+            "region": null,
+            "alias": "ngã ba phương đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4407772",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 907630,
+            "name": "Trường Tiểu Học Tt Bố Hạ",
+            "pid": 18886,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học TT Bố Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4407772",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 842110,
+            "name": "Xóm Sỏi",
+            "pid": 18886,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sỏi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4407772",
+            "lng": "106.19044259999998"
+        }
+    ],
+    "log_id": "675813d918823980"
+}

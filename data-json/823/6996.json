@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88634,
+            "name": "Ấp 1",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.736745",
+            "lng": "107.1248527"
+        },
+        {
+            "id": 88646,
+            "name": "Ấp 2",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.721495",
+            "lng": "107.051352"
+        },
+        {
+            "id": 88637,
+            "name": "Ấp 3",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7446091",
+            "lng": "107.0550391"
+        },
+        {
+            "id": 88655,
+            "name": "Ấp 4",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7237316",
+            "lng": "107.067138"
+        },
+        {
+            "id": 93134,
+            "name": "Ấp 5",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6867083",
+            "lng": "107.0429349"
+        },
+        {
+            "id": 88649,
+            "name": "Ấp 6",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7203628",
+            "lng": "107.0394594"
+        },
+        {
+            "id": 88652,
+            "name": "Ấp 7",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7251915",
+            "lng": "107.0957918"
+        },
+        {
+            "id": 88235,
+            "name": "Ấp 8",
+            "pid": 6996,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7372094",
+            "lng": "107.1119102"
+        },
+        {
+            "id": 93146,
+            "name": "Ấp Suối Cả",
+            "pid": 6996,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Suối Cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7307634",
+            "lng": "107.1096642"
+        }
+    ],
+    "log_id": "675814dd515aa538"
+}

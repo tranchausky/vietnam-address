@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 919438,
+            "name": "Khối 1",
+            "pid": 20346,
+            "type": 16,
+            "region": null,
+            "alias": "khối 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.000411",
+            "lng": "105.465263"
+        },
+        {
+            "id": 531137,
+            "name": "Khối 2",
+            "pid": 20346,
+            "type": 18,
+            "region": null,
+            "alias": "Khối 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.000722",
+            "lng": "105.46831930000008"
+        },
+        {
+            "id": 531139,
+            "name": "Khối 3",
+            "pid": 20346,
+            "type": 16,
+            "region": null,
+            "alias": "Khối 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.000722",
+            "lng": "105.46831930000008"
+        },
+        {
+            "id": 531141,
+            "name": "Khối 4",
+            "pid": 20346,
+            "type": 16,
+            "region": null,
+            "alias": "Khối 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.000722",
+            "lng": "105.46831930000008"
+        }
+    ],
+    "log_id": "67581208bbdef677"
+}

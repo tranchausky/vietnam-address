@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562575,
+            "name": "Thôn Đồng Bái",
+            "pid": 7833,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn đồng bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3101422",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 562573,
+            "name": "Thôn Trà Đính Hạ",
+            "pid": 7833,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trà đính hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3101422",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 562571,
+            "name": "Thôn Trà Đính Thượng",
+            "pid": 7833,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trà đính thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3101422",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 562565,
+            "name": "Thôn Trần Phú",
+            "pid": 7833,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trần phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3101422",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 562567,
+            "name": "Xóm An Ninh",
+            "pid": 7833,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm an ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3101422",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 562569,
+            "name": "Xóm Hòa Bình",
+            "pid": 7833,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm hòa bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3101422",
+            "lng": "105.81141750000006"
+        }
+    ],
+    "log_id": "6758179903a79351"
+}

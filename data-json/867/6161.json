@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 569169,
+            "name": "Ấp Chánh Hội A",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh Hội A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 569172,
+            "name": "Ấp Chánh Hội B",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh Hội B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 569166,
+            "name": "Ấp Ngãi Chánh",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngãi Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 569163,
+            "name": "Ấp Ngãi Hưng",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngãi Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 569178,
+            "name": "Ấp Ngãi Phú",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngãi Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 569181,
+            "name": "Ấp Ngãi Thuận",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngãi Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 569175,
+            "name": "Ấp Ngã Tư",
+            "pid": 6161,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngã Tư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7872177",
+            "lng": "106.26986690000001"
+        }
+    ],
+    "log_id": "67590b43a399b858"
+}

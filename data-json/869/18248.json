@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107081,
+            "name": "Thôn Tân An",
+            "pid": 18248,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.361933",
+            "lng": "109.139819"
+        },
+        {
+            "id": 107099,
+            "name": "Thôn Tân Hòa",
+            "pid": 18248,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.324097",
+            "lng": "109.172461"
+        },
+        {
+            "id": 107093,
+            "name": "Thôn Tân Long",
+            "pid": 18248,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.361933",
+            "lng": "109.139819"
+        },
+        {
+            "id": 107084,
+            "name": "Thôn Tân Phú",
+            "pid": 18248,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.352147",
+            "lng": "109.146382"
+        },
+        {
+            "id": 107090,
+            "name": "Thôn Tân Vinh",
+            "pid": 18248,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.343076",
+            "lng": "109.153377"
+        }
+    ],
+    "log_id": "67590b80b4c13371"
+}

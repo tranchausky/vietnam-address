@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 556113,
+            "name": "Phố Kiểu",
+            "pid": 17279,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Kiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 900466,
+            "name": "Phô Kiểu",
+            "pid": 17279,
+            "type": 21,
+            "region": null,
+            "alias": "Phô Kiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0308016",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 880465,
+            "name": "Phố Kiểu Yên Trường",
+            "pid": 17279,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Kiểu Yên Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.028702",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 900460,
+            "name": "Phố Núi",
+            "pid": 17279,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Núi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 556121,
+            "name": "Thôn Đông Khê",
+            "pid": 17279,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 556119,
+            "name": "Thôn Lựu Khê",
+            "pid": 17279,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lựu Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 782083,
+            "name": "Thôn Phố Kiểu",
+            "pid": 17279,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phố kiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9544188",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 556115,
+            "name": "Thôn Thạch Qủa 1",
+            "pid": 17279,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Qủa 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 556117,
+            "name": "Thôn Thạch Qủa 2",
+            "pid": 17279,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Qủa 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 746416,
+            "name": "Yên Trường",
+            "pid": 17279,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0176461",
+            "lng": "105.5884754"
+        }
+    ],
+    "log_id": "67590a233eddb409"
+}

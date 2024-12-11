@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 8023,
+            "name": "Phường 1",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3045688",
+            "lng": "105.73299150000003"
+        },
+        {
+            "id": 8024,
+            "name": "Phường 2",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2749201",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 8025,
+            "name": "Phường 3",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2861684",
+            "lng": "105.721181"
+        },
+        {
+            "id": 8026,
+            "name": "Phường 5",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2738687",
+            "lng": "105.74098520000007"
+        },
+        {
+            "id": 8027,
+            "name": "Phường 7",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.297723",
+            "lng": "105.71816080000008"
+        },
+        {
+            "id": 8028,
+            "name": "Phường 8",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2974563",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 8029,
+            "name": "Phường Nhà Mát",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nhà Mát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2314464",
+            "lng": "105.72924910000006"
+        },
+        {
+            "id": 8032,
+            "name": "Xã Hiệp Thành",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hiệp Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2303988",
+            "lng": "105.75272210000003"
+        },
+        {
+            "id": 8030,
+            "name": "Xã Vĩnh Trạch",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3090846",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 8031,
+            "name": "Xã Vĩnh Trạch Đông",
+            "pid": 1512,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Trạch Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.258338",
+            "lng": "105.794969"
+        }
+    ],
+    "log_id": "675815e15fb60294"
+}

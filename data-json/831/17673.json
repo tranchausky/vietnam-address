@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 898489,
+            "name": "Đường Số 2",
+            "pid": 17673,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Số 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.9847344",
+            "lng": "109.1493564"
+        },
+        {
+            "id": 843364,
+            "name": "Mỏ Đá",
+            "pid": 17673,
+            "type": 21,
+            "region": null,
+            "alias": "Mỏ đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.9847344",
+            "lng": "109.1493564"
+        }
+    ],
+    "log_id": "67581585b63ea888"
+}

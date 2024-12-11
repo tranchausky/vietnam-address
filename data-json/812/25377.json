@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568392,
+            "name": "Thôn Hội An",
+            "pid": 25377,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.509666",
+            "lng": "108.94205690000001"
+        },
+        {
+            "id": 568395,
+            "name": "Thôn Mỹ Khê",
+            "pid": 25377,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.509666",
+            "lng": "108.94205690000001"
+        },
+        {
+            "id": 568389,
+            "name": "Thôn Triều Dương",
+            "pid": 25377,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Triều Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.509666",
+            "lng": "108.94205690000001"
+        }
+    ],
+    "log_id": "67581477e93a016"
+}

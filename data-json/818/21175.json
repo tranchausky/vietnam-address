@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 617799,
+            "name": "Thôn Hướng Phương",
+            "pid": 21175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hướng Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7898808",
+            "lng": "106.3875898"
+        },
+        {
+            "id": 617796,
+            "name": "Thôn Pháp Kệ",
+            "pid": 21175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pháp Kệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7898808",
+            "lng": "106.3875898"
+        },
+        {
+            "id": 617802,
+            "name": "Thôn Tô Xá",
+            "pid": 21175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tô Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7898808",
+            "lng": "106.3875898"
+        }
+    ],
+    "log_id": "675814aa0a09e161"
+}

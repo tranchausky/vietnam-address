@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88352,
+            "name": "Ấp Bến Cát",
+            "pid": 19270,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bến Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.356003787727955",
+            "lng": "106.77253480080022"
+        },
+        {
+            "id": 88367,
+            "name": "Ấp Đồng Thông",
+            "pid": 19270,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Đồng Thông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.387612116172027",
+            "lng": "106.77245580740404"
+        },
+        {
+            "id": 88355,
+            "name": "Ấp Đồng Trâm",
+            "pid": 19270,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Đồng Trâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.373955910314807",
+            "lng": "106.7829700573771"
+        },
+        {
+            "id": 88361,
+            "name": "Ấp Sa Dụp",
+            "pid": 19270,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Sa Dụp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.372044491237036",
+            "lng": "106.75716524141261"
+        },
+        {
+            "id": 88349,
+            "name": "Ấp Tân Tiến",
+            "pid": 19270,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.333707859264413",
+            "lng": "106.77268891138866"
+        }
+    ],
+    "log_id": "675816218e7bd28"
+}

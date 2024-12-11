@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 979132,
+            "name": "Công Ty Thái Vạn Long",
+            "pid": 15097,
+            "type": 21,
+            "region": null,
+            "alias": "Công ty Thái Vạn Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.590245152938403",
+            "lng": "108.98849335248676"
+        },
+        {
+            "id": 603384,
+            "name": "Đường Thống Nhất",
+            "pid": 15097,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6041855",
+            "lng": "108.98291029999996"
+        },
+        {
+            "id": 978350,
+            "name": "Khu Tái Định Cư Thành Hải",
+            "pid": 15097,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Tái định cư Thành Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.600821337097264",
+            "lng": "108.96934370564706"
+        },
+        {
+            "id": 978444,
+            "name": "Thôn Công Thành",
+            "pid": 15097,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Công Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.609582255857234",
+            "lng": "108.97278786985594"
+        }
+    ],
+    "log_id": "675817b98a1a1976"
+}

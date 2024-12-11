@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 891994,
+            "name": "Đường Hai Bà Trưng - Thôn Tân Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Hai Bà Trưng - Thôn Tân Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "108.955743",
+            "lng": "10.545703"
+        },
+        {
+            "id": 892003,
+            "name": "Đường Lê Lai - Thôn Đông Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Lê Lai - Thôn Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "108.955743",
+            "lng": "10.545703"
+        },
+        {
+            "id": 892006,
+            "name": "Đường Lý Tự Trọng - Thôn Đông Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Lý Tự Trọng - Thôn Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "108.955743",
+            "lng": "10.545703"
+        },
+        {
+            "id": 892009,
+            "name": "Đường Nguyễn Đình Chiểu - Thôn Đông Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu - Thôn Đông Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "108.955743",
+            "lng": "10.545703"
+        },
+        {
+            "id": 892000,
+            "name": "Đường Nguyễn Thông - Thôn Đông Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Nguyễn Thông - Thôn Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "108.955743",
+            "lng": "10.545703"
+        },
+        {
+            "id": 891997,
+            "name": "Đường Yết Kiêu - Thôn Tân Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Yết Kiêu - Thôn Tân Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "108.955743",
+            "lng": "10.545703"
+        },
+        {
+            "id": 568380,
+            "name": "Thôn Đông Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.547487",
+            "lng": "108.952031"
+        },
+        {
+            "id": 568386,
+            "name": "Thôn Phú Long",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.547487",
+            "lng": "108.952031"
+        },
+        {
+            "id": 568383,
+            "name": "Thôn Quý Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quý Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.547487",
+            "lng": "108.952031"
+        },
+        {
+            "id": 568377,
+            "name": "Thôn Tân Hải",
+            "pid": 25369,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.547487",
+            "lng": "108.952031"
+        }
+    ],
+    "log_id": "67581477eceea267"
+}

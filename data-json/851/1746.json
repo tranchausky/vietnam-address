@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 10073,
+            "name": "Phường An Bình",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9678142",
+            "lng": "105.12143609999998"
+        },
+        {
+            "id": 10072,
+            "name": "Phường An Hòa",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9804585",
+            "lng": "105.10439350000001"
+        },
+        {
+            "id": 10070,
+            "name": "Phường Rạch Sỏi",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Rạch Sỏi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9483946",
+            "lng": "105.11568929999999"
+        },
+        {
+            "id": 10066,
+            "name": "Phường Vĩnh Bảo",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Bảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0030212",
+            "lng": "105.08630770000002"
+        },
+        {
+            "id": 11006,
+            "name": "Phường Vĩnh Hiệp",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9917553",
+            "lng": "105.10435740000003"
+        },
+        {
+            "id": 10067,
+            "name": "Phường Vĩnh Lạc",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9943793",
+            "lng": "105.09432270000002"
+        },
+        {
+            "id": 10071,
+            "name": "Phường Vĩnh Lợi",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9552245",
+            "lng": "105.12369230000002"
+        },
+        {
+            "id": 10069,
+            "name": "Phường Vĩnh Quang",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0260579",
+            "lng": "105.06909840000003"
+        },
+        {
+            "id": 11005,
+            "name": "Phường Vĩnh Thanh",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0196191",
+            "lng": "105.08204569999998"
+        },
+        {
+            "id": 10068,
+            "name": "Phường Vĩnh Thanh Vân",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Thanh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0095159",
+            "lng": "105.08323180000002"
+        },
+        {
+            "id": 11007,
+            "name": "Phường Vĩnh Thông",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Thông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0361694",
+            "lng": "105.09537739999996"
+        },
+        {
+            "id": 11008,
+            "name": "Xã Phi Thông",
+            "pid": 1746,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phi Thông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0549515",
+            "lng": "105.1211419"
+        }
+    ],
+    "log_id": "67581735f338e748"
+}

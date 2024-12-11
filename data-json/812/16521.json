@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567930,
+            "name": "Thôn Lâm Thuận",
+            "pid": 16521,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lâm Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.152295",
+            "lng": "108.065800"
+        },
+        {
+            "id": 567924,
+            "name": "Thôn Phú Điền",
+            "pid": 16521,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.152295",
+            "lng": "108.065800"
+        },
+        {
+            "id": 567927,
+            "name": "Thôn Phú Lập",
+            "pid": 16521,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.152295",
+            "lng": "108.065800"
+        },
+        {
+            "id": 567921,
+            "name": "Thôn Phú Sơn",
+            "pid": 16521,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.152295",
+            "lng": "108.065800"
+        },
+        {
+            "id": 567918,
+            "name": "Thôn Phú Thắng",
+            "pid": 16521,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.152295",
+            "lng": "108.065800"
+        }
+    ],
+    "log_id": "6758147802b41532"
+}

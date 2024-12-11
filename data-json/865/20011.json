@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 929539,
+            "name": "Chợ Đền",
+            "pid": 20011,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Đền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1003188",
+            "lng": "105.8075503"
+        },
+        {
+            "id": 804718,
+            "name": "Đường 7",
+            "pid": 20011,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1003188",
+            "lng": "105.8075503"
+        },
+        {
+            "id": 804727,
+            "name": "Thôn Đồng Quảng",
+            "pid": 20011,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Quảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1003188",
+            "lng": "105.8075503"
+        }
+    ],
+    "log_id": "67590a23c2ecd340"
+}

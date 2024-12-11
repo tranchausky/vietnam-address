@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 931222,
+            "name": "Bắc Tiến",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Bắc Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.358653600000004",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427703,
+            "name": "Ngọc Sơn",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Ngọc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427705,
+            "name": "Quý Hải",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Quý Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427693,
+            "name": "Xóm Đại Long",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đại Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427695,
+            "name": "Xóm Đông Châu",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427699,
+            "name": "Xóm Mộc Hải",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mộc Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427701,
+            "name": "Xóm Mỹ Châu",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mỹ Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 427707,
+            "name": "Xóm Tấn Tiến",
+            "pid": 15367,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tấn Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3586536",
+            "lng": "105.78793710000002"
+        }
+    ],
+    "log_id": "675816e9d454b272"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115191,
+            "name": "Ấp An Lộc",
+            "pid": 16020,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.397010",
+            "lng": "105.988106"
+        },
+        {
+            "id": 115201,
+            "name": "Ấp An Thọ",
+            "pid": 16020,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.399103",
+            "lng": "106.016753"
+        },
+        {
+            "id": 115185,
+            "name": "Ấp Sa Nghe",
+            "pid": 16020,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sa Nghe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.399103",
+            "lng": "106.016753"
+        },
+        {
+            "id": 115175,
+            "name": "Ấp Vịnh",
+            "pid": 16020,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.395431",
+            "lng": "105.972575"
+        }
+    ],
+    "log_id": "675909dce72ba968"
+}

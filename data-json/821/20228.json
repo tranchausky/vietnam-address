@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 526207,
+            "name": "Thôn 1",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526209,
+            "name": "Thôn 2",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526211,
+            "name": "Thôn 3",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526213,
+            "name": "Thôn 4",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526215,
+            "name": "Thôn 5",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526217,
+            "name": "Thôn 6A",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526219,
+            "name": "Thôn 6B",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        },
+        {
+            "id": 526221,
+            "name": "Thôn 7",
+            "pid": 20228,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0222385",
+            "lng": "105.5884754"
+        }
+    ],
+    "log_id": "675812084ca86126"
+}

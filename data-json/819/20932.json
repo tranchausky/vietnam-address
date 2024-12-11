@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 552665,
+            "name": "Thôn Khe Loọng",
+            "pid": 20932,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Loọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2996782",
+            "lng": "107.20753880000007"
+        },
+        {
+            "id": 552671,
+            "name": "Thôn Khe Nà",
+            "pid": 20932,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Nà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2996782",
+            "lng": "107.20753880000007"
+        },
+        {
+            "id": 552667,
+            "name": "Thôn Khe Pụt",
+            "pid": 20932,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Pụt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2996782",
+            "lng": "107.20753880000007"
+        },
+        {
+            "id": 552669,
+            "name": "Thôn Thác Lào",
+            "pid": 20932,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thác Lào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2996782",
+            "lng": "107.20753880000007"
+        }
+    ],
+    "log_id": "675814c21cd44184"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616110,
+            "name": "Thôn Bản Mới",
+            "pid": 18997,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bản Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.0516693",
+            "lng": "106.51127120000001"
+        },
+        {
+            "id": 616116,
+            "name": "Thôn Chút Mút",
+            "pid": 18997,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chút Mút",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.0516693",
+            "lng": "106.51127120000001"
+        },
+        {
+            "id": 616113,
+            "name": "Thôn Mụ Mệ",
+            "pid": 18997,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mụ Mệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.0516693",
+            "lng": "106.51127120000001"
+        },
+        {
+            "id": 616104,
+            "name": "Thôn Tăng Ký",
+            "pid": 18997,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tăng Ký",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.0516693",
+            "lng": "106.51127120000001"
+        },
+        {
+            "id": 616107,
+            "name": "Thôn Xà Khía",
+            "pid": 18997,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xà Khía",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.0516693",
+            "lng": "106.51127120000001"
+        }
+    ],
+    "log_id": "675814a9d0595504"
+}

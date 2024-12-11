@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 754555,
+            "name": "Làng Bla",
+            "pid": 19334,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Bla",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.6656413",
+            "lng": "108.7077534"
+        },
+        {
+            "id": 450465,
+            "name": "Làng Hôm",
+            "pid": 19334,
+            "type": 16,
+            "region": null,
+            "alias": "làng Hôm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6656413",
+            "lng": "108.7077534"
+        },
+        {
+            "id": 450461,
+            "name": "Làng Kchang",
+            "pid": 19334,
+            "type": 16,
+            "region": null,
+            "alias": "làng Kchang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6656413",
+            "lng": "108.7077534"
+        },
+        {
+            "id": 450463,
+            "name": "Làng Kliec",
+            "pid": 19334,
+            "type": 16,
+            "region": null,
+            "alias": "làng Kliec",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6656413",
+            "lng": "108.7077534"
+        }
+    ],
+    "log_id": "675816d361d0f453"
+}

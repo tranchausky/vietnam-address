@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876745,
+            "name": "Đường Đông Ngạc",
+            "pid": 814,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đông Ngạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,093102",
+            "lng": "105,779886"
+        },
+        {
+            "id": 876748,
+            "name": "Đường Hoàng Tăng Bí",
+            "pid": 814,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Tăng Bí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,093102",
+            "lng": "105,779886"
+        },
+        {
+            "id": 876751,
+            "name": "Đường Kẻ Vẽ",
+            "pid": 814,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kẻ Vẽ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,093102",
+            "lng": "105,779886"
+        },
+        {
+            "id": 830281,
+            "name": "Đường Nhật Tảo",
+            "pid": 814,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nhật Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0919168",
+            "lng": "105.78500220000001"
+        },
+        {
+            "id": 22443,
+            "name": "Nhật Tảo",
+            "pid": 814,
+            "type": 8,
+            "region": null,
+            "alias": "Nhật Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0892556",
+            "lng": "105.7901382"
+        },
+        {
+            "id": 4014,
+            "name": "Tân Nhuệ",
+            "pid": 814,
+            "type": 2,
+            "region": null,
+            "alias": "Tân Nhuệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.046723",
+            "lng": "105.74843120000003"
+        }
+    ],
+    "log_id": "675811bc9ff9b995"
+}

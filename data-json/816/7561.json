@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 826819,
+            "name": "Bưu Điện Hiệp Cường",
+            "pid": 7561,
+            "type": 16,
+            "region": null,
+            "alias": "Bưu Điện Hiệp Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7143649",
+            "lng": "106.06989629999998"
+        },
+        {
+            "id": 862894,
+            "name": "Hiệp Cường",
+            "pid": 7561,
+            "type": 16,
+            "region": null,
+            "alias": "Hiệp Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7143649",
+            "lng": "106.06989629999998"
+        },
+        {
+            "id": 629934,
+            "name": "Thôn Lương Xá",
+            "pid": 7561,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lương xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7143649",
+            "lng": "106.06989629999998"
+        },
+        {
+            "id": 629931,
+            "name": "Thôn Trà Lâm",
+            "pid": 7561,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trà lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7143649",
+            "lng": "106.06989629999998"
+        }
+    ],
+    "log_id": "6758149102d56867"
+}

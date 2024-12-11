@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1018795,
+            "name": "Thôn Đông",
+            "pid": 15068,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12°22′54″B",
+            "lng": "109°17′36″Đ"
+        },
+        {
+            "id": 1018797,
+            "name": "Thôn Đông",
+            "pid": 15068,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.386657",
+            "lng": "109.316467"
+        }
+    ],
+    "log_id": "67581585bedc1854"
+}

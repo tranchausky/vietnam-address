@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453349,
+            "name": "Thôn Đăk Rao Lớn",
+            "pid": 18582,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Rao Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.5767315",
+            "lng": "107.82284589999995"
+        },
+        {
+            "id": 453351,
+            "name": "Thôn Đăk Rao Nhỏ",
+            "pid": 18582,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Rao Nhỏ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5767315",
+            "lng": "107.82284589999995"
+        },
+        {
+            "id": 815611,
+            "name": "Thôn Kon Tu Pêng",
+            "pid": 18582,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Tu Pêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5767315",
+            "lng": "107.82284589999996"
+        },
+        {
+            "id": 453353,
+            "name": "Thôn Tu Dốp 1",
+            "pid": 18582,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tu Dốp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.5767315",
+            "lng": "107.82284589999995"
+        },
+        {
+            "id": 453355,
+            "name": "Thôn Tu Dốp 2",
+            "pid": 18582,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tu Dốp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5767315",
+            "lng": "107.82284589999995"
+        }
+    ],
+    "log_id": "6758174cc4a77236"
+}

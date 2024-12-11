@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900571,
+            "name": "Khu Phố 5",
+            "pid": 17243,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0926177",
+            "lng": "105.87894030000008"
+        },
+        {
+            "id": 558005,
+            "name": "Lương Thế Vinh - Khu 3",
+            "pid": 17243,
+            "type": 21,
+            "region": null,
+            "alias": "Lương Thế Vinh - Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0926177",
+            "lng": "105.87894030000007"
+        },
+        {
+            "id": 558007,
+            "name": "Tổ 5 Khu Phố 3",
+            "pid": 17243,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ 5 Khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0926177",
+            "lng": "105.87894030000007"
+        },
+        {
+            "id": 558001,
+            "name": "Xi Măng Bỉm Sơn",
+            "pid": 17243,
+            "type": 5,
+            "region": null,
+            "alias": "Xi măng Bỉm Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0926177",
+            "lng": "105.87894030000007"
+        }
+    ],
+    "log_id": "67590a23af0c9207"
+}

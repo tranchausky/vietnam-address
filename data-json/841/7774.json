@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439209,
+            "name": "Ấp 5",
+            "pid": 7774,
+            "type": 4,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.445927",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 439211,
+            "name": "Ấp 7",
+            "pid": 7774,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.445927",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 439213,
+            "name": "Ấp 8",
+            "pid": 7774,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.445927",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 439215,
+            "name": "Ấp 9",
+            "pid": 7774,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.445927",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 439217,
+            "name": "Ấp Phủ Thờ",
+            "pid": 7774,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phủ Thờ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.445927",
+            "lng": "105.1375908"
+        }
+    ],
+    "log_id": "6758164dbfebc55"
+}

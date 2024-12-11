@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995739,
+            "name": "Cao Bá Quát",
+            "pid": 15032,
+            "type": 21,
+            "region": null,
+            "alias": "Cao Bá Quát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.241579071677293",
+            "lng": "109.18374100041422"
+        },
+        {
+            "id": 993257,
+            "name": "Đồng Nai",
+            "pid": 15032,
+            "type": 21,
+            "region": null,
+            "alias": "Đồng Nai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.24085650152793",
+            "lng": "109.18020495405796"
+        },
+        {
+            "id": 978442,
+            "name": "Đường Lê Hồng Phong",
+            "pid": 15032,
+            "type": 5,
+            "region": null,
+            "alias": "Đường Lê Hồng Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.243397",
+            "lng": "109.1803229"
+        },
+        {
+            "id": 69776,
+            "name": "Đường Thái Nguyên",
+            "pid": 15032,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2483351",
+            "lng": "109.1834716,17"
+        },
+        {
+            "id": 104327,
+            "name": "Đường Vườn Dương",
+            "pid": 15032,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vườn Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2452429",
+            "lng": "109.1808353,17"
+        }
+    ],
+    "log_id": "67581585dd2ca374"
+}

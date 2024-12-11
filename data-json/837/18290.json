@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 882727,
+            "name": "Cáp Thủy",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Cáp Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0667074",
+            "lng": "106.27930309999999"
+        },
+        {
+            "id": 115209,
+            "name": "Thôn An Phú",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852",
+            "lng": "106.2593264"
+        },
+        {
+            "id": 115215,
+            "name": "Thôn An Thịnh",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852",
+            "lng": "106.2593264"
+        },
+        {
+            "id": 113797,
+            "name": "Thôn An Trụ",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Trụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852,",
+            "lng": "106.2593264"
+        },
+        {
+            "id": 113563,
+            "name": "Thôn Cường Tráng",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cường Tráng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852",
+            "lng": "106.2593264"
+        },
+        {
+            "id": 113755,
+            "name": "Thôn Lôi Châu",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lôi Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852",
+            "lng": "106.2593264"
+        },
+        {
+            "id": 113653,
+            "name": "Thôn Thanh Hà",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852",
+            "lng": "106.2593264"
+        },
+        {
+            "id": 113941,
+            "name": "Thôn Thanh Lâm",
+            "pid": 18290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0618852",
+            "lng": "106.2593264"
+        }
+    ],
+    "log_id": "675815f8cdb39687"
+}

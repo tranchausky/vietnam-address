@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93308,
+            "name": "Khu Phố 1 - Phường Hoà Bình",
+            "pid": 6933,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - Phường Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 93311,
+            "name": "Khu Phố 2 - Phường Hoà Bình",
+            "pid": 6933,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - Phường Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 93314,
+            "name": "Khu Phố 3 - Phường Hoà Bình",
+            "pid": 6933,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - Phường Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 93317,
+            "name": "Khu Phố 4 - Phường Hoà Bình",
+            "pid": 6933,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4 - Phường Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 92771,
+            "name": "Khu Phố 5 - Phường Hoà Bình",
+            "pid": 6933,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5 - Phường Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8676122",
+            "lng": "106.7270016"
+        }
+    ],
+    "log_id": "675814dd57cf4762"
+}

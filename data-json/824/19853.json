@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 454091,
+            "name": "Ấp Tân Hưng Đông",
+            "pid": 19853,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.9621315",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 454093,
+            "name": "Ấp Tân Hưng Phú",
+            "pid": 19853,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6238356",
+            "lng": "106.0816536"
+        },
+        {
+            "id": 454087,
+            "name": "Ấp Tân Hưng Phước",
+            "pid": 19853,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0435964",
+            "lng": "106.8060388"
+        },
+        {
+            "id": 454089,
+            "name": "Ấp Tân Hưng Tây",
+            "pid": 19853,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8908863",
+            "lng": "104.9096846"
+        }
+    ],
+    "log_id": "675814f38e96f661"
+}

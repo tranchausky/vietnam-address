@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 831823,
+            "name": "Kim Ngân",
+            "pid": 6751,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Ngân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.718535100000004",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 1013339,
+            "name": "Kinh Tế Mới",
+            "pid": 6751,
+            "type": 16,
+            "region": null,
+            "alias": "Kinh tế mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.728570273743422",
+            "lng": "106.51463350853666"
+        },
+        {
+            "id": 632997,
+            "name": "Thôn An Cầu",
+            "pid": 6751,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7185351",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 633003,
+            "name": "Thôn An Ninh",
+            "pid": 6751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7185351",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 633000,
+            "name": "Thôn Đông Hồng",
+            "pid": 6751,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7185351",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 632994,
+            "name": "Thôn Thiết Tranh",
+            "pid": 6751,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Thiết Tranh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7185351",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 633006,
+            "name": "Thôn Thị Tứ",
+            "pid": 6751,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thị Tứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7185351",
+            "lng": "106.50538000000006"
+        }
+    ],
+    "log_id": "67581365cee4593"
+}

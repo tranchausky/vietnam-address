@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100034,
+            "name": "Cầu Bầu",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Bầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7767619",
+            "lng": "105.7917188"
+        },
+        {
+            "id": 100082,
+            "name": "Đạo Tú",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Đạo Tú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7778756",
+            "lng": "105.7886708"
+        },
+        {
+            "id": 100085,
+            "name": "Đồng Tranh",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Tranh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7757713",
+            "lng": "105.7879371"
+        },
+        {
+            "id": 100019,
+            "name": "Phú Lương Hạ",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lương Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.779939",
+            "lng": "105.793790"
+        },
+        {
+            "id": 100025,
+            "name": "Phú Lương Thượng",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lương Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.780682",
+            "lng": "105.783223"
+        },
+        {
+            "id": 100076,
+            "name": "Quảng Nguyên",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7755604",
+            "lng": "105.7747307"
+        },
+        {
+            "id": 55718,
+            "name": "Ubnd Xã Quảng Phú Cầu",
+            "pid": 4960,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Quảng Phú Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 100058,
+            "name": "Xà Cầu",
+            "pid": 4960,
+            "type": 16,
+            "region": null,
+            "alias": "Xà Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7757713",
+            "lng": "105.7879371"
+        }
+    ],
+    "log_id": "675811bd3f9b7754"
+}

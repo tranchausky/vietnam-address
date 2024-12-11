@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112007,
+            "name": "Thôn Mỹ Thạnh Đông 1",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Đông 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 112029,
+            "name": "Thôn Mỹ Thạnh Đông 2",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Đông 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 112055,
+            "name": "Thôn Mỹ Thạnh Nam",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 112085,
+            "name": "Thôn Mỹ Thạnh Tây",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 112095,
+            "name": "Thôn Mỹ Thạnh Trung 1",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thạnh Trung 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 111983,
+            "name": "Thôn Phước Thành Đông",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Thành Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 111971,
+            "name": "Thôn Phước Thành Nam",
+            "pid": 16485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Thành Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        },
+        {
+            "id": 112109,
+            "name": "Xí Nghiệp An Phát",
+            "pid": 16485,
+            "type": 5,
+            "region": null,
+            "alias": "Xí Nghiệp An Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.997349",
+            "lng": "109.199190"
+        }
+    ],
+    "log_id": "67590b80a8320915"
+}

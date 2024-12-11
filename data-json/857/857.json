@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1848,
+            "name": "Huyện Bác Ái",
+            "pid": 857,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bác ái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8334154",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 1849,
+            "name": "Huyện Ninh Hải",
+            "pid": 857,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Ninh Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7032481",
+            "lng": "109.16422080000007"
+        },
+        {
+            "id": 1850,
+            "name": "Huyện Ninh Phước",
+            "pid": 857,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Ninh Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4850435",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 1851,
+            "name": "Huyện Ninh Sơn",
+            "pid": 857,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Ninh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6888699",
+            "lng": "108.73633700000005"
+        },
+        {
+            "id": 1852,
+            "name": "Huyện Thuận Bắc",
+            "pid": 857,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thuận Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7533327",
+            "lng": "109.06909760000008"
+        },
+        {
+            "id": 1853,
+            "name": "Huyện Thuận Nam",
+            "pid": 857,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thuận Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4764182",
+            "lng": "108.9112096"
+        },
+        {
+            "id": 1854,
+            "name": "Thành Phố Phan Rang - Tháp Chàm",
+            "pid": 857,
+            "type": 3,
+            "region": null,
+            "alias": "Thành Phố Phan Rang - Tháp Chàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5825677",
+            "lng": "108.99120659999994"
+        }
+    ],
+    "log_id": "675817b952a4d462"
+}

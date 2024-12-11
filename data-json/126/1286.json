@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 672844,
+            "name": "Đường Bến Vân Đồn",
+            "pid": 1286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Vân Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7585184",
+            "lng": "106.6938821"
+        },
+        {
+            "id": 682342,
+            "name": "Đường Nguyễn Khoái",
+            "pid": 1286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Khoái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7548958",
+            "lng": "106.694427"
+        },
+        {
+            "id": 955906,
+            "name": "Hẻm 144 Nguyễn Khoái",
+            "pid": 1286,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 144 Nguyễn Khoái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7571835",
+            "lng": "106.6943507"
+        },
+        {
+            "id": 45102,
+            "name": "Trường Thcs Nguyễn Huệ",
+            "pid": 1286,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Nguyễn Huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7544756",
+            "lng": "106.6947995"
+        }
+    ],
+    "log_id": "6758129a8c17a195"
+}

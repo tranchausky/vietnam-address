@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639222,
+            "name": "Thôn Mạn Đê",
+            "pid": 17728,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Mạn đê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0133949",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 639228,
+            "name": "Thôn Thượng Dương",
+            "pid": 17728,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Thượng Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0133949",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 639225,
+            "name": "Thôn Thuỵ Trà",
+            "pid": 17728,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuỵ Trà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0133949",
+            "lng": "106.32871990000001"
+        }
+    ],
+    "log_id": "675813f1c60a1504"
+}

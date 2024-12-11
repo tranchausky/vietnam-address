@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 406021,
+            "name": "Thôn Cẩm Bào",
+            "pid": 16860,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Bào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2844933",
+            "lng": "105.92629420000003"
+        },
+        {
+            "id": 406025,
+            "name": "Thôn Cẩm Hoàng",
+            "pid": 16860,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2844933",
+            "lng": "105.92629420000003"
+        },
+        {
+            "id": 406019,
+            "name": "Thôn Cẩm Trung",
+            "pid": 16860,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2844933",
+            "lng": "105.92629420000003"
+        },
+        {
+            "id": 406023,
+            "name": "Thôn Cẩm Xuyên",
+            "pid": 16860,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2844933",
+            "lng": "105.92629420000003"
+        },
+        {
+            "id": 406027,
+            "name": "Thôn Xuân Biều",
+            "pid": 16860,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Biều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2844933",
+            "lng": "105.92629420000003"
+        }
+    ],
+    "log_id": "675813d91861f799"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630906,
+            "name": "Thôn An Tào",
+            "pid": 13451,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an tào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6729796",
+            "lng": "106.17932480000002"
+        },
+        {
+            "id": 630912,
+            "name": "Thôn Bái Khê",
+            "pid": 13451,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bái khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6729796",
+            "lng": "106.17932480000002"
+        },
+        {
+            "id": 630909,
+            "name": "Thôn Đặng Xá",
+            "pid": 13451,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đặng xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6729796",
+            "lng": "106.17932480000002"
+        }
+    ],
+    "log_id": "675814910663b719"
+}

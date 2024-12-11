@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571272,
+            "name": "Cáo Phìn",
+            "pid": 18217,
+            "type": 16,
+            "region": null,
+            "alias": "Cáo Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8051631",
+            "lng": "104.7112631"
+        },
+        {
+            "id": 571278,
+            "name": "Lùng Chin Hạ",
+            "pid": 18217,
+            "type": 16,
+            "region": null,
+            "alias": "Lùng Chin Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8051631",
+            "lng": "104.7112631"
+        },
+        {
+            "id": 571275,
+            "name": "Lùng Chin Thượng",
+            "pid": 18217,
+            "type": 16,
+            "region": null,
+            "alias": "Lùng Chin Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8051631",
+            "lng": "104.7112631"
+        },
+        {
+            "id": 571281,
+            "name": "Thôn Nậm Dế",
+            "pid": 18217,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nậm Dế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8051631",
+            "lng": "104.7112631"
+        }
+    ],
+    "log_id": "6758156659a1f247"
+}

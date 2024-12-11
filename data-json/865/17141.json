@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559537,
+            "name": "Thôn Hàm Ninh",
+            "pid": 17141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hàm Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7943939",
+            "lng": "105.84957959999997"
+        },
+        {
+            "id": 559539,
+            "name": "Thôn Xuân Tiến",
+            "pid": 17141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn xuân tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7943939",
+            "lng": "105.84957959999997"
+        }
+    ],
+    "log_id": "67590a23770c1248"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900421,
+            "name": "Tượng Liên 3",
+            "pid": 21127,
+            "type": 16,
+            "region": null,
+            "alias": "Tượng Liên 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2789578",
+            "lng": "105.51813019999996"
+        },
+        {
+            "id": 900424,
+            "name": "Tượng Sơn 1",
+            "pid": 21127,
+            "type": 16,
+            "region": null,
+            "alias": "Tượng Sơn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2789578",
+            "lng": "105.51813019999996"
+        }
+    ],
+    "log_id": "67590a23d6bd4636"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452199,
+            "name": "Ấp 1",
+            "pid": 84395,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.719753",
+            "lng": "106.316342"
+        },
+        {
+            "id": 452201,
+            "name": "Ấp 2",
+            "pid": 84395,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.719753",
+            "lng": "106.316342"
+        }
+    ],
+    "log_id": "675817853eb4c301"
+}

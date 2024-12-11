@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 823519,
+            "name": "Diêm Điên",
+            "pid": 15515,
+            "type": 16,
+            "region": null,
+            "alias": "Diêm Điên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213574599999998",
+            "lng": "108.87297319999992"
+        },
+        {
+            "id": 701794,
+            "name": "Minh Quang",
+            "pid": 15515,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213574599999998",
+            "lng": "108.87297319999992"
+        },
+        {
+            "id": 104180,
+            "name": "Thôn Đông Hòa",
+            "pid": 15515,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213690",
+            "lng": "108.872796"
+        },
+        {
+            "id": 701077,
+            "name": "Thôn Đông Thuận",
+            "pid": 15515,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213574599999998",
+            "lng": "108.87297319999992"
+        },
+        {
+            "id": 701074,
+            "name": "Thôn Phú Mỹ",
+            "pid": 15515,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213574599999998",
+            "lng": "108.87297319999992"
+        },
+        {
+            "id": 701035,
+            "name": "Thôn Vĩnh Sơn",
+            "pid": 15515,
+            "type": 17,
+            "region": null,
+            "alias": "thôn Vĩnh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213574599999998",
+            "lng": "108.87297319999992"
+        },
+        {
+            "id": 749608,
+            "name": "Trung Sơn",
+            "pid": 15515,
+            "type": 21,
+            "region": null,
+            "alias": "Trung Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.213574599999998",
+            "lng": "108.87297319999992"
+        }
+    ],
+    "log_id": "675909a4d3ca3677"
+}

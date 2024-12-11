@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668833,
+            "name": "Cụm 1, Xã Liên Trung",
+            "pid": 4622,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 1, Xã Liên Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1091264",
+            "lng": "105.7214765"
+        },
+        {
+            "id": 668839,
+            "name": "Cụm 2, Xã Liên Trung",
+            "pid": 4622,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 2, Xã Liên Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1091364",
+            "lng": "105.7214658"
+        },
+        {
+            "id": 54402,
+            "name": "Ubnd Xã Liên Trung",
+            "pid": 4622,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Liên Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb9339d510"
+}

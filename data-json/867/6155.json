@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 569112,
+            "name": "Ấp Chợ",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        },
+        {
+            "id": 569115,
+            "name": "Ấp Kinh Xáng",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh Xáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        },
+        {
+            "id": 569100,
+            "name": "Ấp Lò Ngò",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lò Ngò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        },
+        {
+            "id": 569106,
+            "name": "Ấp Ô Chao",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ô Chao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        },
+        {
+            "id": 569103,
+            "name": "Ấp Ô Đùng",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ô Đùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        },
+        {
+            "id": 569109,
+            "name": "Ấp Ô Trom",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ô Trom",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        },
+        {
+            "id": 569118,
+            "name": "Ấp Tân Đại",
+            "pid": 6155,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Đại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.856262",
+            "lng": "106.213152"
+        }
+    ],
+    "log_id": "67590b43a0168927"
+}

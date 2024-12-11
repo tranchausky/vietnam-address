@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599202,
+            "name": "Hòa Thạnh",
+            "pid": 6557,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3290243",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599199,
+            "name": "Lợi An",
+            "pid": 6557,
+            "type": 17,
+            "region": null,
+            "alias": "Lợi An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3290243",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599205,
+            "name": "Thạnh Lợi",
+            "pid": 6557,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3290243",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599208,
+            "name": "Thuận Trị",
+            "pid": 6557,
+            "type": 17,
+            "region": null,
+            "alias": "Thuận Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3290243",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599211,
+            "name": "Xóm Thủ",
+            "pid": 6557,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thủ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3290243",
+            "lng": "106.6703963"
+        }
+    ],
+    "log_id": "675814f3c46e5883"
+}

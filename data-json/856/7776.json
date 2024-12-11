@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562885,
+            "name": "Phố Đám Khánh Đông",
+            "pid": 7776,
+            "type": 21,
+            "region": null,
+            "alias": "phố đám khánh đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 562887,
+            "name": "Phố Đàm Khánh Tây",
+            "pid": 7776,
+            "type": 21,
+            "region": null,
+            "alias": "phố đàm khánh tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 562881,
+            "name": "Phố Đồi Cao 1",
+            "pid": 7776,
+            "type": 21,
+            "region": null,
+            "alias": "phố đồi cao 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 562883,
+            "name": "Phố Đồi Cao 2",
+            "pid": 7776,
+            "type": 21,
+            "region": null,
+            "alias": "phố đồi cao 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 562895,
+            "name": "Tổ Dân Phố Ga Ghềnh",
+            "pid": 7776,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố ga ghềnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 562889,
+            "name": "Tổ Dân Phố Lý Nhân",
+            "pid": 7776,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố lý nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 562893,
+            "name": "Tổ Dân Phố Quyết Thắng",
+            "pid": 7776,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố quyết thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        }
+    ],
+    "log_id": "6758179905938136"
+}

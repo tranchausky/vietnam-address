@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 983341,
+            "name": "Đường Bàu Trảng 5",
+            "pid": 5345,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bàu Trảng 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983330,
+            "name": "Đường Hồ Quý Ly",
+            "pid": 5345,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Quý Ly",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983333,
+            "name": "Đường Mẹ Hiền",
+            "pid": 5345,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mẹ Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983339,
+            "name": "Đường Trần Thanh Trung",
+            "pid": 5345,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Thanh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 983337,
+            "name": "Đường Yên Khê 2",
+            "pid": 5345,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Khê 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d169e17932"
+}

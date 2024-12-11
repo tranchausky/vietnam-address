@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 71851,
+            "name": "Chợ Thương Mại Cầu Bươu",
+            "pid": 4887,
+            "type": 5,
+            "region": null,
+            "alias": "Chợ Thương Mại Cầu Bươu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        },
+        {
+            "id": 71855,
+            "name": "Chung Cư 9 Tầng Cầu Bươu",
+            "pid": 4887,
+            "type": 4,
+            "region": null,
+            "alias": "Chung Cư 9 tầng Cầu Bươu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        },
+        {
+            "id": 89291,
+            "name": "Ct10A Khu Đô Thị Đại Thanh, Thanh Trì",
+            "pid": 4887,
+            "type": 4,
+            "region": null,
+            "alias": "CT10A Khu đô thị Đại Thanh, Thanh Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.956440181807693",
+            "lng": "105.8079581112042"
+        },
+        {
+            "id": 89297,
+            "name": "Ct10C Khu Đô Thị Đại Thanh, Thanh Trì",
+            "pid": 4887,
+            "type": 4,
+            "region": null,
+            "alias": "CT10C Khu đô thị Đại Thanh, Thanh Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.956057224397995",
+            "lng": "105.80880329770982"
+        },
+        {
+            "id": 877339,
+            "name": "Đường Phan Trọng Tuệ",
+            "pid": 4887,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Trọng Tuệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20,93595",
+            "lng": "105,804391"
+        },
+        {
+            "id": 958874,
+            "name": "Ngõ 12 Tả Thanh Oai",
+            "pid": 4887,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 12 Tả Thanh Oai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 722689,
+            "name": "Nhân Hòa",
+            "pid": 4887,
+            "type": 18,
+            "region": null,
+            "alias": "Nhân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 23961,
+            "name": "Siêu Quần",
+            "pid": 4887,
+            "type": 16,
+            "region": null,
+            "alias": "Siêu Quần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9174046",
+            "lng": "105.80701469999997"
+        },
+        {
+            "id": 53198,
+            "name": "Thpt Ngô Thì Nhậm",
+            "pid": 4887,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Ngô Thì Nhậm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd1a544104"
+}

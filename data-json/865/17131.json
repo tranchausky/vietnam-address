@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559509,
+            "name": "Thôn 5",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559511,
+            "name": "Thôn 6",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559513,
+            "name": "Thôn 7",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559515,
+            "name": "Thôn 8",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559501,
+            "name": "Thôn Anh Vinh",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn anh vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559503,
+            "name": "Thôn Bắc Đoan Vỹ",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bắc đoan vỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559507,
+            "name": "Thôn Bình Tây",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bình tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        },
+        {
+            "id": 559505,
+            "name": "Thôn Nam Đoan Vỹ",
+            "pid": 17131,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn nam đoan vỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8243842",
+            "lng": "105.83783659999995"
+        }
+    ],
+    "log_id": "67590a23761dc515"
+}

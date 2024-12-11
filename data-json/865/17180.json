@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 420047,
+            "name": "Làng Si",
+            "pid": 17180,
+            "type": 21,
+            "region": null,
+            "alias": "Làng Si",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8928663",
+            "lng": "105.6559158"
+        },
+        {
+            "id": 420045,
+            "name": "Làng Vạc",
+            "pid": 17180,
+            "type": 21,
+            "region": null,
+            "alias": "Làng Vạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8928663",
+            "lng": "105.6559158"
+        },
+        {
+            "id": 420049,
+            "name": "Phúc Thôn",
+            "pid": 17180,
+            "type": 21,
+            "region": null,
+            "alias": "Phúc Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8928663",
+            "lng": "105.6559158"
+        },
+        {
+            "id": 420043,
+            "name": "Thôn Làng Mật",
+            "pid": 17180,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Mật",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8928663",
+            "lng": "105.6559158"
+        }
+    ],
+    "log_id": "67590a23aa436364"
+}

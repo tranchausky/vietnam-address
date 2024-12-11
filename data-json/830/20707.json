@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 408005,
+            "name": "Bắc Bừu",
+            "pid": 20707,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Bừu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8075136",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 408007,
+            "name": "Nà Trang",
+            "pid": 20707,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8075136",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 407999,
+            "name": "Nà Xá",
+            "pid": 20707,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8075136",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 408001,
+            "name": "Nà Yến",
+            "pid": 20707,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Yến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8075136",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 408003,
+            "name": "Tả Mò",
+            "pid": 20707,
+            "type": 16,
+            "region": null,
+            "alias": "Tả Mò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8075136",
+            "lng": "105.11420109999995"
+        }
+    ],
+    "log_id": "6758156656123717"
+}

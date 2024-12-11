@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424449,
+            "name": "Chấn Yên",
+            "pid": 6367,
+            "type": 16,
+            "region": null,
+            "alias": "Chấn Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3060347",
+            "lng": "105.54450640000005"
+        },
+        {
+            "id": 424447,
+            "name": "Vân Giữa",
+            "pid": 6367,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3060347",
+            "lng": "105.54450640000005"
+        },
+        {
+            "id": 424445,
+            "name": "Vân Nội, Vân Hội,",
+            "pid": 6367,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Nội, Vân Hội,",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3060347",
+            "lng": "105.54450640000005"
+        },
+        {
+            "id": 424451,
+            "name": "Vân Sau",
+            "pid": 6367,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Sau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3060347",
+            "lng": "105.54450640000005"
+        },
+        {
+            "id": 424453,
+            "name": "Vân Tập",
+            "pid": 6367,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3060347",
+            "lng": "105.54450640000005"
+        }
+    ],
+    "log_id": "6758153349748664"
+}

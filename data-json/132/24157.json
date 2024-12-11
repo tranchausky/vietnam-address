@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 700840,
+            "name": "Thôn Khe Quéo",
+            "pid": 24157,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Quéo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.717418",
+            "lng": "104.577181"
+        },
+        {
+            "id": 699070,
+            "name": "Thôn Mảm 1",
+            "pid": 24157,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mảm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.717418",
+            "lng": "104.577181"
+        },
+        {
+            "id": 699088,
+            "name": "Thôn Mảm 2",
+            "pid": 24157,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mảm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.717418",
+            "lng": "104.577181"
+        },
+        {
+            "id": 698296,
+            "name": "Thôn Tặng Chang",
+            "pid": 24157,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tặng Chang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.717418",
+            "lng": "104.577181"
+        }
+    ],
+    "log_id": "6758131f89472698"
+}

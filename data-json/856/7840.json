@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 576801,
+            "name": "Thôn Tam Dương",
+            "pid": 7840,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1848449",
+            "lng": "106.00818189999995"
+        },
+        {
+            "id": 576792,
+            "name": "Thônthạch Lỗi",
+            "pid": 7840,
+            "type": 16,
+            "region": null,
+            "alias": "ThônThạch Lỗi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1848449",
+            "lng": "106.00818189999995"
+        },
+        {
+            "id": 576798,
+            "name": "Thôn Yên Dương",
+            "pid": 7840,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1848449",
+            "lng": "106.00818189999995"
+        },
+        {
+            "id": 576795,
+            "name": "Thôn Yên Thịnh",
+            "pid": 7840,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1848449",
+            "lng": "106.00818189999995"
+        }
+    ],
+    "log_id": "67581798d214b132"
+}

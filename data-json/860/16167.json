@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631806,
+            "name": "Sơn Trà",
+            "pid": 16167,
+            "type": 16,
+            "region": null,
+            "alias": "Sơn Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3666505",
+            "lng": "108.78979759999993"
+        },
+        {
+            "id": 631809,
+            "name": "Tân Hy 1",
+            "pid": 16167,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hy 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3666505",
+            "lng": "108.78979759999993"
+        },
+        {
+            "id": 760801,
+            "name": "Tân Hy 2",
+            "pid": 16167,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hy 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3666505",
+            "lng": "108.78979759999993"
+        },
+        {
+            "id": 631812,
+            "name": "Thượng Hòa",
+            "pid": 16167,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3666505",
+            "lng": "108.78979759999993"
+        },
+        {
+            "id": 949896,
+            "name": "Trạm Y Tế",
+            "pid": 16167,
+            "type": 10,
+            "region": null,
+            "alias": "Trạm Y tế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3666505",
+            "lng": "108.78979759999993"
+        }
+    ],
+    "log_id": "675909a4dac76793"
+}

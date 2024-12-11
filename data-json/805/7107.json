@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398169,
+            "name": "An Lại",
+            "pid": 7107,
+            "type": 16,
+            "region": null,
+            "alias": "An Lại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8260594",
+            "lng": "106.32081800000003"
+        },
+        {
+            "id": 398171,
+            "name": "Cao La",
+            "pid": 7107,
+            "type": 16,
+            "region": null,
+            "alias": "Cao La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8260594",
+            "lng": "106.32081800000003"
+        },
+        {
+            "id": 398173,
+            "name": "Đồng Bình",
+            "pid": 7107,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng BÌnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8260594",
+            "lng": "106.32081800000003"
+        },
+        {
+            "id": 398175,
+            "name": "La Xá",
+            "pid": 7107,
+            "type": 16,
+            "region": null,
+            "alias": "La Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8260594",
+            "lng": "106.32081800000003"
+        }
+    ],
+    "log_id": "675813f206d47232"
+}

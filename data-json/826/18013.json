@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 637602,
+            "name": "Thôn Hòa Đại",
+            "pid": 18013,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Đại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.035724",
+            "lng": "109.00078680000001"
+        },
+        {
+            "id": 637599,
+            "name": "Thôn Hội Vân",
+            "pid": 18013,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.035724",
+            "lng": "109.00078680000001"
+        },
+        {
+            "id": 637605,
+            "name": "Thôn Tùng Chánh",
+            "pid": 18013,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tùng Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.035724",
+            "lng": "109.00078680000001"
+        },
+        {
+            "id": 1005070,
+            "name": "Ubnd Xã Cát Hiệp",
+            "pid": 18013,
+            "type": 21,
+            "region": null,
+            "alias": "UBND xã Cát Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.034588631590223,",
+            "lng": " 109.00101517476256"
+        }
+    ],
+    "log_id": "6758150d8ea87236"
+}

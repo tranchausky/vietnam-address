@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876523,
+            "name": "Đường Bạch Mai",
+            "pid": 94,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.998463",
+            "lng": "105.851935"
+        },
+        {
+            "id": 828991,
+            "name": "Đường Bùi Ngọc Dương",
+            "pid": 94,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Ngọc Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0008143",
+            "lng": "105.85178139999994"
+        },
+        {
+            "id": 49788,
+            "name": "Ngõ 159 Hồng Mai",
+            "pid": 94,
+            "type": 20,
+            "region": null,
+            "alias": "Ngõ 159 Hồng Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9729158",
+            "lng": "105.82005270000002"
+        },
+        {
+            "id": 49700,
+            "name": "Thcs Ngô Gia Tự",
+            "pid": 94,
+            "type": 9,
+            "region": null,
+            "alias": "THCS Ngô Gia Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 995429,
+            "name": "Triệu Việt Vương Hn",
+            "pid": 94,
+            "type": 21,
+            "region": null,
+            "alias": "Triệu Việt Vương HN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.032865467253288",
+            "lng": "105.8086738465345"
+        }
+    ],
+    "log_id": "675811bd1cad9847"
+}

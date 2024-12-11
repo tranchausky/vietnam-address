@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 48216,
+            "name": "68 Dương Đình Nghệ",
+            "pid": 50,
+            "type": 10,
+            "region": null,
+            "alias": "68 Dương Đình Nghệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 829039,
+            "name": "Đường Cầu Giấy",
+            "pid": 50,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cầu Giấy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0367702",
+            "lng": "105.80114449999996"
+        },
+        {
+            "id": 829378,
+            "name": "Đường Dương Quảng Hàm",
+            "pid": 50,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Dương Quảng Hàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0367702",
+            "lng": "105.80114449999996"
+        },
+        {
+            "id": 830473,
+            "name": "Đường Quan Hoa",
+            "pid": 50,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quan Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0367702",
+            "lng": "105.80114449999996"
+        },
+        {
+            "id": 47376,
+            "name": "Tòa Nhà Center Point",
+            "pid": 50,
+            "type": 21,
+            "region": null,
+            "alias": "Tòa nhà Center Point",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0321079",
+            "lng": "105.79944499999999"
+        },
+        {
+            "id": 5264,
+            "name": "Tòa Nhà Smartbuy",
+            "pid": 50,
+            "type": 21,
+            "region": null,
+            "alias": "Tòa nhà Smartbuy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        }
+    ],
+    "log_id": "675811bd53daa145"
+}

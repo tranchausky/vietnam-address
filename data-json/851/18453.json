@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109057,
+            "name": "Ấp Đồng Cơ",
+            "pid": 18453,
+            "type": 9,
+            "region": null,
+            "alias": "ấp Đồng Cơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.477768",
+            "lng": "104.683056"
+        },
+        {
+            "id": 109043,
+            "name": "Ấp Mẹt Lung",
+            "pid": 18453,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mẹt Lung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505672",
+            "lng": "104.755196"
+        },
+        {
+            "id": 109005,
+            "name": "Ấp Mới",
+            "pid": 18453,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505113",
+            "lng": "104.767899 "
+        },
+        {
+            "id": 109073,
+            "name": "Ấp T4",
+            "pid": 18453,
+            "type": 17,
+            "region": null,
+            "alias": "ấp T4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.437462",
+            "lng": "104.714251"
+        },
+        {
+            "id": 109095,
+            "name": "Ấp T5",
+            "pid": 18453,
+            "type": 17,
+            "region": null,
+            "alias": "ấp T5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.473934",
+            "lng": "104.746523 "
+        },
+        {
+            "id": 809884,
+            "name": "Bưu Điện Xã Vĩnh Phú",
+            "pid": 18453,
+            "type": 17,
+            "region": null,
+            "alias": "Bưu Điện Xã Vĩnh Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505672",
+            "lng": "104.755196"
+        },
+        {
+            "id": 968499,
+            "name": "Chùa Phú Hội",
+            "pid": 18453,
+            "type": 17,
+            "region": null,
+            "alias": "Chùa Phú Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505622",
+            "lng": "104.776045"
+        }
+    ],
+    "log_id": "6758173657987550"
+}

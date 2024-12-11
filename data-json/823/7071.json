@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 96266,
+            "name": "Ấp Đông Hải",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.12328",
+            "lng": "105.4516"
+        },
+        {
+            "id": 96269,
+            "name": "Ấp Đông Vinh",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.982413",
+            "lng": "106.921403"
+        },
+        {
+            "id": 76483,
+            "name": "Ấp Lộ Đức",
+            "pid": 7071,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Lộ Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0013073",
+            "lng": "106.910664"
+        },
+        {
+            "id": 791164,
+            "name": "Ấp Ngô Xá",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngô Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9778806",
+            "lng": "10.9778806"
+        },
+        {
+            "id": 96275,
+            "name": "Ấp Sài Quất",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sài Quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.966517",
+            "lng": "106.914979"
+        },
+        {
+            "id": 96272,
+            "name": "Ấp Suối Sao",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Sao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.992480104788335, 106.91719163377354",
+            "lng": "106.915104"
+        },
+        {
+            "id": 96254,
+            "name": "Ấp Thái Hòa",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thái Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.966952",
+            "lng": "106.935808"
+        },
+        {
+            "id": 791170,
+            "name": "Ấp Yên Thế",
+            "pid": 7071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Yên Thế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9635343",
+            "lng": "106.913776"
+        },
+        {
+            "id": 791116,
+            "name": "Chợ Chiều Thanh Hóa",
+            "pid": 7071,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Chiều Thanh Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9867655",
+            "lng": "106.96537560000002"
+        },
+        {
+            "id": 791155,
+            "name": "Nhà Thờ Thanh Hóa",
+            "pid": 7071,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà Thờ Thanh Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9778806",
+            "lng": "106.92995789999998"
+        }
+    ],
+    "log_id": "675814dd51da7477"
+}

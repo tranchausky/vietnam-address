@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 405425,
+            "name": "Làng Dương",
+            "pid": 18470,
+            "type": 16,
+            "region": null,
+            "alias": "làng Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3441172",
+            "lng": "106.03756729999998"
+        },
+        {
+            "id": 405427,
+            "name": "Làng Trung",
+            "pid": 18470,
+            "type": 16,
+            "region": null,
+            "alias": "làng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3441172",
+            "lng": "106.03756729999998"
+        },
+        {
+            "id": 405429,
+            "name": "Thôn Cẩm",
+            "pid": 18470,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Cẩm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3441172",
+            "lng": "106.03756729999998"
+        },
+        {
+            "id": 405423,
+            "name": "Thôn Khả Lang",
+            "pid": 18470,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Khả Lang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3441172",
+            "lng": "106.03756729999998"
+        },
+        {
+            "id": 405431,
+            "name": "Thôn Vũ Xuyên",
+            "pid": 18470,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vũ Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3441172",
+            "lng": "106.03756729999998"
+        }
+    ],
+    "log_id": "6758145d1a1aa805"
+}

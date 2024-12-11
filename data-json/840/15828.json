@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435991,
+            "name": "Ấp Đồng Bia",
+            "pid": 15828,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đồng Bia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6615677",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 435989,
+            "name": "Ấp Quân Y",
+            "pid": 15828,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Quân Y",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6615677",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 435993,
+            "name": "Ấp Thạch Màn",
+            "pid": 15828,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Thạch Màn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6615677",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 435987,
+            "name": "Ấp Trảng Chanh",
+            "pid": 15828,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Trảng Chanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6615677",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 1003786,
+            "name": "Trường Mầm Non Tân Lợi",
+            "pid": 15828,
+            "type": 21,
+            "region": null,
+            "alias": "Trường mầm non tân lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6615677",
+            "lng": "106.65860520000001"
+        },
+        {
+            "id": 1003784,
+            "name": "Trường Tiểu Học Tân Lợi",
+            "pid": 15828,
+            "type": 21,
+            "region": null,
+            "alias": "Trường tiểu học tân lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6615677",
+            "lng": "106.65860520000001"
+        }
+    ],
+    "log_id": "67581637948d3458"
+}

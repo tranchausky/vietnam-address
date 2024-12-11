@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 509043,
+            "name": "Bản Hồ Chim 1",
+            "pid": 22035,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hồ Chim 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7912958",
+            "lng": "103.01265230000001"
+        },
+        {
+            "id": 588081,
+            "name": "Bản Hồ Chim 2",
+            "pid": 22035,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hồ Chim 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7912958",
+            "lng": "103.01265230000001"
+        },
+        {
+            "id": 588084,
+            "name": "Bản Huổi Quang 1",
+            "pid": 22035,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huổi Quang 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7912958",
+            "lng": "103.01265230000001"
+        },
+        {
+            "id": 588087,
+            "name": "Bản Huổi Quang 2",
+            "pid": 22035,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huổi Quang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7912958",
+            "lng": "103.01265230000001"
+        },
+        {
+            "id": 509041,
+            "name": "Xóm Huổi Quang 2",
+            "pid": 22035,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Huổi Quang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7912958",
+            "lng": "103.01265230000001"
+        }
+    ],
+    "log_id": "675816a56f81c586"
+}

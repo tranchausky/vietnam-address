@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830383,
+            "name": "1 - 107 Phố Trạm",
+            "pid": 20610,
+            "type": 21,
+            "region": null,
+            "alias": "1 - 107 Phố Trạm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0186765",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 877462,
+            "name": "Đường Làng Nha",
+            "pid": 20610,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Làng Nha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,022611",
+            "lng": "105,888961"
+        },
+        {
+            "id": 830908,
+            "name": "Đường Tư Đình",
+            "pid": 20610,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tư Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0186765",
+            "lng": "105.88481300000001"
+        }
+    ],
+    "log_id": "675811bcd6150101"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120355,
+            "name": "Đoài",
+            "pid": 4736,
+            "type": 16,
+            "region": null,
+            "alias": "Đoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7137907",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 120357,
+            "name": "Nghĩa",
+            "pid": 4736,
+            "type": 16,
+            "region": null,
+            "alias": "Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7129979",
+            "lng": "105.7387846"
+        },
+        {
+            "id": 120359,
+            "name": "Nội",
+            "pid": 4736,
+            "type": 16,
+            "region": null,
+            "alias": "Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7137907",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 120351,
+            "name": "Tân Độ",
+            "pid": 4736,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7239047",
+            "lng": "105.74612"
+        },
+        {
+            "id": 120353,
+            "name": "Thượng",
+            "pid": 4736,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7137907",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 54846,
+            "name": "Ubnd Xã Xuy Xá",
+            "pid": 4736,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Xuy Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc4597c507"
+}

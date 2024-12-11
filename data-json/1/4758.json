@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101723,
+            "name": "Thôn Đại Nghiệp",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'19.3\"N",
+            "lng": "105°52'22.7\"E"
+        },
+        {
+            "id": 101705,
+            "name": "Thôn Đồng Cả",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'17.6\"N",
+            "lng": "105°52'27.0\"E"
+        },
+        {
+            "id": 101687,
+            "name": "Thôn Đồng Phố",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Phố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'09.3\"N",
+            "lng": "105°51'16.7\"E"
+        },
+        {
+            "id": 101657,
+            "name": "Thôn Gia Phú",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'35.2\"N",
+            "lng": "105°52'21.8\"E"
+        },
+        {
+            "id": 101627,
+            "name": "Thôn Lễ Nhuế",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lễ Nhuế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'01.5\"N",
+            "lng": "105°52'31.0\"E"
+        },
+        {
+            "id": 101558,
+            "name": "Thôn Ngải Khê",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngải Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'10.8\"N",
+            "lng": "105°52'58.6\"E"
+        },
+        {
+            "id": 101528,
+            "name": "Thôn Thường Liễu",
+            "pid": 4758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thường Liễu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'04.4\"N",
+            "lng": "105°52'13.8\"E"
+        },
+        {
+            "id": 53722,
+            "name": "Thpt Tân Dân",
+            "pid": 4758,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Tân Dân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.74065991498059",
+            "lng": "105.8785529464865"
+        }
+    ],
+    "log_id": "675811bcd503f551"
+}

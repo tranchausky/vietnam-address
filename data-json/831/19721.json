@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 456243,
+            "name": "Thôn Diên Điền",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Diên Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 456245,
+            "name": "Thôn Hội Khánh",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Khánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 456247,
+            "name": "Thôn Hội Khánh Đông",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Khánh Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 456249,
+            "name": "Thôn Hội Khánh Tây",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Khánh Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 841501,
+            "name": "Thôn Khánh Hội Đông",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Hội Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.775124, 109.303192",
+            "lng": "109.303192"
+        },
+        {
+            "id": 456251,
+            "name": "Thôn Nhơn Thọ",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhơn Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 456253,
+            "name": "Thôn Ninh Lâm",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ninh Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 456255,
+            "name": "Thôn Suối Hàng",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Hàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        },
+        {
+            "id": 456257,
+            "name": "Thôn Tiên Ninh",
+            "pid": 19721,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7734355",
+            "lng": "109.25341709999998"
+        }
+    ],
+    "log_id": "67581585a5a3f787"
+}

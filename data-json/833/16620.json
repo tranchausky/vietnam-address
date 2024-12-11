@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109993,
+            "name": "Ấp Đông Thuận",
+            "pid": 16620,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6084301",
+            "lng": "105.02651949999995"
+        },
+        {
+            "id": 109971,
+            "name": "Ấp Núi Két",
+            "pid": 16620,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Núi Két",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6084301",
+            "lng": "105.02651949999995"
+        },
+        {
+            "id": 109941,
+            "name": "Ấp Sơn Tây",
+            "pid": 16620,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sơn Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6084301",
+            "lng": "105.02651949999995"
+        },
+        {
+            "id": 109953,
+            "name": "Ấp Thới Thuận",
+            "pid": 16620,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thới Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6084301",
+            "lng": "105.02651949999995"
+        }
+    ],
+    "log_id": "6758159dd5edf603"
+}

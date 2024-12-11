@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111503,
+            "name": "Khóm An Bình",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 111919,
+            "name": "Khóm An Định A",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm An Định A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 111967,
+            "name": "Khóm An Định B",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm An Định B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 111995,
+            "name": "Khóm An Hòa A",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm An Hòa A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 111647,
+            "name": "Khóm An Hòa B",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm An Hòa B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 112073,
+            "name": "Khóm Núi Nước",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm Núi Nước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 111659,
+            "name": "Khóm Thanh Lương",
+            "pid": 16624,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm Thanh Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4833465",
+            "lng": "104.89800579999996"
+        }
+    ],
+    "log_id": "6758159df3c82382"
+}

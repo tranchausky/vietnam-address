@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 998963,
+            "name": "Đường 21\/08 Số Chẵn 446-532",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 21\/08 số chẵn 446-532",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.59138567349745",
+            "lng": "108.96160031068678"
+        },
+        {
+            "id": 998943,
+            "name": "Đường 21\/08 Số Chẳn 532-748",
+            "pid": 15083,
+            "type": 29,
+            "region": null,
+            "alias": "Đường 21\/08 số chẳn 532-748",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.593158401357996",
+            "lng": "108.95359781015884"
+        },
+        {
+            "id": 934205,
+            "name": "Đường 21\/08 Số Lẻ 489-695",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 21\/08 số lẻ 489-695",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.593106628465897",
+            "lng": "108.95460538076772"
+        },
+        {
+            "id": 934208,
+            "name": "Đường 21\/08 Số Lẻ 697-831",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 21\/08 số lẻ 697-831",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.592917449094205",
+            "lng": " 108.95323208975972"
+        },
+        {
+            "id": 603165,
+            "name": "Đường Ngô Thì Nhậm",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Thì Nhậm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000004"
+        },
+        {
+            "id": 603171,
+            "name": "Đường Nguyễn Du",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Du",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000004"
+        },
+        {
+            "id": 603168,
+            "name": "Đường Trần Quang Khải",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quang Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000004"
+        },
+        {
+            "id": 603174,
+            "name": "Đường Tự Đức",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tự Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000004"
+        },
+        {
+            "id": 746137,
+            "name": "Khu 1",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000003"
+        },
+        {
+            "id": 746131,
+            "name": "Khu 1 Tai Định Cư",
+            "pid": 15083,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 1 Tai định Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000003"
+        },
+        {
+            "id": 872086,
+            "name": "Khu 4",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000003"
+        },
+        {
+            "id": 746128,
+            "name": "Khu 6",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5852519",
+            "lng": "108.94130900000003"
+        },
+        {
+            "id": 998978,
+            "name": "Khu Phố 7, Bảo An",
+            "pid": 15083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 7, Bảo an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.593873270630498",
+            "lng": "108.9553628813228"
+        }
+    ],
+    "log_id": "675817b989c10624"
+}

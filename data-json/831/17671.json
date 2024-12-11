@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719455,
+            "name": "Bưu Điện Mỹ Thanh",
+            "pid": 17671,
+            "type": 18,
+            "region": null,
+            "alias": "bưu điện Mỹ Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.816459",
+            "lng": "109.108945"
+        },
+        {
+            "id": 719464,
+            "name": "Cty Yến Sào Khánh Hòa",
+            "pid": 17671,
+            "type": 18,
+            "region": null,
+            "alias": "CTy yến sào Khánh Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.823877, ",
+            "lng": "109.109119"
+        },
+        {
+            "id": 744217,
+            "name": "Mỹ Thanh",
+            "pid": 17671,
+            "type": 18,
+            "region": null,
+            "alias": "Mỹ Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8706655",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 987254,
+            "name": "Thôn Hiệp Mỹ",
+            "pid": 17671,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.808343",
+            "lng": "109.1051577"
+        },
+        {
+            "id": 744220,
+            "name": "Thôn Hiệp Thanh",
+            "pid": 17671,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8706655",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 998136,
+            "name": "Thôn Hoà Diêm",
+            "pid": 17671,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoà Diêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.847692809643549",
+            "lng": "109.10821245402965"
+        },
+        {
+            "id": 744223,
+            "name": "Thôn Hòa Sơn",
+            "pid": 17671,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8706655",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 998137,
+            "name": "Thôn Hòn Quy",
+            "pid": 17671,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòn Quy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.866088676164745",
+            "lng": "109.1051225494714"
+        },
+        {
+            "id": 719467,
+            "name": "Trạm Thu Phí Cam Thịnh",
+            "pid": 17671,
+            "type": 18,
+            "region": null,
+            "alias": "trạm thu phí Cam Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.872864",
+            "lng": "109.108468"
+        }
+    ],
+    "log_id": "67581585b6218143"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598743,
+            "name": "Khu Phố 1",
+            "pid": 19008,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3590776",
+            "lng": "106.67850299999998"
+        },
+        {
+            "id": 598746,
+            "name": "Khu Phố 2",
+            "pid": 19008,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3590776",
+            "lng": "106.67850299999998"
+        },
+        {
+            "id": 598749,
+            "name": "Khu Phố 3",
+            "pid": 19008,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3590776",
+            "lng": "106.67850299999998"
+        },
+        {
+            "id": 598752,
+            "name": "Khu Phố 4",
+            "pid": 19008,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3590776",
+            "lng": "106.67850299999998"
+        },
+        {
+            "id": 598755,
+            "name": "Khu Phố 5",
+            "pid": 19008,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3590776",
+            "lng": "106.67850299999998"
+        }
+    ],
+    "log_id": "675814f390dfb877"
+}

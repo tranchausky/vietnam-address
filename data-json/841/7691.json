@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 438365,
+            "name": "Ấp Bà Điều",
+            "pid": 7691,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bà Điều",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        },
+        {
+            "id": 907864,
+            "name": "Ấp Chánh",
+            "pid": 7691,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        },
+        {
+            "id": 438359,
+            "name": "Ấp Lung Dừa A",
+            "pid": 7691,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp lung dừa a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        },
+        {
+            "id": 438363,
+            "name": "Ấp Ông Muộn Xã Lý Văn Lâm",
+            "pid": 7691,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp ông muộn xã lý văn lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        },
+        {
+            "id": 438355,
+            "name": "Ấp Tân Hưng",
+            "pid": 7691,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp tân hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        },
+        {
+            "id": 722662,
+            "name": "Ấp Thạnh Điền",
+            "pid": 7691,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        },
+        {
+            "id": 438357,
+            "name": "Ấp Xóm Lớn Xã Lý Văn Lâm",
+            "pid": 7691,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp xóm lớn xã lý văn lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.1506633",
+            "lng": "105.13671499999998"
+        }
+    ],
+    "log_id": "6758164db2cf247"
+}

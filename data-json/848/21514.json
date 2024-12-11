@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425509,
+            "name": "Thôn Bắc Châu",
+            "pid": 21514,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0878287",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 425503,
+            "name": "Xóm Châu Long",
+            "pid": 21514,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Châu Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0878287",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 425507,
+            "name": "Xóm Hiệu Châu",
+            "pid": 21514,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hiệu Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0878287",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 425505,
+            "name": "Xóm Thuận Châu",
+            "pid": 21514,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thuận Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0878287",
+            "lng": "106.29634859999999"
+        }
+    ],
+    "log_id": "675816e9aa472980"
+}

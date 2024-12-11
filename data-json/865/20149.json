@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558241,
+            "name": "Đội 1",
+            "pid": 20149,
+            "type": 22,
+            "region": null,
+            "alias": "đội 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9441873",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 558243,
+            "name": "Đội 2",
+            "pid": 20149,
+            "type": 22,
+            "region": null,
+            "alias": "đội 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9441873",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 558245,
+            "name": "Đội 3",
+            "pid": 20149,
+            "type": 22,
+            "region": null,
+            "alias": "đội 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9441873",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 558247,
+            "name": "Đội 4",
+            "pid": 20149,
+            "type": 22,
+            "region": null,
+            "alias": "đội 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9441873",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 558249,
+            "name": "Đội 5",
+            "pid": 20149,
+            "type": 22,
+            "region": null,
+            "alias": "đội 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9441873",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 837742,
+            "name": "Thôn 4",
+            "pid": 20149,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.944187300000007",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 849856,
+            "name": "Thôn 9",
+            "pid": 20149,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9441873",
+            "lng": "105.92005310000002"
+        }
+    ],
+    "log_id": "67590a2307737368"
+}

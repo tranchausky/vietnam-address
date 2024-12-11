@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114231,
+            "name": "Khóm Bờ Tây",
+            "pid": 8029,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Bờ Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2077037,",
+            "lng": "105.7383957"
+        },
+        {
+            "id": 114265,
+            "name": "Khóm Chòm Xoài",
+            "pid": 8029,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Chòm Xoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.228871,",
+            "lng": "105.7331528"
+        },
+        {
+            "id": 114303,
+            "name": "Khóm Đầu Lộ",
+            "pid": 8029,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Đầu Lộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.245311,",
+            "lng": "105.7305327"
+        },
+        {
+            "id": 114341,
+            "name": "Khóm Đầu Lộ A",
+            "pid": 8029,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Đầu Lộ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.230662,",
+            "lng": "105.7353683"
+        },
+        {
+            "id": 114387,
+            "name": "Khóm Kinh Tế",
+            "pid": 8029,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Kinh Tế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2447852,",
+            "lng": "105.7251609"
+        },
+        {
+            "id": 114413,
+            "name": "Khóm Nhà Mát",
+            "pid": 8029,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Nhà Mát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2149152,",
+            "lng": "105.7408261"
+        }
+    ],
+    "log_id": "675815e178267230"
+}

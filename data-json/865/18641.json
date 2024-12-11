@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558709,
+            "name": "Thôn Mỹ Thanh",
+            "pid": 18641,
+            "type": 16,
+            "region": null,
+            "alias": "thôn MỸ THANH",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7370713",
+            "lng": "105.65005040000005"
+        },
+        {
+            "id": 558719,
+            "name": "Thôn Phú Quý",
+            "pid": 18641,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7370713",
+            "lng": "105.65005040000005"
+        },
+        {
+            "id": 558721,
+            "name": "Thôn Tân Ấp",
+            "pid": 18641,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân ấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7370713",
+            "lng": "105.65005040000005"
+        },
+        {
+            "id": 558713,
+            "name": "Thôn Thái Bình",
+            "pid": 18641,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thái bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7370713",
+            "lng": "105.65005040000005"
+        }
+    ],
+    "log_id": "67590a24b1b0d424"
+}

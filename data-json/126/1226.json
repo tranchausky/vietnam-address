@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 674023,
+            "name": "Đường Hàn Hải Nguyên",
+            "pid": 1226,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Hải Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7585332",
+            "lng": "106.6416748"
+        },
+        {
+            "id": 681589,
+            "name": "Đường Hồng Bàng",
+            "pid": 1226,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7546197",
+            "lng": "106.638287"
+        },
+        {
+            "id": 676603,
+            "name": "Đường Lạc Long Quân",
+            "pid": 1226,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lạc Long Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7587298",
+            "lng": "106.6383905"
+        },
+        {
+            "id": 682861,
+            "name": "Đường Phú Thọ",
+            "pid": 1226,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7566544",
+            "lng": "106.6418374"
+        },
+        {
+            "id": 683719,
+            "name": "Đường Tân Hóa",
+            "pid": 1226,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7568161",
+            "lng": "106.6361085"
+        }
+    ],
+    "log_id": "6758129ae09db776"
+}

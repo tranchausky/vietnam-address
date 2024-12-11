@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 969274,
+            "name": "Thôn 1",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8878702",
+            "lng": "105.949424"
+        },
+        {
+            "id": 969275,
+            "name": "Thôn 4",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8978702",
+            "lng": "105.979424"
+        },
+        {
+            "id": 559585,
+            "name": "Thôn Đại Trường",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 559593,
+            "name": "Thôn Giang Sơn",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giang Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 559583,
+            "name": "Thôn Hải Sơn",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 559589,
+            "name": "Thôn Liên Minh",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 559591,
+            "name": "Thôn Linh Trường",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Linh Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 559581,
+            "name": "Thôn Thành Xuân",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 559587,
+            "name": "Thôn Văn Phong",
+            "pid": 17155,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8778702",
+            "lng": "105.94942479999997"
+        }
+    ],
+    "log_id": "67590a2377e1a597"
+}

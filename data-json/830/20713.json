@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571566,
+            "name": "Cốc Mạ",
+            "pid": 20713,
+            "type": 16,
+            "region": null,
+            "alias": "Cốc Mạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0001987",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571560,
+            "name": "Sang Phàng",
+            "pid": 20713,
+            "type": 16,
+            "region": null,
+            "alias": "Sang Phàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0001987",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571557,
+            "name": "Thống Nhất",
+            "pid": 20713,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0001987",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571563,
+            "name": "Thôn Nà Sài",
+            "pid": 20713,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Sài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0001987",
+            "lng": "105.04405199999997"
+        }
+    ],
+    "log_id": "67581566199df926"
+}

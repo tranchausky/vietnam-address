@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 869266,
+            "name": "Đội 2 Xuân Đình",
+            "pid": 20086,
+            "type": 22,
+            "region": null,
+            "alias": "đội 2 Xuân đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8445304",
+            "lng": "105.94942479999996"
+        },
+        {
+            "id": 810841,
+            "name": "Đức Nhuận Hàm Tử",
+            "pid": 20086,
+            "type": 16,
+            "region": null,
+            "alias": "Đức Nhuận Hàm tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8313956",
+            "lng": "105.98099639999998"
+        },
+        {
+            "id": 629586,
+            "name": "Thôn An Cảnh Hàm Tử",
+            "pid": 20086,
+            "type": 10,
+            "region": null,
+            "alias": "thôn an cảnh Hàm Tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8445304",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 629595,
+            "name": "Thôn Đức Nhuận Hàm Tử",
+            "pid": 20086,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đức nhuận Hàm Tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8445304",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 629592,
+            "name": "Thôn Hàm Tử",
+            "pid": 20086,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hàm tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8445304",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 629589,
+            "name": "Thôn Xuân Đình",
+            "pid": 20086,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8445304",
+            "lng": "105.94942479999997"
+        },
+        {
+            "id": 857710,
+            "name": "Ubnd Hàm Tử",
+            "pid": 20086,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Hàm Tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8445304",
+            "lng": "105.94942479999996"
+        }
+    ],
+    "log_id": "67581490bfd20851"
+}

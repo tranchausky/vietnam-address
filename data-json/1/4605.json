@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117623,
+            "name": "Đồi Bé",
+            "pid": 4605,
+            "type": 16,
+            "region": null,
+            "alias": "Đồi Bé",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9121427",
+            "lng": "105.6387293"
+        },
+        {
+            "id": 117611,
+            "name": "Đồi Chè",
+            "pid": 4605,
+            "type": 4,
+            "region": null,
+            "alias": "Đồi Chè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9144558",
+            "lng": "105.6221924"
+        },
+        {
+            "id": 117619,
+            "name": "Kim Nê",
+            "pid": 4605,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Nê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8990283",
+            "lng": "105.6243916"
+        },
+        {
+            "id": 117615,
+            "name": "Thanh Nê",
+            "pid": 4605,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Nê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.904886",
+            "lng": "105.622362"
+        },
+        {
+            "id": 117621,
+            "name": "Tiền Phối",
+            "pid": 4605,
+            "type": 16,
+            "region": null,
+            "alias": "Tiền Phối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9057184",
+            "lng": "105.6383776"
+        },
+        {
+            "id": 117613,
+            "name": "Trung Hoàng",
+            "pid": 4605,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9044441",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 54302,
+            "name": "Ubnd Xã Thanh Bình",
+            "pid": 4605,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thanh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb71f91103"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 436731,
+            "name": "Thôn 19\/5",
+            "pid": 19859,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 19\/5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        },
+        {
+            "id": 436735,
+            "name": "Thôn Bình Đức 1",
+            "pid": 19859,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Đức 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        },
+        {
+            "id": 436737,
+            "name": "Thôn Bình Đức 2",
+            "pid": 19859,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Đức 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        },
+        {
+            "id": 436741,
+            "name": "Thôn Bù K'roai",
+            "pid": 19859,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bù K'roai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        },
+        {
+            "id": 436733,
+            "name": "Thôn Phước Sơn",
+            "pid": 19859,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        },
+        {
+            "id": 436739,
+            "name": "Thôn Sơn Trung",
+            "pid": 19859,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        },
+        {
+            "id": 1004782,
+            "name": "Trung Tâm Cai Nghiện Đức Hạnh",
+            "pid": 19859,
+            "type": 21,
+            "region": null,
+            "alias": "trung tâm cai nghiện Đức Hạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8588826",
+            "lng": "107.03277120000007"
+        }
+    ],
+    "log_id": "675816377adc8325"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 746044,
+            "name": "Bưu Điện Xã Cà Ná",
+            "pid": 15750,
+            "type": 16,
+            "region": null,
+            "alias": "Bưu điện Xã Cà Ná",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368501",
+            "lng": "108.89301499999999"
+        },
+        {
+            "id": 602880,
+            "name": "Thôn Lạc Nghiệp 1",
+            "pid": 15750,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Nghiệp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3401092",
+            "lng": "108.91369340000005"
+        },
+        {
+            "id": 602883,
+            "name": "Thôn Lạc Nghiệp 2",
+            "pid": 15750,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Nghiệp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3401092",
+            "lng": "108.91369340000005"
+        },
+        {
+            "id": 602862,
+            "name": "Thôn Lạc Sơn 1",
+            "pid": 15750,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Sơn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368501",
+            "lng": "108.89301499999999"
+        },
+        {
+            "id": 602865,
+            "name": "Thôn Lạc Sơn 2",
+            "pid": 15750,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Sơn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368501",
+            "lng": "108.89301499999999"
+        },
+        {
+            "id": 602868,
+            "name": "Thôn Lạc Sơn 3",
+            "pid": 15750,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Sơn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368501",
+            "lng": "108.89301499999999"
+        }
+    ],
+    "log_id": "675817b97b449264"
+}

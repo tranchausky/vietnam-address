@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 904405,
+            "name": "Cầu Tú Tạo",
+            "pid": 4831,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Tú Tạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 904399,
+            "name": "Dốc 177",
+            "pid": 4831,
+            "type": 16,
+            "region": null,
+            "alias": "Dốc 177",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3153395",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 53390,
+            "name": "Nghề Dân Lập Cờ Đỏ",
+            "pid": 4831,
+            "type": 9,
+            "region": null,
+            "alias": "nghề Dân lập Cờ Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55226,
+            "name": "Ubnd Xã Trung Giã",
+            "pid": 4831,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Trung Giã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc4573d894"
+}

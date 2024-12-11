@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 917140,
+            "name": "Gia Phú",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Gia Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.6089981"
+        },
+        {
+            "id": 560603,
+            "name": "Thôn Đô Quang",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đô Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.60899810000001"
+        },
+        {
+            "id": 560601,
+            "name": "Thôn Đô Thịnh",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đô Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.60899810000001"
+        },
+        {
+            "id": 560605,
+            "name": "Thôn Miêu Nha",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Miêu Nha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.60899810000001"
+        },
+        {
+            "id": 560609,
+            "name": "Thôn Quần Hậu",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quần Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.60899810000001"
+        },
+        {
+            "id": 560607,
+            "name": "Thôn Vĩnh Yên",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.60899810000001"
+        },
+        {
+            "id": 900439,
+            "name": "Vĩnh Thọ",
+            "pid": 17208,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8044128",
+            "lng": "105.6089981"
+        }
+    ],
+    "log_id": "67590a233fd00509"
+}

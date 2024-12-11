@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 948041,
+            "name": "Cầu Lực Điền",
+            "pid": 20054,
+            "type": 10,
+            "region": null,
+            "alias": "cầu lực điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.864339866594126, 106.02173679923413",
+            "lng": "20.864339866594126, 106.02173679923413"
+        },
+        {
+            "id": 941897,
+            "name": "Thôn Bắc Khu",
+            "pid": 20054,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bắc Khu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.92385812910503, 106.01135808134515",
+            "lng": "20.92385812910503, 106.01135808134515"
+        },
+        {
+            "id": 630573,
+            "name": "Thôn Lực Điền",
+            "pid": 20054,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lực điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8861904",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 630570,
+            "name": "Thôn Quảng Uyên",
+            "pid": 20054,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quảng uyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8861904",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 630576,
+            "name": "Thôn Xuân Lai",
+            "pid": 20054,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8861904",
+            "lng": "106.02875119999999"
+        }
+    ],
+    "log_id": "6758149122d80377"
+}

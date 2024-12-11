@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514227,
+            "name": "Đan Giáp",
+            "pid": 17711,
+            "type": 16,
+            "region": null,
+            "alias": "Đan Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7232059",
+            "lng": "106.2492724"
+        },
+        {
+            "id": 514231,
+            "name": "Phù Tải 1",
+            "pid": 17711,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Tải 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7232059",
+            "lng": "106.2492724"
+        },
+        {
+            "id": 514233,
+            "name": "Phù Tải 2",
+            "pid": 17711,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Tải 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7232059",
+            "lng": "106.2492724"
+        },
+        {
+            "id": 514235,
+            "name": "Tiêu Sơn",
+            "pid": 17711,
+            "type": 16,
+            "region": null,
+            "alias": "Tiêu Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7232059",
+            "lng": "106.2492724"
+        }
+    ],
+    "log_id": "675813f201734521"
+}

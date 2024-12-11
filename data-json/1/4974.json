@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53394,
+            "name": "Thpt Sơn Tây",
+            "pid": 4974,
+            "type": 10,
+            "region": null,
+            "alias": "THPT Sơn Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 995833,
+            "name": "Trường Hữu Nghị 80",
+            "pid": 4974,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Hữu Nghị 80",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.141152761468717",
+            "lng": "105.49608853686333"
+        }
+    ],
+    "log_id": "675811bd3da63801"
+}

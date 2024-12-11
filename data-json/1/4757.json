@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101795,
+            "name": "Thôn Sơn Thanh",
+            "pid": 4757,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'07.7\"N ",
+            "lng": "105°53'32.6\"E"
+        },
+        {
+            "id": 101765,
+            "name": "Thôn Thao Ngoại",
+            "pid": 4757,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thao Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'44.9\"N",
+            "lng": " 20°44'44.9\"N "
+        },
+        {
+            "id": 101750,
+            "name": "Thôn Thao Nội",
+            "pid": 4757,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thao Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'41.1\"N ",
+            "lng": " 105°54'22.8\"E"
+        }
+    ],
+    "log_id": "675811bcd67dd696"
+}

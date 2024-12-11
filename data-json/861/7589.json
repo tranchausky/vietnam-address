@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112865,
+            "name": "Ấp Công Hòa",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Công Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.447102",
+            "lng": "105.845945"
+        },
+        {
+            "id": 112797,
+            "name": "Ấp Định Hòa",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp ĐỊnh Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.454383",
+            "lng": "105.868106"
+        },
+        {
+            "id": 968419,
+            "name": "Ấp Long Hòa",
+            "pid": 7589,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Long Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.42286",
+            "lng": "105.86339"
+        },
+        {
+            "id": 112883,
+            "name": "Ấp Phước Hòa",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.408064",
+            "lng": "105.842721"
+        },
+        {
+            "id": 112817,
+            "name": "Ấp Tam Hòa",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tam Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.435919",
+            "lng": "105.847573"
+        },
+        {
+            "id": 112845,
+            "name": "Ấp Trung Hòa",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.456970",
+            "lng": "105.849767"
+        },
+        {
+            "id": 112893,
+            "name": "Ấp Vĩnh A",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.439094",
+            "lng": "105.845374"
+        },
+        {
+            "id": 112901,
+            "name": "Ấp Vĩnh B",
+            "pid": 7589,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.421591",
+            "lng": "105.840799"
+        }
+    ],
+    "log_id": "675909c15bce8901"
+}

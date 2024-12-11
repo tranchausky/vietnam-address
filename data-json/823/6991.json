@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 89096,
+            "name": "Kcn Long Đức",
+            "pid": 6991,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Long Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.842255",
+            "lng": "106.977731"
+        },
+        {
+            "id": 92438,
+            "name": "Khu 12",
+            "pid": 6991,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 12",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 92441,
+            "name": "Khu 13",
+            "pid": 6991,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 13",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 92444,
+            "name": "Khu 14",
+            "pid": 6991,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 14",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 89090,
+            "name": "Khu 15",
+            "pid": 6991,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 15",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.845890",
+            "lng": "106.988454"
+        }
+    ],
+    "log_id": "675814dd5bca7271"
+}

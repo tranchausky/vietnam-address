@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 104147,
+            "name": "Đường Định Cư",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Định Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.238256",
+            "lng": "109.1858568,17"
+        },
+        {
+            "id": 104138,
+            "name": "Đường Mê Linh",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mê Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2396984",
+            "lng": "109.185853,17"
+        },
+        {
+            "id": 104153,
+            "name": "Đường Trương Định",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trương Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2386449",
+            "lng": "109.1845497,17"
+        },
+        {
+            "id": 744454,
+            "name": "Huỳnh Thúc Kháng",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Huỳnh Thúc Kháng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2390018",
+            "lng": "109.1917211"
+        },
+        {
+            "id": 856891,
+            "name": "Lê Đại Hành",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Đại Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2399306,",
+            "lng": "109.186403"
+        },
+        {
+            "id": 744451,
+            "name": "Lê Quý Đôn",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Quý Đôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2390018",
+            "lng": "109.1917211"
+        },
+        {
+            "id": 744457,
+            "name": "Nguyễn Trung Trực",
+            "pid": 15036,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Trung Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2390018",
+            "lng": "109.1917211"
+        }
+    ],
+    "log_id": "67581585ddea6703"
+}

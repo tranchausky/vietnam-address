@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599937,
+            "name": "Tân Bình",
+            "pid": 19810,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2660913",
+            "lng": "106.655032"
+        },
+        {
+            "id": 599922,
+            "name": "Tân Đông",
+            "pid": 19810,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2660913",
+            "lng": "106.655032"
+        },
+        {
+            "id": 599934,
+            "name": "Tân Hòa",
+            "pid": 19810,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2660913",
+            "lng": "106.655032"
+        },
+        {
+            "id": 599931,
+            "name": "Tân Lập",
+            "pid": 19810,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2660913",
+            "lng": "106.655032"
+        },
+        {
+            "id": 599925,
+            "name": "Tân Thành 1",
+            "pid": 19810,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Thành 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2660913",
+            "lng": "106.655032"
+        },
+        {
+            "id": 599928,
+            "name": "Tân Thành 2",
+            "pid": 19810,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Thành 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2660913",
+            "lng": "106.655032"
+        }
+    ],
+    "log_id": "675814f400852649"
+}

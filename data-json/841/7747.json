@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 748417,
+            "name": "12",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "12",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000003"
+        },
+        {
+            "id": 748420,
+            "name": "16",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "16",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000003"
+        },
+        {
+            "id": 748414,
+            "name": "Ấp 9",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000003"
+        },
+        {
+            "id": 438831,
+            "name": "Khóm 1",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438833,
+            "name": "Khóm 2",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438835,
+            "name": "Khóm 3",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000005"
+        },
+        {
+            "id": 438837,
+            "name": "Khóm 4",
+            "pid": 7747,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4047377",
+            "lng": "104.96809140000005"
+        }
+    ],
+    "log_id": "6758164daf5f0772"
+}

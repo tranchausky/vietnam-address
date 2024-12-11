@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834250,
+            "name": "An Lạc",
+            "pid": 6922,
+            "type": 10,
+            "region": null,
+            "alias": "An Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4358057",
+            "lng": "106.2698669"
+        },
+        {
+            "id": 775951,
+            "name": "Núi Thượng",
+            "pid": 6922,
+            "type": 16,
+            "region": null,
+            "alias": "Núi Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4358057",
+            "lng": "106.2698669"
+        },
+        {
+            "id": 793150,
+            "name": "Phan Thượng",
+            "pid": 6922,
+            "type": 16,
+            "region": null,
+            "alias": "Phan Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4358057",
+            "lng": "106.2698669"
+        },
+        {
+            "id": 765118,
+            "name": "Tân Thịnh",
+            "pid": 6922,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4358057",
+            "lng": "106.2698669"
+        }
+    ],
+    "log_id": "675813d8b0769290"
+}

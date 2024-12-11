@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435097,
+            "name": "Ấp Bình Hòa",
+            "pid": 16029,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3339759",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 435099,
+            "name": "Ấp Bình Long",
+            "pid": 16029,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3339759",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 435095,
+            "name": "Ấp Bình Phong",
+            "pid": 16029,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3339759",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 435105,
+            "name": "Ấp Suối Dộp",
+            "pid": 16029,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Suối Dộp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3339759",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 435103,
+            "name": "Ấp Suối Muồn",
+            "pid": 16029,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Suối Muồn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3339759",
+            "lng": "106.04638369999998"
+        },
+        {
+            "id": 435101,
+            "name": "Ấp Tam Hạp",
+            "pid": 16029,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tam Hạp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3339759",
+            "lng": "106.04638369999998"
+        }
+    ],
+    "log_id": "675909dce99f958"
+}

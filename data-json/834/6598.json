@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445387,
+            "name": "Khu Phố Hải Dinh",
+            "pid": 6598,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hải Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4999931",
+            "lng": "107.13759270000003"
+        },
+        {
+            "id": 773626,
+            "name": "Khu Phố Kim Hải",
+            "pid": 6598,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Kim Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4999931",
+            "lng": "107.13759270000004"
+        },
+        {
+            "id": 773623,
+            "name": "Khu Phố Kim Sơn",
+            "pid": 6598,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Kim Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4999931",
+            "lng": "107.13759270000004"
+        },
+        {
+            "id": 445383,
+            "name": "Khu Phố Nam Dinh",
+            "pid": 6598,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Nam Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4999931",
+            "lng": "107.13759270000003"
+        },
+        {
+            "id": 445385,
+            "name": "Khu Phố Núi Dinh",
+            "pid": 6598,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Núi Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4999931",
+            "lng": "107.13759270000003"
+        }
+    ],
+    "log_id": "675815b411682755"
+}

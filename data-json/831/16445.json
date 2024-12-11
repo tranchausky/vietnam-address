@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112333,
+            "name": "Thôn Thanh Minh",
+            "pid": 16445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.259202",
+            "lng": "109.070358"
+        },
+        {
+            "id": 112341,
+            "name": "Thôn Thanh Minh 1",
+            "pid": 16445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Minh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.259202",
+            "lng": "109.070358"
+        },
+        {
+            "id": 112357,
+            "name": "Thôn Thanh Minh 2",
+            "pid": 16445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Minh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.259202",
+            "lng": "109.070358"
+        },
+        {
+            "id": 112321,
+            "name": "Thôn Trường Lạc",
+            "pid": 16445,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trường Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.259202",
+            "lng": "109.070358"
+        },
+        {
+            "id": 968385,
+            "name": "Tỉnh Lộ 2",
+            "pid": 16445,
+            "type": 16,
+            "region": null,
+            "alias": "Tỉnh lộ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.259271",
+            "lng": "109.069942"
+        }
+    ],
+    "log_id": "67581585b141e680"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 409897,
+            "name": "Thôn Chí Cường",
+            "pid": 21004,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chí cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3750943",
+            "lng": "106.56135340000003"
+        },
+        {
+            "id": 409899,
+            "name": "Thôn Đức Cường",
+            "pid": 21004,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đức cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3750943",
+            "lng": "106.56135340000003"
+        },
+        {
+            "id": 409895,
+            "name": "Thôn Hoàng Môn",
+            "pid": 21004,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoàng môn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3750943",
+            "lng": "106.56135340000003"
+        }
+    ],
+    "log_id": "675909f3a0319199"
+}

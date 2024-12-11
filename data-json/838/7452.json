@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 862777,
+            "name": "Ấp 1",
+            "pid": 7452,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.072379",
+            "lng": "106.61144739999996"
+        },
+        {
+            "id": 862780,
+            "name": "Ấp 3",
+            "pid": 7452,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.072379",
+            "lng": "106.61144739999996"
+        },
+        {
+            "id": 441277,
+            "name": "Ấp Phú Khương",
+            "pid": 7452,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP PHÚ KHƯƠNG",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.072379",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 441279,
+            "name": "Ấp Phú Lợi",
+            "pid": 7452,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP PHÚ LỢI",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.072379",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 441275,
+            "name": "Ấp Phú Thạnh",
+            "pid": 7452,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP PHÚ THẠNH",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.072379",
+            "lng": "106.61144739999997"
+        }
+    ],
+    "log_id": "6758160dec2f3746"
+}

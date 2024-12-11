@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015271,
+            "name": "Đường Khởi Nghĩa Bắc Sơn",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Khởi Nghĩa Bắc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.901673",
+            "lng": "106.323871"
+        },
+        {
+            "id": 969195,
+            "name": "Khối Phố Hoàng Văn Thụ",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Hoàng Văn Thụ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.900219",
+            "lng": "106.320843"
+        },
+        {
+            "id": 969189,
+            "name": "Khối Phố Hợp Thành Pác Lũng",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Hợp Thành Pác Lũng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.894498",
+            "lng": "106.319160"
+        },
+        {
+            "id": 969188,
+            "name": "Khối Phố Hữu Vĩnh 1",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Hữu Vĩnh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.895150",
+            "lng": "106.321586"
+        },
+        {
+            "id": 969191,
+            "name": "Khối Phố Hữu Vĩnh 2",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Hữu Vĩnh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.891910",
+            "lng": "106.323842"
+        },
+        {
+            "id": 969190,
+            "name": "Khối Phố Tiến Hợp 1",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Tiến Hợp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.898576",
+            "lng": "106.311422"
+        },
+        {
+            "id": 969192,
+            "name": "Khối Phố Tiến Hợp 2",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Tiến Hợp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.896902",
+            "lng": "106.304409"
+        },
+        {
+            "id": 969182,
+            "name": "Khối Phố Trần Đăng Ninh",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Phố Trần Đăng Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.903319",
+            "lng": "106.310396"
+        },
+        {
+            "id": 969180,
+            "name": "Khối Phố Vĩnh Thuận",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Vĩnh Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.905519",
+            "lng": "106.309275"
+        },
+        {
+            "id": 969186,
+            "name": "Khối Phố Yên Lãng",
+            "pid": 21873,
+            "type": 21,
+            "region": null,
+            "alias": "Khối phố Yên Lãng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.902642",
+            "lng": "106.320192"
+        }
+    ],
+    "log_id": "6758133ed69f4215"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443893,
+            "name": "Thôn Phước Lộc",
+            "pid": 18247,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3378365",
+            "lng": "109.07504219999998"
+        },
+        {
+            "id": 443897,
+            "name": "Thôn Phước Nhuận",
+            "pid": 18247,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Nhuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3378365",
+            "lng": "109.07504219999998"
+        },
+        {
+            "id": 443895,
+            "name": "Thôn Thạnh Đức",
+            "pid": 18247,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạnh Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3378365",
+            "lng": "109.07504219999998"
+        }
+    ],
+    "log_id": "67590b80b8717773"
+}

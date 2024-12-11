@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111159,
+            "name": "Ấp Giàn Gừa",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Giàn Gừa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.122907",
+            "lng": "104.973580"
+        },
+        {
+            "id": 111119,
+            "name": "Ấp Kinh Mới",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Kinh Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.124727",
+            "lng": "104.959164"
+        },
+        {
+            "id": 111213,
+            "name": "Ấp Mương Kinh",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mương Kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.142300",
+            "lng": "104.969749"
+        },
+        {
+            "id": 111205,
+            "name": "Ấp Mương Kinh A",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mương Kinh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.140818",
+            "lng": "104.948766"
+        },
+        {
+            "id": 111199,
+            "name": "Ấp Vàm Biển",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vàm Biển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.102645",
+            "lng": "104.987959"
+        },
+        {
+            "id": 111137,
+            "name": "Ấp Xẻo Tràm",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Xẻo Tràm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.124142",
+            "lng": "104.979858"
+        },
+        {
+            "id": 968392,
+            "name": "Công An Sơn Bình",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "Công An Sơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.121490",
+            "lng": "104.962649"
+        },
+        {
+            "id": 968391,
+            "name": "Trạm Y Tế Sơn Bình",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "Trạm y tế Sơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.131647",
+            "lng": "104.963176"
+        },
+        {
+            "id": 1003869,
+            "name": "Trường Mẫu Giáo Sơn Bình",
+            "pid": 16006,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mẫu Giáo Sơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.122907",
+            "lng": "104.973580"
+        },
+        {
+            "id": 968379,
+            "name": "Trường Tiểu Học Sơn Bình",
+            "pid": 16006,
+            "type": 17,
+            "region": null,
+            "alias": "Trường tiểu học Sơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.133615",
+            "lng": "104.992955"
+        },
+        {
+            "id": 1003864,
+            "name": "Trường Trung Học Cơ Sở Xã Sơn Bình",
+            "pid": 16006,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Trung học cơ sở xã Sơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.122907",
+            "lng": "104.973580"
+        }
+    ],
+    "log_id": "67581736527c6125"
+}

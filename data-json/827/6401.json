@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424041,
+            "name": "Khu Bắc",
+            "pid": 6401,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424039,
+            "name": "Khu Đông",
+            "pid": 6401,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424045,
+            "name": "Thôn Chùa",
+            "pid": 6401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424043,
+            "name": "Thôn Trai",
+            "pid": 6401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 424047,
+            "name": "Thôn Xuân Húc",
+            "pid": 6401,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Húc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        }
+    ],
+    "log_id": "675815337afe0548"
+}

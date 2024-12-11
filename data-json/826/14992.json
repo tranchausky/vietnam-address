@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 866794,
+            "name": "Bệnh Viện An Nhơn",
+            "pid": 14992,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh Viện An Nhơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 578154,
+            "name": "Khu Vực An Ngãi",
+            "pid": 14992,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực An Ngãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 578145,
+            "name": "Khu Vực Cẩm Văn",
+            "pid": 14992,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Cẩm Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 578142,
+            "name": "Khu Vực Chánh Thạnh",
+            "pid": 14992,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Chánh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 578151,
+            "name": "Khu Vực Hòa Cư",
+            "pid": 14992,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Hòa Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 578157,
+            "name": "Khu Vực Phò An",
+            "pid": 14992,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Phò An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 578148,
+            "name": "Khu Vực Tiên Hòa",
+            "pid": 14992,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực Tiên Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.90061",
+            "lng": "109.09882140000002"
+        }
+    ],
+    "log_id": "6758150da702e332"
+}

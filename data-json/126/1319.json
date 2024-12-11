@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1018411,
+            "name": "403-615 Phạm Văn Chí",
+            "pid": 1319,
+            "type": 29,
+            "region": null,
+            "alias": "403-615 Phạm Văn Chí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "106.64186043220342",
+            "lng": "10.742144407904432"
+        },
+        {
+            "id": 924967,
+            "name": "Đường Bà Lài",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bà Lài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7404397",
+            "lng": "106.634870"
+        },
+        {
+            "id": 683908,
+            "name": "Đường Bình Tiên",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7420347",
+            "lng": "106.643398"
+        },
+        {
+            "id": 682570,
+            "name": "Đường Lò Gốm",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lò Gốm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7383553",
+            "lng": "106.6343172"
+        },
+        {
+            "id": 671983,
+            "name": "Đường Phạm Văn Chí",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Chí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7404114",
+            "lng": "106.638771"
+        },
+        {
+            "id": 915415,
+            "name": "Đường Số 9",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Số 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7403422",
+            "lng": "106.639692"
+        },
+        {
+            "id": 680995,
+            "name": "Đường Văn Thân",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Văn Thân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.741157",
+            "lng": "106.6379199"
+        },
+        {
+            "id": 674758,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 1319,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7372511",
+            "lng": "106.6393436"
+        }
+    ],
+    "log_id": "6758129ad8d93852"
+}

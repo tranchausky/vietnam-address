@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411493,
+            "name": "Thôn An Nạp",
+            "pid": 21030,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Nạp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5897242",
+            "lng": "106.31400499999995"
+        },
+        {
+            "id": 411489,
+            "name": "Thôn Kim Châu 1",
+            "pid": 21030,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Châu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5897242",
+            "lng": "106.31400499999995"
+        },
+        {
+            "id": 411491,
+            "name": "Thôn Kim Châu 2",
+            "pid": 21030,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Châu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5897242",
+            "lng": "106.31400499999995"
+        }
+    ],
+    "log_id": "675909f3760fe390"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116011,
+            "name": "Ấp Hòa Hiệp",
+            "pid": 16599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7098598",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 116031,
+            "name": "Ấp Hòa Lợi",
+            "pid": 16599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7098598",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 116019,
+            "name": "Ấp Hòa Phát",
+            "pid": 16599,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7098598",
+            "lng": "105.19022970000003"
+        },
+        {
+            "id": 110097,
+            "name": "Khóm Long Thạnh 3",
+            "pid": 16599,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long thạnh 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.752129",
+            "lng": "105.242207"
+        }
+    ],
+    "log_id": "6758159dacde5788"
+}

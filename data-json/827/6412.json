@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 864661,
+            "name": "Thôn Núc Hạ",
+            "pid": 6412,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Núc Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4185936",
+            "lng": "105.6119301"
+        },
+        {
+            "id": 1013788,
+            "name": "Trại Giam",
+            "pid": 6412,
+            "type": 16,
+            "region": null,
+            "alias": "Trại giam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.404376813106673",
+            "lng": "105.59739672389676"
+        }
+    ],
+    "log_id": "675815332c475814"
+}

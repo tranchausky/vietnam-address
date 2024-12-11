@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 736006,
+            "name": "Chợ Săn",
+            "pid": 4835,
+            "type": 20,
+            "region": null,
+            "alias": "Chợ Săn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0545844",
+            "lng": "105.58114649999992"
+        },
+        {
+            "id": 488995,
+            "name": "Đồng Cam",
+            "pid": 4835,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0549742",
+            "lng": "105.5792"
+        },
+        {
+            "id": 732955,
+            "name": "Đồng Cao",
+            "pid": 4835,
+            "type": 18,
+            "region": null,
+            "alias": "Đồng Cao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0545844",
+            "lng": "105.58114649999992"
+        },
+        {
+            "id": 732952,
+            "name": "Đồng Gối",
+            "pid": 4835,
+            "type": 18,
+            "region": null,
+            "alias": "Đồng Gối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0545844",
+            "lng": "105.58114649999992"
+        },
+        {
+            "id": 488997,
+            "name": "Đụn Dương",
+            "pid": 4835,
+            "type": 16,
+            "region": null,
+            "alias": "Đụn Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0548585",
+            "lng": "105.578215"
+        },
+        {
+            "id": 488999,
+            "name": "Khu Phố",
+            "pid": 4835,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Phố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0582",
+            "lng": "105.5749225"
+        },
+        {
+            "id": 55330,
+            "name": "Nha Khoa Quốc Tế Chi Nhánh Thạch Thất",
+            "pid": 4835,
+            "type": 4,
+            "region": null,
+            "alias": "Nha Khoa Quốc Tế Chi Nhánh Thạch Thất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.059485870194873",
+            "lng": "105.57549705983831"
+        },
+        {
+            "id": 53470,
+            "name": "Tích Xưa",
+            "pid": 4835,
+            "type": 9,
+            "region": null,
+            "alias": "Tích Xưa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.05198408878575",
+            "lng": "105.57284195075067"
+        },
+        {
+            "id": 120835,
+            "name": "Tổ Dân Phố Chi Quan",
+            "pid": 4835,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố Chi Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0552655",
+            "lng": "105.5752659"
+        },
+        {
+            "id": 120837,
+            "name": "Tổ Dân Phố Phú Tân",
+            "pid": 4835,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6666154",
+            "lng": "105.2897042"
+        },
+        {
+            "id": 55410,
+            "name": "Viện Kiểm Sát Huyện Thạch Thất",
+            "pid": 4835,
+            "type": 4,
+            "region": null,
+            "alias": "Viện Kiểm Sát Huyện Thạch Thất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.057856672432678",
+            "lng": "105.57710970504797"
+        },
+        {
+            "id": 856093,
+            "name": "Xóm Hà Tân",
+            "pid": 4835,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hà Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0545844",
+            "lng": "105.58114649999992"
+        }
+    ],
+    "log_id": "675811bbf3cea968"
+}

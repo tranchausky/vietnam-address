@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 836653,
+            "name": "Quyết Tiến",
+            "pid": 15441,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3698578",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 427985,
+            "name": "Thôn Bắc Lạc",
+            "pid": 15441,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3927094",
+            "lng": "105.98027"
+        },
+        {
+            "id": 427975,
+            "name": "Thôn Hòa Lạc",
+            "pid": 15441,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Hòa Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9891204",
+            "lng": "105.5210607"
+        },
+        {
+            "id": 427987,
+            "name": "Thôn Quang Lạc",
+            "pid": 15441,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Quang Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.840218",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 427979,
+            "name": "Thôn Trung Lạc",
+            "pid": 15441,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Trung Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2588434",
+            "lng": "109.100686"
+        },
+        {
+            "id": 427983,
+            "name": "Thôn Vĩnh Thịnh",
+            "pid": 15441,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Vĩnh Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1859515",
+            "lng": "105.494688"
+        },
+        {
+            "id": 427981,
+            "name": "Xóm Thanh Sơn",
+            "pid": 15441,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2141148",
+            "lng": "105.1902297"
+        }
+    ],
+    "log_id": "675816e9d27a3845"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630429,
+            "name": "Thôn Chi Long",
+            "pid": 20032,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chi long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9145799",
+            "lng": "106.03462850000005"
+        },
+        {
+            "id": 630438,
+            "name": "Thôn Dịch Trì",
+            "pid": 20032,
+            "type": 16,
+            "region": null,
+            "alias": "thôn dịch trì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9145799",
+            "lng": "106.03462850000005"
+        },
+        {
+            "id": 630435,
+            "name": "Thôn Đông Phòng",
+            "pid": 20032,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông phòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9145799",
+            "lng": "106.03462850000005"
+        },
+        {
+            "id": 630432,
+            "name": "Thôn Ngọc Tỉnh",
+            "pid": 20032,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngọc tỉnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9145799",
+            "lng": "106.03462850000005"
+        }
+    ],
+    "log_id": "67581491233fc722"
+}

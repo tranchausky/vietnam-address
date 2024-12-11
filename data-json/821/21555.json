@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 530523,
+            "name": "Xóm Đội Cung",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đội Cung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 530525,
+            "name": "Xóm Hùng Cường",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hùng Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 530527,
+            "name": "Xóm Kỳ Lâm",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Kỳ Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 530529,
+            "name": "Xóm Kỳ Minh",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Kỳ Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 530531,
+            "name": "Xóm Kỳ Nam",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Kỳ Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 530533,
+            "name": "Xóm Phượng Kỳ",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phượng Kỳ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 665896,
+            "name": "Xóm Phượng Minh",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phượng Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 530535,
+            "name": "Xóm Tiền Phong",
+            "pid": 21555,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tiền Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.0405367",
+            "lng": "105.23703390000003"
+        }
+    ],
+    "log_id": "67581208c915a240"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 400623,
+            "name": "Tổ 1",
+            "pid": 20490,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6446293",
+            "lng": "105.88187659999994"
+        },
+        {
+            "id": 400625,
+            "name": "Tổ 2",
+            "pid": 20490,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6446293",
+            "lng": "105.88187659999994"
+        },
+        {
+            "id": 400627,
+            "name": "Tổ 3",
+            "pid": 20490,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6446293",
+            "lng": "105.88187659999994"
+        },
+        {
+            "id": 400629,
+            "name": "Tổ 4",
+            "pid": 20490,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6446293",
+            "lng": "105.88187659999994"
+        },
+        {
+            "id": 400631,
+            "name": "Xóm Thôm Phiêng",
+            "pid": 20490,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thôm Phiêng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6446293",
+            "lng": "105.88187659999994"
+        }
+    ],
+    "log_id": "675816626f9a7231"
+}

@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 667303,
+            "name": "Thôn Tiền Lệ",
+            "pid": 4693,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tiền Lệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0224201",
+            "lng": "105.6845122"
+        },
+        {
+            "id": 667300,
+            "name": "Thôn Tiền Yên",
+            "pid": 4693,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0285459",
+            "lng": "105.6870081"
+        },
+        {
+            "id": 668668,
+            "name": "Thôn Yên Thái, Tiền Yên",
+            "pid": 4693,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Thái, Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0285509",
+            "lng": "105.6848141"
+        },
+        {
+            "id": 54690,
+            "name": "Ubnd Xã Tiền Yên",
+            "pid": 4693,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 668671,
+            "name": "Xóm 1, Xã Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1, Xã Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0260781",
+            "lng": "105.6838631"
+        },
+        {
+            "id": 668674,
+            "name": "Xóm 2, Xã Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2, Xã Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0261029",
+            "lng": "105.6772702"
+        },
+        {
+            "id": 668680,
+            "name": "Xóm 3, Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3, Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0214531",
+            "lng": "105.6823023"
+        },
+        {
+            "id": 668683,
+            "name": "Xóm 4, Xã Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 4, Xã Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0261743",
+            "lng": "105.6838765"
+        },
+        {
+            "id": 668686,
+            "name": "Xóm 5, Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 5, Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0164117",
+            "lng": "105.6814401"
+        },
+        {
+            "id": 668689,
+            "name": "Xóm 6, Xã Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 6, Xã tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0139907",
+            "lng": "105.6805079"
+        },
+        {
+            "id": 668665,
+            "name": "Xóm Tiền Lệ, Xã Tiền Yên",
+            "pid": 4693,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tiền Lệ, xã Tiền Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0230977",
+            "lng": "105.6819587"
+        }
+    ],
+    "log_id": "675811bb9f06a336"
+}

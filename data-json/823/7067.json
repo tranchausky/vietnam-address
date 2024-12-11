@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91826,
+            "name": "Ấp An Chu",
+            "pid": 7067,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Chu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9724014",
+            "lng": "106.9537021"
+        },
+        {
+            "id": 91814,
+            "name": "Ấp Bắc Hòa",
+            "pid": 7067,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9462826",
+            "lng": "106.960884"
+        },
+        {
+            "id": 91823,
+            "name": "Ấp Bùi Chu",
+            "pid": 7067,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bùi Chu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9527263",
+            "lng": "106.946905"
+        },
+        {
+            "id": 91820,
+            "name": "Ấp Phú Sơn",
+            "pid": 7067,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9332993",
+            "lng": "106.947779"
+        },
+        {
+            "id": 76487,
+            "name": "Ấp Sông Mây",
+            "pid": 7067,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sông Mây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0247553",
+            "lng": "106.9622415"
+        },
+        {
+            "id": 91817,
+            "name": "Ấp Tân Thành",
+            "pid": 7067,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9564614",
+            "lng": "106.9570998"
+        },
+        {
+            "id": 668233,
+            "name": "Kcn Sông Mây",
+            "pid": 7067,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Sông Mây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9775838",
+            "lng": "106.953545"
+        },
+        {
+            "id": 791119,
+            "name": "Thôn Nam Hoà",
+            "pid": 7067,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9867655",
+            "lng": "106.96537560000002"
+        }
+    ],
+    "log_id": "675814dd3c1f031"
+}

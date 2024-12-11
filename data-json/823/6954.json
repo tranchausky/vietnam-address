@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435573,
+            "name": "Đông Minh",
+            "pid": 6954,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8650065",
+            "lng": "107.37896969999997"
+        },
+        {
+            "id": 435569,
+            "name": "Tân Bình 1",
+            "pid": 6954,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Bình 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8650065",
+            "lng": "107.37896969999997"
+        },
+        {
+            "id": 435571,
+            "name": "Tân Bình 2",
+            "pid": 6954,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Bình 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8650065",
+            "lng": "107.37896969999997"
+        },
+        {
+            "id": 435575,
+            "name": "Tây Minh",
+            "pid": 6954,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8650065",
+            "lng": "107.37896969999997"
+        }
+    ],
+    "log_id": "675814dd0f00d519"
+}

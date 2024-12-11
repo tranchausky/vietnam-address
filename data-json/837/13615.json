@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 842491,
+            "name": "Bưu Điện Đồng Kỵ",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Bưu điện đồng kỵ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999997"
+        },
+        {
+            "id": 106550,
+            "name": "Khu Phố Bằng",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 106571,
+            "name": "Khu Phố Đại Đình",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Đại Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 104057,
+            "name": "Khu Phố Nghè",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Nghè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 106562,
+            "name": "Khu Phố Tân Thành",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 111631,
+            "name": "Khu Phố Thanh Bình",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Thanh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 106595,
+            "name": "Khu Phố Thanh Nhàn",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Thanh Nhàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 106118,
+            "name": "Khu Phố Tư",
+            "pid": 13615,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1362774",
+            "lng": "105.9460876"
+        },
+        {
+            "id": 476481,
+            "name": "Thôn An Giải",
+            "pid": 13615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Giải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        },
+        {
+            "id": 476479,
+            "name": "Thôn Nam Hồng",
+            "pid": 13615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        },
+        {
+            "id": 476483,
+            "name": "Thôn Tiêu Úng",
+            "pid": 13615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiêu Úng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        },
+        {
+            "id": 855448,
+            "name": "Xóm Miếu",
+            "pid": 13615,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Miếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999997"
+        },
+        {
+            "id": 862753,
+            "name": "Xóm Nghè",
+            "pid": 13615,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nghè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999997"
+        }
+    ],
+    "log_id": "675815f8b109275"
+}

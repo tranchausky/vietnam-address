@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397923,
+            "name": "Thôn Bút Sơn",
+            "pid": 6758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bút Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5258614",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 397925,
+            "name": "Thôn Hồng Sơn",
+            "pid": 6758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5258614",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 397927,
+            "name": "Thôn Thanh Nộn",
+            "pid": 6758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Nộn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5258614",
+            "lng": "105.8583873"
+        }
+    ],
+    "log_id": "6758142818953674"
+}

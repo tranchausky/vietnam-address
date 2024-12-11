@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453099,
+            "name": "Thôn Bun Ngai",
+            "pid": 18041,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bun Ngai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 453095,
+            "name": "Thôn Cao Sơn",
+            "pid": 18041,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 453101,
+            "name": "Thôn Đắk Vang,",
+            "pid": 18041,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đắk Vang,",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 453097,
+            "name": "Thôn Giang Lố 1",
+            "pid": 18041,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Giang Lố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 453105,
+            "name": "Thôn Giang Lố 2",
+            "pid": 18041,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Giang Lố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 453103,
+            "name": "Thôn Hào Lý",
+            "pid": 18041,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hào Lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 835327,
+            "name": "Tổ Dân Phố 1",
+            "pid": 18041,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5605584",
+            "lng": "107.59785770000008"
+        }
+    ],
+    "log_id": "6758174ce0460335"
+}

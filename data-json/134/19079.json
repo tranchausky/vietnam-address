@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 832297,
+            "name": "Đồng Gia",
+            "pid": 19079,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4934959",
+            "lng": "106.3875898"
+        },
+        {
+            "id": 717781,
+            "name": "Na Hoa",
+            "pid": 19079,
+            "type": 21,
+            "region": null,
+            "alias": "Na Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4934959",
+            "lng": "106.3875898"
+        }
+    ],
+    "log_id": "6758133f21b07939"
+}

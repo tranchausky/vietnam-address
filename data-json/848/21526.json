@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425623,
+            "name": "Thôn Sơn Bắc",
+            "pid": 21526,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Sơn Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1223042",
+            "lng": "106.28825660000007"
+        },
+        {
+            "id": 425621,
+            "name": "Thôn Sơn Nam",
+            "pid": 21526,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Sơn Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1223042",
+            "lng": "106.28825660000007"
+        },
+        {
+            "id": 425617,
+            "name": "Thôn Sơn Tây",
+            "pid": 21526,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Sơn Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1223042",
+            "lng": "106.28825660000007"
+        },
+        {
+            "id": 425615,
+            "name": "Thôn Tân Sơn",
+            "pid": 21526,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Tân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1223042",
+            "lng": "106.28825660000007"
+        },
+        {
+            "id": 425619,
+            "name": "Thôn Vĩnh Thọ",
+            "pid": 21526,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Vĩnh thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1223042",
+            "lng": "106.28825660000007"
+        }
+    ],
+    "log_id": "675816e9ad2d5485"
+}

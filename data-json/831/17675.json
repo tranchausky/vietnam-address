@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 744154,
+            "name": "Bình An",
+            "pid": 17675,
+            "type": 16,
+            "region": null,
+            "alias": "Bình An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.840571699999998",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 744157,
+            "name": "Bình Ba",
+            "pid": 17675,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.840571699999998",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 77855,
+            "name": "Bình Ba Đông",
+            "pid": 17675,
+            "type": 16,
+            "region": null,
+            "alias": "Bình ba đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20",
+            "lng": "123"
+        },
+        {
+            "id": 77930,
+            "name": "Bình Ba Tây",
+            "pid": 17675,
+            "type": 21,
+            "region": null,
+            "alias": "Bình Ba Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "112",
+            "lng": "14"
+        },
+        {
+            "id": 1018609,
+            "name": "Bình Hưng",
+            "pid": 17675,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.77263045",
+            "lng": "109.209535"
+        },
+        {
+            "id": 719497,
+            "name": "Chợ Cam Bình, Bình Ba",
+            "pid": 17675,
+            "type": 18,
+            "region": null,
+            "alias": "chợ Cam Bình, Bình Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.837901, ",
+            "lng": "109.239966"
+        },
+        {
+            "id": 77933,
+            "name": "Đảo Bình Hưng",
+            "pid": 17675,
+            "type": 16,
+            "region": null,
+            "alias": "Đảo Bình Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.7787778",
+            "lng": "109.2155002"
+        },
+        {
+            "id": 1018610,
+            "name": "Thôn Bình Hưng",
+            "pid": 17675,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.77263045",
+            "lng": "109.209535"
+        },
+        {
+            "id": 719503,
+            "name": "Trạm Hải Đăng Bình Hưng",
+            "pid": 17675,
+            "type": 18,
+            "region": null,
+            "alias": "trạm Hải Đăng Bình Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.782779,",
+            "lng": "109.221471"
+        }
+    ],
+    "log_id": "67581585b7da7121"
+}

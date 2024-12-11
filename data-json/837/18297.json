@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114509,
+            "name": "Thôn Bích Khê",
+            "pid": 18297,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bích Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0244417",
+            "lng": "106.1731023"
+        },
+        {
+            "id": 739822,
+            "name": "Thôn Lạng Dương",
+            "pid": 18297,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạng Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9933513",
+            "lng": "106.20808970000007"
+        },
+        {
+            "id": 114885,
+            "name": "Thôn Lương Xá",
+            "pid": 18297,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9945213",
+            "lng": "106.1959403"
+        },
+        {
+            "id": 114417,
+            "name": "Thôn Phú Lâu",
+            "pid": 18297,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Lâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9945213",
+            "lng": "106.1959403"
+        },
+        {
+            "id": 739819,
+            "name": "Thôn Thọ Ninh",
+            "pid": 18297,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thọ Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9933513",
+            "lng": "106.20808970000007"
+        }
+    ],
+    "log_id": "675815f8cdab4951"
+}

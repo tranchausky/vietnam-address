@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102551,
+            "name": "Thôn Mai Xá",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'50.2\"N",
+            "lng": "105°59'34.0\"E 20"
+        },
+        {
+            "id": 102524,
+            "name": "Thôn Mễ",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'39.1\"N ",
+            "lng": "105°58'50.2\"E"
+        },
+        {
+            "id": 102425,
+            "name": "Thôn Sảo Hạ",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sảo Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'35.4\"N ",
+            "lng": "105°58'14.1\"E"
+        },
+        {
+            "id": 102407,
+            "name": "Thôn Sảo Thượng",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sảo Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'31.0\"N ",
+            "lng": "105°58'40.6\"E"
+        },
+        {
+            "id": 102386,
+            "name": "Thôn Tạ",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'33.6\"N",
+            "lng": "105°58'00.7\"E"
+        },
+        {
+            "id": 102335,
+            "name": "Thôn Tầm Hạ",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tầm Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°40'58.1\"N",
+            "lng": "105°59'21.7\"E"
+        },
+        {
+            "id": 102308,
+            "name": "Thôn Tầm Thượng",
+            "pid": 4755,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tầm Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'19.0\"N ",
+            "lng": "105°59'25.4\"E"
+        }
+    ],
+    "log_id": "675811bcd5a22888"
+}

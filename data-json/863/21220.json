@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 749851,
+            "name": "Đào Thành",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "đào Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        },
+        {
+            "id": 749857,
+            "name": "Lưu Xá",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "Lưu Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        },
+        {
+            "id": 410783,
+            "name": "Lưu Xá Bắc",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "lưu xá bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        },
+        {
+            "id": 410781,
+            "name": "Lưu Xá Nam",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "lưu xá nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        },
+        {
+            "id": 410779,
+            "name": "Thôn Lưu Xá Đông",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lưu xá đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        },
+        {
+            "id": 410777,
+            "name": "Thôn Vế",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        },
+        {
+            "id": 749854,
+            "name": "Vế Đông",
+            "pid": 21220,
+            "type": 16,
+            "region": null,
+            "alias": "Vế đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6396734",
+            "lng": "106.1551531"
+        }
+    ],
+    "log_id": "675909f3a0c30668"
+}

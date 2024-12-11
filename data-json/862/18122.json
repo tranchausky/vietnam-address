@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435215,
+            "name": "Khu Phố 1",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7756587",
+            "lng": "106.7004238"
+        },
+        {
+            "id": 435217,
+            "name": "Khu Phố 2",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9382503",
+            "lng": "106.7457959"
+        },
+        {
+            "id": 435219,
+            "name": "Khu Phố 3",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9737069",
+            "lng": "106.8861581"
+        },
+        {
+            "id": 435221,
+            "name": "Khu Phố 4",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7574561",
+            "lng": "106.5903461"
+        },
+        {
+            "id": 435223,
+            "name": "Khu Phố 5",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8676122",
+            "lng": "106.7270016"
+        },
+        {
+            "id": 435225,
+            "name": "Khu Phố 6",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.863392",
+            "lng": "106.7615546"
+        },
+        {
+            "id": 435227,
+            "name": "Khu Phố 7",
+            "pid": 18122,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7340344",
+            "lng": "106.7215787"
+        }
+    ],
+    "log_id": "675909dcf35d477"
+}

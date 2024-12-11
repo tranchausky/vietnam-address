@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 654136,
+            "name": "Thôn 7",
+            "pid": 19614,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.153384853025281,",
+            "lng": "109.04602193083258"
+        },
+        {
+            "id": 920773,
+            "name": "Thôn 10 Mỹ Thắng",
+            "pid": 19614,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 10 Mỹ Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3088536",
+            "lng": "109.13449259999993"
+        }
+    ],
+    "log_id": "6758150d9e037331"
+}

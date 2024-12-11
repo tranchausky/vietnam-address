@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 456855,
+            "name": "Thôn Hòn Gầm",
+            "pid": 17684,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hòn Gầm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9460308",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 456851,
+            "name": "Thôn Ka Tơ",
+            "pid": 17684,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ka tơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9460308",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 456853,
+            "name": "Thôn Suối Me",
+            "pid": 17684,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Suối Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9460308",
+            "lng": "108.96210910000002"
+        }
+    ],
+    "log_id": "67581585d5f15175"
+}

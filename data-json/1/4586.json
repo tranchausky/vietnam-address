@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117273,
+            "name": "Hội Triều",
+            "pid": 4586,
+            "type": 16,
+            "region": null,
+            "alias": "Hội Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8237132",
+            "lng": "105.6772784"
+        },
+        {
+            "id": 117271,
+            "name": "Phượng Luật",
+            "pid": 4586,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng Luật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8262402",
+            "lng": "105.6929746"
+        },
+        {
+            "id": 117277,
+            "name": "Thọ An",
+            "pid": 4586,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.813931",
+            "lng": "105.6936787"
+        },
+        {
+            "id": 54226,
+            "name": "Trạm Y Tế Xã Đồng Lạc",
+            "pid": 4586,
+            "type": 6,
+            "region": null,
+            "alias": "Trạm y tế xã Đồng Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 54222,
+            "name": "Ubnd Xã Đồng Lạc",
+            "pid": 4586,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Đồng Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 117267,
+            "name": "Yên Lạc",
+            "pid": 4586,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8219846",
+            "lng": "105.6889121"
+        },
+        {
+            "id": 117269,
+            "name": "Yên Sơn",
+            "pid": 4586,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.9447986",
+            "lng": "105.2662931"
+        }
+    ],
+    "log_id": "675811bb71f0c399"
+}

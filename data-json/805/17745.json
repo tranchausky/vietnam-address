@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 971552,
+            "name": "Cẩm Trục",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Cẩm Trục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.97264335747763",
+            "lng": "106.147970817931"
+        },
+        {
+            "id": 638922,
+            "name": "Nghĩa Trạch",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Nghĩa Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 971553,
+            "name": "Ngọc Kha",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Kha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.97794329167675",
+            "lng": "106.14765421736837"
+        },
+        {
+            "id": 638928,
+            "name": "Ngọc Trục",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Trục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 971556,
+            "name": "Tế Bằng",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Tế Bằng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.971968140605604",
+            "lng": "106.15273181157139"
+        },
+        {
+            "id": 638916,
+            "name": "Thôn Bình Phiên",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Phiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 638934,
+            "name": "Thôn Mỹ Hảo",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 638931,
+            "name": "Thôn Mỹ Vọng",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Vọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 638919,
+            "name": "Thôn Ngọc Quyết",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Quyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 638925,
+            "name": "Thu Lãng",
+            "pid": 17745,
+            "type": 16,
+            "region": null,
+            "alias": "Thu Lãng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9727272",
+            "lng": "106.15221259999998"
+        }
+    ],
+    "log_id": "675813f168502967"
+}

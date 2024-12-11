@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652198,
+            "name": "Thôn An Cư",
+            "pid": 7091,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.790077",
+            "lng": "106.288231"
+        },
+        {
+            "id": 652192,
+            "name": "Thôn An Vệ",
+            "pid": 7091,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Vệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.797931",
+            "lng": "106.279177"
+        },
+        {
+            "id": 652195,
+            "name": "Thôn Thọ Xương",
+            "pid": 7091,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thọ Xương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.783271",
+            "lng": "106.292952"
+        }
+    ],
+    "log_id": "675813f1ad8ca906"
+}

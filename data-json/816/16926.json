@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630645,
+            "name": "Thôn An Nhuế",
+            "pid": 16926,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an nhuế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7041387",
+            "lng": "106.19191309999997"
+        },
+        {
+            "id": 630633,
+            "name": "Thôn Đình Cao",
+            "pid": 16926,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đình cao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7041387",
+            "lng": "106.19191309999997"
+        },
+        {
+            "id": 630648,
+            "name": "Thôn Duyên Linh",
+            "pid": 16926,
+            "type": 16,
+            "region": null,
+            "alias": "thôn duyên linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7041387",
+            "lng": "106.19191309999997"
+        },
+        {
+            "id": 630636,
+            "name": "Thôn Hà Linh",
+            "pid": 16926,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hà linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7041387",
+            "lng": "106.19191309999997"
+        },
+        {
+            "id": 748525,
+            "name": "Thôn Văn Xa",
+            "pid": 16926,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Xa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7041387",
+            "lng": "106.19191309999997"
+        }
+    ],
+    "log_id": "67581490cd6b5929"
+}

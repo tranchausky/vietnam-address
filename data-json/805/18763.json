@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398087,
+            "name": "Thiên Khánh",
+            "pid": 18763,
+            "type": 16,
+            "region": null,
+            "alias": "Thiên Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7474324",
+            "lng": "106.29622900000004"
+        },
+        {
+            "id": 398089,
+            "name": "Thọ Sơn",
+            "pid": 18763,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7474324",
+            "lng": "106.29622900000004"
+        },
+        {
+            "id": 398091,
+            "name": "Văn Minh",
+            "pid": 18763,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7474324",
+            "lng": "106.29622900000004"
+        }
+    ],
+    "log_id": "675813f1b9d4a858"
+}

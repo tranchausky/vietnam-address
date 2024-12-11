@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 989256,
+            "name": "Đường Vũ Hồng Phô - P. Bình Đa",
+            "pid": 6932,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vũ Hồng Phô - P. Bình Đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.934181710758072",
+            "lng": "106.86331470652495"
+        },
+        {
+            "id": 92939,
+            "name": "Khu Phố 1 - P. Bình Đa",
+            "pid": 6932,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - P. Bình Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 92942,
+            "name": "Khu Phố 2 - P. Bình Đa",
+            "pid": 6932,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - P. Bình Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9700672",
+            "lng": "106.8749268"
+        },
+        {
+            "id": 92945,
+            "name": "Khu Phố 3 - P. Bình Đa",
+            "pid": 6932,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - P. Bình Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1309966",
+            "lng": "106.6129209"
+        },
+        {
+            "id": 640828,
+            "name": "Khu Phố 4 - P. Bình Đa",
+            "pid": 6932,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4 - P. Bình Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.940001",
+            "lng": "106.855220"
+        }
+    ],
+    "log_id": "675814dd58284275"
+}

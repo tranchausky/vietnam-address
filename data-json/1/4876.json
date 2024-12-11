@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116379,
+            "name": "Thôn Dư Dụ",
+            "pid": 4876,
+            "type": 16,
+            "region": null,
+            "alias": "thôn dư dụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.816436",
+            "lng": "20.869943"
+        },
+        {
+            "id": 116383,
+            "name": "Thôn Dụ Tiền",
+            "pid": 4876,
+            "type": 16,
+            "region": null,
+            "alias": "thôn dụ tiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.810696",
+            "lng": "20.864177"
+        },
+        {
+            "id": 116331,
+            "name": "Thôn Gia Vĩnh",
+            "pid": 4876,
+            "type": 16,
+            "region": null,
+            "alias": "thôn gia vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.808231",
+            "lng": "20.870078"
+        },
+        {
+            "id": 116373,
+            "name": "Thôn Rùa Hạ",
+            "pid": 4876,
+            "type": 16,
+            "region": null,
+            "alias": "thôn rùa hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.808256",
+            "lng": "20.874929"
+        },
+        {
+            "id": 116337,
+            "name": "Thôn Rùa Thượng",
+            "pid": 4876,
+            "type": 16,
+            "region": null,
+            "alias": "thôn rùa thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 105.812189",
+            "lng": "20.878627"
+        },
+        {
+            "id": 116375,
+            "name": "Thôn Từ Am",
+            "pid": 4876,
+            "type": 16,
+            "region": null,
+            "alias": "thôn từ am",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.810888",
+            "lng": "20.873747"
+        },
+        {
+            "id": 55450,
+            "name": "Ubnd Xã Thanh Thùy",
+            "pid": 4876,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thanh Thùy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd6a91f354"
+}

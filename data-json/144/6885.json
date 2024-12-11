@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407181,
+            "name": "Thôn Yên Viên",
+            "pid": 6885,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2196371",
+            "lng": "106.03903660000003"
+        },
+        {
+            "id": 728851,
+            "name": "Xóm 1",
+            "pid": 6885,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2196371",
+            "lng": "106.03903660000003"
+        },
+        {
+            "id": 752575,
+            "name": "Xóm 2",
+            "pid": 6885,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2196371",
+            "lng": "106.03903660000003"
+        },
+        {
+            "id": 728848,
+            "name": "Xóm 3",
+            "pid": 6885,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2196371",
+            "lng": "106.03903660000003"
+        },
+        {
+            "id": 728863,
+            "name": "Xóm 4",
+            "pid": 6885,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2196371",
+            "lng": "106.03903660000003"
+        },
+        {
+            "id": 728857,
+            "name": "Xóm 5",
+            "pid": 6885,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2196371",
+            "lng": "106.03903660000003"
+        }
+    ],
+    "log_id": "675813d8ae132955"
+}

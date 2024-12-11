@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 763204,
+            "name": "Ấp Trong",
+            "pid": 23682,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Trong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6252937",
+            "lng": "106.61144739999996"
+        },
+        {
+            "id": 763198,
+            "name": "Ấp Ngoài",
+            "pid": 23682,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6252937",
+            "lng": "106.61144739999996"
+        },
+        {
+            "id": 852136,
+            "name": "Long Giêng",
+            "pid": 23682,
+            "type": 17,
+            "region": null,
+            "alias": "Long Giêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6252937",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 827116,
+            "name": "Long Thạnh",
+            "pid": 23682,
+            "type": 17,
+            "region": null,
+            "alias": "Long Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6252937",
+            "lng": "106.61144739999997"
+        }
+    ],
+    "log_id": "6758178535f73354"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 989275,
+            "name": "Đường 57A Thị Trấn Lâm , Huyện Ý Yên ,Tỉnh Nam Định",
+            "pid": 18457,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 57A thị trấn Lâm , huyện Ý Yên ,tỉnh Nam Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.32439",
+            "lng": "106.0166"
+        },
+        {
+            "id": 405223,
+            "name": "Khu A",
+            "pid": 18457,
+            "type": 21,
+            "region": null,
+            "alias": "Khu A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3241362",
+            "lng": "106.01543190000007"
+        },
+        {
+            "id": 523985,
+            "name": "Khu B",
+            "pid": 18457,
+            "type": 21,
+            "region": null,
+            "alias": "Khu B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3241362",
+            "lng": "106.01543190000007"
+        },
+        {
+            "id": 405227,
+            "name": "Khu C",
+            "pid": 18457,
+            "type": 21,
+            "region": null,
+            "alias": "Khu C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3241362",
+            "lng": "106.01543190000007"
+        },
+        {
+            "id": 405229,
+            "name": "Khu D",
+            "pid": 18457,
+            "type": 21,
+            "region": null,
+            "alias": "Khu D",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3241362",
+            "lng": "106.01543190000007"
+        },
+        {
+            "id": 405235,
+            "name": "Phố Cháy",
+            "pid": 18457,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Cháy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3241362",
+            "lng": "106.01543190000007"
+        },
+        {
+            "id": 937805,
+            "name": "Tổ 10",
+            "pid": 18457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3241362",
+            "lng": "106.01543190000008"
+        }
+    ],
+    "log_id": "6758145d1f604684"
+}

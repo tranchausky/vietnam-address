@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 714034,
+            "name": "Ấp Bình Cang",
+            "pid": 15766,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình cang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.453674",
+            "lng": "10.453674"
+        },
+        {
+            "id": 714046,
+            "name": "Ấp Bình Thủy",
+            "pid": 15766,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.453674",
+            "lng": "10.453674"
+        },
+        {
+            "id": 714040,
+            "name": "Ấp Bình Xuyên",
+            "pid": 15766,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.453674",
+            "lng": "10.453674"
+        },
+        {
+            "id": 714037,
+            "name": "Ấp Kỳchâu",
+            "pid": 15766,
+            "type": 17,
+            "region": null,
+            "alias": "ấp kỳchâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.453674",
+            "lng": "10.453674"
+        },
+        {
+            "id": 913963,
+            "name": "Bình Sơn",
+            "pid": 15766,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5138955",
+            "lng": "106.458256"
+        }
+    ],
+    "log_id": "67581784f0751338"
+}

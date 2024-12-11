@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91802,
+            "name": "Ấp An Bình",
+            "pid": 7020,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0333493",
+            "lng": "106.3787583"
+        },
+        {
+            "id": 91799,
+            "name": "Ấp Bàu Cá",
+            "pid": 7020,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9431534",
+            "lng": "107.0673389"
+        },
+        {
+            "id": 996641,
+            "name": "Cafe Hoa Viên",
+            "pid": 7020,
+            "type": 10,
+            "region": null,
+            "alias": "Cafe Hoa Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.934768314492084",
+            "lng": "107.06855519806481"
+        },
+        {
+            "id": 993168,
+            "name": "Đường D10",
+            "pid": 7020,
+            "type": 8,
+            "region": null,
+            "alias": "Đường D10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.941011249852705",
+            "lng": "107.05974098816078"
+        }
+    ],
+    "log_id": "675814dd420a3533"
+}

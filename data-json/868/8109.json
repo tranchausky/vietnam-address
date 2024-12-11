@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437275,
+            "name": "Hưng Bình",
+            "pid": 8109,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.184526",
+            "lng": "105.732144"
+        },
+        {
+            "id": 437279,
+            "name": "Hưng Hòa",
+            "pid": 8109,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.184526",
+            "lng": "105.732144"
+        },
+        {
+            "id": 437281,
+            "name": "Hưng Lợi",
+            "pid": 8109,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.184526",
+            "lng": "105.732144"
+        },
+        {
+            "id": 437277,
+            "name": "Hưng Nghĩa",
+            "pid": 8109,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.184526",
+            "lng": "105.732144"
+        },
+        {
+            "id": 437273,
+            "name": "Hưng Thịnh",
+            "pid": 8109,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.184526",
+            "lng": "105.732144"
+        },
+        {
+            "id": 437283,
+            "name": "Hưng Thuận",
+            "pid": 8109,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.184526",
+            "lng": "105.732144"
+        }
+    ],
+    "log_id": "67590b5991b6c493"
+}

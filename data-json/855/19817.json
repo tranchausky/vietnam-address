@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 916636,
+            "name": "Ấp 3 Tân Lập",
+            "pid": 19817,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3 Tân Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8265092",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 452507,
+            "name": "Ấp Mới",
+            "pid": 19817,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8265092",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 452503,
+            "name": "Cái Đôi Đông",
+            "pid": 19817,
+            "type": 16,
+            "region": null,
+            "alias": "Cái Đôi Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8265092",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 452505,
+            "name": "Cái Đôi Tây",
+            "pid": 19817,
+            "type": 16,
+            "region": null,
+            "alias": "Cái Đôi Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8265092",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 452509,
+            "name": "Gò Tranh",
+            "pid": 19817,
+            "type": 16,
+            "region": null,
+            "alias": "Gò Tranh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8265092",
+            "lng": "105.90536889999998"
+        }
+    ],
+    "log_id": "675817853125a527"
+}

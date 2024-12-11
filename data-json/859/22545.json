@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 985288,
+            "name": "Thôn Dhanghi",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dhanghi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.990249073658864",
+            "lng": "107.89736695347561"
+        },
+        {
+            "id": 466521,
+            "name": "Thôn Điềm",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Điềm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0132121",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 985966,
+            "name": "Thôn Gagoong",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gagoong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.010797011915727",
+            "lng": "107.90866930162768"
+        },
+        {
+            "id": 466523,
+            "name": "Thôn Lấy Đội 1",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lấy đội 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0132121",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 466525,
+            "name": "Thôn Lấy Đội 2",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn lấy đội 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0132121",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 466527,
+            "name": "Thôn Nà Hoa",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn nà hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0132121",
+            "lng": "107.89393199999995"
+        },
+        {
+            "id": 716197,
+            "name": "Thôn Vàu",
+            "pid": 22545,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vàu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.013212099999997",
+            "lng": "107.89393199999996"
+        }
+    ],
+    "log_id": "675817e187e557"
+}

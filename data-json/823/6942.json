@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 73735,
+            "name": "Bệnh Viện Nhi Đồng Đồng Nai",
+            "pid": 6942,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện Nhi Đồng Đồng Nai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.956081",
+            "lng": "106.874513"
+        },
+        {
+            "id": 89321,
+            "name": "Công Ty Epic, Tân Hiệp",
+            "pid": 6942,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty Epic, Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.964024",
+            "lng": "106.855095"
+        },
+        {
+            "id": 92531,
+            "name": "Khu Phố 1 - Phường Tân Hiệp",
+            "pid": 6942,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1 - Phường Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 92534,
+            "name": "Khu Phố 2 - Phường Tân Hiệp",
+            "pid": 6942,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2 - Phường Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 89198,
+            "name": "Khu Phố 3 - Phường Tân Hiệp",
+            "pid": 6942,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - Phường Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1309966",
+            "lng": "106.6129209"
+        },
+        {
+            "id": 92537,
+            "name": "Khu Phố 4 - Phường Tân Hiệp",
+            "pid": 6942,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4 - Phường Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1309966",
+            "lng": "106.6129209"
+        },
+        {
+            "id": 92543,
+            "name": "Khu Phố 5 - Phường Tân Hiệp",
+            "pid": 6942,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 5 - Phường Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.867473",
+            "lng": "106.726325"
+        },
+        {
+            "id": 75836,
+            "name": "Lữ Đoàn Công Binh 25",
+            "pid": 6942,
+            "type": 10,
+            "region": null,
+            "alias": "Lữ Đoàn Công Binh 25",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12",
+            "lng": "109"
+        }
+    ],
+    "log_id": "675814dd5fd1f533"
+}

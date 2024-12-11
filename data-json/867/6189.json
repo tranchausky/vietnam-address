@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449347,
+            "name": "Ấp Cái Già",
+            "pid": 6189,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cái Già",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 449349,
+            "name": "Ấp Cái Già Bến",
+            "pid": 6189,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cái Già Bến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 449345,
+            "name": "Ấp Cái Già Trên",
+            "pid": 6189,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cái Già Trên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 449355,
+            "name": "Ấp Đồng Cò",
+            "pid": 6189,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Đồng Cò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 449351,
+            "name": "Ấp Hậu Bối",
+            "pid": 6189,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hậu Bối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 449357,
+            "name": "Ấp Khúc Ngay",
+            "pid": 6189,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Khúc Ngay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 449353,
+            "name": "Ấp Rạch",
+            "pid": 6189,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7552447",
+            "lng": "106.48181669999997"
+        }
+    ],
+    "log_id": "67590b4396163209"
+}

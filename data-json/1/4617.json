@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762841,
+            "name": "Bãi Tháp",
+            "pid": 4617,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Tháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 667210,
+            "name": "Đội 1 Đồng Tháp",
+            "pid": 4617,
+            "type": 22,
+            "region": null,
+            "alias": "đội 1 Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0799048",
+            "lng": "105.6484488"
+        },
+        {
+            "id": 667216,
+            "name": "Đôi 2 Đồng Tháp",
+            "pid": 4617,
+            "type": 22,
+            "region": null,
+            "alias": "đôi 2 Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0814739",
+            "lng": "105.6500504"
+        },
+        {
+            "id": 667240,
+            "name": "Đội 3 Đồng Tháp",
+            "pid": 4617,
+            "type": 22,
+            "region": null,
+            "alias": "đội 3 Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1235493",
+            "lng": "105.6394388"
+        },
+        {
+            "id": 668707,
+            "name": "Đội 4, Xã Đồng Tháp",
+            "pid": 4617,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 4, Xã Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0764139",
+            "lng": "105.6515355"
+        },
+        {
+            "id": 668713,
+            "name": "Đội 5, Xã Đồng Tháp",
+            "pid": 4617,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 5, Xã Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0750254",
+            "lng": "105.6502563"
+        },
+        {
+            "id": 667276,
+            "name": "Đôi 6 Đồng Tháp",
+            "pid": 4617,
+            "type": 22,
+            "region": null,
+            "alias": "đôi 6 Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1063011",
+            "lng": "105.6646813"
+        },
+        {
+            "id": 762847,
+            "name": "Đồng Vân",
+            "pid": 4617,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 748480,
+            "name": "Đường Số Nhà 8 Ngõ 30, Đường Đồng Vân 1",
+            "pid": 4617,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Số Nhà 8 Ngõ 30, đường Đồng Vân 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 762844,
+            "name": "Đường Xưởng X260",
+            "pid": 4617,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xưởng X260",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54426,
+            "name": "Ubnd Xã Đồng Tháp",
+            "pid": 4617,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đồng Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb88b22590"
+}

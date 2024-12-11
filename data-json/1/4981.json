@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 807982,
+            "name": "Tân Phú",
+            "pid": 4981,
+            "type": 10,
+            "region": null,
+            "alias": "Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0709878",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 807991,
+            "name": "Thôn Bắc",
+            "pid": 4981,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0709878",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 808003,
+            "name": "Trạm Y Tế - Xã Sơn Đông",
+            "pid": 4981,
+            "type": 10,
+            "region": null,
+            "alias": "Trạm Y Tế - Xã Sơn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0709878",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 55824,
+            "name": "Trường Sỹ Quan Phòng Hóa - Sơn Đông",
+            "pid": 4981,
+            "type": 10,
+            "region": null,
+            "alias": "Trường Sỹ Quan Phòng Hóa - Sơn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0853075",
+            "lng": "105.49954409999998"
+        },
+        {
+            "id": 808006,
+            "name": "Vạn An",
+            "pid": 4981,
+            "type": 10,
+            "region": null,
+            "alias": "Vạn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0709878",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 808027,
+            "name": "Xóm Trại Sơn Đông",
+            "pid": 4981,
+            "type": 4,
+            "region": null,
+            "alias": "Xóm Trại Sơn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0709878",
+            "lng": "105.4829681"
+        }
+    ],
+    "log_id": "675811bd3f50f244"
+}

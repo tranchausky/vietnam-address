@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93785,
+            "name": "Ấp Đồi Rìu",
+            "pid": 7084,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồi Rìu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.883185",
+            "lng": "107.200690"
+        },
+        {
+            "id": 93782,
+            "name": "Ấp Hàng Gòn",
+            "pid": 7084,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hàng Gòn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.872565",
+            "lng": "107.231932"
+        },
+        {
+            "id": 93779,
+            "name": "Ấp Tân Phong 2",
+            "pid": 7084,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phong 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.863461",
+            "lng": "107.212363"
+        }
+    ],
+    "log_id": "675814dd672dd814"
+}

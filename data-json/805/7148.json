@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 722545,
+            "name": "Hòa Loan",
+            "pid": 7148,
+            "type": 16,
+            "region": null,
+            "alias": "Hòa Loan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8304164",
+            "lng": "106.18750160000002"
+        },
+        {
+            "id": 513615,
+            "name": "Inox Văn Huân",
+            "pid": 7148,
+            "type": 16,
+            "region": null,
+            "alias": "Inox Văn Huân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.85402666028332",
+            "lng": "106.22082195680125"
+        },
+        {
+            "id": 513617,
+            "name": "Thôn Đa Loan",
+            "pid": 7148,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Loan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8512898",
+            "lng": "106.21103110000001"
+        },
+        {
+            "id": 513619,
+            "name": "Thôn Dương Xá",
+            "pid": 7148,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dương Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8512898",
+            "lng": "106.21103110000001"
+        },
+        {
+            "id": 513621,
+            "name": "Thôn Hoà Loan",
+            "pid": 7148,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoà Loan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8512898",
+            "lng": "106.21103110000001"
+        }
+    ],
+    "log_id": "675813f1ce1e4515"
+}

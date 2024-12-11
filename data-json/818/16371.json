@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616461,
+            "name": "Thôn Lương Yến",
+            "pid": 16371,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Yến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4221034",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 616467,
+            "name": "Thôn Phú Cát",
+            "pid": 16371,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4221034",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 616464,
+            "name": "Thôn Văn La",
+            "pid": 16371,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4221034",
+            "lng": "106.63207769999997"
+        }
+    ],
+    "log_id": "675814aa110a1598"
+}

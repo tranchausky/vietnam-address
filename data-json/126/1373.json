@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 40182,
+            "name": "Chung Cư 1050 Chu Văn An",
+            "pid": 1373,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư 1050 Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8160586",
+            "lng": "106.7010047"
+        },
+        {
+            "id": 671149,
+            "name": "Đường Bùi Đình Túy",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Đình Túy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8077573",
+            "lng": "106.7027171"
+        },
+        {
+            "id": 681949,
+            "name": "Đường Chu Văn An",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8109464",
+            "lng": "106.7019597"
+        },
+        {
+            "id": 671341,
+            "name": "Đường Ngô Đức Kế",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Đức Kế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8086602",
+            "lng": "106.6995437"
+        },
+        {
+            "id": 676006,
+            "name": "Đường Nơ Trang Long",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nơ Trang Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8127085",
+            "lng": "106.69659"
+        },
+        {
+            "id": 672964,
+            "name": "Đường Phan Chu Trinh",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Chu Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8035865",
+            "lng": "106.7016041"
+        },
+        {
+            "id": 681577,
+            "name": "Đường Phan Văn Trị",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Văn Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8125059",
+            "lng": "106.6952661"
+        },
+        {
+            "id": 673294,
+            "name": "Đường Trần Quý Cáp",
+            "pid": 1373,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quý Cáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8163793",
+            "lng": "106.6968061"
+        },
+        {
+            "id": 663901,
+            "name": "Lẻ 243-431 Chu Văn An",
+            "pid": 1373,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 243-431 Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8113187",
+            "lng": "106.6958951"
+        }
+    ],
+    "log_id": "6758129b02c5d245"
+}

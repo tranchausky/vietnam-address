@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846460,
+            "name": "Làng Thành",
+            "pid": 19836,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7366776",
+            "lng": "106.76075530000004"
+        },
+        {
+            "id": 827251,
+            "name": "Nà Lầm",
+            "pid": 19836,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lầm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7366776",
+            "lng": "106.76075530000003"
+        },
+        {
+            "id": 888136,
+            "name": "Nà Pất",
+            "pid": 19836,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Pất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7366776",
+            "lng": "106.76075530000004"
+        }
+    ],
+    "log_id": "6758133f259cf944"
+}

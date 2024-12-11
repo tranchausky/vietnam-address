@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 106967,
+            "name": "Thôn Phú Hội",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.2885963",
+            "lng": "109.0690976"
+        },
+        {
+            "id": 106958,
+            "name": "Thôn Phước Hiệp",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phước hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2885963",
+            "lng": "109.0690976 "
+        },
+        {
+            "id": 106949,
+            "name": "Thôn Phước Hòa",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phước hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.306080",
+            "lng": "109.072452"
+        },
+        {
+            "id": 106976,
+            "name": "Thôn Phú Xuân",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2885963",
+            "lng": "109.0690976 "
+        },
+        {
+            "id": 106979,
+            "name": "Thôn Phú Xuân A",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú xuân a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.300828",
+            "lng": "109.057241"
+        },
+        {
+            "id": 106985,
+            "name": "Thôn Phú Xuân B",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú xuân b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.300828",
+            "lng": "109.057241"
+        },
+        {
+            "id": 106973,
+            "name": "Thôn Suối Mây",
+            "pid": 18244,
+            "type": 16,
+            "region": null,
+            "alias": "thôn suối mây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2885963",
+            "lng": "109.0690976"
+        },
+        {
+            "id": 828334,
+            "name": "Trại Giam Xuân Phước",
+            "pid": 18244,
+            "type": 21,
+            "region": null,
+            "alias": "Trại giam Xuân Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2885963",
+            "lng": "109.0690976"
+        }
+    ],
+    "log_id": "67590b80b47aa675"
+}

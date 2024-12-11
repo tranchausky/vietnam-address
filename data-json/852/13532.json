@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 626859,
+            "name": "Thôn Kon Jơ Dreh",
+            "pid": 13532,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Jơ Dreh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3718358",
+            "lng": "108.04710479999994"
+        },
+        {
+            "id": 626853,
+            "name": "Thôn Kon Tu I",
+            "pid": 13532,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Tu I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3718358",
+            "lng": "108.04710479999994"
+        },
+        {
+            "id": 626856,
+            "name": "Thôn Kon Tu Ii",
+            "pid": 13532,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Tu II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3718358",
+            "lng": "108.04710479999994"
+        }
+    ],
+    "log_id": "6758174ce6094667"
+}

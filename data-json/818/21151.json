@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 461903,
+            "name": "Chợ",
+            "pid": 21151,
+            "type": 20,
+            "region": null,
+            "alias": "Chợ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7310743",
+            "lng": "106.43764250000004"
+        },
+        {
+            "id": 461909,
+            "name": "Cồn",
+            "pid": 21151,
+            "type": 20,
+            "region": null,
+            "alias": "Cồn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7310743",
+            "lng": "106.43764250000004"
+        },
+        {
+            "id": 461917,
+            "name": "Dinh",
+            "pid": 21151,
+            "type": 20,
+            "region": null,
+            "alias": "Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7310743",
+            "lng": "106.43764250000004"
+        },
+        {
+            "id": 461985,
+            "name": "Tdp Đình Chùa",
+            "pid": 21151,
+            "type": 16,
+            "region": null,
+            "alias": "TDP Đình Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7310743",
+            "lng": "106.43764250000004"
+        },
+        {
+            "id": 914947,
+            "name": "Xóm Bến",
+            "pid": 21151,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.731074300000003",
+            "lng": "106.43764250000004"
+        }
+    ],
+    "log_id": "675814aa08595143"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 637596,
+            "name": "Thôn Hội Sơn",
+            "pid": 18011,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1525061",
+            "lng": "108.93833770000003"
+        },
+        {
+            "id": 637593,
+            "name": "Thôn Thạch Bàn Đông-",
+            "pid": 18011,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Bàn Đông-",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1525061",
+            "lng": "108.93833770000003"
+        },
+        {
+            "id": 637590,
+            "name": "Thôn Thạch Bàn Tây",
+            "pid": 18011,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Bàn Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1525061",
+            "lng": "108.93833770000003"
+        }
+    ],
+    "log_id": "6758150d95ac7268"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435193,
+            "name": "Ấp Bến Cầu",
+            "pid": 16021,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bến Cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3533969",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 435199,
+            "name": "Ấp Rạch Tre",
+            "pid": 16021,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rạch Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3533969",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 435197,
+            "name": "Ấp Tân Định",
+            "pid": 16021,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3533969",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 435195,
+            "name": "Ấp Tân Long",
+            "pid": 16021,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3533969",
+            "lng": "105.89362240000003"
+        }
+    ],
+    "log_id": "675909dce8d1b542"
+}

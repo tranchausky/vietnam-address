@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609141,
+            "name": "Minh Lộc",
+            "pid": 17319,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1779147",
+            "lng": "108.66803709999999"
+        },
+        {
+            "id": 609135,
+            "name": "Minh Mỹ",
+            "pid": 17319,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1779147",
+            "lng": "108.66803709999999"
+        },
+        {
+            "id": 609138,
+            "name": "Minh Xuân",
+            "pid": 17319,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1779147",
+            "lng": "108.66803709999999"
+        }
+    ],
+    "log_id": "675909a4dedeb840"
+}

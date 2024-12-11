@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398209,
+            "name": "Lạc Dục",
+            "pid": 7111,
+            "type": 16,
+            "region": null,
+            "alias": "Lạc Dục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8577466",
+            "lng": "106.36603609999997"
+        },
+        {
+            "id": 835258,
+            "name": "Ngã 4 Thị Tứ Hưng Đạo",
+            "pid": 7111,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã 4 Thị Tứ Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8577466",
+            "lng": "106.36603609999996"
+        },
+        {
+            "id": 398211,
+            "name": "Ô Mễ",
+            "pid": 7111,
+            "type": 16,
+            "region": null,
+            "alias": "Ô Mễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8577466",
+            "lng": "106.36603609999997"
+        },
+        {
+            "id": 835255,
+            "name": "Thị Tứ Hưng Đạo",
+            "pid": 7111,
+            "type": 21,
+            "region": null,
+            "alias": "Thị Tứ Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8577466",
+            "lng": "106.36603609999996"
+        },
+        {
+            "id": 398213,
+            "name": "Xuân Nẻo",
+            "pid": 7111,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Nẻo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8577466",
+            "lng": "106.36603609999997"
+        }
+    ],
+    "log_id": "675813f1e56a7301"
+}

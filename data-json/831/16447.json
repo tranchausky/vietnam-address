@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113131,
+            "name": "Thôn Hiệp Thành",
+            "pid": 16447,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.234512",
+            "lng": "109.066804"
+        },
+        {
+            "id": 113221,
+            "name": "Thôn Hội Phước",
+            "pid": 16447,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.234512",
+            "lng": "109.066804"
+        },
+        {
+            "id": 113147,
+            "name": "Thôn Lương Phước",
+            "pid": 16447,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.234512",
+            "lng": "109.066804"
+        }
+    ],
+    "log_id": "67581585a9e3f354"
+}

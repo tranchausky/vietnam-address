@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 8079,
+            "name": "Thị Trấn Châu Hưng",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Châu Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3388612",
+            "lng": "105.72924910000006"
+        },
+        {
+            "id": 8080,
+            "name": "Xã Châu Hưng A",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Châu Hưng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.376756799999999",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 8082,
+            "name": "Xã Châu Thới",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Châu Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.358423",
+            "lng": "105.65298299999995"
+        },
+        {
+            "id": 8081,
+            "name": "Xã Hưng Hội",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hưng Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3372716",
+            "lng": "105.76445960000001"
+        },
+        {
+            "id": 16009,
+            "name": "Xã Hưng Thành",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hưng Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3714248",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 8085,
+            "name": "Xã Long Thạnh",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.309200",
+            "lng": "105.666213"
+        },
+        {
+            "id": 8083,
+            "name": "Xã Vĩnh Hưng",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3871631",
+            "lng": "105.6119301"
+        },
+        {
+            "id": 8084,
+            "name": "Xã Vĩnh Hưng A",
+            "pid": 1511,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hưng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3995064",
+            "lng": "105.57674930000007"
+        }
+    ],
+    "log_id": "675815e158cd0419"
+}

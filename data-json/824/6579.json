@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599178,
+            "name": "Bà Lẫy 1",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "bà lẫy 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599181,
+            "name": "Bà Lẫy 2",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "bà lẫy 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599169,
+            "name": "Giồng Đình",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "giồng đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599172,
+            "name": "Giồng Lãnh 1",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "giồng lãnh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599175,
+            "name": "Giồng Lãnh 2",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "giồng lãnh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599196,
+            "name": "Giồng Tân",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "giồng tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599166,
+            "name": "Trại Cá",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "Trại Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599184,
+            "name": "Trại Ngang",
+            "pid": 6579,
+            "type": 17,
+            "region": null,
+            "alias": "trại ngang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 599187,
+            "name": "Xóm Gò",
+            "pid": 6579,
+            "type": 18,
+            "region": null,
+            "alias": "xóm gò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3042404",
+            "lng": "106.7293611"
+        }
+    ],
+    "log_id": "675814f3ae45e708"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 764431,
+            "name": "Bãi Cọ",
+            "pid": 14586,
+            "type": 18,
+            "region": null,
+            "alias": "Bãi Cọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7140355",
+            "lng": "105.87820620000002"
+        },
+        {
+            "id": 764434,
+            "name": "Đồng Thu",
+            "pid": 14586,
+            "type": 18,
+            "region": null,
+            "alias": "đồng Thu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7140355",
+            "lng": "105.87820620000002"
+        },
+        {
+            "id": 929653,
+            "name": "La Giang",
+            "pid": 14586,
+            "type": 18,
+            "region": null,
+            "alias": "La Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7140355",
+            "lng": "105.87820620000002"
+        },
+        {
+            "id": 963630,
+            "name": "Xóm Đồng Chuỗng",
+            "pid": 14586,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Chuỗng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.597436",
+            "lng": "105.836928"
+        },
+        {
+            "id": 963627,
+            "name": "Xóm Đồng Tâm",
+            "pid": 14586,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.597436",
+            "lng": "105.836928"
+        },
+        {
+            "id": 963619,
+            "name": "Xóm Na Lay",
+            "pid": 14586,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Na Lay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.597436",
+            "lng": "105.836928"
+        },
+        {
+            "id": 764428,
+            "name": "Xuân Quang 2",
+            "pid": 14586,
+            "type": 5,
+            "region": null,
+            "alias": "Xuân Quang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7140355",
+            "lng": "105.87820620000002"
+        }
+    ],
+    "log_id": "67590a09b1940568"
+}

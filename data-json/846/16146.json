@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 618795,
+            "name": "Ấp Mỹ Phú A",
+            "pid": 16146,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Phú A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5225428",
+            "lng": "105.84025359999998"
+        },
+        {
+            "id": 618798,
+            "name": "Ấp Mỹ Phú B",
+            "pid": 16146,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Phú B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5225428",
+            "lng": "105.84025359999998"
+        },
+        {
+            "id": 618801,
+            "name": "Ấp Mỹ Phú C",
+            "pid": 16146,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Phú C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5225428",
+            "lng": "105.84025359999998"
+        },
+        {
+            "id": 618789,
+            "name": "Ấp Mỹ Thị A",
+            "pid": 16146,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Thị A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5225428",
+            "lng": "105.84025359999998"
+        },
+        {
+            "id": 618792,
+            "name": "Ấp Mỹ Thị B",
+            "pid": 16146,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Thị B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5225428",
+            "lng": "105.84025359999998"
+        }
+    ],
+    "log_id": "675816c07863c731"
+}

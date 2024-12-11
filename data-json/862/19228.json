@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111617,
+            "name": "Khu Phố An Hội",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.032765",
+            "lng": "106.326990"
+        },
+        {
+            "id": 111751,
+            "name": "Khu Phố An Lợi",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.038125",
+            "lng": "106.329534"
+        },
+        {
+            "id": 111135,
+            "name": "Khu Phố An Phú",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.031283",
+            "lng": "106.347071"
+        },
+        {
+            "id": 111359,
+            "name": "Khu Phố An Quới",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Quới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.032428",
+            "lng": "106.335713"
+        },
+        {
+            "id": 111579,
+            "name": "Khu Phố Hòa Bình",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.032912",
+            "lng": "106.343577"
+        },
+        {
+            "id": 111705,
+            "name": "Khu Phố Hòa Hội",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hòa Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.033965",
+            "lng": "106.324695"
+        },
+        {
+            "id": 111413,
+            "name": "Khu Phố Hòa Hưng",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hòa Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.035481",
+            "lng": "106.336668"
+        },
+        {
+            "id": 111783,
+            "name": "Khu Phố Hòa Lợi",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hòa Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.049645",
+            "lng": "106.334072"
+        },
+        {
+            "id": 111325,
+            "name": "Khu Phố Hòa Phú",
+            "pid": 19228,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hòa Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.030441",
+            "lng": "106.349667"
+        }
+    ],
+    "log_id": "675909dceed68342"
+}

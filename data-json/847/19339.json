@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 754552,
+            "name": "Làng Hlang",
+            "pid": 19339,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Hlang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.676892",
+            "lng": "108.5129247"
+        },
+        {
+            "id": 450499,
+            "name": "Làng Lơ Bơ",
+            "pid": 19339,
+            "type": 16,
+            "region": null,
+            "alias": "làng Lơ Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.676892",
+            "lng": "108.5129247"
+        },
+        {
+            "id": 450495,
+            "name": "Làng Rơn",
+            "pid": 19339,
+            "type": 16,
+            "region": null,
+            "alias": "làng Rơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.676892",
+            "lng": "108.5129247"
+        },
+        {
+            "id": 450501,
+            "name": "Thôn 1",
+            "pid": 19339,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.676892",
+            "lng": "108.5129247"
+        }
+    ],
+    "log_id": "675816d368b21487"
+}

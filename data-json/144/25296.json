@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 807100,
+            "name": "Đồng Giang",
+            "pid": 25296,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3885919",
+            "lng": "106.00905829999999"
+        },
+        {
+            "id": 792898,
+            "name": "Minh Châu",
+            "pid": 25296,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3885919",
+            "lng": "106.00905829999999"
+        },
+        {
+            "id": 792895,
+            "name": "Phú Hòa",
+            "pid": 25296,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3885919",
+            "lng": "106.00905829999999"
+        },
+        {
+            "id": 792910,
+            "name": "Tri Cu",
+            "pid": 25296,
+            "type": 16,
+            "region": null,
+            "alias": "Tri Cu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3885919",
+            "lng": "106.00905829999999"
+        },
+        {
+            "id": 705286,
+            "name": "Ubnd Xã Hoàng Thanh",
+            "pid": 25296,
+            "type": 21,
+            "region": null,
+            "alias": "Ubnd Xã Hoàng Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3885919",
+            "lng": "106.00905829999999"
+        }
+    ],
+    "log_id": "675813d914f4028"
+}

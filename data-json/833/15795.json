@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114747,
+            "name": "Ấp Kiến Hưng 1",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến Hưng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.515870",
+            "lng": "105.412191"
+        },
+        {
+            "id": 114755,
+            "name": "Ấp Kiến Hưng 2",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến Hưng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.516334",
+            "lng": "105.413371"
+        },
+        {
+            "id": 114713,
+            "name": "Ấp Kiến Quới 1",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến Quới 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.512715",
+            "lng": "105.411859"
+        },
+        {
+            "id": 114725,
+            "name": "Ấp Kiến Quới 2",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến Quới 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.514382",
+            "lng": "105.410979"
+        },
+        {
+            "id": 114733,
+            "name": "Ấp Kiến Thuận 1",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến Thuận 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.515785",
+            "lng": "105.410174"
+        },
+        {
+            "id": 114741,
+            "name": "Ấp Kiến Thuận 2",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến Thuận 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.516798",
+            "lng": "105.411140"
+        },
+        {
+            "id": 114681,
+            "name": "Ấp Phú Hạ 1",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hạ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.512124",
+            "lng": "105.412975"
+        },
+        {
+            "id": 114697,
+            "name": "Ấp Phú Hạ 2",
+            "pid": 15795,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hạ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.511565",
+            "lng": "105.413436"
+        }
+    ],
+    "log_id": "6758159dd18a7546"
+}

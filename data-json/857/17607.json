@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455675,
+            "name": "Thôn Chà Panh",
+            "pid": 17607,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chà Panh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.920903",
+            "lng": "108.746604"
+        },
+        {
+            "id": 455673,
+            "name": "Thôn Tà Lọt",
+            "pid": 17607,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Lọt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.920903",
+            "lng": "108.746604"
+        }
+    ],
+    "log_id": "675817b978b28541"
+}

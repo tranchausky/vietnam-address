@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 848824,
+            "name": "Bản Chiếu Sừng",
+            "pid": 22052,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chiếu Sừng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.45435",
+            "lng": "102.32348159999992"
+        },
+        {
+            "id": 850006,
+            "name": "Ubnd",
+            "pid": 22052,
+            "type": 16,
+            "region": null,
+            "alias": "UBND",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.45435",
+            "lng": "102.32348159999992"
+        }
+    ],
+    "log_id": "675816a588e88187"
+}

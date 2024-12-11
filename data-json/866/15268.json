@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 805828,
+            "name": "Đường Nguyễn Sinh Cung",
+            "pid": 15268,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Sinh Cung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4784301",
+            "lng": "107.5986752"
+        },
+        {
+            "id": 463871,
+            "name": "Đường Xuân Thủy",
+            "pid": 15268,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xuân Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4784301",
+            "lng": "107.5986752"
+        },
+        {
+            "id": 463869,
+            "name": "Đường Nguyễn Phan Chánh",
+            "pid": 15268,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Phan Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4784301",
+            "lng": "107.5986752"
+        },
+        {
+            "id": 805831,
+            "name": "Hàn Mặc Tử",
+            "pid": 15268,
+            "type": 21,
+            "region": null,
+            "alias": "Hàn Mặc Tử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4784301",
+            "lng": "107.5986752"
+        }
+    ],
+    "log_id": "67590b2635861691"
+}

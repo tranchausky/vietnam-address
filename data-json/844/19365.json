@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 798217,
+            "name": "Buôn Broi",
+            "pid": 19365,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Broi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        },
+        {
+            "id": 798214,
+            "name": "Buôn Ru",
+            "pid": 19365,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Ru",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        },
+        {
+            "id": 737524,
+            "name": "Buôn Yoc Linh",
+            "pid": 19365,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Yoc Linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        },
+        {
+            "id": 118457,
+            "name": "Thôn Đak Hà",
+            "pid": 19365,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đak hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.810361",
+            "lng": "12.464630"
+        },
+        {
+            "id": 118421,
+            "name": "Thôn Đak Vượng",
+            "pid": 19365,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đak vượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.810361",
+            "lng": "12.464630"
+        },
+        {
+            "id": 901945,
+            "name": "Tổ 1",
+            "pid": 19365,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        },
+        {
+            "id": 735292,
+            "name": "Tổ 2",
+            "pid": 19365,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        },
+        {
+            "id": 764707,
+            "name": "Tổ 3",
+            "pid": 19365,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        },
+        {
+            "id": 735298,
+            "name": "Tổ 4",
+            "pid": 19365,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4579462",
+            "lng": "107.81692290000001"
+        }
+    ],
+    "log_id": "67581691267c6885"
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562557,
+            "name": "Đường Thống Nhất",
+            "pid": 7832,
+            "type": 10,
+            "region": null,
+            "alias": "Đường thống nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562545,
+            "name": "Xóm1 Mai Sơn",
+            "pid": 7832,
+            "type": 10,
+            "region": null,
+            "alias": "Xóm1 mai sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562547,
+            "name": "Xóm 2 Mai Sơn",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2 mai sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562549,
+            "name": "Xóm 3 Mai Sơn",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3 mai sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562561,
+            "name": "Xóm Lạc Thiện",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm lạc thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562563,
+            "name": "Xóm Minh Đường",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm minh đường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562551,
+            "name": "Xóm Nam Ninh 1",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm nam ninh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562553,
+            "name": "Xóm Nam Ninh 2",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm nam ninh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562555,
+            "name": "Xóm Quang Tân",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm quang tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 562559,
+            "name": "Xóm Thắng Lợi",
+            "pid": 7832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm thắng lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3111421",
+            "lng": "105.83196529999998"
+        }
+    ],
+    "log_id": "67581799043ab671"
+}

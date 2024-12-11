@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 595542,
+            "name": "Thôn Hải Lâm",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.354078484578217",
+            "lng": "105.74404212467935"
+        },
+        {
+            "id": 595545,
+            "name": "Thôn Hữu Lại",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hữu Lại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3548127",
+            "lng": "105.75272210000003"
+        },
+        {
+            "id": 875023,
+            "name": "Thôn Hữu Tài",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hữu Tài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3548127",
+            "lng": "105.75272210000004"
+        },
+        {
+            "id": 875020,
+            "name": "Thôn Kim Phú",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.348275",
+            "lng": "105.758112"
+        },
+        {
+            "id": 875017,
+            "name": "Thôn Kim Sơn",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.376461",
+            "lng": "105.766595"
+        },
+        {
+            "id": 595548,
+            "name": "Thôn Kim Tiến",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3548127",
+            "lng": "105.75272210000003"
+        },
+        {
+            "id": 954851,
+            "name": "Thôn Tân Thành",
+            "pid": 18682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.358879026752955",
+            "lng": "105.74964806700748"
+        }
+    ],
+    "log_id": "67590a23afb36574"
+}

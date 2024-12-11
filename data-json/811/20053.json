@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641875,
+            "name": "Khu 2",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.289269",
+            "lng": "106.452321"
+        },
+        {
+            "id": 641911,
+            "name": "Khu 3",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.286301",
+            "lng": "106.446721"
+        },
+        {
+            "id": 648112,
+            "name": "Khu 4A",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.286395",
+            "lng": "106.446338"
+        },
+        {
+            "id": 641962,
+            "name": "Khu 4B",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.290612",
+            "lng": "106.440980"
+        },
+        {
+            "id": 642028,
+            "name": "Khu 5A",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 5A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.285980",
+            "lng": "106.442169"
+        },
+        {
+            "id": 642052,
+            "name": "Khu 5B",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 5B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.292457",
+            "lng": "106.436626"
+        },
+        {
+            "id": 642730,
+            "name": "Khu 6 Xóm Đình",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 6 Xóm Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.279919",
+            "lng": "106.444209"
+        },
+        {
+            "id": 642691,
+            "name": "Khu 6 Xóm Đông",
+            "pid": 20053,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 6 Xóm đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.280210",
+            "lng": "106.444265"
+        }
+    ],
+    "log_id": "6758145cea38783"
+}

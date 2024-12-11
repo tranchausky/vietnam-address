@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 971517,
+            "name": "Công Ty Cp Mỹ Á",
+            "pid": 13593,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Cp Mỹ Á",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1580983",
+            "lng": "106.1154193"
+        },
+        {
+            "id": 968404,
+            "name": "Kcn Quế Võ 1",
+            "pid": 13593,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Quế Võ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.153375711386673",
+            "lng": "106.11411942934312"
+        },
+        {
+            "id": 476439,
+            "name": "Thôn Do Nha",
+            "pid": 13593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Do Nha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.163438",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 476437,
+            "name": "Thôn Giang Liễu",
+            "pid": 13593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giang Liễu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.16169126540504",
+            "lng": "106.12629891142971"
+        },
+        {
+            "id": 476441,
+            "name": "Thôn Hà Liễu",
+            "pid": 13593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Liễu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.163438",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 930070,
+            "name": "Thôn Phương Cầu",
+            "pid": 13593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.163438",
+            "lng": "106.12574999999993"
+        }
+    ],
+    "log_id": "675815f8c7a2c790"
+}

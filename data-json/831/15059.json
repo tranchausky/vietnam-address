@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639796,
+            "name": "Hà Liên",
+            "pid": 15059,
+            "type": 21,
+            "region": null,
+            "alias": "Hà Liên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.453276109.172786",
+            "lng": "109.172786"
+        },
+        {
+            "id": 639784,
+            "name": "Hậu Phước",
+            "pid": 15059,
+            "type": 21,
+            "region": null,
+            "alias": "Hậu Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.453986",
+            "lng": "109.146952"
+        },
+        {
+            "id": 639790,
+            "name": "Mỹ Thuận",
+            "pid": 15059,
+            "type": 21,
+            "region": null,
+            "alias": "Mỹ Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.453986",
+            "lng": "109.146954"
+        },
+        {
+            "id": 639787,
+            "name": "Mỹ Trạch",
+            "pid": 15059,
+            "type": 21,
+            "region": null,
+            "alias": "Mỹ Trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.453986",
+            "lng": "109.146953"
+        },
+        {
+            "id": 639793,
+            "name": "Tân Tế",
+            "pid": 15059,
+            "type": 21,
+            "region": null,
+            "alias": "Tân Tế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.453276",
+            "lng": "109.172785"
+        },
+        {
+            "id": 841411,
+            "name": "Thôn Thuận Lợi",
+            "pid": 15059,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.467875",
+            "lng": "109.134641"
+        }
+    ],
+    "log_id": "67581585b7bcb373"
+}

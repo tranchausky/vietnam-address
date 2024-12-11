@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114141,
+            "name": "Ấp Cái Nước Ngọn",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Nước Ngọn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.762645",
+            "lng": "105.110813"
+        },
+        {
+            "id": 114167,
+            "name": "Ấp Cái Nước Vàm",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Nước Vàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.771861",
+            "lng": "105.120500"
+        },
+        {
+            "id": 114199,
+            "name": "Ấp Kinh 1B",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 1B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.720551",
+            "lng": "105.099182"
+        },
+        {
+            "id": 114099,
+            "name": "Ấp Ngã Cạy",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngã Cạy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.790111",
+            "lng": "105.101806"
+        },
+        {
+            "id": 114025,
+            "name": "Ấp Tây Sơn 1",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Sơn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.821833",
+            "lng": "105.077944"
+        },
+        {
+            "id": 114045,
+            "name": "Ấp Tây Sơn 2",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Sơn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.787680",
+            "lng": "105.067892"
+        },
+        {
+            "id": 114075,
+            "name": "Ấp Tây Sơn 3",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Sơn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.765356",
+            "lng": "105.049522"
+        },
+        {
+            "id": 113929,
+            "name": "Ấp Xẻo Đước 1",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Đước 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.786790",
+            "lng": "105.078172"
+        },
+        {
+            "id": 113959,
+            "name": "Ấp Xẻo Đước 2",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Đước 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.753464",
+            "lng": "105.104973"
+        },
+        {
+            "id": 113981,
+            "name": "Ấp Xẻo Đước 3",
+            "pid": 10096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Đước 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.744832",
+            "lng": "105.124364"
+        }
+    ],
+    "log_id": "6758173635b87319"
+}

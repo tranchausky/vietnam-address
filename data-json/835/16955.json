@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 853828,
+            "name": "Đập Thủy Điện Nặm Cắt",
+            "pid": 16955,
+            "type": 17,
+            "region": null,
+            "alias": "Đập Thủy điện Nặm Cắt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2453935",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 1015085,
+            "name": "Lý Văn Lộc",
+            "pid": 16955,
+            "type": 17,
+            "region": null,
+            "alias": "Lý văn lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.16300673443076",
+            "lng": "105.7378355093389"
+        },
+        {
+            "id": 898138,
+            "name": "Thôn Nà Lồm",
+            "pid": 16955,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nà Lồm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2453935",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 784552,
+            "name": "Thôn Nà Pán",
+            "pid": 16955,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nà Pán",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2453935",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 834466,
+            "name": "Thôn Vằng Bó",
+            "pid": 16955,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vằng Bó",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2453935",
+            "lng": "105.75859079999998"
+        }
+    ],
+    "log_id": "675815c9259de103"
+}

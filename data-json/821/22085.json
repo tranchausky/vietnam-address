@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 529073,
+            "name": "Bản Cọc",
+            "pid": 22085,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Cọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 529075,
+            "name": "Bản Nông Trang",
+            "pid": 22085,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Nông Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581748,
+            "name": "Chào",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Chào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581736,
+            "name": "Kiềng 1",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Kiềng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581739,
+            "name": "Kiềng 2",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Kiềng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581742,
+            "name": "Lạnh",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Lạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581745,
+            "name": "Mờ",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Mờ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581730,
+            "name": "Xăng 1",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Xăng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 581733,
+            "name": "Xăng 2",
+            "pid": 22085,
+            "type": 16,
+            "region": null,
+            "alias": "Xăng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        }
+    ],
+    "log_id": "67581208ae9ff246"
+}

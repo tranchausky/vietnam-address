@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120379,
+            "name": "Cầu Dậm",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Dậm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6918039",
+            "lng": "105.6940454"
+        },
+        {
+            "id": 120377,
+            "name": "Gò Mái",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Gò Mái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7008823",
+            "lng": "105.6977121"
+        },
+        {
+            "id": 120391,
+            "name": "Hạ Quất",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Hạ Quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6921372",
+            "lng": "105.7138467"
+        },
+        {
+            "id": 120387,
+            "name": "La Đồng",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "La Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6781534",
+            "lng": "105.6771794"
+        },
+        {
+            "id": 120383,
+            "name": "Phú La",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Phú La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6918039",
+            "lng": "105.6940454"
+        },
+        {
+            "id": 120385,
+            "name": "Phú Liễn",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Liễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6869244",
+            "lng": "105.6970532"
+        },
+        {
+            "id": 120389,
+            "name": "Thượng Quất",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.695308",
+            "lng": "105.710913"
+        },
+        {
+            "id": 54882,
+            "name": "Ubnd Xã Hợp Tiến",
+            "pid": 4725,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hợp Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 120381,
+            "name": "Viêm Khê",
+            "pid": 4725,
+            "type": 16,
+            "region": null,
+            "alias": "Viêm Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6869244",
+            "lng": "105.6970532"
+        }
+    ],
+    "log_id": "675811bc1a3f9292"
+}

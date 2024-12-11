@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 993086,
+            "name": "Công An Thị Xã Phú Mỹ",
+            "pid": 6614,
+            "type": 10,
+            "region": null,
+            "alias": "Công an Thị xã Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.06631617761111",
+            "lng": "10.595716833635949, "
+        },
+        {
+            "id": 993097,
+            "name": "Cư Xá Posco Yamato",
+            "pid": 6614,
+            "type": 10,
+            "region": null,
+            "alias": "Cư xá Posco Yamato",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.06324773051516",
+            "lng": "10.597994739460894, "
+        },
+        {
+            "id": 948604,
+            "name": "Kcn Phú Mỹ 1",
+            "pid": 6614,
+            "type": 10,
+            "region": null,
+            "alias": "KCN Phú Mỹ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5643644",
+            "lng": "107.0594109"
+        },
+        {
+            "id": 444801,
+            "name": "Khu Phố Quảng Phú",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Quảng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905345",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 444799,
+            "name": "Khu Phố Tân Hạnh",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Hạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905345",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 444797,
+            "name": "Khu Phố Tân Ngọc",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905345",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 444803,
+            "name": "Khu Phố Tân Phú",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5905345",
+            "lng": "107.04803779999997"
+        },
+        {
+            "id": 993041,
+            "name": "Ktx Notori",
+            "pid": 6614,
+            "type": 5,
+            "region": null,
+            "alias": "KTX Notori",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.0665522120031",
+            "lng": "10.597013976529976"
+        },
+        {
+            "id": 993024,
+            "name": "Siêu Thị Co.opmart",
+            "pid": 6614,
+            "type": 10,
+            "region": null,
+            "alias": "Siêu thị Co.opmart",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.05520892549507",
+            "lng": "10.598338717075743"
+        },
+        {
+            "id": 993035,
+            "name": "Tổ 1-2 Kp. Quảng Phú",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ 1-2 KP. Quảng Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": " 107.05478913700153",
+            "lng": "10.594639998299629,"
+        },
+        {
+            "id": 993037,
+            "name": "Tổ 5-6-7-13-16 Kp. Vạn Hạnh",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ 5-6-7-13-16 KP. Vạn Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.07141568131513",
+            "lng": "10.58959422250041, "
+        },
+        {
+            "id": 993038,
+            "name": "Tổ 10-11-12-13 Kp. Tân Phú",
+            "pid": 6614,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ 10-11-12-13 KP. Tân Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.07114356659322",
+            "lng": "10.598293090188225, "
+        }
+    ],
+    "log_id": "675815b4138b6890"
+}

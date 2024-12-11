@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640726,
+            "name": "Bãi Hương",
+            "pid": 15475,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.958512",
+            "lng": "108.506057"
+        },
+        {
+            "id": 640714,
+            "name": "Bãi Làng",
+            "pid": 15475,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.958512",
+            "lng": "108.506057"
+        },
+        {
+            "id": 640717,
+            "name": "Bãi Ông",
+            "pid": 15475,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Ông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.958512",
+            "lng": "108.506057"
+        },
+        {
+            "id": 640720,
+            "name": "Thôn Cấm",
+            "pid": 15475,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cấm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.958512",
+            "lng": "108.506057"
+        }
+    ],
+    "log_id": "675817e1bacff628"
+}

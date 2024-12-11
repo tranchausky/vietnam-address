@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 463033,
+            "name": "Thôn Cự Lại Bắc",
+            "pid": 16286,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cự Lại Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5263029",
+            "lng": "107.69552769999996"
+        },
+        {
+            "id": 98372,
+            "name": "Thôn Cự Lại Đông",
+            "pid": 16286,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cự Lại Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.523976",
+            "lng": "107.701400"
+        },
+        {
+            "id": 463037,
+            "name": "Thôn Cự Lại Nam",
+            "pid": 16286,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cự Lại Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5263029",
+            "lng": "107.69552769999996"
+        },
+        {
+            "id": 463035,
+            "name": "Thôn Cự Lại Trung",
+            "pid": 16286,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cự Lại Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5263029",
+            "lng": "107.69552769999996"
+        }
+    ],
+    "log_id": "67590b261d9c8433"
+}

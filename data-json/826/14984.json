@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 748216,
+            "name": "Thôn Hải Bắc",
+            "pid": 14984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7693523",
+            "lng": "109.2897868"
+        },
+        {
+            "id": 704542,
+            "name": "Thôn Hải Đông",
+            "pid": 14984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7693523",
+            "lng": "109.2897868"
+        },
+        {
+            "id": 704545,
+            "name": "Thôn Hải Nam",
+            "pid": 14984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7693523",
+            "lng": "109.2897868"
+        },
+        {
+            "id": 748222,
+            "name": "Thôn Hảo Bắc",
+            "pid": 14984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hảo Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7693523",
+            "lng": "109.2897868"
+        },
+        {
+            "id": 748228,
+            "name": "Trường Tiểu Học Nhơn Hải",
+            "pid": 14984,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Nhơn Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7693523",
+            "lng": "109.2897868"
+        },
+        {
+            "id": 748219,
+            "name": "Xóm Khu Mới",
+            "pid": 14984,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Khu Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7693523",
+            "lng": "109.2897868"
+        }
+    ],
+    "log_id": "6758150ddfc57862"
+}

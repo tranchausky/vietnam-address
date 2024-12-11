@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 895717,
+            "name": "Thôn Đồng Tràm Tây",
+            "pid": 20457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đồng Tràm Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7915566",
+            "lng": "108.30300149999994"
+        },
+        {
+            "id": 642061,
+            "name": "Thôn Mông Nghệ",
+            "pid": 20457,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mông Nghệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.797082949621162",
+            "lng": "108.31320501070583"
+        }
+    ],
+    "log_id": "675817e1b8a4f721"
+}

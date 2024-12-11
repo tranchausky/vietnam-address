@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995892,
+            "name": "Thôn Đông",
+            "pid": 995887,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3789428",
+            "lng": "109.1229699"
+        },
+        {
+            "id": 995891,
+            "name": "Thôn Tây",
+            "pid": 995887,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3712671",
+            "lng": "109.1162539"
+        }
+    ],
+    "log_id": "675909a4a645194"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102569,
+            "name": "Đông Đình",
+            "pid": 4942,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6564618",
+            "lng": "105.8554513"
+        },
+        {
+            "id": 102554,
+            "name": "Giang Triều",
+            "pid": 4942,
+            "type": 16,
+            "region": null,
+            "alias": "Giang Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6541095",
+            "lng": "105.8534466"
+        },
+        {
+            "id": 102563,
+            "name": "Kim Giang",
+            "pid": 4942,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6491881",
+            "lng": "105.8635253"
+        },
+        {
+            "id": 53650,
+            "name": "Thpt Đại Cường",
+            "pid": 4942,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Đại Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55806,
+            "name": "Ubnd Xã Đại Cường",
+            "pid": 4942,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đại Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd3d0b4137"
+}

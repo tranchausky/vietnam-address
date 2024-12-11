@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 663043,
+            "name": "Ấp Hòa Chánh",
+            "pid": 7428,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.265621",
+            "lng": "106.313045"
+        },
+        {
+            "id": 663037,
+            "name": "Ấp Hòa Trung",
+            "pid": 7428,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.265621",
+            "lng": "106.313045"
+        }
+    ],
+    "log_id": "6758160de5478132"
+}

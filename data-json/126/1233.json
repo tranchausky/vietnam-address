@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 861601,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.754695",
+            "lng": "106.643272"
+        },
+        {
+            "id": 675946,
+            "name": "Đường Hàn Hải Nguyên",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Hải Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.758169",
+            "lng": "106.6470808"
+        },
+        {
+            "id": 673666,
+            "name": "Đường Hồng Bàng",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7538595",
+            "lng": "106.6470719"
+        },
+        {
+            "id": 674503,
+            "name": "Đường Lò Siêu",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lò Siêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7557364",
+            "lng": "106.6484901"
+        },
+        {
+            "id": 683035,
+            "name": "Đường Nguyễn Chí Thanh",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7563949",
+            "lng": "106.6493334"
+        },
+        {
+            "id": 672517,
+            "name": "Đường Nguyễn Thị Nhỏ",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7561665",
+            "lng": "106.6510227"
+        },
+        {
+            "id": 682237,
+            "name": "Đường Phan Xích Long",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Xích Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7551737",
+            "lng": "106.6463023"
+        },
+        {
+            "id": 681595,
+            "name": "Đường Tân Thành",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7553943",
+            "lng": "106.6498046"
+        },
+        {
+            "id": 682546,
+            "name": "Đường Thái Phiên",
+            "pid": 1233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Phiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7547249",
+            "lng": "106.6449437"
+        }
+    ],
+    "log_id": "6758129ae599f119"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109141,
+            "name": "Ấp Cái Đuốc Lớn",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cái Đuốc Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.887845",
+            "lng": "105.359893"
+        },
+        {
+            "id": 109149,
+            "name": "Ấp Cái Đuốc Nhỏ",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp cái đuốc nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.884321",
+            "lng": "105.371377"
+        },
+        {
+            "id": 109101,
+            "name": "Ấp Ngọc An",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngọc An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.884075",
+            "lng": "105.315432"
+        },
+        {
+            "id": 109121,
+            "name": "Ấp Ngọc Bình",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngọc Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.886222",
+            "lng": "105.3587666"
+        },
+        {
+            "id": 109111,
+            "name": "Ấp Ngọc Tân",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngọc Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.871750",
+            "lng": "105.380386"
+        },
+        {
+            "id": 109085,
+            "name": "Ấp Ngọc Thạnh",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngọc Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.907007",
+            "lng": "105.325407"
+        },
+        {
+            "id": 109127,
+            "name": "Ấp Võ Thành Nguyên",
+            "pid": 10081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Võ Thành Nguyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.901366",
+            "lng": "105.320165"
+        },
+        {
+            "id": 1003965,
+            "name": "Ubnd Xã Ngọc Chúc",
+            "pid": 10081,
+            "type": 10,
+            "region": null,
+            "alias": "UBND xã Ngọc Chúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.886293489198138",
+            "lng": "105.35755598243355"
+        }
+    ],
+    "log_id": "6758173644b4e170"
+}

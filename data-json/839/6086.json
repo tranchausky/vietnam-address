@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 814894,
+            "name": "Ấp Thạnh Hiệp",
+            "pid": 6086,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9778896",
+            "lng": "106.78539219999992"
+        },
+        {
+            "id": 814885,
+            "name": "Nhựt Thạnh",
+            "pid": 6086,
+            "type": 17,
+            "region": null,
+            "alias": "Nhựt Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9778896",
+            "lng": "106.78539219999992"
+        },
+        {
+            "id": 814897,
+            "name": "Tân Hội",
+            "pid": 6086,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9778896",
+            "lng": "106.78539219999992"
+        },
+        {
+            "id": 814888,
+            "name": "Thạnh Hòa",
+            "pid": 6086,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9778896",
+            "lng": "106.78539219999992"
+        },
+        {
+            "id": 814891,
+            "name": "Uỷ Ban Thạnh Hội",
+            "pid": 6086,
+            "type": 4,
+            "region": null,
+            "alias": "Uỷ Ban Thạnh Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9778896",
+            "lng": "106.78539219999992"
+        }
+    ],
+    "log_id": "67581621994c8415"
+}

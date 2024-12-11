@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1016414,
+            "name": "Chùa Đồng Giới",
+            "pid": 25457,
+            "type": 10,
+            "region": null,
+            "alias": "Chùa Đồng Giới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.863683367857465",
+            "lng": "106.6083186508082"
+        },
+        {
+            "id": 103970,
+            "name": "Tổ 1",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8685854",
+            "lng": "106.6116316"
+        },
+        {
+            "id": 104018,
+            "name": "Tổ 2",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8673112",
+            "lng": "106.6126446"
+        },
+        {
+            "id": 103997,
+            "name": "Tổ 3",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9905337",
+            "lng": "105.8000699"
+        },
+        {
+            "id": 103982,
+            "name": "Tổ 4",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8573864",
+            "lng": "106.6153154"
+        },
+        {
+            "id": 104054,
+            "name": "Tổ 5",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.193835",
+            "lng": "105.7700194"
+        },
+        {
+            "id": 104045,
+            "name": "Tổ 6",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9818349",
+            "lng": "105.7843801"
+        },
+        {
+            "id": 104006,
+            "name": "Tổ 7",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.979449",
+            "lng": "108.8956267"
+        },
+        {
+            "id": 104069,
+            "name": "Tổ 8",
+            "pid": 25457,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533271",
+            "lng": "105.8513195"
+        }
+    ],
+    "log_id": "67581365a613e720"
+}

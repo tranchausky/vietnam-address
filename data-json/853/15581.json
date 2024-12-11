@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111643,
+            "name": "Bản Dao",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Dao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.35274",
+            "lng": "103.25169"
+        },
+        {
+            "id": 111675,
+            "name": "Bản Hoàng Hồ",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hoàng Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.36066",
+            "lng": "103.2531"
+        },
+        {
+            "id": 110801,
+            "name": "Khu 1",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,35361",
+            "lng": "103,24952"
+        },
+        {
+            "id": 111007,
+            "name": "Khu 2",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,35811",
+            "lng": "103,25092"
+        },
+        {
+            "id": 111317,
+            "name": "Khu 3",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22,35941",
+            "lng": "103,25104"
+        },
+        {
+            "id": 111339,
+            "name": "Khu 4",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.35854",
+            "lng": "103.24793"
+        },
+        {
+            "id": 111367,
+            "name": "Khu 5",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.36045",
+            "lng": "103.24483"
+        },
+        {
+            "id": 111499,
+            "name": "Khu 6",
+            "pid": 15581,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.35982",
+            "lng": "103.24955"
+        }
+    ],
+    "log_id": "6758175e7362c741"
+}

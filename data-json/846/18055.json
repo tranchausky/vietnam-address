@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 619257,
+            "name": "Ấp Bưng Sấm",
+            "pid": 18055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Sấm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.741870",
+            "lng": "105.619128"
+        },
+        {
+            "id": 619248,
+            "name": "Ấp Cà Dâm",
+            "pid": 18055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cà Dâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.741870",
+            "lng": "105.619128"
+        },
+        {
+            "id": 619251,
+            "name": "Ấp Tân Hưng",
+            "pid": 18055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.741870",
+            "lng": "105.619128"
+        },
+        {
+            "id": 619254,
+            "name": "Ấp Tân Lợi",
+            "pid": 18055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.741870",
+            "lng": "105.619128"
+        }
+    ],
+    "log_id": "675816c07a66783"
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113677,
+            "name": "Đường Trung Tâm Huấn Luyện Xã Vân Tảo",
+            "pid": 4922,
+            "type": 21,
+            "region": null,
+            "alias": "Đường trung tâm huấn luyện Xã Vân Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8825106",
+            "lng": "105.8977962"
+        },
+        {
+            "id": 113661,
+            "name": "Khu Tập Thể Bưu Điện 2",
+            "pid": 4922,
+            "type": 21,
+            "region": null,
+            "alias": "khu tập thể bưu điện 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8727188",
+            "lng": "105.896559"
+        },
+        {
+            "id": 113737,
+            "name": "Thôn Đông Thai",
+            "pid": 4922,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông Thai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8638635",
+            "lng": "105.8903422"
+        },
+        {
+            "id": 113689,
+            "name": "Thôn Dương Tảo",
+            "pid": 4922,
+            "type": 16,
+            "region": null,
+            "alias": "thôn dương tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8765483",
+            "lng": "105.8943565"
+        },
+        {
+            "id": 113725,
+            "name": "Thôn Nỏ Bạn",
+            "pid": 4922,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nỏ Bạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8721712",
+            "lng": "105.8973912"
+        },
+        {
+            "id": 113683,
+            "name": "Thôn Vân Hòa",
+            "pid": 4922,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vân hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.867015",
+            "lng": "105.894182"
+        },
+        {
+            "id": 113697,
+            "name": "Thôn Xâm Động",
+            "pid": 4922,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xâm Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.883553",
+            "lng": "105.8892176"
+        },
+        {
+            "id": 113713,
+            "name": "Thôn Xâm Hồ",
+            "pid": 4922,
+            "type": 4,
+            "region": null,
+            "alias": "thôn Xâm Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.877303",
+            "lng": "105.8886229"
+        },
+        {
+            "id": 53694,
+            "name": "Thpt Vân Tảo",
+            "pid": 4922,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Vân Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55614,
+            "name": "Ubnd Xã Vân Tảo",
+            "pid": 4922,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Vân Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc9f126862"
+}

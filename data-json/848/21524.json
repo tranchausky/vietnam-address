@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 85196,
+            "name": "Phú Lợi",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1853942",
+            "lng": "106.2735447"
+        },
+        {
+            "id": 428817,
+            "name": "Thôn Phú Hải",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428815,
+            "name": "Thôn Phú Minh",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428823,
+            "name": "Thôn Phú Sơn",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428827,
+            "name": "Thôn Phú Tân",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428825,
+            "name": "Thôn Phú Thượng",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428813,
+            "name": "Thôn Phú Trung",
+            "pid": 21524,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 85376,
+            "name": "Xóm Phú Long",
+            "pid": 21524,
+            "type": 5,
+            "region": null,
+            "alias": "xóm Phú Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2042851",
+            "lng": "106.2463305"
+        }
+    ],
+    "log_id": "675816e9aac7862"
+}

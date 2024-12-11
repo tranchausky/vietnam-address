@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443865,
+            "name": "Thôn Chánh Nam",
+            "pid": 17571,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chánh Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4187963",
+            "lng": "109.17016660000002"
+        },
+        {
+            "id": 443863,
+            "name": "Thôn Nhiêu Hậu",
+            "pid": 17571,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhiêu Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4187963",
+            "lng": "109.17016660000002"
+        },
+        {
+            "id": 443867,
+            "name": "Thôn Phương Lưu",
+            "pid": 17571,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Lưu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4187963",
+            "lng": "109.17016660000002"
+        },
+        {
+            "id": 833935,
+            "name": "Trạm Y Tế Xã Xuân Thọ 1",
+            "pid": 17571,
+            "type": 21,
+            "region": null,
+            "alias": "Trạm y tế xã Xuân Thọ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4187963",
+            "lng": "109.17016660000002"
+        },
+        {
+            "id": 833932,
+            "name": "Ubnd Xã Xuân Thọ 1",
+            "pid": 17571,
+            "type": 21,
+            "region": null,
+            "alias": "UBND xã Xuân Thọ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4187963",
+            "lng": "109.17016660000002"
+        }
+    ],
+    "log_id": "67590b80938f889"
+}

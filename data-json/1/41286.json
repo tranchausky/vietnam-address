@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829057,
+            "name": "Đường Chả Cá",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chả Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040197869016193",
+            "lng": "105.84742377625236"
+        },
+        {
+            "id": 829486,
+            "name": "Đường Hàng Cân",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Cân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.034744913669275, ",
+            "lng": "105.84949277120889"
+        },
+        {
+            "id": 829498,
+            "name": "Đường Hàng Đào",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Đào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0347660610799, ",
+            "lng": "105.85039276039868"
+        },
+        {
+            "id": 877120,
+            "name": "Đường Hàng Đường",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.036081604915243, ",
+            "lng": "105.84901115634959"
+        },
+        {
+            "id": 829519,
+            "name": "Đường Hàng Ngang",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Ngang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0252277",
+            "lng": "105.84260710000001"
+        },
+        {
+            "id": 877123,
+            "name": "Đường Lãn Ông",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lãn Ông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,034501",
+            "lng": "105,85047"
+        },
+        {
+            "id": 877126,
+            "name": "Đường Lương Văn Can",
+            "pid": 41286,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Văn Can",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,034501",
+            "lng": "105,85047"
+        },
+        {
+            "id": 23743,
+            "name": "Hàng Cá",
+            "pid": 41286,
+            "type": 2,
+            "region": null,
+            "alias": "Hàng Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0360954",
+            "lng": "105.84895559999995"
+        },
+        {
+            "id": 327,
+            "name": "Hàng Cân",
+            "pid": 41286,
+            "type": 2,
+            "region": null,
+            "alias": "Hàng Cân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0346407",
+            "lng": "105.84970670000007"
+        },
+        {
+            "id": 322,
+            "name": "Hàng Đào",
+            "pid": 41286,
+            "type": 2,
+            "region": null,
+            "alias": "Hàng Đào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0346712",
+            "lng": "105.84994649999999"
+        },
+        {
+            "id": 381,
+            "name": "Hàng Đường",
+            "pid": 41286,
+            "type": 2,
+            "region": null,
+            "alias": "Hàng Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0358552",
+            "lng": "105.84985570000003"
+        },
+        {
+            "id": 371,
+            "name": "Hàng Ngang",
+            "pid": 41286,
+            "type": 2,
+            "region": null,
+            "alias": "Hàng Ngang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0348011",
+            "lng": "105.85030890000007"
+        },
+        {
+            "id": 390,
+            "name": "Lãn Ông",
+            "pid": 41286,
+            "type": 2,
+            "region": null,
+            "alias": "Lãn Ông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0353069",
+            "lng": "105.84883680000007"
+        }
+    ],
+    "log_id": "675811bd3d6bc601"
+}

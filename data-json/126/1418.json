@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94850,
+            "name": "Chẵn 36A-98 Phan Đăng Lưu",
+            "pid": 1418,
+            "type": 10,
+            "region": null,
+            "alias": "Chẵn 36A-98 Phan Đăng Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.80348",
+            "lng": "106.684476"
+        },
+        {
+            "id": 672640,
+            "name": "Đường Hoàng Hoa Thám",
+            "pid": 1418,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Hoa Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8090541",
+            "lng": "106.6856818"
+        },
+        {
+            "id": 671569,
+            "name": "Đường Lam Sơn",
+            "pid": 1418,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8050226",
+            "lng": "106.6883007"
+        },
+        {
+            "id": 678331,
+            "name": "Đường Nguyễn Thượng Hiền",
+            "pid": 1418,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thượng Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8083167",
+            "lng": "106.6841841"
+        },
+        {
+            "id": 680344,
+            "name": "Đường Phan Đăng Lưu",
+            "pid": 1418,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đăng Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8039323",
+            "lng": "106.6858807"
+        },
+        {
+            "id": 682201,
+            "name": "Đường Thích Quảng Đức",
+            "pid": 1418,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thích Quảng Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8053652",
+            "lng": "106.6822599"
+        }
+    ],
+    "log_id": "6758129ab8b0b75"
+}

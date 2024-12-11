@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 421009,
+            "name": "An Ninh",
+            "pid": 7152,
+            "type": 18,
+            "region": null,
+            "alias": "An Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 420999,
+            "name": "Bình Minh",
+            "pid": 7152,
+            "type": 18,
+            "region": null,
+            "alias": "Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 420997,
+            "name": "Hồng Thái",
+            "pid": 7152,
+            "type": 18,
+            "region": null,
+            "alias": "Hồng Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 862990,
+            "name": "Khu Phố Đầm Chợ",
+            "pid": 7152,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Đầm Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000004"
+        },
+        {
+            "id": 421001,
+            "name": "Phạm Cảnh Lương",
+            "pid": 7152,
+            "type": 18,
+            "region": null,
+            "alias": "Phạm Cảnh Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 651556,
+            "name": "Phố Đồng Tâm",
+            "pid": 7152,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9610356",
+            "lng": "106.5068122"
+        },
+        {
+            "id": 421007,
+            "name": "Phố Ga",
+            "pid": 7152,
+            "type": 18,
+            "region": null,
+            "alias": "Phố Ga",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000006"
+        },
+        {
+            "id": 651571,
+            "name": "Phố Hồng Hà",
+            "pid": 7152,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Hồng Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9667418",
+            "lng": "106.5130191"
+        },
+        {
+            "id": 421003,
+            "name": "Thống Nhất",
+            "pid": 7152,
+            "type": 18,
+            "region": null,
+            "alias": "Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9633083",
+            "lng": "106.51421690000006"
+        }
+    ],
+    "log_id": "675813f20038195"
+}

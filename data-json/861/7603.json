@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111573,
+            "name": "Ấp Mới",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.658210",
+            "lng": "105.737655 "
+        },
+        {
+            "id": 111687,
+            "name": "Ấp Phương An 1",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương An 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.648030",
+            "lng": "105.686882"
+        },
+        {
+            "id": 111701,
+            "name": "Ấp Phương An 2",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương An 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.645831",
+            "lng": "105.684158"
+        },
+        {
+            "id": 111719,
+            "name": "Ấp Phương An 3",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương An 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.643088",
+            "lng": "105.682777"
+        },
+        {
+            "id": 111555,
+            "name": "Ấp Phương Bình 1",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Bình 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.677416",
+            "lng": "105.734055 "
+        },
+        {
+            "id": 111563,
+            "name": "Ấp Phương Bình 2",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Bình 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.671673",
+            "lng": "105.724225 "
+        },
+        {
+            "id": 111033,
+            "name": "Ấp Phương Hòa 1",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.692194",
+            "lng": "105.748703"
+        },
+        {
+            "id": 111049,
+            "name": "Ấp Phương Hòa 2",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.689901",
+            "lng": "105.743843"
+        },
+        {
+            "id": 111071,
+            "name": "Ấp Phương Hòa 3",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Hòa 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.672653",
+            "lng": "105.767707"
+        },
+        {
+            "id": 111591,
+            "name": "Ấp Phương Thạnh 1",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.669467",
+            "lng": "105.712425"
+        },
+        {
+            "id": 111609,
+            "name": "Ấp Phương Thạnh 2",
+            "pid": 7603,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.662637",
+            "lng": "105.702140"
+        }
+    ],
+    "log_id": "675909c17b1d1610"
+}

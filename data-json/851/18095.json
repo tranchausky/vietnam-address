@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116367,
+            "name": "Ấp Hoả Ngọn",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hoả Ngọn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.709823",
+            "lng": "105.135922"
+        },
+        {
+            "id": 116409,
+            "name": "Ấp Hoả Ngọn A",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hoả Ngọn A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.731318",
+            "lng": "105.120053"
+        },
+        {
+            "id": 116427,
+            "name": "Ấp Hoả Vàm",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hoả Vàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.755879",
+            "lng": "105.147016"
+        },
+        {
+            "id": 116459,
+            "name": "Ấp Hoả Vàm A",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hoả Vàm A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.748659",
+            "lng": "105.133929"
+        },
+        {
+            "id": 116463,
+            "name": "Ấp Lê Minh Bằng",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lê Minh Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.718681",
+            "lng": "105.108348"
+        },
+        {
+            "id": 116413,
+            "name": "Ấp Xẻo Lùng",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Lùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.739265",
+            "lng": "105.149500"
+        },
+        {
+            "id": 116423,
+            "name": "Ấp Xẻo Lùng A",
+            "pid": 18095,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Lùng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.729880",
+            "lng": "105.137629"
+        }
+    ],
+    "log_id": "67581736398c363"
+}

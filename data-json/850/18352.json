@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800245,
+            "name": "Gò Cha",
+            "pid": 18352,
+            "type": 18,
+            "region": null,
+            "alias": "Gò Cha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6708819",
+            "lng": "105.58334519999994"
+        },
+        {
+            "id": 607329,
+            "name": "Xóm Bái",
+            "pid": 18352,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6708819",
+            "lng": "105.58334519999994"
+        },
+        {
+            "id": 607326,
+            "name": "Xóm Lột",
+            "pid": 18352,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lột",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6708819",
+            "lng": "105.58334519999994"
+        },
+        {
+            "id": 607320,
+            "name": "Xóm Mõ",
+            "pid": 18352,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mõ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6708819",
+            "lng": "105.58334519999994"
+        },
+        {
+            "id": 607323,
+            "name": "Xóm Muôn",
+            "pid": 18352,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Muôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6708819",
+            "lng": "105.58334519999994"
+        }
+    ],
+    "log_id": "67581721310d3258"
+}

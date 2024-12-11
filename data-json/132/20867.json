@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 997637,
+            "name": "Ao Sen Lũngg",
+            "pid": 20867,
+            "type": 20,
+            "region": null,
+            "alias": "Ao Sen Lũngg",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.02900",
+            "lng": "104.77712"
+        },
+        {
+            "id": 418241,
+            "name": "Thôn Cáp",
+            "pid": 20867,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0561022",
+            "lng": "104.75792780000006"
+        },
+        {
+            "id": 418239,
+            "name": "Thôn Hạ Giang",
+            "pid": 20867,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0561022",
+            "lng": "104.75792780000006"
+        },
+        {
+            "id": 418233,
+            "name": "Thôn São",
+            "pid": 20867,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn São",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0561022",
+            "lng": "104.75792780000006"
+        },
+        {
+            "id": 418237,
+            "name": "Thôn Úc",
+            "pid": 20867,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Úc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0561022",
+            "lng": "104.75792780000006"
+        },
+        {
+            "id": 418235,
+            "name": "Thô Xiêng",
+            "pid": 20867,
+            "type": 16,
+            "region": null,
+            "alias": "Thô Xiêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0561022",
+            "lng": "104.75792780000006"
+        }
+    ],
+    "log_id": "6758131f63a81203"
+}

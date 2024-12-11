@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981182,
+            "name": "Đổng Quốc Bình",
+            "pid": 26101,
+            "type": 21,
+            "region": null,
+            "alias": "Đổng Quốc Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 923962,
+            "name": "Ngõ 4 Đổng Quốc Bình",
+            "pid": 26101,
+            "type": 8,
+            "region": null,
+            "alias": "ngõ 4 đổng Quốc Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.861704100000004",
+            "lng": "106.69378449999999"
+        },
+        {
+            "id": 981183,
+            "name": "Nguyễn Bình",
+            "pid": 26101,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581365ddc80573"
+}

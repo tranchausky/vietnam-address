@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 414763,
+            "name": "Thôn Phố Cũ",
+            "pid": 21901,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phố Cũ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6994535",
+            "lng": "104.28512330000001"
+        },
+        {
+            "id": 414761,
+            "name": "Thôn Phố Thầu",
+            "pid": 21901,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phố Thầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6994535",
+            "lng": "104.28512330000001"
+        },
+        {
+            "id": 414755,
+            "name": "Tổ Dân Phố Gia Khâu 1",
+            "pid": 21901,
+            "type": 16,
+            "region": null,
+            "alias": "Tổ dân phố Gia Khâu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6994535",
+            "lng": "104.28512330000001"
+        },
+        {
+            "id": 414759,
+            "name": "Tổ Dân Phố Na Cáng",
+            "pid": 21901,
+            "type": 16,
+            "region": null,
+            "alias": "Tổ dân phố Na Cáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6994535",
+            "lng": "104.28512330000001"
+        },
+        {
+            "id": 414765,
+            "name": "Tổ Dân Phố Nàng Cảng",
+            "pid": 21901,
+            "type": 16,
+            "region": null,
+            "alias": "Tổ dân phố Nàng Cảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6994535",
+            "lng": "104.28512330000001"
+        },
+        {
+            "id": 414753,
+            "name": "Tổ Dân Phố Phố Mới",
+            "pid": 21901,
+            "type": 16,
+            "region": null,
+            "alias": "Tổ dân phố Phố Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6994535",
+            "lng": "104.28512330000001"
+        }
+    ],
+    "log_id": "67581445015db827"
+}

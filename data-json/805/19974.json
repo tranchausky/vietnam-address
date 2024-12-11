@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515597,
+            "name": "Hán Xuyên",
+            "pid": 19974,
+            "type": 16,
+            "region": null,
+            "alias": "Hán Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0561256",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 515599,
+            "name": "Pháp Chế",
+            "pid": 19974,
+            "type": 16,
+            "region": null,
+            "alias": "Pháp Chế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0561256",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 515601,
+            "name": "Phượng Hoàng",
+            "pid": 19974,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng Hoàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0561256",
+            "lng": "106.48181669999997"
+        },
+        {
+            "id": 515603,
+            "name": "Vũ Xá",
+            "pid": 19974,
+            "type": 16,
+            "region": null,
+            "alias": "Vũ Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0561256",
+            "lng": "106.48181669999997"
+        }
+    ],
+    "log_id": "675813f1816c8337"
+}

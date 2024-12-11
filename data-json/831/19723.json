@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118237,
+            "name": "Bình Lộc 1",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Lộc 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.766512",
+            "lng": " 109.222628"
+        },
+        {
+            "id": 118241,
+            "name": "Bình Lộc 2",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Lộc 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.744573",
+            "lng": "109.225107"
+        },
+        {
+            "id": 118235,
+            "name": "Bình Trung 2",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Trung 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.768688",
+            "lng": "109.220675"
+        },
+        {
+            "id": 118229,
+            "name": "Thôn Bình Trung 1",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình Trung 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.769368",
+            "lng": "109.219119"
+        },
+        {
+            "id": 118217,
+            "name": "Trung Dõng 1",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Trung dõng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.722735",
+            "lng": "109.225335"
+        },
+        {
+            "id": 118219,
+            "name": "Trung Dõng 2",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Trung dõng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.732156",
+            "lng": " 109.227799"
+        },
+        {
+            "id": 118225,
+            "name": "Trung Dõng 3",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Trung dõng 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.802515",
+            "lng": "109.184787"
+        },
+        {
+            "id": 639925,
+            "name": "Tứ Chánh",
+            "pid": 19723,
+            "type": 16,
+            "region": null,
+            "alias": "Tứ Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.739745",
+            "lng": " 109.232181"
+        }
+    ],
+    "log_id": "67581585a43e1584"
+}

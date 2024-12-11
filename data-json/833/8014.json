@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109017,
+            "name": "Ấp Phú Bình",
+            "pid": 8014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.848308987823355",
+            "lng": "105.15530365954265"
+        },
+        {
+            "id": 109035,
+            "name": "Ấp Phú Quý",
+            "pid": 8014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.913689",
+            "lng": "105.147305"
+        },
+        {
+            "id": 109003,
+            "name": "Ấp Phú Yên",
+            "pid": 8014,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.881652",
+            "lng": "105.151150"
+        },
+        {
+            "id": 986023,
+            "name": "Tạp Hóa Hồ Kế",
+            "pid": 8014,
+            "type": 10,
+            "region": null,
+            "alias": "Tạp Hóa Hồ Kế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.830229241636527, ",
+            "lng": "105.1566995825836"
+        },
+        {
+            "id": 986018,
+            "name": "Tiệm Tạp Hóa Tánh Linh",
+            "pid": 8014,
+            "type": 10,
+            "region": null,
+            "alias": "Tiệm tạp hóa Tánh Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.870446874753862",
+            "lng": "105.15410285361841"
+        },
+        {
+            "id": 985980,
+            "name": "Trường Tiểu Học Phú Lộc",
+            "pid": 8014,
+            "type": 10,
+            "region": null,
+            "alias": "trường tiểu học Phú Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.90018380975723",
+            "lng": "105.15172515387869"
+        }
+    ],
+    "log_id": "6758159dc7fee684"
+}

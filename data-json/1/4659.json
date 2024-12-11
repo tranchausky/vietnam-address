@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 664318,
+            "name": "Đội 12B Thuận Tốn",
+            "pid": 4659,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 12b Thuận Tốn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.982719",
+            "lng": "105.921477"
+        },
+        {
+            "id": 988311,
+            "name": "Khu Bt Sao Biển Vinhomes Oceanpark Gia Lâm",
+            "pid": 4659,
+            "type": 10,
+            "region": null,
+            "alias": "Khu BT Sao Biển Vinhomes Oceanpark Gia Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.996974368783306, ",
+            "lng": "105.95446164461089"
+        },
+        {
+            "id": 21074,
+            "name": "Thôn Đào Xuyên",
+            "pid": 4659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đào Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9903667",
+            "lng": "105.93106690000002"
+        },
+        {
+            "id": 90068,
+            "name": "Thôn Khoan Tế",
+            "pid": 4659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khoan Tế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.980323",
+            "lng": "105.9299022"
+        },
+        {
+            "id": 990169,
+            "name": "Thôn Lê Xá",
+            "pid": 4659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.987206714174533, ",
+            "lng": "105.93608938908706"
+        },
+        {
+            "id": 990096,
+            "name": "Thôn Ngọc Động",
+            "pid": 4659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.98045060458461, ",
+            "lng": "105.93933762135988"
+        },
+        {
+            "id": 90080,
+            "name": "Thôn Thuận Tốn",
+            "pid": 4659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Tốn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.986725",
+            "lng": "105.927547"
+        },
+        {
+            "id": 90086,
+            "name": "Xóm Nội Đa Tốn",
+            "pid": 4659,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nội Đa Tốn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.986471",
+            "lng": "105.9329944"
+        }
+    ],
+    "log_id": "675811bb99f64267"
+}

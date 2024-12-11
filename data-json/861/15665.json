@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434229,
+            "name": "Ấp Trà Quýt",
+            "pid": 15665,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Quýt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.698403",
+            "lng": "105.896238"
+        },
+        {
+            "id": 434231,
+            "name": "Ấp Trà Quýt A",
+            "pid": 15665,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Quýt A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.703623",
+            "lng": "105.904880"
+        },
+        {
+            "id": 434233,
+            "name": "Ấp Xây Cáp",
+            "pid": 15665,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xây Cáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.712551",
+            "lng": "105.913588"
+        },
+        {
+            "id": 434235,
+            "name": "Ấp Xây Đá",
+            "pid": 15665,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xây Đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.717737",
+            "lng": "105.900485"
+        }
+    ],
+    "log_id": "675909c1942e2607"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877717,
+            "name": "Đường Lội",
+            "pid": 20424,
+            "type": 16,
+            "region": null,
+            "alias": "đường Lội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3267114",
+            "lng": "106.94766600000004"
+        },
+        {
+            "id": 903913,
+            "name": "Thôn Mới",
+            "pid": 20424,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3267114",
+            "lng": "106.94766600000004"
+        },
+        {
+            "id": 877720,
+            "name": "Thôn Rõng",
+            "pid": 20424,
+            "type": 16,
+            "region": null,
+            "alias": "thôn rõng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3267114",
+            "lng": "106.94766600000004"
+        },
+        {
+            "id": 877723,
+            "name": "Thôn Thác",
+            "pid": 20424,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3267114",
+            "lng": "106.94766600000004"
+        }
+    ],
+    "log_id": "675813d93579d657"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 626421,
+            "name": "Thôn Đắk Wớt",
+            "pid": 15937,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đắk Wớt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.4851801",
+            "lng": "107.84653939999998"
+        },
+        {
+            "id": 626424,
+            "name": "Thôn Đắk Yo",
+            "pid": 15937,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đắk Yo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4851801",
+            "lng": "107.84653939999998"
+        },
+        {
+            "id": 626427,
+            "name": "Thôn Kà Bầy",
+            "pid": 15937,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kà Bầy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4851801",
+            "lng": "107.84653939999998"
+        },
+        {
+            "id": 626430,
+            "name": "Thôn Ktor",
+            "pid": 15937,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ktor",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4851801",
+            "lng": "107.84653939999998"
+        },
+        {
+            "id": 626433,
+            "name": "Thôn Tân Sang",
+            "pid": 15937,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Sang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4851801",
+            "lng": "107.84653939999998"
+        }
+    ],
+    "log_id": "6758174ce2cd6190"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 73667,
+            "name": "Khu Công Nghiệp Cầu Gáo , Xã Đan Phượng",
+            "pid": 4616,
+            "type": 5,
+            "region": null,
+            "alias": "Khu công nghiệp cầu gáo , xã Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0935916",
+            "lng": "105.654849"
+        },
+        {
+            "id": 658210,
+            "name": "Nhà Văn Hóa Đông Khê",
+            "pid": 4616,
+            "type": 16,
+            "region": null,
+            "alias": "Nhà Văn hóa Đông Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0959037",
+            "lng": "105.6661806"
+        },
+        {
+            "id": 658219,
+            "name": "Thôn Đại Phùng",
+            "pid": 4616,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0918361",
+            "lng": "105.6581509"
+        },
+        {
+            "id": 658216,
+            "name": "Thôn Đoài Khê, Xã Đan Phượng, Huyện Đan Phượng",
+            "pid": 4616,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoài Khê, xã đan phượng, huyện đan phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0951055",
+            "lng": "105.6640726"
+        },
+        {
+            "id": 748477,
+            "name": "Thôn Đông Khê, Xã Đan Phượng",
+            "pid": 4616,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Khê, Xã đan Phượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54422,
+            "name": "Ubnd Xã Đan Phượng",
+            "pid": 4616,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 97517,
+            "name": "Xóm Văn Miếu, Xã Đan Phượng, Huyện Đan Phượng",
+            "pid": 4616,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Văn Miếu, Xã Đan Phượng, Huyện Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.084855",
+            "lng": "105.6690963"
+        }
+    ],
+    "log_id": "675811bb93994192"
+}

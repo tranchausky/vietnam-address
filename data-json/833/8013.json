@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110889,
+            "name": "Khóm Long An A",
+            "pid": 8013,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long An A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.787962992877443",
+            "lng": "105.2256876877237"
+        },
+        {
+            "id": 110919,
+            "name": "Khóm Long An B",
+            "pid": 8013,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long An B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.782483189084612",
+            "lng": "105.2255214653836"
+        },
+        {
+            "id": 110949,
+            "name": "Khóm Long Quới A",
+            "pid": 8013,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long Quới A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778863453378158",
+            "lng": "105.2133664584708"
+        },
+        {
+            "id": 111017,
+            "name": "Khóm Long Quới B",
+            "pid": 8013,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long Quới B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.774490458836294",
+            "lng": "105.21674360632392"
+        },
+        {
+            "id": 112757,
+            "name": "Khóm Long Quới C",
+            "pid": 8013,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Long Quới C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7650418117874",
+            "lng": "105.2118546958404"
+        },
+        {
+            "id": 985528,
+            "name": "Trường Tiểu Học Long Phú",
+            "pid": 8013,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Long Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.776786601889128",
+            "lng": "105.21673445478477"
+        }
+    ],
+    "log_id": "6758159dc8826186"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 121011,
+            "name": "Đồng Mẫu 2",
+            "pid": 16451,
+            "type": 21,
+            "region": null,
+            "alias": "Đồng Mẫu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.272194",
+            "lng": "109.110500"
+        },
+        {
+            "id": 818617,
+            "name": "Đường Ven",
+            "pid": 16451,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Ven",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2770826",
+            "lng": "109.12375380000003"
+        },
+        {
+            "id": 121013,
+            "name": "Hương Lộ 45",
+            "pid": 16451,
+            "type": 21,
+            "region": null,
+            "alias": "Hương lộ 45",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.272694",
+            "lng": "109.113056"
+        },
+        {
+            "id": 120999,
+            "name": "Thôn 1",
+            "pid": 16451,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.266639",
+            "lng": "109.114917"
+        },
+        {
+            "id": 121001,
+            "name": "Thôn 2",
+            "pid": 16451,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.272556",
+            "lng": "109.123444"
+        },
+        {
+            "id": 121005,
+            "name": "Thôn 3",
+            "pid": 16451,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.275861",
+            "lng": "109.119000"
+        },
+        {
+            "id": 121009,
+            "name": "Thôn 4",
+            "pid": 16451,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.275611",
+            "lng": "109.118472"
+        },
+        {
+            "id": 987368,
+            "name": "Thôn 4",
+            "pid": 16451,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.273083838751509615",
+            "lng": " 109.11411718484615"
+        }
+    ],
+    "log_id": "67581585b15d3928"
+}

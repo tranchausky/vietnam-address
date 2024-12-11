@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 533615,
+            "name": "Xóm Đông Hồng",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 533617,
+            "name": "Xóm Đông Mỹ",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 533623,
+            "name": "Xóm Đông Phú",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 533619,
+            "name": "Xóm Đông Quang",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 533625,
+            "name": "Xóm Đông Sơn",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 533621,
+            "name": "Xóm Đông Thành",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 665068,
+            "name": "Xóm Đông Thịnh",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 533627,
+            "name": "Xóm Đông Xuân",
+            "pid": 21421,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đông Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.2858082",
+            "lng": "105.4829681"
+        }
+    ],
+    "log_id": "67581208275f0225"
+}

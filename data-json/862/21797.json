@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435317,
+            "name": "Ấp Hòa Bình",
+            "pid": 21797,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0371455",
+            "lng": "106.3471149"
+        },
+        {
+            "id": 435321,
+            "name": "Ấp Hòa Đông A",
+            "pid": 21797,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Đông A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8033466",
+            "lng": "106.4948878"
+        },
+        {
+            "id": 435323,
+            "name": "Ấp Hòa Đông B",
+            "pid": 21797,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Đông B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.694912",
+            "lng": "105.9052259"
+        },
+        {
+            "id": 435319,
+            "name": "Ấp Hòa Lợi",
+            "pid": 21797,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0908499",
+            "lng": "106.6703963"
+        }
+    ],
+    "log_id": "675909dcf2ffb423"
+}

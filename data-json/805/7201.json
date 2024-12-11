@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638343,
+            "name": "Thôn Dậu Trì",
+            "pid": 7201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dậu Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7303015",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 638337,
+            "name": "Thôn Tam Tương",
+            "pid": 7201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Tương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7303015",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 638340,
+            "name": "Thôn Tiêu Tương",
+            "pid": 7201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiêu Tương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7303015",
+            "lng": "106.35520919999999"
+        }
+    ],
+    "log_id": "675813f1bae69216"
+}

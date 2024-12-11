@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 414621,
+            "name": "Khu Châm Khê",
+            "pid": 5913,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Châm Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1725674",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 414617,
+            "name": "Khu Đào Xá",
+            "pid": 5913,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Đào Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1725674",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 414615,
+            "name": "Khu Dương Ổ",
+            "pid": 5913,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Dương Ổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1725674",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 414619,
+            "name": "Khu Ngô Khê",
+            "pid": 5913,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Ngô Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1725674",
+            "lng": "106.03168979999998"
+        }
+    ],
+    "log_id": "675815f8b2be9448"
+}

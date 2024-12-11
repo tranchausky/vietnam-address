@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1129,
+            "name": "Đê Tô Hoàng",
+            "pid": 96,
+            "type": 2,
+            "region": null,
+            "alias": "Đê Tô Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0166732",
+            "lng": "105.85621119999996"
+        },
+        {
+            "id": 828934,
+            "name": "Đường Bạch Mai",
+            "pid": 96,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.99751116052383",
+            "lng": "105.8460527513919"
+        }
+    ],
+    "log_id": "675811bd22809734"
+}

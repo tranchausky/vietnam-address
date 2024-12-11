@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 744691,
+            "name": "Đồng Thân",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Thân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5958964",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 744688,
+            "name": "Đồng Xuân",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5958964",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 718900,
+            "name": "Tân Hiệp",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5638954",
+            "lng": "109.057889"
+        },
+        {
+            "id": 744682,
+            "name": "Tân Lâm",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5958964",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 718906,
+            "name": "Tân Tứ",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Tứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5793804",
+            "lng": "109.0523063"
+        },
+        {
+            "id": 718912,
+            "name": "Thôn 1",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "tHÔN 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5753536",
+            "lng": "108.9764797"
+        },
+        {
+            "id": 718915,
+            "name": "Thôn2",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5728868",
+            "lng": "109.0608045"
+        },
+        {
+            "id": 718921,
+            "name": "Thôn 3",
+            "pid": 15080,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.6397941",
+            "lng": "108.986421"
+        }
+    ],
+    "log_id": "67581585be77e190"
+}

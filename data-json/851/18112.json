@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116589,
+            "name": "Ấp Bình Phong",
+            "pid": 18112,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.537148",
+            "lng": "105.270269"
+        },
+        {
+            "id": 116569,
+            "name": "Ấp Bình Thành",
+            "pid": 18112,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.537679",
+            "lng": "105.269771"
+        },
+        {
+            "id": 116549,
+            "name": "Ấp Bời Lời A",
+            "pid": 18112,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bời Lời A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.599676",
+            "lng": "105.239605"
+        },
+        {
+            "id": 116559,
+            "name": "Ấp Hòa Thành",
+            "pid": 18112,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.575905",
+            "lng": "105.289428"
+        },
+        {
+            "id": 116585,
+            "name": "Ấp Tân Phong",
+            "pid": 18112,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.553289",
+            "lng": " 105.291350"
+        }
+    ],
+    "log_id": "675817363be84821"
+}

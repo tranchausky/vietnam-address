@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 466865,
+            "name": "Đường Phan Châu Trinh",
+            "pid": 15489,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Châu Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5478105",
+            "lng": "108.40815329999998"
+        },
+        {
+            "id": 466845,
+            "name": "Đường Triều Sơn",
+            "pid": 15489,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Triều Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5478105",
+            "lng": "108.40815329999998"
+        }
+    ],
+    "log_id": "675817e18c419855"
+}

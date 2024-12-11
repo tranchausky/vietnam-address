@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451803,
+            "name": "Khóm Tân Thuận An",
+            "pid": 11011,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Thuận An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7919558",
+            "lng": "106.79727"
+        },
+        {
+            "id": 451805,
+            "name": "Khóm Tân Vĩnh Thuận",
+            "pid": 11011,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Vĩnh Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.4870331",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 451801,
+            "name": "Khóm Tân Xuân",
+            "pid": 11011,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8719692",
+            "lng": "106.6042843"
+        },
+        {
+            "id": 451811,
+            "name": "Khóm Vĩnh Bình",
+            "pid": 11011,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4419675",
+            "lng": "105.1718214"
+        },
+        {
+            "id": 451807,
+            "name": "Khóm Vĩnh Hòa",
+            "pid": 11011,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2985301",
+            "lng": "109.2094382"
+        },
+        {
+            "id": 451809,
+            "name": "Khóm Vĩnh Phú",
+            "pid": 11011,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Vĩnh Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7906121",
+            "lng": "105.1083542"
+        }
+    ],
+    "log_id": "67590b59a744d915"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 759043,
+            "name": "Thôn Suối Cá",
+            "pid": 19697,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.34565",
+            "lng": "108.868782"
+        },
+        {
+            "id": 759031,
+            "name": "Thôn Suối Lách",
+            "pid": 19697,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Lách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.34565",
+            "lng": "108.868782"
+        }
+    ],
+    "log_id": "675815859e38b455"
+}

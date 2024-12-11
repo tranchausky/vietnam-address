@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 440543,
+            "name": "Ấp 1A",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        },
+        {
+            "id": 480033,
+            "name": "Ấp 1B",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        },
+        {
+            "id": 480035,
+            "name": "Ấp Nhơn Lộc",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        },
+        {
+            "id": 480037,
+            "name": "Ấp Nhơn Thuận 1A",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Thuận 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        },
+        {
+            "id": 480039,
+            "name": "Ấp Nhơn Xuân",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        },
+        {
+            "id": 480041,
+            "name": "Ấp Tân Lợi",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        },
+        {
+            "id": 480043,
+            "name": "Ấp Thị Tứ",
+            "pid": 6256,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Tứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9372776",
+            "lng": "105.62365850000003"
+        }
+    ],
+    "log_id": "675816fe4371d309"
+}

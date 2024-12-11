@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465495,
+            "name": "An Nhơn",
+            "pid": 16331,
+            "type": 16,
+            "region": null,
+            "alias": "An Nhơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7244838",
+            "lng": "107.3434916"
+        },
+        {
+            "id": 465499,
+            "name": "Diên Khánh",
+            "pid": 16331,
+            "type": 16,
+            "region": null,
+            "alias": "Diên Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7244838",
+            "lng": "107.3434916"
+        },
+        {
+            "id": 465497,
+            "name": "Đông Dương",
+            "pid": 16331,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7244838",
+            "lng": "107.3434916"
+        },
+        {
+            "id": 465501,
+            "name": "Làng Kim Giao",
+            "pid": 16331,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Kim Giao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7244838",
+            "lng": "107.3434916"
+        },
+        {
+            "id": 465493,
+            "name": "Làng Xuân Viên",
+            "pid": 16331,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Xuân Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7244838",
+            "lng": "107.3434916"
+        }
+    ],
+    "log_id": "675813bc5f8c996"
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 680896,
+            "name": "Đường Đoàn Văn Bơ",
+            "pid": 1282,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7600637",
+            "lng": "106.7092216"
+        },
+        {
+            "id": 674659,
+            "name": "Đường Tôn Đản",
+            "pid": 1282,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Đản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7586187",
+            "lng": "106.706714"
+        },
+        {
+            "id": 676396,
+            "name": "Đường Xóm Chiếu",
+            "pid": 1282,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xóm Chiếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7575895",
+            "lng": "106.7104021"
+        },
+        {
+            "id": 956959,
+            "name": "Hẻm 414 Đoàn Văn Bơ",
+            "pid": 1282,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 414 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7585454",
+            "lng": "106.7116246"
+        },
+        {
+            "id": 956958,
+            "name": "Hẻm 450 Đoàn Văn Bơ",
+            "pid": 1282,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 450 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7582521",
+            "lng": "106.7074752"
+        },
+        {
+            "id": 972386,
+            "name": "Hẻm 490 Đoàn Văn Bơ , Phường 14, Quận 04",
+            "pid": 1282,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 490 Đoàn Văn Bơ , Phường 14, Quận 04",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.759401405071591, 106.7102550192397",
+            "lng": "106.7102550192397"
+        },
+        {
+            "id": 926221,
+            "name": "Hẻm 500 Đoàn Văn Bơ",
+            "pid": 1282,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 500 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7573741",
+            "lng": "106.7078144"
+        },
+        {
+            "id": 926224,
+            "name": "Hẻm 538 Đoàn Văn Bơ",
+            "pid": 1282,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 538 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757443",
+            "lng": "106.7086536"
+        },
+        {
+            "id": 926227,
+            "name": "Hẻm 576 Đoàn Văn Bơ",
+            "pid": 1282,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 576 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7574014",
+            "lng": "106.7094638"
+        },
+        {
+            "id": 666685,
+            "name": "Lẻ 1-29 Tôn Đản",
+            "pid": 1282,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1-29 Tôn Đản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.761074",
+            "lng": "106.707678"
+        }
+    ],
+    "log_id": "6758129a9722e429"
+}

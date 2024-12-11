@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 90311,
+            "name": "Khu Phố 1",
+            "pid": 6115,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.776099",
+            "lng": "106.5780894"
+        },
+        {
+            "id": 90344,
+            "name": "Khu Phố 2",
+            "pid": 6115,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 90353,
+            "name": "Khu Phố 3",
+            "pid": 6115,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 90368,
+            "name": "Khu Phố 4",
+            "pid": 6115,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 90374,
+            "name": "Khu Phố 5",
+            "pid": 6115,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5335974",
+            "lng": "106.2110311"
+        },
+        {
+            "id": 90383,
+            "name": "Khu Phố 6",
+            "pid": 6115,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.01052",
+            "lng": "106.8857557"
+        }
+    ],
+    "log_id": "6758162182a5169"
+}

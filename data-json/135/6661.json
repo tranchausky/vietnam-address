@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 857998,
+            "name": "Đồng Dụ",
+            "pid": 6661,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Dụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8499379",
+            "lng": "106.60850030000006"
+        },
+        {
+            "id": 863146,
+            "name": "Nhất Trí",
+            "pid": 6661,
+            "type": 16,
+            "region": null,
+            "alias": "Nhất Trí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8499379",
+            "lng": "106.60850030000006"
+        }
+    ],
+    "log_id": "67581365a6a9f724"
+}

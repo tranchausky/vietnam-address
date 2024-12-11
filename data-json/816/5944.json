@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 957325,
+            "name": "71D Nguyễn Thiện Thuật",
+            "pid": 5944,
+            "type": 4,
+            "region": null,
+            "alias": "71d nguyễn thiện thuật",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6492988",
+            "lng": "106.0591256"
+        },
+        {
+            "id": 808576,
+            "name": "Bãi Sậy",
+            "pid": 5944,
+            "type": 10,
+            "region": null,
+            "alias": "Bãi Sậy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000004"
+        },
+        {
+            "id": 766261,
+            "name": "Bà Triệu",
+            "pid": 5944,
+            "type": 21,
+            "region": null,
+            "alias": "Bà Triệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000004"
+        },
+        {
+            "id": 800494,
+            "name": "Đào Nương",
+            "pid": 5944,
+            "type": 21,
+            "region": null,
+            "alias": "đào Nương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 800503,
+            "name": "Dương Quảng Hàm",
+            "pid": 5944,
+            "type": 21,
+            "region": null,
+            "alias": "Dương Quảng Hàm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 808594,
+            "name": "Nguyễn Thiện Thuật",
+            "pid": 5944,
+            "type": 21,
+            "region": null,
+            "alias": "nguyễn Thiện Thuật",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000004"
+        },
+        {
+            "id": 766252,
+            "name": "Phú Lộc",
+            "pid": 5944,
+            "type": 21,
+            "region": null,
+            "alias": "Phú Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000004"
+        }
+    ],
+    "log_id": "675814910cd74373"
+}

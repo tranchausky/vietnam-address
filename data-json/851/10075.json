@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108543,
+            "name": "Ấp Cây Trôm",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cây Trôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.881070",
+            "lng": "105.246009"
+        },
+        {
+            "id": 108002,
+            "name": "Ấp Giồng Đá",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Giồng Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.894319",
+            "lng": "105.252388"
+        },
+        {
+            "id": 108011,
+            "name": "Ấp Láng Sen",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Láng Sen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.886498",
+            "lng": "105.258799"
+        },
+        {
+            "id": 108527,
+            "name": "Ấp Láng Sơn",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Láng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.900137",
+            "lng": "105.260497"
+        },
+        {
+            "id": 108553,
+            "name": "Ấp Rạch Cũ",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Rạch Cũ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.920493",
+            "lng": "105.250682"
+        },
+        {
+            "id": 108549,
+            "name": "Ấp Tà Yểm",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tà Yểm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.916886",
+            "lng": "105.244383"
+        },
+        {
+            "id": 785533,
+            "name": "Trần Tác Chiến",
+            "pid": 10075,
+            "type": 17,
+            "region": null,
+            "alias": "Trần Tác Chiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8949566",
+            "lng": "105.25458879999996"
+        }
+    ],
+    "log_id": "6758173642fc1626"
+}

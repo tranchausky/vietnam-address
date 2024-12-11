@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 648016,
+            "name": "Đường Lê Lợi",
+            "pid": 6670,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 648052,
+            "name": "Đường Ngô Quyền",
+            "pid": 6670,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Ngô Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 648040,
+            "name": "Đường Nguyễn Chuyên Mỹ",
+            "pid": 6670,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chuyên Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 648073,
+            "name": "Đường Nguyễn Văn Trỗi",
+            "pid": 6670,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Trỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 648037,
+            "name": "Đường Trần Tất Văn",
+            "pid": 6670,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Tất Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 414391,
+            "name": "Khu Hoàng Xá",
+            "pid": 6670,
+            "type": 18,
+            "region": null,
+            "alias": "Khu Hoàng Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8223995",
+            "lng": "106.55104140000003"
+        },
+        {
+            "id": 414393,
+            "name": "Khu Quyết Thắng",
+            "pid": 6670,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8223995",
+            "lng": "106.55104140000003"
+        },
+        {
+            "id": 414395,
+            "name": "Khu Trần Tảo",
+            "pid": 6670,
+            "type": 20,
+            "region": null,
+            "alias": "Khu Trần Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8223995",
+            "lng": "106.55104140000003"
+        }
+    ],
+    "log_id": "67581365c8661412"
+}

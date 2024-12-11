@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962517,
+            "name": "Huỳnh Tấn Phát",
+            "pid": 11006,
+            "type": 21,
+            "region": null,
+            "alias": "Huỳnh Tấn Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0091316",
+            "lng": "105.0921294"
+        },
+        {
+            "id": 107450,
+            "name": "Khu Phố Phi Kinh",
+            "pid": 11006,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phi Kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.000824",
+            "lng": "105.106140"
+        },
+        {
+            "id": 107435,
+            "name": "Khu Phố Thông Chữ",
+            "pid": 11006,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Thông Chữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.007322",
+            "lng": "105.091523"
+        },
+        {
+            "id": 107447,
+            "name": "Khu Phố Vĩnh Phát",
+            "pid": 11006,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Vĩnh Phát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.004276",
+            "lng": "105.092033"
+        },
+        {
+            "id": 107456,
+            "name": "Khu Phố Vĩnh Viễn",
+            "pid": 11006,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Vĩnh Viễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.985042",
+            "lng": "105.106799"
+        },
+        {
+            "id": 884305,
+            "name": "Nguyễn Thị Định",
+            "pid": 11006,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Thị định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9917553",
+            "lng": "105.10435740000004"
+        }
+    ],
+    "log_id": "67581736281f5139"
+}

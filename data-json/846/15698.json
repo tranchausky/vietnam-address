@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443133,
+            "name": "Khóm 1",
+            "pid": 15698,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.294869",
+            "lng": "105.77473069999996"
+        },
+        {
+            "id": 443131,
+            "name": "Khóm 2",
+            "pid": 15698,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.294869",
+            "lng": "105.77473069999996"
+        }
+    ],
+    "log_id": "675816c050fe2386"
+}

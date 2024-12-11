@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398127,
+            "name": "An Định",
+            "pid": 7102,
+            "type": 16,
+            "region": null,
+            "alias": "An Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8040766",
+            "lng": "106.458256"
+        },
+        {
+            "id": 398129,
+            "name": "An Lao",
+            "pid": 7102,
+            "type": 16,
+            "region": null,
+            "alias": "An Lao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8040766",
+            "lng": "106.458256"
+        },
+        {
+            "id": 398125,
+            "name": "Thanh Kỳ",
+            "pid": 7102,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8040766",
+            "lng": "106.458256"
+        }
+    ],
+    "log_id": "675813f206ab7636"
+}

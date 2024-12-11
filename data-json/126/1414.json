@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 935114,
+            "name": "[1] 95-101 Huỳnh Văn Bánh",
+            "pid": 1414,
+            "type": 29,
+            "region": null,
+            "alias": "[1] 95-101 Huỳnh Văn Bánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.793719",
+            "lng": "106.680734"
+        },
+        {
+            "id": 935123,
+            "name": "[1] 109-111 Huỳnh Văn Bánh",
+            "pid": 1414,
+            "type": 29,
+            "region": null,
+            "alias": "[1] 109-111 Huỳnh Văn Bánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.793502",
+            "lng": "106.680697"
+        },
+        {
+            "id": 681952,
+            "name": "Đường Đào Duy Từ",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Từ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7936639",
+            "lng": "106.6834551"
+        },
+        {
+            "id": 671320,
+            "name": "Đường Huỳnh Văn Bánh",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Bánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7939818",
+            "lng": "106.6808152"
+        },
+        {
+            "id": 673093,
+            "name": "Đường Ngô Thời Nhiệm",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Thời Nhiệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7932554",
+            "lng": "106.6832349"
+        },
+        {
+            "id": 679075,
+            "name": "Đường Nguyễn Trường Tộ",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trường Tộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7935896",
+            "lng": "106.6831592"
+        },
+        {
+            "id": 679825,
+            "name": "Đường Nguyễn Văn Trỗi",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Trỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7921974",
+            "lng": "106.6811905"
+        },
+        {
+            "id": 683482,
+            "name": "Đường Phan Đình Phùng",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đình Phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7946405",
+            "lng": "106.6834297"
+        },
+        {
+            "id": 677710,
+            "name": "Đường Trường Sa",
+            "pid": 1414,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7927909",
+            "lng": "106.6839011"
+        },
+        {
+            "id": 94805,
+            "name": "Lẻ 11-121 Phan Đình Phùng",
+            "pid": 1414,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 11-121 Phan Đình Phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.794452",
+            "lng": "106.683434"
+        },
+        {
+            "id": 94802,
+            "name": "Lẻ 123-199 Phan Đình Phùng",
+            "pid": 1414,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 123-199 Phan Đình Phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7955315",
+            "lng": "106.6821954"
+        }
+    ],
+    "log_id": "6758129ab93d4748"
+}

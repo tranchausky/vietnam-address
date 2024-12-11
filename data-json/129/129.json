@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 2074,
+            "name": "Huyện Hòa Vang",
+            "pid": 129,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hòa Vang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.999988",
+            "lng": "108.14579939999999"
+        },
+        {
+            "id": 1095,
+            "name": "Quận Cẩm Lệ",
+            "pid": 129,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Cẩm Lệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0544068",
+            "lng": "108.20216670000002"
+        },
+        {
+            "id": 1096,
+            "name": "Quận Hải Châu",
+            "pid": 129,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Hải Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0472002",
+            "lng": "108.21995879999997"
+        },
+        {
+            "id": 1099,
+            "name": "Quận Liên Chiểu",
+            "pid": 129,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Liên Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1531669",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 1097,
+            "name": "Quận Ngũ Hành Sơn",
+            "pid": 129,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Ngũ Hành Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.980392",
+            "lng": "108.27334100000007"
+        },
+        {
+            "id": 1098,
+            "name": "Quận Sơn Trà",
+            "pid": 129,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Sơn Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1069981",
+            "lng": "108.2521815"
+        },
+        {
+            "id": 1094,
+            "name": "Quận Thanh Khê",
+            "pid": 129,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Thanh Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.0641802",
+            "lng": "108.18734070000005"
+        }
+    ],
+    "log_id": "675812d133dbe841"
+}

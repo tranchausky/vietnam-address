@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 669361,
+            "name": "2100 ~ 2512 Đại Lộ Hùng Vương",
+            "pid": 5891,
+            "type": 10,
+            "region": null,
+            "alias": "2100 ~ 2512 Đại Lộ Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 771316,
+            "name": "2567 ~ 3219 Đại Lộ Hùng Vương",
+            "pid": 5891,
+            "type": 10,
+            "region": null,
+            "alias": "2567 ~ 3219 Đại lộ Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 812701,
+            "name": "Đường Gò Mun",
+            "pid": 5891,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Gò Mun",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 538115,
+            "name": "Khu 1",
+            "pid": 5891,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 538117,
+            "name": "Khu 2",
+            "pid": 5891,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 538119,
+            "name": "Khu 3",
+            "pid": 5891,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 538121,
+            "name": "Khu 4",
+            "pid": 5891,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 538123,
+            "name": "Khu 5",
+            "pid": 5891,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        },
+        {
+            "id": 669907,
+            "name": "Khu 6",
+            "pid": 5891,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3380491",
+            "lng": "105.37313240000003"
+        }
+    ],
+    "log_id": "675817cdb09e9862"
+}

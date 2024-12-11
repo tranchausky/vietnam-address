@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112633,
+            "name": "Thôn Mỹ Phú",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112469,
+            "name": "Thôn Mỹ Thành",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112337,
+            "name": "Thôn Ngọc Lâm 1",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Lâm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112399,
+            "name": "Thôn Ngọc Lâm 2",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Lâm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112313,
+            "name": "Thôn Quảng Mỹ",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112495,
+            "name": "Thôn Suối Phẩn",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Phẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112425,
+            "name": "Thôn Thạnh Phú Đông",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạnh Phú Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 112449,
+            "name": "Thôn Thạnh Phú Tây",
+            "pid": 16484,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạnh Phú Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.875435",
+            "lng": "109.140875"
+        },
+        {
+            "id": 833434,
+            "name": "Ubnd Hòa Mỹ Tây",
+            "pid": 16484,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Hòa Mỹ Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.892717",
+            "lng": "109.142681"
+        }
+    ],
+    "log_id": "67590b80a1635313"
+}

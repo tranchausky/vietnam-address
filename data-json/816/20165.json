@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 862948,
+            "name": "Thôn Đồng Quê",
+            "pid": 20165,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng quê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9394443",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 631158,
+            "name": "Thôn Hoàng Trạch",
+            "pid": 20165,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoàng trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8988948",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 631161,
+            "name": "Thôn Phú Thị",
+            "pid": 20165,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú thị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8988948",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 631164,
+            "name": "Thôn Phú Trạch",
+            "pid": 20165,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8988948",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 925414,
+            "name": "Thôn Phú Trạch",
+            "pid": 20165,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9422527",
+            "lng": "105.9574659"
+        }
+    ],
+    "log_id": "67581490e4290301"
+}

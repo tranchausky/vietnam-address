@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 994087,
+            "name": "Công Ty Cp Hanaka",
+            "pid": 13619,
+            "type": 21,
+            "region": null,
+            "alias": "Công ty CP Hanaka",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.124810893454026",
+            "lng": "105.95828176503662"
+        },
+        {
+            "id": 994085,
+            "name": "Hanaka Từ Sơn",
+            "pid": 13619,
+            "type": 21,
+            "region": null,
+            "alias": "Hanaka Từ Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.126394177843284",
+            "lng": "105.95910590310041"
+        },
+        {
+            "id": 842515,
+            "name": "Khu Công Nghiệp Dốc Sặt",
+            "pid": 13619,
+            "type": 5,
+            "region": null,
+            "alias": "khu công nghiệp Dốc Sặt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999997"
+        },
+        {
+            "id": 853942,
+            "name": "Khu Gia Đình",
+            "pid": 13619,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Gia đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        },
+        {
+            "id": 108242,
+            "name": "Khu Phố Bính Hạ",
+            "pid": 13619,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Bính Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1225868",
+            "lng": "105.9404707"
+        },
+        {
+            "id": 853939,
+            "name": "Khu Phố Mới",
+            "pid": 13619,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        },
+        {
+            "id": 108239,
+            "name": "Khu Phố Trang Liệt",
+            "pid": 13619,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Trang Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1225868",
+            "lng": "105.9404707"
+        },
+        {
+            "id": 108197,
+            "name": "Xóm Bông",
+            "pid": 13619,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1244608",
+            "lng": "105.9477352"
+        },
+        {
+            "id": 108164,
+            "name": "Xóm Đá",
+            "pid": 13619,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1244608",
+            "lng": "105.9477352"
+        },
+        {
+            "id": 108218,
+            "name": "Xóm Nghè",
+            "pid": 13619,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nghè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1244608",
+            "lng": "105.9477352"
+        },
+        {
+            "id": 108188,
+            "name": "Xóm Rừng",
+            "pid": 13619,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Rừng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1244608",
+            "lng": "105.9477352"
+        },
+        {
+            "id": 108221,
+            "name": "Xóm Tây",
+            "pid": 13619,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1244608",
+            "lng": "105.9477352"
+        }
+    ],
+    "log_id": "675815f8b3cc5478"
+}

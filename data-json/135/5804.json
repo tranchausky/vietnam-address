@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011107,
+            "name": "Số 1 - 169 Lô 16 Lê Hồng Phong",
+            "pid": 5804,
+            "type": 21,
+            "region": null,
+            "alias": "số 1 - 169 lô 16 lê hồng phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.838200",
+            "lng": "106.712378"
+        },
+        {
+            "id": 988228,
+            "name": "Từ Số 1 -205 Lô 16 Mở Rộng",
+            "pid": 5804,
+            "type": 18,
+            "region": null,
+            "alias": "từ số 1 -205 Lô 16 Mở Rộng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.837555",
+            "lng": "106.714063"
+        }
+    ],
+    "log_id": "6758136601812419"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 19408,
+            "name": "Xã Ia Đal",
+            "pid": 2105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ia Đal",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.661167",
+            "lng": "107.83884999999998"
+        },
+        {
+            "id": 19407,
+            "name": "Xã Ia Dom",
+            "pid": 2105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ia Dom",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0189165",
+            "lng": "107.44770319999998"
+        },
+        {
+            "id": 19409,
+            "name": "Xã Ia Tơi",
+            "pid": 2105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ia Tơi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.043998",
+            "lng": "107.457675"
+        }
+    ],
+    "log_id": "6758174cb3d23146"
+}

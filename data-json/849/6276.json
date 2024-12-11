@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107183,
+            "name": "Ấp 6",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.804727",
+            "lng": "105.647658"
+        },
+        {
+            "id": 107201,
+            "name": "Ấp Hòa Bình",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.813329",
+            "lng": "105.643601"
+        },
+        {
+            "id": 107216,
+            "name": "Ấp Hòa Long A",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Long A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.814474",
+            "lng": "105.637228"
+        },
+        {
+            "id": 107210,
+            "name": "Ấp Hòa Long B",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Long B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.815739",
+            "lng": "105.642281"
+        },
+        {
+            "id": 107195,
+            "name": "Ấp Hòa Phụng A",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Phụng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.808922",
+            "lng": "105.639223"
+        },
+        {
+            "id": 107168,
+            "name": "Ấp Hòa Phụng B",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Phụng B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.811613",
+            "lng": "105.650861"
+        },
+        {
+            "id": 913846,
+            "name": "Trường Mẫu Giáo Sơn Ca",
+            "pid": 6276,
+            "type": 17,
+            "region": null,
+            "alias": "Trường Mẫu Giáo Sơn Ca",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8068287",
+            "lng": "105.6353878"
+        }
+    ],
+    "log_id": "675816fe3baf3184"
+}

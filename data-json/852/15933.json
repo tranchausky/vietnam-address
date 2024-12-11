@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 971622,
+            "name": "Đường Trường Chinh",
+            "pid": 15933,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Trường Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.474826",
+            "lng": "107.910022"
+        },
+        {
+            "id": 453269,
+            "name": "Thôn 1",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4744876",
+            "lng": "107.91170620000003"
+        },
+        {
+            "id": 453271,
+            "name": "Thôn 2",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4744876",
+            "lng": "107.91170620000003"
+        },
+        {
+            "id": 453273,
+            "name": "Thôn 3",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4744876",
+            "lng": "107.91170620000003"
+        },
+        {
+            "id": 453275,
+            "name": "Thôn 4",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4744876",
+            "lng": "107.91170620000003"
+        },
+        {
+            "id": 453277,
+            "name": "Thôn 5",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4744876",
+            "lng": "107.91170620000003"
+        },
+        {
+            "id": 817273,
+            "name": "Thôn Bình Minh",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.478674",
+            "lng": "107.914629"
+        },
+        {
+            "id": 817270,
+            "name": "Thôn Quyết Thắng",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.478674",
+            "lng": "107.914629"
+        },
+        {
+            "id": 716497,
+            "name": "Thôn Thống Nhất",
+            "pid": 15933,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4744876",
+            "lng": "107.91170620000004"
+        }
+    ],
+    "log_id": "6758174cdee16748"
+}

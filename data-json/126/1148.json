@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97208,
+            "name": "Ấp 1",
+            "pid": 1148,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6476525",
+            "lng": "106.6545975"
+        },
+        {
+            "id": 97211,
+            "name": "Ấp 2",
+            "pid": 1148,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.658964",
+            "lng": "106.6562402"
+        },
+        {
+            "id": 97214,
+            "name": "Ấp 3",
+            "pid": 1148,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6544485",
+            "lng": "106.6599394"
+        },
+        {
+            "id": 97802,
+            "name": "Ấp 4",
+            "pid": 1148,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6629492",
+            "lng": "106.6206998"
+        },
+        {
+            "id": 671731,
+            "name": "Đường Bùi Văn Sự",
+            "pid": 1148,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Văn Sự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6505434",
+            "lng": "106.64437"
+        },
+        {
+            "id": 683182,
+            "name": "Đường Hóc Hữu",
+            "pid": 1148,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hóc Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6368368",
+            "lng": "106.6313375"
+        },
+        {
+            "id": 677086,
+            "name": "Đường Nguyễn Văn Thời",
+            "pid": 1148,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Thời",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.635788",
+            "lng": "106.6355274"
+        },
+        {
+            "id": 680476,
+            "name": "Đường Phạm Tấn Mười",
+            "pid": 1148,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Tấn Mười",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6396013",
+            "lng": "106.6522603"
+        }
+    ],
+    "log_id": "6758129abb198205"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638847,
+            "name": "Đông Đô",
+            "pid": 7134,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Đô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9886212",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 971536,
+            "name": "Đông Xuyên",
+            "pid": 7134,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.984480134100654",
+            "lng": "106.15163039754457"
+        },
+        {
+            "id": 638844,
+            "name": "Đức Hỷ",
+            "pid": 7134,
+            "type": 16,
+            "region": null,
+            "alias": "Đức Hỷ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9886212",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 638856,
+            "name": "Hộ Vệ",
+            "pid": 7134,
+            "type": 16,
+            "region": null,
+            "alias": "Hộ Vệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9886212",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 638853,
+            "name": "Mậu Duyệt",
+            "pid": 7134,
+            "type": 16,
+            "region": null,
+            "alias": "Mậu Duyệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9886212",
+            "lng": "106.1375107"
+        },
+        {
+            "id": 638850,
+            "name": "Mậu Tân",
+            "pid": 7134,
+            "type": 16,
+            "region": null,
+            "alias": "Mậu Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9886212",
+            "lng": "106.1375107"
+        }
+    ],
+    "log_id": "675813f163e86326"
+}

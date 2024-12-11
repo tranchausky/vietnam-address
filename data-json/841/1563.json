@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7703,
+            "name": "Thị Trấn Năm Căn",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Năm Căn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.7697509",
+            "lng": "104.99146010000004"
+        },
+        {
+            "id": 7704,
+            "name": "Xã Đất Mới",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đất Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8088679",
+            "lng": "104.9505671"
+        },
+        {
+            "id": 7705,
+            "name": "Xã Hàm Rồng",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hàm Rồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8264891",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 7706,
+            "name": "Xã Hàng Vịnh",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hàng Vịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 7707,
+            "name": "Xã Hiệp Tùng",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hiệp Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8245805",
+            "lng": "105.09081470000001"
+        },
+        {
+            "id": 7708,
+            "name": "Xã Lâm Hải",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lâm Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.735351099999999",
+            "lng": "104.91552430000002"
+        },
+        {
+            "id": 7709,
+            "name": "Xã Tam Giang",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tam Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8003064",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 7710,
+            "name": "Xã Tam Giang Đông",
+            "pid": 1563,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tam Giang Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.7964601",
+            "lng": "105.25458879999996"
+        }
+    ],
+    "log_id": "6758164d87995659"
+}

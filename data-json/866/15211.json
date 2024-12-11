@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900892,
+            "name": "Đường Số 2",
+            "pid": 15211,
+            "type": 21,
+            "region": null,
+            "alias": "đường Số 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 900889,
+            "name": "Đường Số 3",
+            "pid": 15211,
+            "type": 21,
+            "region": null,
+            "alias": "đường Số 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 900895,
+            "name": "Đường Số 6",
+            "pid": 15211,
+            "type": 21,
+            "region": null,
+            "alias": "đường Số 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 463457,
+            "name": "Đường Trần Quý Khoáng",
+            "pid": 15211,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quý Khoáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4498",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 463501,
+            "name": "Tổ 2 Khu Vực 1",
+            "pid": 15211,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2 Khu vực 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 463493,
+            "name": "Tổ 5 Khu Vực 3",
+            "pid": 15211,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5 khu vực 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 463495,
+            "name": "Tổ 6 Khu Vực 3",
+            "pid": 15211,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6 Khu vực 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 463497,
+            "name": "Tổ 7 Khu Vực 3",
+            "pid": 15211,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 7 Khu vực 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 463499,
+            "name": "Tổ 8 Khu Vực 4",
+            "pid": 15211,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 8 khu vực 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        },
+        {
+            "id": 463503,
+            "name": "Tổ 10 Khu Vực 4",
+            "pid": 15211,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 10 khu vực 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4887712",
+            "lng": "107.55515450000007"
+        }
+    ],
+    "log_id": "67590b262ebce651"
+}

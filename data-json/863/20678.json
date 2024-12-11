@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410553,
+            "name": "Thôn An Cúc Đông",
+            "pid": 20678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Cúc Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6029578",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 410555,
+            "name": "Thôn An Cúc Tây",
+            "pid": 20678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Cúc Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6029578",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 410561,
+            "name": "Thôn Cao Trai",
+            "pid": 20678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Trai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6029578",
+            "lng": "106.50538000000006"
+        },
+        {
+            "id": 410557,
+            "name": "Thôn Hòa Đồng",
+            "pid": 20678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6029578",
+            "lng": "106.50538000000006"
+        }
+    ],
+    "log_id": "675909f3bc380113"
+}

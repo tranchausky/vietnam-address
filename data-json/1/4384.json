@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 73271,
+            "name": "Cụm Công Nghiệp Thanh Oai",
+            "pid": 4384,
+            "type": 10,
+            "region": null,
+            "alias": "Cụm Công Nghiệp Thanh Oai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        },
+        {
+            "id": 102320,
+            "name": "Thôn Giữa",
+            "pid": 4384,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.916720",
+            "lng": "105.762081"
+        },
+        {
+            "id": 102344,
+            "name": "Thôn Kỳ Thủy",
+            "pid": 4384,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kỳ Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.906801",
+            "lng": "105.763034"
+        },
+        {
+            "id": 102329,
+            "name": "Thôn Mùi",
+            "pid": 4384,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mùi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.914223",
+            "lng": "105.761338"
+        },
+        {
+            "id": 102332,
+            "name": "Thôn Thanh Lương",
+            "pid": 4384,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.909757",
+            "lng": "105.762430"
+        },
+        {
+            "id": 102356,
+            "name": "Thôn Thượng",
+            "pid": 4384,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.919073",
+            "lng": "105.759187"
+        },
+        {
+            "id": 102389,
+            "name": "Thôn Trên",
+            "pid": 4384,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.918757",
+            "lng": "105.761425"
+        },
+        {
+            "id": 55426,
+            "name": "Ubnd Xã Bích Hòa",
+            "pid": 4384,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Bích Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd5a6b3695"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113109,
+            "name": "Thôn Phúc Thụy",
+            "pid": 4873,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Thụy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.808888",
+            "lng": "20.829368"
+        },
+        {
+            "id": 113145,
+            "name": "Thôn Quế Sơn",
+            "pid": 4873,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quế Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.794702",
+            "lng": "20.822214"
+        },
+        {
+            "id": 112941,
+            "name": "Thôn Tri Lễ",
+            "pid": 4873,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tri lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.804058",
+            "lng": "20.831306"
+        },
+        {
+            "id": 112987,
+            "name": "Thôn Ước Lễ",
+            "pid": 4873,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ước Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.811954",
+            "lng": "20.825493"
+        },
+        {
+            "id": 55478,
+            "name": "Ubnd Xã Tân Ước",
+            "pid": 4873,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tân Ước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd6cdce433"
+}

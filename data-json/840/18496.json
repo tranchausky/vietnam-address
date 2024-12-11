@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 770623,
+            "name": "Thôn Sơn Hiệp",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.942578",
+            "lng": "106.341778"
+        },
+        {
+            "id": 436039,
+            "name": "Thôn Sơn Hòa",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8828058",
+            "lng": "107.31709239999998"
+        },
+        {
+            "id": 436031,
+            "name": "Thôn Sơn Lập",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8828058",
+            "lng": "107.31709239999998"
+        },
+        {
+            "id": 436033,
+            "name": "Thôn Sơn Lợi",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8828058",
+            "lng": "107.31709239999998"
+        },
+        {
+            "id": 436035,
+            "name": "Thôn Sơn Thọ",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8828058",
+            "lng": "107.31709239999998"
+        },
+        {
+            "id": 436037,
+            "name": "Thôn Sơn Thủy",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8828058",
+            "lng": "107.31709239999998"
+        },
+        {
+            "id": 436041,
+            "name": "Thôn Sơn Tùng",
+            "pid": 18496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8828058",
+            "lng": "107.31709239999998"
+        }
+    ],
+    "log_id": "67581637a081d711"
+}

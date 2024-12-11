@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 754009,
+            "name": "Bó Chỉa",
+            "pid": 20527,
+            "type": 18,
+            "region": null,
+            "alias": "Bó Chỉa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6889072",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 815164,
+            "name": "Khẻo Mèo",
+            "pid": 20527,
+            "type": 18,
+            "region": null,
+            "alias": "Khẻo Mèo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6889072",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 815161,
+            "name": "Lũng Luông",
+            "pid": 20527,
+            "type": 18,
+            "region": null,
+            "alias": "Lũng Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6889072",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 937526,
+            "name": "Xóm Kiểng Phặc",
+            "pid": 20527,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Kiểng Phặc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6889072",
+            "lng": "106.73525840000002"
+        }
+    ],
+    "log_id": "67581662afbd1426"
+}

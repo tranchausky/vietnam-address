@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444245,
+            "name": "Thôn Liên Sơn",
+            "pid": 18960,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.141965",
+            "lng": "109.090550"
+        },
+        {
+            "id": 444243,
+            "name": "Thôn Lương Sơn",
+            "pid": 18960,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.141965",
+            "lng": "109.090550"
+        },
+        {
+            "id": 444241,
+            "name": "Thôn Xuân Sơn",
+            "pid": 18960,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.141965",
+            "lng": "109.090550"
+        },
+        {
+            "id": 952980,
+            "name": "Ubnd Xã Sơn Xuân",
+            "pid": 18960,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã Sơn Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.141965",
+            "lng": "109.090550"
+        }
+    ],
+    "log_id": "67590b809a1d4675"
+}

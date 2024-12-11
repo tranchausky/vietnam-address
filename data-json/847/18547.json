@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 625305,
+            "name": "Làng Quái",
+            "pid": 18547,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Quái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 758326,
+            "name": "Nông Trường 194",
+            "pid": 18547,
+            "type": 5,
+            "region": null,
+            "alias": "Nông Trường 194",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 822316,
+            "name": "Nông Trường Hoàng Anh Gia Lai",
+            "pid": 18547,
+            "type": 5,
+            "region": null,
+            "alias": "Nông Trường Hoàng Anh Gia Lai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 625308,
+            "name": "Thôn Lương Hà",
+            "pid": 18547,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 698371,
+            "name": "Thôn Phú Hà",
+            "pid": 18547,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 625299,
+            "name": "Thôn Phú Vinh",
+            "pid": 18547,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 625296,
+            "name": "Thôn Thiên An",
+            "pid": 18547,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiên An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        },
+        {
+            "id": 625302,
+            "name": "Thôn Thuỷ Phú",
+            "pid": 18547,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuỷ Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.445165",
+            "lng": "108.025335"
+        }
+    ],
+    "log_id": "675816d353a0c274"
+}

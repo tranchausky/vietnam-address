@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641062,
+            "name": "Mỹ Nam",
+            "pid": 22148,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.834646",
+            "lng": "108.051514"
+        },
+        {
+            "id": 641071,
+            "name": "Thôn An Chánh",
+            "pid": 22148,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.834646",
+            "lng": "108.051514"
+        },
+        {
+            "id": 641074,
+            "name": "Thôn Nam Phước",
+            "pid": 22148,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nam phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.834646",
+            "lng": "108.051514"
+        },
+        {
+            "id": 641068,
+            "name": "Thôn Phú Phong",
+            "pid": 22148,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.834646",
+            "lng": "108.051514"
+        },
+        {
+            "id": 641065,
+            "name": "Thôn Xuân Tây",
+            "pid": 22148,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.834646",
+            "lng": "108.051514"
+        }
+    ],
+    "log_id": "675817e1ab5cc811"
+}

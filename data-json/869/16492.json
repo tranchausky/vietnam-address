@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109707,
+            "name": "Thôn Định Thái",
+            "pid": 16492,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Định Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.035815",
+            "lng": "109.210866"
+        },
+        {
+            "id": 109689,
+            "name": "Thôn Định Thành",
+            "pid": 16492,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Định Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.076921",
+            "lng": "109.167840"
+        },
+        {
+            "id": 828613,
+            "name": "Ubnd Hòa Định Đông",
+            "pid": 16492,
+            "type": 21,
+            "region": null,
+            "alias": "UBND hòa định đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.024927",
+            "lng": "109.19989720000001"
+        },
+        {
+            "id": 828619,
+            "name": "Xóm Bún",
+            "pid": 16492,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm bún",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.024927",
+            "lng": "109.19989720000001"
+        }
+    ],
+    "log_id": "67590b809a912450"
+}

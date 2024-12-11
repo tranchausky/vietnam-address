@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467279,
+            "name": "Thôn Bến Giằng",
+            "pid": 22511,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Bến Giằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.671699",
+            "lng": "107.78730949999999"
+        },
+        {
+            "id": 467283,
+            "name": "Thôn Pà Dá",
+            "pid": 22511,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pà Dá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.671699",
+            "lng": "107.78730949999999"
+        },
+        {
+            "id": 467281,
+            "name": "Thôn Pà Ong",
+            "pid": 22511,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pà Ong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.671699",
+            "lng": "107.78730949999999"
+        }
+    ],
+    "log_id": "675817e1b7823578"
+}

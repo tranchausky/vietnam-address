@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 925411,
+            "name": "Bệnh Viện Huyện",
+            "pid": 20153,
+            "type": 9,
+            "region": null,
+            "alias": "bệnh viện huyện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9422527",
+            "lng": "105.9574659"
+        },
+        {
+            "id": 870880,
+            "name": "Chùa Thắng Quang",
+            "pid": 20153,
+            "type": 10,
+            "region": null,
+            "alias": "chùa thắng quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9394443",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 878362,
+            "name": "Đường 179",
+            "pid": 20153,
+            "type": 10,
+            "region": null,
+            "alias": "đường 179",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9394443",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 630993,
+            "name": "Thôn Hạ",
+            "pid": 20153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9655543",
+            "lng": "105.95148189999998"
+        },
+        {
+            "id": 630999,
+            "name": "Thôn Nguyễn",
+            "pid": 20153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nguyễn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9655543",
+            "lng": "105.95148189999998"
+        },
+        {
+            "id": 630996,
+            "name": "Thôn Thượng",
+            "pid": 20153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9655543",
+            "lng": "105.95148189999998"
+        },
+        {
+            "id": 631002,
+            "name": "Thôn Vàng",
+            "pid": 20153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9655543",
+            "lng": "105.95148189999998"
+        }
+    ],
+    "log_id": "67581490e399f85"
+}

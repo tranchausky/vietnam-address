@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 699160,
+            "name": "01-103 Hàm Nghi",
+            "pid": 15199,
+            "type": 29,
+            "region": null,
+            "alias": "01-103 Hàm Nghi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3533117",
+            "lng": "105.9070127"
+        },
+        {
+            "id": 912652,
+            "name": "162-428 Hà Huy Tập",
+            "pid": 15199,
+            "type": 29,
+            "region": null,
+            "alias": "162-428 Hà Huy Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3533117",
+            "lng": "105.9070127"
+        },
+        {
+            "id": 659971,
+            "name": "307-367 Hà Huy Tập",
+            "pid": 15199,
+            "type": 29,
+            "region": null,
+            "alias": "307-367 Hà Huy Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3339509",
+            "lng": "105.90540850000002"
+        },
+        {
+            "id": 912643,
+            "name": "369-499 Hà Huy Tập",
+            "pid": 15199,
+            "type": 29,
+            "region": null,
+            "alias": "369-499 Hà Huy Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3533117",
+            "lng": "105.9070127"
+        },
+        {
+            "id": 658180,
+            "name": "Chung Cư Whinhouse",
+            "pid": 15199,
+            "type": 4,
+            "region": null,
+            "alias": "Chung Cư whinhouse",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 785212,
+            "name": "Hà Huy Tập",
+            "pid": 15199,
+            "type": 21,
+            "region": null,
+            "alias": "Hà Huy Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3291329",
+            "lng": "105.89984000000004"
+        },
+        {
+            "id": 856231,
+            "name": "Khu Liền Kề Vinhomes",
+            "pid": 15199,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Liền Kề Vinhomes",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3291329",
+            "lng": "105.89984000000004"
+        },
+        {
+            "id": 912703,
+            "name": "Lê Duẩn",
+            "pid": 15199,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Duẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3413636",
+            "lng": "105.89215409999997"
+        },
+        {
+            "id": 785197,
+            "name": "Nguyễn Hoành Từ",
+            "pid": 15199,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hoành Từ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3291329",
+            "lng": "105.89984000000004"
+        },
+        {
+            "id": 428829,
+            "name": "Nguyễn Xí",
+            "pid": 15199,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Xí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3291329",
+            "lng": "105.89984000000004"
+        },
+        {
+            "id": 428831,
+            "name": "Phú Hào",
+            "pid": 15199,
+            "type": 21,
+            "region": null,
+            "alias": "Phú Hào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3291329",
+            "lng": "105.89984000000004"
+        }
+    ],
+    "log_id": "675816e9dbcd4945"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102740,
+            "name": "Đoàn Xá",
+            "pid": 4947,
+            "type": 16,
+            "region": null,
+            "alias": "Đoàn Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7340467",
+            "lng": "105.74612"
+        },
+        {
+            "id": 102749,
+            "name": "Giang Đường",
+            "pid": 4947,
+            "type": 16,
+            "region": null,
+            "alias": "Giang Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7453929",
+            "lng": "105.7409852"
+        },
+        {
+            "id": 102770,
+            "name": "Giang Làng",
+            "pid": 4947,
+            "type": 16,
+            "region": null,
+            "alias": "Giang Làng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7453929",
+            "lng": "105.7409852"
+        },
+        {
+            "id": 102755,
+            "name": "Giang Soi",
+            "pid": 4947,
+            "type": 16,
+            "region": null,
+            "alias": "Giang Soi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7467336",
+            "lng": "105.7343836"
+        },
+        {
+            "id": 102746,
+            "name": "Thành Vật",
+            "pid": 4947,
+            "type": 16,
+            "region": null,
+            "alias": "Thành Vật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7319704",
+            "lng": "105.7373176"
+        },
+        {
+            "id": 55738,
+            "name": "Ubnd Xã Đồng Tiến",
+            "pid": 4947,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đồng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd3f33c660"
+}

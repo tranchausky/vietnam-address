@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 13730,
+            "name": "Phường Chi Lăng",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Chi Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8419226",
+            "lng": "106.74958809999998"
+        },
+        {
+            "id": 13724,
+            "name": "Phường Đông Kinh",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8458753",
+            "lng": "106.76360060000002"
+        },
+        {
+            "id": 13716,
+            "name": "Phường Hoàng Văn Thụ",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hoàng Văn Thụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8656477",
+            "lng": "106.75775569999996"
+        },
+        {
+            "id": 13685,
+            "name": "Phường Tam Thanh",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tam Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8543711",
+            "lng": "106.75223749999998"
+        },
+        {
+            "id": 13688,
+            "name": "Phường Vĩnh Trại",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Trại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8553522",
+            "lng": "106.7654182"
+        },
+        {
+            "id": 13823,
+            "name": "Xã Hoàng Đồng",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hoàng Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8954013",
+            "lng": "106.74284680000005"
+        },
+        {
+            "id": 13819,
+            "name": "Xã Mai Pha",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mai Pha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 13820,
+            "name": "Xã Quảng Lạc",
+            "pid": 1786,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quảng Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8308728",
+            "lng": "106.73598370000002"
+        }
+    ],
+    "log_id": "6758133eb6426363"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630903,
+            "name": "Thôn Lệ Chi",
+            "pid": 13450,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lệ chi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6617939",
+            "lng": "106.15074240000001"
+        },
+        {
+            "id": 735505,
+            "name": "Thôn Thụy Dương",
+            "pid": 13450,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thụy Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.649228217738496",
+            "lng": "106.16229893163381"
+        },
+        {
+            "id": 735508,
+            "name": "Thôn Thụy Lôi",
+            "pid": 13450,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thụy Lôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        }
+    ],
+    "log_id": "67581491005bf977"
+}

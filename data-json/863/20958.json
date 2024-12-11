@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 538999,
+            "name": "Thôn Minh Khai",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Minh Khai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 539001,
+            "name": "Thôn Quyết Thắng",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 539003,
+            "name": "Thôn Quyết Tiến",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 539005,
+            "name": "Thôn Tân Tiến",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 539007,
+            "name": "Thôn Thống Nhất",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 539009,
+            "name": "Thôn Tiền Phong",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 539011,
+            "name": "Thôn Trần Phú",
+            "pid": 20958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trần Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5763385",
+            "lng": "106.27280910000002"
+        }
+    ],
+    "log_id": "675909f3a2a564"
+}

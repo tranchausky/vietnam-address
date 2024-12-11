@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 574830,
+            "name": "Xóm Phương Đông",
+            "pid": 7815,
+            "type": 18,
+            "region": null,
+            "alias": "xóm phương đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3353002",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 574827,
+            "name": "Xóm Thượng Hoà",
+            "pid": 7815,
+            "type": 18,
+            "region": null,
+            "alias": "xóm thượng hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3353002",
+            "lng": "105.85251540000002"
+        }
+    ],
+    "log_id": "6758179909277761"
+}

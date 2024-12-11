@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603885,
+            "name": "Ấp Bảo",
+            "pid": 19222,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1446967",
+            "lng": "106.124967"
+        },
+        {
+            "id": 603891,
+            "name": "Ấp Cao Su",
+            "pid": 19222,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cao Su",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1446967",
+            "lng": "106.124967"
+        },
+        {
+            "id": 603894,
+            "name": "Ấp Long Tân",
+            "pid": 19222,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1446967",
+            "lng": "106.124967"
+        },
+        {
+            "id": 603888,
+            "name": "Ấp Xóm Khách",
+            "pid": 19222,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Khách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1446967",
+            "lng": "106.124967"
+        }
+    ],
+    "log_id": "675909dcd2278191"
+}

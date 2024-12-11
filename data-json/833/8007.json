@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566716,
+            "name": "Ấp Bà Bài",
+            "pid": 8007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bà Bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6712546",
+            "lng": "105.08496869999999"
+        },
+        {
+            "id": 110087,
+            "name": "Ấp Cây Chăm",
+            "pid": 8007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Chăm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6677835",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 110071,
+            "name": "Ấp Vĩnh Khánh 1",
+            "pid": 8007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Khánh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6677835",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 110079,
+            "name": "Ấp Vĩnh Khánh 2",
+            "pid": 8007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Khánh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6677835",
+            "lng": "105.04405199999997"
+        }
+    ],
+    "log_id": "6758159da4c59991"
+}

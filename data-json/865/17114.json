@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559247,
+            "name": "Thôn Đại Điền",
+            "pid": 17114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9312374",
+            "lng": "105.77619800000002"
+        },
+        {
+            "id": 559255,
+            "name": "Thôn Kênh Thôn",
+            "pid": 17114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kênh Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9312374",
+            "lng": "105.77619800000002"
+        }
+    ],
+    "log_id": "67590a237678e654"
+}

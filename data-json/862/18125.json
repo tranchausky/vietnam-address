@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435229,
+            "name": "Ấp Bàu Bền",
+            "pid": 18125,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Bền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2017672",
+            "lng": "106.5466221"
+        },
+        {
+            "id": 435231,
+            "name": "Ấp Bàu Rã",
+            "pid": 18125,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Rã",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6782917",
+            "lng": "106.08753260000003"
+        },
+        {
+            "id": 435233,
+            "name": "Ấp Suối Mây",
+            "pid": 18125,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Mây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1866613",
+            "lng": "103.9916165"
+        },
+        {
+            "id": 435235,
+            "name": "Ấp Thạnh Hiệp",
+            "pid": 18125,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5596203",
+            "lng": "106.140451"
+        }
+    ],
+    "log_id": "675909dcf3b9a524"
+}

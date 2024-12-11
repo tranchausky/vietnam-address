@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93542,
+            "name": "Ấp 1",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.010977",
+            "lng": "106.837752"
+        },
+        {
+            "id": 93545,
+            "name": "Ấp 2",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.011166",
+            "lng": "106.830440"
+        },
+        {
+            "id": 93548,
+            "name": "Ấp 3",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.017351",
+            "lng": "106.836810"
+        },
+        {
+            "id": 93551,
+            "name": "Ấp 4",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.009060",
+            "lng": "106.840345"
+        },
+        {
+            "id": 93557,
+            "name": "Ấp 5",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.012451",
+            "lng": "106.845900"
+        },
+        {
+            "id": 93560,
+            "name": "Ấp 6",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.013585",
+            "lng": "106.829273"
+        },
+        {
+            "id": 93566,
+            "name": "Ấp 7",
+            "pid": 6974,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.015688",
+            "lng": "106.834063"
+        },
+        {
+            "id": 79421,
+            "name": "Công Ty Chang Shin",
+            "pid": 6974,
+            "type": 4,
+            "region": null,
+            "alias": "Công ty Chang Shin",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12",
+            "lng": "109"
+        },
+        {
+            "id": 95618,
+            "name": "Khu Đô Thị Lavender City",
+            "pid": 6974,
+            "type": 4,
+            "region": null,
+            "alias": "Khu đô thị Lavender City",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.001941",
+            "lng": "106.824740"
+        }
+    ],
+    "log_id": "675814dd1813d799"
+}

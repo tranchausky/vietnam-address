@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 735370,
+            "name": "Tân Sơn",
+            "pid": 19327,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4474022",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 731626,
+            "name": "Tây Sơn",
+            "pid": 19327,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4474022",
+            "lng": "107.72809200000006"
+        }
+    ],
+    "log_id": "6758169119ca4619"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829138,
+            "name": "Đường Đa Sỹ",
+            "pid": 78,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đa Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9528073",
+            "lng": "105.78500220000001"
+        },
+        {
+            "id": 829870,
+            "name": "Đường Lê Xuân Điệp",
+            "pid": 78,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Xuân Điệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9528073",
+            "lng": "105.78500220000001"
+        },
+        {
+            "id": 829969,
+            "name": "Đường Mậu Lương",
+            "pid": 78,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mậu Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9528073",
+            "lng": "105.78500220000001"
+        },
+        {
+            "id": 72083,
+            "name": "Khu Đô Thị Kiến Hưng",
+            "pid": 78,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Đô Thị Kiến Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9536486",
+            "lng": "105.7883923"
+        },
+        {
+            "id": 71891,
+            "name": "Khu Tập Thể Sông Đà 10",
+            "pid": 78,
+            "type": 10,
+            "region": null,
+            "alias": "Khu Tập Thể Sông Đà 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 71883,
+            "name": "Tổ 15 Phường Kiến Hưng",
+            "pid": 78,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 15 Phường Kiến Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 751225,
+            "name": "Tổ 16 Kiến Hưng",
+            "pid": 78,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 16 Kiến Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.959142",
+            "lng": "105.800266"
+        }
+    ],
+    "log_id": "675811bc46f70541"
+}

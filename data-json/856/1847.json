@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7777,
+            "name": "Phường Bắc Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1089734",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 7782,
+            "name": "Phường Nam Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1480182",
+            "lng": "105.8961898"
+        },
+        {
+            "id": 7779,
+            "name": "Phường Tân Bình",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.175648",
+            "lng": "105.92005310000002"
+        },
+        {
+            "id": 7780,
+            "name": "Phường Tây Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tây Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1506752",
+            "lng": "105.90225179999993"
+        },
+        {
+            "id": 7778,
+            "name": "Phường Trung Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trung Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1519559",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 7776,
+            "name": "Phường Yên Bình",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Yên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1676896",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 7784,
+            "name": "Xã Đông Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1256429",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 7781,
+            "name": "Xã Quang Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quang Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1605304",
+            "lng": "105.86425929999996"
+        },
+        {
+            "id": 7783,
+            "name": "Xã Yên Sơn",
+            "pid": 1847,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Yên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1983456",
+            "lng": "105.89362240000003"
+        }
+    ],
+    "log_id": "67581798c4204470"
+}

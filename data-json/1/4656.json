@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 4670,
+            "name": "Cống Thôn",
+            "pid": 4656,
+            "type": 16,
+            "region": null,
+            "alias": "Cống Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.076263",
+            "lng": "105.92382900000007"
+        },
+        {
+            "id": 784921,
+            "name": "Kim Quan",
+            "pid": 4656,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 784924,
+            "name": "Thôn Kim Quan",
+            "pid": 4656,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN KIM QUAN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53230,
+            "name": "Thpt Yên Viên",
+            "pid": 4656,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Yên Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb9a20643"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465505,
+            "name": "Đơn Quế",
+            "pid": 16341,
+            "type": 16,
+            "region": null,
+            "alias": "Đơn Quế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7492905",
+            "lng": "107.3198424"
+        },
+        {
+            "id": 465503,
+            "name": "Kim Long",
+            "pid": 16341,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7492905",
+            "lng": "107.3198424"
+        },
+        {
+            "id": 769057,
+            "name": "Thôn Hội Yên",
+            "pid": 16341,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7492905",
+            "lng": "107.3198424"
+        }
+    ],
+    "log_id": "675813bc6573e925"
+}

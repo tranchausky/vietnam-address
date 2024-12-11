@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 610599,
+            "name": "Thôn Đá Cối",
+            "pid": 20417,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Cối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3798855",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 610605,
+            "name": "Thôn Đồng Cún",
+            "pid": 20417,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Cún",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3798855",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 610611,
+            "name": "Thôn Gốc Sau",
+            "pid": 20417,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gốc Sau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3798855",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 610602,
+            "name": "Thôn Rèm",
+            "pid": 20417,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Rèm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3798855",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 610608,
+            "name": "Thôn Việt Tiến",
+            "pid": 20417,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Việt Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3798855",
+            "lng": "106.82373740000003"
+        }
+    ],
+    "log_id": "675813d935b896"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439463,
+            "name": "Ấp Hòa Phong",
+            "pid": 8062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.101982 ",
+            "lng": "105.252755"
+        },
+        {
+            "id": 439469,
+            "name": "Ấp Kênh Xáng",
+            "pid": 8062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kênh Xáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.129065 ",
+            "lng": "105.282776"
+        },
+        {
+            "id": 439465,
+            "name": "Ấp Lung Lá",
+            "pid": 8062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lung Lá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.127065 ",
+            "lng": "105.250937"
+        },
+        {
+            "id": 439467,
+            "name": "Ấp Lung Rong",
+            "pid": 8062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lung Rong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.146583 ",
+            "lng": "105.264396"
+        },
+        {
+            "id": 439471,
+            "name": "Ấp Phan Màu",
+            "pid": 8062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phan Màu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.112005 ",
+            "lng": "105.266145"
+        }
+    ],
+    "log_id": "675815e17e297883"
+}

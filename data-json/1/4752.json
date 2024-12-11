@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102629,
+            "name": "Thôn Giẽ Hạ",
+            "pid": 4752,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giẽ Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'53.3\"N",
+            "lng": "105°54'20.3\"E"
+        },
+        {
+            "id": 102617,
+            "name": "Thôn Giẽ Thượng",
+            "pid": 4752,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giẽ Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°42'22.3\"N",
+            "lng": "105°54'19.0\"E"
+        },
+        {
+            "id": 102611,
+            "name": "Thôn Thượng Yên",
+            "pid": 4752,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°42'14.3\"N",
+            "lng": "105°53'36.0\"E"
+        },
+        {
+            "id": 960611,
+            "name": "Thôn Thủy Phú",
+            "pid": 4752,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thủy Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.693593",
+            "lng": "105.891697"
+        }
+    ],
+    "log_id": "675811bcd4440506"
+}

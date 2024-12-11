@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 92156,
+            "name": "Ấp 1",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92159,
+            "name": "Ấp 2",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92162,
+            "name": "Ấp 3",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 92165,
+            "name": "Ấp 4",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 92168,
+            "name": "Ấp 5",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5335974",
+            "lng": "106.2110311"
+        },
+        {
+            "id": 92093,
+            "name": "Ấp Phú Lợi",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92081,
+            "name": "Ấp Phú Ngọc",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92096,
+            "name": "Ấp Phú Thạch",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92087,
+            "name": "Ấp Phú Thắng",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92084,
+            "name": "Ấp Phú Yên",
+            "pid": 7006,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        }
+    ],
+    "log_id": "675814dd4c92c814"
+}

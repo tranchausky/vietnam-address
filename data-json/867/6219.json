@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449177,
+            "name": "Ấp Bào",
+            "pid": 6219,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7302125",
+            "lng": "106.55251450000003"
+        },
+        {
+            "id": 449173,
+            "name": "Ấp Cây Da",
+            "pid": 6219,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cây Da",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7302125",
+            "lng": "106.55251450000003"
+        },
+        {
+            "id": 449175,
+            "name": "Ấp Chợ",
+            "pid": 6219,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7302125",
+            "lng": "106.55251450000003"
+        }
+    ],
+    "log_id": "67590b439a344348"
+}

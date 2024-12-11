@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115587,
+            "name": "Thôn Ba Đình",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.770757",
+            "lng": "20.836339, "
+        },
+        {
+            "id": 115395,
+            "name": "Thôn Đoàn Kết",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoàn kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.767003",
+            "lng": "20.836366"
+        },
+        {
+            "id": 115411,
+            "name": "Thôn Đồng Tâm",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.765522",
+            "lng": "20.836361"
+        },
+        {
+            "id": 115127,
+            "name": "Thôn Đôn Thư",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đôn Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.772076",
+            "lng": "20.835807"
+        },
+        {
+            "id": 916366,
+            "name": "Thôn Dũng Tiến",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Dũng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 115101,
+            "name": "Thôn Kim Châu",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.762804",
+            "lng": "20.839712"
+        },
+        {
+            "id": 115357,
+            "name": "Thôn Kim Thành",
+            "pid": 4868,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.761747",
+            "lng": "20.836673"
+        },
+        {
+            "id": 55470,
+            "name": "Ubnd Xã Kim Thư",
+            "pid": 4868,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Kim Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 115551,
+            "name": "Xóm Bãi, Kim Thư",
+            "pid": 4868,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bãi, kim thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.764820",
+            "lng": "20.836486"
+        }
+    ],
+    "log_id": "675811bd6d16d40"
+}

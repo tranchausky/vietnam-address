@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 712705,
+            "name": "Ấp Hồi Xuân",
+            "pid": 15767,
+            "type": 17,
+            "region": null,
+            "alias": "ấp hồi xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712711,
+            "name": "Ấp Mỹ Xuân",
+            "pid": 15767,
+            "type": 17,
+            "region": null,
+            "alias": "ấp mỹ xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712702,
+            "name": "Ấp Vĩnh Xuân A",
+            "pid": 15767,
+            "type": 17,
+            "region": null,
+            "alias": "ấp vĩnh xuân A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712708,
+            "name": "Ấp Vĩnh Xuân B",
+            "pid": 15767,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Xuân B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 769840,
+            "name": "Mỹ Xuân",
+            "pid": 15767,
+            "type": 17,
+            "region": null,
+            "alias": "Mỹ Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4352836",
+            "lng": "106.45531110000002"
+        }
+    ],
+    "log_id": "67581784f0ac8586"
+}

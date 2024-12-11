@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609222,
+            "name": "An Bình",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609234,
+            "name": "Đồng Nhơn Bắc",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Nhơn Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609231,
+            "name": "Đồng Nhơn Nam",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Nhơn Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609228,
+            "name": "Hương Nhượng Bắc",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Hương Nhượng Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609225,
+            "name": "Hương Nhượng Nam",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Hương Nhượng Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609213,
+            "name": "Tân An",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609219,
+            "name": "Tân Hưng",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 609216,
+            "name": "Tân Phước",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.62350040000001"
+        },
+        {
+            "id": 899629,
+            "name": "Thôn Giữa",
+            "pid": 17318,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1901298",
+            "lng": "108.6235004"
+        }
+    ],
+    "log_id": "675909a4deb77122"
+}

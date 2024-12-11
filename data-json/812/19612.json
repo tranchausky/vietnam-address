@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567633,
+            "name": "Thôn Hải Lạc",
+            "pid": 19612,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2607483",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567630,
+            "name": "Thôn Hải Thủy",
+            "pid": 19612,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2607483",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567627,
+            "name": "Thôn Hải Xuân",
+            "pid": 19612,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2607483",
+            "lng": "108.463214"
+        }
+    ],
+    "log_id": "67581477910fd430"
+}

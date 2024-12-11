@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1014894,
+            "name": "Bình Lăng",
+            "pid": 17978,
+            "type": 18,
+            "region": null,
+            "alias": "Bình Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.723153",
+            "lng": "106.482801"
+        },
+        {
+            "id": 1014897,
+            "name": "Nà Hoàng",
+            "pid": 17978,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.696321",
+            "lng": "106.487546"
+        },
+        {
+            "id": 807280,
+            "name": "Xóm Ná Chá",
+            "pid": 17978,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Ná Chá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7068147",
+            "lng": "106.47813510000003"
+        },
+        {
+            "id": 807283,
+            "name": "Xóm Na Leng",
+            "pid": 17978,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Na Leng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7068147",
+            "lng": "106.47813510000003"
+        }
+    ],
+    "log_id": "675816627de31380"
+}

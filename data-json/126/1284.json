@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 662098,
+            "name": "58-76 Tôn Thất Thuyết",
+            "pid": 1284,
+            "type": 29,
+            "region": null,
+            "alias": "58-76 Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7533216",
+            "lng": "106.7119513"
+        },
+        {
+            "id": 662083,
+            "name": "Chẵn 618-756 Đoàn Văn Bơ",
+            "pid": 1284,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 618-756 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7572614",
+            "lng": "106.7136088"
+        },
+        {
+            "id": 662092,
+            "name": "Chẵn 758-874 Đoàn Văn Bơ",
+            "pid": 1284,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 758-874 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7565053",
+            "lng": "106.7158981"
+        },
+        {
+            "id": 955908,
+            "name": "Đường Đoàn Văn Bơ",
+            "pid": 1284,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757324",
+            "lng": "106.7136005"
+        },
+        {
+            "id": 677785,
+            "name": "Đường Tôn Thất Thuyết",
+            "pid": 1284,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7533026",
+            "lng": "106.7131383"
+        },
+        {
+            "id": 681298,
+            "name": "Đường Xóm Chiếu",
+            "pid": 1284,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xóm Chiếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7562667",
+            "lng": "106.7096294"
+        },
+        {
+            "id": 45166,
+            "name": "Trường Thcs Tăng Bạt Hổ A",
+            "pid": 1284,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Tăng Bạt Hổ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7549907",
+            "lng": "106.70963710000001"
+        }
+    ],
+    "log_id": "6758129a96c87322"
+}

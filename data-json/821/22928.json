@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 582114,
+            "name": "Bản Mờ",
+            "pid": 22928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mờ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6394727",
+            "lng": "104.8257625"
+        },
+        {
+            "id": 582117,
+            "name": "Bản Pòng",
+            "pid": 22928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6394727",
+            "lng": "104.8257625"
+        },
+        {
+            "id": 582120,
+            "name": "Bản Pục",
+            "pid": 22928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6394727",
+            "lng": "104.8257625"
+        },
+        {
+            "id": 921058,
+            "name": "Xóm Bản Cáng",
+            "pid": 22928,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Bản Cáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6394727",
+            "lng": "104.8257625"
+        }
+    ],
+    "log_id": "67581208acf79790"
+}

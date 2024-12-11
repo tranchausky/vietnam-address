@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631242,
+            "name": "Kỳ Thọ Bắc",
+            "pid": 16202,
+            "type": 16,
+            "region": null,
+            "alias": "Kỳ Thọ Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.04086",
+            "lng": "108.79624020000006"
+        },
+        {
+            "id": 631236,
+            "name": "Kỳ Thọ Nam 1",
+            "pid": 16202,
+            "type": 16,
+            "region": null,
+            "alias": "Kỳ Thọ Nam 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.04086",
+            "lng": "108.79624020000006"
+        },
+        {
+            "id": 631239,
+            "name": "Kỳ Thọ Nam 2",
+            "pid": 16202,
+            "type": 16,
+            "region": null,
+            "alias": "Kỳ Thọ Nam 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.04086",
+            "lng": "108.79624020000006"
+        },
+        {
+            "id": 631245,
+            "name": "Phú Châu",
+            "pid": 16202,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.04086",
+            "lng": "108.79624020000006"
+        },
+        {
+            "id": 631248,
+            "name": "Xuân Vinh",
+            "pid": 16202,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.04086",
+            "lng": "108.79624020000006"
+        }
+    ],
+    "log_id": "675909a4a5d3a845"
+}

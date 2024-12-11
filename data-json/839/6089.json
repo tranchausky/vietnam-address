@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113091,
+            "name": "Ấp Bàu Khai",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.467656",
+            "lng": "11.274799"
+        },
+        {
+            "id": 113105,
+            "name": "Ấp Chót Đồng",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chót Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.479681",
+            "lng": "11.247580"
+        },
+        {
+            "id": 113121,
+            "name": "Ấp Đất Đỏ",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.481639",
+            "lng": "11.218109"
+        },
+        {
+            "id": 113167,
+            "name": "Ấp Hàng Nù",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hàng Nù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.477342",
+            "lng": "11.217946"
+        },
+        {
+            "id": 113151,
+            "name": "Ấp Hố Cạn",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hố Cạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.484312",
+            "lng": "11.217086"
+        },
+        {
+            "id": 113135,
+            "name": "Ấp Kiến An",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kiến An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.458816",
+            "lng": "11.273688"
+        },
+        {
+            "id": 113157,
+            "name": "Ấp Phú Bình",
+            "pid": 6089,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.457817",
+            "lng": "11.280074"
+        }
+    ],
+    "log_id": "675816218e66756"
+}

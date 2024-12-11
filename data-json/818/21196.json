@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 617352,
+            "name": "Thôn Kiên Trinh",
+            "pid": 21196,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiên Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.9202536",
+            "lng": "105.86425929999996"
+        },
+        {
+            "id": 617355,
+            "name": "Thôn Sy",
+            "pid": 21196,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.9202536",
+            "lng": "105.86425929999996"
+        }
+    ],
+    "log_id": "675814a9a3942303"
+}

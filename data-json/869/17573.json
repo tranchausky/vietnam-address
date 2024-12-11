@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443859,
+            "name": "Thôn Bình Nông",
+            "pid": 17573,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Nông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.519873",
+            "lng": "109.159672"
+        },
+        {
+            "id": 443861,
+            "name": "Thôn Bình Tây",
+            "pid": 17573,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.519873",
+            "lng": "109.159672"
+        },
+        {
+            "id": 443857,
+            "name": "Thôn Cao Phong",
+            "pid": 17573,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.519873",
+            "lng": "109.159672"
+        },
+        {
+            "id": 443855,
+            "name": "Thôn Long Phước",
+            "pid": 17573,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.519873",
+            "lng": "109.159672"
+        },
+        {
+            "id": 828079,
+            "name": "Ubnd Xã Xuân Lâm",
+            "pid": 17573,
+            "type": 21,
+            "region": null,
+            "alias": "UBND xã Xuân Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.519873",
+            "lng": "109.159672"
+        }
+    ],
+    "log_id": "67590b8090d5a548"
+}

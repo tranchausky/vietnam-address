@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425607,
+            "name": "Thôn Bắc Hải",
+            "pid": 21517,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0983101",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 425613,
+            "name": "Thôn Bắc Sơn Hải",
+            "pid": 21517,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc sơn hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0983101",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 425605,
+            "name": "Thôn Nam Hải",
+            "pid": 21517,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Nam Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0983101",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 425609,
+            "name": "Thôn Thượng Hải",
+            "pid": 21517,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Thượng Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0983101",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 425611,
+            "name": "Thôn Trung Hải",
+            "pid": 21517,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Trung hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0983101",
+            "lng": "106.30811940000001"
+        }
+    ],
+    "log_id": "675816e9ac86e922"
+}

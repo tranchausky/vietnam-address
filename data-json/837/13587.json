@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 898141,
+            "name": "Hán Đà",
+            "pid": 13587,
+            "type": 16,
+            "region": null,
+            "alias": "Hán đà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0858832",
+            "lng": "106.09993409999993"
+        },
+        {
+            "id": 853879,
+            "name": "Quảng Lãm",
+            "pid": 13587,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Lãm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0858832",
+            "lng": "106.09993409999993"
+        },
+        {
+            "id": 784708,
+            "name": "Thị Thôn",
+            "pid": 13587,
+            "type": 16,
+            "region": null,
+            "alias": "Thị Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0858832",
+            "lng": "106.09993409999993"
+        }
+    ],
+    "log_id": "675815f8c5e46305"
+}

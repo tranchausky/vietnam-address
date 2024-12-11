@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 948609,
+            "name": "Kcn Cái Mép",
+            "pid": 6611,
+            "type": 5,
+            "region": null,
+            "alias": "KCN cái mép",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5534073",
+            "lng": "107.0310126"
+        },
+        {
+            "id": 444781,
+            "name": "Khu Phố Ông Trịnh",
+            "pid": 6611,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ông Trịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5639613",
+            "lng": "107.0744052"
+        },
+        {
+            "id": 444785,
+            "name": "Khu Phố Phước Lộc",
+            "pid": 6611,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5639613",
+            "lng": "107.0744052"
+        },
+        {
+            "id": 444783,
+            "name": "Khu Phố Song Vĩnh",
+            "pid": 6611,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Song Vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5639613",
+            "lng": "107.0744052"
+        }
+    ],
+    "log_id": "675815b41330e590"
+}

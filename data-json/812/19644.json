@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567534,
+            "name": "Thôn Tiến Đạt",
+            "pid": 19644,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiến Đạt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2788206",
+            "lng": "108.17844549999995"
+        },
+        {
+            "id": 567537,
+            "name": "Thôn Tiến Thành",
+            "pid": 19644,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiến Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2788206",
+            "lng": "108.17844549999995"
+        }
+    ],
+    "log_id": "6758147791250777"
+}

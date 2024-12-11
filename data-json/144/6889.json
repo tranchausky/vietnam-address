@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 793597,
+            "name": "Kim Trung",
+            "pid": 6889,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 793594,
+            "name": "Nam",
+            "pid": 6889,
+            "type": 18,
+            "region": null,
+            "alias": "Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 610323,
+            "name": "Thôn Bắc",
+            "pid": 6889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 610329,
+            "name": "Thôn Bè",
+            "pid": 6889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 610332,
+            "name": "Thôn Bến",
+            "pid": 6889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 610338,
+            "name": "Thôn Thượng",
+            "pid": 6889,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 610335,
+            "name": "Thôn Trung",
+            "pid": 6889,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1629432",
+            "lng": "106.30811940000001"
+        }
+    ],
+    "log_id": "675813d928c19971"
+}

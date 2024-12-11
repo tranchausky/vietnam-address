@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93791,
+            "name": "Khu Phố Phú Mỹ",
+            "pid": 7086,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.903600",
+            "lng": "107.174759"
+        },
+        {
+            "id": 93788,
+            "name": "Khu Phố Trung Tâm",
+            "pid": 7086,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Trung Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.926137",
+            "lng": "107.180460"
+        }
+    ],
+    "log_id": "675814dd626cd869"
+}

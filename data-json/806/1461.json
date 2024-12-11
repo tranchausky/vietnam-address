@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7932,
+            "name": "Thị Trấn Phong Điền",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Phong Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0108953",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 7936,
+            "name": "Xã Giai Xuân",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Giai Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0428587",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 7933,
+            "name": "Xã Mỹ Khánh",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mỹ Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9983647",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 7934,
+            "name": "Xã Nhơn Ái",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nhơn Ái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 7938,
+            "name": "Xã Nhơn Nghĩa",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nhơn Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 7935,
+            "name": "Xã Tân Thới",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0337081",
+            "lng": "105.64711779999993"
+        },
+        {
+            "id": 7937,
+            "name": "Xã Trường Long",
+            "pid": 1461,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trường Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9606211",
+            "lng": "105.5884754"
+        }
+    ],
+    "log_id": "6758140c6071b348"
+}

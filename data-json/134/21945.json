@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 755380,
+            "name": "Bản Pìa",
+            "pid": 21945,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pìa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9313034",
+            "lng": "106.51200770000004"
+        },
+        {
+            "id": 727645,
+            "name": "Khuổi Luông",
+            "pid": 21945,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9313034",
+            "lng": "106.51200770000004"
+        }
+    ],
+    "log_id": "6758133eceb34283"
+}

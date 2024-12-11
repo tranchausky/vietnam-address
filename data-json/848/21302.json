@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425547,
+            "name": "Tdp Đông Trinh",
+            "pid": 21302,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Đông Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0098759",
+            "lng": "105.7841884"
+        },
+        {
+            "id": 425545,
+            "name": "Tdp Hòa Lộc",
+            "pid": 21302,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Hòa Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1631642",
+            "lng": "106.3169479"
+        },
+        {
+            "id": 425539,
+            "name": "Tdp Hòàng Trinh",
+            "pid": 21302,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Hòàng Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9174989",
+            "lng": "105.8319653"
+        },
+        {
+            "id": 425543,
+            "name": "Tdp Quyền Hành",
+            "pid": 21302,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Quyền Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0457228",
+            "lng": "105.7973312"
+        },
+        {
+            "id": 425541,
+            "name": "Tdp Quyền Thượng",
+            "pid": 21302,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Quyền Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.751416",
+            "lng": "106.661956"
+        },
+        {
+            "id": 425537,
+            "name": "Tdp Tây Trinh",
+            "pid": 21302,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Tây Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9321702",
+            "lng": "106.3378594"
+        }
+    ],
+    "log_id": "675816e9d7b8e470"
+}

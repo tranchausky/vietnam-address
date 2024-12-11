@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638742,
+            "name": "Thôn Kim Đôi",
+            "pid": 7133,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Đôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974729",
+            "lng": "106.23066300000005"
+        },
+        {
+            "id": 638739,
+            "name": "Thôn Ngọc Lâu",
+            "pid": 7133,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Lâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974729",
+            "lng": "106.23066300000005"
+        },
+        {
+            "id": 638745,
+            "name": "Thôn Phượng Hoàng",
+            "pid": 7133,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phượng Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974729",
+            "lng": "106.23066300000005"
+        },
+        {
+            "id": 638736,
+            "name": "Thôn Quý Khê",
+            "pid": 7133,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quý Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974729",
+            "lng": "106.23066300000005"
+        },
+        {
+            "id": 725020,
+            "name": "Trường Tiểu Học Cẩm Hoàng",
+            "pid": 7133,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Cẩm Hoàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9684918",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 638748,
+            "name": "Xóm 19\/5",
+            "pid": 7133,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 19\/5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974729",
+            "lng": "106.23066300000005"
+        }
+    ],
+    "log_id": "675813f167f5c160"
+}

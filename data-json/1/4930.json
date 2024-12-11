@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877570,
+            "name": "Cầu Diễn",
+            "pid": 4930,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu Diễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,051109",
+            "lng": "105,743706"
+        },
+        {
+            "id": 52662,
+            "name": "Đại Học Công Nghiệp Hà Nội",
+            "pid": 4930,
+            "type": 9,
+            "region": null,
+            "alias": "Đại học Công Nghiệp Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 877597,
+            "name": "Đường Phú Minh",
+            "pid": 4930,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phú Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,051109",
+            "lng": "105,743706"
+        },
+        {
+            "id": 52682,
+            "name": "Trường Thcs Minh Khai",
+            "pid": 4930,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc9dfd9265"
+}

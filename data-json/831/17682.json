@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 863296,
+            "name": "Đường Âu Cơ",
+            "pid": 17682,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Âu Cơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 856798,
+            "name": "Đường Lê Duẩn",
+            "pid": 17682,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Duẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.006394",
+            "lng": "108.943885"
+        },
+        {
+            "id": 743971,
+            "name": "Nhà Trọ Hiệp Cường",
+            "pid": 17682,
+            "type": 20,
+            "region": null,
+            "alias": "Nhà Trọ Hiệp Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 485793,
+            "name": "Thôn Dốc Gạo",
+            "pid": 17682,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Dốc Gạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 485785,
+            "name": "Thôn Hạp Phú",
+            "pid": 17682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạp Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 485789,
+            "name": "Thôn Hạp Thịnh",
+            "pid": 17682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạp Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 485791,
+            "name": "Thôn Tà Lương",
+            "pid": 17682,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tà Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 743974,
+            "name": "Tổ Dân Phố Hạp Cường",
+            "pid": 17682,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố Hạp Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 485787,
+            "name": "Tổ Hạp Cường",
+            "pid": 17682,
+            "type": 16,
+            "region": null,
+            "alias": "tổ Hạp Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 743968,
+            "name": "Tổ Hạp Phú",
+            "pid": 17682,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Hạp Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        }
+    ],
+    "log_id": "67581585dd107501"
+}

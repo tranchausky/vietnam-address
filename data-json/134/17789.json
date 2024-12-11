@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 892999,
+            "name": "Bản Mới B",
+            "pid": 17789,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mới B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7141803",
+            "lng": "107.00301279999996"
+        },
+        {
+            "id": 892996,
+            "name": "Khòn Sè",
+            "pid": 17789,
+            "type": 16,
+            "region": null,
+            "alias": "Khòn Sè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7141803",
+            "lng": "107.00301279999996"
+        },
+        {
+            "id": 852478,
+            "name": "Làng San Viem",
+            "pid": 17789,
+            "type": 16,
+            "region": null,
+            "alias": "làng San Viem",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7141803",
+            "lng": "107.00301279999996"
+        }
+    ],
+    "log_id": "6758133f4570e783"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631536,
+            "name": "Cà Xen",
+            "pid": 18493,
+            "type": 16,
+            "region": null,
+            "alias": "Cà Xen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9149058",
+            "lng": "108.62943840000003"
+        },
+        {
+            "id": 631533,
+            "name": "Làng Ren",
+            "pid": 18493,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ren",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9149058",
+            "lng": "108.62943840000003"
+        },
+        {
+            "id": 631530,
+            "name": "Làng Trê",
+            "pid": 18493,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9149058",
+            "lng": "108.62943840000003"
+        },
+        {
+            "id": 631539,
+            "name": "Thôn Làng Vang",
+            "pid": 18493,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Vang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9149058",
+            "lng": "108.62943840000003"
+        }
+    ],
+    "log_id": "675909a4d2c0320"
+}

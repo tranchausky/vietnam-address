@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 707083,
+            "name": "Ấp 2",
+            "pid": 7420,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.295844",
+            "lng": "106.434050"
+        },
+        {
+            "id": 707098,
+            "name": "Ấp 3",
+            "pid": 7420,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.295844",
+            "lng": "106.434050"
+        },
+        {
+            "id": 707089,
+            "name": "Ấp Hòa An",
+            "pid": 7420,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.295844",
+            "lng": "106.434050"
+        }
+    ],
+    "log_id": "6758160ddcc98891"
+}

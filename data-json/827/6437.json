@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 548811,
+            "name": "Bình Lạc",
+            "pid": 6437,
+            "type": 20,
+            "region": null,
+            "alias": "Bình Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 548813,
+            "name": "Bình Sơn",
+            "pid": 6437,
+            "type": 20,
+            "region": null,
+            "alias": "Bình Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 548815,
+            "name": "Lạc Kiều",
+            "pid": 6437,
+            "type": 20,
+            "region": null,
+            "alias": "Lạc Kiều",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 548817,
+            "name": "Sơn Cầu",
+            "pid": 6437,
+            "type": 20,
+            "region": null,
+            "alias": "Sơn Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 548819,
+            "name": "Sơn Cầu Nam",
+            "pid": 6437,
+            "type": 20,
+            "region": null,
+            "alias": "Sơn Cầu Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 548821,
+            "name": "Then",
+            "pid": 6437,
+            "type": 20,
+            "region": null,
+            "alias": "Then",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 837955,
+            "name": "Thống Nhất",
+            "pid": 6437,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4237125",
+            "lng": "105.40387929999996"
+        }
+    ],
+    "log_id": "675815338d853912"
+}

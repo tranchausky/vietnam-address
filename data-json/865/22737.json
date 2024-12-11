@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559693,
+            "name": "Khu 1",
+            "pid": 22737,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559695,
+            "name": "Khu 2",
+            "pid": 22737,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559697,
+            "name": "Khu 3",
+            "pid": 22737,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559699,
+            "name": "Khu 4",
+            "pid": 22737,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559701,
+            "name": "Khu 5",
+            "pid": 22737,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559703,
+            "name": "Khu 6",
+            "pid": 22737,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 594096,
+            "name": "Khu 6",
+            "pid": 22737,
+            "type": 21,
+            "region": null,
+            "alias": "khu 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 594426,
+            "name": "Thôn Đoàn Kết",
+            "pid": 22737,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đoàn kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559705,
+            "name": "Thôn Giao Xá",
+            "pid": 22737,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giao Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 559707,
+            "name": "Thôn Hào Lương",
+            "pid": 22737,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hào Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        },
+        {
+            "id": 704908,
+            "name": "Thôn Lam Sơn",
+            "pid": 22737,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999996"
+        },
+        {
+            "id": 559709,
+            "name": "Thôn Phúc Lâm",
+            "pid": 22737,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8978988",
+            "lng": "105.40387929999997"
+        }
+    ],
+    "log_id": "67590a23dae6a118"
+}

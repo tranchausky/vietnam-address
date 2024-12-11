@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 426751,
+            "name": "Xóm 1",
+            "pid": 21282,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5036549",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 426753,
+            "name": "Xóm 2",
+            "pid": 21282,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5036549",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 426755,
+            "name": "Xóm 3",
+            "pid": 21282,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5036549",
+            "lng": "105.53864470000008"
+        },
+        {
+            "id": 426757,
+            "name": "Xóm 4",
+            "pid": 21282,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5036549",
+            "lng": "105.53864470000008"
+        }
+    ],
+    "log_id": "675816e9e7036624"
+}

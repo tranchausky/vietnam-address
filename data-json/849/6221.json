@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 703708,
+            "name": "Cafe 1967 Cô Giang",
+            "pid": 6221,
+            "type": 17,
+            "region": null,
+            "alias": "Cafe 1967 Cô Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7781802",
+            "lng": "105.46685449999997"
+        },
+        {
+            "id": 111807,
+            "name": "Khu Vực 1",
+            "pid": 6221,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.779790",
+            "lng": "105.466513"
+        },
+        {
+            "id": 111823,
+            "name": "Khu Vực 2",
+            "pid": 6221,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.779790",
+            "lng": "105.466513"
+        },
+        {
+            "id": 111837,
+            "name": "Khu Vực 3",
+            "pid": 6221,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.779790",
+            "lng": "105.466513"
+        },
+        {
+            "id": 111863,
+            "name": "Khu Vực 4",
+            "pid": 6221,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.779790",
+            "lng": "105.466513"
+        }
+    ],
+    "log_id": "675816fe48409686"
+}

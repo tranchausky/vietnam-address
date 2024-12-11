@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 659041,
+            "name": "Thôn Hòa Hội Bắc",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Hội Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.189356943973305,",
+            "lng": "109.16504166733468"
+        },
+        {
+            "id": 659044,
+            "name": "Thôn Hòa Hội Nam",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Hội Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.1408060570724",
+            "lng": "109.19850125781153"
+        },
+        {
+            "id": 659047,
+            "name": "Thôn Hưng Lạc",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hưng Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.179554948582318",
+            "lng": "109.17268749372855"
+        },
+        {
+            "id": 659050,
+            "name": "Thôn Hưng Tân",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hưng Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.18329597600236",
+            "lng": "109.16253277904325"
+        },
+        {
+            "id": 653950,
+            "name": "Thôn Vĩnh Lợi 1",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Lợi 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.15268344821006",
+            "lng": "109.19197691837357"
+        },
+        {
+            "id": 654082,
+            "name": "Thôn Vĩnh Lợi 2",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Lợi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.196098636481164",
+            "lng": "109.16448031153179"
+        },
+        {
+            "id": 659053,
+            "name": "Thôn Xuân Bình Nam",
+            "pid": 19632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Bình Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.190069659032126",
+            "lng": "109.16430898728508"
+        }
+    ],
+    "log_id": "6758150da2a1f554"
+}

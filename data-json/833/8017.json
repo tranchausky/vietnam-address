@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109375,
+            "name": "Ấp Giồng Trà Dên",
+            "pid": 8017,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Trà Dên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.828892",
+            "lng": "105.179192"
+        },
+        {
+            "id": 109415,
+            "name": "Ấp Hòa Tân",
+            "pid": 8017,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.823595",
+            "lng": "105.173068"
+        },
+        {
+            "id": 109391,
+            "name": "Ấp Hòa Thạnh",
+            "pid": 8017,
+            "type": 10,
+            "region": null,
+            "alias": "Ấp Hòa Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.831931379020535",
+            "lng": "105.16656331979705"
+        },
+        {
+            "id": 109435,
+            "name": "Ấp Núi Nổi",
+            "pid": 8017,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Núi Nổi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.824817",
+            "lng": "105.173604"
+        },
+        {
+            "id": 109447,
+            "name": "Ấp Tân Đông",
+            "pid": 8017,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.824554",
+            "lng": "105.172113"
+        },
+        {
+            "id": 109357,
+            "name": "Ấp Tân Phú",
+            "pid": 8017,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.825777",
+            "lng": "105.177273"
+        },
+        {
+            "id": 985999,
+            "name": "Trường Mẫu Giáo Tân Thạnh",
+            "pid": 8017,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mẫu Giáo Tân Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.835623959375157",
+            "lng": "105.17215666855594"
+        },
+        {
+            "id": 986001,
+            "name": "Trường Thcs Tân Thạnh",
+            "pid": 8017,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Tân Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.828302801835854",
+            "lng": "105.15797594994925"
+        }
+    ],
+    "log_id": "6758159dc7c8f262"
+}

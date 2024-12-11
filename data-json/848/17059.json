@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428539,
+            "name": "Tân Thượng",
+            "pid": 17059,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5067104",
+            "lng": "105.843708"
+        },
+        {
+            "id": 428537,
+            "name": "Tân Trung",
+            "pid": 17059,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5067104",
+            "lng": "105.843708"
+        },
+        {
+            "id": 428543,
+            "name": "Thôn Kim Tân",
+            "pid": 17059,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5067104",
+            "lng": "105.843708"
+        },
+        {
+            "id": 428541,
+            "name": "Thôn Tân Thành",
+            "pid": 17059,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5067104",
+            "lng": "105.843708"
+        }
+    ],
+    "log_id": "675816e9e7a7f291"
+}

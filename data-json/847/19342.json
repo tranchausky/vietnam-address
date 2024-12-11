@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450443,
+            "name": "Làng Hrach",
+            "pid": 19342,
+            "type": 16,
+            "region": null,
+            "alias": "làng Hrach",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        },
+        {
+            "id": 450437,
+            "name": "Làng Nhang Lớn",
+            "pid": 19342,
+            "type": 16,
+            "region": null,
+            "alias": "làng nhang lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        },
+        {
+            "id": 450439,
+            "name": "Làng Nhang Nhỏ",
+            "pid": 19342,
+            "type": 16,
+            "region": null,
+            "alias": "làng nhang nhỏ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        },
+        {
+            "id": 450441,
+            "name": "Làng Tờ Cách",
+            "pid": 19342,
+            "type": 16,
+            "region": null,
+            "alias": "làng tờ Cách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        }
+    ],
+    "log_id": "675816d3621f3901"
+}

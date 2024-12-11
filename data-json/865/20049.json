@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 561411,
+            "name": "Thôn Đông Ninh",
+            "pid": 20049,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Đông Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.002297",
+            "lng": "105.845411"
+        },
+        {
+            "id": 561413,
+            "name": "Thôn Đường Cát",
+            "pid": 20049,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đường Cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0037745",
+            "lng": "105.83783659999995"
+        }
+    ],
+    "log_id": "67590a23ccd8515"
+}

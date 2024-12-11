@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452003,
+            "name": "Khu Phố Gò Thuyền",
+            "pid": 7288,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Gò Thuyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.836483",
+            "lng": "105.66178130000003"
+        },
+        {
+            "id": 452005,
+            "name": "Khu Phố Gò Thuyền A",
+            "pid": 7288,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Gò Thuyền A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.836483",
+            "lng": "105.66178130000003"
+        },
+        {
+            "id": 452007,
+            "name": "Khu Phố Rọc Chanh",
+            "pid": 7288,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Rọc Chanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.836483",
+            "lng": "105.66178130000003"
+        },
+        {
+            "id": 452009,
+            "name": "Khu Phố Rọc Chanh A",
+            "pid": 7288,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Rọc Chanh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.836483",
+            "lng": "105.66178130000003"
+        }
+    ],
+    "log_id": "675817853d926978"
+}

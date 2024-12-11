@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 898099,
+            "name": "Chi Quảng",
+            "pid": 14588,
+            "type": 16,
+            "region": null,
+            "alias": "Chi Quảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2724243",
+            "lng": "105.88040849999993"
+        },
+        {
+            "id": 853795,
+            "name": "Khuổi Tràm",
+            "pid": 14588,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Tràm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2724243",
+            "lng": "105.88040849999993"
+        },
+        {
+            "id": 898096,
+            "name": "Phòng Lao Động Thương Binh Xã Hội",
+            "pid": 14588,
+            "type": 16,
+            "region": null,
+            "alias": "Phòng Lao động thương Binh xã hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2724243",
+            "lng": "105.88040849999993"
+        }
+    ],
+    "log_id": "675815c9277e36"
+}

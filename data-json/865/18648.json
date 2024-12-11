@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558809,
+            "name": "Thọ Đông",
+            "pid": 18648,
+            "type": 18,
+            "region": null,
+            "alias": "Thọ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5828467",
+            "lng": "105.65496919999998"
+        },
+        {
+            "id": 558815,
+            "name": "Thọ Khang",
+            "pid": 18648,
+            "type": 18,
+            "region": null,
+            "alias": "Thọ Khang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5828467",
+            "lng": "105.65496919999998"
+        },
+        {
+            "id": 558811,
+            "name": "Thọthượng",
+            "pid": 18648,
+            "type": 18,
+            "region": null,
+            "alias": "ThọThượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5828467",
+            "lng": "105.65496919999998"
+        },
+        {
+            "id": 558813,
+            "name": "Thọ Văn",
+            "pid": 18648,
+            "type": 18,
+            "region": null,
+            "alias": "Thọ Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5828467",
+            "lng": "105.65496919999998"
+        }
+    ],
+    "log_id": "67590a24b9e1b497"
+}

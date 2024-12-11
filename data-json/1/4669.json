@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 765949,
+            "name": "Kim Hồ",
+            "pid": 4669,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 784939,
+            "name": "Thôn Cổ Giang",
+            "pid": 4669,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 765955,
+            "name": "Thôn Sen Hồ",
+            "pid": 4669,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Sen Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 765961,
+            "name": "Xóm Trại Kim Hồ",
+            "pid": 4669,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm Trại Kim Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb9c2ba99"
+}

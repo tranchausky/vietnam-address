@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462239,
+            "name": "Thôn Hòa An",
+            "pid": 18851,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hòa an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3220799",
+            "lng": "107.92355629999997"
+        },
+        {
+            "id": 462235,
+            "name": "Thôn Mai Gia Phường",
+            "pid": 18851,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mai gia phường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3220799",
+            "lng": "107.92355629999997"
+        },
+        {
+            "id": 462237,
+            "name": "Thôn Tân An Hải",
+            "pid": 18851,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân an hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3220799",
+            "lng": "107.92355629999997"
+        },
+        {
+            "id": 462233,
+            "name": "Thôn Tân Mai",
+            "pid": 18851,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3220799",
+            "lng": "107.92355629999997"
+        }
+    ],
+    "log_id": "67590b262417e821"
+}

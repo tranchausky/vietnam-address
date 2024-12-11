@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834007,
+            "name": "Ngã Tư Thôn 2",
+            "pid": 18959,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã tư thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        },
+        {
+            "id": 444213,
+            "name": "Thôn Nguyên An",
+            "pid": 18959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyên An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        },
+        {
+            "id": 444215,
+            "name": "Thôn Nguyên Cam",
+            "pid": 18959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyên Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        },
+        {
+            "id": 444217,
+            "name": "Thôn Nguyên Hà",
+            "pid": 18959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        },
+        {
+            "id": 444221,
+            "name": "Thôn Nguyên Trang",
+            "pid": 18959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyên Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        },
+        {
+            "id": 444219,
+            "name": "Thôn Nguyên Xuân",
+            "pid": 18959,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyên Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        },
+        {
+            "id": 952972,
+            "name": "Uỷ Ban Nhân Dân Xã Sơn Nguyên",
+            "pid": 18959,
+            "type": 21,
+            "region": null,
+            "alias": "Uỷ Ban Nhân Dân Xã Sơn Nguyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.114405",
+            "lng": "109.027661"
+        }
+    ],
+    "log_id": "67590b809a031214"
+}

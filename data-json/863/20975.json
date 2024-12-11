@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410947,
+            "name": "Đồng Lạc",
+            "pid": 20975,
+            "type": 16,
+            "region": null,
+            "alias": "đồng lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5797257",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 410939,
+            "name": "Hiến Nạp",
+            "pid": 20975,
+            "type": 16,
+            "region": null,
+            "alias": "hiến nạp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5797257",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 410941,
+            "name": "Thanh Cách",
+            "pid": 20975,
+            "type": 16,
+            "region": null,
+            "alias": "thanh cách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5797257",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 410937,
+            "name": "Thanh La",
+            "pid": 20975,
+            "type": 16,
+            "region": null,
+            "alias": "thanh la",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5797257",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 410943,
+            "name": "Thôn Tuy Lai 1",
+            "pid": 20975,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tuy lai 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5797257",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 985079,
+            "name": "Tư La",
+            "pid": 20975,
+            "type": 10,
+            "region": null,
+            "alias": "Tư La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5826865",
+            "lng": "106.2180624"
+        },
+        {
+            "id": 410945,
+            "name": "Tuy Lai 2",
+            "pid": 20975,
+            "type": 16,
+            "region": null,
+            "alias": "tuy lai 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5797257",
+            "lng": "106.23750500000006"
+        }
+    ],
+    "log_id": "675909f3c2974158"
+}

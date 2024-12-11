@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450489,
+            "name": "Làng Bgia",
+            "pid": 19337,
+            "type": 16,
+            "region": null,
+            "alias": "làng Bgia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.690853",
+            "lng": "108.661022"
+        },
+        {
+            "id": 450493,
+            "name": "Làng Bting",
+            "pid": 19337,
+            "type": 16,
+            "region": null,
+            "alias": "làng Bting",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.690853",
+            "lng": "108.661022"
+        },
+        {
+            "id": 450491,
+            "name": "Làng Hgia",
+            "pid": 19337,
+            "type": 16,
+            "region": null,
+            "alias": "làng Hgia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.690853",
+            "lng": "108.661022"
+        },
+        {
+            "id": 450487,
+            "name": "Làng Kuoc",
+            "pid": 19337,
+            "type": 16,
+            "region": null,
+            "alias": "làng Kuoc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.690853",
+            "lng": "108.661022"
+        },
+        {
+            "id": 450485,
+            "name": "Làng Que",
+            "pid": 19337,
+            "type": 16,
+            "region": null,
+            "alias": "làng que",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.690853",
+            "lng": "108.661022"
+        }
+    ],
+    "log_id": "675816d36bebd863"
+}

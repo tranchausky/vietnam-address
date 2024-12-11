@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 635883,
+            "name": "Thôn Đá Bạc",
+            "pid": 6648,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Bạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9907308",
+            "lng": "106.70282500000008"
+        },
+        {
+            "id": 635886,
+            "name": "Thôn Thủy Minh",
+            "pid": 6648,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thủy Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9907308",
+            "lng": "106.70282500000008"
+        }
+    ],
+    "log_id": "67581365d1fbe740"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442539,
+            "name": "Ấp 2A",
+            "pid": 7394,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 2a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2131172",
+            "lng": "106.39936579999994"
+        },
+        {
+            "id": 442541,
+            "name": "Ấp 2B",
+            "pid": 7394,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 2b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2131172",
+            "lng": "106.39936579999994"
+        },
+        {
+            "id": 442543,
+            "name": "Ấp 3",
+            "pid": 7394,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2131172",
+            "lng": "106.39936579999994"
+        },
+        {
+            "id": 442545,
+            "name": "Ấp 4",
+            "pid": 7394,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2131172",
+            "lng": "106.39936579999994"
+        },
+        {
+            "id": 442537,
+            "name": "Ấp Nhơn An",
+            "pid": 7394,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhơn An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2131172",
+            "lng": "106.39936579999994"
+        },
+        {
+            "id": 442535,
+            "name": "Ấp Nhơn Nghĩa",
+            "pid": 7394,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhơn Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2131172",
+            "lng": "106.39936579999994"
+        }
+    ],
+    "log_id": "6758160dc6d60682"
+}

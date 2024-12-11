@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 667462,
+            "name": "Đội 1 Lại Yên Hoài Đức",
+            "pid": 4689,
+            "type": 22,
+            "region": null,
+            "alias": "đội 1 Lại yên hoài đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0294445",
+            "lng": "105.7048753"
+        },
+        {
+            "id": 667504,
+            "name": "Đội 2 Lại Yên Hoài Đức",
+            "pid": 4689,
+            "type": 22,
+            "region": null,
+            "alias": "đội 2 Lại yên hoài đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0250778",
+            "lng": "105.7045319"
+        },
+        {
+            "id": 667507,
+            "name": "Đội 3 Lại Yên Hoài Đưc",
+            "pid": 4689,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 3 lại yên hoài đưc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.025958",
+            "lng": "105.7041294"
+        },
+        {
+            "id": 667513,
+            "name": "Đội 4 Lại Yên Hoài Đức",
+            "pid": 4689,
+            "type": 22,
+            "region": null,
+            "alias": "đội 4 lại yên hoài đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0258411",
+            "lng": "105.7055593"
+        },
+        {
+            "id": 54686,
+            "name": "Ubnd Xã Lại Yên",
+            "pid": 4689,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Lại Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb9eeac219"
+}

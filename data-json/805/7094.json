@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652165,
+            "name": "Thôn Cộng Hòa",
+            "pid": 7094,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cộng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.868666",
+            "lng": "106.338390"
+        },
+        {
+            "id": 652171,
+            "name": "Thông Đồng Tâm",
+            "pid": 7094,
+            "type": 16,
+            "region": null,
+            "alias": "Thông Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.869279",
+            "lng": "106.337510"
+        },
+        {
+            "id": 652159,
+            "name": "Thôn Lũy Dương",
+            "pid": 7094,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lũy Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.865790",
+            "lng": "106.345793"
+        },
+        {
+            "id": 652168,
+            "name": "Thôn Thành Lập",
+            "pid": 7094,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.869252",
+            "lng": "106.336073"
+        },
+        {
+            "id": 652162,
+            "name": "Thôn Trình Xá",
+            "pid": 7094,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trình Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.864572",
+            "lng": "106.336309"
+        }
+    ],
+    "log_id": "675813f1ae780548"
+}

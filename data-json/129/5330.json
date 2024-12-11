@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 982754,
+            "name": "Đường Chương Dương",
+            "pid": 5330,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chương Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 982741,
+            "name": "Đường Võ Nguyên Giáp",
+            "pid": 5330,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Nguyên Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d165b18879"
+}

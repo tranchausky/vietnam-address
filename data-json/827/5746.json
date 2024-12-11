@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 990962,
+            "name": "72-74 Lê Hồng Phong",
+            "pid": 5746,
+            "type": 20,
+            "region": null,
+            "alias": "72-74 Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2918712",
+            "lng": "105.5804052"
+        },
+        {
+            "id": 849988,
+            "name": "Khu Trại Tạm Giam",
+            "pid": 5746,
+            "type": 20,
+            "region": null,
+            "alias": "Khu Trại Tạm Giam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 550263,
+            "name": "Ngõ 11 Đường Lam Sơn",
+            "pid": 5746,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 11 Đường Lam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 550261,
+            "name": "Ngõ 11A Đường Lam Sơn",
+            "pid": 5746,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 11A Đường Lam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 550267,
+            "name": "Ngõ 26 Đường Hùng Vương",
+            "pid": 5746,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 26 Đường Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 901276,
+            "name": "Số Chẵn Từ 426 Đến 756 Đường Hùng Vương",
+            "pid": 5746,
+            "type": 16,
+            "region": null,
+            "alias": "Số chẵn Từ 426 Đến 756 Đường Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 550255,
+            "name": "Số Lẻ Từ 375 Đến 713 Đường Hùng Vương",
+            "pid": 5746,
+            "type": 18,
+            "region": null,
+            "alias": "Số lẻ Từ 375 Đến 713 Đường Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 995810,
+            "name": "Từ 574-756 Hùng Vương - Đồng Tâm",
+            "pid": 5746,
+            "type": 21,
+            "region": null,
+            "alias": "Từ 574-756 Hùng Vương - Đồng Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.303181877350305",
+            "lng": "105.56444345449583"
+        },
+        {
+            "id": 735088,
+            "name": "Từ Ngõ 27 Đến Ngõ 45 Đường Hùng Vương",
+            "pid": 5746,
+            "type": 20,
+            "region": null,
+            "alias": "Từ ngõ 27 Đến ngõ 45 Đường Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        }
+    ],
+    "log_id": "675815338e27f749"
+}

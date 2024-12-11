@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 722953,
+            "name": "Bản Nghịu Cọ",
+            "pid": 16652,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nghịu Cọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.171982",
+            "lng": "103.94340349999992"
+        },
+        {
+            "id": 723031,
+            "name": "Bản Pắc",
+            "pid": 16652,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.171982",
+            "lng": "103.94340349999992"
+        },
+        {
+            "id": 723037,
+            "name": "Bản Rẻ",
+            "pid": 16652,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Rẻ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.171982",
+            "lng": "103.94340349999992"
+        }
+    ],
+    "log_id": "675812ef48d03928"
+}

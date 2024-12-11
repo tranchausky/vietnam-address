@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 405985,
+            "name": "Thôn Hương Thịnh",
+            "pid": 25365,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Hương Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3519387",
+            "lng": "105.9141793"
+        },
+        {
+            "id": 405987,
+            "name": "Thôn Hữu Định",
+            "pid": 25365,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hữu Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3519387",
+            "lng": "105.9141793"
+        },
+        {
+            "id": 405989,
+            "name": "Thôn Phú Cốc",
+            "pid": 25365,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Cốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3519387",
+            "lng": "105.9141793"
+        }
+    ],
+    "log_id": "675813d91e289824"
+}

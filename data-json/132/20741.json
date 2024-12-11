@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 921208,
+            "name": "Liên Hiệp",
+            "pid": 20741,
+            "type": 16,
+            "region": null,
+            "alias": "Liên Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7078528",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 417783,
+            "name": "Thôn Đào Kiều",
+            "pid": 20741,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đào kiều",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7078528",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 417787,
+            "name": "Thôn Hơn",
+            "pid": 20741,
+            "type": 10,
+            "region": null,
+            "alias": "thôn hơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7078528",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 417785,
+            "name": "Thôn Hợp Nhất",
+            "pid": 20741,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hợp nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7078528",
+            "lng": "105.0031457"
+        },
+        {
+            "id": 417781,
+            "name": "Thôn Miếu Hạ",
+            "pid": 20741,
+            "type": 16,
+            "region": null,
+            "alias": "thôn miếu hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7078528",
+            "lng": "105.0031457"
+        }
+    ],
+    "log_id": "6758131fab8b7128"
+}

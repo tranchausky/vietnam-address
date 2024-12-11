@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88436,
+            "name": "Ấp Cây Khô",
+            "pid": 19268,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Cây Khô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.295642529680777",
+            "lng": "106.90647140457256"
+        },
+        {
+            "id": 88430,
+            "name": "Ấp Đồng Tâm",
+            "pid": 19268,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.279693707204023",
+            "lng": "106.87378985855601"
+        },
+        {
+            "id": 88439,
+            "name": "Ấp Đuôi Chuột",
+            "pid": 19268,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Đuôi Chuột",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.235928212852114",
+            "lng": "106.82638912343447"
+        },
+        {
+            "id": 88433,
+            "name": "Ấp Gia Biện",
+            "pid": 19268,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Gia Biện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.332067784894535",
+            "lng": "106.91967927202103"
+        }
+    ],
+    "log_id": "67581621893ca892"
+}

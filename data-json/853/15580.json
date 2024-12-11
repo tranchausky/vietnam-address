@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110443,
+            "name": "Bản Đông Phong",
+            "pid": 15580,
+            "type": 16,
+            "region": null,
+            "alias": "bản Đông Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.441316",
+            "lng": "103.463696"
+        },
+        {
+            "id": 110475,
+            "name": "Bản La Đông",
+            "pid": 15580,
+            "type": 16,
+            "region": null,
+            "alias": "bản La đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.462473",
+            "lng": "103.449447"
+        },
+        {
+            "id": 649489,
+            "name": "Bản Lở Thàng",
+            "pid": 15580,
+            "type": 16,
+            "region": null,
+            "alias": "bản Lở Thàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.471127  ",
+            "lng": "103.463168"
+        },
+        {
+            "id": 649492,
+            "name": "Bản Sín Câu",
+            "pid": 15580,
+            "type": 16,
+            "region": null,
+            "alias": "bản Sín Câu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.444430",
+            "lng": "103.486565"
+        },
+        {
+            "id": 109869,
+            "name": "Bản Thèn Sin",
+            "pid": 15580,
+            "type": 16,
+            "region": null,
+            "alias": "bản thèn sin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.451560",
+            "lng": "103.459283"
+        }
+    ],
+    "log_id": "6758175e50dc4999"
+}

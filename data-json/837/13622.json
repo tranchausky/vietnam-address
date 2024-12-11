@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 855460,
+            "name": "Đồng Bèo",
+            "pid": 13622,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Bèo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.141648",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 108257,
+            "name": "Thôn Nghĩa Lập",
+            "pid": 13622,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1404658",
+            "lng": "105.9240817"
+        },
+        {
+            "id": 106052,
+            "name": "Thôn Phù Khê Đông",
+            "pid": 13622,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Khê Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1404858",
+            "lng": "105.9240817"
+        },
+        {
+            "id": 106064,
+            "name": "Thôn Phù Khê Thượng",
+            "pid": 13622,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Khê Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1404658",
+            "lng": "105.9240817"
+        }
+    ],
+    "log_id": "675815f8b265d133"
+}

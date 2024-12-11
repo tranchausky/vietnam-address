@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638868,
+            "name": "Thôn Kim Quan",
+            "pid": 17743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9609117",
+            "lng": "106.18456059999994"
+        },
+        {
+            "id": 638874,
+            "name": "Thôn La A",
+            "pid": 17743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9609117",
+            "lng": "106.18456059999994"
+        },
+        {
+            "id": 638877,
+            "name": "Thôn La B",
+            "pid": 17743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9609117",
+            "lng": "106.18456059999994"
+        },
+        {
+            "id": 638871,
+            "name": "Thôn Nguyên Khê",
+            "pid": 17743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyên Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9609117",
+            "lng": "106.18456059999994"
+        },
+        {
+            "id": 638883,
+            "name": "Thôn Tràng Kênh",
+            "pid": 17743,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tràng Kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9609117",
+            "lng": "106.18456059999994"
+        }
+    ],
+    "log_id": "675813f167b3e248"
+}

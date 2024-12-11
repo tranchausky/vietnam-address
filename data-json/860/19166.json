@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609426,
+            "name": "Dút 1",
+            "pid": 19166,
+            "type": 16,
+            "region": null,
+            "alias": "Dút 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.669997",
+            "lng": "108.645146"
+        },
+        {
+            "id": 609429,
+            "name": "Dút 2",
+            "pid": 19166,
+            "type": 16,
+            "region": null,
+            "alias": "Dút 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.669997",
+            "lng": "108.645146"
+        },
+        {
+            "id": 609423,
+            "name": "Làng Vờ",
+            "pid": 19166,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Vờ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.669997",
+            "lng": "108.645146"
+        },
+        {
+            "id": 609432,
+            "name": "Xà Râu",
+            "pid": 19166,
+            "type": 16,
+            "region": null,
+            "alias": "Xà Râu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.669997",
+            "lng": "108.645146"
+        }
+    ],
+    "log_id": "675909a4c908f787"
+}

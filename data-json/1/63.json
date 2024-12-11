@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881434,
+            "name": "Đường Đào Duy Anh",
+            "pid": 63,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Anh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,011843",
+            "lng": "105,837133"
+        },
+        {
+            "id": 881635,
+            "name": "Đường Đê La Thanh Nhỏ",
+            "pid": 63,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đê La Thanh nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,017164",
+            "lng": "105,823737"
+        },
+        {
+            "id": 881437,
+            "name": "Đường Hồ Ba Mẫu",
+            "pid": 63,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Ba Mẫu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,011843",
+            "lng": "105,837133"
+        },
+        {
+            "id": 829750,
+            "name": "Đường Kim Hoa",
+            "pid": 63,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kim Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0123495",
+            "lng": "105.83710259999998"
+        },
+        {
+            "id": 997199,
+            "name": "Đường Phạm Ngọc Thạch",
+            "pid": 63,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Ngọc Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.00869634304562",
+            "lng": "105.83405295892827"
+        },
+        {
+            "id": 831028,
+            "name": "Đường Xã Đàn",
+            "pid": 63,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xã Đàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0123495",
+            "lng": "105.83710259999998"
+        }
+    ],
+    "log_id": "675811bbd40b8179"
+}

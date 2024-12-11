@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443521,
+            "name": "Ấp Bình Hòa Thượng",
+            "pid": 18088,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình hòa thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8810796",
+            "lng": "105.27214559999993"
+        },
+        {
+            "id": 443523,
+            "name": "Ấp Bình Hòa Trung",
+            "pid": 18088,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình hòa trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8810796",
+            "lng": "105.27214559999993"
+        }
+    ],
+    "log_id": "675816c042c36543"
+}

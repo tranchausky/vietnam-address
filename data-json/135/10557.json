@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980723,
+            "name": "Đồng Xá 1",
+            "pid": 10557,
+            "type": 21,
+            "region": null,
+            "alias": "Đồng Xá 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980717,
+            "name": "Đường Hào Khê",
+            "pid": 10557,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hào Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980720,
+            "name": "Đường Nguyễn Thị Thuận",
+            "pid": 10557,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980719,
+            "name": "Nguyễn Thị Thuận",
+            "pid": 10557,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Thị Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "6758136601a0a42"
+}

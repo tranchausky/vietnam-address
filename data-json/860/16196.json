@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 632049,
+            "name": "Đôn Lương",
+            "pid": 16196,
+            "type": 16,
+            "region": null,
+            "alias": "Đôn Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9762656",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 632043,
+            "name": "Lương Nông Bắc",
+            "pid": 16196,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Nông Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9762656",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 632040,
+            "name": "Lương Nông Nam",
+            "pid": 16196,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Nông Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9762656",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 632046,
+            "name": "Phước Thịnh",
+            "pid": 16196,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9762656",
+            "lng": "108.89674089999994"
+        }
+    ],
+    "log_id": "675909a513800705"
+}

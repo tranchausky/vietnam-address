@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828574,
+            "name": "Đường Mạc Thị Bưởi",
+            "pid": 16491,
+            "type": 21,
+            "region": null,
+            "alias": "Đường mạc thị bưởi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 828589,
+            "name": "Mầm Non Gấu Trúc",
+            "pid": 16491,
+            "type": 9,
+            "region": null,
+            "alias": "Mầm Non Gấu Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 109413,
+            "name": "Thôn Ân Niên",
+            "pid": 16491,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Ân Niên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 109449,
+            "name": "Thôn Đông Bình",
+            "pid": 16491,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 106679,
+            "name": "Thôn Đông Phước",
+            "pid": 16491,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 109423,
+            "name": "Thôn Phú Ân",
+            "pid": 16491,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Ân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 109399,
+            "name": "Thôn Vĩnh Phú",
+            "pid": 16491,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vĩnh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 828583,
+            "name": "Trường Mầm Non Họa Mi",
+            "pid": 16491,
+            "type": 9,
+            "region": null,
+            "alias": "trường mầm non họa mi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 833677,
+            "name": "Tt Y Tế Dự Phòng",
+            "pid": 16491,
+            "type": 21,
+            "region": null,
+            "alias": "TT Y Tế Dự Phòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0550076",
+            "lng": "109.2742321"
+        }
+    ],
+    "log_id": "67590b80a134e79"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 702607,
+            "name": "Ấp Đông Bình Nhất",
+            "pid": 15786,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Đông Bình Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3531435",
+            "lng": "105.30929270000001"
+        },
+        {
+            "id": 114309,
+            "name": "Ấp Đông Bình Trạch",
+            "pid": 15786,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Bình Trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3531435",
+            "lng": "105.30929270000001"
+        },
+        {
+            "id": 114319,
+            "name": "Ấp Đông Phú 1",
+            "pid": 15786,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Phú 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3531435",
+            "lng": "105.30929270000001"
+        },
+        {
+            "id": 114333,
+            "name": "Ấp Tân Thành",
+            "pid": 15786,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3531435",
+            "lng": "105.30929270000001"
+        },
+        {
+            "id": 114349,
+            "name": "Ấp Trung Thành",
+            "pid": 15786,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3531435",
+            "lng": "105.30929270000001"
+        }
+    ],
+    "log_id": "6758159df1f6d823"
+}

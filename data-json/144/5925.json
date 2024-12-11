@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 699943,
+            "name": "Đường Cô Bắc",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cô Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 729091,
+            "name": "Đường Đồng Cửa",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "đường đồng cửa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 713389,
+            "name": "Đường Hồ Công Dự",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Công Dự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 713395,
+            "name": "Đường Huyền Quang",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huyền Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 818062,
+            "name": "Đường Nguyễn Văn Mẫn",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "đường Nguyễn Văn mẫn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 882634,
+            "name": "Đường Thân Công Tài",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thân Công Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 699946,
+            "name": "Đường Thánh Thiên",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thánh Thiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 821959,
+            "name": "Đường Tiền Giang 2",
+            "pid": 5925,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tiền Giang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        },
+        {
+            "id": 725902,
+            "name": "Ủy Ban Phường Lê Lợi",
+            "pid": 5925,
+            "type": 9,
+            "region": null,
+            "alias": "ủy Ban Phường Lê Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2681233",
+            "lng": "106.19485420000001"
+        }
+    ],
+    "log_id": "675813d961224444"
+}

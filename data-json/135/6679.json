@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 414493,
+            "name": "Thôn Cát Tiên",
+            "pid": 6679,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cát Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8066676",
+            "lng": "106.52010840000002"
+        },
+        {
+            "id": 414495,
+            "name": "Thôn Câu Đông",
+            "pid": 6679,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Câu Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8066676",
+            "lng": "106.52010840000002"
+        },
+        {
+            "id": 414497,
+            "name": "Thôn Câu Hạ A",
+            "pid": 6679,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Câu Hạ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8123431",
+            "lng": "106.5237868"
+        },
+        {
+            "id": 414499,
+            "name": "Thôn Câu Hạ B",
+            "pid": 6679,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Câu Hạ B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8066676",
+            "lng": "106.52010840000002"
+        },
+        {
+            "id": 414501,
+            "name": "Thôn Tân Trung",
+            "pid": 6679,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8066676",
+            "lng": "106.52010840000002"
+        }
+    ],
+    "log_id": "67581365c8d2b897"
+}

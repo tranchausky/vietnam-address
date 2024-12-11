@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 663049,
+            "name": "Ấp Chợ",
+            "pid": 7431,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.293613",
+            "lng": "106.266227"
+        },
+        {
+            "id": 663055,
+            "name": "Ấp Phước Hòa",
+            "pid": 7431,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.293613",
+            "lng": "106.266227"
+        },
+        {
+            "id": 663058,
+            "name": "Ấp Phước Lễ",
+            "pid": 7431,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.293613",
+            "lng": "106.266227"
+        },
+        {
+            "id": 663079,
+            "name": "Ấp Phước Thạnh 1",
+            "pid": 7431,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thạnh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.293613",
+            "lng": "106.266227"
+        },
+        {
+            "id": 663073,
+            "name": "Ấp Phước Thạnh 2",
+            "pid": 7431,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thạnh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.293613",
+            "lng": "106.266227"
+        },
+        {
+            "id": 883153,
+            "name": "Khu Phố 4",
+            "pid": 7431,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2956625",
+            "lng": "106.2698669"
+        },
+        {
+            "id": 883159,
+            "name": "Tay Vam",
+            "pid": 7431,
+            "type": 17,
+            "region": null,
+            "alias": "Tay Vam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2956625",
+            "lng": "106.2698669"
+        }
+    ],
+    "log_id": "6758160debdc770"
+}

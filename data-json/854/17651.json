@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 459935,
+            "name": "Thôn 1",
+            "pid": 17651,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8010364",
+            "lng": "107.69256740000003"
+        },
+        {
+            "id": 459937,
+            "name": "Thôn 2",
+            "pid": 17651,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8010364",
+            "lng": "107.69256740000003"
+        },
+        {
+            "id": 459939,
+            "name": "Thôn 3",
+            "pid": 17651,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8010364",
+            "lng": "107.69256740000003"
+        },
+        {
+            "id": 745027,
+            "name": "Thôn Hang Ka",
+            "pid": 17651,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hang Ka",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8010364",
+            "lng": "107.69256740000004"
+        }
+    ],
+    "log_id": "67581771925dc459"
+}

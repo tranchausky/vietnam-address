@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 747292,
+            "name": "An Lợi",
+            "pid": 6069,
+            "type": 10,
+            "region": null,
+            "alias": "An Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1488534",
+            "lng": "106.61144739999996"
+        },
+        {
+            "id": 81923,
+            "name": "Chợ Nhật Huy",
+            "pid": 6069,
+            "type": 5,
+            "region": null,
+            "alias": "Chợ Nhật Huy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.082461",
+            "lng": "106.664551"
+        },
+        {
+            "id": 1016795,
+            "name": "Cửa Hàng Xăng Dầu Số 5, An Hòa, Hòa Lợi, Bến Cát",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Cửa Hàng Xăng Dầu Số 5, An Hòa, Hòa Lợi, Bến Cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "106.66614941061566",
+            "lng": "11.086146527996108"
+        },
+        {
+            "id": 89009,
+            "name": "Khu Phố An Hoà",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố An Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9213836",
+            "lng": "106.7354742"
+        },
+        {
+            "id": 81935,
+            "name": "Khu Phố An Lợi",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.112728",
+            "lng": "106.670397"
+        },
+        {
+            "id": 81926,
+            "name": "Khu Phố Bến Đồn",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Bến Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.116290",
+            "lng": "106.664282"
+        },
+        {
+            "id": 81932,
+            "name": "Khu Phố Phú Hòa",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0823221921879",
+            "lng": "106.664871"
+        },
+        {
+            "id": 81929,
+            "name": "Khu Phố Phú Nghị",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phú Nghị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0751312166005",
+            "lng": "106.6624332"
+        },
+        {
+            "id": 81917,
+            "name": "Ngã 4 Hòa Lợi",
+            "pid": 6069,
+            "type": 5,
+            "region": null,
+            "alias": "Ngã 4 Hòa Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0959535",
+            "lng": "106.6629979"
+        },
+        {
+            "id": 699676,
+            "name": "Ngã Ba Phú Hòa",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã Ba Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.068994300000002",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 1017353,
+            "name": "Nhà Trọ Ngọc Sương, An Hòa, Hòa Lợi",
+            "pid": 6069,
+            "type": 21,
+            "region": null,
+            "alias": "Nhà trọ Ngọc Sương, An Hòa, Hòa Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "106.65847056896595",
+            "lng": "11.090953502042593"
+        }
+    ],
+    "log_id": "675816218fd8c666"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 968939,
+            "name": "Công Ty May Đức Thắng",
+            "pid": 5942,
+            "type": 4,
+            "region": null,
+            "alias": "công ty may đức thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.63853937876606",
+            "lng": "106.06433477700743"
+        },
+        {
+            "id": 766234,
+            "name": "Lương Điền",
+            "pid": 5942,
+            "type": 21,
+            "region": null,
+            "alias": "Lương điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6397625",
+            "lng": "106.04785319999996"
+        },
+        {
+            "id": 821569,
+            "name": "Phố Hiến",
+            "pid": 5942,
+            "type": 21,
+            "region": null,
+            "alias": "Phố hiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.632520540750928",
+            "lng": "106.07911261042985"
+        },
+        {
+            "id": 766237,
+            "name": "Phương Cái",
+            "pid": 5942,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Cái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6397625",
+            "lng": "106.04785319999996"
+        },
+        {
+            "id": 766240,
+            "name": "Sơn Lam Plaza",
+            "pid": 5942,
+            "type": 4,
+            "region": null,
+            "alias": "Sơn lam plaza",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6397625",
+            "lng": "106.04785319999996"
+        },
+        {
+            "id": 954929,
+            "name": "Trạm Xá Hồng Châu",
+            "pid": 5942,
+            "type": 10,
+            "region": null,
+            "alias": "trạm xá hồng châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.639803813567603",
+            "lng": "106.05916140721625"
+        },
+        {
+            "id": 958270,
+            "name": "Trường Tiểu Học Hồng Châu",
+            "pid": 5942,
+            "type": 9,
+            "region": null,
+            "alias": "trường tiểu học hồng châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.640374231645705",
+            "lng": "106.0608591545337"
+        },
+        {
+            "id": 946985,
+            "name": "Ủy Ban Phường Hồng Châu",
+            "pid": 5942,
+            "type": 10,
+            "region": null,
+            "alias": "Ủy ban phường Hồng Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.63948143640261",
+            "lng": "106.05996521213525"
+        }
+    ],
+    "log_id": "675814910ba5115"
+}

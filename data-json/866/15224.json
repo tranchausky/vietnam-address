@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 463821,
+            "name": "Đường Cao Bá Quát",
+            "pid": 15224,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Bá Quát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4919628",
+            "lng": "107.5869252"
+        },
+        {
+            "id": 463787,
+            "name": "Đường Nguyễn Gia Thiều",
+            "pid": 15224,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Gia Thiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4919628",
+            "lng": "107.5869252"
+        },
+        {
+            "id": 463807,
+            "name": "Đường Phùng Khắc Khoan",
+            "pid": 15224,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phùng Khắc Khoan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4919628",
+            "lng": "107.5869252"
+        }
+    ],
+    "log_id": "67590b2630257637"
+}

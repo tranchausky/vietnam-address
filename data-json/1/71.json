@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876763,
+            "name": "Đường Nguyễn Ngọc Doãn",
+            "pid": 71,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Ngọc Doãn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.008260227927664",
+            "lng": "105.83088040351868"
+        },
+        {
+            "id": 830308,
+            "name": "Đường Phạm Ngọc Thạch",
+            "pid": 71,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Ngọc Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0042141",
+            "lng": "105.83123139999998"
+        },
+        {
+            "id": 876784,
+            "name": "Đường Tôn Thất Tùng",
+            "pid": 71,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Thất Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0039208727974",
+            "lng": "105.83019644022"
+        }
+    ],
+    "log_id": "675811bbe8a31733"
+}

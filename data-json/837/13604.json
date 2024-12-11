@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 772084,
+            "name": "Diên Lộc",
+            "pid": 13604,
+            "type": 16,
+            "region": null,
+            "alias": "Diên Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.9581624"
+        },
+        {
+            "id": 772081,
+            "name": "Yên Hậu",
+            "pid": 13604,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.9581624"
+        },
+        {
+            "id": 772087,
+            "name": "Yên Tân",
+            "pid": 13604,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.9581624"
+        },
+        {
+            "id": 772075,
+            "name": "Yên Vĩ",
+            "pid": 13604,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Vĩ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.9581624"
+        }
+    ],
+    "log_id": "675815f8d6f04730"
+}

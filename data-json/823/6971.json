@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93641,
+            "name": "Ấp 1",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 93644,
+            "name": "Ấp 2",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.347223994285073",
+            "lng": "107.14190677611452"
+        },
+        {
+            "id": 93647,
+            "name": "Ấp 3",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.324841084790961",
+            "lng": "107.1543994459816"
+        },
+        {
+            "id": 93650,
+            "name": "Ấp 4",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.303248384069263",
+            "lng": "107.14200061837892"
+        },
+        {
+            "id": 93689,
+            "name": "Ấp Bàu Phụng",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 93686,
+            "name": "Ấp Cây Cầy",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Cầy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 93653,
+            "name": "Ấp Lý Lịch 1",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lý Lịch 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.31214608094956",
+            "lng": "107.15810495297279"
+        },
+        {
+            "id": 93656,
+            "name": "Ấp Lý Lịch 2",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lý Lịch 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3214365",
+            "lng": "107.1531448"
+        },
+        {
+            "id": 874021,
+            "name": "Bình Chánh",
+            "pid": 6971,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675814dd1519c714"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116387,
+            "name": "Thôn Bạch Nao",
+            "pid": 4877,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bạch nao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 105.810694",
+            "lng": "20.851127"
+        },
+        {
+            "id": 116385,
+            "name": "Thôn Quan Nhân",
+            "pid": 4877,
+            "type": 9,
+            "region": null,
+            "alias": "thôn quan nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.799016",
+            "lng": "20.859646"
+        },
+        {
+            "id": 116395,
+            "name": "Thôn Tam Đã",
+            "pid": 4877,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tam đã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.812053",
+            "lng": "20.855320"
+        },
+        {
+            "id": 116389,
+            "name": "Thôn Úc Lý",
+            "pid": 4877,
+            "type": 16,
+            "region": null,
+            "alias": "thôn úc lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.806722",
+            "lng": "20.847289"
+        },
+        {
+            "id": 55458,
+            "name": "Ubnd Xã Thanh Văn",
+            "pid": 4877,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thanh Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd61da4746"
+}

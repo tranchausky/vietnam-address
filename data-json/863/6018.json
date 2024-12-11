@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411329,
+            "name": "Thôn Dinh",
+            "pid": 6018,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Dinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4729524",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411335,
+            "name": "Thôn Tân Quán",
+            "pid": 6018,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Tân Quán",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4729524",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411331,
+            "name": "Thôn Tú Linh",
+            "pid": 6018,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Tú Linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4729524",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411339,
+            "name": "Trường Đại Học Thái Bình",
+            "pid": 6018,
+            "type": 16,
+            "region": null,
+            "alias": "trường Đại Học Thái Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4729524",
+            "lng": "106.32577679999997"
+        }
+    ],
+    "log_id": "675909f3bdb1443"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828184,
+            "name": "Ngã 3 Vân Hòa",
+            "pid": 18961,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã 3 Vân Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 444289,
+            "name": "Thôn Phong Hậu",
+            "pid": 18961,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phong Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 444293,
+            "name": "Thôn Suối Phèn",
+            "pid": 18961,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Phèn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 444297,
+            "name": "Thôn Trung Trinh",
+            "pid": 18961,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 444291,
+            "name": "Thôn Vân Hòa",
+            "pid": 18961,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 444295,
+            "name": "Thôn Vân Long",
+            "pid": 18961,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 834004,
+            "name": "Trường Thpt Nguyễn Bá Ngọc",
+            "pid": 18961,
+            "type": 21,
+            "region": null,
+            "alias": "Trường THPT Nguyễn Bá Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        },
+        {
+            "id": 952982,
+            "name": "Ubnd Xã Sơn Long",
+            "pid": 18961,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã Sơn Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1915725",
+            "lng": "109.11071140000001"
+        }
+    ],
+    "log_id": "67590b80998c9581"
+}

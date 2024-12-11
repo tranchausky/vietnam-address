@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 556725,
+            "name": "Bản Cháo",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cháo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 556727,
+            "name": "Bản Chiềng Căm",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chiềng Căm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 556729,
+            "name": "Bản Chiềng Hin",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chiềng Hin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 556731,
+            "name": "Bản Ho",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Ho",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 556733,
+            "name": "Bản Pọong 1",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pọong 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 556735,
+            "name": "Bản Pọong 2",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pọong 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 556737,
+            "name": "Bản San",
+            "pid": 22203,
+            "type": 16,
+            "region": null,
+            "alias": "Bản San",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4209783",
+            "lng": "104.76376189999996"
+        }
+    ],
+    "log_id": "67590a2398c9b668"
+}

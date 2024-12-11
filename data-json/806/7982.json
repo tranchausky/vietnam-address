@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446495,
+            "name": "B2",
+            "pid": 7982,
+            "type": 16,
+            "region": null,
+            "alias": "B2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2208995",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 446497,
+            "name": "C2",
+            "pid": 7982,
+            "type": 16,
+            "region": null,
+            "alias": "C2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2208995",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 446499,
+            "name": "D2",
+            "pid": 7982,
+            "type": 16,
+            "region": null,
+            "alias": "D2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2208995",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 446501,
+            "name": "E2",
+            "pid": 7982,
+            "type": 16,
+            "region": null,
+            "alias": "E2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2208995",
+            "lng": "105.25458879999996"
+        }
+    ],
+    "log_id": "6758140ca64a7842"
+}

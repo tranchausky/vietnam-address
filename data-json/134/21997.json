@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 819634,
+            "name": "Bản Làng",
+            "pid": 21997,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0604155",
+            "lng": "106.59155570000007"
+        },
+        {
+            "id": 786319,
+            "name": "Thôn Kéo Van",
+            "pid": 21997,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Kéo Van",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0604155",
+            "lng": "106.59155570000007"
+        },
+        {
+            "id": 924097,
+            "name": "Thôn Vạn Xuân",
+            "pid": 21997,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vạn Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0604155",
+            "lng": "106.59155570000007"
+        }
+    ],
+    "log_id": "6758133f3c949394"
+}

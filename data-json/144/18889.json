@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834310,
+            "name": "Đồng Lân",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Lân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.468282100000003",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 406597,
+            "name": "Thôn Đồng Tâm",
+            "pid": 18889,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4682821",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 406585,
+            "name": "Thôn Giếng Chảnh",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giếng Chảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4682821",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 406587,
+            "name": "Thôn Ngò",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4682821",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 406593,
+            "name": "Thôn Trại Chuối 1",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Chuối 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4682821",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 406595,
+            "name": "Thôn Trại Chuối 2",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Chuối 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4682821",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 406583,
+            "name": "Thôn Trại Đảng",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Đảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4682821",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 834313,
+            "name": "Thôn Trại Quân",
+            "pid": 18889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.468282100000003",
+            "lng": "106.17573790000006"
+        }
+    ],
+    "log_id": "675813d918ef1211"
+}

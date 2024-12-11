@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980849,
+            "name": "Bến Bính",
+            "pid": 25841,
+            "type": 10,
+            "region": null,
+            "alias": "Bến Bính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980843,
+            "name": "Điện Biên Phủ",
+            "pid": 25841,
+            "type": 21,
+            "region": null,
+            "alias": "Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980845,
+            "name": "Hoàng Diệu",
+            "pid": 25841,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980851,
+            "name": "Hồ Xuân Hương",
+            "pid": 25841,
+            "type": 21,
+            "region": null,
+            "alias": "Hồ Xuân Hương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980858,
+            "name": "Phù Đổng",
+            "pid": 25841,
+            "type": 21,
+            "region": null,
+            "alias": "Phù Đổng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980852,
+            "name": "Thất Khê",
+            "pid": 25841,
+            "type": 21,
+            "region": null,
+            "alias": "Thất Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980855,
+            "name": "Trần Hưng Đạo",
+            "pid": 25841,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675813662882c409"
+}

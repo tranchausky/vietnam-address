@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120887,
+            "name": "Thôn Bùng",
+            "pid": 4851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0146314",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 120881,
+            "name": "Vĩnh Lộc 1",
+            "pid": 4851,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0212246",
+            "lng": "105.6199933"
+        },
+        {
+            "id": 120883,
+            "name": "Vĩnh Lộc 2",
+            "pid": 4851,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Lộc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.019600",
+            "lng": "105.619285"
+        },
+        {
+            "id": 120885,
+            "name": "Vĩnh Lộc 3",
+            "pid": 4851,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Lộc 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0212246",
+            "lng": "105.6199933"
+        }
+    ],
+    "log_id": "675811bc0e39f1"
+}

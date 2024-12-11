@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800236,
+            "name": "Khu Đồng Tiến",
+            "pid": 18348,
+            "type": 21,
+            "region": null,
+            "alias": "Khu đồng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        },
+        {
+            "id": 607317,
+            "name": "Khu Tân Bình",
+            "pid": 18348,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Tân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        },
+        {
+            "id": 800233,
+            "name": "Tân Thành",
+            "pid": 18348,
+            "type": 21,
+            "region": null,
+            "alias": "Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        },
+        {
+            "id": 607314,
+            "name": "Xóm Bãi",
+            "pid": 18348,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        },
+        {
+            "id": 98099,
+            "name": "Xóm Bo",
+            "pid": 18348,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.665922",
+            "lng": "105.543381"
+        },
+        {
+            "id": 607311,
+            "name": "Xóm Lạng",
+            "pid": 18348,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lạng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        },
+        {
+            "id": 607302,
+            "name": "Xóm Lục Cả",
+            "pid": 18348,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lục Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        },
+        {
+            "id": 607308,
+            "name": "Xóm Lục Đồi",
+            "pid": 18348,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lục Đồi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6633448",
+            "lng": "105.54492500000003"
+        }
+    ],
+    "log_id": "67581721324d6426"
+}

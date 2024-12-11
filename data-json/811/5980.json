@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 972358,
+            "name": "Chẵn Điện Biên 202-382",
+            "pid": 5980,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn Điện Biên 202-382",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.430610811106806",
+            "lng": "106.16162167274973"
+        },
+        {
+            "id": 835636,
+            "name": "Đoàn Trần Nghiệp",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đoàn Trần Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 972387,
+            "name": "Đường Đặng Việt Châu",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Việt Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.429250475630315",
+            "lng": "106.16376206220332"
+        },
+        {
+            "id": 524697,
+            "name": "Đường Điện Biên",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524701,
+            "name": "Đường Kênh",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kênh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524705,
+            "name": "Đường Lê Hồng Sơn",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Hồng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524707,
+            "name": "Đường Lương Thế Vinh",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Thế Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524709,
+            "name": "Đường Nguyễn Văn Huyên",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Huyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524711,
+            "name": "Đường Phạm Tuấn Tài",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Tuấn Tài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524713,
+            "name": "Đường Trần Kỳ",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 524715,
+            "name": "Đường Trần Tung",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Tung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 972359,
+            "name": "Lẻ Điện Biên 217-283",
+            "pid": 5980,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ Điện Biên 217-283",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.430651026882217",
+            "lng": "106.16162167274973"
+        },
+        {
+            "id": 971729,
+            "name": "Trần Đăng Ninh",
+            "pid": 5980,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Đăng Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.420933169365124",
+            "lng": "106.16653431212269"
+        }
+    ],
+    "log_id": "6758145d735b4774"
+}

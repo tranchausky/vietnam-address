@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 732625,
+            "name": "Bằng Giang",
+            "pid": 16812,
+            "type": 18,
+            "region": null,
+            "alias": "Bằng Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5566583",
+            "lng": "106.37949419999997"
+        },
+        {
+            "id": 854014,
+            "name": "Lũng Cải",
+            "pid": 16812,
+            "type": 18,
+            "region": null,
+            "alias": "Lũng Cải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5566583",
+            "lng": "106.37949419999995"
+        },
+        {
+            "id": 732622,
+            "name": "Nà Tổng",
+            "pid": 16812,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Tổng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5566583",
+            "lng": "106.37949419999997"
+        },
+        {
+            "id": 985547,
+            "name": "Nà Tổng Hồng Nam",
+            "pid": 16812,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Tổng Hồng Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.575740",
+            "lng": "106.371583 "
+        },
+        {
+            "id": 898207,
+            "name": "Xóm Khuổi Linh",
+            "pid": 16812,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Khuổi Linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5566583",
+            "lng": "106.37949419999997"
+        }
+    ],
+    "log_id": "67581662a00ca386"
+}

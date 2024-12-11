@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 801520,
+            "name": "Làng Bu",
+            "pid": 19840,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Bu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6565995",
+            "lng": "106.67481810000004"
+        },
+        {
+            "id": 892960,
+            "name": "Thôn Ba",
+            "pid": 19840,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6565995",
+            "lng": "106.67481810000004"
+        },
+        {
+            "id": 871993,
+            "name": "Thôn Co Lái",
+            "pid": 19840,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Co Lái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6565995",
+            "lng": "106.67481810000004"
+        }
+    ],
+    "log_id": "6758133f2d032904"
+}

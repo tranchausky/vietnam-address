@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 14178,
+            "name": "Đường Hoàng Quốc Việt",
+            "pid": 13752,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Quốc Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6879326",
+            "lng": "104.90306140000007"
+        },
+        {
+            "id": 14410,
+            "name": "Đường Ngô Minh Loan",
+            "pid": 13752,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Minh Loan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6970414",
+            "lng": "104.86061819999998"
+        },
+        {
+            "id": 605625,
+            "name": "Tổ Dân Phố Số 1",
+            "pid": 13752,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố số 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6858025",
+            "lng": "104.86297460000003"
+        },
+        {
+            "id": 605628,
+            "name": "Tổ Dân Phố Số 2",
+            "pid": 13752,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố số 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6858025",
+            "lng": "104.86297460000003"
+        },
+        {
+            "id": 605631,
+            "name": "Tổ Dân Phố Số 3",
+            "pid": 13752,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố số 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6858025",
+            "lng": "104.86297460000003"
+        },
+        {
+            "id": 605634,
+            "name": "Tổ Dân Phố Số 4",
+            "pid": 13752,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố số 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6858025",
+            "lng": "104.86297460000003"
+        },
+        {
+            "id": 605637,
+            "name": "Tổ Dân Phố Số 5",
+            "pid": 13752,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố số 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6858025",
+            "lng": "104.86297460000003"
+        }
+    ],
+    "log_id": "6758131f5a5c7375"
+}

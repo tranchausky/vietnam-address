@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411495,
+            "name": "Thôn Cao Mỗ",
+            "pid": 21032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Mỗ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.544597",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 411499,
+            "name": "Thôn Cao Mỗ Đông",
+            "pid": 21032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Mỗ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.544597",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 411497,
+            "name": "Thôn Cao Mỗ Nam",
+            "pid": 21032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cao Mỗ Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.544597",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 411501,
+            "name": "Thôn Nam Lỗ",
+            "pid": 21032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Lỗ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.544597",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 411503,
+            "name": "Thôn Quốc Tuấn",
+            "pid": 21032,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quốc Tuấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.544597",
+            "lng": "106.30223390000003"
+        }
+    ],
+    "log_id": "675909f374f63512"
+}

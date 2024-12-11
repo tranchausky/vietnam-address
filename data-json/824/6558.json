@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599817,
+            "name": "Ấp Ninh Đồng A",
+            "pid": 6558,
+            "type": 17,
+            "region": null,
+            "alias": "ấp ninh đồng a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.416419",
+            "lng": "106.551624"
+        },
+        {
+            "id": 599811,
+            "name": "Bình Trinh",
+            "pid": 6558,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Trinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.416419",
+            "lng": "106.551624"
+        },
+        {
+            "id": 599814,
+            "name": "Khương Thọ",
+            "pid": 6558,
+            "type": 17,
+            "region": null,
+            "alias": "Khương Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.416419",
+            "lng": "106.551624"
+        },
+        {
+            "id": 599820,
+            "name": "Ninh Đồng B",
+            "pid": 6558,
+            "type": 17,
+            "region": null,
+            "alias": "Ninh Đồng B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.416419",
+            "lng": "106.551624"
+        },
+        {
+            "id": 599808,
+            "name": "Thạnh Thới",
+            "pid": 6558,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.416419",
+            "lng": "106.551624"
+        }
+    ],
+    "log_id": "675814f3c33d4400"
+}

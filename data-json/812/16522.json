@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 713158,
+            "name": "Kdc Bến Lội",
+            "pid": 16522,
+            "type": 5,
+            "region": null,
+            "alias": "KDC Bến Lội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9472206",
+            "lng": "108.10653179999996"
+        },
+        {
+            "id": 567765,
+            "name": "Thôn Kim Bình",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9669643",
+            "lng": "108.13045080000006"
+        },
+        {
+            "id": 567768,
+            "name": "Thôn Kim Ngọc",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9669643",
+            "lng": "108.13045080000006"
+        },
+        {
+            "id": 1002778,
+            "name": "Thôn Thắng Hiệp",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9718054",
+            "lng": "108.08225830000003"
+        },
+        {
+            "id": 567777,
+            "name": "Thôn Thắng Hòa",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9669643",
+            "lng": "108.13045080000006"
+        },
+        {
+            "id": 567774,
+            "name": "Thôn Thắng Lợi",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9669643",
+            "lng": "108.13045080000006"
+        },
+        {
+            "id": 567771,
+            "name": "Thôn Thắng Thuận",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9669643",
+            "lng": "108.13045080000006"
+        },
+        {
+            "id": 567780,
+            "name": "Thôn Ung Chiếm",
+            "pid": 16522,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ung Chiếm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9669643",
+            "lng": "108.13045080000006"
+        }
+    ],
+    "log_id": "6758147802c19280"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 907576,
+            "name": "Dốc Lọ",
+            "pid": 20429,
+            "type": 18,
+            "region": null,
+            "alias": "Dốc Lọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 918826,
+            "name": "Thôn Bãi Đá",
+            "pid": 20429,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bãi Đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 877735,
+            "name": "Thôn Lạnh",
+            "pid": 20429,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 903925,
+            "name": "Thôn Tu Nim",
+            "pid": 20429,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tu Nim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 903931,
+            "name": "Xóm Cướm",
+            "pid": 20429,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Cướm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 903940,
+            "name": "Xóm Lọ",
+            "pid": 20429,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Lọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 903937,
+            "name": "Xóm Mo Luông",
+            "pid": 20429,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Mo Luông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        },
+        {
+            "id": 903934,
+            "name": "Xóm Thia",
+            "pid": 20429,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3495077",
+            "lng": "106.8945456"
+        }
+    ],
+    "log_id": "675813d9355a3768"
+}

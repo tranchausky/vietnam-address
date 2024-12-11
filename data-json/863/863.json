@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1971,
+            "name": "Huyện Đông Hưng",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đông Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5640924",
+            "lng": "106.36992710000004"
+        },
+        {
+            "id": 1972,
+            "name": "Huyện Hưng Hà",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hưng Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5903748",
+            "lng": "106.21691390000001"
+        },
+        {
+            "id": 1973,
+            "name": "Huyện Kiến Xương",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Kiến Xương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4208256",
+            "lng": "106.41703110000003"
+        },
+        {
+            "id": 1974,
+            "name": "Huyện Quỳnh Phụ",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Quỳnh Phụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6608254",
+            "lng": "106.32768639999995"
+        },
+        {
+            "id": 1975,
+            "name": "Huyện Thái Thụy",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thái Thụy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5655791",
+            "lng": "106.56488030000003"
+        },
+        {
+            "id": 1976,
+            "name": "Huyện Tiền Hải",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tiền Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3609414",
+            "lng": "106.55840710000007"
+        },
+        {
+            "id": 1977,
+            "name": "Huyện Vũ Thư",
+            "pid": 863,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Vũ Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4343787",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 1978,
+            "name": "Thành Phố Thái Bình",
+            "pid": 863,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Thái Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4463471",
+            "lng": "106.33658279999997"
+        }
+    ],
+    "log_id": "675909f3499b4522"
+}

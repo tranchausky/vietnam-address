@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116,
+            "name": "Đại La",
+            "pid": 1057,
+            "type": 2,
+            "region": null,
+            "alias": "Đại La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9930118",
+            "lng": "105.85021899999992"
+        },
+        {
+            "id": 872,
+            "name": "Đền Lừ",
+            "pid": 1057,
+            "type": 2,
+            "region": null,
+            "alias": "Đền Lừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9858985",
+            "lng": "105.85760589999995"
+        },
+        {
+            "id": 829612,
+            "name": "Đường Hoàng Mai",
+            "pid": 1057,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9848364",
+            "lng": "105.85985529999994"
+        }
+    ],
+    "log_id": "675811bd52bcd951"
+}

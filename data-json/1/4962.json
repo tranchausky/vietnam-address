@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100997,
+            "name": "Đông Dương",
+            "pid": 4962,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.708858",
+            "lng": "105.790872"
+        },
+        {
+            "id": 100985,
+            "name": "Tảo Khê",
+            "pid": 4962,
+            "type": 16,
+            "region": null,
+            "alias": "Tảo Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7103371",
+            "lng": "105.7828011"
+        },
+        {
+            "id": 55754,
+            "name": "Ubnd Xã Tảo Dương Văn",
+            "pid": 4962,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tảo Dương Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 120157,
+            "name": "Văn Cao",
+            "pid": 4962,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.708858",
+            "lng": "105.790872"
+        },
+        {
+            "id": 101015,
+            "name": "Văn Ông",
+            "pid": 4962,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Ông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7199131",
+            "lng": "105.7927063"
+        }
+    ],
+    "log_id": "675811bd3cd0e361"
+}

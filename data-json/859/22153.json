@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640981,
+            "name": "Thôn Phú Hòa",
+            "pid": 22153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.855337",
+            "lng": "108.121120"
+        },
+        {
+            "id": 640993,
+            "name": "Thôn Phú Mỹ",
+            "pid": 22153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.855337",
+            "lng": "108.121120"
+        },
+        {
+            "id": 640984,
+            "name": "Thôn Phú Nghĩa",
+            "pid": 22153,
+            "type": 10,
+            "region": null,
+            "alias": "thôn phú nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.855337",
+            "lng": "108.121120"
+        },
+        {
+            "id": 640978,
+            "name": "Thôn Quảng Huế",
+            "pid": 22153,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quảng huế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.855337",
+            "lng": "108.121120"
+        }
+    ],
+    "log_id": "675817e1a95bd142"
+}

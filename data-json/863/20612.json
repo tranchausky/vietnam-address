@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 564193,
+            "name": "Thôn Bương Hạ",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bương Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.659645",
+            "lng": "106.277628"
+        },
+        {
+            "id": 731092,
+            "name": "Thôn Bương Thượng",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bương Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6636599",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 409121,
+            "name": "Thôn Đông Châu",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.68111",
+            "lng": "106.28366430000005"
+        },
+        {
+            "id": 409111,
+            "name": "Thôn Đông Quynh",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông quynh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.68111",
+            "lng": "106.28366430000005"
+        },
+        {
+            "id": 409109,
+            "name": "Thôn Hia Hà",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hia hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.68111",
+            "lng": "106.28366430000005"
+        },
+        {
+            "id": 409123,
+            "name": "Thôn Quỳnh Lang",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quỳnh lang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.68111",
+            "lng": "106.28366430000005"
+        },
+        {
+            "id": 409125,
+            "name": "Thôn Tân Mỹ",
+            "pid": 20612,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.68111",
+            "lng": "106.28366430000005"
+        }
+    ],
+    "log_id": "675909f39b0c5537"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410365,
+            "name": "Thôn Kim Bàng",
+            "pid": 20690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Bàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5038908",
+            "lng": "106.543676"
+        },
+        {
+            "id": 410369,
+            "name": "Thôn Lục Bắc",
+            "pid": 20690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lục Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5038908",
+            "lng": "106.543676"
+        },
+        {
+            "id": 410367,
+            "name": "Thôn Lục Nam",
+            "pid": 20690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lục Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5038908",
+            "lng": "106.543676"
+        },
+        {
+            "id": 410371,
+            "name": "Thôn Lũng Đầu",
+            "pid": 20690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lũng Đầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5038908",
+            "lng": "106.543676"
+        }
+    ],
+    "log_id": "675909f3b7558697"
+}

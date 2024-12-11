@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 945947,
+            "name": "[0] 2-142 Yersin",
+            "pid": 1204,
+            "type": 29,
+            "region": null,
+            "alias": "[0] 2-142 Yersin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.768067",
+            "lng": "106.697026"
+        },
+        {
+            "id": 945950,
+            "name": "[1] 1-105 Yersin",
+            "pid": 1204,
+            "type": 29,
+            "region": null,
+            "alias": "[1] 1-105 Yersin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.768166",
+            "lng": "106.696812"
+        },
+        {
+            "id": 947932,
+            "name": "[1] 63-79 Trần Hưng Đạo",
+            "pid": 1204,
+            "type": 29,
+            "region": null,
+            "alias": "[1] 63-79 Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7685472",
+            "lng": "106.6961223"
+        },
+        {
+            "id": 945830,
+            "name": "Đường Cô Bắc",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cô Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.765589",
+            "lng": "106.695812"
+        },
+        {
+            "id": 945770,
+            "name": "Đường Cô Giang",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cô Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.764650",
+            "lng": "106.696675"
+        },
+        {
+            "id": 945788,
+            "name": "Đường Đề Thám",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đề Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.766000",
+            "lng": "106.694716"
+        },
+        {
+            "id": 945926,
+            "name": "Đường Lê Thị Hồng Gấm",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Thị Hồng Gấm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.767748",
+            "lng": "106.696388"
+        },
+        {
+            "id": 945908,
+            "name": "Đường Nguyễn Công Trứ",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Công Trứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.765575",
+            "lng": "106.697913"
+        },
+        {
+            "id": 945839,
+            "name": "Đường Nguyễn Thái Học",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thái Học",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.764120",
+            "lng": "106.697490"
+        },
+        {
+            "id": 945794,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.767324",
+            "lng": "106.695033"
+        },
+        {
+            "id": 945809,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.763225",
+            "lng": "106.697183"
+        },
+        {
+            "id": 945935,
+            "name": "Đường Yersin",
+            "pid": 1204,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yersin",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.766984",
+            "lng": "106.697395"
+        },
+        {
+            "id": 945866,
+            "name": "Toà Nhà Perfect",
+            "pid": 1204,
+            "type": 4,
+            "region": null,
+            "alias": "Toà nhà Perfect",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.767915",
+            "lng": "106.696378"
+        }
+    ],
+    "log_id": "6758129b22290196"
+}

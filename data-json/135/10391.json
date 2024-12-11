@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980732,
+            "name": "Chợ Lũng",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Lũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980730,
+            "name": "Hạ Lũng",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Hạ Lũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980727,
+            "name": "Lũng Bắc",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Lũng Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980733,
+            "name": "Lũng Đông",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Lũng Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980734,
+            "name": "Mai Trung Thứ",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Mai Trung Thứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 887623,
+            "name": "Tiền Phong",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Tiền Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8342128",
+            "lng": "106.72253279999997"
+        },
+        {
+            "id": 858115,
+            "name": "Tổ 15 Vườn Hồng",
+            "pid": 10391,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 15 Vườn Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8342128",
+            "lng": "106.72253279999997"
+        },
+        {
+            "id": 980729,
+            "name": "Trần Hoàn",
+            "pid": 10391,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Hoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758136601cfa619"
+}

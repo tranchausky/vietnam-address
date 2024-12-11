@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450373,
+            "name": "Làng A",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Làng A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        },
+        {
+            "id": 450375,
+            "name": "Làng B",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Làng B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        },
+        {
+            "id": 450377,
+            "name": "Làng C",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Làng C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        },
+        {
+            "id": 450379,
+            "name": "Làng D",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Làng D",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        },
+        {
+            "id": 450367,
+            "name": "Thôn 4",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        },
+        {
+            "id": 450369,
+            "name": "Thôn 5",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        },
+        {
+            "id": 450371,
+            "name": "Thôn 6",
+            "pid": 13516,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.885123",
+            "lng": "107.91087140000002"
+        }
+    ],
+    "log_id": "675816d36ed87914"
+}

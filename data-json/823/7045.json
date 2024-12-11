@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94097,
+            "name": "Ấp 1",
+            "pid": 7045,
+            "type": 9,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0562105",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 94103,
+            "name": "Ấp 2",
+            "pid": 7045,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0562105",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 94115,
+            "name": "Ấp 3",
+            "pid": 7045,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.068849",
+            "lng": "107.276002"
+        },
+        {
+            "id": 94121,
+            "name": "Ấp 4",
+            "pid": 7045,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0562105",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 94124,
+            "name": "Ấp 5",
+            "pid": 7045,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0562105",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 94133,
+            "name": "Ấp 6",
+            "pid": 7045,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0562105",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 94142,
+            "name": "Ấp Chợ",
+            "pid": 7045,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0562105",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 931282,
+            "name": "Bưu Điện Suối Nho",
+            "pid": 7045,
+            "type": 10,
+            "region": null,
+            "alias": "Bưu Điện Suối Nho",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.040909089337081",
+            "lng": "107.28197160374"
+        }
+    ],
+    "log_id": "675814dd539c3441"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1724,
+            "name": "Huyện Cam Lâm",
+            "pid": 831,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cam Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.07539",
+            "lng": "109.14043800000002"
+        },
+        {
+            "id": 1725,
+            "name": "Huyện Diên Khánh",
+            "pid": 831,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Diên Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2570417",
+            "lng": "109.04531999999995"
+        },
+        {
+            "id": 1726,
+            "name": "Huyện Khánh Sơn",
+            "pid": 831,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Khánh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0249415",
+            "lng": "108.92645240000002"
+        },
+        {
+            "id": 1727,
+            "name": "Huyện Khánh Vĩnh",
+            "pid": 831,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Khánh Vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2705951",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 1730,
+            "name": "Huyện Vạn Ninh",
+            "pid": 831,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Vạn Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.7243439",
+            "lng": "109.26269920000004"
+        },
+        {
+            "id": 1732,
+            "name": "Thành Phố Cam Ranh",
+            "pid": 831,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Cam Ranh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9008657",
+            "lng": "109.14043800000002"
+        },
+        {
+            "id": 1731,
+            "name": "Thành Phố Nha Trang",
+            "pid": 831,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Nha Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2387911",
+            "lng": "109.19674880000002"
+        },
+        {
+            "id": 1728,
+            "name": "Thị Xã Ninh Hòa",
+            "pid": 831,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Ninh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.512997",
+            "lng": "109.14043800000002"
+        }
+    ],
+    "log_id": "675815857c262582"
+}

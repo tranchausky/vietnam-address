@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451823,
+            "name": "Khóm Mỹ Phú",
+            "pid": 8094,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Mỹ Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4582842",
+            "lng": "105.646167"
+        },
+        {
+            "id": 451821,
+            "name": "Khóm Mỹ Thuận",
+            "pid": 8094,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Mỹ Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3400402",
+            "lng": "106.1451602"
+        },
+        {
+            "id": 451829,
+            "name": "Khóm Tân An",
+            "pid": 8094,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4881127",
+            "lng": "106.3287199"
+        },
+        {
+            "id": 451827,
+            "name": "Khóm Tân Bình",
+            "pid": 8094,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8019644",
+            "lng": "106.6417258"
+        },
+        {
+            "id": 451825,
+            "name": "Khóm Tân Thạnh",
+            "pid": 8094,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9748361",
+            "lng": "106.5042754"
+        }
+    ],
+    "log_id": "67590b59a6e04141"
+}

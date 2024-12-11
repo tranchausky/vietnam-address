@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 811774,
+            "name": "Đa Phúc",
+            "pid": 26025,
+            "type": 17,
+            "region": null,
+            "alias": "Đa Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.803645",
+            "lng": "106.66744840000001"
+        },
+        {
+            "id": 980685,
+            "name": "Đường Phạm Hải",
+            "pid": 26025,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980684,
+            "name": "Đường Phúc Hải",
+            "pid": 26025,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phúc Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980683,
+            "name": "Đường Vân Quan",
+            "pid": 26025,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vân Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 836797,
+            "name": "Nguyễn Như Quế",
+            "pid": 26025,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Như Quế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.803645",
+            "lng": "106.66744840000001"
+        },
+        {
+            "id": 836791,
+            "name": "Quảng Luận",
+            "pid": 26025,
+            "type": 21,
+            "region": null,
+            "alias": "Quảng Luận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.803645",
+            "lng": "106.66744840000001"
+        }
+    ],
+    "log_id": "6758136601a20516"
+}

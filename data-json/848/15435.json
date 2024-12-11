@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 427823,
+            "name": "Thôn Cao Thắng",
+            "pid": 15435,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Cao Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3321588",
+            "lng": "105.96411239999998"
+        },
+        {
+            "id": 427819,
+            "name": "Thôn Hòa Bình",
+            "pid": 15435,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 427825,
+            "name": "Thôn Nam Thắng",
+            "pid": 15435,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Nam Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3944654",
+            "lng": "106.2698669"
+        },
+        {
+            "id": 427821,
+            "name": "Thôn Trung Phú",
+            "pid": 15435,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Trung Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0017449",
+            "lng": "105.8437881"
+        }
+    ],
+    "log_id": "675816e9dc110186"
+}

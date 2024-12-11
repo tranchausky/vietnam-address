@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117933,
+            "name": "Bãi Cháy",
+            "pid": 36230,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Cháy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1528892",
+            "lng": "105.6251157"
+        },
+        {
+            "id": 117931,
+            "name": "Bãi Đồn",
+            "pid": 36230,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1596292",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 55820,
+            "name": "Ubnd Xã Vân Hà - Phúc Thọ",
+            "pid": 36230,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Vân Hà - Phúc Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1499284",
+            "lng": "105.62028950000001"
+        }
+    ],
+    "log_id": "675811bd47cb0939"
+}

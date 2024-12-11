@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 837733,
+            "name": "Thôn Ngọc Vóc",
+            "pid": 21104,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ngọc Vóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1408984",
+            "lng": "105.50640870000008"
+        },
+        {
+            "id": 820636,
+            "name": "Yên Duyệt",
+            "pid": 21104,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Duyệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1408984",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 820633,
+            "name": "Yên Ruộng",
+            "pid": 21104,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Ruộng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1408984",
+            "lng": "105.50640870000007"
+        }
+    ],
+    "log_id": "67590a23c1b05538"
+}

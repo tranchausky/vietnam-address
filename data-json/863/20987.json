@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410955,
+            "name": "Thôn Mĩ Lương",
+            "pid": 20987,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn mĩ lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.564063",
+            "lng": "106.21985530000006"
+        },
+        {
+            "id": 410949,
+            "name": "Thôn Thương Ngan 1",
+            "pid": 20987,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thương Ngan 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.564063",
+            "lng": "106.21985530000006"
+        },
+        {
+            "id": 410951,
+            "name": "Thôn Thượng Ngạn 2",
+            "pid": 20987,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Ngạn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.564063",
+            "lng": "106.21985530000006"
+        },
+        {
+            "id": 410959,
+            "name": "Thưởng Duyên",
+            "pid": 20987,
+            "type": 16,
+            "region": null,
+            "alias": "thưởng duyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.564063",
+            "lng": "106.21985530000006"
+        },
+        {
+            "id": 410957,
+            "name": "Vĩnh Truyền",
+            "pid": 20987,
+            "type": 16,
+            "region": null,
+            "alias": "vĩnh truyền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.564063",
+            "lng": "106.21985530000006"
+        }
+    ],
+    "log_id": "675909f3bdb30596"
+}

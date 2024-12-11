@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108523,
+            "name": "Ấp Tô Hạ",
+            "pid": 16632,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tô Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4013017",
+            "lng": "105.0148322"
+        },
+        {
+            "id": 108521,
+            "name": "Ấp Tô Thuận",
+            "pid": 16632,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tô Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4013017",
+            "lng": "105.0148322"
+        },
+        {
+            "id": 108517,
+            "name": "Ấp Tô Thủy",
+            "pid": 16632,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tô Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4013017",
+            "lng": "105.0148322"
+        },
+        {
+            "id": 108519,
+            "name": "Ấp Tô Trung",
+            "pid": 16632,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tô Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4013017",
+            "lng": "105.0148322"
+        }
+    ],
+    "log_id": "6758159e02b27751"
+}

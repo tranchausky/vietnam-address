@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639459,
+            "name": "Thôn An Thư",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 639468,
+            "name": "Thôn Ba Đông Trại",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba Đông Trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 639474,
+            "name": "Thôn Đông Hạ",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 639471,
+            "name": "Thôn Đông Thượng",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 639456,
+            "name": "Thôn Đôn Thư",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đôn Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 639462,
+            "name": "Thôn Quang Tiền",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Tiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        },
+        {
+            "id": 639465,
+            "name": "Thôn Vĩnh Duệ",
+            "pid": 7090,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Duệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8108797",
+            "lng": "106.26986690000001"
+        }
+    ],
+    "log_id": "675813f1ad727819"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599823,
+            "name": "Bình Đông Trung",
+            "pid": 6555,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Đông Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3736777",
+            "lng": "106.5552295"
+        },
+        {
+            "id": 599829,
+            "name": "Bình Hòa Đông",
+            "pid": 6555,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3736777",
+            "lng": "106.5552295"
+        },
+        {
+            "id": 599826,
+            "name": "Bình Hòa Long",
+            "pid": 6555,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Hòa Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3736777",
+            "lng": "106.5552295"
+        }
+    ],
+    "log_id": "675814f3c46ad949"
+}

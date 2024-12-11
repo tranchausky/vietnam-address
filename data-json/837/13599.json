@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476225,
+            "name": "Khu Đô Thị Mới",
+            "pid": 13599,
+            "type": 20,
+            "region": null,
+            "alias": "Khu đô thị mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 739969,
+            "name": "Nhà Nghỉ Gia Bảo",
+            "pid": 13599,
+            "type": 17,
+            "region": null,
+            "alias": "nhà nghỉ Gia Bảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.9581624"
+        },
+        {
+            "id": 739963,
+            "name": "Phố Mới",
+            "pid": 13599,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.9581624"
+        },
+        {
+            "id": 476221,
+            "name": "Thôn Ngân Cầu",
+            "pid": 13599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngân Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476217,
+            "name": "Thôn Nghiêm Xá",
+            "pid": 13599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghiêm Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476219,
+            "name": "Thôn Phú Mẫn",
+            "pid": 13599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mẫn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476223,
+            "name": "Thôn Trác Bút",
+            "pid": 13599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trác Bút",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        },
+        {
+            "id": 476227,
+            "name": "Thôn Trung Bạn",
+            "pid": 13599,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Trung Bạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.202957",
+            "lng": "105.95816239999999"
+        }
+    ],
+    "log_id": "675815f8d6e4f595"
+}

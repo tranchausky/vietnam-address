@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 399363,
+            "name": "Bản Oong",
+            "pid": 20566,
+            "type": 16,
+            "region": null,
+            "alias": "bản oong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.712873",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 399359,
+            "name": "Khâu Ho",
+            "pid": 20566,
+            "type": 16,
+            "region": null,
+            "alias": "khâu ho",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.712873",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 887023,
+            "name": "Khuổi Tâu",
+            "pid": 20566,
+            "type": 18,
+            "region": null,
+            "alias": "Khuổi Tâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.712873",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 399365,
+            "name": "Phia Pàn",
+            "pid": 20566,
+            "type": 16,
+            "region": null,
+            "alias": "phia pàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.712873",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 399361,
+            "name": "Thôm Ngàn",
+            "pid": 20566,
+            "type": 16,
+            "region": null,
+            "alias": "thôm ngàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.712873",
+            "lng": "105.60606610000002"
+        }
+    ],
+    "log_id": "67581662a3777624"
+}

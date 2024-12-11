@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 429411,
+            "name": "Bản Co Lẹ",
+            "pid": 15591,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Co Lẹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1651904",
+            "lng": "103.37605770000005"
+        },
+        {
+            "id": 429409,
+            "name": "Bản Huổi Ca",
+            "pid": 15591,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huổi Ca",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1651904",
+            "lng": "103.37605770000005"
+        },
+        {
+            "id": 429407,
+            "name": "Bản Sông Đà",
+            "pid": 15591,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Sông Đà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1651904",
+            "lng": "103.37605770000005"
+        }
+    ],
+    "log_id": "6758175e76b8f551"
+}

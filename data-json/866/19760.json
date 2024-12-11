@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462775,
+            "name": "Thôn A Đâng",
+            "pid": 19760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A Đâng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1844238",
+            "lng": "107.20753880000007"
+        },
+        {
+            "id": 462777,
+            "name": "Thôn A La",
+            "pid": 19760,
+            "type": 16,
+            "region": null,
+            "alias": "thôn A La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1844238",
+            "lng": "107.20753880000007"
+        },
+        {
+            "id": 462773,
+            "name": "Thôn I Reo",
+            "pid": 19760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn I Reo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1844238",
+            "lng": "107.20753880000007"
+        },
+        {
+            "id": 462779,
+            "name": "Thôn Tu Vây",
+            "pid": 19760,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tu Vây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1844238",
+            "lng": "107.20753880000007"
+        }
+    ],
+    "log_id": "67590b2651fb4862"
+}

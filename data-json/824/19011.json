@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598785,
+            "name": "Khu Phố 1",
+            "pid": 19011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3545304",
+            "lng": "106.67481810000004"
+        },
+        {
+            "id": 598788,
+            "name": "Khu Phố 2",
+            "pid": 19011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3545304",
+            "lng": "106.67481810000004"
+        },
+        {
+            "id": 598791,
+            "name": "Khu Phố 3",
+            "pid": 19011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3545304",
+            "lng": "106.67481810000004"
+        },
+        {
+            "id": 598794,
+            "name": "Khu Phố 4",
+            "pid": 19011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3545304",
+            "lng": "106.67481810000004"
+        }
+    ],
+    "log_id": "675814f395969403"
+}

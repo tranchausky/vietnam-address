@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 824356,
+            "name": "Bưu Điện Long Hồ",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "bưu điện long hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        },
+        {
+            "id": 446847,
+            "name": "Khóm 1",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        },
+        {
+            "id": 446849,
+            "name": "Khóm 2",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        },
+        {
+            "id": 446851,
+            "name": "Khóm 3",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        },
+        {
+            "id": 446853,
+            "name": "Khóm 4",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        },
+        {
+            "id": 989537,
+            "name": "Khóm 5",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.198816406057517",
+            "lng": "106.00654372449958"
+        },
+        {
+            "id": 446857,
+            "name": "Khóm 6",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        },
+        {
+            "id": 789967,
+            "name": "Trường Thpt Phạm Hùng",
+            "pid": 15667,
+            "type": 21,
+            "region": null,
+            "alias": "Trường THPT Phạm Hùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1962734",
+            "lng": "106.00965109999993"
+        }
+    ],
+    "log_id": "67590b599d883816"
+}

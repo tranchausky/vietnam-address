@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 6068,
+            "name": "Phường Chánh Phú Hòa",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Chánh Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1731896",
+            "lng": "106.66450069999996"
+        },
+        {
+            "id": 6069,
+            "name": "Phường Hòa Lợi",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0908499",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 6070,
+            "name": "Phường Mỹ Phước",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Mỹ Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1488534",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 6071,
+            "name": "Phường Tân Định",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tân Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0600602",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 6072,
+            "name": "Phường Thới Hòa",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thới Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1044443",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 6073,
+            "name": "Xã An Điền",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Xã An Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1289743",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 6074,
+            "name": "Xã An Tây",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Xã An Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0923536",
+            "lng": "106.54662209999992"
+        },
+        {
+            "id": 6075,
+            "name": "Xã Phú An",
+            "pid": 1103,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phú An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.062709",
+            "lng": "106.5878723"
+        }
+    ],
+    "log_id": "675816216b23a797"
+}

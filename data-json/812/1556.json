@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 25369,
+            "name": "Xã Long Hải",
+            "pid": 1556,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.547487",
+            "lng": "108.952031"
+        },
+        {
+            "id": 25373,
+            "name": "Xã Ngũ Phụng",
+            "pid": 1556,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ngũ Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.533333",
+            "lng": "108.95000000000004"
+        },
+        {
+            "id": 25377,
+            "name": "Xã Tam Thanh",
+            "pid": 1556,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tam Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.509666",
+            "lng": "108.94205690000001"
+        }
+    ],
+    "log_id": "675814777b180925"
+}

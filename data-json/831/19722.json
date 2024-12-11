@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 456205,
+            "name": "Thôn Đông Bắc",
+            "pid": 19722,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN ĐÔNG BẮC",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8362689",
+            "lng": "109.36642370000004"
+        },
+        {
+            "id": 456207,
+            "name": "Thôn Đông Nam",
+            "pid": 19722,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN ĐÔNG NAM",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8362689",
+            "lng": "109.36642370000004"
+        }
+    ],
+    "log_id": "67581585a29c7161"
+}

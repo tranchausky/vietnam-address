@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442815,
+            "name": "Khóm Bình Hòa",
+            "pid": 16090,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Bình Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3577289",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 442813,
+            "name": "Khóm Bình Phú Qưới",
+            "pid": 16090,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Bình Phú Qưới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3577289",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 442809,
+            "name": "Khóm Bình Thạnh 1",
+            "pid": 16090,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Bình Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3577289",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 442811,
+            "name": "Khóm Bình Thạnh 2",
+            "pid": 16090,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Bình Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3577289",
+            "lng": "105.52106070000002"
+        }
+    ],
+    "log_id": "675816c075779992"
+}

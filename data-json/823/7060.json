@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93767,
+            "name": "Ấp Tín Nghĩa",
+            "pid": 7060,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tín Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.032197, ",
+            "lng": "107.234416"
+        },
+        {
+            "id": 93764,
+            "name": "Ấp Xuân Thiện",
+            "pid": 7060,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xuân Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.997688",
+            "lng": "107.183869"
+        },
+        {
+            "id": 93770,
+            "name": "Khu C",
+            "pid": 7060,
+            "type": 10,
+            "region": null,
+            "alias": "Khu C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.986021",
+            "lng": "107.219320"
+        }
+    ],
+    "log_id": "675814dd3f4e5113"
+}

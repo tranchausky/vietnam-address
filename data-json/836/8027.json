@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115487,
+            "name": "Khóm 1",
+            "pid": 8027,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.297723",
+            "lng": "105.71816080000008"
+        },
+        {
+            "id": 115489,
+            "name": "Khóm 2",
+            "pid": 8027,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.297723",
+            "lng": "105.71816080000008"
+        },
+        {
+            "id": 115491,
+            "name": "Khóm 3",
+            "pid": 8027,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.297723",
+            "lng": "105.71816080000008"
+        },
+        {
+            "id": 115495,
+            "name": "Khóm 4",
+            "pid": 8027,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.297723,",
+            "lng": "105.71816080000008"
+        },
+        {
+            "id": 115497,
+            "name": "Khóm 5",
+            "pid": 8027,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.297723",
+            "lng": "105.71816080000008"
+        },
+        {
+            "id": 115501,
+            "name": "Khóm 6",
+            "pid": 8027,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.297723",
+            "lng": "105.71816080000008"
+        }
+    ],
+    "log_id": "675815e177725303"
+}

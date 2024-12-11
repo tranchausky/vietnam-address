@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 17590,
+            "name": "Thị Trấn Kiên Lương",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Kiên Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2456707",
+            "lng": "104.60631920000003"
+        },
+        {
+            "id": 17591,
+            "name": "Xã Bình An",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1641051",
+            "lng": "104.6004911"
+        },
+        {
+            "id": 17592,
+            "name": "Xã Bình Trị",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1805016",
+            "lng": "104.65920789999996"
+        },
+        {
+            "id": 17593,
+            "name": "Xã Dương Hòa",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Dương Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2972046",
+            "lng": "104.55387440000004"
+        },
+        {
+            "id": 17594,
+            "name": "Xã Hòa Điền",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3480893",
+            "lng": "104.63546309999992"
+        },
+        {
+            "id": 17596,
+            "name": "Xã Hòn Nghệ",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòn Nghệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0193417",
+            "lng": "104.54804839999997"
+        },
+        {
+            "id": 17595,
+            "name": "Xã Kiên Bình",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Kiên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3437706",
+            "lng": "104.72876070000007"
+        },
+        {
+            "id": 17597,
+            "name": "Xã Sơn Hải",
+            "pid": 1741,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sơn Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1246809",
+            "lng": "104.50727219999999"
+        }
+    ],
+    "log_id": "67581735f2333307"
+}

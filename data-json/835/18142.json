@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 582807,
+            "name": "Nà Bay",
+            "pid": 18142,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Bay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.265095",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 582816,
+            "name": "Nà Hồng",
+            "pid": 18142,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.265095",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 582822,
+            "name": "Thôn Phiêng Phung",
+            "pid": 18142,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phiêng Phung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.265095",
+            "lng": "105.67644610000002"
+        }
+    ],
+    "log_id": "675815c92ea15798"
+}

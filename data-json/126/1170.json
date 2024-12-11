@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 678247,
+            "name": "Ấp Ba Sa",
+            "pid": 1170,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Ba Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0041938",
+            "lng": "106.4484296"
+        },
+        {
+            "id": 66131,
+            "name": "Ấp Cây Trôm",
+            "pid": 1170,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Cây Trôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66207,
+            "name": "Ấp Mũi Côn Đại",
+            "pid": 1170,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Mũi Côn Đại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66211,
+            "name": "Ấp Mủi Côn Tiểu",
+            "pid": 1170,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Mủi Côn Tiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66247,
+            "name": "Ấp Phước Hòa",
+            "pid": 1170,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Phước Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66295,
+            "name": "Ấp Trại Đèn",
+            "pid": 1170,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Trại Đèn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 827572,
+            "name": "Ấp Trung Viết",
+            "pid": 1170,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Viết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9831531",
+            "lng": "106.4464766"
+        },
+        {
+            "id": 675478,
+            "name": "Đường Cây Trôm Mỹ Khánh",
+            "pid": 1170,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cây trôm Mỹ Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9857505",
+            "lng": "106.4318137"
+        },
+        {
+            "id": 678877,
+            "name": "Đường Đặng Thị Hai",
+            "pid": 1170,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Thị Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.074436",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 681358,
+            "name": "Đường Lê Thị Vui",
+            "pid": 1170,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Thị Vui",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9991416",
+            "lng": "106.4481629"
+        },
+        {
+            "id": 969239,
+            "name": "Đường Quốc Lộ 22",
+            "pid": 1170,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quốc Lộ 22",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.006228",
+            "lng": "106.426299"
+        }
+    ],
+    "log_id": "6758129a3d96a5"
+}

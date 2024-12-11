@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 978946,
+            "name": "106-152 Đường Cách Mạng Tháng 8",
+            "pid": 7912,
+            "type": 29,
+            "region": null,
+            "alias": "106-152 đường cách mạng tháng 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0507723",
+            "lng": "105.7725583"
+        },
+        {
+            "id": 978947,
+            "name": "Chẵn 2-100 Đường Cách Mạng Tháng 8",
+            "pid": 7912,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 2-100 đường cách mạng tháng 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.048812",
+            "lng": "105.7746375"
+        },
+        {
+            "id": 978948,
+            "name": "Hẻm 156 Đường Cách Mạng Tháng 8",
+            "pid": 7912,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 156 đường cách mạng tháng 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0567641",
+            "lng": "105.7609195"
+        }
+    ],
+    "log_id": "6758140cbd463241"
+}

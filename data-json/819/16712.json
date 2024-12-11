@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011788,
+            "name": "Khu Đô Thị Phương Đông",
+            "pid": 16712,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị Phương Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "107.42764391350951",
+            "lng": "21.075868678195523"
+        },
+        {
+            "id": 57364,
+            "name": "Ngã Ba Xưởng Mắm Vân Đồn",
+            "pid": 16712,
+            "type": 10,
+            "region": null,
+            "alias": "Ngã ba Xưởng Mắm Vân Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0693983",
+            "lng": "107.4202262"
+        },
+        {
+            "id": 57360,
+            "name": "Siêu Thị Điện Máy Xanh Vân Đồn",
+            "pid": 16712,
+            "type": 21,
+            "region": null,
+            "alias": "Siêu thị Điện máy XANH Vân Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0637033",
+            "lng": "107.41343129999996"
+        },
+        {
+            "id": 812824,
+            "name": "Thôn Cặp Tiên",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cặp Tiên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553461,
+            "name": "Thôn Đông Hà",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553475,
+            "name": "Thôn Đông Hải",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553469,
+            "name": "Thôn Đông Hợp",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hợp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553471,
+            "name": "Thôn Đông Sơn",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553465,
+            "name": "Thôn Đông Thắng",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553467,
+            "name": "Thôn Đông Thành",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553473,
+            "name": "Thôn Đông Thịnh",
+            "pid": 16712,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Đông Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553459,
+            "name": "Thôn Đông Tiến",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        },
+        {
+            "id": 553463,
+            "name": "Thôn Đông Trung",
+            "pid": 16712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0589998",
+            "lng": "107.41734859999997"
+        }
+    ],
+    "log_id": "675814c232d47624"
+}

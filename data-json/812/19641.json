@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567519,
+            "name": "Thôn 1",
+            "pid": 19641,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2510858",
+            "lng": "108.27334100000007"
+        },
+        {
+            "id": 567522,
+            "name": "Thôn 2",
+            "pid": 19641,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2510858",
+            "lng": "108.27334100000007"
+        },
+        {
+            "id": 567525,
+            "name": "Thôn Hòa Bình",
+            "pid": 19641,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2510858",
+            "lng": "108.27334100000007"
+        },
+        {
+            "id": 567531,
+            "name": "Thôn Sông Khiêng",
+            "pid": 19641,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sông Khiêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2510858",
+            "lng": "108.27334100000007"
+        },
+        {
+            "id": 567516,
+            "name": "Thôn Suối Nhuôm",
+            "pid": 19641,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Nhuôm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2510858",
+            "lng": "108.27334100000007"
+        },
+        {
+            "id": 567528,
+            "name": "Thôn Tú Sơn",
+            "pid": 19641,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tú Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2510858",
+            "lng": "108.27334100000007"
+        }
+    ],
+    "log_id": "6758147792325699"
+}

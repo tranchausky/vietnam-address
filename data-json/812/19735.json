@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 850531,
+            "name": "Đường Lê Văn Triều",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Lê Văn Triều",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.068096",
+            "lng": "107.710231"
+        },
+        {
+            "id": 457911,
+            "name": "Thôn Bầu Chim",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bầu Chim",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0628965",
+            "lng": "107.71032909999997"
+        },
+        {
+            "id": 457905,
+            "name": "Thôn Đồi Giang",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồi Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0628965",
+            "lng": "107.71032909999997"
+        },
+        {
+            "id": 457909,
+            "name": "Thôn Đồng Me",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0628965",
+            "lng": "107.71032909999997"
+        },
+        {
+            "id": 457913,
+            "name": "Thôn Hòa Thuận",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0628965",
+            "lng": "107.71032909999997"
+        },
+        {
+            "id": 457915,
+            "name": "Thôn Phú Thuận",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0628965",
+            "lng": "107.7103290999999"
+        },
+        {
+            "id": 457907,
+            "name": "Thôn Quảng Thuận",
+            "pid": 19735,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0628965",
+            "lng": "107.71032909999997"
+        }
+    ],
+    "log_id": "675814780631b475"
+}

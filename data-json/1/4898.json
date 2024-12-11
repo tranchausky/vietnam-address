@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54050,
+            "name": "Khu Đô Thị Duyên Thái",
+            "pid": 4898,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị Duyên Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 98621,
+            "name": "Thôn Duyên Trường",
+            "pid": 4898,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Duyên Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.899643",
+            "lng": "105.863024"
+        },
+        {
+            "id": 98633,
+            "name": "Thôn Hạ Thái",
+            "pid": 4898,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9012056",
+            "lng": "105.8655342"
+        },
+        {
+            "id": 98627,
+            "name": "Thôn Phúc Am",
+            "pid": 4898,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Am",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8988063",
+            "lng": "105.8575382"
+        },
+        {
+            "id": 53706,
+            "name": "Trung Cấp Nghề Việt Tiệp",
+            "pid": 4898,
+            "type": 9,
+            "region": null,
+            "alias": "Trung Cấp nghề Việt Tiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8961472",
+            "lng": "105.8532369,17"
+        },
+        {
+            "id": 55590,
+            "name": "Ubnd Xã Duyên Tháii",
+            "pid": 4898,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Duyên Tháii",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.898937223826238, ",
+            "lng": "105.86201804380173"
+        }
+    ],
+    "log_id": "675811bd6bc71993"
+}

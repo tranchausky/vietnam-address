@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 748489,
+            "name": "Thôn Đại Đồng",
+            "pid": 21532,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đại đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999996"
+        },
+        {
+            "id": 748492,
+            "name": "Thôn Hòa Hợp",
+            "pid": 21532,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Hợp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999996"
+        },
+        {
+            "id": 425577,
+            "name": "Thôn Thanh Sơn",
+            "pid": 21532,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999997"
+        },
+        {
+            "id": 425579,
+            "name": "Thôn Xa Sá",
+            "pid": 21532,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Xa Sá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999997"
+        },
+        {
+            "id": 425587,
+            "name": "Xóm Liên Sơn",
+            "pid": 21532,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm liên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999997"
+        },
+        {
+            "id": 425585,
+            "name": "Xóm Mỹ Liên",
+            "pid": 21532,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mỹ Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999997"
+        },
+        {
+            "id": 425583,
+            "name": "Xóm Nam Mỹ Lợi",
+            "pid": 21532,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nam Mỹ Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999997"
+        },
+        {
+            "id": 425589,
+            "name": "Xóm Văn Lạc",
+            "pid": 21532,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Văn Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0955189",
+            "lng": "106.24044679999997"
+        }
+    ],
+    "log_id": "675816e9b05b3911"
+}

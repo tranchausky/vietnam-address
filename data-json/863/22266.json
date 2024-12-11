@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411757,
+            "name": "Thôn An Liêm",
+            "pid": 22266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Liêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5455532",
+            "lng": "106.27722259999996"
+        },
+        {
+            "id": 411761,
+            "name": "Thôn Cộng Hòa",
+            "pid": 22266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cộng Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5455532",
+            "lng": "106.27722259999996"
+        },
+        {
+            "id": 411759,
+            "name": "Thôn Lộ Vị",
+            "pid": 22266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộ Vị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5455532",
+            "lng": "106.27722259999996"
+        },
+        {
+            "id": 411763,
+            "name": "Thôn Thần Khê",
+            "pid": 22266,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thần Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5455532",
+            "lng": "106.27722259999996"
+        }
+    ],
+    "log_id": "675909f3966bd828"
+}

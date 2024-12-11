@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120289,
+            "name": "Đoan Nữ",
+            "pid": 4716,
+            "type": 16,
+            "region": null,
+            "alias": "Đoan Nữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7462143",
+            "lng": "105.6933121"
+        },
+        {
+            "id": 120287,
+            "name": "Kênh Đào",
+            "pid": 4716,
+            "type": 16,
+            "region": null,
+            "alias": "Kênh Đào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.75176029547748, ",
+            "lng": "105.69489204565508"
+        },
+        {
+            "id": 120291,
+            "name": "Tảo Khê",
+            "pid": 4716,
+            "type": 16,
+            "region": null,
+            "alias": "Tảo Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7551289",
+            "lng": "105.7065126"
+        },
+        {
+            "id": 53638,
+            "name": "Thpt Mỹ Đức",
+            "pid": 4716,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Mỹ Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54834,
+            "name": "Ubnd Xã An Mỹ",
+            "pid": 4716,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã An Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc19d8c806"
+}

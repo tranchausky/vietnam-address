@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 979646,
+            "name": "Đường Lê Duẩn",
+            "pid": 16421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Duẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.577719186085353",
+            "lng": "108.98383601408672"
+        },
+        {
+            "id": 979125,
+            "name": "Ngã Ba Long Bình",
+            "pid": 16421,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã Ba Long Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.550101464932288",
+            "lng": "108.96837053703999"
+        },
+        {
+            "id": 455779,
+            "name": "Thôn An Thạnh 1",
+            "pid": 16421,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.529020",
+            "lng": "108.995606"
+        },
+        {
+            "id": 455787,
+            "name": "Thôn Hòa Thạnh",
+            "pid": 16421,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.529020",
+            "lng": "108.995606"
+        },
+        {
+            "id": 745978,
+            "name": "Thon Long Binh 2",
+            "pid": 16421,
+            "type": 16,
+            "region": null,
+            "alias": "Thon Long Binh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.52902",
+            "lng": "108.995606"
+        },
+        {
+            "id": 455785,
+            "name": "Thôn Nam Cương",
+            "pid": 16421,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Cương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.529020",
+            "lng": "108.995606"
+        },
+        {
+            "id": 455783,
+            "name": "Thôn Tuấn Tú",
+            "pid": 16421,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tuấn Tú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.529020",
+            "lng": "108.995606"
+        }
+    ],
+    "log_id": "675817b982c94349"
+}

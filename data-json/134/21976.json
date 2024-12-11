@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 501451,
+            "name": "Thôn Khuổi Bây A",
+            "pid": 21976,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi bây A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4148351",
+            "lng": "106.2823717"
+        },
+        {
+            "id": 501453,
+            "name": "Thôn Khuổi Bây B",
+            "pid": 21976,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi bây B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4148351",
+            "lng": "106.2823717"
+        },
+        {
+            "id": 501447,
+            "name": "Thôn Khuổi Pụ",
+            "pid": 21976,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi pụ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4148351",
+            "lng": "106.2823717"
+        },
+        {
+            "id": 501449,
+            "name": "Thôn Khuổi Xả",
+            "pid": 21976,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi xả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4148351",
+            "lng": "106.2823717"
+        }
+    ],
+    "log_id": "6758133f41867313"
+}

@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 787816,
+            "name": "Ấp Đồn",
+            "pid": 1180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.026217",
+            "lng": "106.458256"
+        },
+        {
+            "id": 787813,
+            "name": "Ấp Gia Bẹ",
+            "pid": 1180,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Gia Bẹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.026217",
+            "lng": "106.458256"
+        },
+        {
+            "id": 66191,
+            "name": "Ấp Lào Táo Trung",
+            "pid": 1180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lào Táo Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.094098",
+            "lng": "106.43936099999996"
+        },
+        {
+            "id": 66315,
+            "name": "Ấp Trung Hòa",
+            "pid": 1180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 780424,
+            "name": "Ấp Xóm Mới",
+            "pid": 1180,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.026217",
+            "lng": "106.458256"
+        },
+        {
+            "id": 971206,
+            "name": "Đường Hương Lộ 2",
+            "pid": 1180,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hương Lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.008628",
+            "lng": "106.471738"
+        },
+        {
+            "id": 980381,
+            "name": "Đường Tỉnh Lộ 2, Xã Trung Lập Hạ",
+            "pid": 1180,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tỉnh lộ 2, xã Trung Lập Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.027577",
+            "lng": "106.453843"
+        },
+        {
+            "id": 980382,
+            "name": "Số Chẵn 2-112 Tỉnh Lộ 2",
+            "pid": 1180,
+            "type": 29,
+            "region": null,
+            "alias": "Số chẵn 2-112 Tỉnh Lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.998967",
+            "lng": "106.484206"
+        },
+        {
+            "id": 980383,
+            "name": "Số Chẵn 114-472 Tỉnh Lộ 2",
+            "pid": 1180,
+            "type": 29,
+            "region": null,
+            "alias": "Số chẵn 114-472 Tỉnh lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.009394",
+            "lng": "106.471012"
+        },
+        {
+            "id": 980384,
+            "name": "Số Chẵn 474-590 Tỉnh Lộ 2",
+            "pid": 1180,
+            "type": 29,
+            "region": null,
+            "alias": "Số chẵn 474-590 Tỉnh Lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.026242",
+            "lng": "106.455137"
+        },
+        {
+            "id": 980385,
+            "name": "Số Lẻ 91-151 Tỉnh Lộ 2",
+            "pid": 1180,
+            "type": 29,
+            "region": null,
+            "alias": "Số lẻ 91-151 Tỉnh Lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.999080",
+            "lng": "106.483999"
+        },
+        {
+            "id": 980386,
+            "name": "Số Lẻ 153-527 Tỉnh Lộ 2",
+            "pid": 1180,
+            "type": 29,
+            "region": null,
+            "alias": "Số lẻ 153-527 Tỉnh lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.008678",
+            "lng": "106.471726"
+        },
+        {
+            "id": 980387,
+            "name": "Số Lẻ 155-635 Tỉnh Lộ 2",
+            "pid": 1180,
+            "type": 29,
+            "region": null,
+            "alias": "Số lẻ 155-635 Tỉnh lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.026547",
+            "lng": "106.454899"
+        }
+    ],
+    "log_id": "6758129a40ff8242"
+}

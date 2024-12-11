@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 707365,
+            "name": "Thôn Phú Điền",
+            "pid": 19605,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.363076",
+            "lng": "108.546953"
+        },
+        {
+            "id": 707380,
+            "name": "Thôn Tân Điền",
+            "pid": 19605,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.363076",
+            "lng": "108.546953"
+        }
+    ],
+    "log_id": "675814779175b287"
+}

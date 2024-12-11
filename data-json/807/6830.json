@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 661966,
+            "name": "Chợ Đồng Văn",
+            "pid": 6830,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ đồng văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 565828,
+            "name": "Đường Nguyễn Hữu Tiến",
+            "pid": 6830,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hữu Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 565954,
+            "name": "Kcn Đồng Văn 1",
+            "pid": 6830,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Đồng Văn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 822538,
+            "name": "Khách Sạn Bình Minh",
+            "pid": 6830,
+            "type": 10,
+            "region": null,
+            "alias": "Khách Sạn Bình Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.640727",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 795649,
+            "name": "Khu Đô Thị Mới",
+            "pid": 6830,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 565951,
+            "name": "Làng Đồng Văn",
+            "pid": 6830,
+            "type": 10,
+            "region": null,
+            "alias": "Làng Đồng Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396817,
+            "name": "Thôn Vực Vòng",
+            "pid": 6830,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vực Vòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396815,
+            "name": "Tổ 6",
+            "pid": 6830,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "6758142827c9c446"
+}

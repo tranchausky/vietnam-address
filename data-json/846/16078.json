@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113107,
+            "name": "Ấp 3- An Phong",
+            "pid": 16078,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3- An Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.632788",
+            "lng": "105.424327"
+        },
+        {
+            "id": 113139,
+            "name": "Ấp 4-An Phong",
+            "pid": 16078,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 4-An Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.632788",
+            "lng": "105.424327"
+        },
+        {
+            "id": 113051,
+            "name": "Ấp Nhất",
+            "pid": 16078,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.632788",
+            "lng": "105.424327"
+        },
+        {
+            "id": 113083,
+            "name": "Ấp Nhì",
+            "pid": 16078,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.632788",
+            "lng": "105.424327"
+        },
+        {
+            "id": 112975,
+            "name": "Ấp Thị",
+            "pid": 16078,
+            "type": 21,
+            "region": null,
+            "alias": "ấp Thị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.632788",
+            "lng": "105.424327"
+        }
+    ],
+    "log_id": "675816c036294691"
+}

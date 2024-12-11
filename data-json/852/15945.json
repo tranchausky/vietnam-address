@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453679,
+            "name": "Làng Điệp Look",
+            "pid": 15945,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Điệp Look",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3241261",
+            "lng": "107.82876910000005"
+        },
+        {
+            "id": 453675,
+            "name": "Làng Lút",
+            "pid": 15945,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Lút",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3241261",
+            "lng": "107.82876910000005"
+        },
+        {
+            "id": 453677,
+            "name": "Làng Trấp",
+            "pid": 15945,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trấp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3241261",
+            "lng": "107.82876910000005"
+        }
+    ],
+    "log_id": "6758174ce0cff115"
+}

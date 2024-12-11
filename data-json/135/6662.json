@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 851803,
+            "name": "Bạch Mai",
+            "pid": 6662,
+            "type": 22,
+            "region": null,
+            "alias": "Bạch Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8340318",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 863128,
+            "name": "Mình Kha",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Mình Kha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8624991",
+            "lng": "106.61292090000006"
+        },
+        {
+            "id": 104237,
+            "name": "Thôn Bạch Mai",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bạch Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.848548539906023",
+            "lng": "106.63577384255564"
+        },
+        {
+            "id": 104174,
+            "name": "Thôn Hoàng Mai",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.837084348428174",
+            "lng": "106.64241820786748"
+        },
+        {
+            "id": 104219,
+            "name": "Thôn Kiến Phong",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiến Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.847217734746224",
+            "lng": "106.62947202231366"
+        },
+        {
+            "id": 104192,
+            "name": "Thôn Minh Kha",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Minh Kha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.855924875706055",
+            "lng": "106.61835906156368"
+        },
+        {
+            "id": 104249,
+            "name": "Thôn Tê Chử",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tê Chử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.84095065169044",
+            "lng": "106.63789356723548"
+        },
+        {
+            "id": 104228,
+            "name": "Thôn Văn Phong",
+            "pid": 6662,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.856778372730176",
+            "lng": "106.62680926536623"
+        }
+    ],
+    "log_id": "67581365a18c5641"
+}

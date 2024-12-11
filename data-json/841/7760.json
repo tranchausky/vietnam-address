@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 438523,
+            "name": "Bào Thùng",
+            "pid": 7760,
+            "type": 17,
+            "region": null,
+            "alias": "Bào Thùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8321768",
+            "lng": "104.90384510000001"
+        },
+        {
+            "id": 438525,
+            "name": "Lê Năm",
+            "pid": 7760,
+            "type": 16,
+            "region": null,
+            "alias": "Lê Năm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8321768",
+            "lng": "104.90384510000001"
+        },
+        {
+            "id": 438527,
+            "name": "Rạch Chèo",
+            "pid": 7760,
+            "type": 16,
+            "region": null,
+            "alias": "Rạch Chèo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8321768",
+            "lng": "104.90384510000001"
+        },
+        {
+            "id": 438521,
+            "name": "Tân Nghĩa",
+            "pid": 7760,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8321768",
+            "lng": "104.90384510000001"
+        },
+        {
+            "id": 438529,
+            "name": "Tân Thành Mới",
+            "pid": 7760,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Thành Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8321768",
+            "lng": "104.90384510000001"
+        }
+    ],
+    "log_id": "6758164dab80b860"
+}

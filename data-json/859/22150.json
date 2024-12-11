@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641044,
+            "name": "Tây Gia",
+            "pid": 22150,
+            "type": 16,
+            "region": null,
+            "alias": "Tây gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.856109",
+            "lng": "108.065344"
+        },
+        {
+            "id": 641041,
+            "name": "Thôn Gia Huệ",
+            "pid": 22150,
+            "type": 16,
+            "region": null,
+            "alias": "thôn gia huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.856109",
+            "lng": "108.065344"
+        },
+        {
+            "id": 641032,
+            "name": "Thôn Lâm Yên",
+            "pid": 22150,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lâm yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.856109",
+            "lng": "108.065344"
+        },
+        {
+            "id": 641035,
+            "name": "Thôn Phú Phước",
+            "pid": 22150,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.856109",
+            "lng": "108.065344"
+        }
+    ],
+    "log_id": "675817e1acf4d813"
+}

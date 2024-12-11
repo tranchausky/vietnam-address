@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 947368,
+            "name": "Công Ty Tnhh Thương Mại Và Dịch Vụ Văn Phòng Phẩm Hưng Phát",
+            "pid": 20115,
+            "type": 10,
+            "region": null,
+            "alias": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ VĂN PHÒNG PHẨM HƯNG PHÁT",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.960071975352136, 106.05551390356452",
+            "lng": "20.960071975352136, 106.05551390356452"
+        },
+        {
+            "id": 947369,
+            "name": "Đường Nguyễn Thiện Thuật",
+            "pid": 20115,
+            "type": 21,
+            "region": null,
+            "alias": "đường nguyễn thiện thuật",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.949070698738467, ",
+            "lng": "106.05700186795181"
+        },
+        {
+            "id": 630219,
+            "name": "Thôn Nguyễn Xá",
+            "pid": 20115,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nguyễn xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9433227",
+            "lng": "106.06695709999997"
+        },
+        {
+            "id": 630231,
+            "name": "Tổ Dân Phố Nguyễn Xá",
+            "pid": 20115,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố nguyễn xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9433227",
+            "lng": "106.06695709999997"
+        }
+    ],
+    "log_id": "675814911d82d654"
+}

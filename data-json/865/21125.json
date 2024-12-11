@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 911479,
+            "name": "Đồng Hương",
+            "pid": 21125,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1904024",
+            "lng": "105.60020239999994"
+        },
+        {
+            "id": 710161,
+            "name": "Thôn Đằng Sơn",
+            "pid": 21125,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đằng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1904024",
+            "lng": "105.60020239999994"
+        }
+    ],
+    "log_id": "67590a23d95cb988"
+}

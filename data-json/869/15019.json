@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 756817,
+            "name": "Đường Nguyễn Tất Thành",
+            "pid": 15019,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Tất Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1260214",
+            "lng": "109.27922690000003"
+        },
+        {
+            "id": 444707,
+            "name": "Thôn Liên Trì 1",
+            "pid": 15019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Trì 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1260214",
+            "lng": "109.27922690000003"
+        },
+        {
+            "id": 444709,
+            "name": "Thôn Liên Trì 2",
+            "pid": 15019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Trì 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1260214",
+            "lng": "109.27922690000003"
+        },
+        {
+            "id": 496385,
+            "name": "Thôn Phú Vang",
+            "pid": 15019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Vang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1260214",
+            "lng": "109.27922690000003"
+        },
+        {
+            "id": 444705,
+            "name": "Thôn Thượng Phú",
+            "pid": 15019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1260214",
+            "lng": "109.27922690000003"
+        }
+    ],
+    "log_id": "67590b80bddfb73"
+}

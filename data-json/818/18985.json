@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616389,
+            "name": "Đông Hải",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616392,
+            "name": "Thạch Hạ",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616386,
+            "name": "Thạch Trung",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616410,
+            "name": "Thôn An Định",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616407,
+            "name": "Thôn Mốc Định",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mốc Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616401,
+            "name": "Thôn Mốc Thượng 1",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mốc Thượng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616404,
+            "name": "Thôn Mốc Thượng 2",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mốc Thượng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616395,
+            "name": "Thôn Thạch Thượng 1",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Thượng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 616398,
+            "name": "Thôn Thạch Thượng 2",
+            "pid": 18985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Thượng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2959564",
+            "lng": "106.73525840000002"
+        }
+    ],
+    "log_id": "675814a9ae1d6822"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 457495,
+            "name": "An Bình",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457489,
+            "name": "Bình Thành",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457499,
+            "name": "Bình Trị",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457491,
+            "name": "Phong Ấp",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Phong Ấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457497,
+            "name": "Phước Lý",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Phước lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457503,
+            "name": "Tân Bình",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457501,
+            "name": "Thôn Hiệp Thịnh",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        },
+        {
+            "id": 457493,
+            "name": "Tuân Thừa",
+            "pid": 15078,
+            "type": 16,
+            "region": null,
+            "alias": "Tuân Thừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4886389",
+            "lng": "109.09882140000002"
+        }
+    ],
+    "log_id": "67581585bc0e8623"
+}

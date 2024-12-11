@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446479,
+            "name": "Bờ Bao",
+            "pid": 7986,
+            "type": 16,
+            "region": null,
+            "alias": "Bờ Bao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1775113",
+            "lng": "105.36581249999995"
+        },
+        {
+            "id": 446475,
+            "name": "Phụng Phụng",
+            "pid": 7986,
+            "type": 16,
+            "region": null,
+            "alias": "Phụng Phụng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1775113",
+            "lng": "105.36581249999995"
+        },
+        {
+            "id": 446477,
+            "name": "Phụng Thạnh",
+            "pid": 7986,
+            "type": 16,
+            "region": null,
+            "alias": "Phụng Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1775113",
+            "lng": "105.36581249999995"
+        }
+    ],
+    "log_id": "6758140ca1e76476"
+}

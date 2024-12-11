@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881638,
+            "name": "Đường Bích Câu",
+            "pid": 73,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bích Câu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,017164",
+            "lng": "105,823737"
+        },
+        {
+            "id": 876811,
+            "name": "Đường Ngô Sĩ Liên",
+            "pid": 73,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Sĩ Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.027153605741503",
+            "lng": "105.83872318267822"
+        },
+        {
+            "id": 876862,
+            "name": "Đường Ngô Tất Tố",
+            "pid": 73,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Tất Tố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.027681864830484",
+            "lng": "105.8369368314743"
+        },
+        {
+            "id": 876874,
+            "name": "Đường Nguyễn Như Đổ",
+            "pid": 73,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Như Đổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.02650767502209",
+            "lng": "105.83942592144012"
+        },
+        {
+            "id": 830944,
+            "name": "Đường Văn Miếu",
+            "pid": 73,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Văn Miếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0265584",
+            "lng": "105.84003830000006"
+        },
+        {
+            "id": 522,
+            "name": "Văn Miếu",
+            "pid": 73,
+            "type": 2,
+            "region": null,
+            "alias": "Văn Miếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0265584",
+            "lng": "105.84003830000006"
+        }
+    ],
+    "log_id": "675811bbe89e2331"
+}

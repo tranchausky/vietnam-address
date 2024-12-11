@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442799,
+            "name": "Ấp Hòa Định",
+            "pid": 16114,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Hòa Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2405852",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 442803,
+            "name": "Ấp Hòa Khánh",
+            "pid": 16114,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Hòa Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2405852",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 442801,
+            "name": "Ấp Thới Hòa",
+            "pid": 16114,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thới Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2405852",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 442805,
+            "name": "Ấp Thới Mỹ 1",
+            "pid": 16114,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thới Mỹ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2405852",
+            "lng": "105.63538779999999"
+        },
+        {
+            "id": 442807,
+            "name": "Ấp Thới Mỹ 2",
+            "pid": 16114,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thới Mỹ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2405852",
+            "lng": "105.63538779999999"
+        }
+    ],
+    "log_id": "675816c05ba04992"
+}

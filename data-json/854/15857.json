@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 837031,
+            "name": "Hai Bà Trưng",
+            "pid": 15857,
+            "type": 16,
+            "region": null,
+            "alias": "Hai Bà Trưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.839287",
+            "lng": "108.295429"
+        },
+        {
+            "id": 837025,
+            "name": "Hoàn Kiếm 1",
+            "pid": 15857,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàn Kiếm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.839287",
+            "lng": "108.295429"
+        },
+        {
+            "id": 837022,
+            "name": "Hoàn Kiếm 2",
+            "pid": 15857,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàn Kiếm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.839287",
+            "lng": "108.295429"
+        },
+        {
+            "id": 929080,
+            "name": "Thôn Sóc Sơn",
+            "pid": 15857,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Sóc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8410118",
+            "lng": "108.33859770000004"
+        }
+    ],
+    "log_id": "67581771b1a6d40"
+}

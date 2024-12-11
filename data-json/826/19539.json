@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 637167,
+            "name": "Thôn Du Tự",
+            "pid": 19539,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Du Tự",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3645168",
+            "lng": "108.9636127"
+        },
+        {
+            "id": 637170,
+            "name": "Thôn Gò Cau",
+            "pid": 19539,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gò Cau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3645168",
+            "lng": "108.9636127"
+        },
+        {
+            "id": 637164,
+            "name": "Thôn Thanh Tú",
+            "pid": 19539,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Tú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.3645168",
+            "lng": "108.9636127"
+        }
+    ],
+    "log_id": "6758150d9dfde343"
+}

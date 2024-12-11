@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113443,
+            "name": "Ấp Kinh 2A",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 2A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.103794",
+            "lng": "105.243808"
+        },
+        {
+            "id": 113459,
+            "name": "Ấp Kinh 3A",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 3A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.092786",
+            "lng": "105.228734"
+        },
+        {
+            "id": 113543,
+            "name": "Ấp Kinh 4A",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 4A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.079226",
+            "lng": "105.216287"
+        },
+        {
+            "id": 113553,
+            "name": "Ấp Kinh 5A",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 5A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.069349",
+            "lng": "105.198902"
+        },
+        {
+            "id": 113561,
+            "name": "Ấp Tân Quới",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Quới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.074683",
+            "lng": "105.237612"
+        },
+        {
+            "id": 113565,
+            "name": "Ấp Tân Thạnh",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.090141",
+            "lng": "105.256767"
+        },
+        {
+            "id": 1004344,
+            "name": "Trường Mẫu Giáo Xã Tân Hiệp A",
+            "pid": 18007,
+            "type": 9,
+            "region": null,
+            "alias": "Trường mẫu giáo xã Tân Hiệp A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.074683",
+            "lng": "105.237612"
+        },
+        {
+            "id": 1004347,
+            "name": "Ubnd Xã Tân Hiệp A",
+            "pid": 18007,
+            "type": 17,
+            "region": null,
+            "alias": "UBND xã Tân Hiệp A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.074683",
+            "lng": "105.237612"
+        }
+    ],
+    "log_id": "67581736245b3666"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 421025,
+            "name": "Đồng Mỹ",
+            "pid": 7159,
+            "type": 18,
+            "region": null,
+            "alias": "Đồng Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 421019,
+            "name": "Lễ Độ",
+            "pid": 7159,
+            "type": 16,
+            "region": null,
+            "alias": "Lễ Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 421023,
+            "name": "Phan Chi",
+            "pid": 7159,
+            "type": 16,
+            "region": null,
+            "alias": "Phan Chi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 421021,
+            "name": "Quang Khải",
+            "pid": 7159,
+            "type": 16,
+            "region": null,
+            "alias": "Quang Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 421017,
+            "name": "Tân Thành",
+            "pid": 7159,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 421015,
+            "name": "Thôn Quyết Thắng",
+            "pid": 7159,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 421013,
+            "name": "Văn Minh",
+            "pid": 7159,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523306",
+            "lng": "106.50832560000003"
+        }
+    ],
+    "log_id": "675813f209e4e218"
+}

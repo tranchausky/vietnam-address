@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881242,
+            "name": "Đường Cầu Mới",
+            "pid": 61,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cầu Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,003885",
+            "lng": "105,820935"
+        },
+        {
+            "id": 881245,
+            "name": "Đường Nguyễn Văn Tuyết",
+            "pid": 61,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Tuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,003885",
+            "lng": "105,820935"
+        },
+        {
+            "id": 48368,
+            "name": "Mipec Tower",
+            "pid": 61,
+            "type": 4,
+            "region": null,
+            "alias": "MIPEC Tower",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bbd3c5e204"
+}

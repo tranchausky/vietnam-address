@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1014329,
+            "name": "Thôn Đào Lâm",
+            "pid": 13463,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đào Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.81156834912783",
+            "lng": "106.04713090532202"
+        },
+        {
+            "id": 630081,
+            "name": "Thôn Đào Lâm",
+            "pid": 13463,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đào lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7939182",
+            "lng": "106.05520060000003"
+        },
+        {
+            "id": 630072,
+            "name": "Thôn Thổ Cầu",
+            "pid": 13463,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thổ cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7939182",
+            "lng": "106.05520060000003"
+        },
+        {
+            "id": 630078,
+            "name": "Thôn Trúc",
+            "pid": 13463,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7939182",
+            "lng": "106.05520060000003"
+        },
+        {
+            "id": 630075,
+            "name": "Thôn Trúc Cầu",
+            "pid": 13463,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trúc cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7939182",
+            "lng": "106.05520060000003"
+        }
+    ],
+    "log_id": "675814910b30579"
+}

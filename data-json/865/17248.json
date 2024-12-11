@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 929572,
+            "name": "Bệnh Viện Aca",
+            "pid": 17248,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện ACA",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 558085,
+            "name": "Đường Đặng Quang",
+            "pid": 17248,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 761272,
+            "name": "Đường Hai Bà Trưng",
+            "pid": 17248,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hai Bà Trưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 558081,
+            "name": "Đường Lương Đình Của",
+            "pid": 17248,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Đình Của",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 805270,
+            "name": "Đường Ngô Gia Khảm",
+            "pid": 17248,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Gia Khảm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 813718,
+            "name": "Khu Đô Thị Mới",
+            "pid": 17248,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 900577,
+            "name": "Khu Phố 5",
+            "pid": 17248,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0710817",
+            "lng": "105.86132329999998"
+        }
+    ],
+    "log_id": "67590a23af7ae264"
+}

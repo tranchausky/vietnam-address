@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 606177,
+            "name": "Nậm Mả",
+            "pid": 20821,
+            "type": 16,
+            "region": null,
+            "alias": "Nậm Mả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1761457",
+            "lng": "104.13498520000007"
+        },
+        {
+            "id": 416257,
+            "name": "Thôn Nậm Trang",
+            "pid": 20821,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nậm trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1761457",
+            "lng": "104.13498520000007"
+        }
+    ],
+    "log_id": "67581445145e957"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 738103,
+            "name": "An Hòa",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "An Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 925270,
+            "name": "Cầu Chi",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Chi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 764950,
+            "name": "Công Ty Cổ Phần May Hà Phong",
+            "pid": 16850,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty Cổ Phần May Hà Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 764965,
+            "name": "Công Ty May Xuất Khẩu Hà Phong",
+            "pid": 16850,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty May Xuất Khẩu Hà Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 841957,
+            "name": "Làng Giác",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Giác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 853630,
+            "name": "Sau Nứa",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "Sau Nứa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 705253,
+            "name": "Tam Đồng",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "Tam đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        },
+        {
+            "id": 406107,
+            "name": "Thôn Khánh Vân",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2920638",
+            "lng": "105.96411239999998"
+        },
+        {
+            "id": 738112,
+            "name": "Thôntân Sơn",
+            "pid": 16850,
+            "type": 16,
+            "region": null,
+            "alias": "ThônTân Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3106777",
+            "lng": "106.01112030000002"
+        }
+    ],
+    "log_id": "675813d914fe1355"
+}

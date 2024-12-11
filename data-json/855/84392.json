@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 712090,
+            "name": "Ấp 1",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.4608662",
+            "lng": "106.4608662"
+        },
+        {
+            "id": 712126,
+            "name": "Ấp 2",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.4608662",
+            "lng": "106.4608662"
+        },
+        {
+            "id": 712369,
+            "name": "Ấp 3",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.4608662",
+            "lng": "106.4608662"
+        },
+        {
+            "id": 871555,
+            "name": "Ấp 4",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508208",
+            "lng": "106.51421690000004"
+        },
+        {
+            "id": 712453,
+            "name": "Ấp 5",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.489989",
+            "lng": "510.570416"
+        },
+        {
+            "id": 712459,
+            "name": "Ấp 6",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.489989",
+            "lng": "106.489989"
+        },
+        {
+            "id": 452999,
+            "name": "Ấp Bình Đông",
+            "pid": 84392,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5874507",
+            "lng": "106.45531110000002"
+        },
+        {
+            "id": 924043,
+            "name": "Ấp Bình Tây",
+            "pid": 84392,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bình Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.584573",
+            "lng": "106.479158"
+        }
+    ],
+    "log_id": "67581785458f2284"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 773779,
+            "name": "Chợ Phước Hưng",
+            "pid": 6600,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Phước Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5153943",
+            "lng": "107.18094799999994"
+        },
+        {
+            "id": 706600,
+            "name": "Khu Phố 3",
+            "pid": 6600,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 706609,
+            "name": "Khu Phố 4",
+            "pid": 6600,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        }
+    ],
+    "log_id": "675815b41345a303"
+}

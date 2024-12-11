@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 746824,
+            "name": "Tân Giang",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451609,
+            "name": "Thôn Buôn Tría",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "thôn buôn tría",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451611,
+            "name": "Thôn Đông Giang 1",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông giang 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451613,
+            "name": "Thôn Đông Giang 2",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông giang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451615,
+            "name": "Thôn Hưng Giang",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hưng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451617,
+            "name": "Thôn Liên Kết 1",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Kết 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451619,
+            "name": "Thôn Liên Kết 2",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Kết 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        },
+        {
+            "id": 451621,
+            "name": "Thôn Liên Kết 3",
+            "pid": 19615,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Kết 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3989009",
+            "lng": "108.12184360000003"
+        }
+    ],
+    "log_id": "6758167893a8e332"
+}

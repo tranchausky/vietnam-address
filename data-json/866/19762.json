@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462673,
+            "name": "Thôn Hương Phú",
+            "pid": 19762,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hương Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1745905",
+            "lng": "107.32575450000002"
+        },
+        {
+            "id": 462675,
+            "name": "Thôn Hương Thịnh",
+            "pid": 19762,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hương Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1745905",
+            "lng": "107.32575450000002"
+        },
+        {
+            "id": 462671,
+            "name": "Thôn Làng Lập Nhiệp",
+            "pid": 19762,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Làng Lập Nhiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1745905",
+            "lng": "107.32575450000002"
+        }
+    ],
+    "log_id": "67590b2652efa610"
+}

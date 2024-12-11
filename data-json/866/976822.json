@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 463785,
+            "name": "Đường Bờ Sông Hương",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bờ Sông Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4771961",
+            "lng": "107.59045990000004"
+        },
+        {
+            "id": 463745,
+            "name": "Đường Cao Bá Quát",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Bá Quát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4862258",
+            "lng": "107.58454180000001"
+        },
+        {
+            "id": 463743,
+            "name": "Đường Hồ Xuân Hương",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Xuân Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4862258",
+            "lng": "107.58454180000001"
+        },
+        {
+            "id": 463749,
+            "name": "Đường Lê Đình Chinh",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đình Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4862258",
+            "lng": "107.58454180000001"
+        },
+        {
+            "id": 463759,
+            "name": "Đường Nguyễn Huy Lượng",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Huy Lượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4862258",
+            "lng": "107.58454180000001"
+        },
+        {
+            "id": 463757,
+            "name": "Đường Phùng Khắc Khoan",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phùng Khắc Khoan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4862258",
+            "lng": "107.58454180000001"
+        },
+        {
+            "id": 463751,
+            "name": "Đường Thế Lại",
+            "pid": 976822,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thế Lại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4862258",
+            "lng": "107.58454180000001"
+        }
+    ],
+    "log_id": "67590b26315af451"
+}

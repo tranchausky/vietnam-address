@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514577,
+            "name": "Chung Cư Tuệ Tĩnh",
+            "pid": 5861,
+            "type": 4,
+            "region": null,
+            "alias": "Chung Cư Tuệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9510914",
+            "lng": "106.3178987"
+        },
+        {
+            "id": 514611,
+            "name": "Đường Nguyễn Dữ",
+            "pid": 5861,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Dữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9510914",
+            "lng": "106.3178987"
+        },
+        {
+            "id": 514639,
+            "name": "Khu Cn Cẩm Thượng",
+            "pid": 5861,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Cn Cẩm Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9510914",
+            "lng": "106.3178987"
+        }
+    ],
+    "log_id": "675813f1f056d72"
+}

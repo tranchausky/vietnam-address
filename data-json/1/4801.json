@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119473,
+            "name": "Thôn 7",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.961081",
+            "lng": "105.536732"
+        },
+        {
+            "id": 119463,
+            "name": "Thôn Cổ Rùa",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Rùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9548104",
+            "lng": "105.5313178"
+        },
+        {
+            "id": 119465,
+            "name": "Thôn Đồng Âm",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Âm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.941123",
+            "lng": "105.5225259"
+        },
+        {
+            "id": 119467,
+            "name": "Thôn Đồng Vàng",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.955759",
+            "lng": "105.532259"
+        },
+        {
+            "id": 119469,
+            "name": "Thôn Đồng Vỡ",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Vỡ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9351824",
+            "lng": "105.5249178"
+        },
+        {
+            "id": 119471,
+            "name": "Thôn Làng Trên",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Trên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9427091",
+            "lng": "105.5210607"
+        },
+        {
+            "id": 119475,
+            "name": "Thôn Trán Voi",
+            "pid": 4801,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trán Voi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9427091",
+            "lng": "105.5210607"
+        },
+        {
+            "id": 55186,
+            "name": "Ubnd Xã Phú Mãn",
+            "pid": 4801,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phú Mãn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bcd5fb2476"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598443,
+            "name": "Ấp Mỹ Lược",
+            "pid": 6540,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Lược",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4096586",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 598446,
+            "name": "Ấp Mỹ Trinh",
+            "pid": 6540,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Trinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4096586",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 598449,
+            "name": "Ấp Mỹ Tường",
+            "pid": 6540,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Tường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4096586",
+            "lng": "105.95236219999992"
+        }
+    ],
+    "log_id": "675814f3c3745418"
+}

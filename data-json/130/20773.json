@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 430161,
+            "name": "Bản Cải A",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cải A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590028,
+            "name": "Bản Cải B",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cải B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590013,
+            "name": "Bản Chim Hạ",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chim Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590019,
+            "name": "Bản Chim Thượng",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chim Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590034,
+            "name": "Bản Nà Tiến",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nà Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590031,
+            "name": "Bản Suối Lẹ",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Suối Lẹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590016,
+            "name": "Bản Suối Tù",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Suối Tù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 590022,
+            "name": "Bản Vàn",
+            "pid": 20773,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Vàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2506751",
+            "lng": "104.32100949999995"
+        }
+    ],
+    "log_id": "675812ef21fd7188"
+}

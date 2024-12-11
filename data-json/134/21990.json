@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 812110,
+            "name": "Bình Lập",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0320082",
+            "lng": "106.50979840000002"
+        },
+        {
+            "id": 1011625,
+            "name": "Cốc Nhảng",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "CỐC NHẢNG",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.987486",
+            "lng": "106.505736"
+        },
+        {
+            "id": 712918,
+            "name": "Cương Quyết",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "Cương Quyết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0320082",
+            "lng": "106.50979840000002"
+        },
+        {
+            "id": 721312,
+            "name": "Phai Nà",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "Phai Nà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0320082",
+            "lng": "106.50979840000002"
+        },
+        {
+            "id": 721306,
+            "name": "Quảng Lộc",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0320082",
+            "lng": "106.50979840000002"
+        },
+        {
+            "id": 1011627,
+            "name": "Quảng Sơn",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "QUẢNG SƠN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.999242",
+            "lng": "106.520538"
+        },
+        {
+            "id": 786271,
+            "name": "Thôn Pò Mánh",
+            "pid": 21990,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Pò Mánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0320082",
+            "lng": "106.50979840000002"
+        },
+        {
+            "id": 713254,
+            "name": "Ubnd Xã Gia Miễn",
+            "pid": 21990,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Gia Miễn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0320082",
+            "lng": "106.50979840000002"
+        }
+    ],
+    "log_id": "6758133f4a0ea184"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719527,
+            "name": "Chùa Tuyền Lâm",
+            "pid": 16436,
+            "type": 18,
+            "region": null,
+            "alias": "chùa Tuyền Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.984321",
+            "lng": " 109.041926"
+        },
+        {
+            "id": 719512,
+            "name": "Công Ty Khắc Việt",
+            "pid": 16436,
+            "type": 18,
+            "region": null,
+            "alias": "công ty Khắc Việt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.962097,",
+            "lng": "109.090104"
+        },
+        {
+            "id": 719518,
+            "name": "Nhà Máy Cấp Nước Cam Phước Tây",
+            "pid": 16436,
+            "type": 18,
+            "region": null,
+            "alias": "nhà máy Cấp nước Cam Phước Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.963787, ",
+            "lng": "109.088656"
+        },
+        {
+            "id": 719521,
+            "name": "Trạm Y Tế Cam Phước Tây",
+            "pid": 16436,
+            "type": 18,
+            "region": null,
+            "alias": "trạm y tế Cam Phước Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.958513,",
+            "lng": "109.079978"
+        },
+        {
+            "id": 719530,
+            "name": "Trường Trần Quang Khải",
+            "pid": 16436,
+            "type": 18,
+            "region": null,
+            "alias": "trường Trần Quang Khải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.957889,",
+            "lng": "109.080597"
+        },
+        {
+            "id": 719509,
+            "name": "Ubnd Xã Cam Phước Tây",
+            "pid": 16436,
+            "type": 18,
+            "region": null,
+            "alias": "UBND xã Cam Phước Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.962705",
+            "lng": "109.094966"
+        }
+    ],
+    "log_id": "67581585d6caf529"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98036,
+            "name": "Bối Khê",
+            "pid": 4741,
+            "type": 16,
+            "region": null,
+            "alias": "bối khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.719852",
+            "lng": "105.865427"
+        },
+        {
+            "id": 867559,
+            "name": "Chuôn Thượng",
+            "pid": 4741,
+            "type": 16,
+            "region": null,
+            "alias": "Chuôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.718989",
+            "lng": "105.8670151"
+        },
+        {
+            "id": 98012,
+            "name": "Thôn Đồng Vinh",
+            "pid": 4741,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn đồng vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.742439",
+            "lng": "105.852606"
+        },
+        {
+            "id": 98003,
+            "name": "Thôn Hạ",
+            "pid": 4741,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.729555",
+            "lng": "105.874955"
+        },
+        {
+            "id": 908017,
+            "name": "Thôn Ngọ",
+            "pid": 4741,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.718989",
+            "lng": "105.8670151"
+        },
+        {
+            "id": 1009688,
+            "name": "Thôn Trung",
+            "pid": 4741,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.733881673347252",
+            "lng": "105.85957021308148"
+        }
+    ],
+    "log_id": "675811bcd530f423"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118187,
+            "name": "Kim Lũ",
+            "pid": 4780,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Lũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2134343",
+            "lng": "105.9083056"
+        },
+        {
+            "id": 118183,
+            "name": "Thượng Cốc",
+            "pid": 4780,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1270314",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 118197,
+            "name": "Thu Vi",
+            "pid": 4780,
+            "type": 16,
+            "region": null,
+            "alias": "Thu Vi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1270314",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 118191,
+            "name": "Trại Gạo",
+            "pid": 4780,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Gạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1270314",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 55066,
+            "name": "Ubnd Xã Thượng Cốc",
+            "pid": 4780,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thượng Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc508d1678"
+}

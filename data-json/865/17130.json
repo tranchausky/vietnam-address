@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559605,
+            "name": "Thôn Đại Lộc",
+            "pid": 17130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đại lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.846996",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 559603,
+            "name": "Thôn Phú Vinh Đông",
+            "pid": 17130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn phú vinh đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.846996",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 559601,
+            "name": "Thôn Phú Vinh Nam",
+            "pid": 17130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn phú vinh nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.846996",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 559599,
+            "name": "Thôn Phú Vinh Tây",
+            "pid": 17130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn phú vinh tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.846996",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 559607,
+            "name": "Thôn Trung Hy",
+            "pid": 17130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trung hy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.846996",
+            "lng": "105.84370799999999"
+        }
+    ],
+    "log_id": "67590a2375dd2851"
+}

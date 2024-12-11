@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 988652,
+            "name": "373-549 Nguyễn Kiệm",
+            "pid": 1421,
+            "type": 29,
+            "region": null,
+            "alias": "373-549 Nguyễn Kiệm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8032276",
+            "lng": "106.679410"
+        },
+        {
+            "id": 988653,
+            "name": "551-675 D Nguyễn Kiệm",
+            "pid": 1421,
+            "type": 29,
+            "region": null,
+            "alias": "551-675 D Nguyễn Kiệm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8094920",
+            "lng": "106.678383"
+        },
+        {
+            "id": 94970,
+            "name": "Chẵn 2-204 Hoàng Văn Thụ",
+            "pid": 1421,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 2-204 Hoàng Văn Thụ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.800024",
+            "lng": "106.660312"
+        },
+        {
+            "id": 670984,
+            "name": "Đường Bùi Văn Thêm",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Văn Thêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8091995",
+            "lng": "106.6766695"
+        },
+        {
+            "id": 674551,
+            "name": "Đường Chiến Thắng",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chiến Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8024277",
+            "lng": "106.6775208"
+        },
+        {
+            "id": 671377,
+            "name": "Đường Đặng Văn Sâm",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Văn Sâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8112507",
+            "lng": "106.6759986"
+        },
+        {
+            "id": 671317,
+            "name": "Đường Đào Duy Anh",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Anh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8068686",
+            "lng": "106.6758672"
+        },
+        {
+            "id": 674209,
+            "name": "Đường Đỗ Tấn Phong",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đỗ Tấn Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8025426",
+            "lng": "106.6778127"
+        },
+        {
+            "id": 677386,
+            "name": "Đường Hoàng Văn Thụ",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Văn Thụ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7997287",
+            "lng": "106.6737138"
+        },
+        {
+            "id": 673612,
+            "name": "Đường Hồng Hà",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.810067",
+            "lng": "106.6719204"
+        },
+        {
+            "id": 678931,
+            "name": "Đường Nguyễn Kiệm",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Kiệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8061384",
+            "lng": "106.6785487"
+        },
+        {
+            "id": 677767,
+            "name": "Đường Trần Khắc Chân",
+            "pid": 1421,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Khắc Chân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.800117",
+            "lng": "106.6776556"
+        }
+    ],
+    "log_id": "6758129aaa902756"
+}

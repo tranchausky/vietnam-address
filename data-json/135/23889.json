@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011844,
+            "name": "Đền Hiền Hào",
+            "pid": 23889,
+            "type": 16,
+            "region": null,
+            "alias": "Đền Hiền Hào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7900172",
+            "lng": "106.9510242"
+        },
+        {
+            "id": 1011842,
+            "name": "Thôn 1",
+            "pid": 23889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7900172",
+            "lng": "106.9510242"
+        },
+        {
+            "id": 515937,
+            "name": "Thôn 2",
+            "pid": 23889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.790014",
+            "lng": "106.9327406"
+        },
+        {
+            "id": 1011843,
+            "name": "Thôn Bến Hiền Hào",
+            "pid": 23889,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bến Hiền Hào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7900172",
+            "lng": "106.9510242"
+        }
+    ],
+    "log_id": "6758136615c3f470"
+}

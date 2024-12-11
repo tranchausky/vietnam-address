@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 395803,
+            "name": "Làng Đồng Mới",
+            "pid": 16944,
+            "type": 16,
+            "region": null,
+            "alias": "làng đồng mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        },
+        {
+            "id": 395805,
+            "name": "Xóm Bãi Bệ 1",
+            "pid": 16944,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bãi bệ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        },
+        {
+            "id": 395807,
+            "name": "Xóm Bãi Bệ 2",
+            "pid": 16944,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bãi bệ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        },
+        {
+            "id": 395809,
+            "name": "Xóm Đồng Nhất",
+            "pid": 16944,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đồng nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        },
+        {
+            "id": 395811,
+            "name": "Xóm Dũng Tiến",
+            "pid": 16944,
+            "type": 18,
+            "region": null,
+            "alias": "xóm dũng tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        },
+        {
+            "id": 395813,
+            "name": "Xóm Nà Bái",
+            "pid": 16944,
+            "type": 18,
+            "region": null,
+            "alias": "xóm nà bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        },
+        {
+            "id": 395815,
+            "name": "Xóm Nam Hồng",
+            "pid": 16944,
+            "type": 18,
+            "region": null,
+            "alias": "xóm nam hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6634283",
+            "lng": "105.33946349999997"
+        }
+    ],
+    "log_id": "6758172127004964"
+}

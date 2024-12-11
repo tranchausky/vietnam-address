@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 590730,
+            "name": "Bản Đá Mài",
+            "pid": 19884,
+            "type": 16,
+            "region": null,
+            "alias": "Bản đá mài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0702257",
+            "lng": "104.78710039999999"
+        },
+        {
+            "id": 590736,
+            "name": "Bản Suối Kê",
+            "pid": 19884,
+            "type": 16,
+            "region": null,
+            "alias": "bản suối kê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0702257",
+            "lng": "104.78710039999999"
+        },
+        {
+            "id": 590727,
+            "name": "Bản Suối Lúa",
+            "pid": 19884,
+            "type": 16,
+            "region": null,
+            "alias": "Bản suối lúa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0702257",
+            "lng": "104.78710039999999"
+        },
+        {
+            "id": 590733,
+            "name": "Bản Suối Vẽ",
+            "pid": 19884,
+            "type": 16,
+            "region": null,
+            "alias": "Bản suối vẽ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0702257",
+            "lng": "104.78710039999999"
+        },
+        {
+            "id": 780124,
+            "name": "Mó Sách",
+            "pid": 19884,
+            "type": 16,
+            "region": null,
+            "alias": "Mó Sách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0702257",
+            "lng": "104.78710040000001"
+        },
+        {
+            "id": 787732,
+            "name": "Thôn Suối Lúa",
+            "pid": 19884,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Suối lúa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0702257",
+            "lng": "104.78710040000001"
+        }
+    ],
+    "log_id": "675812ef36dc9530"
+}

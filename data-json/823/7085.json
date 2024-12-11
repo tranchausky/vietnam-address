@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93800,
+            "name": "Khu Phố Cấp Rang",
+            "pid": 7085,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Cấp Rang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.945957",
+            "lng": "107198859"
+        },
+        {
+            "id": 93797,
+            "name": "Khu Phố Dưỡng Đường",
+            "pid": 7085,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Dưỡng Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.942213",
+            "lng": "107.210678"
+        },
+        {
+            "id": 791608,
+            "name": "Khu Phố Suối Tre",
+            "pid": 7085,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Suối Tre",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9456269",
+            "lng": "107.2075388"
+        }
+    ],
+    "log_id": "675814dd60c03944"
+}

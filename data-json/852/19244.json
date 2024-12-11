@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 627330,
+            "name": "Thôn Đông Lóc",
+            "pid": 19244,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Lóc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2139122",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 627333,
+            "name": "Thôn Đông Nây",
+            "pid": 19244,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Nây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2139122",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 627336,
+            "name": "Thôn Măng Khên",
+            "pid": 19244,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Măng Khên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2139122",
+            "lng": "107.72809200000006"
+        }
+    ],
+    "log_id": "6758174ce1a08244"
+}

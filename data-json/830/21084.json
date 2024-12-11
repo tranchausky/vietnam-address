@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571416,
+            "name": "Bản Tại",
+            "pid": 21084,
+            "type": 16,
+            "region": null,
+            "alias": "bản tại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0331778",
+            "lng": "105.41852270000004"
+        },
+        {
+            "id": 571413,
+            "name": "Bản Tồng",
+            "pid": 21084,
+            "type": 16,
+            "region": null,
+            "alias": "bản tồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0331778",
+            "lng": "105.41852270000004"
+        }
+    ],
+    "log_id": "6758156643d73365"
+}

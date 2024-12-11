@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834673,
+            "name": "Bản Sẳng",
+            "pid": 16799,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Sẳng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5982306",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 799387,
+            "name": "Bốc Thượng",
+            "pid": 16799,
+            "type": 18,
+            "region": null,
+            "alias": "Bốc Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5982306",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 855514,
+            "name": "Khuổi Kép",
+            "pid": 16799,
+            "type": 18,
+            "region": null,
+            "alias": "Khuổi Kép",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5982306",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 855517,
+            "name": "Phiêng Lừa",
+            "pid": 16799,
+            "type": 18,
+            "region": null,
+            "alias": "Phiêng Lừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5982306",
+            "lng": "106.17353230000003"
+        }
+    ],
+    "log_id": "675816629b14f771"
+}

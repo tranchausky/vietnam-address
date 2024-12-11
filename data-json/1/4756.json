@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102275,
+            "name": "Thôn Chi Lễ",
+            "pid": 4756,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chi Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°44'49.8\"N ",
+            "lng": "105°53'11.6\"E"
+        },
+        {
+            "id": 101873,
+            "name": "Thôn Phú Nhiêu",
+            "pid": 4756,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Nhiêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'42.3\"N",
+            "lng": "105°53'10.8\"E"
+        },
+        {
+            "id": 101855,
+            "name": "Thôn Văn Lãng",
+            "pid": 4756,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Lãng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'19.5\"N ",
+            "lng": "105°52'50.3\"E"
+        }
+    ],
+    "log_id": "675811bcd5a0476"
+}

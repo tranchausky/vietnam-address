@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 826570,
+            "name": "Thôn Chu Châu",
+            "pid": 4563,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chu Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040143",
+            "lng": "105.45660120000002"
+        },
+        {
+            "id": 54114,
+            "name": "Tòa Nhà Ubnd Xã Minh Châu",
+            "pid": 4563,
+            "type": 18,
+            "region": null,
+            "alias": "Tòa nhà UBND xã Minh Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 826573,
+            "name": "Xóm 7",
+            "pid": 4563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2040143",
+            "lng": "105.45660120000002"
+        }
+    ],
+    "log_id": "675811bb7c1ad884"
+}

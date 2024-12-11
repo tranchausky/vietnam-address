@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928903,
+            "name": "Thôn Cát",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9851968",
+            "lng": "106.022874"
+        },
+        {
+            "id": 810967,
+            "name": "Thôn Cát Lư",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cát lư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9861155",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 928882,
+            "name": "Thôn Cát Lư",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cát Lư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9851968",
+            "lng": "106.022874"
+        },
+        {
+            "id": 810958,
+            "name": "Thôn Nghĩa",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9861155",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 810973,
+            "name": "Thôn Nghĩa Lộ",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Lộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9861155",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 810964,
+            "name": "Thôn Trịnh",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9861155",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 810970,
+            "name": "Thôn Trịnh Xá",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trịnh Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9861155",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 928891,
+            "name": "Trịnh Xá",
+            "pid": 20132,
+            "type": 16,
+            "region": null,
+            "alias": "Trịnh Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9851968",
+            "lng": "106.022874"
+        }
+    ],
+    "log_id": "67581490b568c913"
+}

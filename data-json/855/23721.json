@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 763216,
+            "name": "Ấp Phú Ân",
+            "pid": 23721,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú ân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.644683",
+            "lng": "106.567116"
+        },
+        {
+            "id": 763219,
+            "name": "Ấp Phú Thành",
+            "pid": 23721,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.644683",
+            "lng": "106.567116"
+        },
+        {
+            "id": 763228,
+            "name": "Ấp Vĩnh Phước",
+            "pid": 23721,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.644683",
+            "lng": "106.567116"
+        },
+        {
+            "id": 992329,
+            "name": "Đường Bờ Đế",
+            "pid": 23721,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Bờ Đế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.646569960809687",
+            "lng": "106.5883920830987"
+        },
+        {
+            "id": 763225,
+            "name": "Phước Lý",
+            "pid": 23721,
+            "type": 17,
+            "region": null,
+            "alias": "Phước Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.644683",
+            "lng": "106.567116"
+        }
+    ],
+    "log_id": "675817853653e633"
+}

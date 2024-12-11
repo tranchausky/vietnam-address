@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800779,
+            "name": "An Đông",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "An đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9922832",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 984396,
+            "name": "Cây Xăng Quốc Tuấn",
+            "pid": 17730,
+            "type": 10,
+            "region": null,
+            "alias": "Cây xăng Quốc Tuấn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21°01'33.8\"N",
+            "lng": "6°20'50.3\"E"
+        },
+        {
+            "id": 800734,
+            "name": "Đong Thon",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "đong Thon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9922832",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 639174,
+            "name": "Thôn An Xá",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn an xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0353779",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 639186,
+            "name": "Thôn Cống 6",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn cống 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0353779",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 639177,
+            "name": "Thôn Đông Thôn",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đông thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0353779",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 639183,
+            "name": "Thôn Lương Gián",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn lương gián",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0353779",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 639180,
+            "name": "Thôn Trực Trì",
+            "pid": 17730,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trực trì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0353779",
+            "lng": "106.34049249999998"
+        }
+    ],
+    "log_id": "675813f1c5467437"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719431,
+            "name": "Chợ Cam Phước Đông",
+            "pid": 17672,
+            "type": 18,
+            "region": null,
+            "alias": "chợ Cam Phước Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.957783,",
+            "lng": "109.104087"
+        },
+        {
+            "id": 719440,
+            "name": "Chùa Tây Thiên",
+            "pid": 17672,
+            "type": 18,
+            "region": null,
+            "alias": "chùa Tây Thiên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.958315",
+            "lng": "109.105349"
+        },
+        {
+            "id": 719407,
+            "name": "Ga Ngã Ba",
+            "pid": 17672,
+            "type": 21,
+            "region": null,
+            "alias": "ga ngã ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.925972",
+            "lng": "109.121450"
+        },
+        {
+            "id": 998112,
+            "name": "Thôn Suối Môn",
+            "pid": 17672,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Môn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.958686035659632",
+            "lng": "109.09972548055036"
+        },
+        {
+            "id": 719419,
+            "name": "Trường Tiểu Học Cam Phước Đông 2",
+            "pid": 17672,
+            "type": 9,
+            "region": null,
+            "alias": "trường Tiểu học Cam Phước Đông 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.937786",
+            "lng": "109.120749"
+        },
+        {
+            "id": 719425,
+            "name": "Ubnd Xã Cam Phước Đông",
+            "pid": 17672,
+            "type": 18,
+            "region": null,
+            "alias": "UBND xã Cam Phước Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.953594,",
+            "lng": "109.104108"
+        }
+    ],
+    "log_id": "67581585b8ea4691"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 984969,
+            "name": "Cửa Hàng Vinmart+ Chợ La",
+            "pid": 7175,
+            "type": 10,
+            "region": null,
+            "alias": "Cửa hàng Vinmart+ Chợ La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21°02'20.7\"N",
+            "lng": "106°19'22.1\"E"
+        },
+        {
+            "id": 984980,
+            "name": "Đồ Câu Hưng Thịnh",
+            "pid": 7175,
+            "type": 10,
+            "region": null,
+            "alias": "Đồ Câu Hưng Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21°02'25.5\"N",
+            "lng": "106°19'20.1\"E"
+        },
+        {
+            "id": 985025,
+            "name": "Đồng Hồ Kính Mắt Trường Thái",
+            "pid": 7175,
+            "type": 10,
+            "region": null,
+            "alias": "Đồng hồ kính mắt Trường Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21°01'47.1\"N",
+            "lng": "106°19'32.9\"E"
+        },
+        {
+            "id": 639261,
+            "name": "Thôn An Thường",
+            "pid": 7175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn an thường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9995158",
+            "lng": "106.35226579999994"
+        },
+        {
+            "id": 639255,
+            "name": "Thôn Bịch Đông",
+            "pid": 7175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bịch đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9995158",
+            "lng": "106.35226579999994"
+        },
+        {
+            "id": 639252,
+            "name": "Thôn Bịch Tây",
+            "pid": 7175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn bịch tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9995158",
+            "lng": "106.35226579999994"
+        },
+        {
+            "id": 639264,
+            "name": "Thôn Hoàng Xá",
+            "pid": 7175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn hoàng xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9995158",
+            "lng": "106.35226579999994"
+        },
+        {
+            "id": 639258,
+            "name": "Thôn Trại Thượng",
+            "pid": 7175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trại thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9995158",
+            "lng": "106.35226579999994"
+        }
+    ],
+    "log_id": "675813f1c039e313"
+}

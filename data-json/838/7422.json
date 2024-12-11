@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753598,
+            "name": "Ấp 1",
+            "pid": 7422,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.298798199999998",
+            "lng": "106.36698339999998"
+        },
+        {
+            "id": 753595,
+            "name": "Ấp 2",
+            "pid": 7422,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.298798199999998",
+            "lng": "106.36698339999998"
+        },
+        {
+            "id": 753592,
+            "name": "Ấp 3",
+            "pid": 7422,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.298798199999998",
+            "lng": "106.36698339999998"
+        },
+        {
+            "id": 882979,
+            "name": "Ấp 3 Phước Hòa",
+            "pid": 7422,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3 Phước Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30483",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 705976,
+            "name": "Ấp Phú Ngãi",
+            "pid": 7422,
+            "type": 17,
+            "region": null,
+            "alias": "ẤP Phú Ngãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.301158",
+            "lng": "106.367059"
+        },
+        {
+            "id": 883027,
+            "name": "Phú Ngãi",
+            "pid": 7422,
+            "type": 21,
+            "region": null,
+            "alias": "Phú Ngãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3014784",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 882865,
+            "name": "Phước Hòa",
+            "pid": 7422,
+            "type": 17,
+            "region": null,
+            "alias": "Phước Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30483",
+            "lng": "106.35520919999999"
+        }
+    ],
+    "log_id": "6758160ddba46286"
+}

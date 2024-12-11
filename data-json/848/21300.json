@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428023,
+            "name": "Công Ty Fomosa",
+            "pid": 21300,
+            "type": 10,
+            "region": null,
+            "alias": "công ty FOMOSA",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428019,
+            "name": "Kcn Nhiệt Điện",
+            "pid": 21300,
+            "type": 5,
+            "region": null,
+            "alias": "KCN nhiệt điện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428025,
+            "name": "Ktx Fomosa",
+            "pid": 21300,
+            "type": 10,
+            "region": null,
+            "alias": "KTX FOMOSA",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1863498",
+            "lng": "106.18750160000002"
+        },
+        {
+            "id": 428015,
+            "name": "Tdp Hợp Tiến",
+            "pid": 21300,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Hợp Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428021,
+            "name": "Tdp Liên Giang",
+            "pid": 21300,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Liên Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428017,
+            "name": "Tdp Liên Minh",
+            "pid": 21300,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Liên Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428011,
+            "name": "Tdp Long Sơn",
+            "pid": 21300,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Long Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        },
+        {
+            "id": 428013,
+            "name": "Tdp Tân Long",
+            "pid": 21300,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Tân Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1697736",
+            "lng": "106.2463305"
+        }
+    ],
+    "log_id": "675816e9d232e361"
+}

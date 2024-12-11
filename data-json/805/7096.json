@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652183,
+            "name": "Thôn Đồng Bào",
+            "pid": 7096,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Bào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.892760",
+            "lng": "106.323006"
+        },
+        {
+            "id": 652186,
+            "name": "Thôn Tằng Hạ",
+            "pid": 7096,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tằng Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.892760",
+            "lng": "106.323006"
+        },
+        {
+            "id": 652189,
+            "name": "Thôn Tranh Đấu",
+            "pid": 7096,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tranh Đấu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.888966",
+            "lng": "106.300948"
+        }
+    ],
+    "log_id": "675813f200499966"
+}

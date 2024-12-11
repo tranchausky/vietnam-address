@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 2141,
+            "name": "Cầu Vồng",
+            "pid": 4452,
+            "type": 2,
+            "region": null,
+            "alias": "Cầu Vồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0804633",
+            "lng": "105.7733551"
+        },
+        {
+            "id": 5109,
+            "name": "Đức Thắng",
+            "pid": 4452,
+            "type": 2,
+            "region": null,
+            "alias": "Đức Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0798488",
+            "lng": "105.77473069999996"
+        },
+        {
+            "id": 829054,
+            "name": "Đường Cầu Vồng",
+            "pid": 4452,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cầu Vồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0864863",
+            "lng": "105.79068849999999"
+        },
+        {
+            "id": 829357,
+            "name": "Đường Đức Thắng",
+            "pid": 4452,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đức Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0864863",
+            "lng": "105.79068849999999"
+        },
+        {
+            "id": 829861,
+            "name": "Đường Lê Văn Hiến",
+            "pid": 4452,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Văn Hiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0864863",
+            "lng": "105.79068849999999"
+        },
+        {
+            "id": 830521,
+            "name": "Đường Sông Nhuệ",
+            "pid": 4452,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sông Nhuệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0864863",
+            "lng": "105.79068849999999"
+        },
+        {
+            "id": 830386,
+            "name": "Phố Viên",
+            "pid": 4452,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0864863",
+            "lng": "105.79068849999999"
+        },
+        {
+            "id": 742,
+            "name": "Xuyến Bi Shop",
+            "pid": 4452,
+            "type": 8,
+            "region": null,
+            "alias": "Xuyến Bi shop",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0313134",
+            "lng": "105.78546470000003"
+        }
+    ],
+    "log_id": "675811bc9ec04580"
+}

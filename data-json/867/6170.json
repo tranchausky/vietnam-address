@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 498071,
+            "name": "Bến Có",
+            "pid": 6170,
+            "type": 16,
+            "region": null,
+            "alias": "Bến Có",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9365924",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 498063,
+            "name": "Cổ Tháp A",
+            "pid": 6170,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ Tháp A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9365924",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 498065,
+            "name": "Cổ Tháp B",
+            "pid": 6170,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ Tháp B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9365924",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 498069,
+            "name": "Sóc Thác",
+            "pid": 6170,
+            "type": 16,
+            "region": null,
+            "alias": "Sóc Thác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9365924",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 498067,
+            "name": "Trà Đét",
+            "pid": 6170,
+            "type": 16,
+            "region": null,
+            "alias": "Trà Đét",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9365924",
+            "lng": "106.30517659999998"
+        },
+        {
+            "id": 498061,
+            "name": "Xóm Trảng",
+            "pid": 6170,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9365924",
+            "lng": "106.30517659999998"
+        }
+    ],
+    "log_id": "67590b439c927343"
+}

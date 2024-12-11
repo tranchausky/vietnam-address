@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 464711,
+            "name": "Thôn Na Nẫm",
+            "pid": 19793,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Na Nẫm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.644647",
+            "lng": "106.94176319999997"
+        },
+        {
+            "id": 464715,
+            "name": "Thôn Vạn Na Nẫm",
+            "pid": 19793,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vạn Na Nẫm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.644647",
+            "lng": "106.94176319999997"
+        },
+        {
+            "id": 464713,
+            "name": "Thôn Xuân Lâm",
+            "pid": 19793,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.644647",
+            "lng": "106.94176319999997"
+        }
+    ],
+    "log_id": "675813bc35ec6776"
+}

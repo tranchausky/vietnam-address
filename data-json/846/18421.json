@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 78803,
+            "name": "Khóm Phú Bình",
+            "pid": 18421,
+            "type": 18,
+            "region": null,
+            "alias": "khóm Phú Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2587308",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 78815,
+            "name": "Khóm Phú Hòa",
+            "pid": 18421,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2587308",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 78812,
+            "name": "Khóm Phú Hưng",
+            "pid": 18421,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Phú Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2587308",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 881944,
+            "name": "Khóm Phú Mỹ",
+            "pid": 18421,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.258079",
+            "lng": "105.870135"
+        },
+        {
+            "id": 78809,
+            "name": "Khóm Phú Mỹ Hiệp",
+            "pid": 18421,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Phú Mỹ Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2587308",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 78806,
+            "name": "Khóm Phú Mỹ Lương",
+            "pid": 18421,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Phú Mỹ Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2587308",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 78800,
+            "name": "Khóm Phú Mỹ Thành",
+            "pid": 18421,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Phú Mỹ Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2587308",
+            "lng": "105.87306779999994"
+        }
+    ],
+    "log_id": "675816c05e1b7987"
+}

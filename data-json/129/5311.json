@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 903781,
+            "name": "11-111 Hùng Vương",
+            "pid": 5311,
+            "type": 29,
+            "region": null,
+            "alias": "11-111 Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.068393",
+            "lng": "108.219814"
+        },
+        {
+            "id": 903787,
+            "name": "40-184 Hùng Vương",
+            "pid": 5311,
+            "type": 29,
+            "region": null,
+            "alias": "40-184 Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.068393",
+            "lng": "108.219814"
+        },
+        {
+            "id": 981875,
+            "name": "Đường Lê Duẩn",
+            "pid": 5311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Duẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981876,
+            "name": "Đường Nguyễn Thị Minh Khai",
+            "pid": 5311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981880,
+            "name": "Đường Trần Bình Trọng",
+            "pid": 5311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bình Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981877,
+            "name": "Đường Yên Bái",
+            "pid": 5311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d16ff78666"
+}

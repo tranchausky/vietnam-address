@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437839,
+            "name": "Ấp Hố Gùi",
+            "pid": 7710,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hố Gùi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.7964601",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 437833,
+            "name": "Ấp Kinh 3",
+            "pid": 7710,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.7964601",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 437835,
+            "name": "Ấp Mai Vinh",
+            "pid": 7710,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mai Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.7964601",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 437837,
+            "name": "Ấp Vinh Hoa",
+            "pid": 7710,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vinh Hoa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.7964601",
+            "lng": "105.25458879999996"
+        }
+    ],
+    "log_id": "6758164da5a46144"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412133,
+            "name": "Thôn Hòa Liễu",
+            "pid": 6690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Liễu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.766719",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 412137,
+            "name": "Thôn Úc Gián",
+            "pid": 6690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Úc Gián",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.766719",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 412135,
+            "name": "Thôn Xuân Úc",
+            "pid": 6690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Úc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.766719",
+            "lng": "106.63207769999997"
+        }
+    ],
+    "log_id": "6758136643731996"
+}

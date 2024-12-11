@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 895747,
+            "name": "Công Ty Domex",
+            "pid": 16268,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Domex",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7279718",
+            "lng": "108.38606520000008"
+        },
+        {
+            "id": 895750,
+            "name": "Công Ty Garmex",
+            "pid": 16268,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Garmex",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7279718",
+            "lng": "108.38606520000008"
+        },
+        {
+            "id": 895744,
+            "name": "Công Ty Onewo",
+            "pid": 16268,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Onewo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7279718",
+            "lng": "108.38606520000008"
+        },
+        {
+            "id": 725584,
+            "name": "Thôn Bình Hiệp",
+            "pid": 16268,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7279718",
+            "lng": "108.38606520000008"
+        },
+        {
+            "id": 864124,
+            "name": "Thôn Ngọc Sơn Đông",
+            "pid": 16268,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Sơn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7279718",
+            "lng": "108.38606520000008"
+        }
+    ],
+    "log_id": "675817e1b5f15945"
+}

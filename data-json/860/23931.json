@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 720082,
+            "name": "Nước Tang",
+            "pid": 23931,
+            "type": 16,
+            "region": null,
+            "alias": "Nước Tang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.005731400000002",
+            "lng": "108.27927290000002"
+        },
+        {
+            "id": 720073,
+            "name": "Thôn 2",
+            "pid": 23931,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.005731400000002",
+            "lng": "108.27927290000002"
+        },
+        {
+            "id": 720079,
+            "name": "Thôn Đắc Doa",
+            "pid": 23931,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đắc doa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.005731400000002",
+            "lng": "108.27927290000002"
+        }
+    ],
+    "log_id": "675909a4c5e8d97"
+}

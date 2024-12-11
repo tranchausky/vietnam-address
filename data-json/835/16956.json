@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 775987,
+            "name": "Thôn Bản Pè",
+            "pid": 16956,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bản pè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1235906",
+            "lng": "105.69991219999996"
+        },
+        {
+            "id": 775984,
+            "name": "Thôn Khuổi Cò",
+            "pid": 16956,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi cò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1235906",
+            "lng": "105.69991219999996"
+        }
+    ],
+    "log_id": "675815c925f46594"
+}

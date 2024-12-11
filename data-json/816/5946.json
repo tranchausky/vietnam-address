@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800542,
+            "name": "Bãi Sậy",
+            "pid": 5946,
+            "type": 10,
+            "region": null,
+            "alias": "Bãi Sậy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6452283",
+            "lng": "106.05887439999992"
+        },
+        {
+            "id": 815473,
+            "name": "Bà Triệu",
+            "pid": 5946,
+            "type": 10,
+            "region": null,
+            "alias": "Bà Triệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6452283",
+            "lng": "106.05887439999992"
+        },
+        {
+            "id": 800563,
+            "name": "Bùi Thị Cúc",
+            "pid": 5946,
+            "type": 21,
+            "region": null,
+            "alias": "Bùi Thị Cúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6452283",
+            "lng": "106.05887439999992"
+        },
+        {
+            "id": 815470,
+            "name": "Đường Bắc Thành",
+            "pid": 5946,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bắc Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6452283",
+            "lng": "106.05887439999992"
+        },
+        {
+            "id": 766291,
+            "name": "Kim Đồng",
+            "pid": 5946,
+            "type": 21,
+            "region": null,
+            "alias": "Kim đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6452283",
+            "lng": "106.05887439999992"
+        },
+        {
+            "id": 815467,
+            "name": "Phạm Ngũ Lão",
+            "pid": 5946,
+            "type": 21,
+            "region": null,
+            "alias": "Phạm Ngũ Lão",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.654425",
+            "lng": "106.06107870000004"
+        },
+        {
+            "id": 766282,
+            "name": "Thpt Hưng Yên",
+            "pid": 5946,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Hưng Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "106.06100285151315",
+            "lng": "20.649281838031666"
+        },
+        {
+            "id": 800551,
+            "name": "Tống Trân",
+            "pid": 5946,
+            "type": 21,
+            "region": null,
+            "alias": "Tống Trân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6452283",
+            "lng": "106.05887439999992"
+        }
+    ],
+    "log_id": "6758149114970192"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 982930,
+            "name": "Đường Võ Nguyên Giáp",
+            "pid": 5337,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Nguyên Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 939362,
+            "name": "Nguyễn Đình",
+            "pid": 5337,
+            "type": 10,
+            "region": null,
+            "alias": "Nguyễn Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.080174506725555",
+            "lng": "108.24148858356106"
+        },
+        {
+            "id": 939146,
+            "name": "Nguyễn Sáng",
+            "pid": 5337,
+            "type": 10,
+            "region": null,
+            "alias": "Nguyễn Sáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.087239380165812",
+            "lng": "108.24665008348518"
+        }
+    ],
+    "log_id": "675812d16e859374"
+}

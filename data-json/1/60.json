@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829996,
+            "name": "Đường Nam Đồng",
+            "pid": 60,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nam Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0143557",
+            "lng": "105.83123139999998"
+        },
+        {
+            "id": 830032,
+            "name": "Đường Ngõ Liên Việt",
+            "pid": 60,
+            "type": 21,
+            "region": null,
+            "alias": "Đường ngõ Liên Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0143557",
+            "lng": "105.83123139999998"
+        },
+        {
+            "id": 831031,
+            "name": "Đường Xã Đàn 2",
+            "pid": 60,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xã Đàn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0143557",
+            "lng": "105.83123139999998"
+        },
+        {
+            "id": 881239,
+            "name": "Đường Xã Đàn 3",
+            "pid": 60,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xã Đàn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,017867",
+            "lng": "105,830987"
+        }
+    ],
+    "log_id": "675811bbd959c425"
+}

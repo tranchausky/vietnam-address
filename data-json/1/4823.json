@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53354,
+            "name": "Thpt Lam Hồng",
+            "pid": 4823,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Lam Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 53338,
+            "name": "Thpt Sóc Sơn",
+            "pid": 4823,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Sóc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc4590314"
+}

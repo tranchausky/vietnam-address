@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 441623,
+            "name": "Ấp Lân Bắc",
+            "pid": 7465,
+            "type": 17,
+            "region": null,
+            "alias": "ấp lân bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2323827",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 441625,
+            "name": "Ấp Lân Đông",
+            "pid": 7465,
+            "type": 17,
+            "region": null,
+            "alias": "ấp lân đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2323827",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 441619,
+            "name": "Ấp Lân Nam",
+            "pid": 7465,
+            "type": 17,
+            "region": null,
+            "alias": "ấp lân nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2323827",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 441617,
+            "name": "Ấp Lân Tây",
+            "pid": 7465,
+            "type": 17,
+            "region": null,
+            "alias": "ấp lân tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2323827",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 441627,
+            "name": "Ấp Mỹ Sơn Tây",
+            "pid": 7465,
+            "type": 17,
+            "region": null,
+            "alias": "ấp mỹ sơn tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2323827",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 441621,
+            "name": "Ấp Phú Hiệp",
+            "pid": 7465,
+            "type": 17,
+            "region": null,
+            "alias": "ấp phú hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2323827",
+            "lng": "106.23456329999999"
+        }
+    ],
+    "log_id": "6758160db1afb48"
+}

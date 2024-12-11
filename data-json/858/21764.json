@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 537327,
+            "name": "Khu 1",
+            "pid": 21764,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1474425",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 537329,
+            "name": "Khu 2",
+            "pid": 21764,
+            "type": 18,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1474425",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 537331,
+            "name": "Khu 3",
+            "pid": 21764,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1474425",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 669784,
+            "name": "Khu 4",
+            "pid": 21764,
+            "type": 18,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1474425",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 537335,
+            "name": "Khu 5",
+            "pid": 21764,
+            "type": 18,
+            "region": null,
+            "alias": "Khu 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1474425",
+            "lng": "105.28385109999999"
+        }
+    ],
+    "log_id": "675817cdc255c358"
+}

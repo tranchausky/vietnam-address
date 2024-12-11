@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 826726,
+            "name": "Thôn Nam Hải",
+            "pid": 15446,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nam Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4368795",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 427887,
+            "name": "Thôn Thượng Hải",
+            "pid": 15446,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.002421",
+            "lng": "105.8174425"
+        },
+        {
+            "id": 427891,
+            "name": "Xóm Bắc Hải",
+            "pid": 15446,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Bắc Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3426395",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 427885,
+            "name": "Xóm Đại Hải",
+            "pid": 15446,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đại Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.778677799999999",
+            "lng": "105.8877494"
+        },
+        {
+            "id": 427883,
+            "name": "Xóm Liên Hải",
+            "pid": 15446,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Liên Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5780168",
+            "lng": "105.8033458"
+        }
+    ],
+    "log_id": "675816e9d27c0256"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 958203,
+            "name": "Ấp Cây Chàm",
+            "pid": 6081,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Chàm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.009192643058006, ",
+            "lng": "106.76593855387068"
+        },
+        {
+            "id": 958092,
+            "name": "Chợ Thạnh Phước",
+            "pid": 6081,
+            "type": 5,
+            "region": null,
+            "alias": "Chợ Thạnh Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.004032458802294",
+            "lng": "106.7668405429904"
+        },
+        {
+            "id": 958091,
+            "name": "Công Ty Cp Cảng Thạnh Phước",
+            "pid": 6081,
+            "type": 4,
+            "region": null,
+            "alias": "Công Ty CP Cảng Thạnh Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.012679683019268",
+            "lng": "106.77302913199149"
+        },
+        {
+            "id": 958089,
+            "name": "Khu Phố Cây Chàm",
+            "pid": 6081,
+            "type": 17,
+            "region": null,
+            "alias": "Khu phố Cây Chàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.009943907673277",
+            "lng": "106.76352529174585"
+        },
+        {
+            "id": 958090,
+            "name": "Khu Phố Cây Da",
+            "pid": 6081,
+            "type": 17,
+            "region": null,
+            "alias": "Khu Phố Cây Da",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.998609578768434",
+            "lng": "106.76599101563386"
+        },
+        {
+            "id": 958116,
+            "name": "Khu Phố Tân Lương",
+            "pid": 6081,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Tân Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.004902480835527",
+            "lng": "106.76741096594546"
+        }
+    ],
+    "log_id": "6758162197df253"
+}

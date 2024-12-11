@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117853,
+            "name": "Bò Vàng",
+            "pid": 4781,
+            "type": 16,
+            "region": null,
+            "alias": "Bò Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.111505,",
+            "lng": "105.5151997"
+        },
+        {
+            "id": 117851,
+            "name": "Đồi Nhì",
+            "pid": 4781,
+            "type": 10,
+            "region": null,
+            "alias": "Đồi Nhì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.111505,",
+            "lng": "105.5151997"
+        },
+        {
+            "id": 117855,
+            "name": "Làng Me",
+            "pid": 4781,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1141008",
+            "lng": "105.516893"
+        },
+        {
+            "id": 55074,
+            "name": "Ubnd Xã Tích Giang",
+            "pid": 4781,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tích Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd48286269"
+}

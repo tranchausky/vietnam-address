@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630783,
+            "name": "Thôn Cát Dương",
+            "pid": 16937,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cát dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        },
+        {
+            "id": 630786,
+            "name": "Thôn Hạ Cát",
+            "pid": 16937,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hạ cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        },
+        {
+            "id": 630792,
+            "name": "Thôn Phan Xá",
+            "pid": 16937,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phan xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        },
+        {
+            "id": 840004,
+            "name": "Thôn Vũ Xá",
+            "pid": 16937,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vũ Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7109085",
+            "lng": "106.19844160000002"
+        }
+    ],
+    "log_id": "67581490cf2d2338"
+}

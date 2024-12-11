@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 764326,
+            "name": "Thôn Chính Kết",
+            "pid": 15339,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Chính Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 419709,
+            "name": "Thôn Phúc Đòan",
+            "pid": 15339,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Phúc Đòan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 764323,
+            "name": "Thôn Phú Yên",
+            "pid": 15339,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Phú Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 734287,
+            "name": "Thôn Tân Chính",
+            "pid": 15339,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 419705,
+            "name": "Thôn Thành Vinh",
+            "pid": 15339,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000005"
+        },
+        {
+            "id": 764329,
+            "name": "Xóm Cộng",
+            "pid": 15339,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cộng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 419711,
+            "name": "Xóm Hạnh",
+            "pid": 15339,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7407814",
+            "lng": "105.70577920000005"
+        }
+    ],
+    "log_id": "67590a23ba563600"
+}

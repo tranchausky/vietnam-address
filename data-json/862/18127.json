@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435251,
+            "name": "Ấp Thạnh Nam",
+            "pid": 18127,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2503086",
+            "lng": "106.1198699"
+        },
+        {
+            "id": 435249,
+            "name": "Ấp Thạnh Sơn",
+            "pid": 18127,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2141148",
+            "lng": "105.1902297"
+        },
+        {
+            "id": 435257,
+            "name": "Ấp Thạnh Tân",
+            "pid": 18127,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9748361",
+            "lng": "106.5042754"
+        },
+        {
+            "id": 435253,
+            "name": "Ấp Thạnh Tây",
+            "pid": 18127,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6714719",
+            "lng": "105.8407722"
+        },
+        {
+            "id": 435255,
+            "name": "Ấp Thạnh Trung",
+            "pid": 18127,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2718815",
+            "lng": "105.9648468"
+        }
+    ],
+    "log_id": "675909dd009ad991"
+}

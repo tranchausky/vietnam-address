@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120301,
+            "name": "Bột Xuyên",
+            "pid": 4719,
+            "type": 16,
+            "region": null,
+            "alias": "Bột Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7748694",
+            "lng": "105.7123798"
+        },
+        {
+            "id": 120299,
+            "name": "Lai Tảo",
+            "pid": 4719,
+            "type": 16,
+            "region": null,
+            "alias": "Lai Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.76591",
+            "lng": "105.7094038"
+        },
+        {
+            "id": 120297,
+            "name": "Mỹ Tiên",
+            "pid": 4719,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7781782",
+            "lng": "105.7079794"
+        },
+        {
+            "id": 120295,
+            "name": "Phúc Khê",
+            "pid": 4719,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7903609",
+            "lng": "105.7096138"
+        },
+        {
+            "id": 120293,
+            "name": "Phú Hữu",
+            "pid": 4719,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7832903",
+            "lng": "105.7153135"
+        },
+        {
+            "id": 120303,
+            "name": "Phú Văn",
+            "pid": 4719,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7663116",
+            "lng": "105.710913"
+        },
+        {
+            "id": 54830,
+            "name": "Ubnd Xã Bột Xuyên",
+            "pid": 4719,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Bột Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc19613960"
+}

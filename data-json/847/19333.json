@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450449,
+            "name": "Làng Brang",
+            "pid": 19333,
+            "type": 16,
+            "region": null,
+            "alias": "làng Brang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.675076",
+            "lng": "108.7957381"
+        },
+        {
+            "id": 450445,
+            "name": "Làng Làng Mèo Lớn",
+            "pid": 19333,
+            "type": 16,
+            "region": null,
+            "alias": "làng Làng mèo lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.675076",
+            "lng": "108.7957381"
+        },
+        {
+            "id": 450447,
+            "name": "Làng Mèo Nhỏ",
+            "pid": 19333,
+            "type": 16,
+            "region": null,
+            "alias": "làng mèo nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.675076",
+            "lng": "108.7957381"
+        },
+        {
+            "id": 450451,
+            "name": "Làng Tbưng",
+            "pid": 19333,
+            "type": 16,
+            "region": null,
+            "alias": "làng Tbưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.675076",
+            "lng": "108.7957381"
+        }
+    ],
+    "log_id": "675816d3601c1503"
+}

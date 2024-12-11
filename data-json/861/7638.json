@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434821,
+            "name": "Ấp Bờ Kinh",
+            "pid": 7638,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bờ kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.718072",
+            "lng": "106.032836"
+        },
+        {
+            "id": 434827,
+            "name": "Ấp Chùa Ông",
+            "pid": 7638,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chùa Ông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.701195",
+            "lng": "106.051058"
+        },
+        {
+            "id": 434829,
+            "name": "Ấp Mây Hắc",
+            "pid": 7638,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mây Hắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.699770",
+            "lng": "106.050477"
+        },
+        {
+            "id": 434825,
+            "name": "Ấp Ngọn",
+            "pid": 7638,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngọn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.718490",
+            "lng": "106.054686"
+        },
+        {
+            "id": 434823,
+            "name": "Ấp Phố",
+            "pid": 7638,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.720094",
+            "lng": "106.048943"
+        }
+    ],
+    "log_id": "675909c16d471847"
+}

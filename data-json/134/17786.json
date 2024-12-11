@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 905608,
+            "name": "Khuổi Nọi",
+            "pid": 17786,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Nọi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7543806",
+            "lng": "106.86725230000002"
+        },
+        {
+            "id": 905605,
+            "name": "Nà Chí",
+            "pid": 17786,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Chí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7543806",
+            "lng": "106.86725230000002"
+        }
+    ],
+    "log_id": "6758133f473d9864"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 581205,
+            "name": "Xóm Thanh Tân",
+            "pid": 17474,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thanh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.681508",
+            "lng": "105.48247079999999"
+        },
+        {
+            "id": 581208,
+            "name": "Xóm Thiên Tân",
+            "pid": 17474,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thiên Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.681508",
+            "lng": "105.48247079999999"
+        }
+    ],
+    "log_id": "6758120894eb514"
+}

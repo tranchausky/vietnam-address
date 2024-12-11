@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881272,
+            "name": "Đường Hòa Mã",
+            "pid": 102,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hòa Mã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,015815",
+            "lng": "105,85143"
+        },
+        {
+            "id": 881275,
+            "name": "Đường Lê Ngọc Hân",
+            "pid": 102,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Ngọc Hân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,015815",
+            "lng": "105,85143"
+        },
+        {
+            "id": 881263,
+            "name": "Đường Phù Đổng Thiên Vương",
+            "pid": 102,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phù Đổng Thiên Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,015815",
+            "lng": "105,85143"
+        },
+        {
+            "id": 881266,
+            "name": "Đường Thi Sách",
+            "pid": 102,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thi Sách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,015815",
+            "lng": "105,85143"
+        },
+        {
+            "id": 881269,
+            "name": "Đường Trần Xuân Soạn",
+            "pid": 102,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Xuân Soạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,015815",
+            "lng": "105,85143"
+        },
+        {
+            "id": 410,
+            "name": "Phù Đổng Thiên Vương",
+            "pid": 102,
+            "type": 2,
+            "region": null,
+            "alias": "Phù Đổng Thiên Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0153228",
+            "lng": "105.85375249999993"
+        },
+        {
+            "id": 411,
+            "name": "Thi Sách",
+            "pid": 102,
+            "type": 2,
+            "region": null,
+            "alias": "Thi Sách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0169132",
+            "lng": "105.85407740000005"
+        }
+    ],
+    "log_id": "675811bd1b151736"
+}

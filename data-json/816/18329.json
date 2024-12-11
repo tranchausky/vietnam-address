@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629406,
+            "name": "Thôn Mão Xuyên",
+            "pid": 18329,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mão Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7888564",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 629409,
+            "name": "Thôn Mễ Xá",
+            "pid": 18329,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mễ Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7888564",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 629400,
+            "name": "Thôn Nhân Vũ",
+            "pid": 18329,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Nhân Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7888564",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 629412,
+            "name": "Xóm 2",
+            "pid": 18329,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7888564",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 629403,
+            "name": "Xóm 3",
+            "pid": 18329,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7888564",
+            "lng": "106.10811030000002"
+        }
+    ],
+    "log_id": "6758149135664988"
+}

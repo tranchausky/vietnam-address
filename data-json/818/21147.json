@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015726,
+            "name": "Dmx Quảng Bình - Ba",
+            "pid": 21147,
+            "type": 10,
+            "region": null,
+            "alias": "DMX Quảng Bình - Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.764.393",
+            "lng": "106.419.578"
+        },
+        {
+            "id": 730609,
+            "name": "Tân Long",
+            "pid": 21147,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7555407",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 1007927,
+            "name": "Thủy Sơn",
+            "pid": 21147,
+            "type": 20,
+            "region": null,
+            "alias": "Thủy Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7666286",
+            "lng": "106.4041113"
+        },
+        {
+            "id": 461925,
+            "name": "Tổ Dân Phố Chính Trực",
+            "pid": 21147,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố chính trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7555407",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 755791,
+            "name": "Tổ Dân Phố Thủy Sơn",
+            "pid": 21147,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố Thủy Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.757051899999997",
+            "lng": "106.40230999999994"
+        },
+        {
+            "id": 461921,
+            "name": "Tổ Dân Phố Trường Sơn",
+            "pid": 21147,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố trường sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7555407",
+            "lng": "106.41997549999996"
+        }
+    ],
+    "log_id": "675814aa0dd19220"
+}

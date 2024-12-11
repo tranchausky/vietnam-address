@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846103,
+            "name": "Quốc Lộ 1A",
+            "pid": 6838,
+            "type": 10,
+            "region": null,
+            "alias": "Quốc lộ 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6382578",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396847,
+            "name": "Thôn An Nhân",
+            "pid": 6838,
+            "type": 5,
+            "region": null,
+            "alias": "Thôn An Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396849,
+            "name": "Thôn Bạch Xá",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bạch Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396851,
+            "name": "Thôn Hoàng Hạ",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396853,
+            "name": "Thôn Hoàng Lý 1",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Lý 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396855,
+            "name": "Thôn Hoàng Lý 2",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Lý 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396857,
+            "name": "Thôn Hoàng Lý 3",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Lý 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396859,
+            "name": "Thôn Hoàng Thượng",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 396861,
+            "name": "Thôn Ngọc Động",
+            "pid": 6838,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6208845",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "6758142827d7e658"
+}

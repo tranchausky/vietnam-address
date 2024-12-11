@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 8071,
+            "name": "Thị Trấn Hòa Bình",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2734758",
+            "lng": "105.62952300000006"
+        },
+        {
+            "id": 8072,
+            "name": "Xã Minh Diệu",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Minh Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3390177",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 8073,
+            "name": "Xã Vĩnh Bình",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3411125",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 8077,
+            "name": "Xã Vĩnh Hậu",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.214022",
+            "lng": "105.662323"
+        },
+        {
+            "id": 8078,
+            "name": "Xã Vĩnh Hậu A",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hậu A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.233014599999999",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 8074,
+            "name": "Xã Vĩnh Mỹ A",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Mỹ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.232585499999999",
+            "lng": "105.58261229999994"
+        },
+        {
+            "id": 8075,
+            "name": "Xã Vĩnh Mỹ B",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Mỹ B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2765995",
+            "lng": "105.55916150000007"
+        },
+        {
+            "id": 8076,
+            "name": "Xã Vĩnh Thịnh",
+            "pid": 1508,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1886028",
+            "lng": "105.60606610000002"
+        }
+    ],
+    "log_id": "675815e157ee340"
+}

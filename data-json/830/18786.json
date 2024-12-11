@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 408191,
+            "name": "Chu Hạ",
+            "pid": 18786,
+            "type": 16,
+            "region": null,
+            "alias": "Chu Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.521381",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 408193,
+            "name": "Chu Thượng",
+            "pid": 18786,
+            "type": 16,
+            "region": null,
+            "alias": "Chu Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.521381",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 408195,
+            "name": "Minh Hạ",
+            "pid": 18786,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.521381",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 408197,
+            "name": "Minh Thượng",
+            "pid": 18786,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.521381",
+            "lng": "104.82211469999993"
+        }
+    ],
+    "log_id": "675815661f102295"
+}

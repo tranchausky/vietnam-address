@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 879052,
+            "name": "An Tập",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "An Tập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6780692",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 434267,
+            "name": "Ấp Đắc Thắng",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đắc Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.68952",
+            "lng": "105.86086"
+        },
+        {
+            "id": 434275,
+            "name": "Ấp Mương Khai",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Khai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.66995",
+            "lng": "105.83383"
+        },
+        {
+            "id": 434273,
+            "name": "Ấp Mỹ An",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.66535",
+            "lng": "105.86009"
+        },
+        {
+            "id": 434279,
+            "name": "Ấp Mỹ Đức",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.66390",
+            "lng": "105.85026"
+        },
+        {
+            "id": 434269,
+            "name": "Ấp Mỹ Phú",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.67840",
+            "lng": "105.85206"
+        },
+        {
+            "id": 434277,
+            "name": "Ấp Mỹ Tân",
+            "pid": 7614,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.69321",
+            "lng": "105.83631"
+        }
+    ],
+    "log_id": "675909c194aee162"
+}

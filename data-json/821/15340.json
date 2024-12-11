@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 819718,
+            "name": "Bắc Thắng",
+            "pid": 15340,
+            "type": 18,
+            "region": null,
+            "alias": "Bắc Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.8639373",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 763774,
+            "name": "Xóm Chợ",
+            "pid": 15340,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.863937300000003",
+            "lng": "105.6823124"
+        }
+    ],
+    "log_id": "67581208d9be1449"
+}

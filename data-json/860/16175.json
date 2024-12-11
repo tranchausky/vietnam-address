@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631890,
+            "name": "Nam Bình 1",
+            "pid": 16175,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Bình 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3809762",
+            "lng": "108.75415640000006"
+        },
+        {
+            "id": 631839,
+            "name": "Thôn Châu Tử",
+            "pid": 16175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu Tử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3391442",
+            "lng": "108.7185184"
+        },
+        {
+            "id": 631842,
+            "name": "Thôn Nam Bình I",
+            "pid": 16175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Bình I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3391442",
+            "lng": "108.7185184"
+        },
+        {
+            "id": 631845,
+            "name": "Thôn Nam Bình Ii",
+            "pid": 16175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Bình II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3391442",
+            "lng": "108.7185184"
+        },
+        {
+            "id": 631848,
+            "name": "Thôn Phước Bình",
+            "pid": 16175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3391442",
+            "lng": "108.7185184"
+        },
+        {
+            "id": 631851,
+            "name": "Thôn Trì Bình",
+            "pid": 16175,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trì Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3391442",
+            "lng": "108.7185184"
+        }
+    ],
+    "log_id": "675909a4ddb60773"
+}

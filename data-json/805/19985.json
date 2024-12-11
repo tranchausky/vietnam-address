@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515579,
+            "name": "Đồng Hèo",
+            "pid": 19985,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Hèo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.049459",
+            "lng": "106.55545230000007"
+        },
+        {
+            "id": 515581,
+            "name": "Kim Trà",
+            "pid": 19985,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.049459",
+            "lng": "106.55545230000007"
+        },
+        {
+            "id": 515583,
+            "name": "Thượng Chiểu",
+            "pid": 19985,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.049459",
+            "lng": "106.55545230000007"
+        },
+        {
+            "id": 515585,
+            "name": "Thượng Trà",
+            "pid": 19985,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.049459",
+            "lng": "106.55545230000007"
+        }
+    ],
+    "log_id": "675813f178fb3700"
+}

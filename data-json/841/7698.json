@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437629,
+            "name": "Cái Rắn A",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Cái Rắn A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437631,
+            "name": "Cái Rắn B",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Cái Rắn B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437639,
+            "name": "Đức An",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Đức An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437627,
+            "name": "Hưng Thành",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Hưng Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437637,
+            "name": "Lộ Xe",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Lộ Xe",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437633,
+            "name": "Nhà Phấn Gốc",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Nhà Phấn Gốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437641,
+            "name": "Phú Thạnh",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Phú Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437625,
+            "name": "Rạch Muỗi",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Rạch Muỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        },
+        {
+            "id": 437635,
+            "name": "Tân Ánh",
+            "pid": 7698,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Ánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.0782717",
+            "lng": "105.04989660000001"
+        }
+    ],
+    "log_id": "6758164d98690316"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995426,
+            "name": "Chẵn Đường Phố Huế",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "chẵn đường phố huế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0090571",
+            "lng": "105.86075069999993"
+        },
+        {
+            "id": 829099,
+            "name": "Đường Chùa Vua",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chùa Vua",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108156",
+            "lng": "105.85324939999998"
+        },
+        {
+            "id": 998159,
+            "name": "Đường Lê Gia Định",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Gia Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.011127",
+            "lng": "105,852671"
+        },
+        {
+            "id": 881560,
+            "name": "Đường Nguyễn Công Trứ",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Công Trứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,011127",
+            "lng": "105,852671"
+        },
+        {
+            "id": 830662,
+            "name": "Đường Thịnh Yên",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thịnh yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108156",
+            "lng": "105.85324939999998"
+        },
+        {
+            "id": 830734,
+            "name": "Đường Trần Cao Vân",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Cao Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108156",
+            "lng": "105.85324939999998"
+        },
+        {
+            "id": 831067,
+            "name": "Đường Yên Bái",
+            "pid": 105,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108156",
+            "lng": "105.85324939999998"
+        },
+        {
+            "id": 830374,
+            "name": "Phố Huế",
+            "pid": 105,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Huế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0108156",
+            "lng": "105.85324939999998"
+        }
+    ],
+    "log_id": "675811bd19fe9161"
+}

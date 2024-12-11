@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630765,
+            "name": "Thôn Cự Phú",
+            "pid": 16935,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cự phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6926182",
+            "lng": "106.23843349999993"
+        },
+        {
+            "id": 630771,
+            "name": "Thôn Ngũ Phúc",
+            "pid": 16935,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngũ phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6926182",
+            "lng": "106.23843349999993"
+        },
+        {
+            "id": 704077,
+            "name": "Thôn Tam Đa",
+            "pid": 16935,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6926182",
+            "lng": "106.23843349999993"
+        }
+    ],
+    "log_id": "67581490cfb57121"
+}

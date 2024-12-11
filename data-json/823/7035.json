@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94088,
+            "name": "Ấp Hoàn Quân",
+            "pid": 7035,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hoàn Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.786359",
+            "lng": "107.222187"
+        },
+        {
+            "id": 94085,
+            "name": "Ấp Suối Cả",
+            "pid": 7035,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.817289",
+            "lng": "107.232387"
+        },
+        {
+            "id": 94091,
+            "name": "Ấp Suối Râm",
+            "pid": 7035,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Râm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5151629",
+            "lng": "106.3647775"
+        },
+        {
+            "id": 94094,
+            "name": "Khu Đồi 57",
+            "pid": 7035,
+            "type": 17,
+            "region": null,
+            "alias": "Khu Đồi 57",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.814384",
+            "lng": "107.258064"
+        },
+        {
+            "id": 992194,
+            "name": "Trung Tâm Hành Chính",
+            "pid": 7035,
+            "type": 21,
+            "region": null,
+            "alias": "Trung tâm Hành chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.807785020642399",
+            "lng": "107.22960852620872"
+        }
+    ],
+    "log_id": "675814dd43dfe893"
+}

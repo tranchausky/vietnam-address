@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453729,
+            "name": "Khu Phố Mỹ An",
+            "pid": 17539,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Mỹ An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4109191",
+            "lng": "106.14045099999998"
+        },
+        {
+            "id": 453727,
+            "name": "Khu Phố Mỹ Lợi",
+            "pid": 17539,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Mỹ Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4109191",
+            "lng": "106.14045099999998"
+        },
+        {
+            "id": 453725,
+            "name": "Khu Phố Mỹ Thuận",
+            "pid": 17539,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Mỹ Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4109191",
+            "lng": "106.14045099999998"
+        }
+    ],
+    "log_id": "675814f388dbf826"
+}

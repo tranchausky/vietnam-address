@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115161,
+            "name": "Đường Vĩnh Thái",
+            "pid": 15051,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.246899",
+            "lng": "109.161015"
+        },
+        {
+            "id": 792436,
+            "name": "Đường Võ Nguyên Giáp",
+            "pid": 15051,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Nguyên Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.241516",
+            "lng": "109.165738"
+        },
+        {
+            "id": 748927,
+            "name": "Đường Vườn Dương",
+            "pid": 15051,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vườn Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2299512",
+            "lng": "109.16096519999996"
+        },
+        {
+            "id": 979146,
+            "name": "Khu Tđc Vĩnh Thái",
+            "pid": 15051,
+            "type": 10,
+            "region": null,
+            "alias": "Khu TĐC Vĩnh Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2483455",
+            "lng": "109.1580212"
+        },
+        {
+            "id": 701233,
+            "name": "Núi Cấm 1",
+            "pid": 15051,
+            "type": 21,
+            "region": null,
+            "alias": "Núi Cấm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2299512",
+            "lng": "109.16096519999996"
+        },
+        {
+            "id": 701197,
+            "name": "Núi Cấm 2",
+            "pid": 15051,
+            "type": 21,
+            "region": null,
+            "alias": "Núi Cấm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2299512",
+            "lng": "109.16096519999996"
+        },
+        {
+            "id": 118711,
+            "name": "Thôn Đất Lành",
+            "pid": 15051,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đất Lành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.221927",
+            "lng": "109.152017"
+        },
+        {
+            "id": 118677,
+            "name": "Thôn Thái Thông 1",
+            "pid": 15051,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Thông 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.248636",
+            "lng": "109.157707"
+        },
+        {
+            "id": 118687,
+            "name": "Thôn Thái Thông 2",
+            "pid": 15051,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Thông 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.248128",
+            "lng": "109.162783"
+        },
+        {
+            "id": 118703,
+            "name": "Thôn Thủy Tú",
+            "pid": 15051,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thủy Tú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.240059",
+            "lng": "109.162230"
+        },
+        {
+            "id": 118737,
+            "name": "Thôn Vĩnh Xuân",
+            "pid": 15051,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.226410",
+            "lng": "109.176148"
+        },
+        {
+            "id": 701212,
+            "name": "Vĩnh Thái",
+            "pid": 15051,
+            "type": 21,
+            "region": null,
+            "alias": "Vĩnh Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2299512",
+            "lng": "109.16096519999996"
+        },
+        {
+            "id": 748930,
+            "name": "Vườn Xoài",
+            "pid": 15051,
+            "type": 18,
+            "region": null,
+            "alias": "Vườn Xoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2299512",
+            "lng": "109.16096519999996"
+        }
+    ],
+    "log_id": "67581585dd73c986"
+}

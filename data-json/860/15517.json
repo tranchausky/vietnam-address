@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 632079,
+            "name": "Tdp 1",
+            "pid": 15517,
+            "type": 20,
+            "region": null,
+            "alias": "TDP 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9350549",
+            "lng": "108.88782779999997"
+        },
+        {
+            "id": 632082,
+            "name": "Tdp 2",
+            "pid": 15517,
+            "type": 20,
+            "region": null,
+            "alias": "TDP 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9350549",
+            "lng": "108.88782779999997"
+        },
+        {
+            "id": 632085,
+            "name": "Tdp 3",
+            "pid": 15517,
+            "type": 20,
+            "region": null,
+            "alias": "TDP 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9350549",
+            "lng": "108.88782779999997"
+        }
+    ],
+    "log_id": "675909a5140a3459"
+}

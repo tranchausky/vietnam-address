@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450209,
+            "name": "Làng Đê",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Đê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 450205,
+            "name": "Làng Nớt",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Nớt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 450203,
+            "name": "Làng Siu",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Siu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 450211,
+            "name": "Làng Sơ",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Sơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 450207,
+            "name": "Làng Xom",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Xom",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 450201,
+            "name": "Thôn Xuân Me",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 450199,
+            "name": "Thôn Yên Me",
+            "pid": 19376,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.6565652",
+            "lng": "107.87023469999997"
+        }
+    ],
+    "log_id": "675816d317f39134"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 905998,
+            "name": "Lý Nam Đế",
+            "pid": 15468,
+            "type": 21,
+            "region": null,
+            "alias": "Lý Nam Đế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.881932199999998",
+            "lng": "108.33341470000003"
+        },
+        {
+            "id": 717562,
+            "name": "Ngô Gia Tự",
+            "pid": 15468,
+            "type": 21,
+            "region": null,
+            "alias": "Ngô Gia Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.878223",
+            "lng": "108.32821509999997"
+        },
+        {
+            "id": 905992,
+            "name": "Phan Bội Châu",
+            "pid": 15468,
+            "type": 21,
+            "region": null,
+            "alias": "Phan Bội Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8701483",
+            "lng": "108.34729979999996"
+        },
+        {
+            "id": 896044,
+            "name": "Trương Minh Lượng",
+            "pid": 15468,
+            "type": 21,
+            "region": null,
+            "alias": "Trương Minh Lượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.881932199999998",
+            "lng": "108.33341470000003"
+        }
+    ],
+    "log_id": "675817e1b81e9114"
+}

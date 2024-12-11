@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 607845,
+            "name": "Buôn Bu Jari",
+            "pid": 19265,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Bu Jari",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3387592",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 607842,
+            "name": "Buôn B’lân",
+            "pid": 19265,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn B’lân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3387592",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 607851,
+            "name": "Buôn R Lông",
+            "pid": 19265,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn R Lông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3387592",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 798715,
+            "name": "Thôn 2 E29",
+            "pid": 19265,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 E29",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.396127",
+            "lng": "107.674348"
+        }
+    ],
+    "log_id": "6758169127aaa871"
+}

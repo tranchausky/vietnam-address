@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 399345,
+            "name": "Chàn Hạ",
+            "pid": 20563,
+            "type": 16,
+            "region": null,
+            "alias": "chàn hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8218244",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 399347,
+            "name": "Khau Sú",
+            "pid": 20563,
+            "type": 16,
+            "region": null,
+            "alias": "khau sú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8218244",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 818149,
+            "name": "Khuổi Mực",
+            "pid": 20563,
+            "type": 18,
+            "region": null,
+            "alias": "Khuổi Mực",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8218244",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 815059,
+            "name": "Phiêng Buống",
+            "pid": 20563,
+            "type": 18,
+            "region": null,
+            "alias": "Phiêng Buống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8218244",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 399343,
+            "name": "Xóm Bản Cuốn",
+            "pid": 20563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Cuốn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8218244",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 705664,
+            "name": "Xóm Chàng Hạ",
+            "pid": 20563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chàng Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.829476",
+            "lng": "105.676924"
+        },
+        {
+            "id": 705670,
+            "name": "Xóm Phiên Bản",
+            "pid": 20563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phiên bản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.817363",
+            "lng": "105.587751,21993"
+        },
+        {
+            "id": 913600,
+            "name": "Xóm Thượng B",
+            "pid": 20563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thượng B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8218244",
+            "lng": "105.67644610000002"
+        }
+    ],
+    "log_id": "67581662a565c734"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 554415,
+            "name": "Thôn Bãi Cát",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bãi cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554419,
+            "name": "Thôn Đồng Cháy",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Cháy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554417,
+            "name": "Thôn Đồng Chùa",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554407,
+            "name": "Thôn Đồng Mơ",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Mơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554409,
+            "name": "Thôn Đồng Rùa",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Rùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554405,
+            "name": "Thôn Đồng Sang",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Sang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554413,
+            "name": "Thôn Lán Dè",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lán Dè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        },
+        {
+            "id": 554411,
+            "name": "Thôn Thôn Chợ",
+            "pid": 16676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thôn Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0994569",
+            "lng": "107.13663650000001"
+        }
+    ],
+    "log_id": "675814c22ee2d339"
+}

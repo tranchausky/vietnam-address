@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928633,
+            "name": "Há Hơ",
+            "pid": 19062,
+            "type": 18,
+            "region": null,
+            "alias": "Há Hơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 916318,
+            "name": "Lũng Hòa A",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "Lũng Hòa A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.2781471",
+            "lng": "105.36273359999996"
+        },
+        {
+            "id": 570771,
+            "name": "Lũng Hòa B",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "Lũng hòa b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 570774,
+            "name": "Lũng Thầu Xà Phìn",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "Lũng Thầu Xà Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 570762,
+            "name": "Ly Cha Tủng",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "Ly cha tủng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 916342,
+            "name": "Sà Phìn C",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "Sà Phìn C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 570768,
+            "name": "Thôn Lũng Hòa A",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lũng hòa a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 570765,
+            "name": "Thôn Thành Ma Tủng",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thành ma tủng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 570777,
+            "name": "Thôn Xà Phìn A",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xà phìn a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        },
+        {
+            "id": 855721,
+            "name": "Xà Phìn A",
+            "pid": 19062,
+            "type": 18,
+            "region": null,
+            "alias": "Xà Phìn A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.2781471",
+            "lng": "105.36273359999996"
+        },
+        {
+            "id": 570780,
+            "name": "Xà Phìn B",
+            "pid": 19062,
+            "type": 16,
+            "region": null,
+            "alias": "Xà phìn b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2531151",
+            "lng": "105.248737"
+        }
+    ],
+    "log_id": "67581566424d0858"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111111,
+            "name": "Ấp Đập Đá",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đập Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.114247",
+            "lng": "105.151676"
+        },
+        {
+            "id": 111123,
+            "name": "Ấp Phú Hiệp",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.113943",
+            "lng": "105.154434"
+        },
+        {
+            "id": 110931,
+            "name": "Ấp Phú Hoà",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.094572",
+            "lng": "105.135997"
+        },
+        {
+            "id": 110905,
+            "name": "Ấp Phú Hội",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.109298",
+            "lng": "105.151312"
+        },
+        {
+            "id": 111009,
+            "name": "Ấp Tân Hồng",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.113943",
+            "lng": "105.154434"
+        },
+        {
+            "id": 110995,
+            "name": "Ấp Tân Hưng",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.113943",
+            "lng": "105.154434"
+        },
+        {
+            "id": 110963,
+            "name": "Ấp Tân Lập",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.113943",
+            "lng": "105.154434"
+        },
+        {
+            "id": 110983,
+            "name": "Ấp Tân Thọ",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.124826",
+            "lng": "105.145399"
+        },
+        {
+            "id": 110941,
+            "name": "Ấp Tân Vụ",
+            "pid": 18001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Vụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.113943",
+            "lng": "105.154434"
+        }
+    ],
+    "log_id": "6758173622fe6702"
+}

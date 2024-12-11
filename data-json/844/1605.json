@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 13474,
+            "name": "Phường Nghĩa Đức",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01385",
+            "lng": "107.71032909999997"
+        },
+        {
+            "id": 13475,
+            "name": "Phường Nghĩa Phú",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9957218",
+            "lng": "107.6511279"
+        },
+        {
+            "id": 13476,
+            "name": "Phường Nghĩa Tân",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.966910",
+            "lng": "107.668594"
+        },
+        {
+            "id": 13477,
+            "name": "Phường Nghĩa Thành",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0045195",
+            "lng": "107.6830002"
+        },
+        {
+            "id": 13478,
+            "name": "Phường Nghĩa Trung",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9795033",
+            "lng": "107.68960730000003"
+        },
+        {
+            "id": 13481,
+            "name": "Phường Quảng Thành",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Quảng Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.073115",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 25349,
+            "name": "Xã Đăk Nia",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đăk Nia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9413347",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 13480,
+            "name": "Xã Đắk Rmoan",
+            "pid": 1605,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đắk RMoan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.019226",
+            "lng": "107.62745100000006"
+        }
+    ],
+    "log_id": "67581691123a4576"
+}

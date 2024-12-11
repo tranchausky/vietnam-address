@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 586284,
+            "name": "Bản Kê Nênh",
+            "pid": 23033,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Kê Nênh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3943321",
+            "lng": "103.07602730000008"
+        },
+        {
+            "id": 586281,
+            "name": "Bản Nà Nghè",
+            "pid": 23033,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nà Nghè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3943321",
+            "lng": "103.07602730000008"
+        },
+        {
+            "id": 586287,
+            "name": "Bản Tà Lèng",
+            "pid": 23033,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tà Lèng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3943321",
+            "lng": "103.07602730000008"
+        }
+    ],
+    "log_id": "675816a56c51c517"
+}

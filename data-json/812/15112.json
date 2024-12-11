@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568440,
+            "name": "Đường Hoà Bình",
+            "pid": 15112,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.955306",
+            "lng": "108.22475680000002"
+        },
+        {
+            "id": 568437,
+            "name": "Đường Nguyễn Tấn Định",
+            "pid": 15112,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Tấn Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.955306",
+            "lng": "108.22475680000002"
+        },
+        {
+            "id": 985777,
+            "name": "Hồ Quang Cảnh",
+            "pid": 15112,
+            "type": 21,
+            "region": null,
+            "alias": "hồ quang cảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.963691251580789",
+            "lng": "108.25650988294939"
+        },
+        {
+            "id": 985832,
+            "name": "Khu Phố 1",
+            "pid": 15112,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.945412055139016,",
+            "lng": "108.18935827731235"
+        },
+        {
+            "id": 985834,
+            "name": "Khu Phố 2",
+            "pid": 15112,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.956786563940963, ",
+            "lng": "108.23159687290375"
+        },
+        {
+            "id": 747601,
+            "name": "Khu Phố 3",
+            "pid": 15112,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.955306",
+            "lng": "108.22475680000002"
+        }
+    ],
+    "log_id": "67581477e9e9477"
+}

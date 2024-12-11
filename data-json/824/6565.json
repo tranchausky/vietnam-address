@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599730,
+            "name": "An Ninh",
+            "pid": 6565,
+            "type": 17,
+            "region": null,
+            "alias": "An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.301474",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599724,
+            "name": "Bình An",
+            "pid": 6565,
+            "type": 17,
+            "region": null,
+            "alias": "Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.301474",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599733,
+            "name": "Hòa Bình",
+            "pid": 6565,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.301474",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599721,
+            "name": "Phú Quý",
+            "pid": 6565,
+            "type": 17,
+            "region": null,
+            "alias": "Phú Quý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.301474",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599727,
+            "name": "Thạnh Thới",
+            "pid": 6565,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.301474",
+            "lng": "106.57608570000002"
+        }
+    ],
+    "log_id": "675814f3d67d0476"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 409833,
+            "name": "Thôn Hưng Long Bắc",
+            "pid": 20955,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hưng long bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.443559",
+            "lng": "106.59965950000003"
+        },
+        {
+            "id": 409831,
+            "name": "Thôn Hưng Long Nam",
+            "pid": 20955,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hưng long nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.443559",
+            "lng": "106.59965950000003"
+        },
+        {
+            "id": 409829,
+            "name": "Thôn Hưng Thịnh",
+            "pid": 20955,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hưng thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.443559",
+            "lng": "106.59965950000003"
+        }
+    ],
+    "log_id": "675909f39d222171"
+}

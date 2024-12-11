@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 574179,
+            "name": "Thôn A Mễ",
+            "pid": 20629,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A Mễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6042317",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 574182,
+            "name": "Thôn Khang Ninh",
+            "pid": 20629,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khang Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6042317",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 574185,
+            "name": "Thôn Tiên Cầu",
+            "pid": 20629,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6042317",
+            "lng": "106.34343579999995"
+        }
+    ],
+    "log_id": "675909f39c880764"
+}

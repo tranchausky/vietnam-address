@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 524675,
+            "name": "Đường Hàng Tiện",
+            "pid": 5979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Tiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4290675",
+            "lng": "106.17206190000002"
+        },
+        {
+            "id": 524677,
+            "name": "Đường Hoàng Văn Thụ",
+            "pid": 5979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Văn Thụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4290675",
+            "lng": "106.17206190000002"
+        },
+        {
+            "id": 524679,
+            "name": "Đường Lý Thường Kiệt",
+            "pid": 5979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thường Kiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4290675",
+            "lng": "106.17206190000002"
+        },
+        {
+            "id": 524683,
+            "name": "Đường Quang Trung",
+            "pid": 5979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quang Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4290675",
+            "lng": "106.17206190000002"
+        },
+        {
+            "id": 524689,
+            "name": "Đường Trường Chinh",
+            "pid": 5979,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4290675",
+            "lng": "106.17206190000002"
+        },
+        {
+            "id": 972355,
+            "name": "Lẻ Hoàng Văn Thụ 329-473",
+            "pid": 5979,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ Hoàng Văn Thụ 329-473",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4290376781819",
+            "lng": "106.17359242796415"
+        },
+        {
+            "id": 524669,
+            "name": "Phường Bà Triệu",
+            "pid": 5979,
+            "type": 21,
+            "region": null,
+            "alias": "Phường Bà Triệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4290675",
+            "lng": "106.17206190000002"
+        }
+    ],
+    "log_id": "6758145d748b8199"
+}

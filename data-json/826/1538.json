@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 17999,
+            "name": "Thị Trấn Vân Canh",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Vân Canh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.6319695",
+            "lng": "108.99182539999993"
+        },
+        {
+            "id": 18030,
+            "name": "Xã Canh Hiển",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Canh Hiển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.674033",
+            "lng": "108.95022319999998"
+        },
+        {
+            "id": 18031,
+            "name": "Xã Canh Hiệp",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Canh Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.674033",
+            "lng": "108.95022319999998"
+        },
+        {
+            "id": 18032,
+            "name": "Xã Canh Hòa",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Canh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.5493786",
+            "lng": "108.98588199999995"
+        },
+        {
+            "id": 18033,
+            "name": "Xã Canh Liên",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Canh Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7018248",
+            "lng": "108.878915"
+        },
+        {
+            "id": 18034,
+            "name": "Xã Canh Thuận",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Canh Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.6040974",
+            "lng": "109.00098849999995"
+        },
+        {
+            "id": 18029,
+            "name": "Xã Canh Vinh",
+            "pid": 1538,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Canh Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7311079",
+            "lng": "109.06909760000008"
+        }
+    ],
+    "log_id": "6758150d7eb35184"
+}

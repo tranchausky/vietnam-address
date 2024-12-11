@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 55378,
+            "name": "Hoàng Long Resort",
+            "pid": 4839,
+            "type": 22,
+            "region": null,
+            "alias": "Hoàng Long Resort",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 507509,
+            "name": "Phú Đa 1",
+            "pid": 4839,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Đa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0178183",
+            "lng": "105.5859236"
+        },
+        {
+            "id": 563713,
+            "name": "Phú Đa 2",
+            "pid": 4839,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Đa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0151174",
+            "lng": "105.5828539"
+        },
+        {
+            "id": 563715,
+            "name": "Phú Lễ",
+            "pid": 4839,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0134592",
+            "lng": "105.5784762"
+        },
+        {
+            "id": 736045,
+            "name": "Xóm Mới",
+            "pid": 4839,
+            "type": 4,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0260257",
+            "lng": "105.57453259999998"
+        },
+        {
+            "id": 563717,
+            "name": "Yên Lạc 1",
+            "pid": 4839,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Lạc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0260256",
+            "lng": "105.5745326"
+        },
+        {
+            "id": 563719,
+            "name": "Yên Lạc 2",
+            "pid": 4839,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Lạc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0260256",
+            "lng": "105.5745326"
+        },
+        {
+            "id": 563721,
+            "name": "Yên Lạc 3",
+            "pid": 4839,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Lạc 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0260256",
+            "lng": "105.5745326"
+        }
+    ],
+    "log_id": "675811bc0b37c956"
+}

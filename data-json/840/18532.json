@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 436273,
+            "name": "Kcn Chơn Thành",
+            "pid": 18532,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Chơn Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3884467",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 757033,
+            "name": "Kcn Thành Tâm",
+            "pid": 18532,
+            "type": 5,
+            "region": null,
+            "alias": "KCN THÀNH TÂM",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.438829",
+            "lng": "106.61734150000008"
+        },
+        {
+            "id": 769066,
+            "name": "Khu Công Nghiệp Chơn Thành",
+            "pid": 18532,
+            "type": 5,
+            "region": null,
+            "alias": "Khu công nghiệp Chơn Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.438829",
+            "lng": "106.61734150000008"
+        },
+        {
+            "id": 436259,
+            "name": "Khu Phố 1",
+            "pid": 18532,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3884467",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 436261,
+            "name": "Khu Phố 2",
+            "pid": 18532,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3884467",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 436269,
+            "name": "Khu Phố Đồng Tâm",
+            "pid": 18532,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3884467",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 436271,
+            "name": "Khu Phố Mỹ Hưng",
+            "pid": 18532,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Mỹ Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3884467",
+            "lng": "106.63502500000004"
+        }
+    ],
+    "log_id": "675816377dfa3370"
+}

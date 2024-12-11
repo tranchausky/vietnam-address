@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1008977,
+            "name": "Chẵn 2-56 Đại Cồ Việt",
+            "pid": 93,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 2-56 Đại Cồ Việt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.009386842589933",
+            "lng": "105.85088690273594"
+        },
+        {
+            "id": 1008976,
+            "name": "Chẵn 58 - 500 Đại Cồ Việt",
+            "pid": 93,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 58 - 500 Đại Cồ Việt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.008582305709588",
+            "lng": " 105.84770691904245"
+        },
+        {
+            "id": 829852,
+            "name": "Đường Lê Thanh Nghị",
+            "pid": 93,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Thanh Nghị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0056183",
+            "lng": "105.84334749999994"
+        },
+        {
+            "id": 830134,
+            "name": "Đường Nguyễn Hiền",
+            "pid": 93,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0056183",
+            "lng": "105.84334749999994"
+        },
+        {
+            "id": 830527,
+            "name": "Đường Tạ Quang Bửu",
+            "pid": 93,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tạ Quang Bửu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0056183",
+            "lng": "105.84334749999994"
+        },
+        {
+            "id": 26257,
+            "name": "Ký Túc Xá Đại Học Bách Khoa",
+            "pid": 93,
+            "type": 10,
+            "region": null,
+            "alias": "Ký túc xá Đại học Bách Khoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0051641",
+            "lng": "105.84641090000002"
+        }
+    ],
+    "log_id": "675811bd1aeab1000"
+}

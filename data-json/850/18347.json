@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 423837,
+            "name": "Xóm Ba Bị",
+            "pid": 18347,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ba Bị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7617863",
+            "lng": "105.54084280000006"
+        },
+        {
+            "id": 423843,
+            "name": "Xóm Bái",
+            "pid": 18347,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7617863",
+            "lng": "105.54084280000006"
+        },
+        {
+            "id": 423839,
+            "name": "Xóm Chỉ Ngoài",
+            "pid": 18347,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chỉ Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7617863",
+            "lng": "105.54084280000006"
+        },
+        {
+            "id": 423841,
+            "name": "Xóm Chỉ Trong",
+            "pid": 18347,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chỉ Trong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7617863",
+            "lng": "105.54084280000006"
+        },
+        {
+            "id": 423845,
+            "name": "Xóm Suối Kho",
+            "pid": 18347,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm suối Kho",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7617863",
+            "lng": "105.54084280000006"
+        }
+    ],
+    "log_id": "675817213847944"
+}

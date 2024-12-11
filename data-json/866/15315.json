@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 992638,
+            "name": "Khu Nhà Eco Garden",
+            "pid": 15315,
+            "type": 21,
+            "region": null,
+            "alias": "Khu nhà Eco Garden",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.48265893597155",
+            "lng": "107.61214697202247"
+        },
+        {
+            "id": 1016184,
+            "name": "Thôn Công Lương",
+            "pid": 15315,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Công Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.49122070895343",
+            "lng": "107.62234453605187"
+        },
+        {
+            "id": 1016185,
+            "name": "Thôn Vân Dương",
+            "pid": 15315,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.474215328983973",
+            "lng": "107.6078940678889"
+        }
+    ],
+    "log_id": "67590b260603121"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 711808,
+            "name": "Đường Pasteur",
+            "pid": 15107,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Pasteur",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.920800",
+            "lng": "108.094708"
+        },
+        {
+            "id": 747610,
+            "name": "Đường Trần Cao Vân",
+            "pid": 15107,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Cao Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9216164",
+            "lng": "108.09395289999996"
+        },
+        {
+            "id": 711805,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 15107,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.920800",
+            "lng": "108.094708"
+        },
+        {
+            "id": 870316,
+            "name": "Đường Trần Phú",
+            "pid": 15107,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9216164",
+            "lng": "108.09395289999996"
+        },
+        {
+            "id": 711787,
+            "name": "Ngư Ông (126-226 , 235-387)",
+            "pid": 15107,
+            "type": 21,
+            "region": null,
+            "alias": "Ngư Ông (126-226 , 235-387)",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.920800",
+            "lng": "08.094708"
+        }
+    ],
+    "log_id": "67581477eb2f3977"
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598995,
+            "name": "Ấp Chợ 1",
+            "pid": 6568,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 598998,
+            "name": "Âp Chợ 2",
+            "pid": 6568,
+            "type": 17,
+            "region": null,
+            "alias": "Âp Chợ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 724726,
+            "name": "Khu Phố 3",
+            "pid": 6568,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 727933,
+            "name": "Khu Phố Lăng 3",
+            "pid": 6568,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố lăng 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 599001,
+            "name": "Kp1",
+            "pid": 6568,
+            "type": 17,
+            "region": null,
+            "alias": "KP1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 599004,
+            "name": "Kp2",
+            "pid": 6568,
+            "type": 10,
+            "region": null,
+            "alias": "KP2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 599007,
+            "name": "Kp3",
+            "pid": 6568,
+            "type": 17,
+            "region": null,
+            "alias": "KP3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 599010,
+            "name": "Kp4",
+            "pid": 6568,
+            "type": 17,
+            "region": null,
+            "alias": "KP4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 598989,
+            "name": "Kp Lăng 1",
+            "pid": 6568,
+            "type": 18,
+            "region": null,
+            "alias": "KP Lăng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        },
+        {
+            "id": 598992,
+            "name": "Kp Lăng 2",
+            "pid": 6568,
+            "type": 17,
+            "region": null,
+            "alias": "KP Lăng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4107215",
+            "lng": "106.7647475"
+        }
+    ],
+    "log_id": "675814f3ac18b835"
+}

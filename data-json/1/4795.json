@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119393,
+            "name": "Thôn Bạch Thạch",
+            "pid": 4795,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bạch Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.941078",
+            "lng": "105.5386447"
+        },
+        {
+            "id": 119401,
+            "name": "Thôn Hòa Phú",
+            "pid": 4795,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9473282",
+            "lng": "105.5650239"
+        },
+        {
+            "id": 119397,
+            "name": "Thôn Hòa Trúc",
+            "pid": 4795,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Trúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9526829",
+            "lng": "105.5754308"
+        },
+        {
+            "id": 119399,
+            "name": "Thôn Thắng Đầu",
+            "pid": 4795,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Đầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.941188",
+            "lng": "105.5423418"
+        },
+        {
+            "id": 55198,
+            "name": "Ubnd Xã Hòa Thạch",
+            "pid": 4795,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hòa Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 119409,
+            "name": "Xóm 4",
+            "pid": 4795,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9473282",
+            "lng": "105.5650239"
+        },
+        {
+            "id": 119411,
+            "name": "Xóm 5",
+            "pid": 4795,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9473282",
+            "lng": "105.5650239"
+        }
+    ],
+    "log_id": "675811bcd535555"
+}

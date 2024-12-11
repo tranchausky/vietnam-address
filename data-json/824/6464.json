@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 720241,
+            "name": "Ấp Thới Bình",
+            "pid": 6464,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thới Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.334315",
+            "lng": "106.328773"
+        },
+        {
+            "id": 720244,
+            "name": "Ấp Thới Hòa",
+            "pid": 6464,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thới Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.334315",
+            "lng": "106.328773"
+        },
+        {
+            "id": 720250,
+            "name": "Ấp Thới Thạnh",
+            "pid": 6464,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thới Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.334315",
+            "lng": "106.328773"
+        },
+        {
+            "id": 720247,
+            "name": "Ấp Thới Thuận",
+            "pid": 6464,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thới Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.334315",
+            "lng": "106.328773"
+        }
+    ],
+    "log_id": "675814f38d2c993"
+}

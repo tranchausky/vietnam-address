@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107003,
+            "name": "Thôn Phú Đồng",
+            "pid": 18241,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4839025",
+            "lng": "108.8313832"
+        },
+        {
+            "id": 106997,
+            "name": "Thôn Phú Giang",
+            "pid": 18241,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.462450",
+            "lng": "108.924228"
+        },
+        {
+            "id": 107009,
+            "name": "Thôn Phú Hải",
+            "pid": 18241,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4839025",
+            "lng": "108.8313832"
+        },
+        {
+            "id": 107000,
+            "name": "Thôn Phú Lợi",
+            "pid": 18241,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.4839025",
+            "lng": "108.8313832"
+        },
+        {
+            "id": 106994,
+            "name": "Thôn Phú Tiến",
+            "pid": 18241,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.447905",
+            "lng": "108.920370"
+        }
+    ],
+    "log_id": "67590b80b2d9e681"
+}

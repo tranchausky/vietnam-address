@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 940331,
+            "name": "Thôn Tấn Lộc",
+            "pid": 18820,
+            "type": 9,
+            "region": null,
+            "alias": "thôn Tấn Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6775727",
+            "lng": "109.05720859999997"
+        },
+        {
+            "id": 940334,
+            "name": "Thôn Vĩnh Tuy",
+            "pid": 18820,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vĩnh Tuy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6775727",
+            "lng": "109.05720859999997"
+        }
+    ],
+    "log_id": "675909a4c9488887"
+}

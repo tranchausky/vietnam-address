@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 804739,
+            "name": "Cầu Cừ",
+            "pid": 20021,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0448261",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 900298,
+            "name": "Thôn Yên Xá",
+            "pid": 20021,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Yên Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.0448261",
+            "lng": "105.83196529999998"
+        }
+    ],
+    "log_id": "67590a24381d3605"
+}

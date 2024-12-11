@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 997762,
+            "name": "Chẳn 02-180 Nguyễn Huệ",
+            "pid": 19824,
+            "type": 29,
+            "region": null,
+            "alias": "Chẳn 02-180 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.643309356431182",
+            "lng": "106.60722568430755"
+        },
+        {
+            "id": 436329,
+            "name": "Khu Phố Phú Hoà 2",
+            "pid": 19824,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Hoà 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.64494",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 436327,
+            "name": "Khu Phố Phú Lộc",
+            "pid": 19824,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.64494",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 436325,
+            "name": "Khu Phố Phú Nghĩa",
+            "pid": 19824,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.64494",
+            "lng": "106.61439440000004"
+        },
+        {
+            "id": 436323,
+            "name": "Khu Phố Phú Trọng",
+            "pid": 19824,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Trọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.64494",
+            "lng": "106.61439440000004"
+        }
+    ],
+    "log_id": "6758163781d64772"
+}

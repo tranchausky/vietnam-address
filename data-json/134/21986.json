@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 888208,
+            "name": "Đông Xào",
+            "pid": 21986,
+            "type": 16,
+            "region": null,
+            "alias": "đông Xào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.367383",
+            "lng": "106.3287199"
+        },
+        {
+            "id": 501561,
+            "name": "Thôn Cốc Slao",
+            "pid": 21986,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cốc slao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.367383",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 501559,
+            "name": "Thôn Hợp Thành",
+            "pid": 21986,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hợp thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.367383",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 501557,
+            "name": "Thôn Khuổi Sluon",
+            "pid": 21986,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi sluon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.367383",
+            "lng": "106.32871990000001"
+        },
+        {
+            "id": 501555,
+            "name": "Thôn Phiêng Sâu",
+            "pid": 21986,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phiêng sâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.367383",
+            "lng": "106.32871990000001"
+        }
+    ],
+    "log_id": "6758133f43e29247"
+}

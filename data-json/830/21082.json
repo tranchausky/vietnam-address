@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571398,
+            "name": "Lũng Lừ",
+            "pid": 21082,
+            "type": 16,
+            "region": null,
+            "alias": "lũng lừ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1166419",
+            "lng": "105.51226939999992"
+        },
+        {
+            "id": 571404,
+            "name": "Sàn Chải A",
+            "pid": 21082,
+            "type": 16,
+            "region": null,
+            "alias": "sàn chải A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1166419",
+            "lng": "105.51226939999992"
+        },
+        {
+            "id": 571395,
+            "name": "Xuối Do",
+            "pid": 21082,
+            "type": 16,
+            "region": null,
+            "alias": "xuối do",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1166419",
+            "lng": "105.51226939999992"
+        }
+    ],
+    "log_id": "6758156648c82978"
+}

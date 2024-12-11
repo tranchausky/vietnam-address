@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 698500,
+            "name": "Khu Chợ Đồng Văn",
+            "pid": 20919,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Chợ Đồng Văn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 552717,
+            "name": "Thôn Đồng Thắng",
+            "pid": 20919,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 552719,
+            "name": "Thôn Khe Mọi",
+            "pid": 20919,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Mọi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 552721,
+            "name": "Thôn Khe Tiền",
+            "pid": 20919,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Tiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 552723,
+            "name": "Thôn Phai Làu",
+            "pid": 20919,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phai Làu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 552725,
+            "name": "Thôn Sông Mooc A",
+            "pid": 20919,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sông Mooc A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 552727,
+            "name": "Thôn Sông Mooc B",
+            "pid": 20919,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sông Mooc B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        }
+    ],
+    "log_id": "675814c20d3bb665"
+}

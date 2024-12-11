@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830044,
+            "name": "Đường Ngõ Thịnh Quang",
+            "pid": 67,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngõ Thịnh Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0083647",
+            "lng": "105.81802190000008"
+        },
+        {
+            "id": 830605,
+            "name": "Đường Thái Thịnh",
+            "pid": 67,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0083647",
+            "lng": "105.81802190000008"
+        },
+        {
+            "id": 830608,
+            "name": "Đường Thái Thịnh 1",
+            "pid": 67,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Thịnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0083647",
+            "lng": "105.81802190000008"
+        },
+        {
+            "id": 830971,
+            "name": "Đường Vĩnh Hồ",
+            "pid": 67,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0083647",
+            "lng": "105.81802190000008"
+        },
+        {
+            "id": 831082,
+            "name": "Đường Yên Lãng",
+            "pid": 67,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Lãng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0083647",
+            "lng": "105.81802190000008"
+        },
+        {
+            "id": 49936,
+            "name": "Ngõ Thịnh Quang",
+            "pid": 67,
+            "type": 2,
+            "region": null,
+            "alias": "Ngõ Thịnh Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0062901",
+            "lng": "105.81933849999996"
+        }
+    ],
+    "log_id": "675811bbea00d445"
+}

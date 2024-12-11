@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118819,
+            "name": "Thôn Cẩm Cơ",
+            "pid": 4902,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Cơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8763181",
+            "lng": "105.9128924"
+        },
+        {
+            "id": 118817,
+            "name": "Thôn Cơ Giáo",
+            "pid": 4902,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Cơ Giáo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8773976",
+            "lng": "105.9083056"
+        },
+        {
+            "id": 118821,
+            "name": "Thôn Vân La",
+            "pid": 4902,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.865972",
+            "lng": "105.9005557"
+        },
+        {
+            "id": 118825,
+            "name": "Thôn Vân La Thượng",
+            "pid": 4902,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Vân La Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.865972",
+            "lng": "105.9005557"
+        },
+        {
+            "id": 118807,
+            "name": "Thôn Xâm Thị",
+            "pid": 4902,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xâm Thị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.883312",
+            "lng": "105.901765"
+        },
+        {
+            "id": 118811,
+            "name": "Thôn Xâm Xuyên",
+            "pid": 4902,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Xâm Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8773976",
+            "lng": "105.9083056"
+        },
+        {
+            "id": 55610,
+            "name": "Ubnd Xã Hồng Vân",
+            "pid": 4902,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hồng Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd6b4c6460"
+}

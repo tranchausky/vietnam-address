@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567579,
+            "name": "Thôn Bình Hòa",
+            "pid": 19609,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.25466",
+            "lng": "108.5581899"
+        },
+        {
+            "id": 567576,
+            "name": "Thôn Bình Minh",
+            "pid": 19609,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.25466",
+            "lng": "108.5581899"
+        },
+        {
+            "id": 567573,
+            "name": "Thôn Bình Thắng",
+            "pid": 19609,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.25466",
+            "lng": "108.5581899"
+        }
+    ],
+    "log_id": "6758147791415509"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 721324,
+            "name": "Đào Quang",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Đào Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.11544",
+            "lng": "106.52084489999993"
+        },
+        {
+            "id": 1013342,
+            "name": "Khuổi Hoi",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Hoi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.139729440719165",
+            "lng": "106.52297905723131"
+        },
+        {
+            "id": 796387,
+            "name": "Nạm Xù",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Nạm Xù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.11544",
+            "lng": "106.52084489999993"
+        },
+        {
+            "id": 1011632,
+            "name": "Nà Xòm",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Xòm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.13950295340451",
+            "lng": " 106.5065824738867"
+        },
+        {
+            "id": 721330,
+            "name": "Phiêng Luông",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Phiêng Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.11544",
+            "lng": "106.52084489999993"
+        },
+        {
+            "id": 1011529,
+            "name": "Tân Lập",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Tân LẬP",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.118459",
+            "lng": "106.520158"
+        },
+        {
+            "id": 796390,
+            "name": "Tân Lộc",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.11544",
+            "lng": "106.52084489999993"
+        },
+        {
+            "id": 849586,
+            "name": "Thôn Nà Pục",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nà Pục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.11544",
+            "lng": "106.52084489999993"
+        },
+        {
+            "id": 786268,
+            "name": "Thôn Tân Lập",
+            "pid": 21989,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.11544",
+            "lng": "106.52084489999993"
+        }
+    ],
+    "log_id": "6758133f4a928401"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 732115,
+            "name": "Ninh Hải",
+            "pid": 16714,
+            "type": 16,
+            "region": null,
+            "alias": "Ninh Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0395425",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 553515,
+            "name": "Thôn Nam Hải",
+            "pid": 16714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0395425",
+            "lng": "107.59785770000008"
+        },
+        {
+            "id": 1011620,
+            "name": "Thôn Quang Trung",
+            "pid": 16714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937804451461076",
+            "lng": "107.54253691936962"
+        },
+        {
+            "id": 553517,
+            "name": "Thôn Tiền Hải",
+            "pid": 16714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0395425",
+            "lng": "107.59785770000008"
+        }
+    ],
+    "log_id": "675814c22fee1531"
+}

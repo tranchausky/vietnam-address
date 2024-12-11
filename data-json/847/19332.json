@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450433,
+            "name": "Làng Lơ Bơ",
+            "pid": 19332,
+            "type": 16,
+            "region": null,
+            "alias": "làng Lơ Bơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8660518",
+            "lng": "108.4387322"
+        },
+        {
+            "id": 450429,
+            "name": "Làng Sơ Khiết",
+            "pid": 19332,
+            "type": 16,
+            "region": null,
+            "alias": "làng Sơ Khiết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8660518",
+            "lng": "108.4387322"
+        },
+        {
+            "id": 450431,
+            "name": "Làng Sơ Rơn",
+            "pid": 19332,
+            "type": 16,
+            "region": null,
+            "alias": "làng Sơ Rơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8660518",
+            "lng": "108.4387322"
+        },
+        {
+            "id": 450435,
+            "name": "Làng Vẻ",
+            "pid": 19332,
+            "type": 16,
+            "region": null,
+            "alias": "làng Vẻ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8660518",
+            "lng": "108.4387322"
+        }
+    ],
+    "log_id": "675816d36167b320"
+}

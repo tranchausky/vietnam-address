@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 721936,
+            "name": "Đoàn Hoàng Minh",
+            "pid": 7383,
+            "type": 21,
+            "region": null,
+            "alias": "Đoàn Hoàng Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2377325",
+            "lng": "106.36845519999996"
+        },
+        {
+            "id": 724081,
+            "name": "Khu Phố 2",
+            "pid": 7383,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2377325",
+            "lng": "106.36845519999996"
+        }
+    ],
+    "log_id": "6758160dbc1ad708"
+}

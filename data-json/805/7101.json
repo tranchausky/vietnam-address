@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514267,
+            "name": "An Nhân Đông",
+            "pid": 7101,
+            "type": 16,
+            "region": null,
+            "alias": "An Nhân Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.817652",
+            "lng": "106.40819829999998"
+        },
+        {
+            "id": 514269,
+            "name": "An Nhân Tây",
+            "pid": 7101,
+            "type": 16,
+            "region": null,
+            "alias": "An Nhân Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.817652",
+            "lng": "106.40819829999998"
+        },
+        {
+            "id": 913783,
+            "name": "Chợ Yên",
+            "pid": 7101,
+            "type": 16,
+            "region": null,
+            "alias": "Chợ Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.817652",
+            "lng": "106.40819829999998"
+        },
+        {
+            "id": 514271,
+            "name": "La Tỉnh Bắc",
+            "pid": 7101,
+            "type": 16,
+            "region": null,
+            "alias": "La Tỉnh Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.817652",
+            "lng": "106.40819829999998"
+        },
+        {
+            "id": 514273,
+            "name": "La Tỉnh Nam",
+            "pid": 7101,
+            "type": 16,
+            "region": null,
+            "alias": "La Tỉnh Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.817652",
+            "lng": "106.40819829999998"
+        }
+    ],
+    "log_id": "675813f20807b902"
+}

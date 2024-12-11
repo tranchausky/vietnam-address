@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 21231,
+            "name": "Phường Bắc Hồng",
+            "pid": 1683,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Bắc Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.541273",
+            "lng": "105.70871280000006"
+        },
+        {
+            "id": 21228,
+            "name": "Phường Đậu Liêu",
+            "pid": 1683,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đậu Liêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5251068",
+            "lng": "105.72924910000006"
+        },
+        {
+            "id": 21229,
+            "name": "Phường Đức Thuận",
+            "pid": 1683,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đức Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5406244",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 21226,
+            "name": "Phường Nam Hồng",
+            "pid": 1683,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nam Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5244601",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 21227,
+            "name": "Phường Trung Lương",
+            "pid": 1683,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trung Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5592386",
+            "lng": "105.67515600000002"
+        },
+        {
+            "id": 21230,
+            "name": "Xã Thuận Lộc",
+            "pid": 1683,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thuận Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5081434",
+            "lng": "105.69111210000005"
+        }
+    ],
+    "log_id": "675816e9909d7836"
+}

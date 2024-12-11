@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115051,
+            "name": "Ấp Biển Đông A",
+            "pid": 8031,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Biển Đông A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.259102041045876",
+            "lng": "105.82305912445473"
+        },
+        {
+            "id": 115055,
+            "name": "Ấp Biển Đông B",
+            "pid": 8031,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Biển Đông B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.250583505915221",
+            "lng": "105.79923085557341"
+        },
+        {
+            "id": 115067,
+            "name": "Ấp Biển Tây A",
+            "pid": 8031,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Biển Tây A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.250216315918506",
+            "lng": "105.79215980806"
+        },
+        {
+            "id": 115073,
+            "name": "Ấp Biển Tây B",
+            "pid": 8031,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Biển Tây B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.244851040290314",
+            "lng": "105.77722135031777"
+        },
+        {
+            "id": 564211,
+            "name": "Ấp Giồng Giữa A",
+            "pid": 8031,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Giữa A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.258338",
+            "lng": "105.794969"
+        },
+        {
+            "id": 564214,
+            "name": "Ấp Giồng Giữa B",
+            "pid": 8031,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Giữa B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.258338",
+            "lng": "105.794969"
+        }
+    ],
+    "log_id": "675815e17792d952"
+}

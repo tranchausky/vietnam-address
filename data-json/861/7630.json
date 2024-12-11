@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434817,
+            "name": "Ấp Phụng An",
+            "pid": 7630,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phụng An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.756940",
+            "lng": "106.025588"
+        },
+        {
+            "id": 434819,
+            "name": "Ấp Phụng Sơn",
+            "pid": 7630,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phụng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.758882",
+            "lng": "106.040035"
+        },
+        {
+            "id": 434813,
+            "name": "Ấp Phụng Tường 1",
+            "pid": 7630,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phụng Tường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.776957",
+            "lng": "106.040525"
+        },
+        {
+            "id": 434815,
+            "name": "Ấp Phụng Tường 2",
+            "pid": 7630,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phụng Tường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.758801",
+            "lng": "106.055252"
+        }
+    ],
+    "log_id": "675909c16f343145"
+}

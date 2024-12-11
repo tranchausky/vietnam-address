@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109927,
+            "name": "Ấp 1A",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.575581",
+            "lng": "11.594793"
+        },
+        {
+            "id": 109945,
+            "name": "Ấp 1B",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.584218",
+            "lng": "11.604367"
+        },
+        {
+            "id": 770626,
+            "name": "Áp 2",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Áp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.882806",
+            "lng": "107.317092"
+        },
+        {
+            "id": 110013,
+            "name": "Ấp Chà Lon",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chà Lon",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.554810",
+            "lng": "11.582097"
+        },
+        {
+            "id": 110037,
+            "name": "Ấp Đồng Dầu",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Dầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.536614",
+            "lng": "11.594425"
+        },
+        {
+            "id": 989924,
+            "name": "Lộc Khê",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Lộc Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5896589",
+            "lng": "106.5820907"
+        },
+        {
+            "id": 989925,
+            "name": "Sóc Ruộng",
+            "pid": 19182,
+            "type": 17,
+            "region": null,
+            "alias": "Sóc Ruộng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.587673858977034",
+            "lng": "106.55528772938375"
+        }
+    ],
+    "log_id": "67581637947d4954"
+}

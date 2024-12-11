@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 420037,
+            "name": "Thôn Đỉnh Tân",
+            "pid": 17179,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đỉnh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.904972",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 420041,
+            "name": "Thôn Ngọc Tĩnh",
+            "pid": 17179,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Tĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.904972",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 420039,
+            "name": "Thôn Thuận Tôn",
+            "pid": 17179,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Tôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.904972",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 420035,
+            "name": "Tra Thôn",
+            "pid": 17179,
+            "type": 21,
+            "region": null,
+            "alias": "Tra Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.904972",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 420033,
+            "name": "Vĩnh Điệnthôn",
+            "pid": 17179,
+            "type": 21,
+            "region": null,
+            "alias": "Vĩnh ĐiệnThôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.904972",
+            "lng": "105.6823124"
+        }
+    ],
+    "log_id": "67590a23ab086257"
+}

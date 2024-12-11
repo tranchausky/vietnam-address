@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115263,
+            "name": "Ấp Mỹ An",
+            "pid": 15800,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.467232",
+            "lng": "105.507635"
+        },
+        {
+            "id": 115257,
+            "name": "Ấp Mỹ Lợi",
+            "pid": 15800,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.467707",
+            "lng": "105.508407"
+        },
+        {
+            "id": 115267,
+            "name": "Ấp Mỹ Long",
+            "pid": 15800,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.468044",
+            "lng": "105.507345"
+        },
+        {
+            "id": 115275,
+            "name": "Ấp Mỹ Phú",
+            "pid": 15800,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.467907",
+            "lng": "105.506315"
+        },
+        {
+            "id": 115271,
+            "name": "Ấp Mỹ Thạnh",
+            "pid": 15800,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.468329",
+            "lng": "105.506991"
+        },
+        {
+            "id": 115251,
+            "name": "Ấp Mỹ Trung",
+            "pid": 15800,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.467865",
+            "lng": "105.508600"
+        }
+    ],
+    "log_id": "6758159dd162a395"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111151,
+            "name": "Ấp Bình Thành",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.173716",
+            "lng": "105.198190"
+        },
+        {
+            "id": 111165,
+            "name": "Ấp Chí Thành",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chí Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.102885",
+            "lng": "105.182372"
+        },
+        {
+            "id": 112371,
+            "name": "Ấp Tân Lộc",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.160994",
+            "lng": "105.187416"
+        },
+        {
+            "id": 112403,
+            "name": "Ấp Tân Lợi",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.160994",
+            "lng": "105.187416"
+        },
+        {
+            "id": 111179,
+            "name": "Ấp Tân Phú",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.160994",
+            "lng": "105.187416"
+        },
+        {
+            "id": 112451,
+            "name": "Ấp Tân Tiến",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.155223",
+            "lng": "105.184538"
+        },
+        {
+            "id": 1004373,
+            "name": "Ngân Hàng Kiên Long Xã Tân Thành",
+            "pid": 18002,
+            "type": 17,
+            "region": null,
+            "alias": "Ngân Hàng Kiên Long xã Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.155223",
+            "lng": "105.184538"
+        },
+        {
+            "id": 1004376,
+            "name": "Trường Thpt Cây Dương",
+            "pid": 18002,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Cây Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.155223",
+            "lng": "105.184538"
+        }
+    ],
+    "log_id": "6758173625f49721"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109315,
+            "name": "Ấp Mương Khai",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.641619",
+            "lng": "105.846067"
+        },
+        {
+            "id": 109501,
+            "name": "Ấp Mỹ An",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.606253",
+            "lng": "105.755899"
+        },
+        {
+            "id": 109523,
+            "name": "Ấp Mỹ Đức",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.654497",
+            "lng": "105.850564"
+        },
+        {
+            "id": 109487,
+            "name": "Ấp Tân Mỹ",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.656843",
+            "lng": "105.828957"
+        },
+        {
+            "id": 109425,
+            "name": "Ấp Trà Coi A",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Coi A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.625871",
+            "lng": "105.846984"
+        },
+        {
+            "id": 109443,
+            "name": "Ấp Trà Coi B",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Coi B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.612662",
+            "lng": "105.844552"
+        },
+        {
+            "id": 109469,
+            "name": "Ấp Xẻo Gừa",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Gừa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.612136",
+            "lng": "105.868841"
+        },
+        {
+            "id": 109461,
+            "name": "Ấp Xóm Lớn",
+            "pid": 7601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.629843",
+            "lng": "105.862582"
+        }
+    ],
+    "log_id": "675909c17ce9d638"
+}

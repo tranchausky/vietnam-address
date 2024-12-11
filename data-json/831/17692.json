@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 485829,
+            "name": "Ko Lak",
+            "pid": 17692,
+            "type": 16,
+            "region": null,
+            "alias": "Ko Lak",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01063",
+            "lng": "108.8967409"
+        },
+        {
+            "id": 748807,
+            "name": "Liên Bình",
+            "pid": 17692,
+            "type": 16,
+            "region": null,
+            "alias": "Liên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01063",
+            "lng": "108.8967409"
+        },
+        {
+            "id": 485827,
+            "name": "Liên Bình",
+            "pid": 17692,
+            "type": 16,
+            "region": null,
+            "alias": "Liên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01063",
+            "lng": "108.8967409"
+        },
+        {
+            "id": 485823,
+            "name": "Thôn Liên Hòa",
+            "pid": 17692,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Liên Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01063",
+            "lng": "108.8967409"
+        },
+        {
+            "id": 485825,
+            "name": "Thôn Xóm Cỏ",
+            "pid": 17692,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Xóm Cỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01063",
+            "lng": "108.8967409"
+        }
+    ],
+    "log_id": "67581585d6f1d677"
+}

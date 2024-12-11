@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 972440,
+            "name": "2Ca 135 Sĩ Quan Lục Quân - Cổ Đông",
+            "pid": 4978,
+            "type": 10,
+            "region": null,
+            "alias": "2CA 135 Sĩ Quan Lục Quân - Cổ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.036874343235443",
+            "lng": "105.52754650067108"
+        },
+        {
+            "id": 807940,
+            "name": "Ngõ 28",
+            "pid": 4978,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 28",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.051789061994864, ",
+            "lng": "105.5018420245801"
+        },
+        {
+            "id": 807925,
+            "name": "Ngõ Bắc - Xã Cổ Đông",
+            "pid": 4978,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Bắc - Xã Cổ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.07509345409189, ",
+            "lng": "105.50716744816445"
+        },
+        {
+            "id": 53024,
+            "name": "Trường Sĩ Quan Lục Quân 1 - Hn",
+            "pid": 4978,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Sĩ quan Lục quân 1 - HN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.042172364830247, ",
+            "lng": " 105.50988664152678"
+        },
+        {
+            "id": 807895,
+            "name": "Xóm 1 - Xã Cổ Đông",
+            "pid": 4978,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1 - Xã Cổ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0455992",
+            "lng": "105.50640870000008"
+        }
+    ],
+    "log_id": "675811bd3e0cb860"
+}

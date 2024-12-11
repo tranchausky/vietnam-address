@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 71488,
+            "name": "Minh Khai La Phù",
+            "pid": 4688,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Khai la phù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0844649",
+            "lng": "21.0844649"
+        },
+        {
+            "id": 71520,
+            "name": "Quyết Tiến",
+            "pid": 4688,
+            "type": 10,
+            "region": null,
+            "alias": "Quyết Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9774162",
+            "lng": "105.72917230000007"
+        },
+        {
+            "id": 662446,
+            "name": "Thcs La Phù",
+            "pid": 4688,
+            "type": 9,
+            "region": null,
+            "alias": "THCS La phù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 980170,
+            "name": "Thôn Đoàn Kết - La Phù - Hoài Đức - Hà Nội",
+            "pid": 4688,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đoàn Kết - La Phù - Hoài Đức - Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.978752",
+            "lng": "105.732427"
+        },
+        {
+            "id": 980169,
+            "name": "Thôn Thống Nhất",
+            "pid": 4688,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.978975",
+            "lng": "105.733209"
+        },
+        {
+            "id": 54710,
+            "name": "Ubnd Xã La Phù",
+            "pid": 4688,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã La Phù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 21261,
+            "name": "Xóm Thắng Lợi",
+            "pid": 4688,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thắng Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9833329",
+            "lng": "105.73333300000002"
+        }
+    ],
+    "log_id": "675811bba8d16734"
+}

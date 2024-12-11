@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 720100,
+            "name": "Phiêng Xa",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Phiêng Xa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.713258063371487",
+            "lng": "105.02523365481953"
+        },
+        {
+            "id": 579012,
+            "name": "Xóm Bâng",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bâng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.725202068727977",
+            "lng": "105.05336582631813"
+        },
+        {
+            "id": 578994,
+            "name": "Xóm Bò Báu",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bò Báu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.714971",
+            "lng": "104.982898"
+        },
+        {
+            "id": 578997,
+            "name": "Xóm Bò Liêm",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bò Liêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.714971",
+            "lng": "104.982898"
+        },
+        {
+            "id": 579009,
+            "name": "Xóm Đồng Bảng",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Bảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.71544917015735",
+            "lng": "105.05968121291541"
+        },
+        {
+            "id": 579000,
+            "name": "Xóm Tam Hòa",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tam Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.714971",
+            "lng": "104.982898"
+        },
+        {
+            "id": 579006,
+            "name": "Xóm Tiểu Khu",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tiểu Khu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.719794100629542",
+            "lng": "105.05687613207697"
+        },
+        {
+            "id": 579003,
+            "name": "Xóm Vắt",
+            "pid": 78209,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Vắt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.71452849500778",
+            "lng": "105.05362826975878"
+        }
+    ],
+    "log_id": "6758172140b8d884"
+}

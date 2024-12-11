@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425715,
+            "name": "Thôn 1 Bồng Giang",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Bồng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 425725,
+            "name": "Thôn 1 Văn Giang",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Văn Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 425717,
+            "name": "Thôn 2 Bồng Giang",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Bồng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 425727,
+            "name": "Thôn 2 Văn Giang",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Văn Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 425719,
+            "name": "Thôn 3 Bồng Giang",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 Bồng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 425721,
+            "name": "Thôn Cẩm Trang",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 425723,
+            "name": "Thôn Hợp Phát",
+            "pid": 23654,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hợp Phát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4495497",
+            "lng": "105.52985250000006"
+        }
+    ],
+    "log_id": "675816e9daf70909"
+}

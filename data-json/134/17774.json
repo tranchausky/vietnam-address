@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846568,
+            "name": "Khòn Có",
+            "pid": 17774,
+            "type": 16,
+            "region": null,
+            "alias": "Khòn Có",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7777999",
+            "lng": "106.90561130000003"
+        },
+        {
+            "id": 772858,
+            "name": "Pò Lạn",
+            "pid": 17774,
+            "type": 16,
+            "region": null,
+            "alias": "Pò Lạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7777999",
+            "lng": "106.90561130000003"
+        }
+    ],
+    "log_id": "6758133f31eb9527"
+}

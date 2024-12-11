@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 13667,
+            "name": "Phường Đoàn Kết",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đoàn Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3975437",
+            "lng": "103.4566145"
+        },
+        {
+            "id": 13677,
+            "name": "Phường Đông Phong",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4418542",
+            "lng": "103.46490530000005"
+        },
+        {
+            "id": 13672,
+            "name": "Phường Quyết Thắng",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4026064",
+            "lng": "103.4367274"
+        },
+        {
+            "id": 13680,
+            "name": "Phường Quyết Tiến",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Quyết Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3988152",
+            "lng": "103.44728269999996"
+        },
+        {
+            "id": 13676,
+            "name": "Phường Tân Phong",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tân phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3879997",
+            "lng": "103.47140869999998"
+        },
+        {
+            "id": 14509,
+            "name": "Xã San Thàng",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Xã San Thàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.389907",
+            "lng": "103.50501510000004"
+        },
+        {
+            "id": 17476,
+            "name": "Xã Sùng Phài",
+            "pid": 1763,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sùng Phài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4281657",
+            "lng": "103.44539689999999"
+        }
+    ],
+    "log_id": "6758175e403e5395"
+}

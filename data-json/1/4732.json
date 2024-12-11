@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120363,
+            "name": "Hạ",
+            "pid": 4732,
+            "type": 16,
+            "region": null,
+            "alias": "Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7179437",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 120361,
+            "name": "Thượng",
+            "pid": 4732,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7279001",
+            "lng": "105.7571502"
+        },
+        {
+            "id": 54850,
+            "name": "Ubnd Xã Phùng Xá - Mỹ Đức",
+            "pid": 4732,
+            "type": 22,
+            "region": null,
+            "alias": "UBND Xã Phùng Xá - Mỹ Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.721848",
+            "lng": "105.76172999999994"
+        }
+    ],
+    "log_id": "675811bc462f8387"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 489319,
+            "name": "Khu Nhà Máy Xử Lý Rác Thải Thành Công",
+            "pid": 4983,
+            "type": 16,
+            "region": null,
+            "alias": "Khu nhà máy xử lý rác thải thành công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.12788731583437,",
+            "lng": "105.42495886355017"
+        },
+        {
+            "id": 83537,
+            "name": "Nhà Máy Z175 (Bộ Quốc Phòng)",
+            "pid": 4983,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà máy Z175 (Bộ Quốc Phòng)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.142567",
+            "lng": "105.452969"
+        },
+        {
+            "id": 83540,
+            "name": "Trường Quân Sự Btl Thủ Đô",
+            "pid": 4983,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Quân sự BTL Thủ đô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.140153",
+            "lng": "105.456907"
+        },
+        {
+            "id": 810604,
+            "name": "Xuân Khanh",
+            "pid": 4983,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Khanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1333747",
+            "lng": "105.43609630000003"
+        }
+    ],
+    "log_id": "675811bd3eac7190"
+}

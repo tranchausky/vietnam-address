@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 793018,
+            "name": "Nga Tu Thai Son",
+            "pid": 16858,
+            "type": 18,
+            "region": null,
+            "alias": "Nga Tu Thai Son",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3664788",
+            "lng": "105.94355010000004"
+        },
+        {
+            "id": 793030,
+            "name": "Trung Sơn",
+            "pid": 16858,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3664788",
+            "lng": "105.94355010000004"
+        }
+    ],
+    "log_id": "675813d918372780"
+}

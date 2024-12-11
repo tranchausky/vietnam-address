@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 892573,
+            "name": "Ấp 3",
+            "pid": 7527,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999996"
+        },
+        {
+            "id": 892570,
+            "name": "Ấp 8",
+            "pid": 7527,
+            "type": 21,
+            "region": null,
+            "alias": "ấp 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999996"
+        },
+        {
+            "id": 442593,
+            "name": "Ấp An Bình",
+            "pid": 7527,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 442589,
+            "name": "Ấp An Ngãi A",
+            "pid": 7527,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Ngãi a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 442591,
+            "name": "Ấp An Ngãi B",
+            "pid": 7527,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Ngãi b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 442595,
+            "name": "Ấp An Thạnh",
+            "pid": 7527,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 892567,
+            "name": "Thạnh An",
+            "pid": 7527,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9463822",
+            "lng": "106.54072989999996"
+        }
+    ],
+    "log_id": "6758160dd8ae06"
+}

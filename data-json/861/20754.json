@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 103145,
+            "name": "Ấp Chợ",
+            "pid": 20754,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.556639",
+            "lng": "106.148889"
+        },
+        {
+            "id": 108695,
+            "name": "Ấp Lâm Dồ",
+            "pid": 20754,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lâm Dồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.536083",
+            "lng": "106.151583"
+        },
+        {
+            "id": 103211,
+            "name": "Ấp Ngan Rô 1",
+            "pid": 20754,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngan Rô 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.544639",
+            "lng": "106.176444"
+        },
+        {
+            "id": 103187,
+            "name": "Ấp Ngan Rô 2",
+            "pid": 20754,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngan Rô 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.544778",
+            "lng": "106.151528"
+        },
+        {
+            "id": 103160,
+            "name": "Ấp Thanh Liêm",
+            "pid": 20754,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.566917",
+            "lng": "106.169917"
+        },
+        {
+            "id": 103172,
+            "name": "Ấp Tú Điềm",
+            "pid": 20754,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tú Điềm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.547778",
+            "lng": "106.119972"
+        }
+    ],
+    "log_id": "675909c1686d9550"
+}

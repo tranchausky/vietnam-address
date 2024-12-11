@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451699,
+            "name": "Thôn 1",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 451701,
+            "name": "Thôn 2",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 667540,
+            "name": "Thôn 3Xa Nam Ka",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3xa Nam Ka",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 806254,
+            "name": "Thôn 4",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 667546,
+            "name": "Thôn 5Xa Nam Ka",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5xa Nam Ka",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 901912,
+            "name": "Thôn 6",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 451709,
+            "name": "Thôn Quảng Phú",
+            "pid": 19637,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn quảng phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3148393",
+            "lng": "108.05986600000006"
+        }
+    ],
+    "log_id": "6758167896026289"
+}

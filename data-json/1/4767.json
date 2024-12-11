@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 838498,
+            "name": "Đội 2",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.127617",
+            "lng": "105.615194"
+        },
+        {
+            "id": 838495,
+            "name": "Đội 3",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.120765",
+            "lng": "105.610837"
+        },
+        {
+            "id": 838513,
+            "name": "Đội 6",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1294299155559",
+            "lng": "105.6176213881738"
+        },
+        {
+            "id": 838519,
+            "name": "Đội 7",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.132481729542196",
+            "lng": "105.61898364951945"
+        },
+        {
+            "id": 838522,
+            "name": "Đội 8",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.13303644660086",
+            "lng": "105.61924567721589"
+        },
+        {
+            "id": 838525,
+            "name": "Đội 9",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.134247687848287",
+            "lng": "105.61983761043787"
+        },
+        {
+            "id": 838528,
+            "name": "Đội 10",
+            "pid": 4767,
+            "type": 18,
+            "region": null,
+            "alias": "Đội 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.135372523185627",
+            "lng": "105.62052069236724"
+        },
+        {
+            "id": 55070,
+            "name": "Ubnd Xã Hát Môn",
+            "pid": 4767,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hát Môn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc47bed139"
+}

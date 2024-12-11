@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 937817,
+            "name": "Bản Dỗn",
+            "pid": 22913,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Dỗn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 582024,
+            "name": "Khối Bắc Sơn",
+            "pid": 22913,
+            "type": 18,
+            "region": null,
+            "alias": "Khối Bắc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 582033,
+            "name": "Khối Đông Sơn",
+            "pid": 22913,
+            "type": 18,
+            "region": null,
+            "alias": "Khối Đông Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 582030,
+            "name": "Khối Nam Sơn",
+            "pid": 22913,
+            "type": 18,
+            "region": null,
+            "alias": "Khối Nam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 582036,
+            "name": "Khối Tây Sơn",
+            "pid": 22913,
+            "type": 18,
+            "region": null,
+            "alias": "Khối Tây Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 582027,
+            "name": "Khối Trung Sơn",
+            "pid": 22913,
+            "type": 18,
+            "region": null,
+            "alias": "Khối Trung Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 529007,
+            "name": "Trung Tâm Y Tế Huyện Quế Phong",
+            "pid": 22913,
+            "type": 6,
+            "region": null,
+            "alias": "Trung Tâm Y Tế Huyện Quế Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        },
+        {
+            "id": 921055,
+            "name": "Xóm Khối Cỏ Nong",
+            "pid": 22913,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Khối Cỏ Nong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6102805",
+            "lng": "104.9228243"
+        }
+    ],
+    "log_id": "67581208adc5f813"
+}

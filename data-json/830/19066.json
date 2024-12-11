@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 570681,
+            "name": "Thôn Chìa Súng",
+            "pid": 19066,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chìa súng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.119033",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 570678,
+            "name": "Tủng Pỉnh",
+            "pid": 19066,
+            "type": 16,
+            "region": null,
+            "alias": "Tủng Pỉnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.119033",
+            "lng": "105.25458879999996"
+        }
+    ],
+    "log_id": "675815663befa534"
+}

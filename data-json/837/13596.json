@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 739903,
+            "name": "Can Vũ",
+            "pid": 13596,
+            "type": 10,
+            "region": null,
+            "alias": "Can Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1440932",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 834607,
+            "name": "Lựa",
+            "pid": 13596,
+            "type": 16,
+            "region": null,
+            "alias": "Lựa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1440932",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 762643,
+            "name": "Thôn Guột",
+            "pid": 13596,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Guột",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1440932",
+            "lng": "106.17573790000006"
+        },
+        {
+            "id": 739900,
+            "name": "Thôn Lợ",
+            "pid": 13596,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1440932",
+            "lng": "106.17573790000006"
+        }
+    ],
+    "log_id": "675815f8cc5b0496"
+}

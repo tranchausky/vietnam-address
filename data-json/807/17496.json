@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397431,
+            "name": "Châu Giang",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "châu giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 725338,
+            "name": "Khu Công Nghiệp Kiện Khê",
+            "pid": 17496,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Công Nghiệp Kiện Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.884813"
+        },
+        {
+            "id": 822589,
+            "name": "Nam Sơn",
+            "pid": 17496,
+            "type": 10,
+            "region": null,
+            "alias": "Nam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.884813"
+        },
+        {
+            "id": 397429,
+            "name": "Tân Lâm",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "Tân lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 397425,
+            "name": "Tân Sơn",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "tân sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 397427,
+            "name": "Thôn Bình Minh",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bình minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 397433,
+            "name": "Thôn Kiện Khê",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn kiện Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 397421,
+            "name": "Thôn La Mát",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn la mát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 397423,
+            "name": "Thôn Ninh Phú",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn ninh phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 397419,
+            "name": "Thôn Tháp",
+            "pid": 17496,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5031254",
+            "lng": "105.88481300000001"
+        }
+    ],
+    "log_id": "67581428019bd838"
+}

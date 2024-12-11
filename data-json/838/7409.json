@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753496,
+            "name": "Ấp 2",
+            "pid": 7409,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.167858",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 441451,
+            "name": "Ấp Bình Phú",
+            "pid": 7409,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.167858",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 441447,
+            "name": "Ấp Bình Thạnh 2",
+            "pid": 7409,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Thạnh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.167858",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 441445,
+            "name": "Ấp Bình Thạnh 3",
+            "pid": 7409,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Thạnh 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.167858",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 441449,
+            "name": "Ấp Bình Thạnh 3",
+            "pid": 7409,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Thạnh 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.167858",
+            "lng": "106.64681480000002"
+        }
+    ],
+    "log_id": "6758160dba1b6166"
+}

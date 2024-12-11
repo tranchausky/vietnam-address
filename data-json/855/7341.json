@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452559,
+            "name": "Ấp 1",
+            "pid": 7341,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7465277",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 452561,
+            "name": "Ấp 2",
+            "pid": 7341,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7465277",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 452563,
+            "name": "Ấp 3",
+            "pid": 7341,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7465277",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 871552,
+            "name": "Ấp Cả Nổ",
+            "pid": 7341,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cả Nổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.746527699999998",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 916579,
+            "name": "Mường Khai",
+            "pid": 7341,
+            "type": 17,
+            "region": null,
+            "alias": "Mường Khai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.746527699999998",
+            "lng": "106.07577489999994"
+        }
+    ],
+    "log_id": "6758178528693542"
+}

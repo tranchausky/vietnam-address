@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 565591,
+            "name": "Bản Pa Pang 1",
+            "pid": 15597,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pa Pang 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.456648   ",
+            "lng": "103.248610"
+        },
+        {
+            "id": 565597,
+            "name": "Bản Pa Pang 2",
+            "pid": 15597,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pa Pang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.453577  ",
+            "lng": "103.250155"
+        },
+        {
+            "id": 565585,
+            "name": "Bản Seo Lèng",
+            "pid": 15597,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Seo Lèng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.451688 ",
+            "lng": "103.265122"
+        },
+        {
+            "id": 565588,
+            "name": "Bản Tà Ghênh",
+            "pid": 15597,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tà Ghênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4521334 ",
+            "lng": "103.247591"
+        }
+    ],
+    "log_id": "6758175e76c86795"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 99221,
+            "name": "Thôn 1",
+            "pid": 16299,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.428980",
+            "lng": "107.791552"
+        },
+        {
+            "id": 99011,
+            "name": "Thôn 2",
+            "pid": 16299,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.430708",
+            "lng": "107.793182"
+        },
+        {
+            "id": 98423,
+            "name": "Thôn 3",
+            "pid": 16299,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.435101",
+            "lng": "107.794200"
+        },
+        {
+            "id": 98933,
+            "name": "Thôn 4",
+            "pid": 16299,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.439105",
+            "lng": "107.802366"
+        },
+        {
+            "id": 99077,
+            "name": "Thôn 5",
+            "pid": 16299,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.444786",
+            "lng": "107.801937"
+        },
+        {
+            "id": 98924,
+            "name": "Thôn 6",
+            "pid": 16299,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.446514",
+            "lng": "107.797903"
+        }
+    ],
+    "log_id": "67590b2622a60265"
+}

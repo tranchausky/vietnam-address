@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113451,
+            "name": "Thôn An Định",
+            "pid": 16448,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.266582",
+            "lng": "109.046033"
+        },
+        {
+            "id": 113393,
+            "name": "Thôn Phò Thiện",
+            "pid": 16448,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phò Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.266582",
+            "lng": "109.046033"
+        },
+        {
+            "id": 113441,
+            "name": "Thôn Phước Tuy",
+            "pid": 16448,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Tuy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.266582",
+            "lng": "109.046033"
+        }
+    ],
+    "log_id": "67581585b4685995"
+}

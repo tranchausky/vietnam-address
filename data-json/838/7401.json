@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 441401,
+            "name": "Ấp Lộc Hòa",
+            "pid": 7401,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2170666",
+            "lng": "106.58492560000002"
+        },
+        {
+            "id": 441397,
+            "name": "Ấp Lộc Sơn",
+            "pid": 7401,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2170666",
+            "lng": "106.58492560000002"
+        },
+        {
+            "id": 441399,
+            "name": "Ấp Lộc Thành",
+            "pid": 7401,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2170666",
+            "lng": "106.58492560000002"
+        },
+        {
+            "id": 441395,
+            "name": "Ấp Lộc Thới",
+            "pid": 7401,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Lộc Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2170666",
+            "lng": "106.58492560000002"
+        },
+        {
+            "id": 874744,
+            "name": "Lộc Sơn",
+            "pid": 7401,
+            "type": 17,
+            "region": null,
+            "alias": "Lộc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1784619",
+            "lng": "106.70282500000008"
+        }
+    ],
+    "log_id": "6758160db61ec269"
+}

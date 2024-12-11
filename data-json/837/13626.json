@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476361,
+            "name": "Rền",
+            "pid": 13626,
+            "type": 16,
+            "region": null,
+            "alias": "Rền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1178311",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 476357,
+            "name": "Thượng",
+            "pid": 13626,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1178311",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 476359,
+            "name": "Trung",
+            "pid": 13626,
+            "type": 16,
+            "region": null,
+            "alias": "Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1178311",
+            "lng": "106.02875119999999"
+        }
+    ],
+    "log_id": "675815f8cc441807"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 894418,
+            "name": "Khánh Nhơn",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Nhơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6094844",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 894421,
+            "name": "Khánh Nhơn 1",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Nhơn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6094844",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 894424,
+            "name": "Khánh Nhơn 2",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Nhơn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6094844",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 602946,
+            "name": "Thôn Khánh Phước",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6094844",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 1000164,
+            "name": "Thôn Khánh Tân Nhơn",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Tân Nhơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.627004452981543",
+            "lng": "109.08396399112081"
+        },
+        {
+            "id": 602937,
+            "name": "Thôn Mỹ Tường 1",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Tường 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6094844",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 602940,
+            "name": "Thôn Mỹ Tường 2",
+            "pid": 16418,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Tường 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6094844",
+            "lng": "109.10476629999994"
+        }
+    ],
+    "log_id": "675817b978ccd702"
+}

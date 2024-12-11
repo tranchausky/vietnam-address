@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410881,
+            "name": "Bái",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Bái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6106444",
+            "lng": "106.17132670000001"
+        },
+        {
+            "id": 410879,
+            "name": "Chiêm",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Chiêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6106444",
+            "lng": "106.17132670000001"
+        },
+        {
+            "id": 985158,
+            "name": "Chợ Cầu Khuốc",
+            "pid": 20973,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Cầu Khuốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6102285",
+            "lng": "106.1693118"
+        },
+        {
+            "id": 410873,
+            "name": "Khuốc",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Khuốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6106444",
+            "lng": "106.17132670000001"
+        },
+        {
+            "id": 410871,
+            "name": "Nứa",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Nứa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6106444",
+            "lng": "106.17132670000001"
+        },
+        {
+            "id": 410877,
+            "name": "Thôn Nại",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6106444",
+            "lng": "106.17132670000001"
+        },
+        {
+            "id": 410875,
+            "name": "Thôn Ngừ",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngừ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6106444",
+            "lng": "106.17132670000001"
+        },
+        {
+            "id": 983828,
+            "name": "Thôn Nứa",
+            "pid": 20973,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nứa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6062896",
+            "lng": "106.1655342"
+        }
+    ],
+    "log_id": "675909f3c36be766"
+}

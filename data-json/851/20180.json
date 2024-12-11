@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 106601,
+            "name": "Ấp Bãi Bổn",
+            "pid": 20180,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bãi Bổn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309288",
+            "lng": "104.078378"
+        },
+        {
+            "id": 106574,
+            "name": "Ấp Bãi Vòng",
+            "pid": 20180,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bãi Vòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.149132",
+            "lng": "104.037630"
+        },
+        {
+            "id": 106589,
+            "name": "Ấp Cây Sao",
+            "pid": 20180,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cây Sao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.272019",
+            "lng": "104.073298"
+        },
+        {
+            "id": 106565,
+            "name": "Ấp Rạch Hàm",
+            "pid": 20180,
+            "type": 20,
+            "region": null,
+            "alias": "ấp Rạch Hàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.180562",
+            "lng": "104.047549"
+        }
+    ],
+    "log_id": "675817364111f860"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 427873,
+            "name": "Thôn Bắc Phố",
+            "pid": 15434,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc Phố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3218567",
+            "lng": "105.9751288"
+        },
+        {
+            "id": 740827,
+            "name": "Thôn Bắc Thai",
+            "pid": 15434,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bắc Thai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3212584",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 427875,
+            "name": "Thôn Bình Dương",
+            "pid": 15434,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Bình Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3254024",
+            "lng": "106.477017"
+        },
+        {
+            "id": 427871,
+            "name": "Thôn Liên Mỹ",
+            "pid": 15434,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Liên Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3350984",
+            "lng": "105.98027"
+        },
+        {
+            "id": 826729,
+            "name": "Thôn Liên Phố",
+            "pid": 15434,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Liên Phố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3212584",
+            "lng": "105.99055290000001"
+        },
+        {
+            "id": 427881,
+            "name": "Xóm Hội Tiến",
+            "pid": 15434,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hội Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.02128",
+            "lng": "105.8440608"
+        },
+        {
+            "id": 427879,
+            "name": "Xóm Liên Quý",
+            "pid": 15434,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Liên Quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9979769",
+            "lng": "105.7944523"
+        },
+        {
+            "id": 427877,
+            "name": "Xóm Thái Yên",
+            "pid": 15434,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thái Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.5216672",
+            "lng": "105.6676471"
+        }
+    ],
+    "log_id": "675816e9d342428"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117845,
+            "name": "Mỹ Giang",
+            "pid": 4782,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0988074",
+            "lng": "105.5269218"
+        },
+        {
+            "id": 117839,
+            "name": "Thuần Mỹ",
+            "pid": 4782,
+            "type": 16,
+            "region": null,
+            "alias": "Thuần Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1569012",
+            "lng": "105.3072646"
+        },
+        {
+            "id": 117843,
+            "name": "Trạch Lôi",
+            "pid": 4782,
+            "type": 16,
+            "region": null,
+            "alias": "Trạch Lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0970383",
+            "lng": "105.5361594"
+        },
+        {
+            "id": 117837,
+            "name": "Tuy Lộc",
+            "pid": 4782,
+            "type": 16,
+            "region": null,
+            "alias": "Tuy Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9437097",
+            "lng": "105.8936224"
+        },
+        {
+            "id": 55082,
+            "name": "Ubnd Xã Trạch Mỹ Lộc",
+            "pid": 4782,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Trạch Mỹ Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 117847,
+            "name": "Vân Lôi",
+            "pid": 4782,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0988074",
+            "lng": "105.5269218"
+        }
+    ],
+    "log_id": "675811bd4759d451"
+}

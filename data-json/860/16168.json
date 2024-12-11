@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631815,
+            "name": "An Cường",
+            "pid": 16168,
+            "type": 16,
+            "region": null,
+            "alias": "An Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3155534",
+            "lng": "108.86108990000002"
+        },
+        {
+            "id": 631818,
+            "name": "Phước Thiện",
+            "pid": 16168,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3155534",
+            "lng": "108.86108990000002"
+        },
+        {
+            "id": 631821,
+            "name": "Thanh Thủy",
+            "pid": 16168,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3155534",
+            "lng": "108.86108990000002"
+        },
+        {
+            "id": 631824,
+            "name": "Vạn Tường",
+            "pid": 16168,
+            "type": 16,
+            "region": null,
+            "alias": "Vạn Tường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3155534",
+            "lng": "108.86108990000002"
+        }
+    ],
+    "log_id": "675909a4dbb05215"
+}

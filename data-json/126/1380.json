@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 751078,
+            "name": "Cụm 450 Điện Biên Phủ",
+            "pid": 1380,
+            "type": 5,
+            "region": null,
+            "alias": "Cụm 450 Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.800962",
+            "lng": "106.713972"
+        },
+        {
+            "id": 672349,
+            "name": "Đường Điện Biên Phủ",
+            "pid": 1380,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8012666",
+            "lng": "106.7127908"
+        },
+        {
+            "id": 683065,
+            "name": "Đường Ngô Tất Tố",
+            "pid": 1380,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Tất Tố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7925798",
+            "lng": "106.712145"
+        },
+        {
+            "id": 680842,
+            "name": "Đường Nguyễn Văn Lạc",
+            "pid": 1380,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7940651",
+            "lng": "106.7095315"
+        },
+        {
+            "id": 681628,
+            "name": "Đường Xô Viết Nghệ Tĩnh",
+            "pid": 1380,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xô Viết Nghệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7981379",
+            "lng": "106.710916"
+        },
+        {
+            "id": 912925,
+            "name": "Hẻm 92 Xô Viết Nghệ Tĩnh",
+            "pid": 1380,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 92 Xô Viết Nghệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.795691",
+            "lng": "106.710323"
+        },
+        {
+            "id": 925111,
+            "name": "Hẻm 158 Xô Viết Nghệ Tĩnh",
+            "pid": 1380,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 158 Xô Viết Nghệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7967017",
+            "lng": "106.712123"
+        },
+        {
+            "id": 958002,
+            "name": "Hẻm 294 Xô Viết Nghệ Tĩnh",
+            "pid": 1380,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 294 Xô Viết Nghệ Tĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8000584",
+            "lng": "106.7129891"
+        },
+        {
+            "id": 957916,
+            "name": "Hẻm 300 Xô Viết Nghệ Tĩnh",
+            "pid": 1380,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 300 Xô VIết Nghệ Tĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8005859",
+            "lng": "106.711487"
+        }
+    ],
+    "log_id": "6758129b03380985"
+}

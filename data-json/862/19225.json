@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603858,
+            "name": "Ấp Long An",
+            "pid": 19225,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.102573",
+            "lng": "106.116867"
+        },
+        {
+            "id": 603855,
+            "name": "Ấp Long Hòa",
+            "pid": 19225,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.102573",
+            "lng": "106.116867"
+        },
+        {
+            "id": 603852,
+            "name": "Ấp Long Hưng",
+            "pid": 19225,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.102573",
+            "lng": "106.116867"
+        },
+        {
+            "id": 603849,
+            "name": "Ấp Long Phi",
+            "pid": 19225,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Phi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.102573",
+            "lng": "106.116867"
+        },
+        {
+            "id": 603846,
+            "name": "Ấp Ngã Tắc",
+            "pid": 19225,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngã Tắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.102573",
+            "lng": "106.116867"
+        }
+    ],
+    "log_id": "675909dcd2795565"
+}

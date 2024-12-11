@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 896596,
+            "name": "390 Cách Mạng Tháng Tám",
+            "pid": 1266,
+            "type": 8,
+            "region": null,
+            "alias": "390 Cách Mạng Tháng Tám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7841025",
+            "lng": "106.672446"
+        },
+        {
+            "id": 678871,
+            "name": "Đường Cách Mạng Tháng Tám",
+            "pid": 1266,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cách Mạng Tháng Tám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7845444",
+            "lng": "106.6690452"
+        },
+        {
+            "id": 670957,
+            "name": "Đường Hoàng Sa",
+            "pid": 1266,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7870643",
+            "lng": "106.6727522"
+        },
+        {
+            "id": 677167,
+            "name": "Đường Trần Văn Đang",
+            "pid": 1266,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Văn Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7836558",
+            "lng": "106.6744636"
+        },
+        {
+            "id": 978430,
+            "name": "Hẻm 113 Trần Văn Đang",
+            "pid": 1266,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 113 Trần Văn Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7836541",
+            "lng": "106.67476"
+        },
+        {
+            "id": 978432,
+            "name": "Hẻm 159 Trần Văn Đang",
+            "pid": 1266,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 159 Trần Văn Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7851868",
+            "lng": "106.6735786"
+        },
+        {
+            "id": 978431,
+            "name": "Hẻm 195 Trần Văn Đang",
+            "pid": 1266,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 195 Trần Văn Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7850202",
+            "lng": "106.6723346"
+        },
+        {
+            "id": 979145,
+            "name": "Hẻm 239 Trần Văn Đang",
+            "pid": 1266,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 239 Trần Văn Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7853869",
+            "lng": "106.6711807"
+        }
+    ],
+    "log_id": "6758129ae0e14848"
+}

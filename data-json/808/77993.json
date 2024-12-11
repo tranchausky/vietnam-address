@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 606756,
+            "name": "Tổ 1",
+            "pid": 77993,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.363637",
+            "lng": "103.763207"
+        },
+        {
+            "id": 606759,
+            "name": "Tổ 2",
+            "pid": 77993,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.363637",
+            "lng": "103.763207"
+        },
+        {
+            "id": 606762,
+            "name": "Tổ 3",
+            "pid": 77993,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.363637",
+            "lng": "103.763207"
+        },
+        {
+            "id": 929071,
+            "name": "Tổ11",
+            "pid": 77993,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.363637",
+            "lng": "103.763207"
+        }
+    ],
+    "log_id": "67581445162fd253"
+}

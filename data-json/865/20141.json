@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 596127,
+            "name": "Thôn Bộ Đầu",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bộ Đầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 977006,
+            "name": "Thôn Điện Quang",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Điện Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 596133,
+            "name": "Thôn Lam Hạ",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lam Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 596130,
+            "name": "Thôn Lam Thượng",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lam Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 596136,
+            "name": "Thôn Nhuệ Thôn",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhuệ Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000003"
+        },
+        {
+            "id": 734119,
+            "name": "Thôn Tinh Anh",
+            "pid": 20141,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Tinh Anh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000004"
+        },
+        {
+            "id": 977780,
+            "name": "Thôn Tinh Hoa",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tinh Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.902929076920493",
+            "lng": "105.85815911183626"
+        },
+        {
+            "id": 596139,
+            "name": "Thôn Yên Thường",
+            "pid": 20141,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Thường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8922189",
+            "lng": "105.85545130000003"
+        }
+    ],
+    "log_id": "67590a23071b7588"
+}

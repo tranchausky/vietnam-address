@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 993053,
+            "name": "Linh Quy Đông",
+            "pid": 4668,
+            "type": 16,
+            "region": null,
+            "alias": "LINH QUY ĐÔNG",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024224446475607",
+            "lng": "105.98242521931093"
+        },
+        {
+            "id": 993054,
+            "name": "Thôn Giao Tất B",
+            "pid": 4668,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN GIAO TẤT B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.02274215078692",
+            "lng": "105.99270339990781"
+        },
+        {
+            "id": 993057,
+            "name": "Thôn Kim Sơn",
+            "pid": 4668,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN KIM SƠN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.026998386040237",
+            "lng": "105.98262911317597"
+        }
+    ],
+    "log_id": "675811bb9be11301"
+}

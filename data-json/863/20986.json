@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410869,
+            "name": "Gia Lập",
+            "pid": 20986,
+            "type": 16,
+            "region": null,
+            "alias": "Gia lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6173888",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 410863,
+            "name": "Mỹ Đình",
+            "pid": 20986,
+            "type": 16,
+            "region": null,
+            "alias": "mỹ đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6173888",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 410861,
+            "name": "Thôn Ngọc Liễn",
+            "pid": 20986,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc liễn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6173888",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 410867,
+            "name": "Trần Xá",
+            "pid": 20986,
+            "type": 16,
+            "region": null,
+            "alias": "trần xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6173888",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 410865,
+            "name": "Truy Đình",
+            "pid": 20986,
+            "type": 16,
+            "region": null,
+            "alias": "truy đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6173888",
+            "lng": "106.2669247"
+        }
+    ],
+    "log_id": "675909f3ad264415"
+}

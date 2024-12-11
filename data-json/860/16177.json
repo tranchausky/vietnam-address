@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 899569,
+            "name": "Phú Long",
+            "pid": 16177,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.3094925",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 631863,
+            "name": "Phú Long Ii",
+            "pid": 16177,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Long II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3094925",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 631860,
+            "name": "Thôn Phú Long I",
+            "pid": 16177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Long I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3094925",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 631866,
+            "name": "Thôn Phước Thọ I",
+            "pid": 16177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Thọ I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3094925",
+            "lng": "108.80167879999999"
+        },
+        {
+            "id": 631869,
+            "name": "Thôn Phước Thọ Ii",
+            "pid": 16177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Thọ II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3094925",
+            "lng": "108.80167879999999"
+        }
+    ],
+    "log_id": "675909a4dde2f472"
+}

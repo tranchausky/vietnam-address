@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 721381,
+            "name": "Thôn Liên Công",
+            "pid": 78245,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Liên Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.384583",
+            "lng": "105.914968"
+        },
+        {
+            "id": 969588,
+            "name": "Tiến Giang",
+            "pid": 78245,
+            "type": 16,
+            "region": null,
+            "alias": "Tiến Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3291329",
+            "lng": "105.89984000000004"
+        }
+    ],
+    "log_id": "675816e9d68ee61"
+}

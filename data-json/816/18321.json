@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629274,
+            "name": "Thôn Bắc Cả",
+            "pid": 18321,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc Cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879208",
+            "lng": "106.13615030000005"
+        },
+        {
+            "id": 629268,
+            "name": "Thôn Đa Lộc",
+            "pid": 18321,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879208",
+            "lng": "106.13615030000005"
+        },
+        {
+            "id": 629271,
+            "name": "Thôn Trạo Thôn",
+            "pid": 18321,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạo Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879208",
+            "lng": "106.13615030000005"
+        }
+    ],
+    "log_id": "67581491319ae64"
+}

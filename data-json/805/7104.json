@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398165,
+            "name": "Bình Hàn",
+            "pid": 7104,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Hàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7843337",
+            "lng": "106.4521082"
+        },
+        {
+            "id": 398163,
+            "name": "Đôn Giáo",
+            "pid": 7104,
+            "type": 16,
+            "region": null,
+            "alias": "Đôn Giáo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7843337",
+            "lng": "106.4521082"
+        },
+        {
+            "id": 398167,
+            "name": "Hàm Hi",
+            "pid": 7104,
+            "type": 16,
+            "region": null,
+            "alias": "Hàm Hi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7843337",
+            "lng": "106.4521082"
+        },
+        {
+            "id": 398159,
+            "name": "Tất Hạ",
+            "pid": 7104,
+            "type": 16,
+            "region": null,
+            "alias": "Tất Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7843337",
+            "lng": "106.4521082"
+        },
+        {
+            "id": 398161,
+            "name": "Tất Thượng",
+            "pid": 7104,
+            "type": 16,
+            "region": null,
+            "alias": "Tất Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7843337",
+            "lng": "106.4521082"
+        }
+    ],
+    "log_id": "675813f2067b9557"
+}

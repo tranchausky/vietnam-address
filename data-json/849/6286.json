@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109205,
+            "name": "Ấp Bình Hòa",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.682660",
+            "lng": "105.700274"
+        },
+        {
+            "id": 109201,
+            "name": "Ấp Phương An A",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương An A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.682660",
+            "lng": "105.700274"
+        },
+        {
+            "id": 109271,
+            "name": "Ấp Phương An B",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương An B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.682660",
+            "lng": "105.700274"
+        },
+        {
+            "id": 109177,
+            "name": "Ấp Phương Bình",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.682660",
+            "lng": "105.700274"
+        },
+        {
+            "id": 109217,
+            "name": "Ấp Phương Hòa",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.682660",
+            "lng": "105.700274"
+        },
+        {
+            "id": 109261,
+            "name": "Ấp Phương Thạnh",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phương Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.682660",
+            "lng": "105.700274"
+        },
+        {
+            "id": 703567,
+            "name": "Phương An",
+            "pid": 6286,
+            "type": 17,
+            "region": null,
+            "alias": "Phương An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8223627",
+            "lng": "105.7644596"
+        }
+    ],
+    "log_id": "675816fe3e02b603"
+}

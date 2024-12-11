@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900433,
+            "name": "Minh Thành 1",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Thành 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594366,
+            "name": "Thôn Hồng Kỳ",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hồng kỳ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594369,
+            "name": "Thôn Hồng Phong",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hồng phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594384,
+            "name": "Thôn Hồng Sơn",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hồng sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594372,
+            "name": "Thôn Minh Thành 1",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn minh thành 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594375,
+            "name": "Thôn Minh Thành 2",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn minh thành 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594378,
+            "name": "Thôn Quyết Thắng 1",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quyết thắng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594381,
+            "name": "Thôn Quyết Thắng 2",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn quyết thắng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 594387,
+            "name": "Thôn Xuân Tân",
+            "pid": 22800,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        },
+        {
+            "id": 702007,
+            "name": "Trường Mầm Non",
+            "pid": 22800,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mầm Non",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8936512",
+            "lng": "105.38630899999998"
+        }
+    ],
+    "log_id": "67590a24076a2912"
+}

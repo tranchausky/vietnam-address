@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107807,
+            "name": "Ấp Nguyễn Hưởng",
+            "pid": 24115,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nguyễn Hưởng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8535801",
+            "lng": "105.3089813"
+        },
+        {
+            "id": 107819,
+            "name": "Ấp Nguyễn Vũ",
+            "pid": 24115,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nguyễn Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.833277",
+            "lng": "105.273378"
+        },
+        {
+            "id": 107843,
+            "name": "Ấp Vĩnh Lộc",
+            "pid": 24115,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.8683399",
+            "lng": "105.3312529"
+        },
+        {
+            "id": 107855,
+            "name": "Ấp Vĩnh Lợi",
+            "pid": 24115,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.847729",
+            "lng": "105.322983"
+        },
+        {
+            "id": 107834,
+            "name": "Ấp Vĩnh Thanh",
+            "pid": 24115,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8765437",
+            "lng": "105.3068089"
+        }
+    ],
+    "log_id": "67581736517c6159"
+}

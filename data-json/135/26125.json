@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981068,
+            "name": "Chợ Cột Đèn",
+            "pid": 26125,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Cột Đèn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981065,
+            "name": "Dư Hàng",
+            "pid": 26125,
+            "type": 21,
+            "region": null,
+            "alias": "Dư Hàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981067,
+            "name": "Hồ Sen",
+            "pid": 26125,
+            "type": 10,
+            "region": null,
+            "alias": "Hồ Sen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581366297a1441"
+}

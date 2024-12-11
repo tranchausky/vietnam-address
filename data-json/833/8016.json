@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111881,
+            "name": "Ấp Vĩnh An",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.861452",
+            "lng": "105.183390"
+        },
+        {
+            "id": 111909,
+            "name": "Ấp Vĩnh Bường",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Bường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.860103",
+            "lng": "105.184742"
+        },
+        {
+            "id": 111969,
+            "name": "Ấp Vĩnh Khánh",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.859151",
+            "lng": "105.185943"
+        },
+        {
+            "id": 111935,
+            "name": "Ấp Vĩnh Lạc",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858912",
+            "lng": "105.185557"
+        },
+        {
+            "id": 111091,
+            "name": "Ấp Vĩnh Thạnh A",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.859937127651593,",
+            "lng": " 105.18327849635472"
+        },
+        {
+            "id": 111799,
+            "name": "Ấp Vĩnh Thạnh B",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858312900086737,",
+            "lng": " 105.18429862354182"
+        },
+        {
+            "id": 111827,
+            "name": "Ấp Vĩnh Thạnh C",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.843868524544384",
+            "lng": ", 105.18718511628396"
+        },
+        {
+            "id": 111855,
+            "name": "Ấp Vĩnh Thạnh D",
+            "pid": 8016,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh D",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.84677060648804,",
+            "lng": " 105.17788179077692"
+        },
+        {
+            "id": 986085,
+            "name": "Quán Ăn Gia Đình",
+            "pid": 8016,
+            "type": 8,
+            "region": null,
+            "alias": "Quán ăn gia đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.85920025554004",
+            "lng": "105.18306510763865"
+        },
+        {
+            "id": 986020,
+            "name": "Salon Thiên Lý",
+            "pid": 8016,
+            "type": 10,
+            "region": null,
+            "alias": "Salon Thiên Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.85273338303026",
+            "lng": "105.17866639408038"
+        },
+        {
+            "id": 986019,
+            "name": "Shop Hà Thị Xuân",
+            "pid": 8016,
+            "type": 10,
+            "region": null,
+            "alias": "Shop Hà Thị Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.864852501187226, ",
+            "lng": "105.18356069658331"
+        },
+        {
+            "id": 986021,
+            "name": "Siêu Thị Bách Hóa Xanh Xã Vĩnh Hòa",
+            "pid": 8016,
+            "type": 10,
+            "region": null,
+            "alias": "Siêu thị Bách hóa XANH Xã Vĩnh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.859393197076814",
+            "lng": "105.18443478946456"
+        },
+        {
+            "id": 985556,
+            "name": "Trường Thcs Vĩnh Hòa",
+            "pid": 8016,
+            "type": 10,
+            "region": null,
+            "alias": "Trường THCS Vĩnh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.851410152657353",
+            "lng": "105.18489578541231"
+        }
+    ],
+    "log_id": "6758159dc7731704"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91718,
+            "name": "Ấp Thuận An",
+            "pid": 7073,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2140336",
+            "lng": "106.2766085"
+        },
+        {
+            "id": 91721,
+            "name": "Ấp Thuận Hòa",
+            "pid": 7073,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2397185",
+            "lng": "106.2513554"
+        },
+        {
+            "id": 91715,
+            "name": "Ấp Thuận Trường",
+            "pid": 7073,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.5416577",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 768055,
+            "name": "Khu C2",
+            "pid": 7073,
+            "type": 17,
+            "region": null,
+            "alias": "Khu C2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9800021",
+            "lng": "107.08347340000002"
+        },
+        {
+            "id": 866293,
+            "name": "Khu Ngã 3 Mõ Lếch",
+            "pid": 7073,
+            "type": 18,
+            "region": null,
+            "alias": "Khu Ngã 3 Mõ Lếch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9800021",
+            "lng": "107.08347340000002"
+        },
+        {
+            "id": 768052,
+            "name": "Sông Thao",
+            "pid": 7073,
+            "type": 17,
+            "region": null,
+            "alias": "Sông Thao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9800021",
+            "lng": "107.08347340000002"
+        }
+    ],
+    "log_id": "675814dd43ba7613"
+}

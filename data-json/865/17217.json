@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 560513,
+            "name": "Thôn Châu Cương",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu Cương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 560515,
+            "name": "Thôn Đồng Khang",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Khang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 560517,
+            "name": "Thôn Đồng Thành",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 560511,
+            "name": "Thôn Liên Châu",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 840091,
+            "name": "Thôn Tâm Tiến",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tâm Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 560519,
+            "name": "Thôn Tân Thắng 1",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thắng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        },
+        {
+            "id": 560521,
+            "name": "Thôn Tân Thắng 2",
+            "pid": 17217,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thắng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8075423",
+            "lng": "105.5738179"
+        }
+    ],
+    "log_id": "67590a2342e10761"
+}

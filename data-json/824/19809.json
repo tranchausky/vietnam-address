@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599913,
+            "name": "Ấp Tân Thạnh",
+            "pid": 19809,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599907,
+            "name": "Tân An",
+            "pid": 19809,
+            "type": 17,
+            "region": null,
+            "alias": "Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599919,
+            "name": "Tân Ninh",
+            "pid": 19809,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599916,
+            "name": "Tân Thành",
+            "pid": 19809,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599910,
+            "name": "Tân Xuân",
+            "pid": 19809,
+            "type": 17,
+            "region": null,
+            "alias": "Tân xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        }
+    ],
+    "log_id": "675814f40059d536"
+}

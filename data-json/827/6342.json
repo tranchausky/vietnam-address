@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 549993,
+            "name": "Mai Khê",
+            "pid": 6342,
+            "type": 10,
+            "region": null,
+            "alias": "Mai Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 734998,
+            "name": "Mai Yên",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "Mai Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000004"
+        },
+        {
+            "id": 549995,
+            "name": "Miêu Cốc",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "Miêu Cốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549997,
+            "name": "Phần Xa",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "Phần Xa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425223,
+            "name": "Thôn 1",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425225,
+            "name": "Thôn 2",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425227,
+            "name": "Thôn 3",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550005,
+            "name": "Trung Giang",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550007,
+            "name": "Yên Dương",
+            "pid": 6342,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "6758153353528725"
+}

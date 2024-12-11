@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 677221,
+            "name": "Đường Lê Tự Tài",
+            "pid": 1417,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Tự Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8049502",
+            "lng": "106.6799499"
+        },
+        {
+            "id": 682984,
+            "name": "Đường Nguyễn Đình Chiểu",
+            "pid": 1417,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8038786",
+            "lng": "106.6811704"
+        },
+        {
+            "id": 679873,
+            "name": "Đường Nguyễn Kiệm",
+            "pid": 1417,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Kiệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8075821",
+            "lng": "106.678453"
+        },
+        {
+            "id": 671941,
+            "name": "Đường Phùng Văn Cung",
+            "pid": 1417,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phùng Văn Cung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.805331",
+            "lng": "106.6818575"
+        },
+        {
+            "id": 671425,
+            "name": "Đường Thích Quảng Đức",
+            "pid": 1417,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thích Quảng Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8061279",
+            "lng": "106.6813154"
+        }
+    ],
+    "log_id": "6758129ab6d11339"
+}

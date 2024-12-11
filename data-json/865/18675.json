@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 560209,
+            "name": "Phú Đông",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 560211,
+            "name": "Phú Tây",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 560213,
+            "name": "Phú Thịnh",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 560217,
+            "name": "Thôn Đại Quang",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đại Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 560219,
+            "name": "Thôn Đại Thắng",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đại Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 560221,
+            "name": "Thôn Hồng Phong",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 560215,
+            "name": "Thôn Tây Sơn",
+            "pid": 18675,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tây Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.500993",
+            "lng": "105.79967690000001"
+        }
+    ],
+    "log_id": "67590a23b0379482"
+}

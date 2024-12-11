@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 466603,
+            "name": "Thôn Agrih",
+            "pid": 23054,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn agrih",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.8362559",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 466597,
+            "name": "Thôn A Rầng",
+            "pid": 23054,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn a rầng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8362559",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 466599,
+            "name": "Thôn A Ring",
+            "pid": 23054,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A ring",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.8362559",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 466601,
+            "name": "Thôn Ganil",
+            "pid": 23054,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn ganil",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.8362559",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 466605,
+            "name": "Thôn Knooh 1",
+            "pid": 23054,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Knooh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.8362559",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 466607,
+            "name": "Thôn Tơ Râm",
+            "pid": 23054,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tơ râm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.8362559",
+            "lng": "107.30210690000001"
+        }
+    ],
+    "log_id": "675817e1cbfbf832"
+}

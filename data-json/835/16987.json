@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 583644,
+            "name": "Bản Chang",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "bản chang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 583650,
+            "name": "Bản Chang",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 583647,
+            "name": "Bản Giác",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Giác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 583653,
+            "name": "Bản Vọt",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Vọt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 583659,
+            "name": "Mỏ Khang",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "Mỏ Khang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 583662,
+            "name": "Nà Tôm",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Tôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 583656,
+            "name": "Tân Khang",
+            "pid": 16987,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Khang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0633397",
+            "lng": "105.84077219999995"
+        }
+    ],
+    "log_id": "675815c92255a342"
+}

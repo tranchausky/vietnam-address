@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449211,
+            "name": "Khóm 1",
+            "pid": 35856,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.637117",
+            "lng": "106.48955899999999"
+        },
+        {
+            "id": 449213,
+            "name": "Khóm 2",
+            "pid": 35856,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.637117",
+            "lng": "106.48955899999999"
+        },
+        {
+            "id": 449215,
+            "name": "Khóm 30\/4",
+            "pid": 35856,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm 30\/4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.637117",
+            "lng": "106.48955899999999"
+        },
+        {
+            "id": 449217,
+            "name": "Khóm Phước Bình",
+            "pid": 35856,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.637117",
+            "lng": "106.48955899999999"
+        }
+    ],
+    "log_id": "67590b43a30f2436"
+}

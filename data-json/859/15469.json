@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 895987,
+            "name": "Lạc Long Quân",
+            "pid": 15469,
+            "type": 21,
+            "region": null,
+            "alias": "Lạc Long Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.886783800000002",
+            "lng": "108.38082680000002"
+        },
+        {
+            "id": 895993,
+            "name": "Phan Tình",
+            "pid": 15469,
+            "type": 21,
+            "region": null,
+            "alias": "Phan Tình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.886783800000002",
+            "lng": "108.38082680000002"
+        },
+        {
+            "id": 895999,
+            "name": "Phù Đổng Thiên Vương",
+            "pid": 15469,
+            "type": 21,
+            "region": null,
+            "alias": "Phù đổng Thiên Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.886783800000002",
+            "lng": "108.38082680000002"
+        },
+        {
+            "id": 895990,
+            "name": "Trương Minh Hùng",
+            "pid": 15469,
+            "type": 21,
+            "region": null,
+            "alias": "Trương Minh Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.886783800000002",
+            "lng": "108.38082680000002"
+        }
+    ],
+    "log_id": "675817e1b1ae8962"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 734416,
+            "name": "Tân Trào",
+            "pid": 21008,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Trào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3142249",
+            "lng": "106.62323590000004"
+        },
+        {
+            "id": 574320,
+            "name": "Thôn Lộc Ninh",
+            "pid": 21008,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3142249",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 574323,
+            "name": "Thôn Lộc Trung",
+            "pid": 21008,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3142249",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 409939,
+            "name": "Thôn Tân Trào",
+            "pid": 21008,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân trào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3142249",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 900694,
+            "name": "Xóm 9 Thôn Lộc Ninh",
+            "pid": 21008,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 9 thôn Lộc Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3337761",
+            "lng": "106.54072989999996"
+        }
+    ],
+    "log_id": "675909f39e703654"
+}

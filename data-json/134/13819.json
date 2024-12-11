@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 801865,
+            "name": "Đường Hùng Vương",
+            "pid": 13819,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 893125,
+            "name": "Đường Lê Đại Hành",
+            "pid": 13819,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đại Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999996"
+        },
+        {
+            "id": 801868,
+            "name": "Đường Nguyễn Phong Sắc",
+            "pid": 13819,
+            "type": 21,
+            "region": null,
+            "alias": "đường Nguyễn Phong Sắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 501123,
+            "name": "Thôn Co Măn",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Co Măn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 501117,
+            "name": "Thôn Khòn Khuyên",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Khòn Khuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 501131,
+            "name": "Thôn Phai Duốc",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phai Duốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 501129,
+            "name": "Thôn Pò Đứa",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Pò Đứa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 501127,
+            "name": "Thôn Pò Mỏ",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Pò Mỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 501121,
+            "name": "Thôn Rọ Phải",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Rọ Phải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8287355",
+            "lng": "106.76741449999997"
+        },
+        {
+            "id": 102137,
+            "name": "Thôn Trung Cấp",
+            "pid": 13819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trung cấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.834182423781954",
+            "lng": "106.78947873648103"
+        }
+    ],
+    "log_id": "6758133ee5d34222"
+}

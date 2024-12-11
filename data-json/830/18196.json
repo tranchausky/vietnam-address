@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 570783,
+            "name": "Quang Tiến",
+            "pid": 18196,
+            "type": 16,
+            "region": null,
+            "alias": "Quang Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.741261",
+            "lng": "104.67918929999996"
+        },
+        {
+            "id": 570786,
+            "name": "Thôn Pố Lũng",
+            "pid": 18196,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Pố Lũng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.741261",
+            "lng": "104.67918929999996"
+        },
+        {
+            "id": 105968,
+            "name": "Tổ 1",
+            "pid": 18196,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.742454",
+            "lng": "104.6730244"
+        },
+        {
+            "id": 105917,
+            "name": "Tổ 2",
+            "pid": 18196,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.742454",
+            "lng": "104.6730244"
+        },
+        {
+            "id": 105941,
+            "name": "Tổ 3",
+            "pid": 18196,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.742454",
+            "lng": "104.6730244"
+        },
+        {
+            "id": 105977,
+            "name": "Tổ 4",
+            "pid": 18196,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.742454",
+            "lng": "104.6730244"
+        },
+        {
+            "id": 105953,
+            "name": "Tổ 5",
+            "pid": 18196,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.742454",
+            "lng": "104.6730244"
+        },
+        {
+            "id": 105965,
+            "name": "Tổ 6",
+            "pid": 18196,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.742454",
+            "lng": "104.6730244"
+        }
+    ],
+    "log_id": "67581566519b6746"
+}

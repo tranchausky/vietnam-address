@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 895330,
+            "name": "Đường Hoàng Diệu",
+            "pid": 18503,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Hoàng Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348753699999998",
+            "lng": "108.22865039999999"
+        },
+        {
+            "id": 910996,
+            "name": "Đường Phạm Ngọc Thạch",
+            "pid": 18503,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Phạm Ngọc Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348753699999998",
+            "lng": "108.22865039999999"
+        },
+        {
+            "id": 895312,
+            "name": "Lê Đình Dương",
+            "pid": 18503,
+            "type": 20,
+            "region": null,
+            "alias": "Lê Đình Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348753699999998",
+            "lng": "108.22865039999999"
+        },
+        {
+            "id": 895300,
+            "name": "Tổ Minh Đông",
+            "pid": 18503,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Minh đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348753699999998",
+            "lng": "108.22865039999999"
+        },
+        {
+            "id": 895276,
+            "name": "Trường Tiểu Học Kim Đồng",
+            "pid": 18503,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Kim Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348805869166112, 108.22856537036603",
+            "lng": "108.22865039999999"
+        },
+        {
+            "id": 895306,
+            "name": "Ubnd Huyện",
+            "pid": 18503,
+            "type": 20,
+            "region": null,
+            "alias": "UBND huyện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348753699999998",
+            "lng": "108.22865039999999"
+        },
+        {
+            "id": 895291,
+            "name": "Ubnd Thị Trấn",
+            "pid": 18503,
+            "type": 20,
+            "region": null,
+            "alias": "UBND Thị Trấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.348753699999998",
+            "lng": "108.22865039999999"
+        }
+    ],
+    "log_id": "675817e1acbd6809"
+}

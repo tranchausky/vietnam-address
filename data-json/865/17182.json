@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 804982,
+            "name": "Đồng Thanh",
+            "pid": 17182,
+            "type": 21,
+            "region": null,
+            "alias": "đồng Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        },
+        {
+            "id": 420067,
+            "name": "Đồng Tiến",
+            "pid": 17182,
+            "type": 21,
+            "region": null,
+            "alias": "Đồng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        },
+        {
+            "id": 813310,
+            "name": "Thái Ninh",
+            "pid": 17182,
+            "type": 21,
+            "region": null,
+            "alias": "Thái Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8807506",
+            "lng": "105.72631520000004"
+        },
+        {
+            "id": 420069,
+            "name": "Thôn Thái Bình",
+            "pid": 17182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        },
+        {
+            "id": 420063,
+            "name": "Thôn Thái Lai",
+            "pid": 17182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Lai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        },
+        {
+            "id": 420071,
+            "name": "Thôn Thái Ninh",
+            "pid": 17182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        },
+        {
+            "id": 420065,
+            "name": "Thôn Thái Sơn",
+            "pid": 17182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        },
+        {
+            "id": 420073,
+            "name": "Thôn Thái Tâm",
+            "pid": 17182,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8833868",
+            "lng": "105.63245540000003"
+        }
+    ],
+    "log_id": "67590a23aa130629"
+}

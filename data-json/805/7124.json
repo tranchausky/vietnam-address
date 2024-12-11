@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514009,
+            "name": "Quán Dọc",
+            "pid": 7124,
+            "type": 16,
+            "region": null,
+            "alias": "Quán Dọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9408049",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 514011,
+            "name": "Thôn Quach An",
+            "pid": 7124,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quach An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9408049",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 514013,
+            "name": "Thôn Tiên Tảo",
+            "pid": 7124,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Tảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9408049",
+            "lng": "106.4494214"
+        }
+    ],
+    "log_id": "675813f1c561c128"
+}

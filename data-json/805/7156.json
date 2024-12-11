@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 421059,
+            "name": "Lai Khê",
+            "pid": 7156,
+            "type": 18,
+            "region": null,
+            "alias": "Lai Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9783991",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 421061,
+            "name": "Thanh Liên",
+            "pid": 7156,
+            "type": 18,
+            "region": null,
+            "alias": "Thanh Liên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9783991",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 421057,
+            "name": "Tường Vu",
+            "pid": 7156,
+            "type": 18,
+            "region": null,
+            "alias": "Tường Vu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9783991",
+            "lng": "106.41997549999996"
+        }
+    ],
+    "log_id": "675813f1f3b86623"
+}

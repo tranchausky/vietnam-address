@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631701,
+            "name": "Bình Yên",
+            "pid": 16171,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3309906",
+            "lng": "108.68288380000001"
+        },
+        {
+            "id": 631704,
+            "name": "Phước An",
+            "pid": 16171,
+            "type": 16,
+            "region": null,
+            "alias": "Phước An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3309906",
+            "lng": "108.68288380000001"
+        },
+        {
+            "id": 631707,
+            "name": "Tây Phước",
+            "pid": 16171,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3309906",
+            "lng": "108.68288380000001"
+        },
+        {
+            "id": 631710,
+            "name": "Thanh Trà",
+            "pid": 16171,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3309906",
+            "lng": "108.68288380000001"
+        },
+        {
+            "id": 631713,
+            "name": "Trà Lăm",
+            "pid": 16171,
+            "type": 16,
+            "region": null,
+            "alias": "Trà Lăm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3309906",
+            "lng": "108.68288380000001"
+        }
+    ],
+    "log_id": "675909a4dc31290"
+}

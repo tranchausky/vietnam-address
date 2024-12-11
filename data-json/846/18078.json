@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 991153,
+            "name": "Ấp Tân Hoà",
+            "pid": 18078,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.85449654236474",
+            "lng": "105.34337253712867"
+        },
+        {
+            "id": 991150,
+            "name": "Ấp Tân Hòa Thuận",
+            "pid": 18078,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Hòa Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.835153204069751 ",
+            "lng": "105.34283156993251"
+        },
+        {
+            "id": 991152,
+            "name": "Ấp Tân Hoà Trung",
+            "pid": 18078,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Hoà Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.833500489054732",
+            "lng": " 105.34254406574078"
+        }
+    ],
+    "log_id": "675816c06a4a4160"
+}

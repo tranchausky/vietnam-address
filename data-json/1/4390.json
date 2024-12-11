@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 808198,
+            "name": "Cự Thần",
+            "pid": 4390,
+            "type": 16,
+            "region": null,
+            "alias": "Cự Thần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 116437,
+            "name": "Thôn Động Giã",
+            "pid": 4390,
+            "type": 16,
+            "region": null,
+            "alias": "thôn động giã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.792948",
+            "lng": "20.833991"
+        },
+        {
+            "id": 116417,
+            "name": "Thôn Trình Xá",
+            "pid": 4390,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trình xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.787559",
+            "lng": "20.841851"
+        },
+        {
+            "id": 53602,
+            "name": "Thpt Thanh Oai A",
+            "pid": 4390,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Thanh Oai A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55462,
+            "name": "Ubnd Xã Đỗ Động",
+            "pid": 4390,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đỗ Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 808207,
+            "name": "Văn Quán",
+            "pid": 4390,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Quán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 116403,
+            "name": "Xóm Trường Cấp 3 Văn Quán",
+            "pid": 4390,
+            "type": 18,
+            "region": null,
+            "alias": "xóm trường cấp 3 văn quán",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.777937",
+            "lng": "20.848904"
+        }
+    ],
+    "log_id": "675811bd5551f684"
+}

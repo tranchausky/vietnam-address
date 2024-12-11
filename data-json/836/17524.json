@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439263,
+            "name": "Ấp 3",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.246386",
+            "lng": "105.405343"
+        },
+        {
+            "id": 439265,
+            "name": "Ấp 4",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.274441",
+            "lng": "105.420409"
+        },
+        {
+            "id": 439267,
+            "name": "Ấp 4A",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.255654",
+            "lng": "105.412412"
+        },
+        {
+            "id": 439269,
+            "name": "Ấp 18",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 18",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2832220 ",
+            "lng": "105.4349890"
+        },
+        {
+            "id": 439271,
+            "name": "Ấp 22",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 22",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.282576",
+            "lng": "105.395143"
+        },
+        {
+            "id": 439273,
+            "name": "Ấp 24",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 24",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.263805 ",
+            "lng": "105.392841"
+        },
+        {
+            "id": 439275,
+            "name": "Ấp 25",
+            "pid": 17524,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 25",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.267518",
+            "lng": "105.365934"
+        }
+    ],
+    "log_id": "675815e166c9a381"
+}

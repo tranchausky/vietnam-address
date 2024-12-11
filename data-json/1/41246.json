@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881431,
+            "name": "Đường Nguyễn Lân",
+            "pid": 41246,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Lân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,995702",
+            "lng": "105,839974"
+        },
+        {
+            "id": 830338,
+            "name": "Đường Phan Đình Giót",
+            "pid": 41246,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đình Giót",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.002247592937167",
+            "lng": "105.81736855567756"
+        },
+        {
+            "id": 830467,
+            "name": "Đường Phương Liệt",
+            "pid": 41246,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phương Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9925823",
+            "lng": "105.83930439999995"
+        },
+        {
+            "id": 658,
+            "name": "Phan Đình Giót",
+            "pid": 41246,
+            "type": 2,
+            "region": null,
+            "alias": "Phan Đình Giót",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9911662",
+            "lng": "105.83944199999996"
+        },
+        {
+            "id": 632,
+            "name": "Phương Liệt",
+            "pid": 41246,
+            "type": 2,
+            "region": null,
+            "alias": "Phương Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9925823",
+            "lng": "105.83930439999995"
+        }
+    ],
+    "log_id": "675811bd47dd6799"
+}

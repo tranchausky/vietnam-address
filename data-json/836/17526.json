@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439299,
+            "name": "Ấp 8",
+            "pid": 17526,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.221626 ",
+            "lng": "105.238135"
+        },
+        {
+            "id": 439301,
+            "name": "Ấp 9",
+            "pid": 17526,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.211869",
+            "lng": "105.257506"
+        },
+        {
+            "id": 439303,
+            "name": "Ấp Gò Muồng",
+            "pid": 17526,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gò Muồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.208923",
+            "lng": "105.270902"
+        },
+        {
+            "id": 439305,
+            "name": "Ấp Kinh Lớn",
+            "pid": 17526,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.229905 ",
+            "lng": "105.262397"
+        },
+        {
+            "id": 439307,
+            "name": "Ấp Xóm Mới",
+            "pid": 17526,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.178685",
+            "lng": "105.261544"
+        }
+    ],
+    "log_id": "675815e1687c6970"
+}

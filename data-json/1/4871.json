@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 808180,
+            "name": "Cầu Chuông",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Chuông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 867703,
+            "name": "Chợ Chuông",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Chợ Chuông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 916372,
+            "name": "Hoàng Trung",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 111603,
+            "name": "Thôn Chung Chính",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chung chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.769639",
+            "lng": "20.828403"
+        },
+        {
+            "id": 112475,
+            "name": "Thôn Mã Kiều",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mã Kiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.766961",
+            "lng": "20.821363"
+        },
+        {
+            "id": 112327,
+            "name": "Thôn Quang Trung",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.767503",
+            "lng": "20.826849"
+        },
+        {
+            "id": 112791,
+            "name": "Thôn Tây Sơn",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.767742",
+            "lng": "20.827672"
+        },
+        {
+            "id": 916369,
+            "name": "Thôn Trần Phú",
+            "pid": 4871,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trần Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55474,
+            "name": "Ubnd Xã Phương Trung",
+            "pid": 4871,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phương Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd6cc11792"
+}

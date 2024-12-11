@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397957,
+            "name": "Thôn Đặng Xá",
+            "pid": 6764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đặng Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5888951",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 397961,
+            "name": "Thôn Điền Xá",
+            "pid": 6764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Điền Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5888951",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 397963,
+            "name": "Thôn Tranh",
+            "pid": 6764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tranh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5888951",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 397959,
+            "name": "Thôn Trung Đồng",
+            "pid": 6764,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5888951",
+            "lng": "105.89655900000002"
+        }
+    ],
+    "log_id": "6758142818fca644"
+}

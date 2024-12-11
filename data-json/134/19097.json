@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910168,
+            "name": "Làng Loi",
+            "pid": 19097,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Loi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5920125",
+            "lng": "106.40746220000004"
+        },
+        {
+            "id": 832438,
+            "name": "Thôn Lai",
+            "pid": 19097,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5920125",
+            "lng": "106.40746220000004"
+        },
+        {
+            "id": 910165,
+            "name": "Thôn Trục Bây",
+            "pid": 19097,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trục Bây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5920125",
+            "lng": "106.40746220000004"
+        }
+    ],
+    "log_id": "6758133f26dbf471"
+}

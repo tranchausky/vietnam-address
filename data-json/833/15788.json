@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113745,
+            "name": "Ấp Long Hòa",
+            "pid": 15788,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.546897",
+            "lng": "105.404570"
+        },
+        {
+            "id": 113765,
+            "name": "Ấp Thị 1",
+            "pid": 15788,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.549150",
+            "lng": "105.401234"
+        },
+        {
+            "id": 113773,
+            "name": "Ấp Thị 2",
+            "pid": 15788,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.550004",
+            "lng": "105.400590"
+        },
+        {
+            "id": 963685,
+            "name": "Đường Châu Văn Liêm",
+            "pid": 15788,
+            "type": 21,
+            "region": null,
+            "alias": "đường Châu Văn Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.548277",
+            "lng": "105.401701"
+        },
+        {
+            "id": 963689,
+            "name": "Đường Hai Bà Trưng",
+            "pid": 15788,
+            "type": 21,
+            "region": null,
+            "alias": "đường Hai Bà Trưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.550362",
+            "lng": "105.398761"
+        },
+        {
+            "id": 963679,
+            "name": "Đường Lê Lợi",
+            "pid": 15788,
+            "type": 21,
+            "region": null,
+            "alias": "đường Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.550639",
+            "lng": "105.399274"
+        },
+        {
+            "id": 963681,
+            "name": "Đường Nguyễn Huệ",
+            "pid": 15788,
+            "type": 21,
+            "region": null,
+            "alias": "đường Nguyễn Huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.549853",
+            "lng": "105.400135"
+        },
+        {
+            "id": 963683,
+            "name": "Đường Nguyễn Hữu Cảnh",
+            "pid": 15788,
+            "type": 21,
+            "region": null,
+            "alias": "đường Nguyễn Hữu Cảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.547204",
+            "lng": "105.403341"
+        },
+        {
+            "id": 963678,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 15788,
+            "type": 21,
+            "region": null,
+            "alias": "đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.551207",
+            "lng": "105.399563"
+        }
+    ],
+    "log_id": "6758159dcf48b856"
+}

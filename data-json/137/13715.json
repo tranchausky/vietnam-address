@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 737446,
+            "name": "Đồng Mon",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Mon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7475709",
+            "lng": "105.2408345"
+        },
+        {
+            "id": 727744,
+            "name": "Hòa Bình",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7475709",
+            "lng": "105.2408345"
+        },
+        {
+            "id": 737449,
+            "name": "Tân Hải Thành",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hải Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7475709",
+            "lng": "105.2408345"
+        },
+        {
+            "id": 707356,
+            "name": "Thôn Đồng Mon",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Mon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.748722",
+            "lng": "105.251424"
+        },
+        {
+            "id": 707350,
+            "name": "Thôn Hòa Bình",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.748722",
+            "lng": "105.251424"
+        },
+        {
+            "id": 707341,
+            "name": "Thôn Hòa Mục",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Mục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.748722",
+            "lng": "105.251424"
+        },
+        {
+            "id": 707362,
+            "name": "Thôn Phú An",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.748722",
+            "lng": "105.251424"
+        },
+        {
+            "id": 707335,
+            "name": "Thôn Tân Hải Thành",
+            "pid": 13715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hải Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.748722",
+            "lng": "105.251424"
+        }
+    ],
+    "log_id": "6758138a613f4410"
+}

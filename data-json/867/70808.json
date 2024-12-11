@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 569688,
+            "name": "Ấp Bến Tranh",
+            "pid": 70808,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bến Tranh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6289288",
+            "lng": "106.2630271"
+        },
+        {
+            "id": 569682,
+            "name": "Ấp Cá Lóc",
+            "pid": 70808,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cá Lóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6289288",
+            "lng": "106.2630271"
+        },
+        {
+            "id": 724444,
+            "name": "Ấp Chợ",
+            "pid": 70808,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6289288",
+            "lng": "106.2630271"
+        },
+        {
+            "id": 569691,
+            "name": "Ấp Giồng Giữa",
+            "pid": 70808,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Giồng giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6289288",
+            "lng": "106.2630271"
+        },
+        {
+            "id": 569694,
+            "name": "Ấp Giồng Lớn B",
+            "pid": 70808,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Giồng Lớn B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6289288",
+            "lng": "106.2630271"
+        },
+        {
+            "id": 569685,
+            "name": "Ấp Vàm Bến Tranh",
+            "pid": 70808,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vàm Bến Tranh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6289288",
+            "lng": "106.2630271"
+        }
+    ],
+    "log_id": "67590b43c0445964"
+}

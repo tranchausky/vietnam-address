@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 19812,
+            "name": "Phường 1",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7775414",
+            "lng": "105.93561390000002"
+        },
+        {
+            "id": 19813,
+            "name": "Phường 2",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7690021",
+            "lng": "105.94502250000005"
+        },
+        {
+            "id": 19814,
+            "name": "Phường 3",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.767291",
+            "lng": "105.89812870000003"
+        },
+        {
+            "id": 19816,
+            "name": "Xã Bình Hiệp",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8246543",
+            "lng": "105.94061280000005"
+        },
+        {
+            "id": 19817,
+            "name": "Xã Bình Tân",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8265092",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 19818,
+            "name": "Xã Thạnh Hưng",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thạnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7357733",
+            "lng": "105.86425929999996"
+        },
+        {
+            "id": 19815,
+            "name": "Xã Thạnh Trị",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thạnh Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8607422",
+            "lng": "105.98173900000006"
+        },
+        {
+            "id": 19819,
+            "name": "Xã Tuyên Thạnh",
+            "pid": 2098,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tuyên Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.778249",
+            "lng": "105.88774940000008"
+        }
+    ],
+    "log_id": "67581784dcd42420"
+}

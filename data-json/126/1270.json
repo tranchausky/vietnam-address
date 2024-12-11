@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 682291,
+            "name": "Đường Cao Thắng",
+            "pid": 1270,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7731906",
+            "lng": "106.6784833"
+        },
+        {
+            "id": 681640,
+            "name": "Đường Lý Thái Tổ",
+            "pid": 1270,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thái Tổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7659794",
+            "lng": "106.6800718"
+        },
+        {
+            "id": 676843,
+            "name": "Đường Nguyễn Đình Chiểu",
+            "pid": 1270,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7684394",
+            "lng": "106.6805867"
+        },
+        {
+            "id": 678919,
+            "name": "Đường Nguyễn Thiện Thuật",
+            "pid": 1270,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thiện Thuật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.767874",
+            "lng": "106.680059"
+        },
+        {
+            "id": 671272,
+            "name": "Đường Nguyễn Thị Minh Khai",
+            "pid": 1270,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7673451",
+            "lng": "106.6833888"
+        },
+        {
+            "id": 978866,
+            "name": "Hẻm 491 Nguyễn Đình Chiểu",
+            "pid": 1270,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 491 Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.768565884418424",
+            "lng": "106.68196385312416"
+        },
+        {
+            "id": 868948,
+            "name": "Lẻ 461-645 Nguyễn Đình Chiểu",
+            "pid": 1270,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 461-645 Nguyễn Đình Chiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.766522",
+            "lng": "106.6789689"
+        },
+        {
+            "id": 39126,
+            "name": "Tòa Nhà Bidv",
+            "pid": 1270,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà BIDV",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7851463",
+            "lng": "106.6823609"
+        }
+    ],
+    "log_id": "6758129ae13f8613"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 835153,
+            "name": "Thôn Đoàn Kết",
+            "pid": 20833,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đoàn kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9109975",
+            "lng": "105.07327710000004"
+        },
+        {
+            "id": 857578,
+            "name": "Thôn Đoàn Kết",
+            "pid": 20833,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9109975",
+            "lng": "105.07327710000004"
+        },
+        {
+            "id": 991430,
+            "name": "Xã Đoàn Kết",
+            "pid": 20833,
+            "type": 16,
+            "region": null,
+            "alias": "xã đoàn kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9119907,104.9973028",
+            "lng": "104.9973028"
+        },
+        {
+            "id": 396131,
+            "name": "Xóm Căng",
+            "pid": 20833,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Căng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9109975",
+            "lng": "105.07327710000004"
+        },
+        {
+            "id": 396135,
+            "name": "Xóm Lăm",
+            "pid": 20833,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lăm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9109975",
+            "lng": "105.07327710000004"
+        }
+    ],
+    "log_id": "675817210bf7f424"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 608013,
+            "name": "Khu Vực Lân Thạnh 1",
+            "pid": 7940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Lân Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.237135",
+            "lng": "105.591750"
+        },
+        {
+            "id": 608016,
+            "name": "Khu Vực Lân Thạnh 2",
+            "pid": 7940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Lân Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.237135",
+            "lng": "105.591750"
+        },
+        {
+            "id": 608010,
+            "name": "Khu Vực Long Châu",
+            "pid": 7940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Long Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.237135",
+            "lng": "105.591750"
+        },
+        {
+            "id": 608028,
+            "name": "Khu Vực Tân An",
+            "pid": 7940,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.237135",
+            "lng": "105.591750"
+        }
+    ],
+    "log_id": "6758140cb6471477"
+}

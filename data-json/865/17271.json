@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555961,
+            "name": "Thôn Bích Động",
+            "pid": 17271,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bích Động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.984471",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 555959,
+            "name": "Thôn Ngọc Đô",
+            "pid": 17271,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Đô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.984471",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 555953,
+            "name": "Thôn Trịnh Xá 1",
+            "pid": 17271,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trịnh Xá 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.984471",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 555955,
+            "name": "Thôn Trịnh Xá 2",
+            "pid": 17271,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trịnh Xá 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.984471",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 555957,
+            "name": "Thôn Trịnh Xá 3",
+            "pid": 17271,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trịnh Xá 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.984471",
+            "lng": "105.6031342"
+        }
+    ],
+    "log_id": "67590a233db44989"
+}

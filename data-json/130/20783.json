@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 590211,
+            "name": "Bản Chanh",
+            "pid": 20783,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590214,
+            "name": "Bản Mong",
+            "pid": 20783,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590220,
+            "name": "Bản Ngậm",
+            "pid": 20783,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Ngậm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590217,
+            "name": "Bản Nguồn",
+            "pid": 20783,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nguồn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590208,
+            "name": "Bản Pe",
+            "pid": 20783,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 590229,
+            "name": "Bản Suối Quốc",
+            "pid": 20783,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Suối Quốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        },
+        {
+            "id": 430295,
+            "name": "Bản Trung Sơn",
+            "pid": 20783,
+            "type": 17,
+            "region": null,
+            "alias": "Bản Trung Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.170712",
+            "lng": "104.4373961"
+        }
+    ],
+    "log_id": "675812ef374a0820"
+}

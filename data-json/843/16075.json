@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 454329,
+            "name": "Buôn Ena",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Ena",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        },
+        {
+            "id": 716074,
+            "name": "Buôn Rai",
+            "pid": 16075,
+            "type": 10,
+            "region": null,
+            "alias": "Buôn Rai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        },
+        {
+            "id": 664846,
+            "name": "Buôn Tơ Lơ",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Tơ Lơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.515253",
+            "lng": "108.011892"
+        },
+        {
+            "id": 454327,
+            "name": "Ea Tung",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Ea tung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        },
+        {
+            "id": 664654,
+            "name": "Quỳnh Ngọc",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Quỳnh Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.531149",
+            "lng": "107.994486"
+        },
+        {
+            "id": 454325,
+            "name": "Tân Lập",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        },
+        {
+            "id": 454323,
+            "name": "Tân Thắng",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        },
+        {
+            "id": 454317,
+            "name": "Tân Tiến",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        },
+        {
+            "id": 454319,
+            "name": "Thành Công",
+            "pid": 16075,
+            "type": 16,
+            "region": null,
+            "alias": "Thành Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5619786",
+            "lng": "107.98874019999994"
+        }
+    ],
+    "log_id": "6758167859643146"
+}

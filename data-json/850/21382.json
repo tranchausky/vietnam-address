@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 578916,
+            "name": "Xóm Hang Kia",
+            "pid": 21382,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hang Kia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.74545238630132",
+            "lng": "104.88599952489811"
+        },
+        {
+            "id": 578919,
+            "name": "Xóm Pà Khôm",
+            "pid": 21382,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Pà Khôm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7426774",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 578922,
+            "name": "Xóm Thung Ảng",
+            "pid": 21382,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thung Ảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.736539234745173",
+            "lng": "104.89385174874657"
+        },
+        {
+            "id": 578925,
+            "name": "Xóm Thung Mài",
+            "pid": 21382,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thung Mài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.73227919138936",
+            "lng": "104.88104190129194"
+        },
+        {
+            "id": 578928,
+            "name": "Xóm Thung Mặn",
+            "pid": 21382,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thung Mặn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.73543020853829",
+            "lng": "104.84965572430386"
+        }
+    ],
+    "log_id": "675817214161d788"
+}

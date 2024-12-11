@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 16473,
+            "name": "Phường Hòa Hiệp Bắc",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Hiệp Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0190162",
+            "lng": "109.34857869999996"
+        },
+        {
+            "id": 16474,
+            "name": "Phường Hòa Hiệp Nam",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Hiệp Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9603614",
+            "lng": "109.39616660000002"
+        },
+        {
+            "id": 15023,
+            "name": "Phường Hòa Hiệp Trung",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Hiệp Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9951822",
+            "lng": "109.3723721"
+        },
+        {
+            "id": 15022,
+            "name": "Phường Hòa Vinh",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9966094",
+            "lng": "109.33018470000002"
+        },
+        {
+            "id": 16477,
+            "name": "Phường Hòa Xuân Tây",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Xuân Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9717998",
+            "lng": "109.31883870000001"
+        },
+        {
+            "id": 16479,
+            "name": "Xã Hòa Tâm",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.921001",
+            "lng": "109.414099"
+        },
+        {
+            "id": 16480,
+            "name": "Xã Hòa Tân Đông",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Tân Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9685782",
+            "lng": "109.28910050000002"
+        },
+        {
+            "id": 16475,
+            "name": "Xã Hòa Thành",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0336846",
+            "lng": "109.3009955"
+        },
+        {
+            "id": 16476,
+            "name": "Xã Hòa Xuân Đông",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Xuân Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9411155",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 16478,
+            "name": "Xã Hòa Xuân Nam",
+            "pid": 1868,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Xuân Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.8983329",
+            "lng": "109.38544980000006"
+        }
+    ],
+    "log_id": "67590b8087229851"
+}

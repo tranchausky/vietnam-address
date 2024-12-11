@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 842260,
+            "name": "Bản Lài",
+            "pid": 18165,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3723267",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 834409,
+            "name": "Cầu Trù",
+            "pid": 18165,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Trù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3723267",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 752644,
+            "name": "Nà Đông",
+            "pid": 18165,
+            "type": 16,
+            "region": null,
+            "alias": "Nà đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3723267",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 842257,
+            "name": "Thôn Đon Dài",
+            "pid": 18165,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đon Dài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3723267",
+            "lng": "105.8231588"
+        }
+    ],
+    "log_id": "675815c920503242"
+}

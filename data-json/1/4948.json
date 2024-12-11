@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101894,
+            "name": "Cống Khê",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Cống Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6791855",
+            "lng": "105.8022451"
+        },
+        {
+            "id": 101852,
+            "name": "Đống Long",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Đống Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.704022",
+            "lng": "105.8154535"
+        },
+        {
+            "id": 101870,
+            "name": "Hòa Chanh",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Hòa Chanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6942634",
+            "lng": "105.8191227"
+        },
+        {
+            "id": 101861,
+            "name": "Mỹ Lâm",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6973496",
+            "lng": "105.8155449"
+        },
+        {
+            "id": 101906,
+            "name": "Phúc Quan",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6988381",
+            "lng": "105.8099505"
+        },
+        {
+            "id": 101891,
+            "name": "Trạch Bái",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Trạch Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6833465",
+            "lng": "105.8207688"
+        },
+        {
+            "id": 101876,
+            "name": "Trạch Xá",
+            "pid": 4948,
+            "type": 16,
+            "region": null,
+            "alias": "Trạch Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6914445",
+            "lng": "105.7989432"
+        },
+        {
+            "id": 55766,
+            "name": "Ubnd Xã Hòa Lâm",
+            "pid": 4948,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hòa Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd3d89e341"
+}

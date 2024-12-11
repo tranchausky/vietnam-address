@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 984201,
+            "name": "Anan Boutique",
+            "pid": 17732,
+            "type": 21,
+            "region": null,
+            "alias": "Anan Boutique",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.036549447824765",
+            "lng": "106.35223716165982"
+        },
+        {
+            "id": 984953,
+            "name": "Chợ Cổng Ông La",
+            "pid": 17732,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Cổng Ông La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21°02'47.2\"N",
+            "lng": "106°20'33.1\"E"
+        },
+        {
+            "id": 984394,
+            "name": "Cửa Hàng Tạp Hóa Cường Phượng",
+            "pid": 17732,
+            "type": 10,
+            "region": null,
+            "alias": "Cửa hàng tạp hóa Cường Phượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.03945103461028",
+            "lng": "106.35164497901089"
+        },
+        {
+            "id": 639171,
+            "name": "Khu Đô Thị Thanh Quang",
+            "pid": 17732,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị thanh quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 800830,
+            "name": "Linh Khê",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Linh Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 800776,
+            "name": "Thanh Quang",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9922832",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 639168,
+            "name": "Thị Tứ Chợ Rồng",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "thị tứ chợ rồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 639162,
+            "name": "Thôn Hà Liễu",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn hà liễu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 984370,
+            "name": "Thôn Hà Liễu",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Liễu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04823222457966",
+            "lng": "106.35630366790238"
+        },
+        {
+            "id": 639165,
+            "name": "Thôn Lê Hà",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn lê hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 639156,
+            "name": "Thôn Tông Phố",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tông phố",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 639159,
+            "name": "Thôn Tông Xá",
+            "pid": 17732,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tông xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0483923",
+            "lng": "106.35520919999999"
+        },
+        {
+            "id": 984384,
+            "name": "Ubnd Xã Thanh Quang",
+            "pid": 17732,
+            "type": 10,
+            "region": null,
+            "alias": "UBND xã Thanh Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.041077969170875",
+            "lng": "106.35406282622804"
+        }
+    ],
+    "log_id": "675813f1c6219589"
+}

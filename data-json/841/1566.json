@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7764,
+            "name": "Thị Trấn Thới Bình",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Thới Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.326831400000001",
+            "lng": "105.14928689999999"
+        },
+        {
+            "id": 7765,
+            "name": "Xã Biển Bạch",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Biển Bạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.5158215",
+            "lng": "105.02067569999997"
+        },
+        {
+            "id": 7766,
+            "name": "Xã Biển Bạch Đông",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Biển Bạch Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.424696",
+            "lng": "105.082032"
+        },
+        {
+            "id": 7767,
+            "name": "Xã Hồ Thị Kỷ",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hồ Thị Kỷ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2529678",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 7768,
+            "name": "Xã Tân Bằng",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.492062",
+            "lng": "105.060781"
+        },
+        {
+            "id": 7769,
+            "name": "Xã Tân Lộc",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2760997",
+            "lng": "105.2019295"
+        },
+        {
+            "id": 7770,
+            "name": "Xã Tân Lộc Bắc",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Lộc Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3135254",
+            "lng": "105.20777980000003"
+        },
+        {
+            "id": 7771,
+            "name": "Xã Tân Lộc Đông",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Lộc Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2899619",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 7772,
+            "name": "Xã Tân Phú",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3771357",
+            "lng": "105.23118269999998"
+        },
+        {
+            "id": 7773,
+            "name": "Xã Thới Bình",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thới Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.326831400000001",
+            "lng": "105.14928689999999"
+        },
+        {
+            "id": 7774,
+            "name": "Xã Trí Lực",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trí Lực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.445927",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 7775,
+            "name": "Xã Trí Phải",
+            "pid": 1566,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trí Phải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4017623",
+            "lng": "105.16098379999994"
+        }
+    ],
+    "log_id": "6758164d8aca1893"
+}

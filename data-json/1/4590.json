@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1009422,
+            "name": "Hn57_Cây Đa Yên Nhân",
+            "pid": 4590,
+            "type": 17,
+            "region": null,
+            "alias": "HN57_Cây đa Yên Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.819857148137423",
+            "lng": "105.73531576404858"
+        },
+        {
+            "id": 117329,
+            "name": "Lưu Xá",
+            "pid": 4590,
+            "type": 20,
+            "region": null,
+            "alias": "Lưu Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8146917",
+            "lng": "105.7100416"
+        },
+        {
+            "id": 117339,
+            "name": "Lý Nhân",
+            "pid": 4590,
+            "type": 16,
+            "region": null,
+            "alias": "Lý Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8139667",
+            "lng": "105.7204476"
+        },
+        {
+            "id": 117335,
+            "name": "Phụ Chính",
+            "pid": 4590,
+            "type": 16,
+            "region": null,
+            "alias": "Phụ Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8139667",
+            "lng": "105.7204476"
+        },
+        {
+            "id": 54242,
+            "name": "Ubnd Xã Hòa Chính",
+            "pid": 4590,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Hòa Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 117343,
+            "name": "Yên Nhân",
+            "pid": 4590,
+            "type": 18,
+            "region": null,
+            "alias": "Yên Nhân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8133711",
+            "lng": "105.7329932"
+        }
+    ],
+    "log_id": "675811bb77834337"
+}

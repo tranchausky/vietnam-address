@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444899,
+            "name": "Ấp Phước Sơn",
+            "pid": 15737,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Phước Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5059422",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 444895,
+            "name": "Ấp Phước Thới",
+            "pid": 15737,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5059422",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 444897,
+            "name": "Ấp Phước Trung",
+            "pid": 15737,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5059422",
+            "lng": "107.30210690000001"
+        },
+        {
+            "id": 995741,
+            "name": "Khu Công Nghiệp Đất Đỏ",
+            "pid": 15737,
+            "type": 5,
+            "region": null,
+            "alias": "Khu công nghiệp Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "107.30215756201399",
+            "lng": "10.512834002269903"
+        }
+    ],
+    "log_id": "675815b41181990"
+}

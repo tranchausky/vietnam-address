@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476491,
+            "name": "Khu Cổng Bát Mã",
+            "pid": 13620,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Cổng Bát Mã",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1584646",
+            "lng": "105.9376756"
+        },
+        {
+            "id": 476489,
+            "name": "Khu Đất Mới Phú Điền",
+            "pid": 13620,
+            "type": 21,
+            "region": null,
+            "alias": "Khu đất mới Phú Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1584646",
+            "lng": "105.9376756"
+        },
+        {
+            "id": 993415,
+            "name": "Khu Đô Thị Phú Điền",
+            "pid": 13620,
+            "type": 21,
+            "region": null,
+            "alias": "khu đô thị phú điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.15882074141083",
+            "lng": "105.92915800449525"
+        },
+        {
+            "id": 476493,
+            "name": "Khu Ngã Tư Mắc",
+            "pid": 13620,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Ngã Tư Mắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1584646",
+            "lng": "105.9376756"
+        },
+        {
+            "id": 108092,
+            "name": "Thôn Đồng Hương",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        },
+        {
+            "id": 106670,
+            "name": "Thôn Hương Mạc",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hương Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        },
+        {
+            "id": 106694,
+            "name": "Thôn Kim Bảng",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Bảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        },
+        {
+            "id": 932086,
+            "name": "Thôn Kim Bảng",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Kim Bảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999997"
+        },
+        {
+            "id": 106682,
+            "name": "Thôn Kim Thiều",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Thiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        },
+        {
+            "id": 106658,
+            "name": "Thôn Mai Động",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        },
+        {
+            "id": 108119,
+            "name": "Thôn Me",
+            "pid": 13620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        },
+        {
+            "id": 993416,
+            "name": "Trường Tiểu Học Hương Mạc",
+            "pid": 13620,
+            "type": 9,
+            "region": null,
+            "alias": "trường tiểu học hương mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.157105586964292",
+            "lng": "105.92926770264303"
+        },
+        {
+            "id": 108122,
+            "name": "Xóm Đông Tiến",
+            "pid": 13620,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533341",
+            "lng": "105.9300981"
+        }
+    ],
+    "log_id": "675815f8b162b732"
+}

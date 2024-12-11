@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 713845,
+            "name": "Làng M6",
+            "pid": 19003,
+            "type": 18,
+            "region": null,
+            "alias": "làng M6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0370396",
+            "lng": "108.81832889999998"
+        },
+        {
+            "id": 992082,
+            "name": "Làng M7",
+            "pid": 19003,
+            "type": 16,
+            "region": null,
+            "alias": "làng M7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0370396",
+            "lng": "108.81832889999998"
+        },
+        {
+            "id": 713824,
+            "name": "Làng M8",
+            "pid": 19003,
+            "type": 16,
+            "region": null,
+            "alias": "Làng M8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0370396",
+            "lng": "108.81832889999998"
+        },
+        {
+            "id": 713827,
+            "name": "Làng M9",
+            "pid": 19003,
+            "type": 16,
+            "region": null,
+            "alias": "Làng M9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0370396",
+            "lng": "108.81832889999998"
+        },
+        {
+            "id": 713830,
+            "name": "Làng M10",
+            "pid": 19003,
+            "type": 18,
+            "region": null,
+            "alias": "làng M10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0370396",
+            "lng": "108.81832889999998"
+        },
+        {
+            "id": 992083,
+            "name": "Thôn Tiên Hòa",
+            "pid": 19003,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0370396",
+            "lng": "108.81832889999998"
+        }
+    ],
+    "log_id": "6758150da42dd747"
+}

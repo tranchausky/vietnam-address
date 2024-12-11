@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439805,
+            "name": "Ấp Chòm Cao",
+            "pid": 8048,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Chòm Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.439316",
+            "lng": "105.324860"
+        },
+        {
+            "id": 439807,
+            "name": "Ấp Chủ Chọt",
+            "pid": 8048,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Chủ Chọt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.417604",
+            "lng": "105.350572"
+        },
+        {
+            "id": 439801,
+            "name": "Ấp Nhà Lầu 1",
+            "pid": 8048,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhà Lầu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.439316",
+            "lng": "105.324860"
+        },
+        {
+            "id": 439803,
+            "name": "Ấp Nhà Lầu 2",
+            "pid": 8048,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nhà Lầu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4823347",
+            "lng": "105.3636681"
+        },
+        {
+            "id": 439809,
+            "name": "Ấp Thống Nhất",
+            "pid": 8048,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4376772",
+            "lng": "105.3248269"
+        }
+    ],
+    "log_id": "675815e17365a355"
+}

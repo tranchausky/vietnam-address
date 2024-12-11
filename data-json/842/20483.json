@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 855508,
+            "name": "Đà Sa",
+            "pid": 20483,
+            "type": 18,
+            "region": null,
+            "alias": "đà Sa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8116567",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 866992,
+            "name": "Lũng Tàn",
+            "pid": 20483,
+            "type": 18,
+            "region": null,
+            "alias": "Lũng Tàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8116567",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 866986,
+            "name": "Nà Khau",
+            "pid": 20483,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Khau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8116567",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 853996,
+            "name": "Sơn Hà",
+            "pid": 20483,
+            "type": 18,
+            "region": null,
+            "alias": "Sơn Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8116567",
+            "lng": "106.00524369999994"
+        }
+    ],
+    "log_id": "6758166275586607"
+}

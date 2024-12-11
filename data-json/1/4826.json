@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 898318,
+            "name": "Cầu Xây",
+            "pid": 4826,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Xây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2529081",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 898321,
+            "name": "Đường 35",
+            "pid": 4826,
+            "type": 16,
+            "region": null,
+            "alias": "đường 35",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2529081",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 898315,
+            "name": "Thôn Trung Na",
+            "pid": 4826,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Na",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2529081",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 898327,
+            "name": "Trường Cao Đẳng Điện Lực Miền Bắc",
+            "pid": 4826,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Cao Đẳng Điện lực Miền Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2529081",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 898324,
+            "name": "Xuân Hoa",
+            "pid": 4826,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Hoa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2529081",
+            "lng": "105.7380511"
+        }
+    ],
+    "log_id": "675811bc4bb6e21"
+}

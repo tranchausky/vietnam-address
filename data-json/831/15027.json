@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 856540,
+            "name": "Đinh Tiên Hoàng",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "ĐInh Tiên Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2454488",
+            "lng": "109.1901312"
+        },
+        {
+            "id": 101978,
+            "name": "Đường Quang Trung",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2484244",
+            "lng": "109.1888139,17"
+        },
+        {
+            "id": 954918,
+            "name": "Đường Trần Phú",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.231384",
+            "lng": "109.198368"
+        },
+        {
+            "id": 954919,
+            "name": "Đường Trần Phú Số Chẵn 18 =>102",
+            "pid": 15027,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Trần Phú Số chẵn 18 =>102",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.231384",
+            "lng": "109.198368"
+        },
+        {
+            "id": 101867,
+            "name": "Đường Yersin",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yersin",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2494791",
+            "lng": "109.1876384,17"
+        },
+        {
+            "id": 1002078,
+            "name": "Đường Yersin",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "ĐƯỜNG YERSIN",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.249381824584814",
+            "lng": "109.19610483948881"
+        },
+        {
+            "id": 102203,
+            "name": "Hoàng Hoa Thám",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Hoa Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2466211",
+            "lng": "109.1911749,17"
+        },
+        {
+            "id": 1002077,
+            "name": "Hoàng Hoa Thám",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "HOÀNG HOA THÁM",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.244327714406536",
+            "lng": "109.1939286207749"
+        },
+        {
+            "id": 1003739,
+            "name": "Lý Thánh Tôn",
+            "pid": 15027,
+            "type": 29,
+            "region": null,
+            "alias": "LÝ Thánh Tôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.247929594973153",
+            "lng": "109.18965620036973"
+        },
+        {
+            "id": 856534,
+            "name": "Tuệ Tĩnh",
+            "pid": 15027,
+            "type": 21,
+            "region": null,
+            "alias": "Tuệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2314683",
+            "lng": "109.1946168"
+        }
+    ],
+    "log_id": "67581585ddadd453"
+}

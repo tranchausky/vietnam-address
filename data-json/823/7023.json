@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 993000,
+            "name": "Khu Phố Phan Bội Châu",
+            "pid": 7023,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phan Bội Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.94061378682661",
+            "lng": " 107.13738059594702"
+        },
+        {
+            "id": 993219,
+            "name": "Khu Phố Trần Cao Vân",
+            "pid": 7023,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Trần Cao Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.943082470107285",
+            "lng": "107.13580589445104"
+        },
+        {
+            "id": 93905,
+            "name": "Khu Phố Trần Hưng Đạo",
+            "pid": 7023,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9429733",
+            "lng": "107.1549579"
+        },
+        {
+            "id": 93896,
+            "name": "Khu Trung Tâm Hành Chính Huyện",
+            "pid": 7023,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Trung Tâm Hành Chính Huyện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9742453",
+            "lng": "107.0188262"
+        },
+        {
+            "id": 993220,
+            "name": "Tổ 1-25 (Số Nhà 1-887) Trần Cao Vân",
+            "pid": 7023,
+            "type": 29,
+            "region": null,
+            "alias": "Tổ 1-25 (số nhà 1-887) Trần Cao Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.944924",
+            "lng": "107.135343"
+        },
+        {
+            "id": 993221,
+            "name": "Tổ 26-44 (Số Nhà 888-1575) Trần Cao Vân",
+            "pid": 7023,
+            "type": 29,
+            "region": null,
+            "alias": "Tổ 26-44 (số nhà 888-1575) Trần Cao Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.944924",
+            "lng": "107.135343"
+        }
+    ],
+    "log_id": "675814dd3bc5d853"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567453,
+            "name": "Thôn Mai Lãnh",
+            "pid": 19620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Lãnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2362456",
+            "lng": "108.4216702"
+        },
+        {
+            "id": 792589,
+            "name": "Thôn Thanh Bình",
+            "pid": 19620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.236245599999998",
+            "lng": "108.4216702"
+        },
+        {
+            "id": 567456,
+            "name": "Thôn Thanh Khiết",
+            "pid": 19620,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Khiết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2362456",
+            "lng": "108.4216702"
+        }
+    ],
+    "log_id": "6758147790d0b30"
+}

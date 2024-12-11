@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110519,
+            "name": "Ấp Bãi Chướng",
+            "pid": 17596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp bãi chướng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.020909",
+            "lng": "104.560549"
+        },
+        {
+            "id": 110539,
+            "name": "Ấp Bãi Nam",
+            "pid": 17596,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bãi Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.019303",
+            "lng": "104.548962"
+        }
+    ],
+    "log_id": "675817363bf36916"
+}

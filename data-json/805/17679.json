@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398251,
+            "name": "Cự Đà",
+            "pid": 17679,
+            "type": 16,
+            "region": null,
+            "alias": "Cự Đà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7767638",
+            "lng": "106.42024609999999"
+        },
+        {
+            "id": 398253,
+            "name": "Như Lâm",
+            "pid": 17679,
+            "type": 16,
+            "region": null,
+            "alias": "Như Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7767638",
+            "lng": "106.42024609999999"
+        },
+        {
+            "id": 398255,
+            "name": "Tứ Kỳ Hạ",
+            "pid": 17679,
+            "type": 16,
+            "region": null,
+            "alias": "Tứ Kỳ Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7767638",
+            "lng": "106.42024609999999"
+        }
+    ],
+    "log_id": "675813f1ddc86321"
+}

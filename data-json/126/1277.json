@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 676747,
+            "name": "Đường Bà Huyện Thanh Quan",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bà Huyện Thanh Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7809189",
+            "lng": "106.6828801"
+        },
+        {
+            "id": 671188,
+            "name": "Đường Hoàng Sa",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7848098",
+            "lng": "106.6810442"
+        },
+        {
+            "id": 679987,
+            "name": "Đường Lý Chính Thắng",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Chính Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7824875",
+            "lng": "106.6836031"
+        },
+        {
+            "id": 673255,
+            "name": "Đường Nguyễn Phúc Nguyên",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Phúc Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.779951",
+            "lng": "106.6800985"
+        },
+        {
+            "id": 680572,
+            "name": "Đường Nguyễn Thông",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7794236",
+            "lng": "106.6821465"
+        },
+        {
+            "id": 678991,
+            "name": "Đường Rạch Bùng Binh",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Rạch Bùng Binh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7810271",
+            "lng": "106.6800597"
+        },
+        {
+            "id": 681793,
+            "name": "Đường Trần Quốc Thảo",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Quốc Thảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.784976",
+            "lng": "106.6830624"
+        },
+        {
+            "id": 671215,
+            "name": "Đường Trần Văn Đang",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Văn Đang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7829409",
+            "lng": "106.6788094"
+        },
+        {
+            "id": 673198,
+            "name": "Đường Trương Định",
+            "pid": 1277,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trương Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7830348",
+            "lng": "106.6823963"
+        },
+        {
+            "id": 1010539,
+            "name": "Số 1 Nguyễn Thông",
+            "pid": 1277,
+            "type": 4,
+            "region": null,
+            "alias": "số 1 Nguyễn Thông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7826329",
+            "lng": "106.6760758"
+        }
+    ],
+    "log_id": "6758129ae1701359"
+}

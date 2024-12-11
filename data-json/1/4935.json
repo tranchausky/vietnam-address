@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 25461,
+            "name": "Châu Đài",
+            "pid": 4935,
+            "type": 2,
+            "region": null,
+            "alias": "Châu Đài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.088958",
+            "lng": "105.7312197"
+        },
+        {
+            "id": 877585,
+            "name": "Đường Châu Đài",
+            "pid": 4935,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Châu Đài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,090636",
+            "lng": "105,73361"
+        },
+        {
+            "id": 877582,
+            "name": "Đường Đông Ba",
+            "pid": 4935,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đông Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,090636",
+            "lng": "105,73361"
+        },
+        {
+            "id": 877579,
+            "name": "Đường Kỳ Vũ",
+            "pid": 4935,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kỳ Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,090636",
+            "lng": "105,73361"
+        },
+        {
+            "id": 877576,
+            "name": "Đường Thượng Cát",
+            "pid": 4935,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thượng Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,090636",
+            "lng": "105,73361"
+        },
+        {
+            "id": 23030,
+            "name": "Kỳ Vũ",
+            "pid": 4935,
+            "type": 2,
+            "region": null,
+            "alias": "Kỳ Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0883125",
+            "lng": "105.73408080000002"
+        },
+        {
+            "id": 4460,
+            "name": "Thượng Cát",
+            "pid": 4935,
+            "type": 2,
+            "region": null,
+            "alias": "Thượng Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0964922",
+            "lng": "105.73229040000001"
+        }
+    ],
+    "log_id": "675811bca0418804"
+}

@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 607740,
+            "name": "Bon Bu Bong",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "Bon Bu Bong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2221422",
+            "lng": "107.46768610000004"
+        },
+        {
+            "id": 607737,
+            "name": "Bon N' Rung",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "Bon N' rung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2221422",
+            "lng": "107.46768610000004"
+        },
+        {
+            "id": 117501,
+            "name": "Thôn 1",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.204287",
+            "lng": "107.4047438"
+        },
+        {
+            "id": 118369,
+            "name": "Thôn 2",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2109966",
+            "lng": "107.4629402"
+        },
+        {
+            "id": 118385,
+            "name": "Thôn 3",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2110227",
+            "lng": "107.4563741"
+        },
+        {
+            "id": 118393,
+            "name": "Thôn 4",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1776994",
+            "lng": "107.4547908"
+        },
+        {
+            "id": 118415,
+            "name": "Thôn 5",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.204287",
+            "lng": "107.4047438"
+        },
+        {
+            "id": 118431,
+            "name": "Thôn 6",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.204287",
+            "lng": "107.4047438"
+        },
+        {
+            "id": 117549,
+            "name": "Thôn 7",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.204287",
+            "lng": "107.4047438"
+        },
+        {
+            "id": 118449,
+            "name": "Thôn 8",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2167167",
+            "lng": "107.4611163"
+        },
+        {
+            "id": 118455,
+            "name": "Thôn 9",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1301724",
+            "lng": "107.3931897"
+        },
+        {
+            "id": 118463,
+            "name": "Thôn Tuy Đức",
+            "pid": 19250,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tuy đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.133688",
+            "lng": "107.2600646"
+        }
+    ],
+    "log_id": "675816911e83d196"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 931228,
+            "name": "Đạ Nghịt",
+            "pid": 15848,
+            "type": 16,
+            "region": null,
+            "alias": "Đạ Nghịt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0930207",
+            "lng": "108.41573570000004"
+        },
+        {
+            "id": 871792,
+            "name": "Khu Du Lịch Thung Lũng Vàng",
+            "pid": 15848,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Du Lịch Thung Lũng Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0930207",
+            "lng": "108.41573570000004"
+        },
+        {
+            "id": 871795,
+            "name": "Làng Cù Lần",
+            "pid": 15848,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Cù Lần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0930207",
+            "lng": "108.41573570000004"
+        },
+        {
+            "id": 931231,
+            "name": "Păng Tiêng",
+            "pid": 15848,
+            "type": 16,
+            "region": null,
+            "alias": "Păng Tiêng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0930207",
+            "lng": "108.41573570000004"
+        }
+    ],
+    "log_id": "67581771d0c2c97"
+}

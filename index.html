@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Select with AJAX</title>
+</head>  
+<body>
+
+<select name="locations" id="locations" onchange="handleLocationChange()">
+  <option value="">Select Tỉnh</option>
+  <option value="1">Hà Nội</option>
+  <option value="821">Nghệ An</option>
+  <option value="126">Tp Hồ Chí Minh</option>
+  <option value="129">Đà Nẵng</option>
+  <option value="130">Sơn La</option>
+  <option value="132">Yên Bái</option>
+  <option value="134">Lạng Sơn</option>
+  <option value="135">Hải Phòng</option>
+  <option value="137">Tuyên Quang</option>
+  <option value="143">Quảng Trị</option>
+  <option value="144">Bắc Giang</option>
+  <option value="805">Hải Dương</option>
+  <option value="806">Cần Thơ</option>
+  <option value="807">Hà Nam</option>
+  <option value="808">Lào Cai</option>
+  <option value="811">Nam Định</option>
+  <option value="812">Bình Thuận</option>
+  <option value="816">Hưng Yên</option>
+  <option value="818">Quảng Bình</option>
+  <option value="819">Quảng Ninh</option>
+  <option value="823">Đồng Nai</option>
+  <option value="824">Tiền Giang</option>
+  <option value="826">Bình Định</option>
+  <option value="827">Vĩnh Phúc</option>
+  <option value="830">Hà Giang</option>
+  <option value="831">Khánh Hòa</option>
+  <option value="833">An Giang</option>
+  <option value="834">Bà Rịa Vũng Tàu</option>
+  <option value="835">Bắk Kạn</option>
+  <option value="836">Bạc Liêu</option>
+  <option value="837">Bắc Ninh</option>
+  <option value="838">Bến Tre</option>
+  <option value="839">Bình Dương</option>
+  <option value="840">Bình Phước</option>
+  <option value="841">Cà Mau</option>
+  <option value="842">Cao Bằng</option>
+  <option value="843">Đắk Lắk</option>
+  <option value="844">Đắk Nông</option>
+  <option value="845">Điện Biên</option>
+  <option value="846">Đồng Tháp</option>
+  <option value="847">Gia Lai</option>
+  <option value="848">Hà Tĩnh</option>
+  <option value="849">Hậu Giang</option>
+  <option value="850">Hòa Bình</option>
+  <option value="851">Kiên Giang</option>
+  <option value="852">Kon Tum</option>
+  <option value="853">Lai Châu</option>
+  <option value="854">Lâm Đồng</option>
+  <option value="855">Long An</option>
+  <option value="856">Ninh Bình</option>
+  <option value="857">Ninh Thuận</option>
+  <option value="858">Phú Thọ</option>
+  <option value="859">Quảng Nam</option>
+  <option value="860">Quảng Ngãi</option>
+  <option value="861">Sóc Trăng</option>
+  <option value="862">Tây Ninh</option>
+  <option value="863">Thái Bình</option>
+  <option value="864">Thái Nguyên</option>
+  <option value="865">Thanh Hóa</option>
+  <option value="866">Thừa Thiên Huế</option>
+  <option value="867">Trà Vinh</option>
+  <option value="868">Vĩnh Long</option>
+  <option value="869">Phú Yên</option>
+</select>
+
+<select name="select_huyen" id="select_huyen" onchange="handleHuyenChange()"></select>
+<select name="select_xa" id="select_xa" onchange="handleXaChange()"></select>
+<select name="select_xom" id="select_xom" onchange="handleXomChange()"></select>
+
+
+<script>
+var glb_tinh = '';
+var glb_huyen = '';
+var glb_xa = '';
+var glb_xom = '';
+function handleLocationChange(){
+	const selectElement = document.getElementById('locations');
+	const selectedValue = selectElement.value;
+	glb_tinh = selectedValue;
+	//console.log(selectedValue)
+	getHuyen();
+}
+
+function getHuyen(){
+	if(glb_tinh==''){
+		return;
+	}
+	
+	var link ='data-json/'+glb_tinh+"/"+glb_tinh+'.json';
+	fetch(link, {
+        method: 'GET', // or 'GET' based on your API
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        //body: JSON.stringify({ locationId: selectedValue }),
+      })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(data => {
+          // Handle the response data
+          //console.log('Response data:', data.data);
+		  var strHuyen = buildSelectOption(data.data);
+		  document.getElementById('select_huyen').innerHTML = strHuyen;
+        })
+        .catch(error => {console.error('Error:', error);});
+	return;
+}
+function handleHuyenChange(){
+	//console.log('huye');
+	if(glb_tinh==''){
+		return;
+	}
+	glb_huyen = document.getElementById('select_huyen').value;
+	
+	var link ='data-json/'+glb_tinh+"/"+glb_huyen+'.json';
+	fetch(link, {
+        method: 'GET', // or 'GET' based on your API
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        //body: JSON.stringify({ locationId: selectedValue }),
+      })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(data => {
+          // Handle the response data
+        //  console.log('Response data:', data.data);
+		  var strHuyen = buildSelectOption(data.data);
+		  document.getElementById('select_xa').innerHTML = strHuyen;
+        })
+        .catch(error => {console.error('Error:', error);});
+}
+function handleXaChange(){
+	//console.log('xa');
+	if(glb_tinh==''){
+		return;
+	}
+	if(glb_huyen==''){
+		return;
+	}
+	glb_xa = document.getElementById('select_xa').value;
+	
+	var link ='data-json/'+glb_tinh+"/"+glb_xa+'.json';
+	fetch(link, {
+        method: 'GET', // or 'GET' based on your API
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        //body: JSON.stringify({ locationId: selectedValue }),
+      })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(data => {
+          // Handle the response data
+          //console.log('Response data:', data.data);
+		  var strHuyen = buildSelectOption(data.data);
+		  document.getElementById('select_xom').innerHTML = strHuyen;
+        })
+        .catch(error => {console.error('Error:', error);});
+}
+function handleXomChange(){
+	//console.log('xom');
+	if(glb_tinh==''){
+		return;
+	}
+	if(glb_huyen==''){
+		return;
+	}
+	if(glb_xa==''){
+		return;
+	}
+	glb_xom = document.getElementById('select_xom').value;
+	
+	//console.log(glb_tinh,glb_huyen,glb_xa,glb_xom);
+}
+
+function buildSelectOption(arrayContent){
+	///console.log(arrayContent)
+	var atSelectText = '<option value="">Select</option>';
+	for (element of arrayContent) {
+	 // console.log(element);
+	  atSelectText += '<option value="'+element.id+'">'+element.name+'</option>';
+	  //callAjaxNext(element)
+	}
+	//console.log(atSelectText);
+	return atSelectText;
+}
+
+</script>
+
+</body>
+</html>

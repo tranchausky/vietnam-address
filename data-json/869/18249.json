@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107102,
+            "name": "Thôn Tân Bình",
+            "pid": 18249,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.366060",
+            "lng": "109.144115"
+        },
+        {
+            "id": 107108,
+            "name": "Thôn Tân Phước",
+            "pid": 18249,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.364033",
+            "lng": "109.166333"
+        },
+        {
+            "id": 107114,
+            "name": "Thôn Tân Thọ",
+            "pid": 18249,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.367953",
+            "lng": "109.174268"
+        }
+    ],
+    "log_id": "67590b80b6cef841"
+}

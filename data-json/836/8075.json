@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112103,
+            "name": "Ấp 14",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 14",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.27409742228862",
+            "lng": "105.55664062500001"
+        },
+        {
+            "id": 112133,
+            "name": "Ấp 15",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 15",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.281212886599722",
+            "lng": "105.57346343994142"
+        },
+        {
+            "id": 112157,
+            "name": "Ấp An Khoa",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Khoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.284092914439945",
+            "lng": "105.59560775756837"
+        },
+        {
+            "id": 112183,
+            "name": "Ấp An Nghiệp",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.297645668793395",
+            "lng": "105.57998657226564"
+        },
+        {
+            "id": 112221,
+            "name": "Ấp An Thành",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.305268862535296",
+            "lng": "105.59337615966798"
+        },
+        {
+            "id": 112235,
+            "name": "Ấp Bình Minh",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.294765752380126",
+            "lng": "105.55870056152345"
+        },
+        {
+            "id": 112247,
+            "name": "Ấp Đồng Lớn 1",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Lớn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.294935159883854",
+            "lng": "105.54067611694337"
+        },
+        {
+            "id": 112265,
+            "name": "Ấp Đồng Lớn 2",
+            "pid": 8075,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Lớn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.295273974645365",
+            "lng": "105.52505493164064"
+        }
+    ],
+    "log_id": "675815e16ee6f907"
+}

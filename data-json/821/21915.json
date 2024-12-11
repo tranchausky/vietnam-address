@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 581943,
+            "name": "Bản Đồn Bỏng",
+            "pid": 21915,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Đồn Bỏng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5218951",
+            "lng": "104.17565730000001"
+        },
+        {
+            "id": 893506,
+            "name": "Bản Kiểu Bắc",
+            "pid": 21915,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Kiểu Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5218951",
+            "lng": "104.1756573"
+        },
+        {
+            "id": 581940,
+            "name": "Bản Na Khướng",
+            "pid": 21915,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Khướng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5218951",
+            "lng": "104.17565730000001"
+        },
+        {
+            "id": 663967,
+            "name": "Bản Na Loi",
+            "pid": 21915,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Loi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5218951",
+            "lng": "104.17565730000001"
+        },
+        {
+            "id": 581946,
+            "name": "Bản Piêng Lau",
+            "pid": 21915,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Piêng Lau",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5218951",
+            "lng": "104.17565730000001"
+        }
+    ],
+    "log_id": "67581208482bf946"
+}

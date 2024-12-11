@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 990973,
+            "name": "Công Ty Toyota",
+            "pid": 6373,
+            "type": 21,
+            "region": null,
+            "alias": "Công ty Toyota",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.231161745883558",
+            "lng": "105.71457116451498"
+        },
+        {
+            "id": 550081,
+            "name": "Đại Phùng",
+            "pid": 6373,
+            "type": 20,
+            "region": null,
+            "alias": "Đại Phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 911872,
+            "name": "Đồng Sơn",
+            "pid": 6373,
+            "type": 20,
+            "region": null,
+            "alias": "Đồng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 990975,
+            "name": "Tòa Nhà Tuệ Tâm",
+            "pid": 6373,
+            "type": 21,
+            "region": null,
+            "alias": "Tòa nhà Tuệ Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.234836088429713",
+            "lng": "105.71341394897625"
+        },
+        {
+            "id": 824482,
+            "name": "Trần Phú",
+            "pid": 6373,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 550083,
+            "name": "Xuân Mai",
+            "pid": 6373,
+            "type": 20,
+            "region": null,
+            "alias": "Xuân Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 550085,
+            "name": "Xuân Mới",
+            "pid": 6373,
+            "type": 20,
+            "region": null,
+            "alias": "Xuân Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 550087,
+            "name": "Xuân Phương",
+            "pid": 6373,
+            "type": 20,
+            "region": null,
+            "alias": "Xuân Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 550089,
+            "name": "Xuân Thượng",
+            "pid": 6373,
+            "type": 20,
+            "region": null,
+            "alias": "Xuân Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3325846",
+            "lng": "105.7233814"
+        }
+    ],
+    "log_id": "675815333383f831"
+}

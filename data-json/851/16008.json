@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109277,
+            "name": "Ấp Bến Đá",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bến Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.163923",
+            "lng": "104.912173"
+        },
+        {
+            "id": 109407,
+            "name": "Ấp Hòn Đất",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòn Đất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.099314",
+            "lng": "104.900027"
+        },
+        {
+            "id": 109299,
+            "name": "Ấp Hòn Me",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòn Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.124317",
+            "lng": "104.890499"
+        },
+        {
+            "id": 109323,
+            "name": "Ấp Hòn Quéo",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòn Quéo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.112661",
+            "lng": "104.871415"
+        },
+        {
+            "id": 109359,
+            "name": "Ấp Hòn Sóc",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòn Sóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.149873",
+            "lng": "104.899270"
+        },
+        {
+            "id": 109339,
+            "name": "Ấp Vạn Thanh",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vạn Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.109846",
+            "lng": "104.908567"
+        },
+        {
+            "id": 966719,
+            "name": "Chợ Hòn Quéo",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "Chợ Hòn Quéo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.112681",
+            "lng": "104.871837"
+        },
+        {
+            "id": 966721,
+            "name": "Chợ Vạn Thanh",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "Chợ Vạn Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.109892",
+            "lng": "104.909054"
+        },
+        {
+            "id": 966720,
+            "name": "Mộ Chị Sứ",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "Mộ Chị Sứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.106153",
+            "lng": "104.893477"
+        },
+        {
+            "id": 966722,
+            "name": "Suối Tiên",
+            "pid": 16008,
+            "type": 17,
+            "region": null,
+            "alias": "Suối Tiên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.155293",
+            "lng": "104.896294"
+        }
+    ],
+    "log_id": "67581736537c5506"
+}

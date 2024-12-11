@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846553,
+            "name": "Nà Đắng",
+            "pid": 17784,
+            "type": 16,
+            "region": null,
+            "alias": "Nà đắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6949087",
+            "lng": "106.84217490000003"
+        },
+        {
+            "id": 714832,
+            "name": "Thôn Bó Tảng",
+            "pid": 17784,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bó tảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.693536",
+            "lng": "106.841220"
+        }
+    ],
+    "log_id": "6758133f424e7485"
+}

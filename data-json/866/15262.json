@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 716131,
+            "name": "Cao Đình Độ",
+            "pid": 15262,
+            "type": 21,
+            "region": null,
+            "alias": "Cao đình độ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.4442134",
+            "lng": "107.58280179999996"
+        },
+        {
+            "id": 464217,
+            "name": "Đường Đặng Huy Trứ",
+            "pid": 15262,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Huy Trứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4442134",
+            "lng": "107.58280179999997"
+        },
+        {
+            "id": 805807,
+            "name": "Đường Điện Biên Phủ",
+            "pid": 15262,
+            "type": 21,
+            "region": null,
+            "alias": "đường Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4442134",
+            "lng": "107.58280179999997"
+        },
+        {
+            "id": 464195,
+            "name": "Đường Dương Xuân",
+            "pid": 15262,
+            "type": 21,
+            "region": null,
+            "alias": "đường Dương Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4442134",
+            "lng": "107.58280179999997"
+        },
+        {
+            "id": 805804,
+            "name": "Thích Tịnh Khiết",
+            "pid": 15262,
+            "type": 21,
+            "region": null,
+            "alias": "Thích Tịnh Khiết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.4442134",
+            "lng": "107.58280179999997"
+        }
+    ],
+    "log_id": "67590b2636a05483"
+}

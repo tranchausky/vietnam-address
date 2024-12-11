@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011817,
+            "name": "Làng Bãi Chim",
+            "pid": 4746,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Bãi Chim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.706638160456222",
+            "lng": "105.96857138730869"
+        },
+        {
+            "id": 101174,
+            "name": "Thôn Duyên Trang",
+            "pid": 4746,
+            "type": 16,
+            "region": null,
+            "alias": "thôn duyên trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.756495",
+            "lng": "105.958500"
+        },
+        {
+            "id": 101195,
+            "name": "Thôn Duyên Yết",
+            "pid": 4746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Duyên Yết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.771824",
+            "lng": "105.956612"
+        },
+        {
+            "id": 101213,
+            "name": "Thôn Lạt Dương",
+            "pid": 4746,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lạt dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.744777",
+            "lng": "105.959873"
+        }
+    ],
+    "log_id": "675811bcd64af756"
+}

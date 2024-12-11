@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452987,
+            "name": "Ấp Bình Điện",
+            "pid": 7312,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Điện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5272667",
+            "lng": "106.48880669999994"
+        },
+        {
+            "id": 452983,
+            "name": "Ấp Bình Hòa",
+            "pid": 7312,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5272667",
+            "lng": "106.48880669999994"
+        },
+        {
+            "id": 452985,
+            "name": "Ấp Bình Thạnh",
+            "pid": 7312,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5272667",
+            "lng": "106.48880669999994"
+        }
+    ],
+    "log_id": "67581785455b0507"
+}

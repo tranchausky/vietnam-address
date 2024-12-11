@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 556399,
+            "name": "Dùng",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "Dùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 556407,
+            "name": "Thạch An",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "thạch An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 556405,
+            "name": "Thạch Minh",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "thạch Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 556395,
+            "name": "Thôn An Ninh",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 556397,
+            "name": "Thôn Đồi",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 556401,
+            "name": "Thôn Liên Sơn",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liên Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 556403,
+            "name": "Thôn Mòng",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 804637,
+            "name": "Thôn Ngọc Liên",
+            "pid": 21114,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ngọc Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.207208",
+            "lng": "105.34824600000002"
+        }
+    ],
+    "log_id": "67590a23ce95d700"
+}

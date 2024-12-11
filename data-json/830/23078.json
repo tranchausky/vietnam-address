@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 822490,
+            "name": "Cốc Nghè",
+            "pid": 23078,
+            "type": 16,
+            "region": null,
+            "alias": "Cốc Nghè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0287982",
+            "lng": "105.81382529999996"
+        },
+        {
+            "id": 928612,
+            "name": "Hạ Sơn",
+            "pid": 23078,
+            "type": 18,
+            "region": null,
+            "alias": "Hạ Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0287982",
+            "lng": "105.81382529999996"
+        },
+        {
+            "id": 795580,
+            "name": "Nà La",
+            "pid": 23078,
+            "type": 16,
+            "region": null,
+            "alias": "Nà La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0287982",
+            "lng": "105.81382529999996"
+        },
+        {
+            "id": 807307,
+            "name": "Thôn Giang Nam",
+            "pid": 23078,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Giang Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.933430",
+            "lng": "104.851822"
+        },
+        {
+            "id": 795595,
+            "name": "Thôn Nặm Ngặt",
+            "pid": 23078,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nặm Ngặt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0287982",
+            "lng": "105.81382529999996"
+        },
+        {
+            "id": 572535,
+            "name": "Thôn Nà Toog",
+            "pid": 23078,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nà toog",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0287982",
+            "lng": "105.81382529999996"
+        },
+        {
+            "id": 795589,
+            "name": "Thôn Thanh Sơn",
+            "pid": 23078,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0287982",
+            "lng": "105.81382529999996"
+        }
+    ],
+    "log_id": "67581566694c3628"
+}

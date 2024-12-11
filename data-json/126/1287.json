@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 715123,
+            "name": "1-216 Đường Số 48",
+            "pid": 1287,
+            "type": 29,
+            "region": null,
+            "alias": "1-216 Đường số 48",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7595968",
+            "lng": "106.6975924"
+        },
+        {
+            "id": 661873,
+            "name": "189-217 Tôn Thất Thuyết",
+            "pid": 1287,
+            "type": 29,
+            "region": null,
+            "alias": "189-217 Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7531631",
+            "lng": "106.6992173"
+        },
+        {
+            "id": 661879,
+            "name": "218-284 Tôn Thất Thuyết",
+            "pid": 1287,
+            "type": 29,
+            "region": null,
+            "alias": "218-284 Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.75311",
+            "lng": "106.695575"
+        },
+        {
+            "id": 670795,
+            "name": "Đường Khánh Hội",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Khánh Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7560542",
+            "lng": "106.7011473"
+        },
+        {
+            "id": 776236,
+            "name": "Đường Nguyễn Khoái",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Khoái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.754494",
+            "lng": "106.6991396"
+        },
+        {
+            "id": 671593,
+            "name": "Đường Số 10A",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường số 10A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.754902",
+            "lng": "106.6996268"
+        },
+        {
+            "id": 676357,
+            "name": "Đường Số 12A",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường số 12A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7549025",
+            "lng": "106.7004626"
+        },
+        {
+            "id": 670846,
+            "name": "Đường Số 12B",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường số 12B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7549025",
+            "lng": "106.7004626"
+        },
+        {
+            "id": 676807,
+            "name": "Đường Số 12C",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường số 12C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7545563",
+            "lng": "106.7004499"
+        },
+        {
+            "id": 780985,
+            "name": "Đường Số 48",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Số 48",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.754494",
+            "lng": "106.6991396"
+        },
+        {
+            "id": 679999,
+            "name": "Đường Tôn Thất Thuyết",
+            "pid": 1287,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7530278",
+            "lng": "106.6983066"
+        },
+        {
+            "id": 45158,
+            "name": "Trường Thcs Quang Trung",
+            "pid": 1287,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7546863",
+            "lng": "106.6980962"
+        }
+    ],
+    "log_id": "6758129a96200347"
+}

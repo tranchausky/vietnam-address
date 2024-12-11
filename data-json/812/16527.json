@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567891,
+            "name": "Thôn Dân Hiệp",
+            "pid": 16527,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.197485",
+            "lng": "108.15916270000002"
+        },
+        {
+            "id": 567888,
+            "name": "Thôn Dân Hòa",
+            "pid": 16527,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dân Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.197485",
+            "lng": "108.15916270000002"
+        },
+        {
+            "id": 567885,
+            "name": "Thôn Dân Lễ",
+            "pid": 16527,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dân Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.197485",
+            "lng": "108.15916270000002"
+        },
+        {
+            "id": 567894,
+            "name": "Thôn Dân Trí",
+            "pid": 16527,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dân Trí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.197485",
+            "lng": "108.15916270000002"
+        }
+    ],
+    "log_id": "675814780293d513"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 85160,
+            "name": "Công Ty Formosa",
+            "pid": 21301,
+            "type": 4,
+            "region": null,
+            "alias": "Công ty formosa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0295822",
+            "lng": "106.4040738"
+        },
+        {
+            "id": 898384,
+            "name": "Cty Tnhh A&B Việt Nam",
+            "pid": 21301,
+            "type": 10,
+            "region": null,
+            "alias": "Cty TNHH A&B Việt Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.012982",
+            "lng": "106.3984041"
+        },
+        {
+            "id": 88766,
+            "name": "Ktx Công Ty Gang Thép Formosa",
+            "pid": 21301,
+            "type": 5,
+            "region": null,
+            "alias": "KTX Công Ty Gang Thép Formosa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.029984",
+            "lng": "106.404305"
+        },
+        {
+            "id": 88763,
+            "name": "Ktx Hộ Gia Đình",
+            "pid": 21301,
+            "type": 5,
+            "region": null,
+            "alias": "KTX Hộ Gia Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.014421",
+            "lng": "106.402519"
+        },
+        {
+            "id": 428027,
+            "name": "Tdp Hoành Nam",
+            "pid": 21301,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Hoành Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1863498",
+            "lng": "106.18750160000002"
+        },
+        {
+            "id": 428033,
+            "name": "Tdp Lê Lợi",
+            "pid": 21301,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1863498",
+            "lng": "106.18750160000002"
+        },
+        {
+            "id": 428031,
+            "name": "Tdp Liên Phú",
+            "pid": 21301,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Liên Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1863498",
+            "lng": "106.18750160000002"
+        },
+        {
+            "id": 428035,
+            "name": "Tdp Liên Sơn",
+            "pid": 21301,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Liên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1863498",
+            "lng": "106.18750160000002"
+        },
+        {
+            "id": 818329,
+            "name": "Trụ Sở Công An Kỳ Liên",
+            "pid": 21301,
+            "type": 20,
+            "region": null,
+            "alias": "trụ sở công an kỳ liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.012982",
+            "lng": "106.3984041"
+        }
+    ],
+    "log_id": "675816e9d9c47537"
+}

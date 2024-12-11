@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758203,
+            "name": "Thống Hạ",
+            "pid": 13597,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1377307",
+            "lng": "106.18161959999998"
+        },
+        {
+            "id": 758194,
+            "name": "Thống Thượng",
+            "pid": 13597,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1377307",
+            "lng": "106.18161959999998"
+        },
+        {
+            "id": 758209,
+            "name": "Việt Hưng",
+            "pid": 13597,
+            "type": 16,
+            "region": null,
+            "alias": "Việt Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1377307",
+            "lng": "106.18161959999998"
+        },
+        {
+            "id": 758206,
+            "name": "Việt Vân",
+            "pid": 13597,
+            "type": 16,
+            "region": null,
+            "alias": "Việt Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1377307",
+            "lng": "106.18161959999998"
+        },
+        {
+            "id": 758197,
+            "name": "Yên Ngô",
+            "pid": 13597,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Ngô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1377307",
+            "lng": "106.18161959999998"
+        }
+    ],
+    "log_id": "675815f8cc49b955"
+}

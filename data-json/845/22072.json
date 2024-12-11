@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 873607,
+            "name": "Thôn Hôi Thủng1",
+            "pid": 22072,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hôi Thủng1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.964330800000006",
+            "lng": "102.59865969999998"
+        },
+        {
+            "id": 840229,
+            "name": "Thôn Huổi Thủng",
+            "pid": 22072,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Huổi Thủng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.964330800000006",
+            "lng": "102.59865969999998"
+        },
+        {
+            "id": 873604,
+            "name": "Thôn Na Cô Sa 2",
+            "pid": 22072,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Na Cô Sa 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.964330800000006",
+            "lng": "102.59865969999998"
+        },
+        {
+            "id": 840226,
+            "name": "Thôn Nậm Chẩn",
+            "pid": 22072,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nậm Chẩn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.964330800000006",
+            "lng": "102.59865969999998"
+        }
+    ],
+    "log_id": "675816a5997d1809"
+}

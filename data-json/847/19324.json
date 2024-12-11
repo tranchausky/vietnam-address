@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449587,
+            "name": "Thôn An Thạch",
+            "pid": 19324,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.054471",
+            "lng": "108.700628"
+        },
+        {
+            "id": 449581,
+            "name": "Thôn An Xuân 1",
+            "pid": 19324,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Xuân 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.054471",
+            "lng": "108.700628"
+        },
+        {
+            "id": 449583,
+            "name": "Thôn An Xuân 2",
+            "pid": 19324,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Xuân 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.054471",
+            "lng": "108.700628"
+        },
+        {
+            "id": 449585,
+            "name": "Thôn An Xuân 3",
+            "pid": 19324,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Xuân 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.054471",
+            "lng": "108.700628"
+        }
+    ],
+    "log_id": "675816d333f84919"
+}

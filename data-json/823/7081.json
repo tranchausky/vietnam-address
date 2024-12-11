@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93821,
+            "name": "Khu Phố Bàu Sen",
+            "pid": 7081,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bàu Sen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9192849",
+            "lng": "107.2059847"
+        },
+        {
+            "id": 93815,
+            "name": "Khu Phố Núi Đỏ",
+            "pid": 7081,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Núi Đỏ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.926296",
+            "lng": "107.229649"
+        },
+        {
+            "id": 93818,
+            "name": "Khu Phố Tân Thủy",
+            "pid": 7081,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Tân Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9186655",
+            "lng": "107.199743"
+        }
+    ],
+    "log_id": "675814dd6195b558"
+}

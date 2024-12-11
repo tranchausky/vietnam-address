@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 529081,
+            "name": "Bản Độ 2",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Độ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 529083,
+            "name": "Bản Độ 3",
+            "pid": 21453,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Độ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 529085,
+            "name": "Bản Quỳnh 1",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Quỳnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 529087,
+            "name": "Bản Quỳnh 2",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Quỳnh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 910465,
+            "name": "Đồng Phầu",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "đồng Phầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 893608,
+            "name": "Hòa Bình",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 893611,
+            "name": "Kẻ Khoang",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "Kẻ Khoang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        },
+        {
+            "id": 910471,
+            "name": "Kẻ Nâm",
+            "pid": 21453,
+            "type": 18,
+            "region": null,
+            "alias": "Kẻ Nâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5197323",
+            "lng": "105.19534829999998"
+        }
+    ],
+    "log_id": "67581208ae8f6714"
+}

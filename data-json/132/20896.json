@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 790012,
+            "name": "Thôn Khe Dứa",
+            "pid": 20896,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Khe Dứa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7767934",
+            "lng": "104.69376740000007"
+        },
+        {
+            "id": 790009,
+            "name": "Thôn Khe Lợ",
+            "pid": 20896,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Lợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7767934",
+            "lng": "104.69376740000007"
+        }
+    ],
+    "log_id": "6758131fbf5ae537"
+}

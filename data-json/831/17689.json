@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 456869,
+            "name": "Thôn Chi Chay",
+            "pid": 17689,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chi Chay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0552157",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 456867,
+            "name": "Thôn Ma O",
+            "pid": 17689,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ma O",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0552157",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 456865,
+            "name": "Thôn Tà Nĩa",
+            "pid": 17689,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tà Nĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0552157",
+            "lng": "108.96210910000002"
+        }
+    ],
+    "log_id": "67581585d5b7a954"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 807520,
+            "name": "Tiểu Khu Cơ Khí",
+            "pid": 4737,
+            "type": 16,
+            "region": null,
+            "alias": "tiểu khu cơ khí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7825722",
+            "lng": "105.91564770000002"
+        },
+        {
+            "id": 100322,
+            "name": "Tiểu Khu Giấy",
+            "pid": 4737,
+            "type": 16,
+            "region": null,
+            "alias": "tiểu khu giấy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.783530, 105.916818",
+            "lng": "20.783530, 105.916818"
+        },
+        {
+            "id": 100331,
+            "name": "Tiểu Khu Phú Thịnh",
+            "pid": 4737,
+            "type": 16,
+            "region": null,
+            "alias": "tiểu khu phú thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.782646, 105.914286",
+            "lng": "20.782646, 105.914286"
+        },
+        {
+            "id": 100337,
+            "name": "Xóm Chợ",
+            "pid": 4737,
+            "type": 18,
+            "region": null,
+            "alias": "xóm chợ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.781613, 105.917563",
+            "lng": "20.781613, 105.917563"
+        }
+    ],
+    "log_id": "675811bca0f81845"
+}

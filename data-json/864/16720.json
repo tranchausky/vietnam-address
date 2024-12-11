@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900826,
+            "name": "Làng Luông",
+            "pid": 16720,
+            "type": 20,
+            "region": null,
+            "alias": "Làng Luông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3636125",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 636441,
+            "name": "Sơn Trung",
+            "pid": 16720,
+            "type": 18,
+            "region": null,
+            "alias": "Sơn Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3636125",
+            "lng": "105.82315879999999"
+        },
+        {
+            "id": 1011626,
+            "name": "Tdp 3 Phường Bắc Sơn",
+            "pid": 16720,
+            "type": 18,
+            "region": null,
+            "alias": "TDP 3 Phường Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.443969",
+            "lng": "105.778378"
+        },
+        {
+            "id": 924313,
+            "name": "Tdp Trung",
+            "pid": 16720,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3636125",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 636462,
+            "name": "Xóm A1",
+            "pid": 16720,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm A1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3636125",
+            "lng": "105.82315879999999"
+        },
+        {
+            "id": 636465,
+            "name": "Xóm A2",
+            "pid": 16720,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm A2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3636125",
+            "lng": "105.82315879999999"
+        }
+    ],
+    "log_id": "67590a09cae1d528"
+}

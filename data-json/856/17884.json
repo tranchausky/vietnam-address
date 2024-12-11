@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 575664,
+            "name": "Thôn An Thượng",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 575649,
+            "name": "Thôn Cầu Mơ",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Mơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 575646,
+            "name": "Thôn Chát",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 575658,
+            "name": "Thôn Hói",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hói",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 575661,
+            "name": "Thôn Ngải",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 575655,
+            "name": "Thôn Thượng Đồng",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        },
+        {
+            "id": 575652,
+            "name": "Thôn Trung Đông",
+            "pid": 17884,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.30187",
+            "lng": "105.74391939999998"
+        }
+    ],
+    "log_id": "67581798f4029820"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462963,
+            "name": "Thôn 1",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3664044",
+            "lng": "107.80507720000003"
+        },
+        {
+            "id": 99134,
+            "name": "Thôn 2",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.391074",
+            "lng": "107.797049"
+        },
+        {
+            "id": 98591,
+            "name": "Thôn 3",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.377227",
+            "lng": "107.810529"
+        },
+        {
+            "id": 98921,
+            "name": "Thôn 4",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.371646",
+            "lng": "107.817270"
+        },
+        {
+            "id": 98993,
+            "name": "Thôn 5",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.381882",
+            "lng": "107.807736"
+        },
+        {
+            "id": 929671,
+            "name": "Thôn Cống Quan",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cống Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3664044",
+            "lng": "107.80507720000004"
+        },
+        {
+            "id": 462973,
+            "name": "Thôn Hà Giang",
+            "pid": 16296,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3664044",
+            "lng": "107.80507720000003"
+        }
+    ],
+    "log_id": "67590b2622e42418"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1480,
+            "name": "Huyện Châu Đức",
+            "pid": 834,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Châu Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6284702",
+            "lng": "107.24299759999996"
+        },
+        {
+            "id": 1481,
+            "name": "Huyện Côn Đảo",
+            "pid": 834,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Côn Đảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.7009282",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 1482,
+            "name": "Huyện Đất Đỏ",
+            "pid": 834,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4728035",
+            "lng": "107.3139304"
+        },
+        {
+            "id": 1483,
+            "name": "Huyện Long Điền",
+            "pid": 834,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Long Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4449241",
+            "lng": "107.23117739999998"
+        },
+        {
+            "id": 1485,
+            "name": "Huyện Xuyên Mộc",
+            "pid": 834,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Xuyên Mộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6177683",
+            "lng": "107.43219590000001"
+        },
+        {
+            "id": 1487,
+            "name": "Thành Phố Bà Rịa",
+            "pid": 834,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Bà Rịa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 1486,
+            "name": "Thành Phố Vũng Tàu",
+            "pid": 834,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Vũng Tàu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4113797",
+            "lng": "107.13622399999997"
+        },
+        {
+            "id": 1484,
+            "name": "Thị Xã Phú Mỹ",
+            "pid": 834,
+            "type": 7,
+            "region": null,
+            "alias": "Thị xã Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5640726",
+            "lng": "107.05952330000002"
+        }
+    ],
+    "log_id": "675815b3c3a25746"
+}

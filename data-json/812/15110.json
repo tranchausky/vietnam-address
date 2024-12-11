@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 711694,
+            "name": "01 - 325 Đường Trần Quý Cáp",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "01 - 325 Đường Trần Quý Cáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 991424,
+            "name": "02 - 208 Đường Trần Quý Cáp",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "02 - 208 Đường Trần Quý Cáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 991423,
+            "name": "500 - 734 Đường Trần Hưng Đạo",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "500 - 734 Đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 711646,
+            "name": "661 - 779 Đường Trần Hưng Đạo",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "661 - 779 Đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 711658,
+            "name": "Đường Trần Lê",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Lê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 711667,
+            "name": "Đường Trương Văn Ly",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trương Văn Ly",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 711685,
+            "name": "Đường Tú Luông",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tú Luông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 1005525,
+            "name": "Trung Tâm Dạy Nghề Trường Quyết Thắng, Đường Trương Văn Ly",
+            "pid": 15110,
+            "type": 21,
+            "region": null,
+            "alias": "Trung Tâm dạy nghề Trường Quyết Thắng, Đường Trương Văn Ly",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.917976",
+            "lng": "108.084065"
+        },
+        {
+            "id": 747664,
+            "name": "Trường Tiểu Học Đức Long",
+            "pid": 15110,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Đức Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.91322",
+            "lng": "108.080358"
+        }
+    ],
+    "log_id": "67581477eaeef821"
+}

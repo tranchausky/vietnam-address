@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559417,
+            "name": "Thôn Hào Bắc",
+            "pid": 17117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hào Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8959488",
+            "lng": "105.81435280000005"
+        },
+        {
+            "id": 559421,
+            "name": "Thôn Sao Vàng 2",
+            "pid": 17117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sao Vàng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8959488",
+            "lng": "105.81435280000005"
+        },
+        {
+            "id": 559415,
+            "name": "Thôn Tân Đức",
+            "pid": 17117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8959488",
+            "lng": "105.81435280000005"
+        },
+        {
+            "id": 559419,
+            "name": "Thôn Tự Động",
+            "pid": 17117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tự Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8959488",
+            "lng": "105.81435280000005"
+        }
+    ],
+    "log_id": "67590a2376480559"
+}

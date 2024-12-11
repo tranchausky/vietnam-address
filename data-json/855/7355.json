@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452415,
+            "name": "Ấp 61",
+            "pid": 7355,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 61",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7402967",
+            "lng": "106.19338370000003"
+        },
+        {
+            "id": 452419,
+            "name": "Ấp Đông A",
+            "pid": 7355,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đông A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7402967",
+            "lng": "106.19338370000003"
+        },
+        {
+            "id": 452417,
+            "name": "Ấp Gãy",
+            "pid": 7355,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Gãy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7402967",
+            "lng": "106.19338370000003"
+        },
+        {
+            "id": 452421,
+            "name": "Ấp Tây Ba",
+            "pid": 7355,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tây Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7402967",
+            "lng": "106.19338370000003"
+        }
+    ],
+    "log_id": "675817854df09223"
+}

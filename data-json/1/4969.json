@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1009116,
+            "name": "80 La Thành",
+            "pid": 4969,
+            "type": 4,
+            "region": null,
+            "alias": "80 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.146330938060487",
+            "lng": " 105.50530513189841"
+        },
+        {
+            "id": 1009117,
+            "name": "96 La Thành",
+            "pid": 4969,
+            "type": 4,
+            "region": null,
+            "alias": "96 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.146322957021944",
+            "lng": "105.50645373122929"
+        },
+        {
+            "id": 1009105,
+            "name": "120 La Thành",
+            "pid": 4969,
+            "type": 4,
+            "region": null,
+            "alias": "120 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.14537312607288",
+            "lng": "105.50683364364109"
+        },
+        {
+            "id": 1009109,
+            "name": "172 La Thành",
+            "pid": 4969,
+            "type": 4,
+            "region": null,
+            "alias": "172 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.14363442065878",
+            "lng": "105.50814124346549"
+        },
+        {
+            "id": 1011569,
+            "name": "208 Lê Lợi",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "208 Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.14839540359899",
+            "lng": "105.50557260494527"
+        },
+        {
+            "id": 1011570,
+            "name": "Công Ty Cổ Phần May Sơn Hà",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty Cổ Phần May Sơn Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.14844285323344",
+            "lng": "105.50559742954495"
+        },
+        {
+            "id": 1008153,
+            "name": "La Thành",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "La Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.144983170724853",
+            "lng": "105.5072838124745"
+        },
+        {
+            "id": 807784,
+            "name": "Lê Lợi",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1450319",
+            "lng": "105.50567610000007"
+        },
+        {
+            "id": 990871,
+            "name": "Phạm Ngũ Lão",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "PHẠM NGŨ LÃO",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.140370332797612",
+            "lng": "105.50726968688943"
+        },
+        {
+            "id": 994501,
+            "name": "Số Nhà Chẵn Từ 182-310 Lê Lợi",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "Số nhà chẵn từ 182-310 Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1450319",
+            "lng": "105.50567610000008"
+        },
+        {
+            "id": 992265,
+            "name": "Trạng Trình",
+            "pid": 4969,
+            "type": 10,
+            "region": null,
+            "alias": "Trạng Trình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.151719082641634",
+            "lng": "105.50409174411219"
+        },
+        {
+            "id": 1010154,
+            "name": "Trưng Vương",
+            "pid": 4969,
+            "type": 21,
+            "region": null,
+            "alias": "Trưng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.141280765629133",
+            "lng": "105.50775139567057"
+        }
+    ],
+    "log_id": "675811bca06e3651"
+}

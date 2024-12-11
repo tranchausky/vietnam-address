@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 913648,
+            "name": "Cổng Si",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Cổng Si",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.67937919999996"
+        },
+        {
+            "id": 119503,
+            "name": "Thôn An Ninh",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9734301",
+            "lng": "105.685453"
+        },
+        {
+            "id": 119505,
+            "name": "Thôn Bờ Hồ",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bờ Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.6793792"
+        },
+        {
+            "id": 119507,
+            "name": "Thôn Đầm",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đầm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.6793792"
+        },
+        {
+            "id": 119509,
+            "name": "Thôn Đồng Cầu",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.6793792"
+        },
+        {
+            "id": 119511,
+            "name": "Thôn Đồng Găng",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Găng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.6793792"
+        },
+        {
+            "id": 119513,
+            "name": "Thôn Thị Ngoại",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thị Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.6793792"
+        },
+        {
+            "id": 119515,
+            "name": "Thôn Thị Nội",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thị Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9675853",
+            "lng": "105.6790521"
+        },
+        {
+            "id": 119517,
+            "name": "Thôn Thổ Ngoã",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thổ Ngoã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9572145",
+            "lng": "105.6784626"
+        },
+        {
+            "id": 119519,
+            "name": "Thôn Yên Mã",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Mã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9615032",
+            "lng": "105.6780703"
+        },
+        {
+            "id": 119521,
+            "name": "Thôn Yên Thái",
+            "pid": 4804,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9627455",
+            "lng": "105.6793792"
+        },
+        {
+            "id": 53490,
+            "name": "Thpt Cao Bá Quát",
+            "pid": 4804,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Cao Bá Quát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 55194,
+            "name": "Ubnd Xã Tân Hòa",
+            "pid": 4804,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bcd5acc18"
+}

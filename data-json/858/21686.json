@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 634257,
+            "name": "Khu 1",
+            "pid": 21686,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5096131",
+            "lng": "105.04112980000002"
+        },
+        {
+            "id": 634260,
+            "name": "Khu 2",
+            "pid": 21686,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5096131",
+            "lng": "105.04112980000002"
+        },
+        {
+            "id": 634263,
+            "name": "Khu 3",
+            "pid": 21686,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5096131",
+            "lng": "105.04112980000002"
+        },
+        {
+            "id": 634266,
+            "name": "Khu 4",
+            "pid": 21686,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5096131",
+            "lng": "105.04112980000002"
+        }
+    ],
+    "log_id": "675817cd94de3994"
+}

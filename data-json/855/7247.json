@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980046,
+            "name": "69 Ql1A",
+            "pid": 7247,
+            "type": 5,
+            "region": null,
+            "alias": "69 Ql1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6319475",
+            "lng": "106.5015076"
+        },
+        {
+            "id": 980047,
+            "name": "Ấp Chánh",
+            "pid": 7247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.632774",
+            "lng": "106.525866"
+        },
+        {
+            "id": 437373,
+            "name": "Ấp Voi Lá",
+            "pid": 7247,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Voi Lá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6412586",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 729934,
+            "name": "Kcn Vĩnh Lộc",
+            "pid": 7247,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Vĩnh Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6412586",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 437375,
+            "name": "Lò Gạch",
+            "pid": 7247,
+            "type": 17,
+            "region": null,
+            "alias": "Lò Gạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6412586",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 437371,
+            "name": "Long Bình",
+            "pid": 7247,
+            "type": 17,
+            "region": null,
+            "alias": "Long Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6412586",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 437369,
+            "name": "Phước Tỉnh",
+            "pid": 7247,
+            "type": 17,
+            "region": null,
+            "alias": "Phước Tỉnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6412586",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 944222,
+            "name": "Phước Toàn",
+            "pid": 7247,
+            "type": 17,
+            "region": null,
+            "alias": "phước toàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6272298'N",
+            "lng": "106.5297565'E"
+        }
+    ],
+    "log_id": "675817851c268534"
+}

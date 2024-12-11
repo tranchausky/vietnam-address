@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 812005,
+            "name": "Khuổi Chửn",
+            "pid": 21983,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Chửn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3104246",
+            "lng": "106.27060240000003"
+        },
+        {
+            "id": 851332,
+            "name": "Thôn Khau Mò",
+            "pid": 21983,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Khau Mò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3104246",
+            "lng": "106.27060240000003"
+        },
+        {
+            "id": 501531,
+            "name": "Thôn Nà Deng",
+            "pid": 21983,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nà deng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3104246",
+            "lng": "106.27060240000003"
+        }
+    ],
+    "log_id": "6758133f45a56417"
+}

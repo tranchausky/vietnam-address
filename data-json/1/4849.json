@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 489033,
+            "name": "Hoàng Xá",
+            "pid": 4849,
+            "type": 10,
+            "region": null,
+            "alias": "Hoàng Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.065236",
+            "lng": "105.539187"
+        },
+        {
+            "id": 489023,
+            "name": "Lại Khánh",
+            "pid": 4849,
+            "type": 16,
+            "region": null,
+            "alias": "Lại Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.071401",
+            "lng": "105.5602607"
+        },
+        {
+            "id": 489025,
+            "name": "Lại Thượng",
+            "pid": 4849,
+            "type": 16,
+            "region": null,
+            "alias": "Lại Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0663584",
+            "lng": "105.5549937"
+        },
+        {
+            "id": 489021,
+            "name": "Ngũ Sơn",
+            "pid": 4849,
+            "type": 16,
+            "region": null,
+            "alias": "Ngũ Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0673923",
+            "lng": "105.5565968"
+        },
+        {
+            "id": 489027,
+            "name": "Phú Thụ",
+            "pid": 4849,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0777727",
+            "lng": "105.5475616"
+        },
+        {
+            "id": 489031,
+            "name": "Thanh Câu",
+            "pid": 4849,
+            "type": 10,
+            "region": null,
+            "alias": "Thanh Câu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0774957",
+            "lng": "105.549062"
+        },
+        {
+            "id": 55342,
+            "name": "Ubnd Xã Lại Thượng",
+            "pid": 4849,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Lại Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 778915,
+            "name": "Xóm Giữa",
+            "pid": 4849,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0693871",
+            "lng": "105.55747450000001"
+        }
+    ],
+    "log_id": "675811bc0e450299"
+}

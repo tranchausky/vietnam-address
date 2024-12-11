@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 885556,
+            "name": "Kcn B1 Tiên Hùng",
+            "pid": 6616,
+            "type": 5,
+            "region": null,
+            "alias": "KCN B1 Tiên Hùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6288504",
+            "lng": "107.0421324"
+        },
+        {
+            "id": 36454,
+            "name": "Kcn Mỹ Xuân A1",
+            "pid": 6616,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Mỹ Xuân A1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5640726",
+            "lng": "107.05952330000002"
+        },
+        {
+            "id": 36450,
+            "name": "Kcn Mỹ Xuân A2",
+            "pid": 6616,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Mỹ Xuân A2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6372821",
+            "lng": "107.06132550000007"
+        },
+        {
+            "id": 36470,
+            "name": "Kcn Mỹ Xuân B1",
+            "pid": 6616,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Mỹ Xuân B1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5640726",
+            "lng": "107.05952330000002"
+        },
+        {
+            "id": 989936,
+            "name": "Kp.phú Hà",
+            "pid": 6616,
+            "type": 21,
+            "region": null,
+            "alias": "KP.Phú Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.64701667173196",
+            "lng": "107.04438645426204"
+        }
+    ],
+    "log_id": "675815b418176585"
+}

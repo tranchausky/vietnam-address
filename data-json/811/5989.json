@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 525089,
+            "name": "Đường An Phong",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "Đường An Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525091,
+            "name": "Đường Diên Hồng",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Diên Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 835645,
+            "name": "Đường Hàng Đồng",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "đường Hàng đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525093,
+            "name": "Đường Hưng Yên",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hưng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525095,
+            "name": "Đường Mạc Thị Bưởi",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mạc Thị Bưởi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 786778,
+            "name": "Đường Ngô Gia Tự",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "đường Ngô Gia Tự",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525097,
+            "name": "Đường Quang Trung",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quang Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525099,
+            "name": "Đường Trường Chinh",
+            "pid": 5989,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Chinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7c582474"
+}

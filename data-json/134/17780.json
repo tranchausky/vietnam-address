@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 714817,
+            "name": "Thôn Khau Khảo",
+            "pid": 17780,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khau Khảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.647396",
+            "lng": "106.995442"
+        },
+        {
+            "id": 714829,
+            "name": "Thôn Phai Vài",
+            "pid": 17780,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phai vài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.648832",
+            "lng": "106.994895"
+        }
+    ],
+    "log_id": "6758133f32fd53"
+}

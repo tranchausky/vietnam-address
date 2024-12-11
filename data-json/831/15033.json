@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 856762,
+            "name": "Đường Trần Nhật Duật",
+            "pid": 15033,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Nhật Duật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2373595,",
+            "lng": "109.1832696"
+        },
+        {
+            "id": 744307,
+            "name": "Đường Trương Định",
+            "pid": 15033,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trương định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2420564",
+            "lng": "109.18726149999998"
+        },
+        {
+            "id": 744301,
+            "name": "Nguyễn Hữu Huân",
+            "pid": 15033,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hữu Huân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2420564",
+            "lng": "109.18726149999998"
+        }
+    ],
+    "log_id": "67581585e27ca516"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 845518,
+            "name": "Bà Huyện Thanh Quan",
+            "pid": 6591,
+            "type": 21,
+            "region": null,
+            "alias": "Bà Huyện Thanh Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3545069",
+            "lng": "107.07904359999998"
+        },
+        {
+            "id": 712768,
+            "name": "Nguyễn Văn Trỗi",
+            "pid": 6591,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Văn Trỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3545069",
+            "lng": "107.07904359999998"
+        }
+    ],
+    "log_id": "675815b3e6f6f821"
+}

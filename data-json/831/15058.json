@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639751,
+            "name": "Hội Thành",
+            "pid": 15058,
+            "type": 21,
+            "region": null,
+            "alias": "Hội Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.471354",
+            "lng": "109.162935"
+        },
+        {
+            "id": 639745,
+            "name": "Mỹ Chánh",
+            "pid": 15058,
+            "type": 21,
+            "region": null,
+            "alias": "Mỹ Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.478711",
+            "lng": "109.145598"
+        },
+        {
+            "id": 639736,
+            "name": "Phong Phú 1",
+            "pid": 15058,
+            "type": 21,
+            "region": null,
+            "alias": "Phong Phú 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.474508",
+            "lng": "109.135085"
+        },
+        {
+            "id": 639739,
+            "name": "Phong Phú 2",
+            "pid": 15058,
+            "type": 21,
+            "region": null,
+            "alias": "Phong Phú 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.478711,109.145596",
+            "lng": "109.145596"
+        },
+        {
+            "id": 639742,
+            "name": "Phú Thạnh",
+            "pid": 15058,
+            "type": 21,
+            "region": null,
+            "alias": "Phú Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.478711",
+            "lng": "109.145597"
+        },
+        {
+            "id": 871312,
+            "name": "Phú Thứ",
+            "pid": 15058,
+            "type": 16,
+            "region": null,
+            "alias": "PHÚ THỨ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4767204",
+            "lng": "109.1493564"
+        },
+        {
+            "id": 639748,
+            "name": "Thanh Châu",
+            "pid": 15058,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.478711",
+            "lng": "109.145599"
+        }
+    ],
+    "log_id": "67581585b9b1b924"
+}

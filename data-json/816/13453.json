@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630927,
+            "name": "Thôn Điềm Đông",
+            "pid": 13453,
+            "type": 16,
+            "region": null,
+            "alias": "thôn điềm đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6708334",
+            "lng": "106.17720830000007"
+        },
+        {
+            "id": 735511,
+            "name": "Thôn Điềm Tây",
+            "pid": 13453,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Điềm Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 630930,
+            "name": "Thôn Mai Xá",
+            "pid": 13453,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mai xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6708334",
+            "lng": "106.17720830000007"
+        }
+    ],
+    "log_id": "67581490f29b1770"
+}

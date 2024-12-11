@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467821,
+            "name": "Tế Hanh",
+            "pid": 15508,
+            "type": 21,
+            "region": null,
+            "alias": "Tế Hanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1626452",
+            "lng": "108.780887"
+        },
+        {
+            "id": 103292,
+            "name": "Thôn Cộng Hòa 1",
+            "pid": 15508,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cộng Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.161803",
+            "lng": "108.782018"
+        },
+        {
+            "id": 103484,
+            "name": "Thôn Độc Lập",
+            "pid": 15508,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Độc Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.169141",
+            "lng": "108.781337"
+        },
+        {
+            "id": 103883,
+            "name": "Thôn Thống Nhất",
+            "pid": 15508,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.139907",
+            "lng": "108.780377"
+        }
+    ],
+    "log_id": "675909a4d536467"
+}

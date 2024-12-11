@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830485,
+            "name": "Đường Quảng An",
+            "pid": 41438,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quảng An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.063591",
+            "lng": "105.82604360000005"
+        },
+        {
+            "id": 830488,
+            "name": "Đường Quảng Bá",
+            "pid": 41438,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quảng Bá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.063591",
+            "lng": "105.82604360000005"
+        },
+        {
+            "id": 830701,
+            "name": "Đường Tô Ngọc Vân",
+            "pid": 41438,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tô Ngọc Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.063591",
+            "lng": "105.82604360000005"
+        }
+    ],
+    "log_id": "675811bd6be1a526"
+}

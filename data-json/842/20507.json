@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 400415,
+            "name": "Xóm Khuổi Pất",
+            "pid": 20507,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khuổi Pất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.5500055",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 400417,
+            "name": "Xóm Khuổi Thin",
+            "pid": 20507,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khuổi Thin",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.5500055",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 400419,
+            "name": "Xóm Xẻ Pản",
+            "pid": 20507,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Xẻ Pản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.5500055",
+            "lng": "106.12869009999997"
+        }
+    ],
+    "log_id": "6758166273c8a639"
+}

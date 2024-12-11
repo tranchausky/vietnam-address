@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 878953,
+            "name": "Tân Xuyên",
+            "pid": 19768,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "102983",
+            "lng": "106.75884940000005"
+        },
+        {
+            "id": 465137,
+            "name": "Thôn Hòa Thành",
+            "pid": 19768,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.654153",
+            "lng": "106.75884940000003"
+        },
+        {
+            "id": 465133,
+            "name": "Thôn Lương Lễ",
+            "pid": 19768,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.654153",
+            "lng": "106.75884940000003"
+        },
+        {
+            "id": 465135,
+            "name": "Thôn Quyết Tâm",
+            "pid": 19768,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.654153",
+            "lng": "106.75884940000003"
+        },
+        {
+            "id": 465139,
+            "name": "Thôn Tà Đủ",
+            "pid": 19768,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Đủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.654153",
+            "lng": "106.75884940000003"
+        }
+    ],
+    "log_id": "675813bc72b1a439"
+}

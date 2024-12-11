@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 721450,
+            "name": "Hoá Lương",
+            "pid": 21192,
+            "type": 16,
+            "region": null,
+            "alias": "Hoá Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.702630499999994",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 617364,
+            "name": "Thôn Đặng Hóa",
+            "pid": 21192,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đặng Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7026305",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 617358,
+            "name": "Thôn Lương Năng",
+            "pid": 21192,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Năng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7026305",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 617367,
+            "name": "Thôn Tăng Hóa",
+            "pid": 21192,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tăng Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7026305",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 617361,
+            "name": "Thôn Thuận Hóa",
+            "pid": 21192,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuận Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7026305",
+            "lng": "105.85251540000002"
+        }
+    ],
+    "log_id": "675814a9a3ec241"
+}

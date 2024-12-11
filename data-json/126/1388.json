@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 671326,
+            "name": "Đường Hoàng Hoa Thám",
+            "pid": 1388,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Hoa Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8089584",
+            "lng": "106.6861357"
+        },
+        {
+            "id": 676732,
+            "name": "Đường Lê Quang Định",
+            "pid": 1388,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Quang Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8140168",
+            "lng": "106.6897359"
+        },
+        {
+            "id": 671191,
+            "name": "Đường Nguyễn Trung Trực",
+            "pid": 1388,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trung Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.812269",
+            "lng": "106.6863877"
+        },
+        {
+            "id": 672661,
+            "name": "Đường Nguyễn Văn Đậu",
+            "pid": 1388,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Đậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8097752",
+            "lng": "106.6895727"
+        },
+        {
+            "id": 673867,
+            "name": "Đường Trần Bình Trọng",
+            "pid": 1388,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bình Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8123531",
+            "lng": "106.6883229"
+        }
+    ],
+    "log_id": "6758129b023cc675"
+}

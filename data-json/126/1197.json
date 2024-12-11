@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1008366,
+            "name": "1534 Lê Văn Lương",
+            "pid": 1197,
+            "type": 8,
+            "region": null,
+            "alias": "1534 LÊ VĂN LƯƠNG",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.687036472626044",
+            "lng": "106.70062606587229"
+        },
+        {
+            "id": 1009293,
+            "name": "1860 Lê Văn Lương",
+            "pid": 1197,
+            "type": 8,
+            "region": null,
+            "alias": "1860 LÊ VĂN LƯƠNG",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.66713257449377 ",
+            "lng": "106.69587131443012"
+        },
+        {
+            "id": 957390,
+            "name": "[0] 1620-1750 Lê Văn Lương",
+            "pid": 1197,
+            "type": 29,
+            "region": null,
+            "alias": "[0] 1620-1750 Lê Văn Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6734834",
+            "lng": "106.6957187"
+        },
+        {
+            "id": 114495,
+            "name": "Ấp 1",
+            "pid": 1197,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6679434",
+            "lng": "106.7237978"
+        },
+        {
+            "id": 114505,
+            "name": "Ấp 2",
+            "pid": 1197,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6777848",
+            "lng": "106.699355"
+        },
+        {
+            "id": 114527,
+            "name": "Ấp 3",
+            "pid": 1197,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7071748",
+            "lng": "106.6927112"
+        },
+        {
+            "id": 114533,
+            "name": "Ấp 4",
+            "pid": 1197,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6556418",
+            "lng": "106.6921501"
+        },
+        {
+            "id": 1009317,
+            "name": "Ngô Quang Thắm , Xã Nhơn Đức",
+            "pid": 1197,
+            "type": 21,
+            "region": null,
+            "alias": "NGÔ QUANG THẮM , XÃ NHƠN ĐỨC",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.657865863492406",
+            "lng": "106.71144110368148"
+        },
+        {
+            "id": 658369,
+            "name": "Trường Tiểu Học Lê Văn Lương",
+            "pid": 1197,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu học Lê Văn Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6587391",
+            "lng": "106.687851"
+        }
+    ],
+    "log_id": "6758129aaf50a83"
+}

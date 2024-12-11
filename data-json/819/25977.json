@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 741766,
+            "name": "Cầu Đồn",
+            "pid": 25977,
+            "type": 10,
+            "region": null,
+            "alias": "Cầu đồn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0601943",
+            "lng": "106.6438673"
+        },
+        {
+            "id": 741751,
+            "name": "Công Ty Colavi",
+            "pid": 25977,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty colavi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0601943",
+            "lng": "106.6438673"
+        },
+        {
+            "id": 554895,
+            "name": "Khu Tràng Bạch",
+            "pid": 25977,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Tràng Bạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0584203",
+            "lng": "106.59855010000001"
+        },
+        {
+            "id": 554979,
+            "name": "Thôn Cô Lễ",
+            "pid": 25977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cô Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0601943",
+            "lng": "106.64386730000001"
+        },
+        {
+            "id": 554985,
+            "name": "Thôn Hoàng Sơn",
+            "pid": 25977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0601943",
+            "lng": "106.64386730000001"
+        },
+        {
+            "id": 554983,
+            "name": "Thôn Nội Hoàng Đông",
+            "pid": 25977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội Hoàng Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0601943",
+            "lng": "106.64386730000001"
+        },
+        {
+            "id": 554981,
+            "name": "Thôn Nội Hoàng Tây",
+            "pid": 25977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội Hoàng Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0601943",
+            "lng": "106.64386730000001"
+        }
+    ],
+    "log_id": "675814c2418a2474"
+}

@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 790906,
+            "name": "Ấp 1 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.83762",
+            "lng": "106.984615"
+        },
+        {
+            "id": 88214,
+            "name": "Ấp 2 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 51744,
+            "name": "Ấp 3 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 88250,
+            "name": "Ấp 5 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5335974",
+            "lng": "106.2110311"
+        },
+        {
+            "id": 88706,
+            "name": "Ấp 6 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.01052",
+            "lng": "106.8857557"
+        },
+        {
+            "id": 88709,
+            "name": "Ấp 7 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 7 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8726043",
+            "lng": "106.5297021"
+        },
+        {
+            "id": 88712,
+            "name": "Ấp 8 Xã An Phước",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 8 Xã An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.8342739",
+            "lng": "105.9129341"
+        },
+        {
+            "id": 997990,
+            "name": "Hèm 1 Đến 144 Lê Duẩn - Ấp 3",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Hèm 1 đến 144 Lê Duẩn - Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 997988,
+            "name": "Hẻm 114 Đến 222 Lê Duẩn- Ấp 3",
+            "pid": 6986,
+            "type": 17,
+            "region": null,
+            "alias": "Hẻm 114 đến 222 Lê Duẩn- Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 987186,
+            "name": "Khu 1 Ấp 7",
+            "pid": 6986,
+            "type": 21,
+            "region": null,
+            "alias": "khu 1 ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.829138936935955",
+            "lng": "106.94887562215396"
+        },
+        {
+            "id": 88724,
+            "name": "Khu Bàu Cá",
+            "pid": 6986,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Bàu Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7922238",
+            "lng": "106.6432338"
+        },
+        {
+            "id": 88721,
+            "name": "Khu Tập Thể Trường Giáo Dưỡng Số 4",
+            "pid": 6986,
+            "type": 4,
+            "region": null,
+            "alias": "Khu tập thể trường Giáo dưỡng số 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.844296",
+            "lng": "106.938280"
+        }
+    ],
+    "log_id": "675814dd5531b301"
+}

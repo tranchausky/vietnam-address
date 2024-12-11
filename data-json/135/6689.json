@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412103,
+            "name": "Thôn Văn Cao",
+            "pid": 6689,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Cao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7637974",
+            "lng": "106.66155290000006"
+        },
+        {
+            "id": 412101,
+            "name": "Thôn Văn Hòa",
+            "pid": 6689,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7637974",
+            "lng": "106.66155290000006"
+        }
+    ],
+    "log_id": "6758136642c05395"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100406,
+            "name": "Động Phí",
+            "pid": 4959,
+            "type": 16,
+            "region": null,
+            "alias": "Động Phí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.728178",
+            "lng": "105.7901381"
+        },
+        {
+            "id": 100394,
+            "name": "Dương Khê",
+            "pid": 4959,
+            "type": 16,
+            "region": null,
+            "alias": "Dương Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.728178",
+            "lng": "105.7901381"
+        },
+        {
+            "id": 100367,
+            "name": "Hậu Xá",
+            "pid": 4959,
+            "type": 16,
+            "region": null,
+            "alias": "Hậu Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7275837",
+            "lng": "105.7842685"
+        },
+        {
+            "id": 100415,
+            "name": "Ngọc Động",
+            "pid": 4959,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7264047",
+            "lng": "105.8161873"
+        },
+        {
+            "id": 100403,
+            "name": "Nguyễn Xá",
+            "pid": 4959,
+            "type": 16,
+            "region": null,
+            "alias": "Nguyễn Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7399029",
+            "lng": "105.7996769"
+        },
+        {
+            "id": 100409,
+            "name": "Phí Trạch",
+            "pid": 4959,
+            "type": 16,
+            "region": null,
+            "alias": "Phí Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7363392",
+            "lng": "105.8020526"
+        },
+        {
+            "id": 55742,
+            "name": "Ubnd Xã Phương Tú",
+            "pid": 4959,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phương Tú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd3f145356"
+}

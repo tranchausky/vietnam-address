@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877306,
+            "name": "Đường Kim Giang",
+            "pid": 41266,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kim Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,983572",
+            "lng": "105,814941"
+        },
+        {
+            "id": 53814,
+            "name": "Ecogreen Mega Mall",
+            "pid": 41266,
+            "type": 4,
+            "region": null,
+            "alias": "EcoGreen Mega Mall",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 647,
+            "name": "Hoàng Đạo Thành",
+            "pid": 41266,
+            "type": 2,
+            "region": null,
+            "alias": "Hoàng Đạo Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9831432",
+            "lng": "105.81304150000005"
+        }
+    ],
+    "log_id": "675811bd48a6b357"
+}

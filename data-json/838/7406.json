@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 882844,
+            "name": "Ấp 3 Phú Vang",
+            "pid": 7406,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3 Phú Vang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2170666",
+            "lng": "106.58492560000002"
+        },
+        {
+            "id": 441409,
+            "name": "Ấp Phú Hòa",
+            "pid": 7406,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phú Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2364748",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 441407,
+            "name": "Ấp Phú Hưng",
+            "pid": 7406,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phú Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2364748",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 441405,
+            "name": "Ấp Phú Mỹ",
+            "pid": 7406,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2364748",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 441403,
+            "name": "Ấp Phú Thành",
+            "pid": 7406,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2364748",
+            "lng": "106.57608570000002"
+        }
+    ],
+    "log_id": "6758160db9974591"
+}

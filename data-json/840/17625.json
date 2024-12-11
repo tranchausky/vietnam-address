@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112681,
+            "name": "Thôn Bình Giang 1",
+            "pid": 17625,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Giang 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.972806",
+            "lng": "11.828347"
+        },
+        {
+            "id": 112699,
+            "name": "Thôn Bình Giang 2",
+            "pid": 17625,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Giang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.969347",
+            "lng": "11.822651"
+        },
+        {
+            "id": 112711,
+            "name": "Thôn Sơn Long",
+            "pid": 17625,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.988999",
+            "lng": "11.829120"
+        }
+    ],
+    "log_id": "6758163791b5b739"
+}

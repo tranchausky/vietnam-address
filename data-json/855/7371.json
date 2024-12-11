@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109211,
+            "name": "Ấp 1",
+            "pid": 7371,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.789130",
+            "lng": "106.379705"
+        },
+        {
+            "id": 109219,
+            "name": "Ấp 2",
+            "pid": 7371,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.803912",
+            "lng": "106.354076"
+        },
+        {
+            "id": 109231,
+            "name": "Ấp 3",
+            "pid": 7371,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.802617",
+            "lng": "106.304172"
+        },
+        {
+            "id": 109237,
+            "name": "Ấp 4",
+            "pid": 7371,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.830325",
+            "lng": "106.350991"
+        },
+        {
+            "id": 979497,
+            "name": "Công Ty Tnhh Hoàn Cầu Long An",
+            "pid": 7371,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty TNHH Hoàn Cầu Long An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.77870",
+            "lng": "106.34054"
+        }
+    ],
+    "log_id": "67581785312c0481"
+}

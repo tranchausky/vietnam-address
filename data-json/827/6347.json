@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 734641,
+            "name": "Kcn Bá Thiện 1",
+            "pid": 6347,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Bá Thiện 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 649507,
+            "name": "Kcn Bình Xuyên 2",
+            "pid": 6347,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Bình Xuyên 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.304648",
+            "lng": "105.677687"
+        },
+        {
+            "id": 108877,
+            "name": "Thôn Bắc Kế",
+            "pid": 6347,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Bắc Kế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.314965",
+            "lng": "105.673462"
+        },
+        {
+            "id": 108953,
+            "name": "Thôn Bá Hương",
+            "pid": 6347,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Bá Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.315478",
+            "lng": "105.691189"
+        },
+        {
+            "id": 108859,
+            "name": "Thôn My Kỳ",
+            "pid": 6347,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn My Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.318448",
+            "lng": "105.677501"
+        },
+        {
+            "id": 108919,
+            "name": "Thôn Quang Vinh",
+            "pid": 6347,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Quang Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.325167",
+            "lng": "105.688772"
+        },
+        {
+            "id": 424931,
+            "name": "Thôn Thích Chung",
+            "pid": 6347,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Thích Chung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 108825,
+            "name": "Thôn Trại Cúp",
+            "pid": 6347,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Cúp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.321097",
+            "lng": "105.676705"
+        },
+        {
+            "id": 108849,
+            "name": "Thôn Văn Giáo",
+            "pid": 6347,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Văn Giáo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.321158",
+            "lng": "105.680982"
+        },
+        {
+            "id": 108841,
+            "name": "Thôn Vinh Viến",
+            "pid": 6347,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh Viến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.321158",
+            "lng": "105.680982"
+        }
+    ],
+    "log_id": "675815332ed45338"
+}

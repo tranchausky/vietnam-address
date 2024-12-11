@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 791692,
+            "name": "Đào Trí Phú",
+            "pid": 7079,
+            "type": 21,
+            "region": null,
+            "alias": "Đào Trí Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9394105",
+            "lng": "107.24447510000005"
+        },
+        {
+            "id": 96230,
+            "name": "Đường Hồ Thị Hương - P. Xuântrung",
+            "pid": 7079,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Thị Hương - P. XuânTrung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.939100",
+            "lng": "107.246935"
+        },
+        {
+            "id": 96221,
+            "name": "Đường Hùng Vương - P. Xuân Trung",
+            "pid": 7079,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hùng Vương - P. Xuân Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.935572",
+            "lng": "107.242604"
+        },
+        {
+            "id": 791656,
+            "name": "Nguyễn Trung Trực",
+            "pid": 7079,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Trung Trực",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9201945",
+            "lng": "107.24743030000002"
+        }
+    ],
+    "log_id": "675814dd638f6888"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 615987,
+            "name": "Thôn Bắc Hòa",
+            "pid": 18986,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2702162",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 615984,
+            "name": "Thôn Tân Hải",
+            "pid": 18986,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2702162",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 615975,
+            "name": "Thôn Tân Lập",
+            "pid": 18986,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2702162",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 615981,
+            "name": "Thôn Tân Thuận",
+            "pid": 18986,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2702162",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 615972,
+            "name": "Thôn Trung Thành",
+            "pid": 18986,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2702162",
+            "lng": "106.83553719999998"
+        }
+    ],
+    "log_id": "675814a9d563a892"
+}

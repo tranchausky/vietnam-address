@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428567,
+            "name": "Bắc Sơn",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428565,
+            "name": "Đông Châu",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428571,
+            "name": "Mỹ Hòa",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428557,
+            "name": "Thanh Hòa",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428559,
+            "name": "Thanh Lương",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428563,
+            "name": "Thanh Mỹ",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428569,
+            "name": "Thôn Thái Hòa",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 428561,
+            "name": "Thôn Thanh Ngọc",
+            "pid": 17058,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.456446",
+            "lng": "105.8583873"
+        }
+    ],
+    "log_id": "675816e9e6ef133"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 416163,
+            "name": "Hỏm Dưới",
+            "pid": 20820,
+            "type": 16,
+            "region": null,
+            "alias": "Hỏm Dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1246764",
+            "lng": "104.08198370000002"
+        },
+        {
+            "id": 416159,
+            "name": "Lán Bò",
+            "pid": 20820,
+            "type": 16,
+            "region": null,
+            "alias": "Lán Bò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1246764",
+            "lng": "104.08198370000002"
+        },
+        {
+            "id": 416161,
+            "name": "Thôn Hỏm Trên",
+            "pid": 20820,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hỏm trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1246764",
+            "lng": "104.08198370000002"
+        }
+    ],
+    "log_id": "6758144514edd451"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 561621,
+            "name": "Thôn Định Tân",
+            "pid": 17078,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Định Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.742877",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 561619,
+            "name": "Thôn Định Thanh",
+            "pid": 17078,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Định Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.742877",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 561623,
+            "name": "Thôn Định Trung",
+            "pid": 17078,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Định Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.742877",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 561617,
+            "name": "Thôn Thượng Đình 3",
+            "pid": 17078,
+            "type": 17,
+            "region": null,
+            "alias": "Thôn Thượng Đình 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.742877",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 561613,
+            "name": "Thượng Đình 1",
+            "pid": 17078,
+            "type": 21,
+            "region": null,
+            "alias": "Thượng Đình 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.742877",
+            "lng": "105.81141750000006"
+        }
+    ],
+    "log_id": "67590a23293a0752"
+}

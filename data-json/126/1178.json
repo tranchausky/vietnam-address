@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 66095,
+            "name": "Ấp Bình Hạ Đông",
+            "pid": 1178,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Bình Hạ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66099,
+            "name": "Ấp Bình Thượng 1",
+            "pid": 1178,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Bình Thượng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66103,
+            "name": "Ấp Bình Thượng 2",
+            "pid": 1178,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Bình Thượng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66223,
+            "name": "Ấp Mỹ Khánh A",
+            "pid": 1178,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Mỹ Khánh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66227,
+            "name": "Ấp Mỹ Khánh B",
+            "pid": 1178,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Mỹ Khánh B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 780403,
+            "name": "Ấp Tháp",
+            "pid": 1178,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9912652",
+            "lng": "106.39724479999998"
+        },
+        {
+            "id": 780382,
+            "name": "Bình Hạ Tây",
+            "pid": 1178,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Hạ Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9912652",
+            "lng": "106.39724479999998"
+        },
+        {
+            "id": 780379,
+            "name": "Đường Cây Trôm Mỹ Khánh",
+            "pid": 1178,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cây Trôm Mỹ Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9912652",
+            "lng": "106.39724479999998"
+        },
+        {
+            "id": 780385,
+            "name": "Đường Tam Tân",
+            "pid": 1178,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tam Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9912652",
+            "lng": "106.39724479999998"
+        },
+        {
+            "id": 969415,
+            "name": "Đường Tỉnh Lộ 7",
+            "pid": 1178,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tỉnh Lộ 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.991537",
+            "lng": "106.390936"
+        }
+    ],
+    "log_id": "6758129a40177825"
+}

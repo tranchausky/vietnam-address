@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425529,
+            "name": "Xóm Bắc Hà",
+            "pid": 21308,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Bắc Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0926366",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 425533,
+            "name": "Xóm Đông Hà",
+            "pid": 21308,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0926366",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 425535,
+            "name": "Xóm Hải Hà",
+            "pid": 21308,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hải Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0926366",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 425527,
+            "name": "Xóm Nam Hà",
+            "pid": 21308,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Nam Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0926366",
+            "lng": "106.34049249999998"
+        },
+        {
+            "id": 425531,
+            "name": "Xóm Tây Hà",
+            "pid": 21308,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tây Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.0926366",
+            "lng": "106.34049249999998"
+        }
+    ],
+    "log_id": "675816e9cbe18325"
+}

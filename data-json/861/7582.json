@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 970921,
+            "name": "Đường Quốc Lộ P10",
+            "pid": 7582,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quốc Lộ P10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.571881",
+            "lng": "105.951378"
+        },
+        {
+            "id": 970917,
+            "name": "Kdc Lê Thìn",
+            "pid": 7582,
+            "type": 21,
+            "region": null,
+            "alias": "KDC Lê Thìn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.566275",
+            "lng": " 105.949537"
+        },
+        {
+            "id": 761176,
+            "name": "Tâm Kiên",
+            "pid": 7582,
+            "type": 18,
+            "region": null,
+            "alias": "Tâm Kiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.5706052",
+            "lng": "105.95400100000006"
+        },
+        {
+            "id": 434227,
+            "name": "Tâm Trung",
+            "pid": 7582,
+            "type": 18,
+            "region": null,
+            "alias": "Tâm Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.5706052",
+            "lng": "105.95400100000006"
+        }
+    ],
+    "log_id": "675909c17c02f751"
+}

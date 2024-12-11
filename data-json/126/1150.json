@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 952050,
+            "name": "A1-A4 Ấp 1 Tân Nhựt",
+            "pid": 1150,
+            "type": 10,
+            "region": null,
+            "alias": "A1-A4 Ấp 1 Tân Nhựt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7324554",
+            "lng": "106.5352032"
+        },
+        {
+            "id": 676276,
+            "name": "A4 A5 Đường Láng Le Bàu Cò - Tân Nhựt",
+            "pid": 1150,
+            "type": 21,
+            "region": null,
+            "alias": "A4 A5 Đường Láng Le Bàu Cò - Tân Nhựt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7324554",
+            "lng": "106.5352032"
+        },
+        {
+            "id": 106937,
+            "name": "Ấp 1",
+            "pid": 1150,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7155493",
+            "lng": "106.5525145"
+        },
+        {
+            "id": 106940,
+            "name": "Ấp 2",
+            "pid": 1150,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7376457",
+            "lng": "106.5479036"
+        },
+        {
+            "id": 106943,
+            "name": "Ấp 3",
+            "pid": 1150,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7939524",
+            "lng": "106.5795228"
+        },
+        {
+            "id": 106946,
+            "name": "Ấp 4",
+            "pid": 1150,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7108272",
+            "lng": "106.5544093"
+        },
+        {
+            "id": 106955,
+            "name": "Ấp 6",
+            "pid": 1150,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6969181",
+            "lng": "106.5778756"
+        },
+        {
+            "id": 676648,
+            "name": "Đường Thế Lữ",
+            "pid": 1150,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Thế Lữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7094925",
+            "lng": "106.5576695"
+        },
+        {
+            "id": 681826,
+            "name": "Đường Trần Đại Nghĩa",
+            "pid": 1150,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Đại Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7349283",
+            "lng": "106.5572928"
+        },
+        {
+            "id": 924253,
+            "name": "Khu Lưu Trú , Tân Nhựt",
+            "pid": 1150,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Lưu Trú , Tân Nhựt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7661714",
+            "lng": "106.52305420000002"
+        }
+    ],
+    "log_id": "6758129aa79c9563"
+}

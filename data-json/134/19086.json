@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910000,
+            "name": "Nà Lim",
+            "pid": 19086,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lim",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4837904",
+            "lng": "106.31106219999992"
+        },
+        {
+            "id": 717877,
+            "name": "Thôn Đồn Vang",
+            "pid": 19086,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đồn Vang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4837904",
+            "lng": "106.31106219999992"
+        },
+        {
+            "id": 832318,
+            "name": "Trạm Kiểm Dịch",
+            "pid": 19086,
+            "type": 21,
+            "region": null,
+            "alias": "Trạm Kiểm Dịch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4837904",
+            "lng": "106.31106219999992"
+        },
+        {
+            "id": 910009,
+            "name": "Trạm Thu Phí Bến Lường",
+            "pid": 19086,
+            "type": 16,
+            "region": null,
+            "alias": "Trạm Thu Phí Bến Lường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4837904",
+            "lng": "106.31106219999992"
+        }
+    ],
+    "log_id": "6758133f2183b454"
+}

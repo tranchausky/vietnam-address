@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 529123,
+            "name": "Bài",
+            "pid": 21459,
+            "type": 16,
+            "region": null,
+            "alias": "Bài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5856435",
+            "lng": "105.01702350000005"
+        },
+        {
+            "id": 529127,
+            "name": "Xẹt 1",
+            "pid": 21459,
+            "type": 16,
+            "region": null,
+            "alias": "Xẹt 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5856435",
+            "lng": "105.01702350000005"
+        },
+        {
+            "id": 529129,
+            "name": "Xẹt 2",
+            "pid": 21459,
+            "type": 16,
+            "region": null,
+            "alias": "Xẹt 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5856435",
+            "lng": "105.01702350000005"
+        },
+        {
+            "id": 529131,
+            "name": "Xóm Mới",
+            "pid": 21459,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5856435",
+            "lng": "105.01702350000005"
+        }
+    ],
+    "log_id": "67581208aee1b420"
+}

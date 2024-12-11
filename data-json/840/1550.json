@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 17626,
+            "name": "Phường Long Phước",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Long Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8175989",
+            "lng": "106.98899040000003"
+        },
+        {
+            "id": 17623,
+            "name": "Phường Long Thủy",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Long Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8493837",
+            "lng": "106.99638040000002"
+        },
+        {
+            "id": 17627,
+            "name": "Phường Phước Bình",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.7970508",
+            "lng": "106.96537560000002"
+        },
+        {
+            "id": 17625,
+            "name": "Phường Sơn Giang",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Sơn Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.986563",
+            "lng": "108.895258"
+        },
+        {
+            "id": 17624,
+            "name": "Phường Thác Mơ",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thác Mơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8498689",
+            "lng": "107.00079870000002"
+        },
+        {
+            "id": 17628,
+            "name": "Xã Long Giang",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8285961",
+            "lng": "106.98899040000003"
+        },
+        {
+            "id": 17629,
+            "name": "Xã Phước Tín",
+            "pid": 1550,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phước Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8337331",
+            "lng": "106.99489449999999"
+        }
+    ],
+    "log_id": "67581637653238"
+}

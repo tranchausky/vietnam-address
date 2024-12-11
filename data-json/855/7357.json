@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452451,
+            "name": "Ấp Bến Kè",
+            "pid": 7357,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bến Kè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6300329",
+            "lng": "106.21691390000001"
+        },
+        {
+            "id": 452457,
+            "name": "Ấp Đông Hòa",
+            "pid": 7357,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đông Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6300329",
+            "lng": "106.21691390000001"
+        },
+        {
+            "id": 452453,
+            "name": "Ấp Nước Trong",
+            "pid": 7357,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Nước Trong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6300329",
+            "lng": "106.21691390000001"
+        },
+        {
+            "id": 452455,
+            "name": "Ấp Voi Đình",
+            "pid": 7357,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Voi Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6300329",
+            "lng": "106.21691390000001"
+        }
+    ],
+    "log_id": "6758178543d47999"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 913849,
+            "name": "Tân Xương 2",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Xương 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.1925763",
+            "lng": "109.06533130000004"
+        },
+        {
+            "id": 108763,
+            "name": "Thôn Khánh Thành Bắc",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Thành Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.192433",
+            "lng": "109.062929"
+        },
+        {
+            "id": 108767,
+            "name": "Thôn Khánh Thành Nam",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Thành Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.192431",
+            "lng": "109.062930"
+        },
+        {
+            "id": 108729,
+            "name": "Thôn Suối Lau 1",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Lau 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.185140",
+            "lng": "109.069616"
+        },
+        {
+            "id": 108733,
+            "name": "Thôn Suối Lau 2",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Lau 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.185141",
+            "lng": "109.069617"
+        },
+        {
+            "id": 108741,
+            "name": "Thôn Tân Xương 1",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Xương 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.192431",
+            "lng": "109.062939"
+        },
+        {
+            "id": 108751,
+            "name": "Thôn Tân Xương 2",
+            "pid": 16441,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Xương 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.192430",
+            "lng": "109.062938"
+        }
+    ],
+    "log_id": "67581585d67bc448"
+}

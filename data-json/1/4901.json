@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98609,
+            "name": "Đường Tiểu Khu Nguyễn Du",
+            "pid": 4901,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tiểu khu Nguyễn Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 98606,
+            "name": "Thôn Thụy Ứng",
+            "pid": 4901,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thụy Ứng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.876939",
+            "lng": "105.839369"
+        },
+        {
+            "id": 55598,
+            "name": "Ubnd Xã Hòa Bình",
+            "pid": 4901,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd6b5fe218"
+}

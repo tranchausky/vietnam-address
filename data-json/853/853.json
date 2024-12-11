@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1757,
+            "name": "Huyện Mường Tè",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Mường Tè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.400379",
+            "lng": "102.7135121"
+        },
+        {
+            "id": 2104,
+            "name": "Huyện Nậm Nhùn",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Nậm Nhùn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1022533",
+            "lng": "102.98477109999999"
+        },
+        {
+            "id": 1758,
+            "name": "Huyện Phong Thổ",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phong Thổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 1759,
+            "name": "Huyện Sìn Hồ",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Sìn Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3048884",
+            "lng": "103.31252990000007"
+        },
+        {
+            "id": 1760,
+            "name": "Huyện Tam Đường",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tam Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3497051",
+            "lng": "103.61312029999999"
+        },
+        {
+            "id": 1761,
+            "name": "Huyện Tân Uyên",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tân Uyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0868845",
+            "lng": "103.68258600000001"
+        },
+        {
+            "id": 1762,
+            "name": "Huyện Than Uyên",
+            "pid": 853,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Than Uyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8922107",
+            "lng": "103.77526339999997"
+        },
+        {
+            "id": 1763,
+            "name": "Thành Phố Lai Châu",
+            "pid": 853,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Lai Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.073099",
+            "lng": "103.15740200000005"
+        }
+    ],
+    "log_id": "6758175e295bd78"
+}

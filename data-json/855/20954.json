@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97049,
+            "name": "Ấp Giồng Lớn",
+            "pid": 20954,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giồng Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 87008,
+            "name": "Ấp Mới 1",
+            "pid": 20954,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mới 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.872503",
+            "lng": "106.485329"
+        },
+        {
+            "id": 87011,
+            "name": "Ấp Mới 2",
+            "pid": 20954,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mới 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.862282",
+            "lng": "106.509104"
+        },
+        {
+            "id": 992392,
+            "name": "Khu Dân Cư Trần Anh",
+            "pid": 20954,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Dân Cư Trần Anh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 992390,
+            "name": "Khu Dân Cư Xuyên Á",
+            "pid": 20954,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Dân Cư Xuyên Á",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758178507a01327"
+}

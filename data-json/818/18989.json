@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616146,
+            "name": "Thôn Châu Xá",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616152,
+            "name": "Thôn Lệ Bình",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lệ Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616143,
+            "name": "Thôn Lê Xá",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616140,
+            "name": "Thôn Mai Hạ",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616149,
+            "name": "Thôn Mai Thượng",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616155,
+            "name": "Thôn Quảng Trung",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616158,
+            "name": "Thôn Thái Xá",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        },
+        {
+            "id": 616137,
+            "name": "Thôn Xuân Lai",
+            "pid": 18989,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1775503",
+            "lng": "106.78244289999998"
+        }
+    ],
+    "log_id": "675814a9d0765486"
+}

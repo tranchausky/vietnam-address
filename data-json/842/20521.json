@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 505217,
+            "name": "Ubnd Xã Minh Long",
+            "pid": 20521,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Xã Minh Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 400107,
+            "name": "Xóm Bản Suối",
+            "pid": 20521,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Suối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 400109,
+            "name": "Xóm Bản Thang",
+            "pid": 20521,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Thang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 400111,
+            "name": "Xóm Lũng Đa",
+            "pid": 20521,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lũng Đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 400113,
+            "name": "Xóm Nà Quản",
+            "pid": 20521,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Quản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 400115,
+            "name": "Xóm Nà Vị",
+            "pid": 20521,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Vị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 400117,
+            "name": "Xóm Trường Yên",
+            "pid": 20521,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trường Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8044323",
+            "lng": "106.73525840000002"
+        }
+    ],
+    "log_id": "67581662af454508"
+}

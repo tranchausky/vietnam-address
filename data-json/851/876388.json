@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 978502,
+            "name": "Ấp 1",
+            "pid": 876388,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.968788",
+            "lng": "104.845763"
+        },
+        {
+            "id": 978503,
+            "name": "Âp 2",
+            "pid": 876388,
+            "type": 21,
+            "region": null,
+            "alias": "Âp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.958839",
+            "lng": "104.842213"
+        },
+        {
+            "id": 978504,
+            "name": "Ấp 3",
+            "pid": 876388,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.953098",
+            "lng": "104.831135"
+        }
+    ],
+    "log_id": "6758173611f7c960"
+}

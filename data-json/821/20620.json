@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 529941,
+            "name": "Hồng Long",
+            "pid": 20620,
+            "type": 16,
+            "region": null,
+            "alias": "hồng Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.1501137",
+            "lng": "105.64129760000003"
+        },
+        {
+            "id": 529943,
+            "name": "Hồng Phú",
+            "pid": 20620,
+            "type": 16,
+            "region": null,
+            "alias": "hồng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.1501137",
+            "lng": "105.64129760000003"
+        },
+        {
+            "id": 529945,
+            "name": "Hồng Tiến",
+            "pid": 20620,
+            "type": 16,
+            "region": null,
+            "alias": "hồng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.1501137",
+            "lng": "105.64129760000003"
+        },
+        {
+            "id": 529947,
+            "name": "Hồng Yên",
+            "pid": 20620,
+            "type": 16,
+            "region": null,
+            "alias": "hồng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.1501137",
+            "lng": "105.64129760000003"
+        }
+    ],
+    "log_id": "6758120936a02331"
+}

@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 855823,
+            "name": "Thôn Gạch",
+            "pid": 4691,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.047260459058215",
+            "lng": "105.7035482177952"
+        },
+        {
+            "id": 855829,
+            "name": "Trại Chiêu",
+            "pid": 4691,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Chiêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54674,
+            "name": "Ubnd Xã Sơn Đồng",
+            "pid": 4691,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Sơn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 855820,
+            "name": "Xóm Đình",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 667438,
+            "name": "Xóm Đồng",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0442271",
+            "lng": "105.6988084"
+        },
+        {
+            "id": 855826,
+            "name": "Xóm Gạch",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Gạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 667435,
+            "name": "Xóm Hàn",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "xóm hàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.044422",
+            "lng": "105.6943998"
+        },
+        {
+            "id": 958804,
+            "name": "Xóm Ngã Tư",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ngã Tư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 667447,
+            "name": "Xóm Rãnh",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "xóm rãnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0436282",
+            "lng": "105.6975436"
+        },
+        {
+            "id": 667444,
+            "name": "Xóm Rô",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "xóm rô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0444317",
+            "lng": "105.6943893"
+        },
+        {
+            "id": 667432,
+            "name": "Xóm Thượng",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0408025",
+            "lng": "105.697403"
+        },
+        {
+            "id": 667423,
+            "name": "Xóm Trại Xa",
+            "pid": 4691,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Trại Xa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0448313",
+            "lng": "105.6956273"
+        }
+    ],
+    "log_id": "675811bb9f520959"
+}

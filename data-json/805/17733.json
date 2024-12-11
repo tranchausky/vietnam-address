@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 421081,
+            "name": "Hợp Nhất",
+            "pid": 17733,
+            "type": 18,
+            "region": null,
+            "alias": "Hợp Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9814393",
+            "lng": "106.40378199999998"
+        },
+        {
+            "id": 421083,
+            "name": "Minh Thành",
+            "pid": 17733,
+            "type": 18,
+            "region": null,
+            "alias": "Minh Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9814393",
+            "lng": "106.40378199999998"
+        },
+        {
+            "id": 421079,
+            "name": "Quyết Tâm",
+            "pid": 17733,
+            "type": 18,
+            "region": null,
+            "alias": "Quyết Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9814393",
+            "lng": "106.40378199999998"
+        },
+        {
+            "id": 651550,
+            "name": "Thôn Hợp Nhất",
+            "pid": 17733,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hợp Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9852761",
+            "lng": "106.3996737"
+        },
+        {
+            "id": 421085,
+            "name": "Thôn Lai Thành",
+            "pid": 17733,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lai Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9814393",
+            "lng": "106.40378199999998"
+        },
+        {
+            "id": 651553,
+            "name": "Thôn Minh Thành",
+            "pid": 17733,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Minh Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9810888",
+            "lng": "20.9810888"
+        },
+        {
+            "id": 651547,
+            "name": "Thôn Quyết Tâm",
+            "pid": 17733,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9877253",
+            "lng": "106.3997595"
+        }
+    ],
+    "log_id": "675813f20496243"
+}

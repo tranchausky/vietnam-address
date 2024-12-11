@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118719,
+            "name": "Thôn Giang Nương",
+            "pid": 19705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giang Nương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.155250",
+            "lng": "108.937528"
+        },
+        {
+            "id": 118647,
+            "name": "Thôn Ngã 2",
+            "pid": 19705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngã 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.190139",
+            "lng": "108.940611"
+        },
+        {
+            "id": 118665,
+            "name": "Thôn Nước Nhĩ",
+            "pid": 19705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nước Nhĩ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.142833,",
+            "lng": "108.866472"
+        },
+        {
+            "id": 118747,
+            "name": "Thôn Sơn Thành",
+            "pid": 19705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.248694",
+            "lng": "108.946028"
+        },
+        {
+            "id": 118777,
+            "name": "Thôn Yang Bay",
+            "pid": 19705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yang bay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.183444",
+            "lng": "108.906278"
+        }
+    ],
+    "log_id": "67581585a15d17"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410967,
+            "name": "Bổng Thôn",
+            "pid": 20966,
+            "type": 16,
+            "region": null,
+            "alias": "bổng thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5896006",
+            "lng": "106.25515629999995"
+        },
+        {
+            "id": 410961,
+            "name": "Minh Thiện",
+            "pid": 20966,
+            "type": 16,
+            "region": null,
+            "alias": "minh thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5896006",
+            "lng": "106.25515629999995"
+        },
+        {
+            "id": 410965,
+            "name": "Ninh Thôn",
+            "pid": 20966,
+            "type": 16,
+            "region": null,
+            "alias": "ninh thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5896006",
+            "lng": "106.25515629999995"
+        },
+        {
+            "id": 410963,
+            "name": "Tân Dân",
+            "pid": 20966,
+            "type": 16,
+            "region": null,
+            "alias": "tân dân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5896006",
+            "lng": "106.25515629999995"
+        }
+    ],
+    "log_id": "675909f3a905845"
+}

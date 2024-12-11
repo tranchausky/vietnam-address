@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 548467,
+            "name": "Bắc Sơn",
+            "pid": 6419,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 548469,
+            "name": "Bình Chỉ",
+            "pid": 6419,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Chỉ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 548471,
+            "name": "Bình Long",
+            "pid": 6419,
+            "type": 20,
+            "region": null,
+            "alias": "Bình Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 548473,
+            "name": "Dọc Mít",
+            "pid": 6419,
+            "type": 16,
+            "region": null,
+            "alias": "Dọc Mít",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 548475,
+            "name": "Hoàng Chỉ",
+            "pid": 6419,
+            "type": 20,
+            "region": null,
+            "alias": "Hoàng Chỉ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 548477,
+            "name": "Hữu Phúc",
+            "pid": 6419,
+            "type": 20,
+            "region": null,
+            "alias": "Hữu Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 548479,
+            "name": "Yên Thích",
+            "pid": 6419,
+            "type": 18,
+            "region": null,
+            "alias": "Yên Thích",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4750113",
+            "lng": "105.50640870000007"
+        }
+    ],
+    "log_id": "6758153381309883"
+}

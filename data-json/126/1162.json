@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98795,
+            "name": "Ấp Chợ Cũ 1",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chợ Cũ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66143,
+            "name": "Ấp Chợ Cũ 2",
+            "pid": 1162,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Chợ Cũ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 780274,
+            "name": "Ấp Gò Nổi",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gò Nổi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.074436",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 787747,
+            "name": "Ấp Lô Sáu",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lô Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.074436",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 780286,
+            "name": "Ba Sòng",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Ba Sòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.074436",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 879238,
+            "name": "Bến Mương",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Bến Mương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.074436",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 673324,
+            "name": "Đường Đỗ Đăng Tuyển",
+            "pid": 1162,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đỗ Đăng Tuyển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0735939",
+            "lng": "106.4673222"
+        },
+        {
+            "id": 673486,
+            "name": "Đường Gót Chàng",
+            "pid": 1162,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Gót Chàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.051038",
+            "lng": "106.4966292"
+        },
+        {
+            "id": 671335,
+            "name": "Lê Thị Chì",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Lê Thị Chì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9963206",
+            "lng": "106.4473042"
+        },
+        {
+            "id": 780280,
+            "name": "Xóm Mới",
+            "pid": 1162,
+            "type": 17,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.074436",
+            "lng": "106.4759262"
+        }
+    ],
+    "log_id": "6758129a3c032872"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 422231,
+            "name": "Xóm Be Dưới",
+            "pid": 21351,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Be dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4556947",
+            "lng": "105.3877956"
+        },
+        {
+            "id": 422229,
+            "name": "Xóm Be Ngoài",
+            "pid": 21351,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Be Ngoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4556947",
+            "lng": "105.3877956"
+        },
+        {
+            "id": 422227,
+            "name": "Xóm Be Trên",
+            "pid": 21351,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Be Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4556947",
+            "lng": "105.3877956"
+        },
+        {
+            "id": 422233,
+            "name": "Xóm Kho",
+            "pid": 21351,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Kho",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4556947",
+            "lng": "105.3877956"
+        },
+        {
+            "id": 422223,
+            "name": "Xóm Ong",
+            "pid": 21351,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4556947",
+            "lng": "105.3877956"
+        },
+        {
+            "id": 422225,
+            "name": "Xóm Ót",
+            "pid": 21351,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ót",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4556947",
+            "lng": "105.3877956"
+        }
+    ],
+    "log_id": "675817213aa38532"
+}

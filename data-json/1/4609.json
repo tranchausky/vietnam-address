@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117657,
+            "name": "Cao Sơn",
+            "pid": 4609,
+            "type": 16,
+            "region": null,
+            "alias": "cao sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8273515",
+            "lng": "106.6837745"
+        },
+        {
+            "id": 117663,
+            "name": "Đồng Nanh",
+            "pid": 4609,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Nanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9298589",
+            "lng": " 105.690225"
+        },
+        {
+            "id": 117661,
+            "name": "Quyết Tiến",
+            "pid": 4609,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.0069613",
+            "lng": "104.9739333"
+        },
+        {
+            "id": 117669,
+            "name": "Sơn Đồng",
+            "pid": 4609,
+            "type": 16,
+            "region": null,
+            "alias": "Sơn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0422656",
+            "lng": "105.6969788"
+        },
+        {
+            "id": 995203,
+            "name": "Thôn Tiên Lữ",
+            "pid": 4609,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Lữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.950241371628",
+            "lng": " 105.67959372713656"
+        },
+        {
+            "id": 54258,
+            "name": "Trạm Y Tế Xã Tiên Phương",
+            "pid": 4609,
+            "type": 6,
+            "region": null,
+            "alias": "Trạm y tế xã Tiên Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 54254,
+            "name": "Ubnd Xã Tiên Phương",
+            "pid": 4609,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Tiên Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb73c28851"
+}

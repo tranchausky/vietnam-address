@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900232,
+            "name": "Phố Điền Lư",
+            "pid": 21144,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Điền Lư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555859,
+            "name": "Thôn Ba",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555853,
+            "name": "Thôn Cả",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555861,
+            "name": "Thôn Chiềng Lau",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chiềng lau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555855,
+            "name": "Thôn La Hán",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn La Hán",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555863,
+            "name": "Thôn Nghìa",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nghìa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555857,
+            "name": "Thôn Sát",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Sát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 555865,
+            "name": "Thôn Tôm",
+            "pid": 21144,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3842192",
+            "lng": "105.1843801"
+        }
+    ],
+    "log_id": "67590a234d6a0614"
+}

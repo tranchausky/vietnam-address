@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 396109,
+            "name": "Xóm Chầm",
+            "pid": 20844,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chầm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9881905",
+            "lng": "105.0498053"
+        },
+        {
+            "id": 396099,
+            "name": "Xóm Than",
+            "pid": 20844,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Than",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9881905",
+            "lng": "105.0498053"
+        }
+    ],
+    "log_id": "6758172117f07646"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 905251,
+            "name": "Bản Ta Pạ",
+            "pid": 15563,
+            "type": 21,
+            "region": null,
+            "alias": "Bản Ta Pạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.400379",
+            "lng": "102.7135121"
+        },
+        {
+            "id": 909271,
+            "name": "Ló Mé",
+            "pid": 15563,
+            "type": 21,
+            "region": null,
+            "alias": "Ló Mé",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.400379",
+            "lng": "102.7135121"
+        }
+    ],
+    "log_id": "6758175e7469a113"
+}

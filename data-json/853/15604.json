@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 651493,
+            "name": "Bản Nậm Mít Nọi",
+            "pid": 15604,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Mít Nọi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.100339",
+            "lng": "103.868473"
+        },
+        {
+            "id": 651460,
+            "name": "Lấu A",
+            "pid": 15604,
+            "type": 16,
+            "region": null,
+            "alias": "Lấu A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.100339",
+            "lng": "103.868473"
+        },
+        {
+            "id": 651469,
+            "name": "Lầu B",
+            "pid": 15604,
+            "type": 16,
+            "region": null,
+            "alias": "Lầu B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.100339",
+            "lng": "103.868473"
+        },
+        {
+            "id": 651481,
+            "name": "Suối Lĩnh",
+            "pid": 15604,
+            "type": 16,
+            "region": null,
+            "alias": "suối Lĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.100339",
+            "lng": "103.868473"
+        }
+    ],
+    "log_id": "6758175e673ce845"
+}

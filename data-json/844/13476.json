@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117755,
+            "name": "Tổ 1",
+            "pid": 13476,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.966886",
+            "lng": "107.669251"
+        },
+        {
+            "id": 117473,
+            "name": "Tổ 2",
+            "pid": 13476,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.967222",
+            "lng": "107.667878"
+        },
+        {
+            "id": 117515,
+            "name": "Tổ 3",
+            "pid": 13476,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.965039",
+            "lng": "107.664788"
+        },
+        {
+            "id": 117761,
+            "name": "Tổ 4",
+            "pid": 13476,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.966886",
+            "lng": "107.669251"
+        },
+        {
+            "id": 117773,
+            "name": "Tô 5",
+            "pid": 13476,
+            "type": 20,
+            "region": null,
+            "alias": "Tô 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.966886",
+            "lng": "107.669251"
+        },
+        {
+            "id": 117765,
+            "name": "Tổ 6",
+            "pid": 13476,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.966886",
+            "lng": "107.669251"
+        }
+    ],
+    "log_id": "6758169171136585"
+}

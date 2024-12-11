@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846625,
+            "name": "Thôn Nà Bắc",
+            "pid": 21972,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3976045",
+            "lng": "106.2529498"
+        },
+        {
+            "id": 501353,
+            "name": "Thôn Nà Cóc",
+            "pid": 21972,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nà cóc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3976045",
+            "lng": "106.25294980000001"
+        },
+        {
+            "id": 501349,
+            "name": "Thôn Nặm Chẳng",
+            "pid": 21972,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nặm chẳng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3976045",
+            "lng": "106.25294980000001"
+        },
+        {
+            "id": 501351,
+            "name": "Thôn Nà Slản",
+            "pid": 21972,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nà slản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3976045",
+            "lng": "106.25294980000001"
+        }
+    ],
+    "log_id": "6758133f3f307657"
+}

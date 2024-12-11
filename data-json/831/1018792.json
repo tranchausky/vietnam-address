@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 121305,
+            "name": "Thôn 1",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.289306",
+            "lng": "108.970889"
+        },
+        {
+            "id": 163201,
+            "name": "Thôn 2",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.289049",
+            "lng": "108.997294"
+        },
+        {
+            "id": 205099,
+            "name": "Thôn 3",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.293126",
+            "lng": "108.969382"
+        },
+        {
+            "id": 258817,
+            "name": "Thôn 5",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.286916",
+            "lng": "108.971210"
+        },
+        {
+            "id": 121271,
+            "name": "Thôn Xuân Đông",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xuân Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.325500",
+            "lng": "108.978361"
+        },
+        {
+            "id": 121279,
+            "name": "Thôn Xuân Nam",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xuân Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.326562",
+            "lng": "108.978325"
+        },
+        {
+            "id": 121281,
+            "name": "Thôn Xuân Tây",
+            "pid": 1018792,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xuân Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.336037",
+            "lng": "108.953692"
+        }
+    ],
+    "log_id": "67581585b2c67517"
+}

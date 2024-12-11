@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758860,
+            "name": "Bệnh Viện Đa Khoa Huyện Cẩm Giàng",
+            "pid": 17746,
+            "type": 10,
+            "region": null,
+            "alias": "Bệnh Viện Đa khoa huyện cẩm giàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 725773,
+            "name": "Công Ty Cơ Khí Chính Xác Hồng Trí",
+            "pid": 17746,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty Cơ khí chính xác Hồng Trí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 726811,
+            "name": "Kcn Tân Trường",
+            "pid": 17746,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Tân Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 638946,
+            "name": "Thôn Chi Thành",
+            "pid": 17746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chi Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 638940,
+            "name": "Thôn Mai Trung",
+            "pid": 17746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 638937,
+            "name": "Thôn Quý Dương",
+            "pid": 17746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quý Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 638952,
+            "name": "Thôn Tân Kỳ",
+            "pid": 17746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Kỳ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 638943,
+            "name": "Thôn Tràng Kỹ",
+            "pid": 17746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tràng Kỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        }
+    ],
+    "log_id": "675813f168870664"
+}

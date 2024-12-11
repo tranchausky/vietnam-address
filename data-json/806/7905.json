@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1014751,
+            "name": "76 Lý Tự Trọng",
+            "pid": 7905,
+            "type": 4,
+            "region": null,
+            "alias": "76 Lý Tự Trọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0355159",
+            "lng": "105.7786877"
+        },
+        {
+            "id": 118233,
+            "name": "Đại Lộ Hòa Bình",
+            "pid": 7905,
+            "type": 21,
+            "region": null,
+            "alias": "Đại lộ Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.032764",
+            "lng": "105.783280"
+        },
+        {
+            "id": 118115,
+            "name": "Đường Nguyễn Thần Hiến",
+            "pid": 7905,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Nguyễn Thần Hiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.036179,",
+            "lng": " 105.778618"
+        },
+        {
+            "id": 966215,
+            "name": "Hẻm 1 Lý Tự Trọng",
+            "pid": 7905,
+            "type": 20,
+            "region": null,
+            "alias": "Hẻm 1 Lý Tự Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.034257704830688",
+            "lng": "105.77959421385117"
+        },
+        {
+            "id": 784858,
+            "name": "Võ Thị Sáu",
+            "pid": 7905,
+            "type": 21,
+            "region": null,
+            "alias": "Võ Thị Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0396031",
+            "lng": "105.77766529999997"
+        }
+    ],
+    "log_id": "6758140cb6534120"
+}

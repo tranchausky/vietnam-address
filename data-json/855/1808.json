@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 20768,
+            "name": "Thị Trấn Vĩnh Hưng",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Vĩnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8899502",
+            "lng": "105.79087200000004"
+        },
+        {
+            "id": 7332,
+            "name": "Xã Hưng Điền A",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hưng Điền A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0045331",
+            "lng": "105.74685350000004"
+        },
+        {
+            "id": 7330,
+            "name": "Xã Khánh Hưng",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Khánh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9631687",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 7335,
+            "name": "Xã Thái Bình Trung",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thái Bình Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9067888",
+            "lng": "105.83490089999998"
+        },
+        {
+            "id": 7334,
+            "name": "Xã Thái Trị",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thái Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9582266",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 20770,
+            "name": "Xã Tuyên Bình",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tuyên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8180416",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 7331,
+            "name": "Xã Tuyên Bình Tây",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tuyên Bình Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8037896",
+            "lng": "105.81728810000004"
+        },
+        {
+            "id": 7337,
+            "name": "Xã Vĩnh Bình",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8745764",
+            "lng": "105.82315879999999"
+        },
+        {
+            "id": 7336,
+            "name": "Xã Vĩnh Thuận",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.844825",
+            "lng": "105.76445960000001"
+        },
+        {
+            "id": 7333,
+            "name": "Xã Vĩnh Trị",
+            "pid": 1808,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.915659",
+            "lng": "105.77032869999994"
+        }
+    ],
+    "log_id": "67581784e387a183"
+}

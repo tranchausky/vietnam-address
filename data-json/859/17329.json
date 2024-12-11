@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 713614,
+            "name": "Thôn Đa Hoà Nam",
+            "pid": 17329,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Hoà Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.883905100000002",
+            "lng": "108.14879640000004"
+        },
+        {
+            "id": 713620,
+            "name": "Thôn Thanh An",
+            "pid": 17329,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.883905100000002",
+            "lng": "108.14879640000004"
+        }
+    ],
+    "log_id": "675817e180aa6780"
+}

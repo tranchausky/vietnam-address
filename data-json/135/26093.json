@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981194,
+            "name": "Chu Văn An",
+            "pid": 26093,
+            "type": 21,
+            "region": null,
+            "alias": "Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981193,
+            "name": "Lê Lợi",
+            "pid": 26093,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581365ebca0771"
+}

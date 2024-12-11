@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1006391,
+            "name": "482 - 602 Kim Giang",
+            "pid": 4890,
+            "type": 18,
+            "region": null,
+            "alias": "482 - 602 Kim Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.969972319381235",
+            "lng": "105.82408247947292"
+        },
+        {
+            "id": 72195,
+            "name": "Phan Trọng Tuệ - Cầu Bươu",
+            "pid": 4890,
+            "type": 10,
+            "region": null,
+            "alias": "Phan Trọng Tuệ - Cầu Bươu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 751291,
+            "name": "Thôn Thượng",
+            "pid": 4890,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.970315",
+            "lng": "105.821994"
+        },
+        {
+            "id": 983546,
+            "name": "Thôn Vực-Thanh Liệt",
+            "pid": 4890,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vực-Thanh Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.961639951634517",
+            "lng": "105.81149336669958"
+        }
+    ],
+    "log_id": "675811bd11990871"
+}

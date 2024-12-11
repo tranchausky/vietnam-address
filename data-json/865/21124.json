@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 880330,
+            "name": "Đội 1",
+            "pid": 21124,
+            "type": 22,
+            "region": null,
+            "alias": "đội 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2789578",
+            "lng": "105.51813019999996"
+        },
+        {
+            "id": 880333,
+            "name": "Lâm Thành",
+            "pid": 21124,
+            "type": 16,
+            "region": null,
+            "alias": "Lâm Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2789578",
+            "lng": "105.51813019999996"
+        },
+        {
+            "id": 710170,
+            "name": "Quảng Thắng",
+            "pid": 21124,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2789578",
+            "lng": "105.51813019999996"
+        }
+    ],
+    "log_id": "67590a23d8880706"
+}

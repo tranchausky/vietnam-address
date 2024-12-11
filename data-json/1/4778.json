@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118319,
+            "name": "Đường Hồng",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1057187",
+            "lng": "105.6243513"
+        },
+        {
+            "id": 118311,
+            "name": "Phú An",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Phú An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1132282",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 118327,
+            "name": "Phú Đa",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1133822",
+            "lng": "105.6152286"
+        },
+        {
+            "id": 118323,
+            "name": "Tăng Non",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Tăng Non",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1152777",
+            "lng": "105.6191686"
+        },
+        {
+            "id": 118325,
+            "name": "Tế Giáp",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Tế Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1169221",
+            "lng": "105.6199933"
+        },
+        {
+            "id": 118321,
+            "name": "Thanh Mạc",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.112244,",
+            "lng": "105.6196268"
+        },
+        {
+            "id": 118315,
+            "name": "Thanh Vân",
+            "pid": 4778,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1138381",
+            "lng": "105.6185085"
+        },
+        {
+            "id": 55078,
+            "name": "Ubnd Xã Thanh Đa",
+            "pid": 4778,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thanh Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc48bcd720"
+}

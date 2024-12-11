@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 806098,
+            "name": "Bản Lụ 1",
+            "pid": 24193,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lụ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5446695",
+            "lng": "104.48980010000002"
+        },
+        {
+            "id": 698326,
+            "name": "Bản Lụ 2",
+            "pid": 24193,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lụ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5446695",
+            "lng": "104.48980010000002"
+        },
+        {
+            "id": 880744,
+            "name": "Noong Phai",
+            "pid": 24193,
+            "type": 16,
+            "region": null,
+            "alias": "Noong Phai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6235473",
+            "lng": "104.48688830000003"
+        }
+    ],
+    "log_id": "6758131fbd1cb229"
+}

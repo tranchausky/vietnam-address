@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639648,
+            "name": "Kcn Havina",
+            "pid": 7095,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Havina",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8261978",
+            "lng": "106.26104039999996"
+        },
+        {
+            "id": 639639,
+            "name": "Thôn An Tân",
+            "pid": 7095,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8261978",
+            "lng": "106.26104039999996"
+        },
+        {
+            "id": 639642,
+            "name": "Thôn Làng Xuyên",
+            "pid": 7095,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8261978",
+            "lng": "106.26104039999996"
+        },
+        {
+            "id": 639645,
+            "name": "Thôn Phúc Tân",
+            "pid": 7095,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8261978",
+            "lng": "106.26104039999996"
+        }
+    ],
+    "log_id": "675813f1b1762779"
+}

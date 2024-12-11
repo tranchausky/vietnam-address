@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462227,
+            "name": "Bản Phúc Lộc",
+            "pid": 18860,
+            "type": 16,
+            "region": null,
+            "alias": "bản phúc lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2560133",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 462223,
+            "name": "Thôn Hưng An",
+            "pid": 18860,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hưng an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2560133",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 462225,
+            "name": "Thôn Hưng Lộc",
+            "pid": 18860,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hưng lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2560133",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 462231,
+            "name": "Thôn Phụng Sơn",
+            "pid": 18860,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phụng sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2560133",
+            "lng": "107.7044085"
+        },
+        {
+            "id": 462229,
+            "name": "Thôn Xuân Mỹ",
+            "pid": 18860,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2560133",
+            "lng": "107.7044085"
+        }
+    ],
+    "log_id": "67590b26268de959"
+}

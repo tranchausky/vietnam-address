@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410731,
+            "name": "Lương Ngọc",
+            "pid": 20980,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6224728",
+            "lng": "106.21397239999999"
+        },
+        {
+            "id": 410729,
+            "name": "Nhâm Lang",
+            "pid": 20980,
+            "type": 16,
+            "region": null,
+            "alias": "Nhâm Lang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6224728",
+            "lng": "106.21397239999999"
+        },
+        {
+            "id": 410735,
+            "name": "Thôn An Nhân",
+            "pid": 20980,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Nhân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6224728",
+            "lng": "106.21397239999999"
+        },
+        {
+            "id": 410733,
+            "name": "Thôn Ngùi",
+            "pid": 20980,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ngùi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6224728",
+            "lng": "106.21397239999999"
+        }
+    ],
+    "log_id": "675909f3cc2d5458"
+}

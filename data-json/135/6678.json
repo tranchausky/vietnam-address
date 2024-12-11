@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1000468,
+            "name": "Công Ty Amec",
+            "pid": 6678,
+            "type": 10,
+            "region": null,
+            "alias": "công ty amec",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8223632",
+            "lng": "106.5426549"
+        },
+        {
+            "id": 1016932,
+            "name": "Công Ty Daiso",
+            "pid": 6678,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Daiso",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8217667",
+            "lng": "106.5401889"
+        },
+        {
+            "id": 1016936,
+            "name": "Công Ty Tnhh Jiayang",
+            "pid": 6678,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty TNHH JIAYANG",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8226408",
+            "lng": "106.5412129"
+        },
+        {
+            "id": 1016933,
+            "name": "Công Ty Tnhh Yalena Garments",
+            "pid": 6678,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty TNHH Yalena garments",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8217667",
+            "lng": "106.5401889"
+        },
+        {
+            "id": 414487,
+            "name": "Thôn Câu Thượng",
+            "pid": 6678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Câu Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8309468",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 414489,
+            "name": "Thôn Câu Trung",
+            "pid": 6678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Câu Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8309468",
+            "lng": "106.50832560000003"
+        },
+        {
+            "id": 414491,
+            "name": "Thôn Quang Khải",
+            "pid": 6678,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8309468",
+            "lng": "106.50832560000003"
+        }
+    ],
+    "log_id": "67581365c88fa643"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 755596,
+            "name": "Bản Tó",
+            "pid": 17785,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6290547",
+            "lng": "106.89233250000008"
+        },
+        {
+            "id": 714865,
+            "name": "Thôn Nà Pá",
+            "pid": 17785,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nà pá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.671003",
+            "lng": "106.891889"
+        }
+    ],
+    "log_id": "6758133f45bed193"
+}

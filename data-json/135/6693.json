@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412187,
+            "name": "Phương Đôi",
+            "pid": 6693,
+            "type": 16,
+            "region": null,
+            "alias": "Phương đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7515698",
+            "lng": "106.6701329"
+        },
+        {
+            "id": 412191,
+            "name": "Quế Lâm",
+            "pid": 6693,
+            "type": 16,
+            "region": null,
+            "alias": "Quế Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7515698",
+            "lng": "106.6701329"
+        },
+        {
+            "id": 412189,
+            "name": "Trà Phương",
+            "pid": 6693,
+            "type": 16,
+            "region": null,
+            "alias": "Trà Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7515698",
+            "lng": "106.6701329"
+        }
+    ],
+    "log_id": "6758136643357498"
+}

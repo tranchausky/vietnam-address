@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113581,
+            "name": "Lĩnh Mai",
+            "pid": 18298,
+            "type": 16,
+            "region": null,
+            "alias": "Lĩnh Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537,",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 113611,
+            "name": "Thôn Phú Thọ",
+            "pid": 18298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 113557,
+            "name": "Thôn Quảng Bố",
+            "pid": 18298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Bố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 114657,
+            "name": "Thôn Quảng Nạp",
+            "pid": 18298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Nạp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 113771,
+            "name": "Thôn Thanh Gia",
+            "pid": 18298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 113645,
+            "name": "Thôn Tuyên Bá",
+            "pid": 18298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tuyên Bá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 115229,
+            "name": "Xóm Chùa",
+            "pid": 18298,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        },
+        {
+            "id": 115221,
+            "name": "Xóm Cổng Ngò",
+            "pid": 18298,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cổng Ngò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0247537",
+            "lng": "106.1455563"
+        }
+    ],
+    "log_id": "675815f8cda64835"
+}

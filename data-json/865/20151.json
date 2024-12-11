@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558347,
+            "name": "Thôn Bạch Yên Sơn",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bạch Yên Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        },
+        {
+            "id": 558339,
+            "name": "Thôn Hiển Vinh",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiển Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        },
+        {
+            "id": 804787,
+            "name": "Thôn Quang Minh",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        },
+        {
+            "id": 734107,
+            "name": "Thôn Quang Sơn",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        },
+        {
+            "id": 558341,
+            "name": "Thôn Quang Tân",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        },
+        {
+            "id": 558343,
+            "name": "Thôn Tường Lộc",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tường Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        },
+        {
+            "id": 558345,
+            "name": "Thôn Yên Minh",
+            "pid": 20151,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9549176",
+            "lng": "105.92221569999992"
+        }
+    ],
+    "log_id": "67590a23052e9274"
+}

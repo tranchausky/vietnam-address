@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 705970,
+            "name": "Ấp Đại Định",
+            "pid": 7421,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đại Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.267289",
+            "lng": "106.393705"
+        },
+        {
+            "id": 705964,
+            "name": "Ấp Hữu Chiến",
+            "pid": 7421,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hữu Chiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.267289",
+            "lng": "106.393705"
+        },
+        {
+            "id": 705967,
+            "name": "Ấp Hữu Thành",
+            "pid": 7421,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hữu Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.267289",
+            "lng": "106.393705"
+        },
+        {
+            "id": 705961,
+            "name": "Ấp Phú Hữu",
+            "pid": 7421,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hữu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.267289",
+            "lng": "106.393705"
+        }
+    ],
+    "log_id": "6758160ddbfae291"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 464185,
+            "name": "Châu Chữ",
+            "pid": 15206,
+            "type": 21,
+            "region": null,
+            "alias": "Châu Chữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4266175",
+            "lng": "107.60081689999993"
+        },
+        {
+            "id": 873250,
+            "name": "Nguyễn Hữu Thuận",
+            "pid": 15206,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hữu Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4266175",
+            "lng": "107.60081689999993"
+        },
+        {
+            "id": 704374,
+            "name": "Nguyễn Văn Khả",
+            "pid": 15206,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Văn Khả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4266175",
+            "lng": "107.60081689999993"
+        },
+        {
+            "id": 704419,
+            "name": "Tổ 5 Kv3 An Tây",
+            "pid": 15206,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5 Kv3 An Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4266175",
+            "lng": "107.60081689999993"
+        },
+        {
+            "id": 669712,
+            "name": "Xóm Hành",
+            "pid": 15206,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4266175",
+            "lng": "107.60081689999993"
+        }
+    ],
+    "log_id": "67590b262bdc0164"
+}

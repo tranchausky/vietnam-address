@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7968,
+            "name": "Thị Trấn Cờ Đỏ",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Cờ Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.098075",
+            "lng": "105.43609630000003"
+        },
+        {
+            "id": 7975,
+            "name": "Xã Đông Hiệp",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0730014",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 7972,
+            "name": "Xã Đông Thắng",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0860968",
+            "lng": "105.4595306"
+        },
+        {
+            "id": 7976,
+            "name": "Xã Thạnh Phú",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thạnh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1363815",
+            "lng": "105.43023829999993"
+        },
+        {
+            "id": 7971,
+            "name": "Xã Thới Đông",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thới Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0563037",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 7973,
+            "name": "Xã Thới Hưng",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thới Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1215861",
+            "lng": "105.5122694"
+        },
+        {
+            "id": 7977,
+            "name": "Xã Thới Xuân",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thới Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.077467",
+            "lng": "105.41266519999999"
+        },
+        {
+            "id": 7974,
+            "name": "Xã Trung An",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trung An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2035773",
+            "lng": "105.48905919999993"
+        },
+        {
+            "id": 7970,
+            "name": "Xã Trung Hưng",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trung Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1661744",
+            "lng": "105.48882800000001"
+        },
+        {
+            "id": 7969,
+            "name": "Xã Trung Thạnh",
+            "pid": 1460,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trung Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1919347",
+            "lng": "105.51813019999997"
+        }
+    ],
+    "log_id": "6758140c60ff3855"
+}

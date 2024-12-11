@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609384,
+            "name": "Đồng Răm",
+            "pid": 19174,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Răm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7637391",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 609387,
+            "name": "Hố Sâu",
+            "pid": 19174,
+            "type": 16,
+            "region": null,
+            "alias": "Hố Sâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7637391",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 609390,
+            "name": "Thôn Nước Giáp",
+            "pid": 19174,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nước giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7637391",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 609393,
+            "name": "Thôn Vãi Ốc",
+            "pid": 19174,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vãi Ốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.7637391",
+            "lng": "108.89674089999994"
+        }
+    ],
+    "log_id": "675909a4b678a10"
+}

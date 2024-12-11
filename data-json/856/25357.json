@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 575610,
+            "name": "Thôn Bãi Cả",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bãi Cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575595,
+            "name": "Thôn Đồng Bót",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Bót",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575598,
+            "name": "Thôn Đồng Quân",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575592,
+            "name": "Thôn Đồng Tâm",
+            "pid": 25357,
+            "type": 17,
+            "region": null,
+            "alias": "Thôn Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575601,
+            "name": "Thôn Nga 1",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nga 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575604,
+            "name": "Thôn Nga 2",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nga 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575607,
+            "name": "Thôn Nga 3",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nga 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575613,
+            "name": "Thôn Sấm 1",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sấm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575616,
+            "name": "Thôn Sấm 2",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sấm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        },
+        {
+            "id": 575619,
+            "name": "Thôn Sấm 3",
+            "pid": 25357,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sấm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2601752",
+            "lng": "105.7359146"
+        }
+    ],
+    "log_id": "67581798f0af253"
+}

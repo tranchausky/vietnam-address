@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 574356,
+            "name": "Thôn Cầu Thượng",
+            "pid": 21038,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5059437",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 574359,
+            "name": "Thôn Phương Cúc",
+            "pid": 21038,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Cúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5059437",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 574362,
+            "name": "Thôn Phương Đài",
+            "pid": 21038,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Đài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5059437",
+            "lng": "106.34343579999995"
+        },
+        {
+            "id": 574365,
+            "name": "Thôn Thượng Đạt",
+            "pid": 21038,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Đạt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5059437",
+            "lng": "106.34343579999995"
+        }
+    ],
+    "log_id": "675909f377b51550"
+}

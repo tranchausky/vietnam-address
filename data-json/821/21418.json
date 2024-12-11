@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 533567,
+            "name": "Khối Lam Sơn",
+            "pid": 21418,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Lam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        },
+        {
+            "id": 533569,
+            "name": "Khối Liên Sơn",
+            "pid": 21418,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Liên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        },
+        {
+            "id": 533571,
+            "name": "Khối Long Hạ",
+            "pid": 21418,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Long Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        },
+        {
+            "id": 533573,
+            "name": "Khối Long Thượng",
+            "pid": 21418,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Long Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        },
+        {
+            "id": 894205,
+            "name": "Khối Tân Long",
+            "pid": 21418,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Tân Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        },
+        {
+            "id": 533575,
+            "name": "Khối Trung Cấp",
+            "pid": 21418,
+            "type": 21,
+            "region": null,
+            "alias": "Khối Trung Cấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        },
+        {
+            "id": 533577,
+            "name": "Vincom Thái Hoà",
+            "pid": 21418,
+            "type": 4,
+            "region": null,
+            "alias": "Vincom Thái Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3098545",
+            "lng": "105.43902539999999"
+        }
+    ],
+    "log_id": "675812081bd7a156"
+}

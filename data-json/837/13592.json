@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753187,
+            "name": "Hiền Lương",
+            "pid": 13592,
+            "type": 10,
+            "region": null,
+            "alias": "Hiền Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533716",
+            "lng": "106.19926599999997"
+        },
+        {
+            "id": 971525,
+            "name": "Thôn Phù Lang",
+            "pid": 13592,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Lang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1580092",
+            "lng": "106.1954784,16"
+        },
+        {
+            "id": 753184,
+            "name": "Yên Đinh",
+            "pid": 13592,
+            "type": 10,
+            "region": null,
+            "alias": "Yên đinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1533716",
+            "lng": "106.19926599999997"
+        }
+    ],
+    "log_id": "675815f8cea8141"
+}

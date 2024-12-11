@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876397,
+            "name": "An Sơn",
+            "pid": 1740,
+            "type": 1,
+            "region": null,
+            "alias": "An Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.679722",
+            "lng": "104.351000"
+        },
+        {
+            "id": 876388,
+            "name": "Hòn Tre",
+            "pid": 1740,
+            "type": 1,
+            "region": null,
+            "alias": "Hòn Tre",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.962805",
+            "lng": "104.835233"
+        },
+        {
+            "id": 876391,
+            "name": "Lại Sơn",
+            "pid": 1740,
+            "type": 1,
+            "region": null,
+            "alias": "Lại Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.800878",
+            "lng": "104.640226"
+        },
+        {
+            "id": 876394,
+            "name": "Nam Du",
+            "pid": 1740,
+            "type": 1,
+            "region": null,
+            "alias": "Nam Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.663026",
+            "lng": "104.360074"
+        }
+    ],
+    "log_id": "67581735f2064607"
+}

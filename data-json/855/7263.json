@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452881,
+            "name": "Ấp Hựu Lộc",
+            "pid": 7263,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hựu Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4591592",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 452877,
+            "name": "Ấp Long Hưng",
+            "pid": 7263,
+            "type": 16,
+            "region": null,
+            "alias": "ấp Long Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4591592",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 452879,
+            "name": "Ấp Mỹ Điền",
+            "pid": 7263,
+            "type": 16,
+            "region": null,
+            "alias": "ấp Mỹ Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4591592",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 452883,
+            "name": "Ấp Tây",
+            "pid": 7263,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4591592",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 925558,
+            "name": "Cầu Ngang",
+            "pid": 7263,
+            "type": 17,
+            "region": null,
+            "alias": "Cầu Ngang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.459159199999998",
+            "lng": "106.6703963"
+        }
+    ],
+    "log_id": "675817852d504551"
+}

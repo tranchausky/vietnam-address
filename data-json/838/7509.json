@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442251,
+            "name": "Ấp An Thiện",
+            "pid": 7509,
+            "type": 17,
+            "region": null,
+            "alias": "ấp an thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0669209",
+            "lng": "106.293406"
+        },
+        {
+            "id": 442257,
+            "name": "Ấp An Trạch Tây",
+            "pid": 7509,
+            "type": 17,
+            "region": null,
+            "alias": "ấp an trạch tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0669209",
+            "lng": "106.293406"
+        },
+        {
+            "id": 442259,
+            "name": "Ấp Bình Thạnh",
+            "pid": 7509,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0669209",
+            "lng": "106.293406"
+        },
+        {
+            "id": 753829,
+            "name": "Ấp Tân An",
+            "pid": 7509,
+            "type": 20,
+            "region": null,
+            "alias": "ấp Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0669209",
+            "lng": "106.293406"
+        },
+        {
+            "id": 442255,
+            "name": "Ấp Tân Điền",
+            "pid": 7509,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0669209",
+            "lng": "106.293406"
+        },
+        {
+            "id": 442253,
+            "name": "Ấp Tân Viên",
+            "pid": 7509,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0669209",
+            "lng": "106.293406"
+        }
+    ],
+    "log_id": "6758160def1c588"
+}

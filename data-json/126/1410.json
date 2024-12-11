@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 82991,
+            "name": "Chẵn 98-224 Huỳnh Văn Bánh",
+            "pid": 1410,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 98-224 Huỳnh Văn Bánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7916968",
+            "lng": "106.676243"
+        },
+        {
+            "id": 679321,
+            "name": "Đường Hồ Biểu Chánh",
+            "pid": 1410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Biểu Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7931712",
+            "lng": "106.6765561"
+        },
+        {
+            "id": 681559,
+            "name": "Đường Huỳnh Văn Bánh",
+            "pid": 1410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Bánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7921597",
+            "lng": "106.6779418"
+        },
+        {
+            "id": 670768,
+            "name": "Đường Nguyễn Văn Trỗi",
+            "pid": 1410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Trỗi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7938659",
+            "lng": "106.6783896"
+        },
+        {
+            "id": 679606,
+            "name": "Đường Trần Cao Vân",
+            "pid": 1410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Cao Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7926125",
+            "lng": "106.6771956"
+        },
+        {
+            "id": 678376,
+            "name": "Đường Trần Huy Liệu",
+            "pid": 1410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Huy Liệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7929488",
+            "lng": "106.6779469"
+        },
+        {
+            "id": 94793,
+            "name": "Lẻ 1-127 Trần Huy Liệu",
+            "pid": 1410,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1-127 Trần Huy Liệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.793737",
+            "lng": "106.677762"
+        },
+        {
+            "id": 82994,
+            "name": "Lẻ 1A-95 Hồ Biểu Chánh",
+            "pid": 1410,
+            "type": 10,
+            "region": null,
+            "alias": "Lẻ 1A-95 Hồ Biểu Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.790559",
+            "lng": "106.676335"
+        },
+        {
+            "id": 40718,
+            "name": "Tòa Nhà Win Home Trần Huy Liệu",
+            "pid": 1410,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa Nhà Win Home Trần Huy Liệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.792824",
+            "lng": "106.677796"
+        }
+    ],
+    "log_id": "6758129ab2019936"
+}

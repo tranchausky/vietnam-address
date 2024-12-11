@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101738,
+            "name": "Thôn 2 H.dương",
+            "pid": 976831,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 H.Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.580020",
+            "lng": "107.600925"
+        },
+        {
+            "id": 101897,
+            "name": "Thôn 3 H.dương",
+            "pid": 976831,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 H.Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.580257",
+            "lng": "107.600815"
+        },
+        {
+            "id": 101999,
+            "name": "Thôn 4 Vĩnh Trị",
+            "pid": 976831,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4 Vĩnh Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.594213",
+            "lng": "107.578163"
+        }
+    ],
+    "log_id": "67590b2635f8b916"
+}

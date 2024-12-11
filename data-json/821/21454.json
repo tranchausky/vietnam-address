@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 529089,
+            "name": "Bản Kẻ Nính",
+            "pid": 21454,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Kẻ Nính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 529091,
+            "name": "Bản Minh Châu",
+            "pid": 21454,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Minh Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 529093,
+            "name": "Bản Minh Tiến",
+            "pid": 21454,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Minh Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 529095,
+            "name": "Bản Na Xén",
+            "pid": 21454,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Xén",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 529097,
+            "name": "Bản Tà Sỏi",
+            "pid": 21454,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tà Sỏi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 529099,
+            "name": "Bản Thuận Lập",
+            "pid": 21454,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Thuận Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 910528,
+            "name": "Khe Bấn",
+            "pid": 21454,
+            "type": 18,
+            "region": null,
+            "alias": "Khe Bấn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        },
+        {
+            "id": 893632,
+            "name": "Khe Hán",
+            "pid": 21454,
+            "type": 18,
+            "region": null,
+            "alias": "Khe Hán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5465635",
+            "lng": "105.10421100000008"
+        }
+    ],
+    "log_id": "67581208b019e120"
+}

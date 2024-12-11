@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476353,
+            "name": "Nghĩa Chỉ",
+            "pid": 13632,
+            "type": 16,
+            "region": null,
+            "alias": "Nghĩa Chỉ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1178311",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 476355,
+            "name": "Thôn Tử Nê",
+            "pid": 13632,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tử Nê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1178311",
+            "lng": "106.02875119999999"
+        }
+    ],
+    "log_id": "675815f8cde4f726"
+}

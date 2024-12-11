@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598458,
+            "name": "Ấp Hậu Hòa",
+            "pid": 6543,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hậu Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3855166",
+            "lng": "105.99936720000005"
+        },
+        {
+            "id": 598461,
+            "name": "Ấp Hậu Thuận",
+            "pid": 6543,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hậu Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3855166",
+            "lng": "105.99936720000005"
+        },
+        {
+            "id": 598452,
+            "name": "Ấp Hậu Vinh",
+            "pid": 6543,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hậu Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3855166",
+            "lng": "105.99936720000005"
+        },
+        {
+            "id": 598464,
+            "name": "Khu Phố Cầu Xéo",
+            "pid": 6543,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Cầu Xéo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3855166",
+            "lng": "105.99936720000005"
+        }
+    ],
+    "log_id": "675814f3b5dbd222"
+}

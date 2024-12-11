@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 561473,
+            "name": "Thôn Thượng Quý",
+            "pid": 20044,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Thượng Quý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9895478",
+            "lng": "105.85104750000005"
+        },
+        {
+            "id": 561471,
+            "name": "Thôn Tương Lạc",
+            "pid": 20044,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Tương Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9895478",
+            "lng": "105.85104750000005"
+        }
+    ],
+    "log_id": "67590a23c168c77"
+}

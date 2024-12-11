@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445363,
+            "name": "Ấp Phước Tân 1",
+            "pid": 6605,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Tân 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5319776",
+            "lng": "107.17503929999998"
+        },
+        {
+            "id": 445365,
+            "name": "Ấp Phước Tân 2",
+            "pid": 6605,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Tân 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5319776",
+            "lng": "107.17503929999998"
+        },
+        {
+            "id": 445367,
+            "name": "Ấp Phước Tân 3",
+            "pid": 6605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Tân 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5319776",
+            "lng": "107.17503929999998"
+        },
+        {
+            "id": 445369,
+            "name": "Ấp Phước Tân 4",
+            "pid": 6605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Tân 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5319776",
+            "lng": "107.17503929999998"
+        },
+        {
+            "id": 445371,
+            "name": "Ấp Phước Tân 5",
+            "pid": 6605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Tân 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5319776",
+            "lng": "107.17503929999998"
+        }
+    ],
+    "log_id": "675815b41424c180"
+}

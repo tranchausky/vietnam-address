@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1016734,
+            "name": "202 Nguyễn Sơn",
+            "pid": 41410,
+            "type": 21,
+            "region": null,
+            "alias": "202 Nguyễn Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.044456264993293",
+            "lng": "105.88328772266482"
+        },
+        {
+            "id": 1016733,
+            "name": "Chẵn 130-200 Nguyễn Sơn",
+            "pid": 41410,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 130-200 Nguyễn Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.044979218492195",
+            "lng": "105.88216153800882"
+        },
+        {
+            "id": 829216,
+            "name": "Đường Đê Long Biên",
+            "pid": 41410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đê Long Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0448412",
+            "lng": "105.86866350000003"
+        },
+        {
+            "id": 884977,
+            "name": "Đường Nguyễn Văn Cừ",
+            "pid": 41410,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.037732",
+            "lng": "105.873984"
+        }
+    ],
+    "log_id": "675811bcd5b7d561"
+}

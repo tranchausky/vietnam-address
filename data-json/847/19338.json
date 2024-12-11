@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 450513,
+            "name": "Làng Hâng",
+            "pid": 19338,
+            "type": 16,
+            "region": null,
+            "alias": "làng Hâng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        },
+        {
+            "id": 450515,
+            "name": "Làng Măng",
+            "pid": 19338,
+            "type": 16,
+            "region": null,
+            "alias": "làng Măng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        },
+        {
+            "id": 450509,
+            "name": "Làng Tnùng 1",
+            "pid": 19338,
+            "type": 16,
+            "region": null,
+            "alias": "làng TNùng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        },
+        {
+            "id": 450511,
+            "name": "Làng Tnùng 2",
+            "pid": 19338,
+            "type": 16,
+            "region": null,
+            "alias": "làng TNùng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.7037218",
+            "lng": "108.57006360000003"
+        }
+    ],
+    "log_id": "675816d361028784"
+}

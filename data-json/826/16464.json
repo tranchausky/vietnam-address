@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 859123,
+            "name": "Chợ Gò Bồi",
+            "pid": 16464,
+            "type": 21,
+            "region": null,
+            "alias": "chợ gò bồi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898911",
+            "lng": "109.216143"
+        },
+        {
+            "id": 445779,
+            "name": "Thôn Bình Lâm",
+            "pid": 16464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898911",
+            "lng": "109.216143"
+        },
+        {
+            "id": 742912,
+            "name": "Thôn Kim Đông",
+            "pid": 16464,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898910999999998",
+            "lng": "109.216143"
+        },
+        {
+            "id": 445789,
+            "name": "Thôn Kim Xuyên",
+            "pid": 16464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Kim Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898911",
+            "lng": "109.216143"
+        },
+        {
+            "id": 445785,
+            "name": "Thôn Tân Giản",
+            "pid": 16464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Giản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898911",
+            "lng": "109.216143"
+        },
+        {
+            "id": 445777,
+            "name": "Thôn Tân Mỹ",
+            "pid": 16464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898911",
+            "lng": "109.216143"
+        },
+        {
+            "id": 445787,
+            "name": "Thôn Tùng Giản",
+            "pid": 16464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tùng Giản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.898911",
+            "lng": "109.216143"
+        }
+    ],
+    "log_id": "6758150de5901718"
+}

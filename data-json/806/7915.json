@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119781,
+            "name": "Đường Phạm Ngũ Lão",
+            "pid": 7915,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Ngũ Lão",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.045485",
+            "lng": "105.775543"
+        },
+        {
+            "id": 997229,
+            "name": "Đường Phan Đăng Lưu",
+            "pid": 7915,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đăng Lưu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0475156",
+            "lng": "105.7782649"
+        },
+        {
+            "id": 70388,
+            "name": "Đường Yết Kiêu",
+            "pid": 7915,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yết Kiêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.041914",
+            "lng": "105.773192"
+        },
+        {
+            "id": 119705,
+            "name": "Hẻm 132 Lê Anh Xuân",
+            "pid": 7915,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 132 Lê Anh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.050056",
+            "lng": "105.776806"
+        }
+    ],
+    "log_id": "6758140cbd526507"
+}

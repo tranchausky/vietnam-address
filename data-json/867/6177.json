@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449433,
+            "name": "Ấp Bờ Kinh 1",
+            "pid": 6177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bờ Kinh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7918627",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 449435,
+            "name": "Ấp Bờ Kinh 2",
+            "pid": 6177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bờ Kinh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7918627",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 449429,
+            "name": "Khóm Minh Thuận A",
+            "pid": 6177,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Minh Thuận A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7918627",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 449431,
+            "name": "Khóm Minh Thuận B",
+            "pid": 6177,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Minh Thuận B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7918627",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 449425,
+            "name": "Khóm Mỹ Cẩm A",
+            "pid": 6177,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Mỹ Cẩm A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7918627",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 449427,
+            "name": "Khóm Thống Nhất",
+            "pid": 6177,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Thống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7918627",
+            "lng": "106.4494214"
+        }
+    ],
+    "log_id": "67590b4395c44987"
+}

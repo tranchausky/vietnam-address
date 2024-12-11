@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630459,
+            "name": "Thôn Chấn Đông",
+            "pid": 20039,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chấn đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9054417",
+            "lng": "105.97880110000006"
+        },
+        {
+            "id": 630453,
+            "name": "Thôn Đại Hạnh",
+            "pid": 20039,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đại hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9054417",
+            "lng": "105.97880110000006"
+        },
+        {
+            "id": 630462,
+            "name": "Thôn Hoà Mục",
+            "pid": 20039,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoà mục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9054417",
+            "lng": "105.97880110000006"
+        },
+        {
+            "id": 630456,
+            "name": "Thôn Ngân Hạnh",
+            "pid": 20039,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngân hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9054417",
+            "lng": "105.97880110000006"
+        },
+        {
+            "id": 919003,
+            "name": "Thôn Nhân Lí",
+            "pid": 20039,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nhân Lí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9054417",
+            "lng": "105.97880110000006"
+        }
+    ],
+    "log_id": "6758149125d4b606"
+}

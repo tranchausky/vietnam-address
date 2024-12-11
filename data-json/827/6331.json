@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425169,
+            "name": "Thôn Cốc Lâm",
+            "pid": 6331,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Cốc Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425171,
+            "name": "Thôn Cung Thượng",
+            "pid": 6331,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Cung Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425167,
+            "name": "Thôn Đại Nội",
+            "pid": 6331,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Đại Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 425165,
+            "name": "Thôn Yên Quán",
+            "pid": 6331,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Yên Quán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "67581533494e1342"
+}

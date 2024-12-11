@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762211,
+            "name": "Thái Thành",
+            "pid": 19631,
+            "type": 16,
+            "region": null,
+            "alias": "Thái Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567477,
+            "name": "Thôn An Thái",
+            "pid": 19631,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567471,
+            "name": "Thôn Thái An",
+            "pid": 19631,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567474,
+            "name": "Thôn Thái Bình",
+            "pid": 19631,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567468,
+            "name": "Thôn Thái Hòa",
+            "pid": 19631,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567483,
+            "name": "Thôn Thái Thuận",
+            "pid": 19631,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        },
+        {
+            "id": 567480,
+            "name": "Thôn Thanh Bình",
+            "pid": 19631,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Thanh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1956011",
+            "lng": "108.463214"
+        }
+    ],
+    "log_id": "67581477914ef245"
+}

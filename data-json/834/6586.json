@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962804,
+            "name": "2-44 (Chẵn) Đường Nguyễn Gia Thiều",
+            "pid": 6586,
+            "type": 29,
+            "region": null,
+            "alias": "2-44 (chẵn) đường nguyễn gia thiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.42123248540908",
+            "lng": "107.15446431203927"
+        },
+        {
+            "id": 962803,
+            "name": "17-39 (Lẻ), Đường Nguyễn Gia Thiều",
+            "pid": 6586,
+            "type": 29,
+            "region": null,
+            "alias": "17-39 (lẻ), đường nguyễn gia thiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.420827081965133",
+            "lng": "107.15457038320383"
+        },
+        {
+            "id": 962479,
+            "name": "1221-1465 Đường 30 Tháng 4",
+            "pid": 6586,
+            "type": 29,
+            "region": null,
+            "alias": "1221-1465 Đường 30 Tháng 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.413681847655063 ",
+            "lng": "107.1408598544095"
+        },
+        {
+            "id": 445535,
+            "name": "Chi Lăng",
+            "pid": 6586,
+            "type": 21,
+            "region": null,
+            "alias": "Chi Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4214457",
+            "lng": "107.16617659999997"
+        },
+        {
+            "id": 445533,
+            "name": "Đô Lương",
+            "pid": 6586,
+            "type": 21,
+            "region": null,
+            "alias": "Đô Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4214457",
+            "lng": "107.16617659999997"
+        },
+        {
+            "id": 445547,
+            "name": "Đường 2\/9",
+            "pid": 6586,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 2\/9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4214457",
+            "lng": "107.16617659999997"
+        },
+        {
+            "id": 445549,
+            "name": "Đường 3\/2",
+            "pid": 6586,
+            "type": 16,
+            "region": null,
+            "alias": "Đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4214457",
+            "lng": "107.16617659999997"
+        },
+        {
+            "id": 445551,
+            "name": "Đường 51B",
+            "pid": 6586,
+            "type": 16,
+            "region": null,
+            "alias": "Đường 51B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4214457",
+            "lng": "107.16617659999997"
+        },
+        {
+            "id": 962796,
+            "name": "Hẻm 58 Đường Nguyễn Gia Thiều",
+            "pid": 6586,
+            "type": 21,
+            "region": null,
+            "alias": "Hẻm 58 đường nguyễn gia thiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.415749769177799",
+            "lng": "107.15642802738064"
+        }
+    ],
+    "log_id": "675815b3e6f01942"
+}

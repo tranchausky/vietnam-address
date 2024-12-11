@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1005067,
+            "name": "Đại Học Xây Dựng Miền Tây",
+            "pid": 8088,
+            "type": 9,
+            "region": null,
+            "alias": "Đại học Xây dựng miền Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10°14'09.1\"N",
+            "lng": "105°57'46.8\"E"
+        },
+        {
+            "id": 660670,
+            "name": "Đường Mậu Thân",
+            "pid": 8088,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mậu Thân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.195012",
+            "lng": "106.6847893"
+        },
+        {
+            "id": 665518,
+            "name": "Đường Nguyễn Văn Nhung",
+            "pid": 8088,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Nhung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0344458",
+            "lng": "105.797619"
+        },
+        {
+            "id": 660676,
+            "name": "Đường Nguyễn Văn Thiệt",
+            "pid": 8088,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Thiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2439962",
+            "lng": "105.9762225"
+        },
+        {
+            "id": 660664,
+            "name": "Đường Phó Cơ Điều",
+            "pid": 8088,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Phó Cơ Điều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7585021",
+            "lng": "106.6570774"
+        }
+    ],
+    "log_id": "67590b59a6f88974"
+}

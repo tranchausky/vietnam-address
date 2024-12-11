@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 106379,
+            "name": "Ấp Bãi Nam",
+            "pid": 20182,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bãi Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.952865",
+            "lng": "104.014262"
+        },
+        {
+            "id": 106358,
+            "name": "Ấp Bãi Trướng",
+            "pid": 20182,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bãi Trướng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.951230",
+            "lng": "104.020599"
+        }
+    ],
+    "log_id": "6758173647a7e202"
+}

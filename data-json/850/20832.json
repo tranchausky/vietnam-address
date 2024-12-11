@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758563,
+            "name": "Sơn Lập",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Sơn Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 396083,
+            "name": "Xóm Bai",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 769609,
+            "name": "Xóm Hui",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hui",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 758557,
+            "name": "Xóm Lanh",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 396089,
+            "name": "Xóm Sơn Phú",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sơn Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 758560,
+            "name": "Xóm Xèo",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Xèo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        },
+        {
+            "id": 396095,
+            "name": "Xóm Yên Lý",
+            "pid": 20832,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Yên Lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8508249",
+            "lng": "105.16098379999994"
+        }
+    ],
+    "log_id": "6758172107a6c978"
+}

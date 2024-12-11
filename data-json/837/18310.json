@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 739780,
+            "name": "Chùa Ngăm",
+            "pid": 18310,
+            "type": 16,
+            "region": null,
+            "alias": "Chùa Ngăm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0819441",
+            "lng": "106.15707199999996"
+        },
+        {
+            "id": 971688,
+            "name": "Thôn An Quang",
+            "pid": 18310,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn An Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0759068",
+            "lng": "106.1464062"
+        },
+        {
+            "id": 971686,
+            "name": "Thôn Môn Quảng",
+            "pid": 18310,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Môn Quảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0805218",
+            "lng": "106.1484259"
+        },
+        {
+            "id": 971690,
+            "name": "Thôn Ngăm Mạc",
+            "pid": 18310,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Ngăm Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0831284",
+            "lng": "106.1459756"
+        },
+        {
+            "id": 971687,
+            "name": "Thôn Ngọc Tỉnh",
+            "pid": 18310,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Ngọc Tỉnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0773644",
+            "lng": "106.13744655555555"
+        },
+        {
+            "id": 971689,
+            "name": "Thôn Núi",
+            "pid": 18310,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Núi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0729524",
+            "lng": "106.1551272322"
+        },
+        {
+            "id": 113463,
+            "name": "Xóm Bền",
+            "pid": 18310,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm bền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0707948",
+            "lng": "106.1309122"
+        }
+    ],
+    "log_id": "675815f8d27cd650"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116997,
+            "name": "Ấp Long Thái",
+            "pid": 18081,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7910359",
+            "lng": "105.3189726"
+        },
+        {
+            "id": 116995,
+            "name": "Long Bình",
+            "pid": 18081,
+            "type": 17,
+            "region": null,
+            "alias": "Long Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7910359",
+            "lng": "105.3189726"
+        },
+        {
+            "id": 116989,
+            "name": "Long Châu",
+            "pid": 18081,
+            "type": 17,
+            "region": null,
+            "alias": "Long Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7910359",
+            "lng": "105.3189726"
+        }
+    ],
+    "log_id": "675816c042a9e946"
+}

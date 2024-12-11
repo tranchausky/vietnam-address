@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 529133,
+            "name": "Bua",
+            "pid": 21461,
+            "type": 16,
+            "region": null,
+            "alias": "Bua",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6082607",
+            "lng": "105.00679769999999"
+        },
+        {
+            "id": 529135,
+            "name": "Hoa Tiến",
+            "pid": 21461,
+            "type": 16,
+            "region": null,
+            "alias": "Hoa Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6082607",
+            "lng": "105.00679769999999"
+        },
+        {
+            "id": 529137,
+            "name": "Hồng Tiến",
+            "pid": 21461,
+            "type": 16,
+            "region": null,
+            "alias": "Hồng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6082607",
+            "lng": "105.00679769999999"
+        },
+        {
+            "id": 529139,
+            "name": "Minh Tiến",
+            "pid": 21461,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6082607",
+            "lng": "105.00679769999999"
+        }
+    ],
+    "log_id": "67581208afd2121"
+}

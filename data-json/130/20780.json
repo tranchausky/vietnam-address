@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 590127,
+            "name": "Bản Ẳng",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản ẳng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 590124,
+            "name": "Bản Bước",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Bước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 590115,
+            "name": "Bản Lừm Hạ",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lừm Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 590112,
+            "name": "Bản Lừm Thượng",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lừm Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 590118,
+            "name": "Bản Nà Phai",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nà Phai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 590130,
+            "name": "Bản Nà Sài",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nà Sài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 590121,
+            "name": "Bản Pắc Ngà",
+            "pid": 20780,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pắc Ngà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.330605",
+            "lng": "104.20471599999996"
+        }
+    ],
+    "log_id": "675812ef38bb8130"
+}

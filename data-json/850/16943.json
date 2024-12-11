@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 627504,
+            "name": "Xóm Quáng Giữa",
+            "pid": 16943,
+            "type": 18,
+            "region": null,
+            "alias": "xóm quáng giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7065511",
+            "lng": "105.35190549999993"
+        },
+        {
+            "id": 627501,
+            "name": "Xóm Quáng Ngoài",
+            "pid": 16943,
+            "type": 18,
+            "region": null,
+            "alias": "xóm quáng ngoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7065511",
+            "lng": "105.35190549999993"
+        },
+        {
+            "id": 627507,
+            "name": "Xóm Quáng Trong",
+            "pid": 16943,
+            "type": 18,
+            "region": null,
+            "alias": "xóm quáng trong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7065511",
+            "lng": "105.35190549999993"
+        }
+    ],
+    "log_id": "6758172128c75807"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 911746,
+            "name": "An Bình",
+            "pid": 14584,
+            "type": 16,
+            "region": null,
+            "alias": "An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6867161",
+            "lng": "105.81655419999993"
+        },
+        {
+            "id": 929644,
+            "name": "Bình Ca",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Bình Ca",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6867161",
+            "lng": "105.81655419999993"
+        },
+        {
+            "id": 989597,
+            "name": "Bình Minh",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Bình Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.686502058399995",
+            "lng": "105.81667529489145"
+        },
+        {
+            "id": 989596,
+            "name": "Cà Phê",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Cà Phê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.697686132401643",
+            "lng": "105.80035664531688"
+        },
+        {
+            "id": 929650,
+            "name": "Minh Lý",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Minh Lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.667082",
+            "lng": "105.794255"
+        },
+        {
+            "id": 989598,
+            "name": "Minh Tiến",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Minh Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.685329348090455",
+            "lng": "105.8069457367714"
+        },
+        {
+            "id": 900790,
+            "name": "Na Đòa",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Na đòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6867161",
+            "lng": "105.81655419999993"
+        },
+        {
+            "id": 989595,
+            "name": "Trại Cài",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Trại Cài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.703787806078914",
+            "lng": "05.8032321628048"
+        },
+        {
+            "id": 1010544,
+            "name": "Xóm Bình Ca",
+            "pid": 14584,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bình Ca",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6714838",
+            "lng": "105.8148687"
+        }
+    ],
+    "log_id": "67590a09b3482486"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443149,
+            "name": "Khóm Sa Nhiên",
+            "pid": 15700,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Sa Nhiên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.319217",
+            "lng": "105.74978779999992"
+        },
+        {
+            "id": 443153,
+            "name": "Khóm Tân Hiệp",
+            "pid": 15700,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.319217",
+            "lng": "105.74978779999992"
+        },
+        {
+            "id": 443151,
+            "name": "Khóm Tân Huề",
+            "pid": 15700,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Tân Huề",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.319217",
+            "lng": "105.74978779999992"
+        },
+        {
+            "id": 443147,
+            "name": "Khóm Tân Mỹ",
+            "pid": 15700,
+            "type": 16,
+            "region": null,
+            "alias": "Khóm Tân Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.319217",
+            "lng": "105.74978779999992"
+        },
+        {
+            "id": 443145,
+            "name": "Khu Công Nghiệp C",
+            "pid": 15700,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Công Nghiệp C",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.319217",
+            "lng": "105.74978779999992"
+        }
+    ],
+    "log_id": "675816c051350547"
+}

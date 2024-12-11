@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 733897,
+            "name": "Bản Nà Cần",
+            "pid": 20794,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nà Cần",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1205375",
+            "lng": "103.64784859999996"
+        },
+        {
+            "id": 733900,
+            "name": "Phiêng Đồn",
+            "pid": 20794,
+            "type": 16,
+            "region": null,
+            "alias": "Phiêng đồn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1205375",
+            "lng": "103.64784859999996"
+        }
+    ],
+    "log_id": "675812ef2e662971"
+}

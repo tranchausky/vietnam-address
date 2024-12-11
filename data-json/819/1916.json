@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 20925,
+            "name": "Thị Trấn Ba Chẽ",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Ba Chẽ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.273069",
+            "lng": "107.29619530000002"
+        },
+        {
+            "id": 20926,
+            "name": "Xã Đạp Thanh",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đạp Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2864848",
+            "lng": "107.11300699999993"
+        },
+        {
+            "id": 20927,
+            "name": "Xã Đồn Đạc",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đồn Đạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2127637",
+            "lng": "107.26663959999996"
+        },
+        {
+            "id": 1018823,
+            "name": "Xã Lương Minh",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "xã Lương Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2285464",
+            "lng": "107.05984910000006"
+        },
+        {
+            "id": 20930,
+            "name": "Xã Nam Sơn",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2641907",
+            "lng": "107.32575450000002"
+        },
+        {
+            "id": 20931,
+            "name": "Xã Thanh Lâm",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thanh Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3276963",
+            "lng": "107.16026829999998"
+        },
+        {
+            "id": 20932,
+            "name": "Xã Thanh Sơn",
+            "pid": 1916,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2996782",
+            "lng": "107.20753880000007"
+        }
+    ],
+    "log_id": "675814c1cf16d305"
+}

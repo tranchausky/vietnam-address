@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 814111,
+            "name": "Tam Sơn",
+            "pid": 18690,
+            "type": 16,
+            "region": null,
+            "alias": "Tam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.37447919841298",
+            "lng": "105.65924530720416"
+        },
+        {
+            "id": 1013340,
+            "name": "Thôn Quyết Thắng",
+            "pid": 18690,
+            "type": 16,
+            "region": null,
+            "alias": "THôn Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.375811",
+            "lng": "105.683506"
+        },
+        {
+            "id": 648589,
+            "name": "Thôn Thông Bái",
+            "pid": 18690,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thông Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.35981799321132",
+            "lng": "105.71313130661203"
+        }
+    ],
+    "log_id": "67590a23b3d42453"
+}

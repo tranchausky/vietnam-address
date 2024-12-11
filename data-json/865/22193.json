@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559787,
+            "name": "Bản Bóng",
+            "pid": 22193,
+            "type": 10,
+            "region": null,
+            "alias": "bản bóng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 813211,
+            "name": "Bản Cang",
+            "pid": 22193,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 813214,
+            "name": "Bản Chai",
+            "pid": 22193,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 880102,
+            "name": "Bản Lách",
+            "pid": 22193,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 559783,
+            "name": "Bản Na Chừa",
+            "pid": 22193,
+            "type": 10,
+            "region": null,
+            "alias": "bản na chừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 559785,
+            "name": "Bản Na Hào",
+            "pid": 22193,
+            "type": 10,
+            "region": null,
+            "alias": "bản na hào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 970876,
+            "name": "Bản Nà Hin",
+            "pid": 22193,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nà Hin",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4088898",
+            "lng": "104.4127846"
+        },
+        {
+            "id": 559781,
+            "name": "Bản Ngố",
+            "pid": 22193,
+            "type": 10,
+            "region": null,
+            "alias": "Bản ngố",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 813217,
+            "name": "Pieng Tat",
+            "pid": 22193,
+            "type": 16,
+            "region": null,
+            "alias": "Pieng Tat",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        }
+    ],
+    "log_id": "67590a234a0c5172"
+}

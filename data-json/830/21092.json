@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571464,
+            "name": "Nà Dầu",
+            "pid": 21092,
+            "type": 16,
+            "region": null,
+            "alias": "nà dầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.102802",
+            "lng": "105.4185227"
+        },
+        {
+            "id": 571461,
+            "name": "Nà Trào",
+            "pid": 21092,
+            "type": 16,
+            "region": null,
+            "alias": "nà trào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.102802",
+            "lng": "105.4185227"
+        },
+        {
+            "id": 920821,
+            "name": "Xóm Vi Pi",
+            "pid": 21092,
+            "type": 18,
+            "region": null,
+            "alias": "xóm vi pi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.102802",
+            "lng": "105.4185227"
+        }
+    ],
+    "log_id": "6758156648433539"
+}

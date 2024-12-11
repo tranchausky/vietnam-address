@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110511,
+            "name": "Ấp Mỹ Hiệp 1",
+            "pid": 6228,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Hiệp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.723406",
+            "lng": "105.416596"
+        },
+        {
+            "id": 110529,
+            "name": "Ấp Mỹ Hiệp 2",
+            "pid": 6228,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Hiệp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.723406",
+            "lng": "105.416596"
+        },
+        {
+            "id": 110569,
+            "name": "Ấp Mỹ Hiệp 3",
+            "pid": 6228,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Hiệp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.723406",
+            "lng": "105.416596"
+        },
+        {
+            "id": 703741,
+            "name": "Ấp Thạnh Hòa 1",
+            "pid": 6228,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Hòa 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7432237",
+            "lng": "105.3991413"
+        },
+        {
+            "id": 110581,
+            "name": "Ấp Thạnh Quới 1",
+            "pid": 6228,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Quới 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.723406",
+            "lng": "105.416596"
+        },
+        {
+            "id": 110557,
+            "name": "Ấp Tư Sáng",
+            "pid": 6228,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tư Sáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.723406",
+            "lng": "105.416596"
+        }
+    ],
+    "log_id": "675816fe4a743228"
+}

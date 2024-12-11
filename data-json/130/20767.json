@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 589980,
+            "name": "Bệnh Viện Đa Khoa",
+            "pid": 20767,
+            "type": 18,
+            "region": null,
+            "alias": "Bệnh Viện Đa Khoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 430115,
+            "name": "Tiểu Khu 1",
+            "pid": 20767,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu Khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 430117,
+            "name": "Tiểu Khu 2",
+            "pid": 20767,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu Khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 430119,
+            "name": "Tiểu Khu 3",
+            "pid": 20767,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu Khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 430121,
+            "name": "Tiểu Khu Cơ Quan, Uỷ Ban Nhân Dân Huyện",
+            "pid": 20767,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu Khu Cơ Quan, Uỷ Ban nhân dân huyện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 430123,
+            "name": "Tiểu Khu Phiêng Ban 1",
+            "pid": 20767,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu Khu Phiêng Ban 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 589971,
+            "name": "Tiểu Khu Phiêng Ban 2",
+            "pid": 20767,
+            "type": 16,
+            "region": null,
+            "alias": "Tiểu khu Phiêng Ban 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 430129,
+            "name": "Tiểu Khu Văn Ban",
+            "pid": 20767,
+            "type": 20,
+            "region": null,
+            "alias": "Tiểu Khu Văn Ban",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        },
+        {
+            "id": 967377,
+            "name": "Trường Cấp 3, Nội Trú",
+            "pid": 20767,
+            "type": 16,
+            "region": null,
+            "alias": "Trường cấp 3, Nội Trú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999997"
+        }
+    ],
+    "log_id": "675812ef23117847"
+}

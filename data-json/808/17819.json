@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 835471,
+            "name": "Bản Pho",
+            "pid": 17819,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pho",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        },
+        {
+            "id": 914083,
+            "name": "Nậm Lang A",
+            "pid": 17819,
+            "type": 16,
+            "region": null,
+            "alias": "Nậm Lang A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        },
+        {
+            "id": 860239,
+            "name": "Suối Thầu 1",
+            "pid": 17819,
+            "type": 16,
+            "region": null,
+            "alias": "Suối Thầu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        },
+        {
+            "id": 929074,
+            "name": "Thôn Suối Thầu Mông",
+            "pid": 17819,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Suối Thầu Mông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0337815",
+            "lng": "105.81405389999998"
+        }
+    ],
+    "log_id": "675814451ba59739"
+}

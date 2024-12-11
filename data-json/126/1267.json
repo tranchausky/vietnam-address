@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 896665,
+            "name": "359 Lê Văn Sỹ",
+            "pid": 1267,
+            "type": 8,
+            "region": null,
+            "alias": "359 Lê Văn Sỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7882819",
+            "lng": "106.6765223"
+        },
+        {
+            "id": 682990,
+            "name": "Đường Lê Văn Sỹ",
+            "pid": 1267,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7897153",
+            "lng": "106.6745408"
+        },
+        {
+            "id": 671875,
+            "name": "Đường Trường Sa",
+            "pid": 1267,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7871503",
+            "lng": "106.6741146"
+        }
+    ],
+    "log_id": "6758129ae1285104"
+}

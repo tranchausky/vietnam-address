@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 855817,
+            "name": "3 Lương",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "3 Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 855811,
+            "name": "Ba Lương",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "Ba Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54694,
+            "name": "Cơ Sở Sản Xuất Và Thương Mại Minh Long",
+            "pid": 4692,
+            "type": 4,
+            "region": null,
+            "alias": "cơ sở sản xuất và thương mại Minh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.995523911553704",
+            "lng": "105.75486282472974"
+        },
+        {
+            "id": 667114,
+            "name": "Km12 Đại Lộ Thăng Long, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "Km12 Đại Lộ Thăng Long, Xã Song Phương, Hoài Đức, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0040247",
+            "lng": "105.6833575"
+        },
+        {
+            "id": 667042,
+            "name": "Thôn 1, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1, Xã song phương, Hoài đức, hà nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0147942",
+            "lng": "105.6744695"
+        },
+        {
+            "id": 667048,
+            "name": "Thôn 2, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 2, Xã song phương, Hoài đức, hà nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0207393",
+            "lng": "105.6745276"
+        },
+        {
+            "id": 667057,
+            "name": "Thôn 3, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 3, Xã song phương, Hoài đức, hà nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0045016",
+            "lng": "105.6785989"
+        },
+        {
+            "id": 667075,
+            "name": "Thôn 4, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4, Xã Song Phương, Hoài Đức, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0046516",
+            "lng": "105.6784309"
+        },
+        {
+            "id": 667081,
+            "name": "Thôn 5, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5, Xã Song Phương, Hoài Đức, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0048047",
+            "lng": "105.6782592"
+        },
+        {
+            "id": 667084,
+            "name": "Thôn 6, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6, Xã Song Phương, Hoài Đức, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0156087",
+            "lng": "105.6911305"
+        },
+        {
+            "id": 667111,
+            "name": "Xóm Trại Gần, Xã Song Phương, Hoài Đức, Hà Nội",
+            "pid": 4692,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trại Gần, Xã Song Phương, Hoài Đức, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0105088",
+            "lng": "105.6800008"
+        }
+    ],
+    "log_id": "675811bba01b7898"
+}

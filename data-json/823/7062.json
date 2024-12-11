@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 85415,
+            "name": "Ấp Đông Bắc",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.036337",
+            "lng": "107202511"
+        },
+        {
+            "id": 85412,
+            "name": "Ấp Đông Kim",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.036337",
+            "lng": "107.202511"
+        },
+        {
+            "id": 85427,
+            "name": "Ấp Tây Kim",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.030444",
+            "lng": "107.123322"
+        },
+        {
+            "id": 85430,
+            "name": "Ấp Tây Nam",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.030444",
+            "lng": "107.123322"
+        },
+        {
+            "id": 85418,
+            "name": "Ấp Võ Dõng 1",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Võ Dõng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.036337",
+            "lng": "107.202511"
+        },
+        {
+            "id": 85421,
+            "name": "Ấp Võ Dõng 2",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Võ Dõng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.030976",
+            "lng": "107.173258"
+        },
+        {
+            "id": 85424,
+            "name": "Ấp Võ Dõng 3",
+            "pid": 7062,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Võ Dõng 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.030444",
+            "lng": "107.123322"
+        }
+    ],
+    "log_id": "675814dd3bebf399"
+}

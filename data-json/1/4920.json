@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114147,
+            "name": "Thôn Đặng Xá",
+            "pid": 4920,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Đặng Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7856417",
+            "lng": "105.9096945"
+        },
+        {
+            "id": 114185,
+            "name": "Thôn Đỗ Xá",
+            "pid": 4920,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Đỗ Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7760679",
+            "lng": "105.9002378"
+        },
+        {
+            "id": 114171,
+            "name": "Thôn Vạn Điểm",
+            "pid": 4920,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vạn Điểm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7795025",
+            "lng": "105.9083295"
+        },
+        {
+            "id": 55686,
+            "name": "Ubnd Xã Vạn Điểm",
+            "pid": 4920,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Vạn Điểm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 971945,
+            "name": "Xóm Lẻ Vạn Điểm Thường Tín",
+            "pid": 4920,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm Lẻ Vạn Điểm Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.777788235167343",
+            "lng": "105.90351627545888"
+        }
+    ],
+    "log_id": "675811bc74bbb518"
+}

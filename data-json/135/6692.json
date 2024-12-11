@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1016836,
+            "name": "Chợ Thanh Sơn",
+            "pid": 6692,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.747147",
+            "lng": "106.666236"
+        },
+        {
+            "id": 1017711,
+            "name": "Chùa Cẩm La",
+            "pid": 6692,
+            "type": 10,
+            "region": null,
+            "alias": "Chùa Cẩm La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.744507",
+            "lng": "106.663953"
+        },
+        {
+            "id": 1017730,
+            "name": "Công Ty S&D, Thiên Nam",
+            "pid": 6692,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty S&D, Thiên Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.734532",
+            "lng": "106.664138"
+        },
+        {
+            "id": 1017727,
+            "name": "Karaoke Bến Thượng Hải",
+            "pid": 6692,
+            "type": 4,
+            "region": null,
+            "alias": "Karaoke Bến Thượng Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.739346",
+            "lng": "106.664123"
+        },
+        {
+            "id": 1017832,
+            "name": "Ngã 3 Đầu Núi",
+            "pid": 6692,
+            "type": 10,
+            "region": null,
+            "alias": "Ngã 3 đầu núi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.741438",
+            "lng": "106.660546"
+        },
+        {
+            "id": 412089,
+            "name": "Thôn Cẩm Hoàn",
+            "pid": 6692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Hoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7445868",
+            "lng": "106.66597460000003"
+        },
+        {
+            "id": 412087,
+            "name": "Thôn Cẩm La",
+            "pid": 6692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7445868",
+            "lng": "106.66597460000003"
+        },
+        {
+            "id": 412091,
+            "name": "Thôn Xuân La",
+            "pid": 6692,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7445868",
+            "lng": "106.66597460000003"
+        },
+        {
+            "id": 1017706,
+            "name": "Trạm Y Tế Xã Thanh Sơn",
+            "pid": 6692,
+            "type": 6,
+            "region": null,
+            "alias": "Trạm y tế xã Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.745842 ",
+            "lng": "106.665106"
+        },
+        {
+            "id": 1017141,
+            "name": "Trường Th, Thcs",
+            "pid": 6692,
+            "type": 9,
+            "region": null,
+            "alias": "Trường TH, THCS",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.746656",
+            "lng": "106.665765"
+        },
+        {
+            "id": 1017167,
+            "name": "Ubnd, Bưu Điện",
+            "pid": 6692,
+            "type": 10,
+            "region": null,
+            "alias": "UBND, Bưu điện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.746903",
+            "lng": "106.666038"
+        }
+    ],
+    "log_id": "67581366457d5910"
+}

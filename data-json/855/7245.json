@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437411,
+            "name": "Ấp 1A",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1a",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 437413,
+            "name": "Ấp 1B",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1b",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 437415,
+            "name": "Ấp 2",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 437417,
+            "name": "Ấp 3",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 437419,
+            "name": "Ấp 4",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 437421,
+            "name": "Ấp 5",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 437423,
+            "name": "Ấp 6",
+            "pid": 7245,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        },
+        {
+            "id": 97070,
+            "name": "Kcn Bắc An Thạnh",
+            "pid": 7245,
+            "type": 16,
+            "region": null,
+            "alias": "KCN Bắc An Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6931033",
+            "lng": "106.4619519"
+        },
+        {
+            "id": 437425,
+            "name": "Phú An Thạnh",
+            "pid": 7245,
+            "type": 17,
+            "region": null,
+            "alias": "Phú An Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6655633",
+            "lng": "106.47003599999994"
+        }
+    ],
+    "log_id": "675817851d295686"
+}

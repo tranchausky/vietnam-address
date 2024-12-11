@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 13699,
+            "name": "Phường Minh Khai",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8182613",
+            "lng": "104.98658520000004"
+        },
+        {
+            "id": 13725,
+            "name": "Phường Ngọc Hà",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Ngọc Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8376682",
+            "lng": "105.01276699999994"
+        },
+        {
+            "id": 13694,
+            "name": "Phường Nguyễn Trãi",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.81635",
+            "lng": "104.98117439999999"
+        },
+        {
+            "id": 13717,
+            "name": "Phường Quang Trung",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8369866",
+            "lng": "104.9776971"
+        },
+        {
+            "id": 13706,
+            "name": "Phường Trần Phú",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trần Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8312057",
+            "lng": "104.98771740000007"
+        },
+        {
+            "id": 13728,
+            "name": "Xã Ngọc Đường",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ngọc Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8363183",
+            "lng": "105.01297210000007"
+        },
+        {
+            "id": 13745,
+            "name": "Xã Phương Độ",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phương Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8373942",
+            "lng": "104.94767049999996"
+        },
+        {
+            "id": 13735,
+            "name": "Xã Phương Thiện",
+            "pid": 1665,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phương Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.7913742",
+            "lng": "104.97405720000006"
+        }
+    ],
+    "log_id": "6758156608b3d516"
+}

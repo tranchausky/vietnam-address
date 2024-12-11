@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881476,
+            "name": "Đường An Xá",
+            "pid": 40,
+            "type": 21,
+            "region": null,
+            "alias": "Đường An Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,047786",
+            "lng": "105,847283"
+        },
+        {
+            "id": 881473,
+            "name": "Đường Hồng Hà",
+            "pid": 40,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,047786",
+            "lng": "105,847283"
+        },
+        {
+            "id": 830008,
+            "name": "Đường Nghĩa Dũng",
+            "pid": 40,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nghĩa Dũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0467979",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 830449,
+            "name": "Đường Phúc Xá",
+            "pid": 40,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phúc Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0467979",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 830536,
+            "name": "Đường Tân Ấp",
+            "pid": 40,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Ấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0467979",
+            "lng": "105.84811160000004"
+        }
+    ],
+    "log_id": "675811bc4df87271"
+}

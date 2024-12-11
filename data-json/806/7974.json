@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446701,
+            "name": "Ấp Thạnh Lộc 1",
+            "pid": 7974,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thạnh Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2035773",
+            "lng": "105.48905919999993"
+        },
+        {
+            "id": 446703,
+            "name": "Ấp Thạnh Lộc 2",
+            "pid": 7974,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thạnh Lộc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2035773",
+            "lng": "105.48905919999993"
+        },
+        {
+            "id": 446695,
+            "name": "Ấp Thạnh Lợi",
+            "pid": 7974,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thạnh Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2035773",
+            "lng": "105.48905919999993"
+        },
+        {
+            "id": 446697,
+            "name": "Ấp Thạnh Lợi 1",
+            "pid": 7974,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thạnh Lợi 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2035773",
+            "lng": "105.48905919999993"
+        },
+        {
+            "id": 446699,
+            "name": "Ấp Thạnh Lợi 2",
+            "pid": 7974,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thạnh Lợi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2035773",
+            "lng": "105.48905919999993"
+        }
+    ],
+    "log_id": "6758140ccf480406"
+}

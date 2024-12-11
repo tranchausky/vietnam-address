@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567567,
+            "name": "Thôn Bình Lễ",
+            "pid": 19617,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.191063",
+            "lng": "108.53444349999995"
+        },
+        {
+            "id": 567561,
+            "name": "Thôn Bình Liêm",
+            "pid": 19617,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Liêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.191063",
+            "lng": "108.53444349999995"
+        },
+        {
+            "id": 567570,
+            "name": "Thôn Bình Long",
+            "pid": 19617,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.191063",
+            "lng": "108.53444349999995"
+        },
+        {
+            "id": 567564,
+            "name": "Thôn Bình Thủy",
+            "pid": 19617,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.191063",
+            "lng": "108.53444349999995"
+        }
+    ],
+    "log_id": "67581477905ff7"
+}

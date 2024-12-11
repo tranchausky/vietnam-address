@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 23120,
+            "name": "Đê La Thanh Nhỏ",
+            "pid": 68,
+            "type": 2,
+            "region": null,
+            "alias": "Đê La Thanh nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0107223",
+            "lng": "105.83767020000005"
+        },
+        {
+            "id": 1068,
+            "name": "Ngõ Kiến Thiết",
+            "pid": 68,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Kiến Thiết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0203086",
+            "lng": "105.83225900000002"
+        },
+        {
+            "id": 1034,
+            "name": "Ngõ Lệnh Cư",
+            "pid": 68,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Lệnh Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0134822",
+            "lng": "105.82694149999998"
+        },
+        {
+            "id": 4073,
+            "name": "Ngõ Thổ Quan",
+            "pid": 68,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Thổ Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0181521",
+            "lng": "105.83345009999994"
+        },
+        {
+            "id": 24070,
+            "name": "Ngõ Trung Tả",
+            "pid": 68,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Trung Tả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0204876",
+            "lng": "105.83454359999996"
+        }
+    ],
+    "log_id": "675811bbe8cd7924"
+}

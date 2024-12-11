@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 525071,
+            "name": "Đường Bạch Đằng",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Đằng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525073,
+            "name": "Đường Bên Ngự",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bên Ngự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525077,
+            "name": "Đường Hoàng Ngân",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Ngân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525081,
+            "name": "Đường Nguyễn Trãi",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525083,
+            "name": "Đường Nguyễn Văn Tố",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Tố",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525085,
+            "name": "Đường Phan Đình Phùng",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đình Phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525087,
+            "name": "Đường Trần Nhân Tông",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Nhân Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 893362,
+            "name": "Hàng Cau",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Hàng Cau",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 709522,
+            "name": "Hoàng Văn Thụ",
+            "pid": 5988,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Văn Thụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7ab5740"
+}

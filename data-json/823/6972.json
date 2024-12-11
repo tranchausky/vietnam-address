@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93668,
+            "name": "Ấp 1",
+            "pid": 6972,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.027412",
+            "lng": "106.9132997"
+        },
+        {
+            "id": 93671,
+            "name": "Ấp 2",
+            "pid": 6972,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.023774768444639",
+            "lng": "106.92915241268969"
+        },
+        {
+            "id": 93674,
+            "name": "Ấp 3",
+            "pid": 6972,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.02897597017187",
+            "lng": "106.93307945360937"
+        },
+        {
+            "id": 93695,
+            "name": "Ấp Bình Trung",
+            "pid": 6972,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.05824267158161",
+            "lng": "106.92913945775683"
+        },
+        {
+            "id": 93677,
+            "name": "Ấp Cây Xoài",
+            "pid": 6972,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Xoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.03084617058957",
+            "lng": "106.94163312503929"
+        },
+        {
+            "id": 93692,
+            "name": "Ấp Thái An",
+            "pid": 6972,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thái An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.057651933999907",
+            "lng": "106.92794168966412"
+        }
+    ],
+    "log_id": "675814dd1628c70"
+}

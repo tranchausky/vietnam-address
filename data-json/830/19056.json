@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 570501,
+            "name": "Chúng Phìn",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "Chúng Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 754840,
+            "name": "Cờ Lắng Lũng Phìn",
+            "pid": 19056,
+            "type": 20,
+            "region": null,
+            "alias": "Cờ Lắng Lũng Phìn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.2781471",
+            "lng": "105.36273359999996"
+        },
+        {
+            "id": 570510,
+            "name": "Mao Xa Phìn",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "Mao Xa Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 570495,
+            "name": "Sủng Lỳ",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "Sủng Lỳ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 570498,
+            "name": "Sủng Phì",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "Sủng Phì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 570504,
+            "name": "Suối Chín Rán",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "Suối chín rán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 570507,
+            "name": "Suối Mèo Rán",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "Suối Mèo Rán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        },
+        {
+            "id": 570492,
+            "name": "Thôn Cháng Chá Phìn",
+            "pid": 19056,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cháng chá phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1335614",
+            "lng": "105.28385109999999"
+        }
+    ],
+    "log_id": "6758156633b5b204"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 26033,
+            "name": "Phường Anh Dũng",
+            "pid": 2084,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Anh Dũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8001248",
+            "lng": "106.70282500000007"
+        },
+        {
+            "id": 26025,
+            "name": "Phường Đa Phúc",
+            "pid": 2084,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đa Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.803645",
+            "lng": "106.66744840000001"
+        },
+        {
+            "id": 26013,
+            "name": "Phường Hải Thành",
+            "pid": 2084,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hải Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7862238",
+            "lng": "106.72641249999992"
+        },
+        {
+            "id": 26045,
+            "name": "Phường Hòa Nghĩa",
+            "pid": 2084,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7668933",
+            "lng": "106.71756690000007"
+        },
+        {
+            "id": 26029,
+            "name": "Phường Hưng Đạo",
+            "pid": 2084,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7966965",
+            "lng": "106.67923999999994"
+        },
+        {
+            "id": 26057,
+            "name": "Phường Tân Thành",
+            "pid": 2084,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7621887",
+            "lng": "106.7647475"
+        }
+    ],
+    "log_id": "6758136599399938"
+}

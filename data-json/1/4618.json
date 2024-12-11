@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54398,
+            "name": "Ubnd Xã Hạ Mỗ",
+            "pid": 4618,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hạ Mỗ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 762826,
+            "name": "Xóm Chùa",
+            "pid": 4618,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb93e99866"
+}

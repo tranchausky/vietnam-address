@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 899638,
+            "name": "Tân Bình",
+            "pid": 18815,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8217209",
+            "lng": "108.97102379999998"
+        },
+        {
+            "id": 467881,
+            "name": "Thôn Lâm An",
+            "pid": 18815,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lâm An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8217209",
+            "lng": "108.97102380000001"
+        },
+        {
+            "id": 467877,
+            "name": "Thôn Tân Mỹ",
+            "pid": 18815,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8217209",
+            "lng": "108.97102380000001"
+        },
+        {
+            "id": 467879,
+            "name": "Thôn Tân Tự",
+            "pid": 18815,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8217209",
+            "lng": "108.97102380000001"
+        },
+        {
+            "id": 467875,
+            "name": "Thôn Trường Sanh",
+            "pid": 18815,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trường Sanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8217209",
+            "lng": "108.97102380000001"
+        }
+    ],
+    "log_id": "675909a4c8be5854"
+}

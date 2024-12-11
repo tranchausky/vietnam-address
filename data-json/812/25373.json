@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 983835,
+            "name": "Chùa Thạnh Lâm",
+            "pid": 25373,
+            "type": 16,
+            "region": null,
+            "alias": "Chùa Thạnh Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.520259",
+            "lng": "108.932273"
+        },
+        {
+            "id": 568401,
+            "name": "Thôn Phú An",
+            "pid": 25373,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.533333",
+            "lng": "108.95000000000004"
+        },
+        {
+            "id": 983837,
+            "name": "Thôn Phú An.",
+            "pid": 25373,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú An.",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.520259",
+            "lng": "108.932273"
+        },
+        {
+            "id": 568398,
+            "name": "Thôn Quý Thạnh",
+            "pid": 25373,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quý Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.533333",
+            "lng": "108.95000000000004"
+        },
+        {
+            "id": 568404,
+            "name": "Thôn Thương Châu",
+            "pid": 25373,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thương Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.533333",
+            "lng": "108.95000000000004"
+        },
+        {
+            "id": 983838,
+            "name": "Thôn Thương Châu.",
+            "pid": 25373,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thương Châu.",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.520259",
+            "lng": "108.932273"
+        },
+        {
+            "id": 668533,
+            "name": "Ubnd Huyện Phú Quý",
+            "pid": 25373,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Huyện Phú Quý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.531460",
+            "lng": "108.935298"
+        }
+    ],
+    "log_id": "67581477e9030423"
+}

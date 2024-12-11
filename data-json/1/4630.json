@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 721396,
+            "name": "Thôn 1",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 748462,
+            "name": "Thôn5",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 748465,
+            "name": "Thôn 7",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 748471,
+            "name": "Thôn 8",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 748468,
+            "name": "Thôn 21",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 21",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 666874,
+            "name": "Thôn Phương Vinh",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6795848",
+            "lng": "105.6813333"
+        },
+        {
+            "id": 667120,
+            "name": "Thôn Trung Châu A",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Châu A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1251559",
+            "lng": "105.6614372"
+        },
+        {
+            "id": 667126,
+            "name": "Thôn Trung Châu B",
+            "pid": 4630,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Châu B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1275776",
+            "lng": "105.6580249"
+        },
+        {
+            "id": 54374,
+            "name": "Ubnd Xã Trung Châuu",
+            "pid": 4630,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Trung Châuu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb9a873170"
+}

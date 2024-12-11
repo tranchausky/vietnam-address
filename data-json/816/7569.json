@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 741070,
+            "name": "Cao Đoài",
+            "pid": 7569,
+            "type": 16,
+            "region": null,
+            "alias": "Cao đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 630852,
+            "name": "Thôn An Trạch",
+            "pid": 7569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 708637,
+            "name": "Thôn Cao Đoài",
+            "pid": 7569,
+            "type": 4,
+            "region": null,
+            "alias": "Thôn Cao đoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 630846,
+            "name": "Thôn Cao Đông",
+            "pid": 7569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cao đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 630843,
+            "name": "Thôn Linh Hạ",
+            "pid": 7569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn linh hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 630849,
+            "name": "Thôn Phù Oanh",
+            "pid": 7569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phù oanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 630840,
+            "name": "Thôn Phượng Tường",
+            "pid": 7569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phượng tường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        },
+        {
+            "id": 630855,
+            "name": "Xóm Nam Dương",
+            "pid": 7569,
+            "type": 18,
+            "region": null,
+            "alias": "xóm nam dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6979325",
+            "lng": "106.09047209999994"
+        }
+    ],
+    "log_id": "6758149101190591"
+}

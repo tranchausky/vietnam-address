@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101387,
+            "name": "Thô Lập Phương",
+            "pid": 4747,
+            "type": 16,
+            "region": null,
+            "alias": "thô lập phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.739298",
+            "lng": "105.957835"
+        },
+        {
+            "id": 101297,
+            "name": "Thôn Khang Thái",
+            "pid": 4747,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khang thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.734312",
+            "lng": "105.957229"
+        },
+        {
+            "id": 101414,
+            "name": "Thôn Vĩnh Hạ",
+            "pid": 4747,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vĩnh hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.705200",
+            "lng": "105.964315"
+        },
+        {
+            "id": 101453,
+            "name": "Thôn Vĩnh Thượng",
+            "pid": 4747,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vĩnh thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.718307",
+            "lng": "105.958157"
+        },
+        {
+            "id": 101492,
+            "name": "Thôn Vĩnh Trung",
+            "pid": 4747,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.710710",
+            "lng": "105.958843"
+        },
+        {
+            "id": 101831,
+            "name": "Xóm Trại",
+            "pid": 4747,
+            "type": 18,
+            "region": null,
+            "alias": "xóm trại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.723344, 105.944102",
+            "lng": "20.723344, 105.944102"
+        }
+    ],
+    "log_id": "675811bcd3f3f737"
+}

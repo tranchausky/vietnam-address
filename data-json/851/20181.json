@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 105512,
+            "name": "Ấp Cửa Lấp",
+            "pid": 20181,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cửa Lấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.190689",
+            "lng": "103.967171"
+        },
+        {
+            "id": 105347,
+            "name": "Ấp Đường Bào",
+            "pid": 20181,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đường Bào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.125072",
+            "lng": "103.985892"
+        },
+        {
+            "id": 105467,
+            "name": "Ấp Dương Tơ",
+            "pid": 20181,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Dương Tơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.162511",
+            "lng": "103.998010"
+        },
+        {
+            "id": 852967,
+            "name": "Ấp Suối Đá",
+            "pid": 20181,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.210908",
+            "lng": "103.996554"
+        },
+        {
+            "id": 105293,
+            "name": "Ấp Suối Lớn",
+            "pid": 20181,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.066942",
+            "lng": "104.019693"
+        },
+        {
+            "id": 105410,
+            "name": "Ấp Suối Mây",
+            "pid": 20181,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Suối Mây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.194942",
+            "lng": "103.994010"
+        },
+        {
+            "id": 990129,
+            "name": "Ngọc Trai Quốc An",
+            "pid": 20181,
+            "type": 20,
+            "region": null,
+            "alias": "ngọc trai quốc an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "103.99219708499426",
+            "lng": "10.187064176274262"
+        }
+    ],
+    "log_id": "675817363fbad297"
+}

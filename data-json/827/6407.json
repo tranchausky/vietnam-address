@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 423917,
+            "name": "Thôn Đình",
+            "pid": 6407,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 423915,
+            "name": "Thôn Lực Điền",
+            "pid": 6407,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lực Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 423919,
+            "name": "Thôn Nội",
+            "pid": 6407,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 423913,
+            "name": "Thôn Yên Trù",
+            "pid": 6407,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Trù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        }
+    ],
+    "log_id": "675815337ac87289"
+}

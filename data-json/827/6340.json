@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 549969,
+            "name": "Nhân Lý",
+            "pid": 6340,
+            "type": 16,
+            "region": null,
+            "alias": "Nhân Lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549971,
+            "name": "Nhân Trai",
+            "pid": 6340,
+            "type": 16,
+            "region": null,
+            "alias": "Nhân Trai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549973,
+            "name": "Phú Thọ",
+            "pid": 6340,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549967,
+            "name": "Thôn Gĩa Bàng",
+            "pid": 6340,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gĩa Bàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 549975,
+            "name": "Trung Hậu",
+            "pid": 6340,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "67581533530ee975"
+}

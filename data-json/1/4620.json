@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668797,
+            "name": "Cụm 1, Liên Hà",
+            "pid": 4620,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 1, Liên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1139432",
+            "lng": "105.7135786"
+        },
+        {
+            "id": 668803,
+            "name": "Cụm 2, Xã Liên Hà",
+            "pid": 4620,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 2, Xã liên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.113968",
+            "lng": "105.7069856"
+        },
+        {
+            "id": 668812,
+            "name": "Cụm 3, Xã Liên Hà",
+            "pid": 4620,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 3, Xã Liên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1140076",
+            "lng": "105.7069427"
+        },
+        {
+            "id": 668821,
+            "name": "Cụm 4, Liên Hà",
+            "pid": 4620,
+            "type": 16,
+            "region": null,
+            "alias": "Cụm 4, Liên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1101",
+            "lng": "105.7132155"
+        },
+        {
+            "id": 668842,
+            "name": "Làng Nghề Liên Hà",
+            "pid": 4620,
+            "type": 10,
+            "region": null,
+            "alias": "Làng Nghề Liên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1091612",
+            "lng": "105.7148729"
+        },
+        {
+            "id": 54394,
+            "name": "Ubnd Xã Liên Hà",
+            "pid": 4620,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Liên Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1100214",
+            "lng": "105.71723880000002"
+        }
+    ],
+    "log_id": "675811bb92d6e911"
+}

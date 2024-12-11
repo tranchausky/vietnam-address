@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559155,
+            "name": "Thôn 1 Lê Lợi",
+            "pid": 17129,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8396306",
+            "lng": "105.84517579999999"
+        },
+        {
+            "id": 559153,
+            "name": "Thôn 2 Hồng Thái",
+            "pid": 17129,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Hồng Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8396306",
+            "lng": "105.84517579999999"
+        },
+        {
+            "id": 559157,
+            "name": "Thôn 2 Lê Lợi",
+            "pid": 17129,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Lê Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8396306",
+            "lng": "105.84517579999999"
+        },
+        {
+            "id": 559151,
+            "name": "Thôn Hồng Thái 1",
+            "pid": 17129,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Thái 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8396306",
+            "lng": "105.84517579999999"
+        },
+        {
+            "id": 559159,
+            "name": "Thôn Quang Trung",
+            "pid": 17129,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8396306",
+            "lng": "105.84517579999999"
+        }
+    ],
+    "log_id": "67590a237559f699"
+}

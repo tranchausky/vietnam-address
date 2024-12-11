@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465455,
+            "name": "Quy Thiện",
+            "pid": 16345,
+            "type": 16,
+            "region": null,
+            "alias": "Quy Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7548123",
+            "lng": "107.22231269999997"
+        },
+        {
+            "id": 465453,
+            "name": "Trâm Lý",
+            "pid": 16345,
+            "type": 16,
+            "region": null,
+            "alias": "Trâm Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7548123",
+            "lng": "107.22231269999997"
+        },
+        {
+            "id": 465451,
+            "name": "Văn Vận",
+            "pid": 16345,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Vận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7548123",
+            "lng": "107.22231269999997"
+        }
+    ],
+    "log_id": "675813bc64b4849"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630774,
+            "name": "Thôn Hoàng Các",
+            "pid": 16936,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoàng các",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6999214",
+            "lng": "106.21109960000001"
+        },
+        {
+            "id": 630780,
+            "name": "Thôn Hoàng Xá",
+            "pid": 16936,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoàng xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6999214",
+            "lng": "106.21109960000001"
+        },
+        {
+            "id": 630777,
+            "name": "Thôn Lại Khê",
+            "pid": 16936,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lại khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6999214",
+            "lng": "106.21109960000001"
+        }
+    ],
+    "log_id": "67581490ced5d294"
+}

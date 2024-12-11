@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 920122,
+            "name": "Ấp 1A",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1a",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.679114607028916",
+            "lng": "107.02474451798498"
+        },
+        {
+            "id": 920116,
+            "name": "Ấp 1B",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1b",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.656453745199654",
+            "lng": "107.04071196188771"
+        },
+        {
+            "id": 88253,
+            "name": "Ấp 1C",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1c",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6841299",
+            "lng": "107.0235512"
+        },
+        {
+            "id": 88541,
+            "name": "Ấp 3",
+            "pid": 6984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 88550,
+            "name": "Ấp Hiền Đức",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Hiền Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.692329",
+            "lng": "107.0206167"
+        },
+        {
+            "id": 88526,
+            "name": "Ấp Hiền Hòa",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Hiền Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.69476551905577",
+            "lng": "107.0230903827572"
+        },
+        {
+            "id": 88220,
+            "name": "Ấp Long Phú",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Long Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.669425",
+            "lng": "107.0316017"
+        },
+        {
+            "id": 987466,
+            "name": "Chợ Mới Long Phú",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ mới Long Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.684732389008573",
+            "lng": "107.02355521799772"
+        },
+        {
+            "id": 994117,
+            "name": "Chợ Mới Phước Thái",
+            "pid": 6984,
+            "type": 21,
+            "region": null,
+            "alias": "chợ mới phước thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.67930135053905",
+            "lng": "107.02968312880999"
+        },
+        {
+            "id": 88532,
+            "name": "Công Ty Cphh Vedan - Phước Thái",
+            "pid": 6984,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty CPHH Vedan - Phước Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.663668",
+            "lng": "107.034378"
+        },
+        {
+            "id": 88535,
+            "name": "Kcn Gò Dầu",
+            "pid": 6984,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Gò Dầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.659335",
+            "lng": "107.036390"
+        },
+        {
+            "id": 994121,
+            "name": "Nhà Thờ Hiền Hòa",
+            "pid": 6984,
+            "type": 10,
+            "region": null,
+            "alias": "nhà thờ hiền hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.691726426873059",
+            "lng": "107.02461196983417"
+        }
+    ],
+    "log_id": "675814dd57ba9600"
+}

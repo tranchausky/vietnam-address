@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555489,
+            "name": "Phố Anh Vân",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Anh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555475,
+            "name": "Phố Chu",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Chu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555485,
+            "name": "Phố Hồng Sơn",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Hồng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555479,
+            "name": "Phố Kim Vân",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Kim Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555483,
+            "name": "Phố Lương Vân",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Lương Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555477,
+            "name": "Phố Măng",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Măng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555481,
+            "name": "Phố Mòn",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Mòn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 555487,
+            "name": "Phố Xuân Long",
+            "pid": 22123,
+            "type": 21,
+            "region": null,
+            "alias": "phố Xuân Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000003"
+        },
+        {
+            "id": 900241,
+            "name": "Thôn Cộc",
+            "pid": 22123,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3621352",
+            "lng": "105.23703390000004"
+        }
+    ],
+    "log_id": "67590a234e16a312"
+}

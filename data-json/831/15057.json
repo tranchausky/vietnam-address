@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 457247,
+            "name": "Bá Hà 1",
+            "pid": 15057,
+            "type": 16,
+            "region": null,
+            "alias": "Bá Hà 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5110357",
+            "lng": "109.24152329999992"
+        },
+        {
+            "id": 457249,
+            "name": "Bá Hà 2",
+            "pid": 15057,
+            "type": 16,
+            "region": null,
+            "alias": "Bá hà 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5110357",
+            "lng": "109.24152329999992"
+        },
+        {
+            "id": 457255,
+            "name": "Mỹ Á",
+            "pid": 15057,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Á",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5110357",
+            "lng": "109.24152329999992"
+        },
+        {
+            "id": 457245,
+            "name": "Ngân Hà",
+            "pid": 15057,
+            "type": 16,
+            "region": null,
+            "alias": "Ngân Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5110357",
+            "lng": "109.24152329999992"
+        },
+        {
+            "id": 457251,
+            "name": "Phú Thạnh",
+            "pid": 15057,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5110357",
+            "lng": "109.24152329999992"
+        },
+        {
+            "id": 997508,
+            "name": "Tdp Mỹ Lương(Số Lẻ 173-353 Đường Lê Hồng Phong)",
+            "pid": 15057,
+            "type": 10,
+            "region": null,
+            "alias": "TDP Mỹ Lương(số lẻ 173-353 Đường Lê Hồng Phong)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.528191910456874",
+            "lng": "109.22623991651108"
+        },
+        {
+            "id": 997506,
+            "name": "Tdp Phú Thạnh (Số Chẵn 102-188 Đường Lê Hồng Phong)",
+            "pid": 15057,
+            "type": 10,
+            "region": null,
+            "alias": "TDP Phú Thạnh (số chẵn 102-188 Đường Lê Hồng Phong)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.536064774160666",
+            "lng": "109.22570514591744"
+        },
+        {
+            "id": 997505,
+            "name": "Tdp Phú Thạnh (Số Lẻ 81-169 Đường Lê Hồng Phong)",
+            "pid": 15057,
+            "type": 10,
+            "region": null,
+            "alias": "TDP Phú Thạnh (số lẻ 81-169 đường Lê Hồng Phong)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.536064774160666",
+            "lng": "109.22579316674964"
+        },
+        {
+            "id": 457243,
+            "name": "Thủy Đầm",
+            "pid": 15057,
+            "type": 16,
+            "region": null,
+            "alias": "Thủy Đầm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.5110357",
+            "lng": "109.24152329999992"
+        },
+        {
+            "id": 997502,
+            "name": "Tổ Dân Phố Mỹ Á",
+            "pid": 15057,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố Mỹ Á",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.516137160010706",
+            "lng": "109.23489567615164"
+        }
+    ],
+    "log_id": "67581585ba0bd404"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598905,
+            "name": "Gò Tre",
+            "pid": 19015,
+            "type": 17,
+            "region": null,
+            "alias": "Gò Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3602893",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 598911,
+            "name": "Thuận An",
+            "pid": 19015,
+            "type": 17,
+            "region": null,
+            "alias": "Thuận An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3602893",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 598908,
+            "name": "Thuận Hòa",
+            "pid": 19015,
+            "type": 17,
+            "region": null,
+            "alias": "Thuận Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3602893",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 598914,
+            "name": "Xóm Dinh",
+            "pid": 19015,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3602893",
+            "lng": "106.69398030000002"
+        }
+    ],
+    "log_id": "675814f397a9a704"
+}

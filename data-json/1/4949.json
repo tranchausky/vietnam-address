@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 755116,
+            "name": "Đinh Xuyên",
+            "pid": 4949,
+            "type": 16,
+            "region": null,
+            "alias": "Đinh Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6826258",
+            "lng": "105.76152520000004"
+        },
+        {
+            "id": 101474,
+            "name": "Dư Xá Thượng",
+            "pid": 4949,
+            "type": 16,
+            "region": null,
+            "alias": "Dư Xá Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6773501",
+            "lng": "105.763726"
+        },
+        {
+            "id": 101450,
+            "name": "Nam Dương",
+            "pid": 4949,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.69028",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 55782,
+            "name": "Ubnd Xã Hòa Nam",
+            "pid": 4949,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hòa Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 810664,
+            "name": "Xóm Bãi - Đinh Xuyên",
+            "pid": 4949,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bãi - Đinh xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6826258",
+            "lng": "105.76152520000005"
+        },
+        {
+            "id": 810658,
+            "name": "Xóm Chợ - Đinh Xuyên",
+            "pid": 4949,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chợ - đinh xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6826258",
+            "lng": "105.76152520000005"
+        }
+    ],
+    "log_id": "675811bd3db1a16"
+}

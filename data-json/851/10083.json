@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108579,
+            "name": "Ấp Bờ Xáng",
+            "pid": 10083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bờ Xáng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.965707",
+            "lng": "105.288660"
+        },
+        {
+            "id": 108577,
+            "name": "Ấp Cây Quéo",
+            "pid": 10083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cây Quéo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9509292",
+            "lng": "105.2982509"
+        },
+        {
+            "id": 108571,
+            "name": "Ấp Chà Rào",
+            "pid": 10083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Chà Rào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.929959",
+            "lng": "105.305711"
+        },
+        {
+            "id": 108575,
+            "name": "Ấp Ngã Sáu",
+            "pid": 10083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngã Sáu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9560766",
+            "lng": "105.3158448"
+        },
+        {
+            "id": 108573,
+            "name": "Ấp Thạnh Bình",
+            "pid": 10083,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.938568",
+            "lng": "105.321370"
+        }
+    ],
+    "log_id": "67581736435e1774"
+}

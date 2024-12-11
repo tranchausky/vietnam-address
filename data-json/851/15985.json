@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 862237,
+            "name": "Khu Phố Minh An",
+            "pid": 15985,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Minh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.899912",
+            "lng": "105.162125"
+        },
+        {
+            "id": 112731,
+            "name": "Khu Phố Minh Lạc",
+            "pid": 15985,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Minh Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.904806",
+            "lng": "105.167417"
+        },
+        {
+            "id": 112651,
+            "name": "Khu Phố Minh Long",
+            "pid": 15985,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Minh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.898833",
+            "lng": "105.162722"
+        },
+        {
+            "id": 112687,
+            "name": "Khu Phố Minh Phú",
+            "pid": 15985,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Minh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.910444",
+            "lng": "105.154917"
+        },
+        {
+            "id": 112707,
+            "name": "Khu Phố Minh Thành",
+            "pid": 15985,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Minh Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.910000",
+            "lng": "105.174250"
+        }
+    ],
+    "log_id": "675817361087d639"
+}

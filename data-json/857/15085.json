@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603381,
+            "name": "Đường Cao Thắng",
+            "pid": 15085,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5510896",
+            "lng": "108.98439619999999"
+        },
+        {
+            "id": 978369,
+            "name": "Đường Ngô Quyền",
+            "pid": 15085,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.561307787966122 ",
+            "lng": "108.9877132412299"
+        },
+        {
+            "id": 603375,
+            "name": "Đường Thống Nhất Số Lẻ Từ 647-699",
+            "pid": 15085,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thống Nhất số lẻ từ 647-699",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5510896",
+            "lng": "108.98439619999999"
+        },
+        {
+            "id": 847753,
+            "name": "Đường Yết Kiêu Số Chẳn Từ 80-100",
+            "pid": 15085,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yết Kiêu số Chẳn từ 80-100",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5510896",
+            "lng": "108.9843962"
+        },
+        {
+            "id": 603378,
+            "name": "Đường Yết Kiêu Số Lẻ Tư 105-141",
+            "pid": 15085,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yết Kiêu số lẻ tư 105-141",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5510896",
+            "lng": "108.98439619999999"
+        }
+    ],
+    "log_id": "675817b988210937"
+}

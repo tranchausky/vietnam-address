@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 900472,
+            "name": "Thạch Đài",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch đài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9881388",
+            "lng": "105.69111210000004"
+        },
+        {
+            "id": 556193,
+            "name": "Thôn Bái Trại 1",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bái Trại 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9534066",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 556195,
+            "name": "Thôn Bái Trại 2",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bái Trại 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9534066",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 556201,
+            "name": "Thôn Hoạch Thôn",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoạch Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9534066",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 556199,
+            "name": "Thôn Phú Cẩm",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Cẩm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9534066",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 556197,
+            "name": "Thôn Phú Thọ",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9534066",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 556203,
+            "name": "Thôn Thạch Đài",
+            "pid": 17261,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Đài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9534066",
+            "lng": "105.62659080000003"
+        }
+    ],
+    "log_id": "67590a233da6c767"
+}

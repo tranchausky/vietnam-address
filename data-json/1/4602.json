@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117575,
+            "name": "Long Châu",
+            "pid": 4602,
+            "type": 16,
+            "region": null,
+            "alias": "Long Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.79055, ",
+            "lng": " 106.688396"
+        },
+        {
+            "id": 117573,
+            "name": "Phương Bản",
+            "pid": 4602,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Bản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9514136",
+            "lng": "105.6958788"
+        },
+        {
+            "id": 818221,
+            "name": "Phượng Đồng",
+            "pid": 4602,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.948948",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 117569,
+            "name": "Phượng Nghĩa",
+            "pid": 4602,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9499677",
+            "lng": "105.7112797"
+        },
+        {
+            "id": 117577,
+            "name": "Quyết Thắng",
+            "pid": 4602,
+            "type": 16,
+            "region": null,
+            "alias": "Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5811997",
+            "lng": "105.7907062"
+        },
+        {
+            "id": 53158,
+            "name": "Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội",
+            "pid": 4602,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Đại học Sư phạm Thể dục thể thao Hà nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 54246,
+            "name": "Ubnd Xã Phụng Châu",
+            "pid": 4602,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Phụng Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb74e29700"
+}

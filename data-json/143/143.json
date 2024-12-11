@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1930,
+            "name": "Huyện Cam Lộ",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cam Lộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.783695",
+            "lng": "106.98308650000001"
+        },
+        {
+            "id": 1932,
+            "name": "Huyện Đa Krông",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đa Krông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5349165",
+            "lng": "106.95947230000002"
+        },
+        {
+            "id": 1933,
+            "name": "Huyện Gio Linh",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Gio Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.9165711",
+            "lng": "107.03032210000003"
+        },
+        {
+            "id": 1934,
+            "name": "Huyện Hải Lăng",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hải Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.714002",
+            "lng": "107.26663959999996"
+        },
+        {
+            "id": 1935,
+            "name": "Huyện Hướng Hóa",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hướng Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.6495512",
+            "lng": "106.67629199999999"
+        },
+        {
+            "id": 1936,
+            "name": "Huyện Triệu Phong",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Triệu Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.809184",
+            "lng": "107.21935780000001"
+        },
+        {
+            "id": 1937,
+            "name": "Huyện Vĩnh Linh",
+            "pid": 143,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Vĩnh Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.0743311",
+            "lng": "107.05394339999998"
+        },
+        {
+            "id": 1938,
+            "name": "Thành Phố Đông Hà",
+            "pid": 143,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Đông Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8088928",
+            "lng": "107.08937979999996"
+        },
+        {
+            "id": 1939,
+            "name": "Thị Xã Quảng Trị",
+            "pid": 143,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Quảng Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.750563",
+            "lng": "107.18570629999999"
+        }
+    ],
+    "log_id": "675813bbe025c218"
+}

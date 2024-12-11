@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 978510,
+            "name": "Bãi Bấc",
+            "pid": 876391,
+            "type": 21,
+            "region": null,
+            "alias": "Bãi Bấc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.818513",
+            "lng": "104.647269"
+        },
+        {
+            "id": 978506,
+            "name": "Bãi Nhà A",
+            "pid": 876391,
+            "type": 21,
+            "region": null,
+            "alias": "Bãi Nhà A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.799378",
+            "lng": "104.629560"
+        },
+        {
+            "id": 978507,
+            "name": "Bãi Nhà B",
+            "pid": 876391,
+            "type": 21,
+            "region": null,
+            "alias": "Bãi Nhà B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.802180",
+            "lng": "104.633530"
+        },
+        {
+            "id": 978511,
+            "name": "Thiên Tuế",
+            "pid": 876391,
+            "type": 21,
+            "region": null,
+            "alias": "Thiên Tuế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.800428",
+            "lng": "104.615195"
+        }
+    ],
+    "log_id": "6758173617fb6965"
+}

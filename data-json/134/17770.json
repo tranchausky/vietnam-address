@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 755581,
+            "name": "Bản Kho",
+            "pid": 17770,
+            "type": 21,
+            "region": null,
+            "alias": "Bản Kho",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 910288,
+            "name": "Giao Thông",
+            "pid": 17770,
+            "type": 21,
+            "region": null,
+            "alias": "Giao Thông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 892966,
+            "name": "Huyện Đội",
+            "pid": 17770,
+            "type": 21,
+            "region": null,
+            "alias": "Huyện đội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 755578,
+            "name": "Khu Cầu Lấm",
+            "pid": 17770,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Cầu Lấm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 852463,
+            "name": "Khu Lâm Nghiệp",
+            "pid": 17770,
+            "type": 20,
+            "region": null,
+            "alias": "khu Lâm Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 916702,
+            "name": "Khu Pò Mục",
+            "pid": 17770,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Pò Mục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 925639,
+            "name": "Nà Lấm",
+            "pid": 17770,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lấm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 872008,
+            "name": "Tòa Nhà Tòa Án Nhân Dân Huyện Lộc Bình",
+            "pid": 17770,
+            "type": 4,
+            "region": null,
+            "alias": "tòa nhà tòa án nhân dân huyện lộc bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        },
+        {
+            "id": 846535,
+            "name": "Trung Tâm Giáo Dục Thường Xuyên",
+            "pid": 17770,
+            "type": 20,
+            "region": null,
+            "alias": "Trung Tâm Giáo Dục Thường Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7653509",
+            "lng": "106.92110430000002"
+        }
+    ],
+    "log_id": "6758133f328b7310"
+}

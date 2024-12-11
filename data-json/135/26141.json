@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981078,
+            "name": "Hàng Kênh",
+            "pid": 26141,
+            "type": 21,
+            "region": null,
+            "alias": "Hàng Kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981081,
+            "name": "Hàng Kênh 1",
+            "pid": 26141,
+            "type": 21,
+            "region": null,
+            "alias": "Hàng Kênh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "67581366266d1382"
+}

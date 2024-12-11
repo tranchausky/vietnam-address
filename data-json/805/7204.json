@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638628,
+            "name": "Khu 1",
+            "pid": 7204,
+            "type": 10,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 638631,
+            "name": "Khu 2",
+            "pid": 7204,
+            "type": 10,
+            "region": null,
+            "alias": "khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 638634,
+            "name": "Khu 3",
+            "pid": 7204,
+            "type": 10,
+            "region": null,
+            "alias": "khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 638637,
+            "name": "Khu 4",
+            "pid": 7204,
+            "type": 10,
+            "region": null,
+            "alias": "khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 638640,
+            "name": "Khu 5",
+            "pid": 7204,
+            "type": 10,
+            "region": null,
+            "alias": "khu 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 638643,
+            "name": "Khu 6",
+            "pid": 7204,
+            "type": 10,
+            "region": null,
+            "alias": "khu 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 870973,
+            "name": "Phố Chu Văn An",
+            "pid": 7204,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 870970,
+            "name": "Phố Thanh Bình",
+            "pid": 7204,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Thanh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 863095,
+            "name": "Phố Trương",
+            "pid": 7204,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Trương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        },
+        {
+            "id": 863083,
+            "name": "Tuệ Tĩnh",
+            "pid": 7204,
+            "type": 21,
+            "region": null,
+            "alias": "Tuệ Tĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7879784",
+            "lng": "106.23750500000006"
+        }
+    ],
+    "log_id": "675813f1e1888892"
+}

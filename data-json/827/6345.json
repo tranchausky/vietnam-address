@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425229,
+            "name": "Đông Mẫu",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "đông mẫu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550039,
+            "name": "Thôn Chùa",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550041,
+            "name": "Thôn Đình",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550043,
+            "name": "Thôn Gia",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550045,
+            "name": "Thôn Miểu",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Miểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550047,
+            "name": "Thôn Mới",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550049,
+            "name": "Yên Nghiệp",
+            "pid": 6345,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "675815335d45a756"
+}

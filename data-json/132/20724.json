@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 737503,
+            "name": "Khu 1",
+            "pid": 20724,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        },
+        {
+            "id": 605133,
+            "name": "Khu Phố 4",
+            "pid": 20724,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        },
+        {
+            "id": 605139,
+            "name": "Khu Phố 6",
+            "pid": 20724,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        },
+        {
+            "id": 605142,
+            "name": "Tổ Dân Phố 1",
+            "pid": 20724,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        },
+        {
+            "id": 605145,
+            "name": "Tổ Dân Phố 1",
+            "pid": 20724,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ dân phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        },
+        {
+            "id": 605130,
+            "name": "Tổ Dân Phố 3",
+            "pid": 20724,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ dân phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        },
+        {
+            "id": 605136,
+            "name": "Tổ Dân Phố 4",
+            "pid": 20724,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ dân phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.743216",
+            "lng": "105.02944150000008"
+        }
+    ],
+    "log_id": "6758131fa47c135"
+}

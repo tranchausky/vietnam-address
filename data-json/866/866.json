@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 2015,
+            "name": "Huyện A Lưới",
+            "pid": 866,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện A Lưới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2303741",
+            "lng": "107.33757909999997"
+        },
+        {
+            "id": 2017,
+            "name": "Huyện Nam Đông",
+            "pid": 866,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Nam Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1249688",
+            "lng": "107.67074170000001"
+        },
+        {
+            "id": 2018,
+            "name": "Huyện Phong Điền",
+            "pid": 866,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phong Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.503112",
+            "lng": "107.33757909999997"
+        },
+        {
+            "id": 2019,
+            "name": "Huyện Phú Lộc",
+            "pid": 866,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phú Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.2725431",
+            "lng": "107.93947609999998"
+        },
+        {
+            "id": 2020,
+            "name": "Huyện Phú Vang",
+            "pid": 866,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phú Vang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.491213",
+            "lng": "107.7399345"
+        },
+        {
+            "id": 2021,
+            "name": "Huyện Quảng Điền",
+            "pid": 866,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Quảng Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5902415",
+            "lng": "107.51501389999999"
+        },
+        {
+            "id": 2022,
+            "name": "Thành Phố Huế",
+            "pid": 866,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Huế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4498",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 2023,
+            "name": "Thị Xã Hương Thủy",
+            "pid": 866,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Hương Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4198395",
+            "lng": "107.64642950000007"
+        },
+        {
+            "id": 2016,
+            "name": "Thị Xã Hương Trà",
+            "pid": 866,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Hương Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.420796",
+            "lng": "107.5031811"
+        }
+    ],
+    "log_id": "67590b24d3e31781"
+}

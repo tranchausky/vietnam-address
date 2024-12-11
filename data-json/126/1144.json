@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102638,
+            "name": "Ấp 1",
+            "pid": 1144,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6822525",
+            "lng": "106.6248823"
+        },
+        {
+            "id": 102779,
+            "name": "Ấp 2",
+            "pid": 1144,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.658964",
+            "lng": "106.6562402"
+        },
+        {
+            "id": 105329,
+            "name": "Ấp 3",
+            "pid": 1144,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6629492",
+            "lng": "106.6206998"
+        },
+        {
+            "id": 105356,
+            "name": "Ấp 4",
+            "pid": 1144,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6629492",
+            "lng": "106.6206998"
+        },
+        {
+            "id": 105398,
+            "name": "Ấp 5",
+            "pid": 1144,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6661028",
+            "lng": "106.6277736"
+        },
+        {
+            "id": 105962,
+            "name": "Ấp 6",
+            "pid": 1144,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6853916",
+            "lng": "106.6217103"
+        },
+        {
+            "id": 682753,
+            "name": "Đường Đoàn Nguyễn Tuân",
+            "pid": 1144,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Nguyễn Tuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6497952",
+            "lng": "106.6249047"
+        }
+    ],
+    "log_id": "6758129ab7d7d955"
+}

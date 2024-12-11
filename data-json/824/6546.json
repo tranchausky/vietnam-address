@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598581,
+            "name": "Mỹ Hưng A",
+            "pid": 6546,
+            "type": 17,
+            "region": null,
+            "alias": "Mỹ Hưng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3548533",
+            "lng": "105.95119350000004"
+        },
+        {
+            "id": 598584,
+            "name": "Mỹ Hưng C",
+            "pid": 6546,
+            "type": 17,
+            "region": null,
+            "alias": "Mỹ Hưng C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3548533",
+            "lng": "105.95119350000004"
+        },
+        {
+            "id": 598575,
+            "name": "Mỹ Phú",
+            "pid": 6546,
+            "type": 17,
+            "region": null,
+            "alias": "Mỹ Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3548533",
+            "lng": "105.95119350000004"
+        },
+        {
+            "id": 598578,
+            "name": "Mỹ Quế",
+            "pid": 6546,
+            "type": 17,
+            "region": null,
+            "alias": "Mỹ Quế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3548533",
+            "lng": "105.95119350000004"
+        }
+    ],
+    "log_id": "675814f3b641f436"
+}

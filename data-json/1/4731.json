@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120261,
+            "name": "Chân Chim",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Chân Chim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8088041",
+            "lng": "105.6903787"
+        },
+        {
+            "id": 120259,
+            "name": "Đình Làng",
+            "pid": 4731,
+            "type": 8,
+            "region": null,
+            "alias": "đình làng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.810320552847728",
+            "lng": "105.70985446682664"
+        },
+        {
+            "id": 120257,
+            "name": "Hạ",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8156114",
+            "lng": "105.7028457"
+        },
+        {
+            "id": 807502,
+            "name": "Khảm Lâm",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Khảm Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.67351310000004"
+        },
+        {
+            "id": 846130,
+            "name": "Phù Yên",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8156114",
+            "lng": "105.7028457"
+        },
+        {
+            "id": 831325,
+            "name": "Thôn Phúc Lâm",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phúc Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8156114",
+            "lng": "105.7028457"
+        },
+        {
+            "id": 846133,
+            "name": "Thôn Trì",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.816604152462276",
+            "lng": "105.71597309128447"
+        },
+        {
+            "id": 120253,
+            "name": "Thượng",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.825432834616635",
+            "lng": "105.70458464034078"
+        },
+        {
+            "id": 120255,
+            "name": "Trung",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.6735131"
+        },
+        {
+            "id": 54822,
+            "name": "Ubnd Xã Phúc Lâm",
+            "pid": 4731,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Xã Phúc Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc4a240675"
+}

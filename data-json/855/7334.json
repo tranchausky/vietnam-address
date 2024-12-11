@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451945,
+            "name": "Ấp Bàu Nâu",
+            "pid": 7334,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bàu Nâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9582266",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 451937,
+            "name": "Ấp Láng Lớn",
+            "pid": 7334,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Láng Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9582266",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 451939,
+            "name": "Ấp Thái Kì",
+            "pid": 7334,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thái Kì",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9582266",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 451941,
+            "name": "Ấp Thái Quang",
+            "pid": 7334,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thái Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9582266",
+            "lng": "105.79380689999994"
+        },
+        {
+            "id": 451943,
+            "name": "Ấp Thái Vĩnh",
+            "pid": 7334,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thái Vĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9582266",
+            "lng": "105.79380689999994"
+        }
+    ],
+    "log_id": "675817852ba1c292"
+}

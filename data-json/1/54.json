@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876952,
+            "name": "Đường Đặng Trần Côn",
+            "pid": 54,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Trần Côn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.026638715337373",
+            "lng": "105.83284076410892"
+        },
+        {
+            "id": 829474,
+            "name": "Đường Hàng Bột",
+            "pid": 54,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Bột",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.025519063216635",
+            "lng": "105.83333220753977"
+        },
+        {
+            "id": 876958,
+            "name": "Đường Lý Văn Phúc",
+            "pid": 54,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Văn Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,021170",
+            "lng": "105,831752"
+        },
+        {
+            "id": 830350,
+            "name": "Đường Phan Văn Trị",
+            "pid": 54,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Văn Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.025437700078875",
+            "lng": "105.83112664119682"
+        },
+        {
+            "id": 830707,
+            "name": "Đường Tôn Đức Thắng",
+            "pid": 54,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Đức Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.02551856708601",
+            "lng": "105.83333282717281"
+        },
+        {
+            "id": 937,
+            "name": "Ngõ Cẩm Văn",
+            "pid": 54,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Cẩm Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0134822",
+            "lng": "105.82694149999998"
+        },
+        {
+            "id": 954520,
+            "name": "Ngõ Quan Thổ 2",
+            "pid": 54,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Quan Thổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.020798857311267",
+            "lng": "105.83044115655373"
+        },
+        {
+            "id": 979,
+            "name": "Ngõ Văn Hương",
+            "pid": 54,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Văn Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0239441",
+            "lng": "105.83444550000002"
+        },
+        {
+            "id": 545,
+            "name": "Phan Văn Trị",
+            "pid": 54,
+            "type": 2,
+            "region": null,
+            "alias": "Phan Văn Trị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0255941",
+            "lng": "105.83231360000002"
+        }
+    ],
+    "log_id": "675811bbd9b60692"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 679222,
+            "name": "Đường Bùi Thanh Khiết",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Thanh Khiết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6828676",
+            "lng": "106.5771657"
+        },
+        {
+            "id": 796657,
+            "name": "Đường Hành Chánh",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hành Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6844901",
+            "lng": "106.5731392"
+        },
+        {
+            "id": 680923,
+            "name": "Đường Tân Túc",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Túc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6844901",
+            "lng": "106.5731392"
+        },
+        {
+            "id": 106859,
+            "name": "Khu Phố 2",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6834427",
+            "lng": "106.5523732"
+        },
+        {
+            "id": 106862,
+            "name": "Khu Phố 3",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6862328",
+            "lng": "106.5830594"
+        },
+        {
+            "id": 115369,
+            "name": "Khu Phố 5",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6979001",
+            "lng": "106.5944539"
+        },
+        {
+            "id": 879220,
+            "name": "Quốc Lộ 1A",
+            "pid": 1138,
+            "type": 21,
+            "region": null,
+            "alias": "Quốc Lộ 1a",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6844901",
+            "lng": "106.5731392"
+        },
+        {
+            "id": 43734,
+            "name": "Trường Tiểu Học Tân Túc",
+            "pid": 1138,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu học Tân Túc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758129a9d5c8286"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118815,
+            "name": "Thôn Gia Lố",
+            "pid": 19689,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia Lố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.249000",
+            "lng": "108.752472"
+        },
+        {
+            "id": 118823,
+            "name": "Thôn Gia Rít",
+            "pid": 19689,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gia rít",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.256500",
+            "lng": "108.802167"
+        }
+    ],
+    "log_id": "675815859b12a168"
+}

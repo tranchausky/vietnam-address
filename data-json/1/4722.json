@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120251,
+            "name": "Đồng Mít",
+            "pid": 4722,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Mít",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8088589",
+            "lng": "105.6742463"
+        },
+        {
+            "id": 120249,
+            "name": "Hoành",
+            "pid": 4722,
+            "type": 16,
+            "region": null,
+            "alias": "Hoành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8022685",
+            "lng": "105.6749796"
+        }
+    ],
+    "log_id": "675811bc1b802899"
+}

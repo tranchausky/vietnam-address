@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 991235,
+            "name": "Cầu 32",
+            "pid": 17811,
+            "type": 21,
+            "region": null,
+            "alias": "cầu 32",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.362947454323198",
+            "lng": "103.86588207569551"
+        },
+        {
+            "id": 991239,
+            "name": "Sâu Chua",
+            "pid": 17811,
+            "type": 21,
+            "region": null,
+            "alias": "sâu chua",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.339478490048663",
+            "lng": "103.88455973469867"
+        },
+        {
+            "id": 606795,
+            "name": "Tổ 1",
+            "pid": 17811,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3564642",
+            "lng": "103.87380310000003"
+        }
+    ],
+    "log_id": "6758144516679170"
+}

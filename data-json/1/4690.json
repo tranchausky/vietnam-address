@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668620,
+            "name": "Thôn Minh Hiệp 1, Minh Khai, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Hiệp 1, Minh Khai, Hoài Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.064511",
+            "lng": "105.6693895"
+        },
+        {
+            "id": 668626,
+            "name": "Thon Minh Hiệp 2, Minh Khai, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thon Minh Hiệp 2, Minh Khai, Hoài Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0620829",
+            "lng": "105.6711485"
+        },
+        {
+            "id": 668632,
+            "name": "Thôn Minh Hiệp 3, Minh Khai, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Hiệp 3, Minh Khai, Hoài Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0657095",
+            "lng": "105.6661959"
+        },
+        {
+            "id": 668638,
+            "name": "Thôn Minh Hòa 1, Minh Khai, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Hòa 1, Minh Khai, Hoài Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0608847",
+            "lng": "105.6736985"
+        },
+        {
+            "id": 668644,
+            "name": "Thôn Minh Hòa 2, Dương Liễu, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Hòa 2, Dương Liễu, Hoài Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.063601",
+            "lng": "105.6737096"
+        },
+        {
+            "id": 668659,
+            "name": "Thôn Minh Hòa 3, Minh Khai, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Hòa 3, Minh Khai, Hoài Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0621024",
+            "lng": "105.6719924"
+        },
+        {
+            "id": 668662,
+            "name": "Thôn Minh Hòa 4, Minh Khai, Hoài Đức",
+            "pid": 4690,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Hòa 4, Minh Khai, Hoài Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0642243",
+            "lng": "105.6719977"
+        },
+        {
+            "id": 54646,
+            "name": "Ubnd Xã Minh Khai",
+            "pid": 4690,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bba084a787"
+}

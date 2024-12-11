@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 916651,
+            "name": "Đông La 1",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "đông La 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 916648,
+            "name": "Đức Giang 1",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "đức Giang 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 898738,
+            "name": "Đức Giang 2",
+            "pid": 17652,
+            "type": 10,
+            "region": null,
+            "alias": "Đức Giang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 916645,
+            "name": "Đức Giang 2",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "đức Giang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 916654,
+            "name": "Khánh Thượng",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 917560,
+            "name": "Thôn Đông La 2",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông La 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 459769,
+            "name": "Thôn Đức Thạnh",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 836932,
+            "name": "Thôn Thanh Bình",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6692461",
+            "lng": "107.87023469999995"
+        },
+        {
+            "id": 459771,
+            "name": "Thôn Tiền Yên 1",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền Yên 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        },
+        {
+            "id": 459773,
+            "name": "Thôn Tiền Yên 2",
+            "pid": 17652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền Yên 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.636822",
+            "lng": "107.914877"
+        }
+    ],
+    "log_id": "67581771941f1249"
+}

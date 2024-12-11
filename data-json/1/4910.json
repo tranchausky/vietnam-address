@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113013,
+            "name": "Thôn Bằng Sở",
+            "pid": 4910,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bằng Sở",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8979242",
+            "lng": "105.8694883"
+        },
+        {
+            "id": 113649,
+            "name": "Thôn Đại Lộ",
+            "pid": 4910,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đại lộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9018058",
+            "lng": "105.8832371"
+        },
+        {
+            "id": 113045,
+            "name": "Thôn Ninh Xá",
+            "pid": 4910,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ninh Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0157573",
+            "lng": "106.0963513"
+        },
+        {
+            "id": 113643,
+            "name": "Thôn Sở Hạ",
+            "pid": 4910,
+            "type": 16,
+            "region": null,
+            "alias": "thôn sở hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8970059",
+            "lng": "105.884813"
+        },
+        {
+            "id": 118875,
+            "name": "Thôn Xâm Dương",
+            "pid": 4910,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xâm Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.901634",
+            "lng": "105.891614"
+        },
+        {
+            "id": 55582,
+            "name": "Ubnd Xã Ninh Sở",
+            "pid": 4910,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Ninh Sở",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc7434868"
+}

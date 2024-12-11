@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 460059,
+            "name": "Thôn Bộ Bê",
+            "pid": 18909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bộ Bê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3268325",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 460063,
+            "name": "Thôn Đà Hồng",
+            "pid": 18909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đà Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3268325",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 460061,
+            "name": "Thôn Ka Sá",
+            "pid": 18909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ka sá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3268325",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 460057,
+            "name": "Thôn Nao Sẻ",
+            "pid": 18909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nao Sẻ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3268325",
+            "lng": "108.1072924"
+        }
+    ],
+    "log_id": "67581771c1ef1500"
+}

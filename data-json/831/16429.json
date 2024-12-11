@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 858184,
+            "name": "Cam An Bắc",
+            "pid": 16429,
+            "type": 16,
+            "region": null,
+            "alias": "Cam An Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.0670017",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 109933,
+            "name": "Thôn Cửa Tùng",
+            "pid": 16429,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cửa Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0162619",
+            "lng": "109.1144256"
+        },
+        {
+            "id": 109947,
+            "name": "Thôn Hiền Lương",
+            "pid": 16429,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiền Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.015700",
+            "lng": "109. 111907"
+        },
+        {
+            "id": 109965,
+            "name": "Thôn Tân An",
+            "pid": 16429,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.162100",
+            "lng": "109.1109317"
+        },
+        {
+            "id": 109975,
+            "name": "Thôn Thủy Ba",
+            "pid": 16429,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thủy Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0104886",
+            "lng": "109.0901402"
+        },
+        {
+            "id": 110119,
+            "name": "Thôn Triệu Hải",
+            "pid": 16429,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Triệu Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0156040",
+            "lng": "109.0987578"
+        }
+    ],
+    "log_id": "67581585d6334727"
+}

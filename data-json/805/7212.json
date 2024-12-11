@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 651697,
+            "name": "Thôn Phù Nội",
+            "pid": 7212,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.775689",
+            "lng": "106.276257"
+        },
+        {
+            "id": 651739,
+            "name": "Thôn Thái Thạch",
+            "pid": 7212,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.781203",
+            "lng": "106.283553"
+        },
+        {
+            "id": 651718,
+            "name": "Thôn Triệu Nội",
+            "pid": 7212,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Triệu Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.785605",
+            "lng": "106.272652"
+        }
+    ],
+    "log_id": "675813f1e05e0457"
+}

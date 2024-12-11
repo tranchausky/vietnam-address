@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 895660,
+            "name": "Thôn Phú Cường 2",
+            "pid": 20459,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Cường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.75669",
+            "lng": "108.3148665"
+        },
+        {
+            "id": 643582,
+            "name": "Thôn Thạch Khê",
+            "pid": 20459,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.761385391150284",
+            "lng": "108.31719802515863"
+        }
+    ],
+    "log_id": "675817e1aed51119"
+}

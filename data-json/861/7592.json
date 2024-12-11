@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117243,
+            "name": "Ấp Bưng Cà Pốt",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Cà Pốt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.563091",
+            "lng": "106.065936"
+        },
+        {
+            "id": 117241,
+            "name": "Ấp Bưng Chông",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Chông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.554484",
+            "lng": "9.563091"
+        },
+        {
+            "id": 117225,
+            "name": "Ấp Chắc Tưng",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chắc Tưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.5427384",
+            "lng": "106.0233852"
+        },
+        {
+            "id": 117229,
+            "name": "Ấp Hà Bô",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hà Bô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "106.012854",
+            "lng": "106.012854"
+        },
+        {
+            "id": 117283,
+            "name": "Ấp Pret Đôn",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Pret Đôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.577801",
+            "lng": "106.048216"
+        },
+        {
+            "id": 117237,
+            "name": "Ấp Tài Công",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tài Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.567532",
+            "lng": "106.016961"
+        },
+        {
+            "id": 117259,
+            "name": "Ấp Trà Đót",
+            "pid": 7592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Đót",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.546101",
+            "lng": "106.085414"
+        }
+    ],
+    "log_id": "675909c1673a2573"
+}

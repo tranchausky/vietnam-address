@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 794278,
+            "name": "Bùi Xá",
+            "pid": 15714,
+            "type": 10,
+            "region": null,
+            "alias": "Bùi Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0124767",
+            "lng": "106.0299968"
+        },
+        {
+            "id": 628830,
+            "name": "Cửu Yên",
+            "pid": 15714,
+            "type": 16,
+            "region": null,
+            "alias": "Cửu Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0177142",
+            "lng": "106.0286923"
+        },
+        {
+            "id": 628836,
+            "name": "Đồng Ngư",
+            "pid": 15714,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Ngư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.013338",
+            "lng": "106.0242463"
+        },
+        {
+            "id": 794281,
+            "name": "Liễu Ngạn",
+            "pid": 15714,
+            "type": 16,
+            "region": null,
+            "alias": "Liễu Ngạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.007454",
+            "lng": "106.0261131"
+        },
+        {
+            "id": 628833,
+            "name": "Tứ Cờ",
+            "pid": 15714,
+            "type": 16,
+            "region": null,
+            "alias": "Tứ Cờ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.016691",
+            "lng": "106.038333"
+        }
+    ],
+    "log_id": "675815f8ca0cd868"
+}

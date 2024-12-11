@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445481,
+            "name": "Ấp An Bình",
+            "pid": 15725,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.479254198332073",
+            "lng": "107.22111047545384"
+        },
+        {
+            "id": 445489,
+            "name": "Ấp An Hòa",
+            "pid": 15725,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.48438214329696",
+            "lng": "107.22778650336159"
+        },
+        {
+            "id": 445487,
+            "name": "Ấp An Lộc",
+            "pid": 15725,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.472989177645209",
+            "lng": "107.21260150359412"
+        },
+        {
+            "id": 445485,
+            "name": "Ấp An Phước",
+            "pid": 15725,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.474220849104674",
+            "lng": "107.22222423679428"
+        },
+        {
+            "id": 445483,
+            "name": "Ấp An Thạnh",
+            "pid": 15725,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.432550424082127",
+            "lng": "07.21988163696335"
+        },
+        {
+            "id": 954433,
+            "name": "Chợ An Ngãi",
+            "pid": 15725,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ An Ngãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.479025095843136",
+            "lng": "107.22215176247315"
+        },
+        {
+            "id": 984906,
+            "name": "Nhà Máy Thép Khang Thịnh",
+            "pid": 15725,
+            "type": 10,
+            "region": null,
+            "alias": "Nhà máy thép Khang Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.434086345639196",
+            "lng": "107.2193811732189"
+        },
+        {
+            "id": 984905,
+            "name": "Nhà Máy Tôn Lạnh Long Hải",
+            "pid": 15725,
+            "type": 10,
+            "region": null,
+            "alias": "Nhà Máy Tôn Lạnh Long Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.430459170001635",
+            "lng": "107.22033585782833"
+        },
+        {
+            "id": 923092,
+            "name": "Nhà Máy Xử Lý Khí Nam Côn Sơn",
+            "pid": 15725,
+            "type": 5,
+            "region": null,
+            "alias": "Nhà Máy Xử Lý Khí Nam Côn Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.455340",
+            "lng": "107.216680"
+        },
+        {
+            "id": 955775,
+            "name": "Trại Tạm Giam Công An Tỉnh Bà Rịa Vũng Tàu",
+            "pid": 15725,
+            "type": 10,
+            "region": null,
+            "alias": "Trại tạm giam công an tỉnh bà rịa vũng tàu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.473635207727249",
+            "lng": "107.22411699593202"
+        },
+        {
+            "id": 954415,
+            "name": "Trường Thcs Phạm Hữu Chí",
+            "pid": 15725,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Phạm Hữu Chí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.46702135301171",
+            "lng": "107.21626440074904"
+        },
+        {
+            "id": 954416,
+            "name": "Trường Tiểu Học Cao Văn Ngọc",
+            "pid": 15725,
+            "type": 9,
+            "region": null,
+            "alias": "Trường tiểu học Cao Văn Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.466056675644316",
+            "lng": "107.21686521554805"
+        },
+        {
+            "id": 954903,
+            "name": "Ủy Ban Nhân Nhân Xã An Ngãi",
+            "pid": 15725,
+            "type": 4,
+            "region": null,
+            "alias": "Ủy Ban Nhân Nhân xã An Ngãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.480260610998302",
+            "lng": "107.22210865813355"
+        }
+    ],
+    "log_id": "675815b40b459766"
+}

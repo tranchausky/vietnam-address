@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453669,
+            "name": "Làng Chờ",
+            "pid": 15944,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Chờ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.2805633",
+            "lng": "107.7399345"
+        },
+        {
+            "id": 453671,
+            "name": "Làng Chứ",
+            "pid": 15944,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Chứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.2805633",
+            "lng": "107.7399345"
+        },
+        {
+            "id": 453667,
+            "name": "Làng Tum",
+            "pid": 15944,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tum",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.2805633",
+            "lng": "107.7399345"
+        },
+        {
+            "id": 453673,
+            "name": "Thôn Đông Hưng",
+            "pid": 15944,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.2805633",
+            "lng": "107.7399345"
+        },
+        {
+            "id": 453665,
+            "name": "Thôn Kiến Xương",
+            "pid": 15944,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiến Xương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.2805633",
+            "lng": "107.7399345"
+        }
+    ],
+    "log_id": "6758174ce0f85175"
+}

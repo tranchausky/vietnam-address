@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 348,
+            "name": "Cửa Nam",
+            "pid": 41318,
+            "type": 2,
+            "region": null,
+            "alias": "Cửa Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0252277",
+            "lng": "105.84260710000001"
+        },
+        {
+            "id": 829132,
+            "name": "Đường Cửa Nam",
+            "pid": 41318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cửa Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.032250634714945",
+            "lng": "105.84574645091217"
+        },
+        {
+            "id": 876652,
+            "name": "Đường Nam Ngư",
+            "pid": 41318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nam Ngư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,026208",
+            "lng": "105,843575"
+        },
+        {
+            "id": 341,
+            "name": "Lê Duẩn",
+            "pid": 41318,
+            "type": 2,
+            "region": null,
+            "alias": "Lê Duẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0265127",
+            "lng": "105.84151539999993"
+        },
+        {
+            "id": 1040,
+            "name": "Nam Ngư",
+            "pid": 41318,
+            "type": 2,
+            "region": null,
+            "alias": "Nam Ngư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0265102",
+            "lng": "105.8425628"
+        },
+        {
+            "id": 22177,
+            "name": "Nguyễn Thái Học",
+            "pid": 41318,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Thái Học",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0288278",
+            "lng": "105.84153449999997"
+        },
+        {
+            "id": 263,
+            "name": "Phan Bội Châu",
+            "pid": 41318,
+            "type": 2,
+            "region": null,
+            "alias": "Phan Bội Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0259732",
+            "lng": "105.84343979999994"
+        }
+    ],
+    "log_id": "675811bd1be34171"
+}

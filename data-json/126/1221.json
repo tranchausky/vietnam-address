@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 677914,
+            "name": "Đường Đào Duy Từ",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đào Duy Từ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7604921",
+            "lng": "106.6671227"
+        },
+        {
+            "id": 673453,
+            "name": "Đường Hòa Hảo",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hòa Hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.761538",
+            "lng": "106.6670398"
+        },
+        {
+            "id": 673165,
+            "name": "Đường Ngô Quyền",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7613295",
+            "lng": "106.6650909"
+        },
+        {
+            "id": 673876,
+            "name": "Đường Nguyễn Chí Thanh",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7595809",
+            "lng": "106.6672817"
+        },
+        {
+            "id": 673591,
+            "name": "Đường Nguyễn Tiểu La",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Tiểu La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7614914",
+            "lng": "106.6668271"
+        },
+        {
+            "id": 681634,
+            "name": "Đường Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Tri Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7608214",
+            "lng": "106.6687252"
+        },
+        {
+            "id": 673717,
+            "name": "Đường Vĩnh Viễn",
+            "pid": 1221,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Viễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7635137",
+            "lng": "106.6669099"
+        },
+        {
+            "id": 961575,
+            "name": "Hẻm 259 Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 259 Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.760386801",
+            "lng": "106.66839486"
+        },
+        {
+            "id": 961577,
+            "name": "Hẻm 295 Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 295 Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.761323153",
+            "lng": "106.668164"
+        },
+        {
+            "id": 961579,
+            "name": "Hẻm 337 Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 337 Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.762308145",
+            "lng": "106.66832569"
+        },
+        {
+            "id": 961581,
+            "name": "Hẻm 343 Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 343 Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.762251986",
+            "lng": "106.6676793"
+        },
+        {
+            "id": 961582,
+            "name": "Hẻm 377 Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 377 Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.762883439",
+            "lng": "106.66740762"
+        },
+        {
+            "id": 961508,
+            "name": "Lẻ 291-411 Nguyễn Tri Phương",
+            "pid": 1221,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 291-411 Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.761265",
+            "lng": "106.668372"
+        }
+    ],
+    "log_id": "6758129b0ba47786"
+}

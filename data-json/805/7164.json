@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 421037,
+            "name": "Phương Duệ",
+            "pid": 7164,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Duệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9720043",
+            "lng": "106.48476189999997"
+        },
+        {
+            "id": 421033,
+            "name": "Quỳnh Khê",
+            "pid": 7164,
+            "type": 16,
+            "region": null,
+            "alias": "Quỳnh Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9720043",
+            "lng": "106.48476189999997"
+        },
+        {
+            "id": 421035,
+            "name": "Thiện Đáp",
+            "pid": 7164,
+            "type": 18,
+            "region": null,
+            "alias": "Thiện Đáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9720043",
+            "lng": "106.48476189999997"
+        },
+        {
+            "id": 653053,
+            "name": "Thôn Bãi Mạc",
+            "pid": 7164,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bãi Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.973691940608855",
+            "lng": "106.4762456120235"
+        }
+    ],
+    "log_id": "675813f1f35c9675"
+}

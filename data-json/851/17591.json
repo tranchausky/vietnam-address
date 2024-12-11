@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110913,
+            "name": "Ấp Bãi Giếng",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bãi Giếng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.187725",
+            "lng": "104.590503"
+        },
+        {
+            "id": 111067,
+            "name": "Ấp Ba Núi",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ba Núi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.249112",
+            "lng": "104.590428"
+        },
+        {
+            "id": 111129,
+            "name": "Ấp Ba Trại",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ba Trại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.141545",
+            "lng": "104.648194"
+        },
+        {
+            "id": 111087,
+            "name": "Ấp Bình Đông",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.168971",
+            "lng": "104.631716"
+        },
+        {
+            "id": 110891,
+            "name": "Ấp Hòn Chông",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòn Chông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.146351",
+            "lng": "104.603319"
+        },
+        {
+            "id": 111103,
+            "name": "Ấp Hòn Trẹm",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòn Trẹm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.143069",
+            "lng": "104.628162"
+        },
+        {
+            "id": 111141,
+            "name": "Ấp Rẫy Mới",
+            "pid": 17591,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rẫy Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.175127",
+            "lng": "104.642563"
+        },
+        {
+            "id": 966836,
+            "name": "Khu Du Lịch Hòn Phụ Tử",
+            "pid": 17591,
+            "type": 10,
+            "region": null,
+            "alias": "Khu Du Lịch Hòn Phụ Tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.14059",
+            "lng": "104.63800"
+        },
+        {
+            "id": 966821,
+            "name": "Trường Tc Nghề Vùng Tứ Giác Long Xuyên",
+            "pid": 17591,
+            "type": 9,
+            "region": null,
+            "alias": "Trường TC Nghề Vùng Tứ Giác Long Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.20802",
+            "lng": "104.59876"
+        },
+        {
+            "id": 966838,
+            "name": "Trường Tiểu Học Bình An",
+            "pid": 17591,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Bình An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.15490",
+            "lng": "104.60808"
+        }
+    ],
+    "log_id": "675817363b9f2336"
+}

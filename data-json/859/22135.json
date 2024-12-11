@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641107,
+            "name": "Đại Bình",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Đại bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718319",
+            "lng": "108.058909"
+        },
+        {
+            "id": 760768,
+            "name": "Phước Viên",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.7277906",
+            "lng": "108.05986600000006"
+        },
+        {
+            "id": 641113,
+            "name": "Trung An",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Trung An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718319",
+            "lng": "108.058909"
+        },
+        {
+            "id": 641128,
+            "name": "Trung Hạ",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718319",
+            "lng": "108.058909"
+        },
+        {
+            "id": 641116,
+            "name": "Trung Nam",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718319",
+            "lng": "108.058909"
+        },
+        {
+            "id": 641119,
+            "name": "Trung Phước 1",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Phước 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718319",
+            "lng": "108.058909"
+        },
+        {
+            "id": 641125,
+            "name": "Trung Phước 2",
+            "pid": 22135,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Phước 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.718319",
+            "lng": "108.058909"
+        }
+    ],
+    "log_id": "675817e186515343"
+}

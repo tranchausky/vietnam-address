@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 489289,
+            "name": "Thanh Vị",
+            "pid": 4982,
+            "type": 10,
+            "region": null,
+            "alias": "Thanh Vị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.11046958630449 105.46168095926105",
+            "lng": "21.11410361528338, 105.48588362780487"
+        },
+        {
+            "id": 818263,
+            "name": "Thôn Đồng Đổi",
+            "pid": 4982,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn đồng đổi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1301068",
+            "lng": "105.47124899999994"
+        }
+    ],
+    "log_id": "675811bd3c73c691"
+}

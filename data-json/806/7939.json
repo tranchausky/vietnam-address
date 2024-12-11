@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 608094,
+            "name": "Khu Vực Long Thạnh 1",
+            "pid": 7939,
+            "type": 18,
+            "region": null,
+            "alias": "Khu vực Long Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2725016",
+            "lng": "105.53026339999997"
+        },
+        {
+            "id": 608097,
+            "name": "Khu Vực Long Thạnh 2",
+            "pid": 7939,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Long Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2725016",
+            "lng": "105.53026339999997"
+        },
+        {
+            "id": 608091,
+            "name": "Khu Vực Long Thạnh A",
+            "pid": 7939,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Long Thạnh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2725016",
+            "lng": "105.53026339999997"
+        },
+        {
+            "id": 608103,
+            "name": "Khu Vực Phụng Thạnh 1",
+            "pid": 7939,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Phụng Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2725016",
+            "lng": "105.53026339999997"
+        },
+        {
+            "id": 608100,
+            "name": "Khu Vực Tràng Thọ 1",
+            "pid": 7939,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Tràng Thọ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2725016",
+            "lng": "105.53026339999997"
+        }
+    ],
+    "log_id": "6758140cb69f9301"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 36037,
+            "name": "Tdp Bình Minh Tt Trâu Quỳ",
+            "pid": 4655,
+            "type": 21,
+            "region": null,
+            "alias": "TDP Bình Minh TT Trâu Quỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0105208",
+            "lng": "105.95294100000001"
+        },
+        {
+            "id": 35592,
+            "name": "Tổ Dân Phố An Lạc",
+            "pid": 4655,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ dân phố An Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0165997",
+            "lng": "105.92555990000005"
+        }
+    ],
+    "log_id": "675811bba083c844"
+}

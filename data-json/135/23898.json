@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515953,
+            "name": "Ao Cối",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Ao Cối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 515955,
+            "name": "Bắc",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 1011845,
+            "name": "Cầu Phù Long",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Phù Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.835205",
+            "lng": "106.8564954"
+        },
+        {
+            "id": 515957,
+            "name": "Nam",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 515959,
+            "name": "Ngoài",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 636561,
+            "name": "Thôn Ao Cối",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ao Cối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 636555,
+            "name": "Thôn Bắc",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8352176",
+            "lng": "106.8931522"
+        },
+        {
+            "id": 636552,
+            "name": "Thôn Nam",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 636558,
+            "name": "Thôn Ngoài",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8212213",
+            "lng": "106.9240554"
+        },
+        {
+            "id": 1011891,
+            "name": "Trường Mầm Non Xã Phù Long",
+            "pid": 23898,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Mầm Non Xã Phù Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8043077",
+            "lng": "106.92668"
+        },
+        {
+            "id": 1011890,
+            "name": "Trường Thcs Phù Long",
+            "pid": 23898,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Phù Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8033759 ",
+            "lng": "106.926751"
+        }
+    ],
+    "log_id": "675813661419e668"
+}

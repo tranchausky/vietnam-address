@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 121017,
+            "name": "Thôn Hạ",
+            "pid": 16454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.309029",
+            "lng": "109.013008"
+        },
+        {
+            "id": 121261,
+            "name": "Thôn Khánh Xuân",
+            "pid": 16454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khánh Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.320734",
+            "lng": "109.040849 "
+        },
+        {
+            "id": 121015,
+            "name": "Thôn Thượng",
+            "pid": 16454,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.282750",
+            "lng": "109.021389"
+        }
+    ],
+    "log_id": "67581585b10af85"
+}

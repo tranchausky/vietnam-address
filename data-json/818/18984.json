@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616365,
+            "name": "Thôn 1 Thanh Mỹ",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Thanh Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        },
+        {
+            "id": 616374,
+            "name": "Thôn 1 Thanh Tân",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Thanh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        },
+        {
+            "id": 616368,
+            "name": "Thôn 2 Thanh Mỹ",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Thanh Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        },
+        {
+            "id": 616377,
+            "name": "Thôn 2 Thanh Tân",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 Thanh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        },
+        {
+            "id": 616371,
+            "name": "Thôn 3 Thanh Mỹ",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 Thanh Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        },
+        {
+            "id": 616380,
+            "name": "Thôn 3 Thanh Tân",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 Thanh Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        },
+        {
+            "id": 616383,
+            "name": "Thôn 4 Thanh Tân",
+            "pid": 18984,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4 Thanh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2628205",
+            "lng": "106.78834159999997"
+        }
+    ],
+    "log_id": "675814a9d0ca9141"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411703,
+            "name": "Khuốc Bắc",
+            "pid": 22258,
+            "type": 16,
+            "region": null,
+            "alias": "Khuốc Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5538967",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411699,
+            "name": "Khuốc Đông",
+            "pid": 22258,
+            "type": 16,
+            "region": null,
+            "alias": "Khuốc Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5538967",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411701,
+            "name": "Khuốc Tây",
+            "pid": 22258,
+            "type": 16,
+            "region": null,
+            "alias": "Khuốc Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5538967",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411697,
+            "name": "Thôn Cổ Xá",
+            "pid": 22258,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5538967",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 411705,
+            "name": "Thôn Phố Tăng",
+            "pid": 22258,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phố Tăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5538967",
+            "lng": "106.32577679999997"
+        }
+    ],
+    "log_id": "675909f394f29596"
+}

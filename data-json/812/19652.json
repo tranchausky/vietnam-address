@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567552,
+            "name": "Thôn Hồng Thanh",
+            "pid": 19652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1017027",
+            "lng": "108.40386719999992"
+        },
+        {
+            "id": 567555,
+            "name": "Thôn Hồng Thịnh",
+            "pid": 19652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1017027",
+            "lng": "108.40386719999992"
+        },
+        {
+            "id": 567558,
+            "name": "Thôn Hồng Trung",
+            "pid": 19652,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồng Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1017027",
+            "lng": "108.40386719999992"
+        }
+    ],
+    "log_id": "675814779078360"
+}

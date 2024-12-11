@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 827779,
+            "name": "Trung Phong",
+            "pid": 17102,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7197437",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 849874,
+            "name": "Xóm Khang Thịnh",
+            "pid": 17102,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khang Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7197437",
+            "lng": "105.77913269999999"
+        },
+        {
+            "id": 849880,
+            "name": "Xuân Uyên",
+            "pid": 17102,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Uyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7197437",
+            "lng": "105.77913269999999"
+        }
+    ],
+    "log_id": "67590a2332203878"
+}

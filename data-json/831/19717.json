@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 456213,
+            "name": "Thôn Cổ Mã",
+            "pid": 19717,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN CỔ MÃ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7653507",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 456215,
+            "name": "Thôn Ninh Mã",
+            "pid": 19717,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN NINH MÃ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7653507",
+            "lng": "109.36047529999996"
+        },
+        {
+            "id": 456217,
+            "name": "Thôn Tuần Lễ",
+            "pid": 19717,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN TUẦN LỄ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7653507",
+            "lng": "109.36047529999996"
+        }
+    ],
+    "log_id": "67581585a4d5a246"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 908926,
+            "name": "Công Ty Tnhh Kim Phú Khang",
+            "pid": 13464,
+            "type": 10,
+            "region": null,
+            "alias": "CÔNG TY TNHH KIM PHÚ KHANG",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7767376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 630087,
+            "name": "Thôn Dưỡng Phú",
+            "pid": 13464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn dưỡng phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7767376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 630090,
+            "name": "Thôn Tạ Hạ",
+            "pid": 13464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tạ hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7767376",
+            "lng": "106.022874"
+        },
+        {
+            "id": 630084,
+            "name": "Thôn Tạ Thượng",
+            "pid": 13464,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tạ thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7767376",
+            "lng": "106.022874"
+        }
+    ],
+    "log_id": "6758149106982154"
+}

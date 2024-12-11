@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 554535,
+            "name": "Thôn Lục Chắn",
+            "pid": 10139,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lục Chắn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6048171",
+            "lng": "107.79915449999999"
+        },
+        {
+            "id": 554537,
+            "name": "Thôn Pò Hèn",
+            "pid": 10139,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pò Hèn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6048171",
+            "lng": "107.79915449999999"
+        },
+        {
+            "id": 554533,
+            "name": "Thôn Thán Phún",
+            "pid": 10139,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn thán phún",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6048171",
+            "lng": "107.79915449999999"
+        }
+    ],
+    "log_id": "675814c24833964"
+}

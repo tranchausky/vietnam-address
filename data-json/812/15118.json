@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 985829,
+            "name": "Thôn Thiện An",
+            "pid": 15118,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Thiện An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.963659652542797",
+            "lng": "108.25647769644222"
+        },
+        {
+            "id": 985812,
+            "name": "Thôn Thiện Bình",
+            "pid": 15118,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Thiện Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.963680718568497",
+            "lng": "108.25652061178513"
+        },
+        {
+            "id": 989036,
+            "name": "Thôn Thiện Hòa",
+            "pid": 15118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.97884642057067, ",
+            "lng": "108.27626813230842"
+        },
+        {
+            "id": 989019,
+            "name": "Thôn Thiện Sơn",
+            "pid": 15118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.981962011203773,",
+            "lng": "108.25127101776621"
+        },
+        {
+            "id": 987439,
+            "name": "Thôn Thiện Trung",
+            "pid": 15118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.96781418529007,",
+            "lng": "108.26446938445426"
+        },
+        {
+            "id": 985841,
+            "name": "Trần Hữu Xoàng",
+            "pid": 15118,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Hữu Xoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.99212256122868, ",
+            "lng": "108.25342333665851"
+        }
+    ],
+    "log_id": "67581477eb945138"
+}

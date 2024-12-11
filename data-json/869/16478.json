@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828628,
+            "name": "Sinh Thái Đá Bia",
+            "pid": 16478,
+            "type": 21,
+            "region": null,
+            "alias": "Sinh Thái Đá Bia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8983329",
+            "lng": "109.38544980000006"
+        },
+        {
+            "id": 443987,
+            "name": "Thôn Hảo Sơn Bắc",
+            "pid": 16478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hảo Sơn Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.8983329",
+            "lng": "109.38544980000006"
+        },
+        {
+            "id": 443985,
+            "name": "Thôn Hảo Sơn Nam",
+            "pid": 16478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hảo Sơn Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.8983329",
+            "lng": "109.38544980000006"
+        },
+        {
+            "id": 443989,
+            "name": "Thôn Vũng Rô",
+            "pid": 16478,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vũng Rô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.8983329",
+            "lng": "109.38544980000006"
+        },
+        {
+            "id": 828631,
+            "name": "Ubnd Xã Hòa Xuân Nam",
+            "pid": 16478,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã Hòa Xuân Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8983329",
+            "lng": "109.38544980000006"
+        },
+        {
+            "id": 1004812,
+            "name": "Xí Nghiệp Vận Hành Đèo Cả",
+            "pid": 16478,
+            "type": 21,
+            "region": null,
+            "alias": "Xí nghiệp vận hành đèo Cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.889388869017179",
+            "lng": "109.37329394729188"
+        }
+    ],
+    "log_id": "67590b80bf778674"
+}

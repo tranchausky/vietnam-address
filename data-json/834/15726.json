@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445473,
+            "name": "Ấp An Đồng",
+            "pid": 15726,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.482222411148884",
+            "lng": "107.2406105596861"
+        },
+        {
+            "id": 445475,
+            "name": "Ấp An Hòa",
+            "pid": 15726,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.480864670677246",
+            "lng": "107.24915402481142"
+        },
+        {
+            "id": 445477,
+            "name": "Ấp An Lạc",
+            "pid": 15726,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4901197",
+            "lng": "107.24595269999998"
+        },
+        {
+            "id": 445479,
+            "name": "Ấp An Trung",
+            "pid": 15726,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.484149158747405",
+            "lng": "107.24390501230567"
+        },
+        {
+            "id": 966445,
+            "name": "Ấp Đồng Trung",
+            "pid": 15726,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.48338584136934",
+            "lng": "107.2411683275085"
+        },
+        {
+            "id": 923086,
+            "name": "Bệnh Viện Phổi Phạm Hữu Chí",
+            "pid": 15726,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện phổi Phạm Hữu Chí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.483121",
+            "lng": "107.241788"
+        },
+        {
+            "id": 954435,
+            "name": "Trường Mầm Non Nắng Mai",
+            "pid": 15726,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mầm Non Nắng Mai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.482647211611278",
+            "lng": "107.24974700360784"
+        }
+    ],
+    "log_id": "675815b409a2f27"
+}

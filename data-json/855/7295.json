@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452085,
+            "name": "Ấp Cả Bát",
+            "pid": 7295,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cả Bát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8317711",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 452089,
+            "name": "Ấp Cái Môn",
+            "pid": 7295,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cái Môn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8317711",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 452087,
+            "name": "Ấp Cái Tràm",
+            "pid": 7295,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cái Tràm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8317711",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 452091,
+            "name": "Ấp Rượng Lưới",
+            "pid": 7295,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rượng Lưới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8317711",
+            "lng": "105.69991219999997"
+        },
+        {
+            "id": 811804,
+            "name": "Gò Thuyền",
+            "pid": 7295,
+            "type": 17,
+            "region": null,
+            "alias": "Gò Thuyền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8317711",
+            "lng": "105.69991219999997"
+        }
+    ],
+    "log_id": "6758178537a47498"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117469,
+            "name": "Đạo Ngạn",
+            "pid": 4594,
+            "type": 16,
+            "region": null,
+            "alias": "Đạo Ngạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8712858",
+            "lng": "105.7002789"
+        },
+        {
+            "id": 117471,
+            "name": "Đồng Du",
+            "pid": 4594,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.884795",
+            "lng": "105.6991789"
+        },
+        {
+            "id": 117475,
+            "name": "Đồng Lệ",
+            "pid": 4594,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Lệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8862746",
+            "lng": "105.6911121"
+        },
+        {
+            "id": 117465,
+            "name": "Thái Hòa",
+            "pid": 4594,
+            "type": 16,
+            "region": null,
+            "alias": "Thái Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8767046",
+            "lng": "105.6998377"
+        },
+        {
+            "id": 54326,
+            "name": "Ubnd Xã Hợp Đồng",
+            "pid": 4594,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hợp Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb72cb8796"
+}

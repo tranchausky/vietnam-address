@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97274,
+            "name": "Ấp Gò Cao",
+            "pid": 20949,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gò Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8838988",
+            "lng": "106.3477722"
+        },
+        {
+            "id": 97271,
+            "name": "Ấp Sò Đò",
+            "pid": 20949,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sò Đò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9232167",
+            "lng": "106.3675324"
+        },
+        {
+            "id": 988764,
+            "name": "Ô 3 - Khu A - Hậu Nghĩa",
+            "pid": 20949,
+            "type": 21,
+            "region": null,
+            "alias": "Ô 3 - Khu A - Hậu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.90824779643856",
+            "lng": "106.39221124108757"
+        },
+        {
+            "id": 988991,
+            "name": "Ô 4 - Khu A - Hậu Nghĩa",
+            "pid": 20949,
+            "type": 21,
+            "region": null,
+            "alias": "Ô 4 - Khu A - Hậu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9091707",
+            "lng": "106.3848885"
+        },
+        {
+            "id": 988989,
+            "name": "Ô 5 - Khu B - Hậu Nghĩa",
+            "pid": 20949,
+            "type": 21,
+            "region": null,
+            "alias": "Ô 5 - Khu B - Hậu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8933666",
+            "lng": "106.3925138"
+        },
+        {
+            "id": 988990,
+            "name": "Ô 6 - Khu B - Hậu Nghĩa",
+            "pid": 20949,
+            "type": 21,
+            "region": null,
+            "alias": "Ô 6 - Khu B - Hậu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8933666",
+            "lng": "106.3925138"
+        },
+        {
+            "id": 988992,
+            "name": "Ô 7 - Khu B - Hậu Nghĩa",
+            "pid": 20949,
+            "type": 21,
+            "region": null,
+            "alias": "Ô 7 - Khu B - Hậu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8956725",
+            "lng": "106.396494"
+        }
+    ],
+    "log_id": "6758178506394222"
+}

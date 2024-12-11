@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412199,
+            "name": "Đại Trà",
+            "pid": 6686,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7845586",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 843055,
+            "name": "Lạng Côn",
+            "pid": 6686,
+            "type": 16,
+            "region": null,
+            "alias": "Lạng Côn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7845586",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 1017294,
+            "name": "Tiểu Đoàn 71, Đại Trà, Đông Phương, Huyện Kiến Thuỵ, Hải Phòng",
+            "pid": 6686,
+            "type": 10,
+            "region": null,
+            "alias": "Tiểu Đoàn 71, Đại Trà, Đông Phương, Huyện Kiến Thuỵ, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789982",
+            "lng": "106.701605"
+        },
+        {
+            "id": 1017350,
+            "name": "Trường Thcs Đông Phương, Huyện Kiến Thuỵ, Hải Phòng",
+            "pid": 6686,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Đông Phương, Huyện Kiến Thuỵ, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.777921",
+            "lng": "106.677927 "
+        },
+        {
+            "id": 1017349,
+            "name": "Trường Tiểu Học Đông Phương, Huyện Kiến Thuỵ, Hải Phòng",
+            "pid": 6686,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu học Đông Phương, Huyện Kiến Thuỵ, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.776435",
+            "lng": "106.678094 "
+        }
+    ],
+    "log_id": "675813664dfde159"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 905056,
+            "name": "Khang Thuận",
+            "pid": 20048,
+            "type": 16,
+            "region": null,
+            "alias": "Khang Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.879643",
+            "lng": "106.004817"
+        },
+        {
+            "id": 909028,
+            "name": "Khang Thuận",
+            "pid": 20048,
+            "type": 16,
+            "region": null,
+            "alias": "Khang Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.879643",
+            "lng": "106.004817"
+        },
+        {
+            "id": 630516,
+            "name": "Thôn Mỹ Xá",
+            "pid": 20048,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.879643",
+            "lng": "106.004817"
+        },
+        {
+            "id": 630522,
+            "name": "Thôn Thái Nội",
+            "pid": 20048,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thái nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.879643",
+            "lng": "106.004817"
+        },
+        {
+            "id": 630519,
+            "name": "Thôn Thanh Xá",
+            "pid": 20048,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thanh xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.879643",
+            "lng": "106.004817"
+        }
+    ],
+    "log_id": "675814912362f83"
+}

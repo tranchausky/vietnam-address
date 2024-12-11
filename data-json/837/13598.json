@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758221,
+            "name": "Nam Miệt",
+            "pid": 13598,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Miệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1234822",
+            "lng": "106.11986990000004"
+        },
+        {
+            "id": 758212,
+            "name": "Nga Hoàng",
+            "pid": 13598,
+            "type": 16,
+            "region": null,
+            "alias": "Nga Hoàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1234822",
+            "lng": "106.11986990000004"
+        },
+        {
+            "id": 822019,
+            "name": "Phượng Lưu",
+            "pid": 13598,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng Lưu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1234822",
+            "lng": "106.11986990000004"
+        },
+        {
+            "id": 758218,
+            "name": "Yên Giả",
+            "pid": 13598,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Giả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1234822",
+            "lng": "106.11986990000004"
+        }
+    ],
+    "log_id": "675815f8cbe75474"
+}

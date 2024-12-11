@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93164,
+            "name": "Ấp An Hòa - Xã Hóa An",
+            "pid": 13243,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hòa - Xã Hóa An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9265399",
+            "lng": "106.806079"
+        },
+        {
+            "id": 93182,
+            "name": "Ấp Bình Hóa - Xã Hóa An",
+            "pid": 13243,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Hóa - Xã Hóa An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7981899",
+            "lng": "106.3346061"
+        },
+        {
+            "id": 93176,
+            "name": "Ấp Cầu Hang - Xã Hóa An",
+            "pid": 13243,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cầu Hang - Xã Hóa An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9265399",
+            "lng": "106.806079"
+        },
+        {
+            "id": 93173,
+            "name": "Ấp Đồng Nai - Xã Hóa An",
+            "pid": 13243,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Nai - Xã Hóa An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9364667",
+            "lng": "106.7848751"
+        },
+        {
+            "id": 96749,
+            "name": "Chợ Hóa An",
+            "pid": 13243,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Hóa An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.933960",
+            "lng": "106.808240"
+        },
+        {
+            "id": 96752,
+            "name": "Công Ty Cao Su Màu",
+            "pid": 13243,
+            "type": 4,
+            "region": null,
+            "alias": "Công ty Cao su màu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.943744",
+            "lng": "106.806496"
+        },
+        {
+            "id": 96773,
+            "name": "Công Ty Dihaco",
+            "pid": 13243,
+            "type": 4,
+            "region": null,
+            "alias": "Công ty DIHACO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.939543, ",
+            "lng": "106.794568"
+        },
+        {
+            "id": 96755,
+            "name": "Công Ty Gạch Men Kinh Minh",
+            "pid": 13243,
+            "type": 4,
+            "region": null,
+            "alias": "Công ty Gạch men KINH MINH",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.943744",
+            "lng": "106.806496"
+        },
+        {
+            "id": 96761,
+            "name": "Điện Máy Xanh Hóa An",
+            "pid": 13243,
+            "type": 4,
+            "region": null,
+            "alias": "Điện máy xanh Hóa An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.930972",
+            "lng": "106.806088"
+        },
+        {
+            "id": 998972,
+            "name": "Tổ 15, 15C Ấp Bình Hóa, Phường Hóa An",
+            "pid": 13243,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 15, 15C ấp Bình Hóa, phường Hóa An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.942601",
+            "lng": "106.801803"
+        },
+        {
+            "id": 999270,
+            "name": "Tổ 19C, 19D Ấp An Hòa, Phường Hóa An",
+            "pid": 13243,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 19c, 19d ấp An Hòa, phường Hóa An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.935813",
+            "lng": "106.805221"
+        }
+    ],
+    "log_id": "675814dd5828d788"
+}

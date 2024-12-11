@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 949856,
+            "name": "18 Hoàng Tuệ",
+            "pid": 6599,
+            "type": 17,
+            "region": null,
+            "alias": "18 hoàng tuệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.49952662253884",
+            "lng": "107.19283674364003"
+        },
+        {
+            "id": 990761,
+            "name": "48 Nguyễn Văn Cừ",
+            "pid": 6599,
+            "type": 17,
+            "region": null,
+            "alias": "48 nguyễn văn cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.489312415019855",
+            "lng": "107.19348743319836"
+        },
+        {
+            "id": 990762,
+            "name": "48 Nguyễn Văn Cừ",
+            "pid": 6599,
+            "type": 17,
+            "region": null,
+            "alias": "48 nguyễn văn cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.489286046675756",
+            "lng": "107.19347402322741"
+        },
+        {
+            "id": 962629,
+            "name": "Nguyễn Thái Học",
+            "pid": 6599,
+            "type": 17,
+            "region": null,
+            "alias": "Nguyễn Thái Học",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.49819787462468",
+            "lng": "07.1944154650748"
+        },
+        {
+            "id": 445357,
+            "name": "Trường Cao Đẳng Sư Phạm Bà Rịa",
+            "pid": 6599,
+            "type": 9,
+            "region": null,
+            "alias": "Trường cao đẳng Sư phạm Bà Rịa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.488510163646543",
+            "lng": "107.19177423286799"
+        },
+        {
+            "id": 445359,
+            "name": "Trường Đaị Học Dầu Khí",
+            "pid": 6599,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Đaị học Dầu Khí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.486843908688561",
+            "lng": "107.19355577192009"
+        },
+        {
+            "id": 949863,
+            "name": "Võ Thị Sáu - Long Tòn",
+            "pid": 6599,
+            "type": 17,
+            "region": null,
+            "alias": "võ thị sáu - long tòn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.499169203176562",
+            "lng": "107.19880940694753"
+        }
+    ],
+    "log_id": "675815b412c34593"
+}

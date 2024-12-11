@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 793009,
+            "name": "Dốc Bách Nhẫn",
+            "pid": 16856,
+            "type": 21,
+            "region": null,
+            "alias": "Dốc Bách Nhẫn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405963,
+            "name": "Thôn Cẩm Trang",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405969,
+            "name": "Thôn Mai Phong",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405965,
+            "name": "Thôn Nội Quan",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405967,
+            "name": "Thôn Nội Xuân",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405959,
+            "name": "Thôn Trung Hòa",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405961,
+            "name": "Thôn Trung Hưng",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 405971,
+            "name": "Thôn Xuân Giang",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 738082,
+            "name": "Trung Hòa",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        },
+        {
+            "id": 886429,
+            "name": "Trung Hưng",
+            "pid": 16856,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3212622",
+            "lng": "105.9318012"
+        }
+    ],
+    "log_id": "675813d91795d825"
+}

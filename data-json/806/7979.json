@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446575,
+            "name": "Vĩnh Lộc",
+            "pid": 7979,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.217547",
+            "lng": "105.32482690000006"
+        },
+        {
+            "id": 446577,
+            "name": "Vĩnh Mỹ",
+            "pid": 7979,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.217547",
+            "lng": "105.32482690000006"
+        },
+        {
+            "id": 446571,
+            "name": "Vĩnh Qưới",
+            "pid": 7979,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Qưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.217547",
+            "lng": "105.32482690000006"
+        },
+        {
+            "id": 446573,
+            "name": "Vĩnh Tiến",
+            "pid": 7979,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.217547",
+            "lng": "105.32482690000006"
+        }
+    ],
+    "log_id": "6758140ca253d712"
+}

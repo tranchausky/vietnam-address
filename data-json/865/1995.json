@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 22192,
+            "name": "Thị Trấn Mường Lát",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Mường Lát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5200611",
+            "lng": "104.59174940000003"
+        },
+        {
+            "id": 22193,
+            "name": "Xã Mường Chanh",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mường Chanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.400276",
+            "lng": "104.46068450000007"
+        },
+        {
+            "id": 22200,
+            "name": "Xã Mường Lý",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mường Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5605072",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 22194,
+            "name": "Xã Nhi Sơn",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Nhi Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4795113",
+            "lng": "104.62380480000002"
+        },
+        {
+            "id": 22195,
+            "name": "Xã Pù Nhi",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Pù Nhi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4602235",
+            "lng": "104.577181"
+        },
+        {
+            "id": 22196,
+            "name": "Xã Quang Chiểu",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Quang Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4594503",
+            "lng": "104.44903980000004"
+        },
+        {
+            "id": 22197,
+            "name": "Xã Tam Chung",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tam Chung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5832107",
+            "lng": "104.63546309999992"
+        },
+        {
+            "id": 22198,
+            "name": "Xã Tén Tằn",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tén Tằn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        },
+        {
+            "id": 22199,
+            "name": "Xã Trung Lý",
+            "pid": 1995,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trung Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.482132",
+            "lng": "104.72876070000007"
+        }
+    ],
+    "log_id": "67590a22e3104458"
+}

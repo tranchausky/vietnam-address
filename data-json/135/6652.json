@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 570099,
+            "name": "Làng Doãn",
+            "pid": 6652,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Doãn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.008544",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 570102,
+            "name": "Làng Dương Xuân",
+            "pid": 6652,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Dương Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.008544",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 570096,
+            "name": "Làng Pháp Cổ",
+            "pid": 6652,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Pháp Cổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.008544",
+            "lng": "106.61144739999997"
+        },
+        {
+            "id": 570105,
+            "name": "Làng Phi Liệt",
+            "pid": 6652,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Phi Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.008544",
+            "lng": "106.61144739999997"
+        }
+    ],
+    "log_id": "67581365d7ba061"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981086,
+            "name": "Hoàng Quý",
+            "pid": 26117,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981085,
+            "name": "Lâm Tường",
+            "pid": 26117,
+            "type": 21,
+            "region": null,
+            "alias": "Lâm Tường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758136626d5c351"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600426,
+            "name": "Hòa Đông",
+            "pid": 22982,
+            "type": 16,
+            "region": null,
+            "alias": "Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7081515",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 600420,
+            "name": "Kênh Lâm",
+            "pid": 22982,
+            "type": 16,
+            "region": null,
+            "alias": "Kênh Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7081515",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 600429,
+            "name": "Phú Xá",
+            "pid": 22982,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7081515",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 600417,
+            "name": "Thôn Huệ Ngiêm",
+            "pid": 22982,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Huệ Ngiêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7081515",
+            "lng": "105.84370799999999"
+        },
+        {
+            "id": 600423,
+            "name": "Thủ Phú",
+            "pid": 22982,
+            "type": 16,
+            "region": null,
+            "alias": "Thủ Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.7081515",
+            "lng": "105.84370799999999"
+        }
+    ],
+    "log_id": "67590a23a0454754"
+}

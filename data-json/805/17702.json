@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652177,
+            "name": "Thôn Đông Cận",
+            "pid": 17702,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Cận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.880654",
+            "lng": "106.338102"
+        },
+        {
+            "id": 652174,
+            "name": "Thôn Quán Đào",
+            "pid": 17702,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quán Đào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.880654",
+            "lng": "106.338102"
+        },
+        {
+            "id": 652180,
+            "name": "Thôn Tam Lương",
+            "pid": 17702,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.880654",
+            "lng": "106.338102"
+        }
+    ],
+    "log_id": "675813f1bb81c434"
+}

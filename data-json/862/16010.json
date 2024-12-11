@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 953413,
+            "name": "Bưu Điện Hòa Thành",
+            "pid": 16010,
+            "type": 4,
+            "region": null,
+            "alias": "Bưu điện Hòa Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.286947",
+            "lng": "106.128952"
+        },
+        {
+            "id": 953422,
+            "name": "Công Viên Hòa Thành",
+            "pid": 16010,
+            "type": 4,
+            "region": null,
+            "alias": "Công viên Hòa Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.287093",
+            "lng": "106.129766"
+        },
+        {
+            "id": 862135,
+            "name": "Đường Phạm Hùng - Khu Phố 1",
+            "pid": 16010,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Hùng - Khu phố 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.284642",
+            "lng": "106.127102"
+        },
+        {
+            "id": 107261,
+            "name": "Khu Phố 1 - Phường Long Hoa",
+            "pid": 16010,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - Phường Long Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.283151",
+            "lng": "106.130932"
+        },
+        {
+            "id": 107351,
+            "name": "Khu Phố 2 - Phường Long Hoa",
+            "pid": 16010,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - Phường Long Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.283020",
+            "lng": "106.127959"
+        },
+        {
+            "id": 107372,
+            "name": "Khu Phố 3 - Phường Long Hoa",
+            "pid": 16010,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - Phường Long Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.285551",
+            "lng": "106.123092"
+        },
+        {
+            "id": 107396,
+            "name": "Khu Phố 4 - Phường Long Hoa",
+            "pid": 16010,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4 - Phường Long Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.291333",
+            "lng": "106.128987"
+        }
+    ],
+    "log_id": "675909dce2d40647"
+}

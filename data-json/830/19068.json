@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 570702,
+            "name": "Thôn Kho Già",
+            "pid": 19068,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kho già",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2345484",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 570705,
+            "name": "Thôn Sảng Tủng Chứ",
+            "pid": 19068,
+            "type": 16,
+            "region": null,
+            "alias": "thôn sảng tủng chứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2345484",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 570696,
+            "name": "Thôn Súa Lủng",
+            "pid": 19068,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Súa Lủng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2345484",
+            "lng": "105.31897260000005"
+        }
+    ],
+    "log_id": "675815663be97700"
+}

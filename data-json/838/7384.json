@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 721939,
+            "name": "Đoàn Hoàng Minh",
+            "pid": 7384,
+            "type": 21,
+            "region": null,
+            "alias": "Đoàn Hoàng Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2461645",
+            "lng": "106.362568"
+        },
+        {
+            "id": 883240,
+            "name": "Khu Phố Bình Khởi",
+            "pid": 7384,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Khởi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2377325",
+            "lng": "106.36845519999996"
+        },
+        {
+            "id": 723700,
+            "name": "Trương Định",
+            "pid": 7384,
+            "type": 21,
+            "region": null,
+            "alias": "TRương Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2461645",
+            "lng": "106.362568"
+        }
+    ],
+    "log_id": "6758160dc3937821"
+}

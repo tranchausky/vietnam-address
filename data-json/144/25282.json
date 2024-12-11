@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 743125,
+            "name": "Đồng 3",
+            "pid": 25282,
+            "type": 16,
+            "region": null,
+            "alias": "đồng 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.410054",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 752071,
+            "name": "Làng Cả",
+            "pid": 25282,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4072937",
+            "lng": "106.28016490000005"
+        },
+        {
+            "id": 834265,
+            "name": "Làng Sậm",
+            "pid": 25282,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Sậm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.410054",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 882556,
+            "name": "Làng Tân",
+            "pid": 25282,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.410054",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 752146,
+            "name": "Thôn Đồng 2",
+            "pid": 25282,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.410054",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 841981,
+            "name": "Thôn Hạ",
+            "pid": 25282,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4072937",
+            "lng": "106.28016490000005"
+        },
+        {
+            "id": 862570,
+            "name": "Xóm Dinh",
+            "pid": 25282,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Dinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.410054",
+            "lng": "106.2669247"
+        },
+        {
+            "id": 834259,
+            "name": "Xóm Vạc",
+            "pid": 25282,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Vạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.410054",
+            "lng": "106.2669247"
+        }
+    ],
+    "log_id": "675813d8b3628879"
+}

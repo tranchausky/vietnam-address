@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 608106,
+            "name": "Khu Vực Lân Thạnh 1",
+            "pid": 7944,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Lân Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2445942",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 608109,
+            "name": "Khu Vực Lân Thạnh 2",
+            "pid": 7944,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Lân Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2445942",
+            "lng": "105.55329929999994"
+        }
+    ],
+    "log_id": "6758140cbaa67941"
+}

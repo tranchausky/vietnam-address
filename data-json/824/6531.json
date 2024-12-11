@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 720601,
+            "name": "Ấp Bình",
+            "pid": 6531,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289363",
+            "lng": "105.908269"
+        },
+        {
+            "id": 720604,
+            "name": "Ấp Hòa",
+            "pid": 6531,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289363",
+            "lng": "105.908269"
+        },
+        {
+            "id": 720595,
+            "name": "Ấp Khu Phố",
+            "pid": 6531,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Khu Phố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289363",
+            "lng": "105.908269"
+        },
+        {
+            "id": 720592,
+            "name": "Ấp Nhất",
+            "pid": 6531,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289363",
+            "lng": "105.908269"
+        },
+        {
+            "id": 720589,
+            "name": "Ấp Thống",
+            "pid": 6531,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thống",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289363",
+            "lng": "105.908269"
+        }
+    ],
+    "log_id": "675814f3bbe98389"
+}

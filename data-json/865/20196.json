@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 557849,
+            "name": "Phố Mới",
+            "pid": 20196,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0713637",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 731053,
+            "name": "Phú Lĩnh",
+            "pid": 20196,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0713637",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 557851,
+            "name": "Phương Giai",
+            "pid": 20196,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Giai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0713637",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 557853,
+            "name": "Tây Giai",
+            "pid": 20196,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Giai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0713637",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 557855,
+            "name": "Thổ Phụ",
+            "pid": 20196,
+            "type": 16,
+            "region": null,
+            "alias": "Thổ Phụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0713637",
+            "lng": "105.6031342"
+        },
+        {
+            "id": 968265,
+            "name": "Xuân Giai",
+            "pid": 20196,
+            "type": 16,
+            "region": null,
+            "alias": "xuân giai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0575861",
+            "lng": "105.6099052"
+        }
+    ],
+    "log_id": "67590a2352c97115"
+}

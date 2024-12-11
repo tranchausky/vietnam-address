@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555645,
+            "name": "Phố Đoàn",
+            "pid": 22119,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Đoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555639,
+            "name": "Thôn Bả",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555643,
+            "name": "Thôn Bồng",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555649,
+            "name": "Thôn Đòn",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đòn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555631,
+            "name": "Thôn Đồng",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555629,
+            "name": "Thôn Đủ",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555633,
+            "name": "Thôn Lặn Ngoài",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lặn Ngoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555635,
+            "name": "Thôn Lặn Trong",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lặn Trong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555641,
+            "name": "Thôn Quăn",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Quăn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        },
+        {
+            "id": 555637,
+            "name": "Thôn Ươi",
+            "pid": 22119,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ươi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4612411",
+            "lng": "105.16683260000002"
+        }
+    ],
+    "log_id": "67590a234de00631"
+}

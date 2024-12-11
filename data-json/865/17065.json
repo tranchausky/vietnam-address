@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600477,
+            "name": "Bình Sơn",
+            "pid": 17065,
+            "type": 21,
+            "region": null,
+            "alias": "Bình Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7425531",
+            "lng": "105.89509069999997"
+        },
+        {
+            "id": 600474,
+            "name": "Khánh Sơn",
+            "pid": 17065,
+            "type": 21,
+            "region": null,
+            "alias": "Khánh Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7425531",
+            "lng": "105.89509069999997"
+        },
+        {
+            "id": 600471,
+            "name": "Lập Công",
+            "pid": 17065,
+            "type": 21,
+            "region": null,
+            "alias": "Lập Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7425531",
+            "lng": "105.89509069999997"
+        }
+    ],
+    "log_id": "67590a2398f65916"
+}

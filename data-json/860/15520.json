@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 787480,
+            "name": "Đường Võ Nguyên Giáp",
+            "pid": 15520,
+            "type": 21,
+            "region": null,
+            "alias": "đường Võ Nguyên Giáp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.7749467"
+        },
+        {
+            "id": 631476,
+            "name": "Tổ Phú Bình Đông",
+            "pid": 15520,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Phú Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.77494669999999"
+        },
+        {
+            "id": 467837,
+            "name": "Tổ Phú Bình Tây",
+            "pid": 15520,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Phú Bình Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.77494669999999"
+        },
+        {
+            "id": 631479,
+            "name": "Tổ Phú Bình Trung",
+            "pid": 15520,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Phú Bình Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.77494669999999"
+        },
+        {
+            "id": 631464,
+            "name": "Tổ Phú Vinh Đông",
+            "pid": 15520,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Phú Vinh Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.77494669999999"
+        },
+        {
+            "id": 631467,
+            "name": "Tổ Phú Vinh Tây",
+            "pid": 15520,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Phú Vinh Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.77494669999999"
+        },
+        {
+            "id": 631470,
+            "name": "Tổ Phú Vinh Trung",
+            "pid": 15520,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Phú Vinh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0566615",
+            "lng": "108.77494669999999"
+        }
+    ],
+    "log_id": "675909a4a5ffc19"
+}

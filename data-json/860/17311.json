@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609168,
+            "name": "Khánh Mỹ",
+            "pid": 17311,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2289299",
+            "lng": "108.69476170000007"
+        },
+        {
+            "id": 609162,
+            "name": "Phú Thành",
+            "pid": 17311,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2289299",
+            "lng": "108.69476170000007"
+        },
+        {
+            "id": 609174,
+            "name": "Thạch Nội",
+            "pid": 17311,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2289299",
+            "lng": "108.69476170000007"
+        },
+        {
+            "id": 609171,
+            "name": "Trà Bình",
+            "pid": 17311,
+            "type": 16,
+            "region": null,
+            "alias": "Trà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.2289299",
+            "lng": "108.69476170000007"
+        }
+    ],
+    "log_id": "675909a4dfcb5214"
+}

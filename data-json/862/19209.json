@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114227,
+            "name": "Khu Phố 2",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.082951",
+            "lng": "106.264240"
+        },
+        {
+            "id": 114277,
+            "name": "Khu Phố 3",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.081034",
+            "lng": "106.264752"
+        },
+        {
+            "id": 114331,
+            "name": "Khu Phố 4",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.080992",
+            "lng": "106.266195"
+        },
+        {
+            "id": 564298,
+            "name": "Khu Phố Rạch Sơn",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Rạch Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1330896",
+            "lng": "106.284179"
+        },
+        {
+            "id": 56004,
+            "name": "Khu Phố Thanh Bình A",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Thanh Bình A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1330896",
+            "lng": "106.284179"
+        },
+        {
+            "id": 564283,
+            "name": "Khu Phố Thanh Bình B",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Thanh Bình B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1330896",
+            "lng": "106.284179"
+        },
+        {
+            "id": 564274,
+            "name": "Khu Phố Thanh Bình C",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Thanh Bình C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1330896",
+            "lng": "106.284179"
+        },
+        {
+            "id": 564295,
+            "name": "Khu Phố Thanh Hà",
+            "pid": 19209,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Thanh Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1330896",
+            "lng": "106.284179"
+        }
+    ],
+    "log_id": "675909dcc6a20280"
+}

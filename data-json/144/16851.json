@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 405993,
+            "name": "Thôn Bảo Mản",
+            "pid": 16851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bảo Mản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3425073",
+            "lng": "105.9068373"
+        },
+        {
+            "id": 405997,
+            "name": "Thôn Đại Mão",
+            "pid": 16851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Mão",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3425073",
+            "lng": "105.9068373"
+        },
+        {
+            "id": 405995,
+            "name": "Thôn Đại Tân",
+            "pid": 16851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3425073",
+            "lng": "105.9068373"
+        },
+        {
+            "id": 405991,
+            "name": "Thôn Hà Nội",
+            "pid": 16851,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3425073",
+            "lng": "105.9068373"
+        }
+    ],
+    "log_id": "675813d9146b3751"
+}

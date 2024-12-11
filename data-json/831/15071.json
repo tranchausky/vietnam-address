@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 719002,
+            "name": "Mông Phú",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "MÔNG PHÚ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5450437",
+            "lng": "109.1217024"
+        },
+        {
+            "id": 718945,
+            "name": "Phú Sơn",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "PHÚ SƠN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5621472",
+            "lng": "109.1120903"
+        },
+        {
+            "id": 718939,
+            "name": "Phú Văn",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "PHÚ VĂN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5328505",
+            "lng": "109.1201977"
+        },
+        {
+            "id": 719008,
+            "name": "Quảng Cư",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "QUẢNG CƯ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5430676",
+            "lng": "109.0999856"
+        },
+        {
+            "id": 718975,
+            "name": "Tân Ninh",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "TÂN NINH",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5551092",
+            "lng": "109.1026493"
+        },
+        {
+            "id": 718951,
+            "name": "Thạch Định",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "THẠCH ĐỊNH",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.545139",
+            "lng": "109.1164602"
+        },
+        {
+            "id": 718987,
+            "name": "Vĩnh Thạnh",
+            "pid": 15071,
+            "type": 16,
+            "region": null,
+            "alias": "VĨNH THẠNH",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.5616442",
+            "lng": "109.1189563"
+        }
+    ],
+    "log_id": "67581585bf1b8979"
+}

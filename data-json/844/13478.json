@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 963396,
+            "name": "Bệnh Viện Tỉnh Đắk Nông",
+            "pid": 13478,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện tỉnh Đắk Nông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.988160519851592",
+            "lng": "107.70019366882525"
+        },
+        {
+            "id": 963404,
+            "name": "Đường Lê Thánh Tông",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Đường Lê Thánh Tông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.981228",
+            "lng": "107.684790"
+        },
+        {
+            "id": 117509,
+            "name": "Tổ 1",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.970604",
+            "lng": "107.688697"
+        },
+        {
+            "id": 117639,
+            "name": "Tổ 2",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.982106",
+            "lng": "107.693632"
+        },
+        {
+            "id": 117455,
+            "name": "Tổ 3",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.982526",
+            "lng": "107.694877"
+        },
+        {
+            "id": 117633,
+            "name": "Tổ 4",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.982106",
+            "lng": "107.693632"
+        },
+        {
+            "id": 117625,
+            "name": "Tổ 5",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.982106",
+            "lng": "107.693632"
+        },
+        {
+            "id": 117645,
+            "name": "Tổ 6",
+            "pid": 13478,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.982106",
+            "lng": "107.693632"
+        }
+    ],
+    "log_id": "67581691721fd357"
+}

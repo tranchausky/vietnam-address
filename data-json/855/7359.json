@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108353,
+            "name": "Ấp Lộc An",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.465744",
+            "lng": "107.3434916"
+        },
+        {
+            "id": 108332,
+            "name": "Ấp Lộc Bình",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7757592",
+            "lng": "106.9594723"
+        },
+        {
+            "id": 108359,
+            "name": "Ấp Lộc Chánh",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.014661",
+            "lng": "106.303573"
+        },
+        {
+            "id": 108344,
+            "name": "Ấp Lộc Hòa",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0047648",
+            "lng": "106.2954776"
+        },
+        {
+            "id": 108341,
+            "name": "Ấp Lộc Hưng",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0920165",
+            "lng": "106.3809599"
+        },
+        {
+            "id": 108356,
+            "name": "Ấp Lộc Thạnh",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.87372",
+            "lng": "106.5947039"
+        },
+        {
+            "id": 108362,
+            "name": "Ấp Lộc Thuận",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2337375",
+            "lng": "106.6004008"
+        },
+        {
+            "id": 850915,
+            "name": "Lộc Hưng",
+            "pid": 7359,
+            "type": 17,
+            "region": null,
+            "alias": "Lộc Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0018562",
+            "lng": "106.30517659999998"
+        }
+    ],
+    "log_id": "67581785053dc169"
+}

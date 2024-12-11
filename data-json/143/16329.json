@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465477,
+            "name": "Cỗ Lũy",
+            "pid": 16329,
+            "type": 16,
+            "region": null,
+            "alias": "Cỗ Lũy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7627126",
+            "lng": "107.29619530000002"
+        },
+        {
+            "id": 465471,
+            "name": "Phương Hải",
+            "pid": 16329,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7627126",
+            "lng": "107.29619530000002"
+        },
+        {
+            "id": 465475,
+            "name": "Thôn Ba Du",
+            "pid": 16329,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7627126",
+            "lng": "107.29619530000002"
+        },
+        {
+            "id": 465479,
+            "name": "Thôn Thống Nhất",
+            "pid": 16329,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7627126",
+            "lng": "107.29619530000002"
+        }
+    ],
+    "log_id": "675813bc5f4ff366"
+}

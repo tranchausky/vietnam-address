@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53750,
+            "name": "Thpt Tiền Phong",
+            "pid": 4708,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Tiền Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53958,
+            "name": "Trạm Nước Tiền Phong",
+            "pid": 4708,
+            "type": 5,
+            "region": null,
+            "alias": "trạm nước tiền phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc47198342"
+}

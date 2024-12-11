@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 417257,
+            "name": "Thôn Km17",
+            "pid": 35929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn KM17",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5283185",
+            "lng": "104.3442794"
+        },
+        {
+            "id": 417255,
+            "name": "Thôn Mo Nhang",
+            "pid": 35929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mo Nhang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5283185",
+            "lng": "104.3442794"
+        },
+        {
+            "id": 417263,
+            "name": "Thôn Tấu Dưới",
+            "pid": 35929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tấu Dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5283185",
+            "lng": "104.3442794"
+        },
+        {
+            "id": 417259,
+            "name": "Thôn Tấu Giữa",
+            "pid": 35929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tấu Giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5283185",
+            "lng": "104.3442794"
+        },
+        {
+            "id": 417261,
+            "name": "Thôn Tấu Trên",
+            "pid": 35929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tấu Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5283185",
+            "lng": "104.3442794"
+        }
+    ],
+    "log_id": "6758131fa5421843"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113269,
+            "name": "Ấp Đông Hoà",
+            "pid": 18005,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.090969",
+            "lng": "105.317046"
+        },
+        {
+            "id": 113273,
+            "name": "Ấp Đông Thạnh",
+            "pid": 18005,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.071843",
+            "lng": "105.348775"
+        },
+        {
+            "id": 113249,
+            "name": "Ấp Kinh Mười A",
+            "pid": 18005,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh Mười A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.065023",
+            "lng": "105.326303"
+        },
+        {
+            "id": 113257,
+            "name": "Ấp Thạnh Đông",
+            "pid": 18005,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.083867",
+            "lng": "105.337210"
+        }
+    ],
+    "log_id": "67581736257e1137"
+}

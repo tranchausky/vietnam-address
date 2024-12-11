@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 595974,
+            "name": "Thôn 1",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000003"
+        },
+        {
+            "id": 805051,
+            "name": "Thôn 2",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000003"
+        },
+        {
+            "id": 805048,
+            "name": "Thôn 3",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000003"
+        },
+        {
+            "id": 823924,
+            "name": "Thôn 4",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000004"
+        },
+        {
+            "id": 848608,
+            "name": "Thôn 5",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000004"
+        },
+        {
+            "id": 823921,
+            "name": "Thôn 6",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000004"
+        },
+        {
+            "id": 823927,
+            "name": "Thôn 7",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000004"
+        },
+        {
+            "id": 848611,
+            "name": "Thôn 8",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000004"
+        },
+        {
+            "id": 900454,
+            "name": "Thôn 9",
+            "pid": 17233,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8343852",
+            "lng": "105.56502390000004"
+        }
+    ],
+    "log_id": "67590a2345e7d363"
+}

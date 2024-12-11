@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 771286,
+            "name": "Chợ Minh Phương",
+            "pid": 5885,
+            "type": 8,
+            "region": null,
+            "alias": "Chợ Minh Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3314246",
+            "lng": "105.38191670000003"
+        },
+        {
+            "id": 537961,
+            "name": "Chung Cư Sinh Viên",
+            "pid": 5885,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư sinh viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 537963,
+            "name": "Khu Cao Đại ( Tổ 18~28 )",
+            "pid": 5885,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Cao Đại ( Tổ 18~28 )",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 771256,
+            "name": "Khu Đốc Ngữ",
+            "pid": 5885,
+            "type": 8,
+            "region": null,
+            "alias": "Khu Đốc Ngữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000004"
+        },
+        {
+            "id": 537965,
+            "name": "Khu Đô Thị Minh Phương",
+            "pid": 5885,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Đô Thị Minh Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 537967,
+            "name": "Khu Hợp Phương",
+            "pid": 5885,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Hợp Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 537969,
+            "name": "Khu Liên Minh",
+            "pid": 5885,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Liên Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 894709,
+            "name": "Khu Liên Phương",
+            "pid": 5885,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Liên Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000004"
+        },
+        {
+            "id": 819979,
+            "name": "Khu Tân Phương ( Tổ 39, 43 )",
+            "pid": 5885,
+            "type": 10,
+            "region": null,
+            "alias": "Khu Tân Phương ( Tổ 39, 43 )",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 537973,
+            "name": "Khu Trung Phương",
+            "pid": 5885,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Trung Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000003"
+        },
+        {
+            "id": 894706,
+            "name": "Trạm Y Tế",
+            "pid": 5885,
+            "type": 4,
+            "region": null,
+            "alias": "Trạm Y Tế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3288431",
+            "lng": "105.36288460000004"
+        }
+    ],
+    "log_id": "675817cdaf93c881"
+}

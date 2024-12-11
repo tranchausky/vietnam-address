@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 905566,
+            "name": "Khuổi Luông",
+            "pid": 21962,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2061981",
+            "lng": "106.2639825"
+        },
+        {
+            "id": 730372,
+            "name": "Vằng Mần",
+            "pid": 21962,
+            "type": 16,
+            "region": null,
+            "alias": "Vằng Mần",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2061981",
+            "lng": "106.2639825"
+        },
+        {
+            "id": 815995,
+            "name": "Vang Un",
+            "pid": 21962,
+            "type": 16,
+            "region": null,
+            "alias": "Vang Un",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2061981",
+            "lng": "106.2639825"
+        }
+    ],
+    "log_id": "6758133ed02fb709"
+}

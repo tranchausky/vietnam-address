@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 57208,
+            "name": "Bến Phà Rừng",
+            "pid": 17296,
+            "type": 10,
+            "region": null,
+            "alias": "Bến phà Rừng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 555281,
+            "name": "Khu 1",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 555283,
+            "name": "Khu 2",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 555285,
+            "name": "Khu 3",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 555287,
+            "name": "Khu 4",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 555289,
+            "name": "Khu 6",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 555291,
+            "name": "Khu 9",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 555293,
+            "name": "Khu 10",
+            "pid": 17296,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9431904",
+            "lng": "106.773595"
+        },
+        {
+            "id": 57224,
+            "name": "Siêu Thị Điện Máy Mediamart Quảng Yên",
+            "pid": 17296,
+            "type": 4,
+            "region": null,
+            "alias": "Siêu thị Điện máy Mediamart Quảng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9387839",
+            "lng": "106.79261870000005"
+        }
+    ],
+    "log_id": "675814c21f7ae391"
+}

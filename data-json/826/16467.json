@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 853009,
+            "name": "Chợ Phước Nghĩa",
+            "pid": 16467,
+            "type": 21,
+            "region": null,
+            "alias": "chợ phước nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8363795",
+            "lng": "109.17313960000001"
+        },
+        {
+            "id": 640381,
+            "name": "Thôn Hưng Nghĩa",
+            "pid": 16467,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hưng nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8363795",
+            "lng": "109.17313960000001"
+        },
+        {
+            "id": 640369,
+            "name": "Thôn Huỳnh Mai",
+            "pid": 16467,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Huỳnh Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8363795",
+            "lng": "109.17313960000001"
+        },
+        {
+            "id": 640393,
+            "name": "Thôn Thọ Nghĩa",
+            "pid": 16467,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thọ nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8363795",
+            "lng": "109.17313960000001"
+        },
+        {
+            "id": 817795,
+            "name": "Trường Tiểu Học Phước Nghĩa",
+            "pid": 16467,
+            "type": 9,
+            "region": null,
+            "alias": "Trường tiểu học Phước Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8363795",
+            "lng": "109.17313960000001"
+        }
+    ],
+    "log_id": "6758150de524a979"
+}

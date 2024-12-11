@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 459099,
+            "name": "Thôn 1",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        },
+        {
+            "id": 459101,
+            "name": "Thôn 2",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        },
+        {
+            "id": 459103,
+            "name": "Thôn 3",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        },
+        {
+            "id": 459105,
+            "name": "Thôn 4",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        },
+        {
+            "id": 459107,
+            "name": "Thôn 5",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        },
+        {
+            "id": 459109,
+            "name": "Thôn 6",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        },
+        {
+            "id": 459095,
+            "name": "Thôn Đeum",
+            "pid": 15846,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đeum",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.046498",
+            "lng": "108.49573829999997"
+        }
+    ],
+    "log_id": "67581771c7dc2192"
+}

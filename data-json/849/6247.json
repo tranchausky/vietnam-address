@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 480143,
+            "name": "Ấp Đông Bình",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 480141,
+            "name": "Ấp Đông Mỹ",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 480145,
+            "name": "Ấp Kinh Mới",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 480139,
+            "name": "Ấp Phước Thuận",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 480137,
+            "name": "Ấp Tân Hưng",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 480133,
+            "name": "Ấp Thị Trấn",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Trấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 480135,
+            "name": "Ấp Thuận Hưng",
+            "pid": 6247,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9180405",
+            "lng": "105.79967690000001"
+        }
+    ],
+    "log_id": "675816fe39cff856"
+}

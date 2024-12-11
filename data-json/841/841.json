@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1561,
+            "name": "Huyện Cái Nước",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cái Nước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.986776299999999",
+            "lng": "105.05574150000007"
+        },
+        {
+            "id": 1562,
+            "name": "Huyện Đầm Dơi",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đầm Dơi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.9994186",
+            "lng": "105.26629309999998"
+        },
+        {
+            "id": 1563,
+            "name": "Huyện Năm Căn",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Năm Căn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.8153071",
+            "lng": "105.05574150000007"
+        },
+        {
+            "id": 1564,
+            "name": "Huyện Ngọc Hiển",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Ngọc Hiển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.667725599999999",
+            "lng": "105.00323660000004"
+        },
+        {
+            "id": 1565,
+            "name": "Huyện Phú Tân",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.9291357",
+            "lng": "104.89216680000004"
+        },
+        {
+            "id": 1566,
+            "name": "Huyện Thới Bình",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thới Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.347362799999999",
+            "lng": "105.17268160000003"
+        },
+        {
+            "id": 1567,
+            "name": "Huyện Trần Văn Thời",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Trần Văn Thời",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.100971600000001",
+            "lng": "104.89216680000004"
+        },
+        {
+            "id": 1568,
+            "name": "Huyện U Minh",
+            "pid": 841,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện U Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3554435",
+            "lng": "104.98561760000007"
+        },
+        {
+            "id": 1569,
+            "name": "Thành Phố Cà Mau",
+            "pid": 841,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Cà Mau",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1526728",
+            "lng": "105.1960795"
+        }
+    ],
+    "log_id": "6758164d7b035761"
+}

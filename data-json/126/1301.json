@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 768823,
+            "name": "Chẵn 2-198 Nguyễn Trãi",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 2-198 Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.759429",
+            "lng": "106.683497"
+        },
+        {
+            "id": 768766,
+            "name": "Chẵn 116-188 Huỳnh Mẫn Đạt",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 116-188 Huỳnh Mẫn Đạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757166",
+            "lng": "106.676050"
+        },
+        {
+            "id": 768769,
+            "name": "Chẵn 124-180 Lê Hồng Phong",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 124-180 Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757880",
+            "lng": "106.678050"
+        },
+        {
+            "id": 768772,
+            "name": "Chẵn 148-194 Trần Bình Trọng",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 148-194 Trần Bình Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.759655",
+            "lng": "106.680277"
+        },
+        {
+            "id": 882016,
+            "name": "Chẵn 200-254 Nguyễn Trãi",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 200-254 Nguyễn Trãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.756950",
+            "lng": "106.677202"
+        },
+        {
+            "id": 680596,
+            "name": "Đường An Dương Vương",
+            "pid": 1301,
+            "type": 21,
+            "region": null,
+            "alias": "Đường An Dương Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7595051",
+            "lng": "106.679212"
+        },
+        {
+            "id": 671494,
+            "name": "Đường Huỳnh Mẫn Đạt",
+            "pid": 1301,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Mẫn Đạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757352",
+            "lng": "106.6759759"
+        },
+        {
+            "id": 681082,
+            "name": "Đường Lê Hồng Phong",
+            "pid": 1301,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7588766",
+            "lng": "106.6775927"
+        },
+        {
+            "id": 671419,
+            "name": "Đường Nguyễn Trãi",
+            "pid": 1301,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7578669",
+            "lng": "106.6797181"
+        },
+        {
+            "id": 678049,
+            "name": "Đường Nguyễn Văn Cừ",
+            "pid": 1301,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7593479",
+            "lng": "106.6840928"
+        },
+        {
+            "id": 671836,
+            "name": "Đường Trần Bình Trọng",
+            "pid": 1301,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bình Trọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7591781",
+            "lng": "106.6804046"
+        },
+        {
+            "id": 768577,
+            "name": "Lẻ 261-355 An Dương Vương",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 261-355 An Dương Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.760175",
+            "lng": "106.682636"
+        },
+        {
+            "id": 768589,
+            "name": "Lẻ 357-475 An Dương Vương",
+            "pid": 1301,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 357-475 An Dương Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.759110",
+            "lng": "106.678592"
+        }
+    ],
+    "log_id": "6758129a9c24d200"
+}

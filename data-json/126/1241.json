@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 677203,
+            "name": "Đường Bình Thới",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.764652",
+            "lng": "106.6454558"
+        },
+        {
+            "id": 681268,
+            "name": "Đường Đội Cung",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đội Cung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7629244",
+            "lng": "106.6462421"
+        },
+        {
+            "id": 671659,
+            "name": "Đường Hàn Hải Nguyên",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Hải Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7582772",
+            "lng": "106.6454542"
+        },
+        {
+            "id": 679018,
+            "name": "Đường Lãnh Binh Thăng",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lãnh Binh Thăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7648102",
+            "lng": "106.6473703"
+        },
+        {
+            "id": 671344,
+            "name": "Đường Minh Phụng",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Minh Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7610954",
+            "lng": "106.6443638"
+        },
+        {
+            "id": 671080,
+            "name": "Đường Thái Phiên",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Phiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7601308",
+            "lng": "106.6462273"
+        },
+        {
+            "id": 671842,
+            "name": "Đường Xóm Đất",
+            "pid": 1241,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xóm Đất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7588594",
+            "lng": "106.6455119"
+        }
+    ],
+    "log_id": "6758129ae6263268"
+}

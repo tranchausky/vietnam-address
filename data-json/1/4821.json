@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 807754,
+            "name": "Cầu Đen",
+            "pid": 4821,
+            "type": 8,
+            "region": null,
+            "alias": "cầu đen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2046739",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 898288,
+            "name": "Chợ Phú Cường",
+            "pid": 4821,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2046739",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 898285,
+            "name": "Điền Xá",
+            "pid": 4821,
+            "type": 16,
+            "region": null,
+            "alias": "điền Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2046739",
+            "lng": "105.78793710000002"
+        },
+        {
+            "id": 898297,
+            "name": "Thôn Điền Xá",
+            "pid": 4821,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Điền Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2024335",
+            "lng": "105.81141750000006"
+        },
+        {
+            "id": 898294,
+            "name": "Thôn Tân Trại",
+            "pid": 4821,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2024335",
+            "lng": "105.81141750000006"
+        }
+    ],
+    "log_id": "675811bc47123462"
+}

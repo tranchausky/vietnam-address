@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102971,
+            "name": "Thôn Mạch Kỳ",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mạch Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.795471",
+            "lng": "105.7852608"
+        },
+        {
+            "id": 663307,
+            "name": "Thôn Mạch Kỳ, Xã Hồng Dương",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mạch Kỳ, Xã Hồng Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7879746",
+            "lng": "20.798926"
+        },
+        {
+            "id": 839935,
+            "name": "Thôn Ngọc Đình",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ngọc đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 102941,
+            "name": "Thôn Ngô Đồng",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngô Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.795439",
+            "lng": "105.7854474"
+        },
+        {
+            "id": 663316,
+            "name": "Thôn Ngô Đồng, Xã Hồng Dương",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngô Đồng, Xã Hồng Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7857359",
+            "lng": "20.795535"
+        },
+        {
+            "id": 103064,
+            "name": "Thôn Phương Nhị",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Nhị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7857049",
+            "lng": "105.8006858"
+        },
+        {
+            "id": 663274,
+            "name": "Thôn Tảo Dương",
+            "pid": 4391,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tảo Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 105.778399",
+            "lng": "20.793326"
+        },
+        {
+            "id": 55498,
+            "name": "Ubnd Xã Hồng Dương",
+            "pid": 4391,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hồng Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd54aeb503"
+}

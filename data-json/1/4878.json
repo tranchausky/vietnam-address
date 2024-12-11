@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116297,
+            "name": "Thôn Trường Xuân",
+            "pid": 4878,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trường xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.744640",
+            "lng": "20.801242"
+        },
+        {
+            "id": 116301,
+            "name": "Thôn Vân Đồng",
+            "pid": 4878,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vân đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.745916",
+            "lng": "20.802723"
+        },
+        {
+            "id": 116317,
+            "name": "Thôn Vân Xá",
+            "pid": 4878,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.747599",
+            "lng": "20.806052"
+        },
+        {
+            "id": 116447,
+            "name": "Thôn Xuyên Dương",
+            "pid": 4878,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuyên dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.736984",
+            "lng": "20.805500"
+        },
+        {
+            "id": 55494,
+            "name": "Ubnd Xã Xuân Dương",
+            "pid": 4878,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Xuân Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd6b280531"
+}

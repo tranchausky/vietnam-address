@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 953321,
+            "name": "Huyện Ủy",
+            "pid": 24027,
+            "type": 4,
+            "region": null,
+            "alias": "Huyện ủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 953326,
+            "name": "Kho Bạc .",
+            "pid": 24027,
+            "type": 16,
+            "region": null,
+            "alias": "kho bạc .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 424253,
+            "name": "Khu 1",
+            "pid": 24027,
+            "type": 10,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2537742",
+            "lng": "105.48991669999998"
+        },
+        {
+            "id": 995939,
+            "name": "Khu 1",
+            "pid": 24027,
+            "type": 20,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.224110",
+            "lng": "105.497292"
+        },
+        {
+            "id": 995938,
+            "name": "Khu 1, Thị Trấn Vĩnh Tường",
+            "pid": 24027,
+            "type": 20,
+            "region": null,
+            "alias": "khu 1, Thị trấn Vĩnh Tường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.224110",
+            "lng": "105.497292"
+        },
+        {
+            "id": 953329,
+            "name": "Phòng Nông Nghiệp .",
+            "pid": 24027,
+            "type": 4,
+            "region": null,
+            "alias": "phòng nông nghiệp .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        },
+        {
+            "id": 953317,
+            "name": "Ubnd Huyện Vĩnh Tường .",
+            "pid": 24027,
+            "type": 4,
+            "region": null,
+            "alias": "UBND huyện Vĩnh Tường .",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2973262",
+            "lng": "105.60606610000002"
+        }
+    ],
+    "log_id": "6758153379ffe848"
+}

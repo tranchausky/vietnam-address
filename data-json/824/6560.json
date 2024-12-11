@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599781,
+            "name": "Hòa Phú",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599778,
+            "name": "Khương Ninh",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Khương Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599787,
+            "name": "Long Hải",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Long Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599766,
+            "name": "Long Thới",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Long Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599769,
+            "name": "Ninh Quới",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Ninh Quới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599772,
+            "name": "Phú Trung",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Phú Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599784,
+            "name": "Quới An",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Quới An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        },
+        {
+            "id": 599775,
+            "name": "Thới Hòa",
+            "pid": 6560,
+            "type": 17,
+            "region": null,
+            "alias": "Thới Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.303167",
+            "lng": "106.637920"
+        }
+    ],
+    "log_id": "675814f3c3cd9467"
+}

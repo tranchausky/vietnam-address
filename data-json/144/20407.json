@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877750,
+            "name": "Thôn Thác",
+            "pid": 20407,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.400862",
+            "lng": "106.90044720000004"
+        },
+        {
+            "id": 882559,
+            "name": "Xóm Gà",
+            "pid": 20407,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Gà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.400862",
+            "lng": "106.90044720000004"
+        },
+        {
+            "id": 903922,
+            "name": "Xóm Khả",
+            "pid": 20407,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Khả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4185566",
+            "lng": "106.79866479999998"
+        }
+    ],
+    "log_id": "675813d961694606"
+}

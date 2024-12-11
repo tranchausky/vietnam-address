@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981115,
+            "name": "Đường Nguyễn Tường Loan",
+            "pid": 26149,
+            "type": 10,
+            "region": null,
+            "alias": "Đường Nguyễn Tường Loan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981114,
+            "name": "Đường Vũ Chí Thắng",
+            "pid": 26149,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vũ Chí Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758136631137599"
+}

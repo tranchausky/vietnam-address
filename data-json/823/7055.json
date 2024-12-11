@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 89705,
+            "name": "Ấp Bình Phú",
+            "pid": 7055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.216667",
+            "lng": "106.6333329"
+        },
+        {
+            "id": 89699,
+            "name": "Ấp Long Hiệu",
+            "pid": 7055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hiệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.12276",
+            "lng": "108.210999"
+        },
+        {
+            "id": 89702,
+            "name": "Ấp Vĩnh Tuy",
+            "pid": 7055,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Tuy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.745988054247263",
+            "lng": "106.87032663065918"
+        }
+    ],
+    "log_id": "675814dd47476472"
+}

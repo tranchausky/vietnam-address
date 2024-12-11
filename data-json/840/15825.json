@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435955,
+            "name": "Ấp Bàu Le",
+            "pid": 15825,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bàu Le",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.372246",
+            "lng": "106.964649"
+        },
+        {
+            "id": 435949,
+            "name": "Ấp Đồng Chắc",
+            "pid": 15825,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đồng Chắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.372246",
+            "lng": "106.964649"
+        },
+        {
+            "id": 435953,
+            "name": "Ấp Đồng Tân",
+            "pid": 15825,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đồng Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.372246",
+            "lng": "106.964649"
+        },
+        {
+            "id": 435951,
+            "name": "Ấp Đồng Xê",
+            "pid": 15825,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đồng Xê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.372246",
+            "lng": "106.964649"
+        },
+        {
+            "id": 1004687,
+            "name": "Uỷ Ban Nhân Dân Xã Tân Hòa",
+            "pid": 15825,
+            "type": 21,
+            "region": null,
+            "alias": "Uỷ ban nhân dân Xã Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.372246",
+            "lng": "106.964649"
+        }
+    ],
+    "log_id": "6758163784290235"
+}

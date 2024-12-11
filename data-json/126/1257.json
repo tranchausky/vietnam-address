@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 940655,
+            "name": "Chung Cư Đức Khải",
+            "pid": 1257,
+            "type": 4,
+            "region": null,
+            "alias": "Chung Cư Đức Khải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7828514",
+            "lng": "106.734513"
+        },
+        {
+            "id": 780760,
+            "name": "Đường 8",
+            "pid": 1257,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.783889",
+            "lng": "106.734722"
+        },
+        {
+            "id": 683161,
+            "name": "Đường Lương Định Của",
+            "pid": 1257,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Định Của",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.787034",
+            "lng": "106.7330235"
+        },
+        {
+            "id": 683650,
+            "name": "Đường Trần Não",
+            "pid": 1257,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Não",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7826634",
+            "lng": "106.7291113"
+        },
+        {
+            "id": 940670,
+            "name": "Trường Thpt Trần Đại Nghĩa",
+            "pid": 1257,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Trần Đại Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7835776",
+            "lng": "106.7356063"
+        }
+    ],
+    "log_id": "6758129b22659627"
+}

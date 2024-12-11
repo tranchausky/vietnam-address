@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 106817,
+            "name": "Ấp 2",
+            "pid": 20177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.316101",
+            "lng": "103.942852"
+        },
+        {
+            "id": 106823,
+            "name": "Ấp 3",
+            "pid": 20177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309515",
+            "lng": "103.911996"
+        },
+        {
+            "id": 772897,
+            "name": "Ấp 4",
+            "pid": 20177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.314298",
+            "lng": "103.899850"
+        },
+        {
+            "id": 106814,
+            "name": "Ấp Lê Bát",
+            "pid": 20177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Lê Bát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.296953",
+            "lng": "103.912811"
+        },
+        {
+            "id": 106808,
+            "name": "Ấp Vũng Bầu",
+            "pid": 20177,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vũng Bầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309409",
+            "lng": "103.871513"
+        },
+        {
+            "id": 1001507,
+            "name": "Chợ Cửa Cạn",
+            "pid": 20177,
+            "type": 5,
+            "region": null,
+            "alias": "Chợ Cửa Cạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.294772789933424",
+            "lng": "103.91725952485619"
+        },
+        {
+            "id": 777466,
+            "name": "Chợ Vũng Bầu",
+            "pid": 20177,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Vũng Bầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.310885",
+            "lng": " 103.882555"
+        },
+        {
+            "id": 1001505,
+            "name": "Công Ty Tnhh Ab Phú Quốc",
+            "pid": 20177,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty TNHH AB Phú Quốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.292352963651274",
+            "lng": "103.91497734501999"
+        },
+        {
+            "id": 956023,
+            "name": "Fusion Resort (Ấp 4 Cửa Cạn)",
+            "pid": 20177,
+            "type": 10,
+            "region": null,
+            "alias": "Fusion Resort (Ấp 4 Cửa Cạn)",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.304490",
+            "lng": "103.860796"
+        },
+        {
+            "id": 777463,
+            "name": "Ngã 3 Vũng Bầu",
+            "pid": 20177,
+            "type": 10,
+            "region": null,
+            "alias": "Ngã 3 Vũng Bầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.309181",
+            "lng": "103.867828"
+        },
+        {
+            "id": 777460,
+            "name": "Trạm Bê Tông Phú Thành",
+            "pid": 20177,
+            "type": 5,
+            "region": null,
+            "alias": "Trạm bê tông Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.365393",
+            "lng": "103.843558"
+        }
+    ],
+    "log_id": "675817363a784525"
+}

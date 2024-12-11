@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 406163,
+            "name": "Thôn Đề Thám",
+            "pid": 18892,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Đề Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        },
+        {
+            "id": 869095,
+            "name": "Thôn Đồng Tâm",
+            "pid": 18892,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đồng Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        },
+        {
+            "id": 406171,
+            "name": "Thôn Hồng Lạc",
+            "pid": 18892,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hồng lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        },
+        {
+            "id": 406165,
+            "name": "Thôn Liên Cơ",
+            "pid": 18892,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Liên Cơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        },
+        {
+            "id": 406167,
+            "name": "Thôn Tân Hồng",
+            "pid": 18892,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        },
+        {
+            "id": 406161,
+            "name": "Thôn Tân Kỳ",
+            "pid": 18892,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Kỳ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        },
+        {
+            "id": 406169,
+            "name": "Thôn Tân Sỏi",
+            "pid": 18892,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Sỏi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4846477",
+            "lng": "106.14192120000007"
+        }
+    ],
+    "log_id": "675813d91bbf2972"
+}

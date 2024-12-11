@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 595038,
+            "name": "Thôn Ngọc Quang 1",
+            "pid": 22848,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Ngọc Quang 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9533886",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 915088,
+            "name": "Thôn Ngọc Quang 2",
+            "pid": 22848,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Ngọc Quang 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.953388600000004",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 595029,
+            "name": "Thôn Phong Mỹ 1",
+            "pid": 22848,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phong mỹ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9533886",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 595032,
+            "name": "Thôn Phong Mỹ 2",
+            "pid": 22848,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phong mỹ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9533886",
+            "lng": "105.5620927"
+        },
+        {
+            "id": 595035,
+            "name": "Thôn Thọ Tân",
+            "pid": 22848,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thọ tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9533886",
+            "lng": "105.5620927"
+        }
+    ],
+    "log_id": "67590a243733e386"
+}

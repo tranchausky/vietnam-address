@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567738,
+            "name": "Thôn Đá Mài 1",
+            "pid": 19684,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Mài 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7226637",
+            "lng": "107.68072699999993"
+        },
+        {
+            "id": 567741,
+            "name": "Thôn Đá Mài 2",
+            "pid": 19684,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Mài 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7226637",
+            "lng": "107.68072699999993"
+        },
+        {
+            "id": 644134,
+            "name": "Thôn Láng Goòn 1",
+            "pid": 19684,
+            "type": 16,
+            "region": null,
+            "alias": "thôn láng goòn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.733098",
+            "lng": "107.719848"
+        },
+        {
+            "id": 567735,
+            "name": "Thôn Láng Goòn 2",
+            "pid": 19684,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Láng Goòn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7226637",
+            "lng": "107.68072699999993"
+        }
+    ],
+    "log_id": "675814779736e846"
+}

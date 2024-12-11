@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 811537,
+            "name": "Bình Minh 2",
+            "pid": 5866,
+            "type": 21,
+            "region": null,
+            "alias": "Bình Minh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9368183",
+            "lng": "106.32062659999997"
+        },
+        {
+            "id": 514905,
+            "name": "Đường Bình Minh",
+            "pid": 5866,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9368183",
+            "lng": "106.32062659999997"
+        },
+        {
+            "id": 514925,
+            "name": "Đường Phạm Ngũ Lão",
+            "pid": 5866,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Ngũ Lão",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9368183",
+            "lng": "106.32062659999997"
+        },
+        {
+            "id": 514931,
+            "name": "Xóm Đền Mẫu",
+            "pid": 5866,
+            "type": 21,
+            "region": null,
+            "alias": "Xóm Đền Mẫu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9368183",
+            "lng": "106.32062659999997"
+        }
+    ],
+    "log_id": "675813f20000f675"
+}

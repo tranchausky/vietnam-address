@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652051,
+            "name": "Thôn Bá Nha",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bá Nha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8729872",
+            "lng": "106.4588929"
+        },
+        {
+            "id": 514103,
+            "name": "Thôn Hạ Vĩnh",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ Vĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8147668",
+            "lng": "106.49654340000006"
+        },
+        {
+            "id": 652057,
+            "name": "Thôn Lĩnh Hoàng",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lĩnh Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8469242",
+            "lng": "106.4690269"
+        },
+        {
+            "id": 514087,
+            "name": "Thôn Ngọc Điểm",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Điểm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9295379",
+            "lng": "106.41703110000003"
+        },
+        {
+            "id": 652054,
+            "name": "Thôn Nhân Hiền",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8670726",
+            "lng": "106.4635277"
+        },
+        {
+            "id": 514105,
+            "name": "Thôn Phúc Giới",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Giới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8147668",
+            "lng": "106.49654340000006"
+        },
+        {
+            "id": 514089,
+            "name": "Thôn Phù Tinh",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Tinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9295379",
+            "lng": "106.41703110000003"
+        },
+        {
+            "id": 514107,
+            "name": "Thôn Thanh Lanh",
+            "pid": 7118,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Lanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8147668",
+            "lng": "106.49654340000006"
+        }
+    ],
+    "log_id": "675813f1c9477493"
+}

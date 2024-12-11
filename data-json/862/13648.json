@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119263,
+            "name": "Đường Cách Mạng Tháng 8 - Ninh Thạnh",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cách mạng tháng 8 - Ninh Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.305404",
+            "lng": "106.131833"
+        },
+        {
+            "id": 987936,
+            "name": "Đường Điện Phủ - Ninh Thạnh",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Phủ - Ninh Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.32457279925695",
+            "lng": "106.13212689667542"
+        },
+        {
+            "id": 117223,
+            "name": "Khu Phố Ninh Đức",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ninh Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.316411",
+            "lng": "106.134190"
+        },
+        {
+            "id": 117175,
+            "name": "Khu Phố Ninh Hòa",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ninh Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.336451",
+            "lng": "106.137414"
+        },
+        {
+            "id": 117203,
+            "name": "Khu Phố Ninh Lợi",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ninh Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.347267",
+            "lng": "106.155546"
+        },
+        {
+            "id": 621639,
+            "name": "Khu Phố Ninh Nghĩa - Ninh Thạnh",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ninh Nghĩa - Ninh Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3397289",
+            "lng": "106.140451"
+        },
+        {
+            "id": 117213,
+            "name": "Khu Phố Ninh Phúc",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ninh Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.317910",
+            "lng": "106.131250"
+        },
+        {
+            "id": 117217,
+            "name": "Khu Phố Ninh Phước",
+            "pid": 13648,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ninh Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.309259",
+            "lng": "106.133809"
+        }
+    ],
+    "log_id": "675909dce6137615"
+}

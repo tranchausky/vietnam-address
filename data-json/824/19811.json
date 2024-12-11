@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599892,
+            "name": "Ấp Giồng Keo 1",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Giồng keo 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599895,
+            "name": "Ấp Giồng Keo 2",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "ấp giồng keo 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599889,
+            "name": "Bãi Bùn",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "Bãi Bùn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599904,
+            "name": "Bà Lắm",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "Bà Lắm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599898,
+            "name": "Cả Thu 1",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "Cả Thu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599901,
+            "name": "Cả Thu 2",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "Cả Thu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599883,
+            "name": "Kinh Nhiếm",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "Kinh Nhiếm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 599886,
+            "name": "Tân Phú",
+            "pid": 19811,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2640303",
+            "lng": "106.6703963"
+        }
+    ],
+    "log_id": "675814f400855283"
+}

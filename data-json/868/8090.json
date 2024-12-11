@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668854,
+            "name": "Đường 08 Tháng 03",
+            "pid": 8090,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 08 Tháng 03",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.239574",
+            "lng": "105.9571928"
+        },
+        {
+            "id": 668857,
+            "name": "Đường 14 Tháng 09",
+            "pid": 8090,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 14 Tháng 09",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6861265",
+            "lng": "105.3131185"
+        },
+        {
+            "id": 668851,
+            "name": "Đường Nguyễn Chí Thanh",
+            "pid": 8090,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0238871",
+            "lng": "105.8107665"
+        }
+    ],
+    "log_id": "67590b59a6ec9867"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113205,
+            "name": "Ấp Bến Kéo",
+            "pid": 16013,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến Kéo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.248350",
+            "lng": "106.118920"
+        },
+        {
+            "id": 113163,
+            "name": "Ấp Giang Tân",
+            "pid": 16013,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giang Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.247122",
+            "lng": "106.130972"
+        },
+        {
+            "id": 113101,
+            "name": "Ấp Long Bình",
+            "pid": 16013,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.245051",
+            "lng": "106.128981"
+        },
+        {
+            "id": 113225,
+            "name": "Ấp Long Khương",
+            "pid": 16013,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Khương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.247477",
+            "lng": "106.135170"
+        },
+        {
+            "id": 113169,
+            "name": "Ấp Long Yên",
+            "pid": 16013,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.256226",
+            "lng": "106.114268"
+        }
+    ],
+    "log_id": "675909dce361e157"
+}

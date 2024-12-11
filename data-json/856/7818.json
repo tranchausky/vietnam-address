@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 894220,
+            "name": "Đồng Tiến",
+            "pid": 7818,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.300466",
+            "lng": "105.884813"
+        },
+        {
+            "id": 562507,
+            "name": "Thôn Hán Bắc",
+            "pid": 7818,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn hán bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.300466",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 562505,
+            "name": "Thôn Hán Nam",
+            "pid": 7818,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn hán nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.300466",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 562503,
+            "name": "Thôn Xuân Lai",
+            "pid": 7818,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn xuân lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.300466",
+            "lng": "105.88481300000001"
+        },
+        {
+            "id": 910639,
+            "name": "Thuân Phong",
+            "pid": 7818,
+            "type": 16,
+            "region": null,
+            "alias": "Thuân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.300466",
+            "lng": "105.884813"
+        }
+    ],
+    "log_id": "6758179908846151"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1018844,
+            "name": "02-07 Đường Hải Dương",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "02-07 Đường Hải Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0829902",
+            "lng": "109.29534051665665"
+        },
+        {
+            "id": 1018841,
+            "name": "Chợ Xéo",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Chợ Xéo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.076264",
+            "lng": "109.302007"
+        },
+        {
+            "id": 1018838,
+            "name": "Đường Côn Sơn",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Côn Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "109.29753834624196",
+            "lng": "13.077461627070283"
+        },
+        {
+            "id": 1018853,
+            "name": "Đường Mạc Thị Bưởi",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Mạc Thị Bưởi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.076264",
+            "lng": "109.302007"
+        },
+        {
+            "id": 1018839,
+            "name": "Ngọc Lãng",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Lãng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.076264",
+            "lng": "109.302007"
+        },
+        {
+            "id": 1018843,
+            "name": "Trạm Y Tế Xa Bình Ngọc",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Trạm y tế xa Bình Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.076264",
+            "lng": "109.302007"
+        },
+        {
+            "id": 1018856,
+            "name": "Trần Quang Khải",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Trần Quang Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0793669",
+            "lng": " 109.29858876378002"
+        },
+        {
+            "id": 1018842,
+            "name": "Ubnd Xã Bình Ngọc",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "UBND xã Bình Ngọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "(13.076264)",
+            "lng": "109.302007"
+        },
+        {
+            "id": 1018840,
+            "name": "Xóm 8",
+            "pid": 15018,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.076264",
+            "lng": "109.302007"
+        }
+    ],
+    "log_id": "67590b80be0c5239"
+}

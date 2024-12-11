@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 103844,
+            "name": "Tổ 1",
+            "pid": 5719,
+            "type": 10,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5841353",
+            "lng": "105.8273311"
+        },
+        {
+            "id": 473193,
+            "name": "Tổ 2",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 473195,
+            "name": "Tổ 3",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 473199,
+            "name": "Tổ 5",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 473201,
+            "name": "Tổ 6",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 104012,
+            "name": "Tổ 7",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5801668",
+            "lng": "105.8352668"
+        },
+        {
+            "id": 473205,
+            "name": "Tổ 8",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 473209,
+            "name": "Tổ 10",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 473211,
+            "name": "Tổ 11",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 473213,
+            "name": "Tổ 12",
+            "pid": 5719,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 12",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5807138",
+            "lng": "105.82609430000002"
+        }
+    ],
+    "log_id": "67590a09a8e0c249"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753232,
+            "name": "Công Cối",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Công Cối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 758239,
+            "name": "Liễn Hạ",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Liễn Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 758245,
+            "name": "Liễn Thượng",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Liễn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 753229,
+            "name": "Ngư Đại",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Ngư Đại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 758257,
+            "name": "Vĩnh Thế",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Thế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 758248,
+            "name": "Xuân Bình",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        },
+        {
+            "id": 758233,
+            "name": "Xuân Hòa",
+            "pid": 13584,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1865968",
+            "lng": "106.12574999999993"
+        }
+    ],
+    "log_id": "675815f8c5965285"
+}

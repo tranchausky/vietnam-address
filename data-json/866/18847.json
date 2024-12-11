@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462091,
+            "name": "Thôn Bến Ván",
+            "pid": 18847,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bến ván",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3478768",
+            "lng": "107.72468789999994"
+        },
+        {
+            "id": 462083,
+            "name": "Thôn Bình An",
+            "pid": 18847,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3478768",
+            "lng": "107.72468789999994"
+        },
+        {
+            "id": 462087,
+            "name": "Thôn Hòa Mỹ",
+            "pid": 18847,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3478768",
+            "lng": "107.72468789999994"
+        },
+        {
+            "id": 462085,
+            "name": "Thôn Hòa Vang",
+            "pid": 18847,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Hòa Vang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3478768",
+            "lng": "107.72468789999994"
+        },
+        {
+            "id": 462089,
+            "name": "Thôn Thuận Hóa",
+            "pid": 18847,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Thuận Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3478768",
+            "lng": "107.72468789999994"
+        }
+    ],
+    "log_id": "67590b2623c8061"
+}

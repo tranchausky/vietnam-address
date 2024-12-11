@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 852466,
+            "name": "Làng Suối Vằm",
+            "pid": 17778,
+            "type": 16,
+            "region": null,
+            "alias": "làng Suối Vằm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6521528",
+            "lng": "106.79497790000005"
+        },
+        {
+            "id": 827287,
+            "name": "Nà Tấng",
+            "pid": 17778,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Tấng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6521528",
+            "lng": "106.79497790000005"
+        }
+    ],
+    "log_id": "6758133f31d1a649"
+}

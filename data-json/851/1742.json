@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 20176,
+            "name": "Phường An Thới",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.042699",
+            "lng": "104.01303910000001"
+        },
+        {
+            "id": 20173,
+            "name": "Phường Dương Đông",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Dương Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2304532",
+            "lng": "103.9666115"
+        },
+        {
+            "id": 20183,
+            "name": "Xã Bãi Thơm",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bãi Thơm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3879375",
+            "lng": "103.99562689999993"
+        },
+        {
+            "id": 20177,
+            "name": "Xã Cửa Cạn",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Cửa Cạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3043743",
+            "lng": "103.902799"
+        },
+        {
+            "id": 20179,
+            "name": "Xã Cửa Dương",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Cửa Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.289879",
+            "lng": "103.98401999999999"
+        },
+        {
+            "id": 20181,
+            "name": "Xã Dương Tơ",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Dương Tơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.155786",
+            "lng": "103.996934"
+        },
+        {
+            "id": 20178,
+            "name": "Xã Gành Dầu",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Gành Dầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.34819",
+            "lng": "103.902799"
+        },
+        {
+            "id": 20180,
+            "name": "Xã Hàm Ninh",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hàm Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.188897",
+            "lng": "104.04206420000003"
+        },
+        {
+            "id": 20182,
+            "name": "Xã Hòn Thơm",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòn Thơm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9279383",
+            "lng": "104.01884359999997"
+        },
+        {
+            "id": 20184,
+            "name": "Xã Thổ Châu",
+            "pid": 1742,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thổ Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.303804",
+            "lng": "103.47616219999998"
+        }
+    ],
+    "log_id": "67581735f32b5527"
+}

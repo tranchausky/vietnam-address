@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559765,
+            "name": "Ấp Bản Buốn",
+            "pid": 22198,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bản buốn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        },
+        {
+            "id": 968895,
+            "name": "Bản Chiêng Cồng",
+            "pid": 22198,
+            "type": 21,
+            "region": null,
+            "alias": "bản chiêng cồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5221361",
+            "lng": "104.50176"
+        },
+        {
+            "id": 559769,
+            "name": "Bản Chiên Pục",
+            "pid": 22198,
+            "type": 21,
+            "region": null,
+            "alias": "bản chiên pục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        },
+        {
+            "id": 559767,
+            "name": "Bản Na Khà",
+            "pid": 22198,
+            "type": 16,
+            "region": null,
+            "alias": "bản na khà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        },
+        {
+            "id": 559771,
+            "name": "Bản Tén Tằn",
+            "pid": 22198,
+            "type": 16,
+            "region": null,
+            "alias": "bản tén tằn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        },
+        {
+            "id": 813262,
+            "name": "Khu Đoàn 5",
+            "pid": 22198,
+            "type": 21,
+            "region": null,
+            "alias": "Khu đoàn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        },
+        {
+            "id": 813259,
+            "name": "Piêng Mon",
+            "pid": 22198,
+            "type": 21,
+            "region": null,
+            "alias": "Piêng Mon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5340064",
+            "lng": "104.53057149999995"
+        }
+    ],
+    "log_id": "67590a234cb88842"
+}

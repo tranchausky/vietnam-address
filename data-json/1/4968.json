@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 99746,
+            "name": "Giang",
+            "pid": 4968,
+            "type": 16,
+            "region": null,
+            "alias": "Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7847624",
+            "lng": "105.7207335"
+        },
+        {
+            "id": 99752,
+            "name": "Thượng",
+            "pid": 4968,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.791848",
+            "lng": "105.7167804"
+        },
+        {
+            "id": 1015995,
+            "name": "Tiền",
+            "pid": 4968,
+            "type": 16,
+            "region": null,
+            "alias": "Tiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.788508689738915",
+            "lng": "105.7211595380122"
+        },
+        {
+            "id": 1015996,
+            "name": "Trung",
+            "pid": 4968,
+            "type": 16,
+            "region": null,
+            "alias": "Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.791484",
+            "lng": "105.717155"
+        },
+        {
+            "id": 55710,
+            "name": "Ubnd Xã Viên Nội",
+            "pid": 4968,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Viên Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd3d55a165"
+}

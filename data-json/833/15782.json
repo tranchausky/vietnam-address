@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113893,
+            "name": "Ấp Phước Thành",
+            "pid": 15782,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4425258",
+            "lng": "105.17375530000004"
+        },
+        {
+            "id": 113877,
+            "name": "Ấp Vĩnh Lộc",
+            "pid": 15782,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4425258",
+            "lng": "105.17375530000004"
+        },
+        {
+            "id": 113863,
+            "name": "Ấp Vĩnh Phước",
+            "pid": 15782,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4425258",
+            "lng": "105.17375530000004"
+        },
+        {
+            "id": 113885,
+            "name": "Ấp Vĩnh Thọ",
+            "pid": 15782,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4425258",
+            "lng": "105.17375530000004"
+        }
+    ],
+    "log_id": "6758159deb070762"
+}

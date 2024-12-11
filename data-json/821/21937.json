@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 527903,
+            "name": "Bản Huồi Giảng 1",
+            "pid": 21937,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Huồi Giảng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3368757",
+            "lng": "104.08851700000002"
+        },
+        {
+            "id": 527905,
+            "name": "Bản Huồi Giảng 2",
+            "pid": 21937,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Huồi Giảng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3368757",
+            "lng": "104.08851700000002"
+        },
+        {
+            "id": 527907,
+            "name": "Bản Huồi Giảng 3",
+            "pid": 21937,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Huồi Giảng 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3368757",
+            "lng": "104.08851700000002"
+        },
+        {
+            "id": 786880,
+            "name": "Bản Lữ Thành",
+            "pid": 21937,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lữ Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3368757",
+            "lng": "104.08851700000002"
+        }
+    ],
+    "log_id": "675812087dbb9690"
+}

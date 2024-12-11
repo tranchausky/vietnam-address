@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476569,
+            "name": "Hưng Phúc",
+            "pid": 13624,
+            "type": 10,
+            "region": null,
+            "alias": "hưng phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1380973",
+            "lng": "105.9912874"
+        },
+        {
+            "id": 476571,
+            "name": "Tạ Xá",
+            "pid": 13624,
+            "type": 16,
+            "region": null,
+            "alias": "Tạ Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1373458",
+            "lng": "105.9953273"
+        },
+        {
+            "id": 476565,
+            "name": "Thôn Hồi Quan",
+            "pid": 13624,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồi Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1466442",
+            "lng": "105.9927564"
+        },
+        {
+            "id": 476567,
+            "name": "Thôn Tiêu Long",
+            "pid": 13624,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiêu Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1359213",
+            "lng": "105.9864135"
+        },
+        {
+            "id": 476573,
+            "name": "Thôn Tiêu Sơn",
+            "pid": 13624,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiêu Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1350595",
+            "lng": "105.9927564"
+        },
+        {
+            "id": 476575,
+            "name": "Thôn Tiêu Thượng",
+            "pid": 13624,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiêu Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1354391",
+            "lng": "105.9824289"
+        },
+        {
+            "id": 740047,
+            "name": "Xóm Chùa",
+            "pid": 13624,
+            "type": 18,
+            "region": null,
+            "alias": "xóm chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1463383",
+            "lng": "105.9941398"
+        }
+    ],
+    "log_id": "675815f8b2a4b961"
+}

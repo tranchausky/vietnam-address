@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1016658,
+            "name": "1184 Huỳnh Văn Lũy",
+            "pid": 6046,
+            "type": 4,
+            "region": null,
+            "alias": "1184 Huỳnh Văn Lũy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.035676621763685",
+            "lng": "106.68246337301574"
+        },
+        {
+            "id": 80777,
+            "name": "Chợ Phú Mỹ- Đường An Mỹ Phú Mỹ",
+            "pid": 6046,
+            "type": 18,
+            "region": null,
+            "alias": "Chợ Phú Mỹ- đường an mỹ phú mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0163236",
+            "lng": "106.6790928"
+        },
+        {
+            "id": 1000591,
+            "name": "Đường Hùng Vương",
+            "pid": 6046,
+            "type": 10,
+            "region": null,
+            "alias": "đường Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.03124",
+            "lng": "106.67909"
+        },
+        {
+            "id": 783238,
+            "name": "Đường Huỳnh Văn Lũy, Phú Mỹ",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Lũy, Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.068994300000002",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 433571,
+            "name": "Khu Phố 1",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 433573,
+            "name": "Khu Phố 2",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 433575,
+            "name": "Khu Phố 3, Phường Phú Mỹ",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3, phường Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 433577,
+            "name": "Khu Phố 4",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 947977,
+            "name": "Khu Phố 5",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "1.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 433581,
+            "name": "Khu Phố 6",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 433583,
+            "name": "Khu Phố 7",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        },
+        {
+            "id": 433585,
+            "name": "Khu Phố 8",
+            "pid": 6046,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0137154",
+            "lng": "106.682188"
+        }
+    ],
+    "log_id": "6758162193508166"
+}

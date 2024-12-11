@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631761,
+            "name": "Đông Yên",
+            "pid": 16166,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3350315",
+            "lng": "108.76603640000008"
+        },
+        {
+            "id": 631764,
+            "name": "Mỹ Huệ",
+            "pid": 16166,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3350315",
+            "lng": "108.76603640000008"
+        }
+    ],
+    "log_id": "675909a4dac58811"
+}

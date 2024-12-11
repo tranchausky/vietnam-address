@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 624582,
+            "name": "Làng Hà Đừng",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Hà Đừng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624576,
+            "name": "Làng Kon Lanh",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Kon Lanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624585,
+            "name": "Làng Kon Lốc",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Kon Lốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624579,
+            "name": "Làng Kon Von",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Kon Von",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624591,
+            "name": "Làng Tè",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624567,
+            "name": "Thôn 1",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624570,
+            "name": "Thôn 2",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        },
+        {
+            "id": 624573,
+            "name": "Thôn Suối U",
+            "pid": 19352,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối U",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4122608",
+            "lng": "108.45802070000002"
+        }
+    ],
+    "log_id": "675816d37789741"
+}

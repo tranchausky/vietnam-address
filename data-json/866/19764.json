@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462663,
+            "name": "Thôn A Ry",
+            "pid": 19764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn A Ry",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1977338",
+            "lng": "107.45585549999998"
+        },
+        {
+            "id": 462669,
+            "name": "Thôn Chi Du Nghĩa",
+            "pid": 19764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chi du Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1977338",
+            "lng": "107.45585549999998"
+        },
+        {
+            "id": 462665,
+            "name": "Thôn Giồng",
+            "pid": 19764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Giồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1977338",
+            "lng": "107.45585549999998"
+        },
+        {
+            "id": 462667,
+            "name": "Thôn Murutara",
+            "pid": 19764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Murutara",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1977338",
+            "lng": "107.45585549999998"
+        }
+    ],
+    "log_id": "67590b2651741921"
+}

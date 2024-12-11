@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93851,
+            "name": "Khu Phố 1A - P. Tân Hạnh",
+            "pid": 13242,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1A - P. Tân Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9544385",
+            "lng": "106.7831659"
+        },
+        {
+            "id": 93863,
+            "name": "Khu Phố 1B - P. Tân Hạnh",
+            "pid": 13242,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1B - P. Tân Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9514129,",
+            "lng": "106.7765166"
+        },
+        {
+            "id": 93854,
+            "name": "Khu Phố 2 - P. Tân Hạnh",
+            "pid": 13242,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2 - P. Tân Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9485028",
+            "lng": "106.7865223"
+        },
+        {
+            "id": 93857,
+            "name": "Khu Phố 3 - P. Tân Hạnh",
+            "pid": 13242,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - P. Tân Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9457578",
+            "lng": "106.7743974"
+        },
+        {
+            "id": 93860,
+            "name": "Khu Phố 4 - P. Tân Hạnh",
+            "pid": 13242,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4 - P. Tân Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9565892",
+            "lng": "106.7704357"
+        },
+        {
+            "id": 986880,
+            "name": "Rạch Ông Tiếp",
+            "pid": 13242,
+            "type": 21,
+            "region": null,
+            "alias": "Rạch Ông Tiếp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.950035354521106",
+            "lng": "106.7665841878773"
+        }
+    ],
+    "log_id": "675814dd61b1b816"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108657,
+            "name": "Ấp Cái Tràm B",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Tràm B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.273529",
+            "lng": "105.636982"
+        },
+        {
+            "id": 564205,
+            "name": "Ấp Chùa Phật",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chùa Phật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.26206857119722",
+            "lng": "105.62281608581544"
+        },
+        {
+            "id": 108667,
+            "name": "Ấp Láng Giài",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Láng Giài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.300864370857498",
+            "lng": "105.6368923187256"
+        },
+        {
+            "id": 108679,
+            "name": "Ấp Láng Giài A",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Láng Giài A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.294088121545471",
+            "lng": "105.64538955688477"
+        },
+        {
+            "id": 108683,
+            "name": "Ấp Thị Trấn A",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Trấn A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.284092914439945",
+            "lng": "105.63097000122072"
+        },
+        {
+            "id": 108747,
+            "name": "Ấp Thị Trấn A1",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Trấn A1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.29154699423539",
+            "lng": "105.6288242340088"
+        },
+        {
+            "id": 108749,
+            "name": "Ấp Thị Trấn B",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Trấn B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.287735268699285",
+            "lng": "105.61843872070314"
+        },
+        {
+            "id": 108757,
+            "name": "Ấp Thị Trấn B1",
+            "pid": 8071,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Trấn B1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.284939976948356",
+            "lng": "105.61105728149415"
+        }
+    ],
+    "log_id": "675815e16dce2627"
+}

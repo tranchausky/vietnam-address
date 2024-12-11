@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88982,
+            "name": "Khu Phố Bình Đức Bình Nhâm",
+            "pid": 6055,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Đức Bình Nhâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9107449",
+            "lng": "106.6989881"
+        },
+        {
+            "id": 88976,
+            "name": "Khu Phố Bình Hoà Bình Nhâm",
+            "pid": 6055,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Hoà Bình Nhâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9212694",
+            "lng": "106.7339436"
+        },
+        {
+            "id": 89633,
+            "name": "Khu Phố Bình Phước Bình Nhâm",
+            "pid": 6055,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Phước Bình Nhâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9191911",
+            "lng": "106.693865"
+        },
+        {
+            "id": 88979,
+            "name": "Khu Phố Bình Thuận Bình Nhâm",
+            "pid": 6055,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Thuận Bình Nhâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9191911",
+            "lng": "106.693865"
+        }
+    ],
+    "log_id": "675816218edab54"
+}

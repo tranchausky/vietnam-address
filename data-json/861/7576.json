@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962573,
+            "name": "Đường Chông Chác",
+            "pid": 7576,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chông Chác",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.644651652243452",
+            "lng": "106.01368378163077"
+        },
+        {
+            "id": 962567,
+            "name": "Đường Kênh Cầu Xéo",
+            "pid": 7576,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kênh Cầu Xéo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.61037930042831",
+            "lng": "105.97971580599506"
+        },
+        {
+            "id": 962568,
+            "name": "Đường Kênh Cầu Xéo 42-120",
+            "pid": 7576,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Kênh Cầu Xéo 42-120",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.61037930042831",
+            "lng": "105.97971580599506"
+        },
+        {
+            "id": 962570,
+            "name": "Đường Lương Định Của",
+            "pid": 7576,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Định Của",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.66005471989721",
+            "lng": "106.00181691293837"
+        },
+        {
+            "id": 962571,
+            "name": "Đường Lương Định Của 1-999",
+            "pid": 7576,
+            "type": 29,
+            "region": null,
+            "alias": "Đường lương định Của 1-999",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.66005471989721",
+            "lng": "106.00181691293837"
+        },
+        {
+            "id": 962572,
+            "name": "Đường Lương Định Của 2-1000",
+            "pid": 7576,
+            "type": 29,
+            "region": null,
+            "alias": "Đường lương định Của 2-1000",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.658180608039528",
+            "lng": "106.0011534549168"
+        },
+        {
+            "id": 941729,
+            "name": "Đường Lý Đạo Thành",
+            "pid": 7576,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Đạo Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.611956",
+            "lng": "105.976857"
+        },
+        {
+            "id": 931891,
+            "name": "Đường Tôn Đức Thắng - Phường 5",
+            "pid": 7576,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Đức Thắng - Phường 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.616938",
+            "lng": "105.980798"
+        },
+        {
+            "id": 962566,
+            "name": "Đường Tôn Đức Thắng 85 - 645",
+            "pid": 7576,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Tôn Đức Thắng 85 - 645",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.614640829470712",
+            "lng": "105.97999998133584"
+        },
+        {
+            "id": 966139,
+            "name": "Đường Tôn Đức Thắng 686-848",
+            "pid": 7576,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Tôn Đức Thắng 686-848",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.61546609609346",
+            "lng": "105.98032316781651"
+        }
+    ],
+    "log_id": "675909c179bbb233"
+}

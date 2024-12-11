@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910216,
+            "name": "Đông Yên",
+            "pid": 19099,
+            "type": 16,
+            "region": null,
+            "alias": "đông Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5902262",
+            "lng": "106.36771929999998"
+        },
+        {
+            "id": 832444,
+            "name": "Lầm Hạ",
+            "pid": 19099,
+            "type": 16,
+            "region": null,
+            "alias": "Lầm Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5902262",
+            "lng": "106.36771929999998"
+        },
+        {
+            "id": 910219,
+            "name": "Lầm Thượng",
+            "pid": 19099,
+            "type": 16,
+            "region": null,
+            "alias": "Lầm Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5902262",
+            "lng": "106.36771929999998"
+        },
+        {
+            "id": 910210,
+            "name": "Nà Oe",
+            "pid": 19099,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Oe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5902262",
+            "lng": "106.36771929999998"
+        }
+    ],
+    "log_id": "6758133f25606340"
+}

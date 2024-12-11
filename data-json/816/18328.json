@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629397,
+            "name": "Thôn Tân Viên",
+            "pid": 18328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7535649",
+            "lng": "106.11399000000006"
+        },
+        {
+            "id": 629394,
+            "name": "Thôn Trà Phương",
+            "pid": 18328,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trà Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7535649",
+            "lng": "106.11399000000006"
+        },
+        {
+            "id": 629391,
+            "name": "Xóm 2",
+            "pid": 18328,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7535649",
+            "lng": "106.11399000000006"
+        }
+    ],
+    "log_id": "675814913acbd594"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 700762,
+            "name": "Cụm Công Nghiệp Phú An",
+            "pid": 18447,
+            "type": 5,
+            "region": null,
+            "alias": "cụm công nghiệp phú an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9174816",
+            "lng": "108.92348119999996"
+        },
+        {
+            "id": 650716,
+            "name": "Thôn Đồng Sim",
+            "pid": 18447,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng sim",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.870129",
+            "lng": "108.936129"
+        },
+        {
+            "id": 650710,
+            "name": "Thôn Phú An",
+            "pid": 18447,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.870129",
+            "lng": "108.936129"
+        },
+        {
+            "id": 920779,
+            "name": "Thôn Phú Hòa",
+            "pid": 18447,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9174816",
+            "lng": "108.92348119999996"
+        },
+        {
+            "id": 650701,
+            "name": "Thôn Phú Hoà",
+            "pid": 18447,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.870129",
+            "lng": "108.936129"
+        }
+    ],
+    "log_id": "6758150db0117930"
+}

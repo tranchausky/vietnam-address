@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 934478,
+            "name": "Bạch Đằng",
+            "pid": 13488,
+            "type": 21,
+            "region": null,
+            "alias": "Bạch Đằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.968.091.975.514.200",
+            "lng": "10.842.603.985.510.300"
+        },
+        {
+            "id": 925624,
+            "name": "Cao Bá Quát",
+            "pid": 13488,
+            "type": 21,
+            "region": null,
+            "alias": "Cao Bá Quát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.969922300000002",
+            "lng": "108.42765699999997"
+        },
+        {
+            "id": 998548,
+            "name": "Đường Cao Bá Quát",
+            "pid": 13488,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Bá Quát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.964204790277869",
+            "lng": "108.42921375037504"
+        }
+    ],
+    "log_id": "67581771c8630252"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 648544,
+            "name": "Bản Nậm Sẻ",
+            "pid": 22487,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Sẻ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5483945",
+            "lng": "103.4742993"
+        },
+        {
+            "id": 648559,
+            "name": "Bản Nó 2",
+            "pid": 22487,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nó 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.411212   ",
+            "lng": "103.190299"
+        },
+        {
+            "id": 648487,
+            "name": "Chải 1",
+            "pid": 22487,
+            "type": 16,
+            "region": null,
+            "alias": "Chải 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.412432  ",
+            "lng": "103.190900"
+        },
+        {
+            "id": 648532,
+            "name": "Chải 2",
+            "pid": 22487,
+            "type": 16,
+            "region": null,
+            "alias": "Chải 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.412338  ",
+            "lng": "103.190766"
+        },
+        {
+            "id": 648553,
+            "name": "Nó 1",
+            "pid": 22487,
+            "type": 16,
+            "region": null,
+            "alias": "Nó 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9622571",
+            "lng": "105.7923394"
+        }
+    ],
+    "log_id": "6758175e6633d729"
+}

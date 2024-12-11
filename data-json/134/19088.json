@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 832336,
+            "name": "Cầu Đất",
+            "pid": 19088,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu đất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5357857",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 832342,
+            "name": "Tân Na",
+            "pid": 19088,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Na",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5357857",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 910033,
+            "name": "Thôn Đồng Hương",
+            "pid": 19088,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng Hương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5357857",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 910042,
+            "name": "Thôn Minh Lễ",
+            "pid": 19088,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Minh Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5357857",
+            "lng": "106.3191551"
+        },
+        {
+            "id": 910036,
+            "name": "Thôn Tân Tạo",
+            "pid": 19088,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Tạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5357857",
+            "lng": "106.3191551"
+        }
+    ],
+    "log_id": "6758133f22401303"
+}

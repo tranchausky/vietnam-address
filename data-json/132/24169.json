@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 698275,
+            "name": "Bản Mới",
+            "pid": 24169,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6221853",
+            "lng": "104.6004911"
+        },
+        {
+            "id": 698272,
+            "name": "Thôn Tập Lăng",
+            "pid": 24169,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tập Lăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6221853",
+            "lng": "104.6004911"
+        }
+    ],
+    "log_id": "6758131fa3b30114"
+}

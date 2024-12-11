@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 451795,
+            "name": "Khóm Tân Quới Đông",
+            "pid": 8096,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Quới Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0962481",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 451799,
+            "name": "Khóm Tân Quới Hưng",
+            "pid": 8096,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Quới Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0962481",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 451797,
+            "name": "Khóm Tân Quới Tây",
+            "pid": 8096,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Quới Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0962481",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 451793,
+            "name": "Khóm Tân Vĩnh",
+            "pid": 8096,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Tân Vĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8610283",
+            "lng": "105.494688"
+        }
+    ],
+    "log_id": "67590b59aadcd693"
+}

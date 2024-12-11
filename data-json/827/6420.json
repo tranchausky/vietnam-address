@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 548481,
+            "name": "Bồ Thầy",
+            "pid": 6420,
+            "type": 20,
+            "region": null,
+            "alias": "Bồ Thầy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        },
+        {
+            "id": 548483,
+            "name": "Đông Nai",
+            "pid": 6420,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Nai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        },
+        {
+            "id": 548485,
+            "name": "Hoa Giang",
+            "pid": 6420,
+            "type": 18,
+            "region": null,
+            "alias": "Hoa Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        },
+        {
+            "id": 548487,
+            "name": "Tây Hạ Đông",
+            "pid": 6420,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Hạ Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        },
+        {
+            "id": 548489,
+            "name": "Tây Hạ Nam",
+            "pid": 6420,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Hạ Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        },
+        {
+            "id": 548493,
+            "name": "Trụ Thạch",
+            "pid": 6420,
+            "type": 20,
+            "region": null,
+            "alias": "Trụ Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        },
+        {
+            "id": 548495,
+            "name": "Xuân Me",
+            "pid": 6420,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3911382",
+            "lng": "105.50347850000003"
+        }
+    ],
+    "log_id": "6758153380ba792"
+}

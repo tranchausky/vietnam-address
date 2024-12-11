@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 812368,
+            "name": "Quyết Tâm",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "Quyết Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 812362,
+            "name": "Tân Long",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 528269,
+            "name": "Xóm Chùa",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 812359,
+            "name": "Xóm Đình",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 812344,
+            "name": "Xóm Đông",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.70284570000001"
+        },
+        {
+            "id": 763765,
+            "name": "Xóm Hải Thịnh",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hải Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.7028457"
+        },
+        {
+            "id": 528273,
+            "name": "Xóm Rồng",
+            "pid": 15346,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Rồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.841958",
+            "lng": "105.70284570000001"
+        }
+    ],
+    "log_id": "67581208e0e11957"
+}

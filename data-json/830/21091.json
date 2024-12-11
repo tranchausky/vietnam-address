@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571455,
+            "name": "Há Chế",
+            "pid": 21091,
+            "type": 16,
+            "region": null,
+            "alias": "há chế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1695379",
+            "lng": "105.38923720000003"
+        },
+        {
+            "id": 571458,
+            "name": "Thôn Chảng Tà Làng",
+            "pid": 21091,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn chảng tà làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1695379",
+            "lng": "105.38923720000003"
+        }
+    ],
+    "log_id": "6758156648965224"
+}

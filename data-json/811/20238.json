@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 759781,
+            "name": "Tây Cát",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Tây Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999996"
+        },
+        {
+            "id": 861835,
+            "name": "Xóm Đông Châu",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1534322",
+            "lng": "106.3224968"
+        },
+        {
+            "id": 759784,
+            "name": "Xóm Hải Điền",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Hải điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999996"
+        },
+        {
+            "id": 759799,
+            "name": "Xóm Hợp Thành",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hợp Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999996"
+        },
+        {
+            "id": 759787,
+            "name": "Xóm Nam Châu",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nam Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999996"
+        },
+        {
+            "id": 520431,
+            "name": "Xóm Nam Giang",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nam Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999997"
+        },
+        {
+            "id": 759796,
+            "name": "Xóm Trần Phú",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trần Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999996"
+        },
+        {
+            "id": 759790,
+            "name": "Xóm Trung Đồng",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trung Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999996"
+        },
+        {
+            "id": 520433,
+            "name": "Xóm Xuân Hà",
+            "pid": 20238,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Xuân Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1544872",
+            "lng": "106.33166289999997"
+        }
+    ],
+    "log_id": "6758145d2977a266"
+}

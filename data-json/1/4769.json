@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118303,
+            "name": "Hạ Hiệp",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Hạ Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.053579",
+            "lng": "105.6383202"
+        },
+        {
+            "id": 118301,
+            "name": "Hiếu Hiệp",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Hiếu Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0603697",
+            "lng": "105.6417567"
+        },
+        {
+            "id": 985739,
+            "name": "Thôn 1",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.048396140284158",
+            "lng": "105.64259992147008"
+        },
+        {
+            "id": 985742,
+            "name": "Thôn 2",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.052241",
+            "lng": "105.643973"
+        },
+        {
+            "id": 985744,
+            "name": "Thôn 3",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.053942",
+            "lng": "105.635695"
+        },
+        {
+            "id": 985767,
+            "name": "Thôn 5",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04898280424191",
+            "lng": "105.64099380830955"
+        },
+        {
+            "id": 985785,
+            "name": "Thôn 6",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.054013932305324",
+            "lng": "105.63687419058621"
+        },
+        {
+            "id": 985793,
+            "name": "Thôn 7",
+            "pid": 4769,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.06003806231054",
+            "lng": "105.63588041620686"
+        }
+    ],
+    "log_id": "675811bc4850c639"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93893,
+            "name": "Ấp Lê Lợi",
+            "pid": 7065,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.975085",
+            "lng": "107.145922"
+        },
+        {
+            "id": 93887,
+            "name": "Ấp Ngô Quyền",
+            "pid": 7065,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngô Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.963954",
+            "lng": "107.117712"
+        },
+        {
+            "id": 93890,
+            "name": "Ấp Nguyễn Thái Học",
+            "pid": 7065,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nguyễn Thái Học",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.965196",
+            "lng": "107.138592"
+        },
+        {
+            "id": 93911,
+            "name": "Khu Phố Phan Bội Châu",
+            "pid": 7065,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phan Bội Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8831747",
+            "lng": "106.8724722"
+        },
+        {
+            "id": 981398,
+            "name": "Tổ 1 - Tổ 25 (1-887) Trần Cao Vân",
+            "pid": 7065,
+            "type": 29,
+            "region": null,
+            "alias": "Tổ 1 - Tổ 25 (1-887) Trần Cao Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.944924",
+            "lng": "107.135343"
+        },
+        {
+            "id": 981399,
+            "name": "Tổ 26 - Tổ 44 (888-1575) Ấp Trần Cao Vân",
+            "pid": 7065,
+            "type": 29,
+            "region": null,
+            "alias": "Tổ 26 - Tổ 44 (888-1575) Ấp Trần Cao Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.944924",
+            "lng": "107.135343"
+        }
+    ],
+    "log_id": "675814dd3bbc2419"
+}

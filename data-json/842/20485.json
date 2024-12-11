@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 853990,
+            "name": "Cốc Lùng",
+            "pid": 20485,
+            "type": 18,
+            "region": null,
+            "alias": "Cốc Lùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7825027",
+            "lng": "105.89362240000003"
+        },
+        {
+            "id": 853993,
+            "name": "Năm Cốp",
+            "pid": 20485,
+            "type": 18,
+            "region": null,
+            "alias": "Năm Cốp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7825027",
+            "lng": "105.89362240000003"
+        }
+    ],
+    "log_id": "6758166279e2d880"
+}

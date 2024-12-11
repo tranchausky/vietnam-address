@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 908086,
+            "name": "Đường Đa Phúc",
+            "pid": 4809,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đa Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 908053,
+            "name": "Đường Núi Đôi",
+            "pid": 4809,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Núi Đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53358,
+            "name": "Thpt Lạc Long Quân",
+            "pid": 4809,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Lạc Long Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 904255,
+            "name": "Tổ 7",
+            "pid": 4809,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2538445",
+            "lng": "105.84957959999996"
+        },
+        {
+            "id": 908071,
+            "name": "Tổ 8",
+            "pid": 4809,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2538445",
+            "lng": "105.84957959999996"
+        },
+        {
+            "id": 904228,
+            "name": "Tổ 9",
+            "pid": 4809,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2538445",
+            "lng": "105.84957959999996"
+        },
+        {
+            "id": 904219,
+            "name": "Tổ 11",
+            "pid": 4809,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2538445",
+            "lng": "105.84957959999996"
+        },
+        {
+            "id": 55310,
+            "name": "Ubnd Huyện Sóc Sơn",
+            "pid": 4809,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Huyện Sóc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55206,
+            "name": "Ubnd Thị Trấn",
+            "pid": 4809,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Thị trấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.25672641009579",
+            "lng": "105.85067909835672"
+        }
+    ],
+    "log_id": "675811bc46382794"
+}

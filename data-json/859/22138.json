@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640972,
+            "name": "Đầu Gò ",
+            "pid": 22138,
+            "type": 16,
+            "region": null,
+            "alias": "đầu gò ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.819265",
+            "lng": " 107.902553"
+        },
+        {
+            "id": 640975,
+            "name": "Thôn Đồng Chàm",
+            "pid": 22138,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng chàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.819265",
+            "lng": " 107.902553"
+        },
+        {
+            "id": 640960,
+            "name": "Thôn Hội Khách Đông",
+            "pid": 22138,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hội khách đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.819265",
+            "lng": "107.902553"
+        },
+        {
+            "id": 640963,
+            "name": "Thôn Hội Khách Tây",
+            "pid": 22138,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hội khách tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.819265",
+            "lng": "107.902553"
+        },
+        {
+            "id": 640969,
+            "name": "Thôn Tân Đợi",
+            "pid": 22138,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân đợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.819265",
+            "lng": " 107.902553"
+        }
+    ],
+    "log_id": "675817e1aafa2698"
+}

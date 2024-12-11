@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 762991,
+            "name": "Thôn Phương Tân",
+            "pid": 7161,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9345394",
+            "lng": "106.527473"
+        },
+        {
+            "id": 862993,
+            "name": "Thôn Vân Dương",
+            "pid": 7161,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Vân Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9345394",
+            "lng": "106.527473"
+        }
+    ],
+    "log_id": "675813f2007a510"
+}

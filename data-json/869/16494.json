@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566593,
+            "name": "Buôn Hố Hầm",
+            "pid": 16494,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Hố Hầm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.073046",
+            "lng": "109.120058"
+        },
+        {
+            "id": 833692,
+            "name": "Bưu Điện Hoà Hội",
+            "pid": 16494,
+            "type": 21,
+            "region": null,
+            "alias": "Bưu Điện Hoà Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.063846",
+            "lng": "109.112928"
+        },
+        {
+            "id": 833689,
+            "name": "Lữ Đoàn 83",
+            "pid": 16494,
+            "type": 21,
+            "region": null,
+            "alias": "Lữ Đoàn 83",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.063846",
+            "lng": "109.112928"
+        },
+        {
+            "id": 109545,
+            "name": "Thôn Nhất Sơn",
+            "pid": 16494,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nhất Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.071434",
+            "lng": "109.119633"
+        },
+        {
+            "id": 109571,
+            "name": "Thôn Phong Hậu",
+            "pid": 16494,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phong Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.067557",
+            "lng": "109.162347"
+        }
+    ],
+    "log_id": "67590b809cbb3292"
+}

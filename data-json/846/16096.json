@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 723103,
+            "name": "Ấp Hưng Mỹ Đông",
+            "pid": 16096,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hưng Mỹ đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3585135",
+            "lng": "105.67058010000004"
+        },
+        {
+            "id": 723100,
+            "name": "Ấp Hưng Mỹ Tây",
+            "pid": 16096,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hưng Mỹ Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3585135",
+            "lng": "105.67058010000004"
+        },
+        {
+            "id": 442869,
+            "name": "Ấp Hưng Qưới 1",
+            "pid": 16096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hưng Qưới 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3585135",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 442871,
+            "name": "Ấp Hưng Qưới 2",
+            "pid": 16096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hưng Qưới 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3585135",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 442867,
+            "name": "Ấp Hưng Thành Tây",
+            "pid": 16096,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hưng Thành Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3585135",
+            "lng": "105.67058010000005"
+        }
+    ],
+    "log_id": "675816c07597d480"
+}

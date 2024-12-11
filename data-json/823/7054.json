@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88073,
+            "name": "Ấp 1 Xã Long Thọ",
+            "pid": 7054,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1 xã Long Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.721919300645926",
+            "lng": "106.95741685064485"
+        },
+        {
+            "id": 88079,
+            "name": "Ấp 2 Xã Long Thọ",
+            "pid": 7054,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2 xã Long Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.717491121325716",
+            "lng": "106.96209637028277"
+        },
+        {
+            "id": 88085,
+            "name": "Ấp 3 Xã Long Thọ",
+            "pid": 7054,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 xã Long Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.70065324697542",
+            "lng": "106.95688033487444"
+        },
+        {
+            "id": 88091,
+            "name": "Ấp 4 Xã Long Thọ",
+            "pid": 7054,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4 xã Long Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.696452535253384",
+            "lng": "106.95624633782366"
+        },
+        {
+            "id": 97325,
+            "name": "Ấp 5 Xã Long Thọ",
+            "pid": 7054,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5 xã Long Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.690095519769265",
+            "lng": "106.95621844230723"
+        },
+        {
+            "id": 983459,
+            "name": "Kcn 6 Nhơn Trạch",
+            "pid": 7054,
+            "type": 5,
+            "region": null,
+            "alias": "KCN 6 Nhơn Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.696841772808352",
+            "lng": "106.9384508009572"
+        },
+        {
+            "id": 790975,
+            "name": "Khu Công Nghiệp 6",
+            "pid": 7054,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Công Nghiệp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.704760286298484",
+            "lng": "106.94979037089627"
+        }
+    ],
+    "log_id": "675814dd46a77726"
+}

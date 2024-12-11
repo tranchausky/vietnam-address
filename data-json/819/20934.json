@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 553191,
+            "name": "Bản Khe Lục",
+            "pid": 20934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khe Lục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4129919",
+            "lng": "107.44402539999999"
+        },
+        {
+            "id": 553193,
+            "name": "Bản Khe Ngàn",
+            "pid": 20934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khe Ngàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4129919",
+            "lng": "107.44402539999999"
+        },
+        {
+            "id": 553195,
+            "name": "Bản Khe Quang",
+            "pid": 20934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khe Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4129919",
+            "lng": "107.44402539999999"
+        },
+        {
+            "id": 553197,
+            "name": "Bản Phai Giác",
+            "pid": 20934,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Phai Giác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4129919",
+            "lng": "107.44402539999999"
+        }
+    ],
+    "log_id": "675814c21bbf6677"
+}

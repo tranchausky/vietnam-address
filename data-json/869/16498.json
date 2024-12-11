@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 833722,
+            "name": "Cây Xăng Đông Lộc Cơ Khí Hữu Thống",
+            "pid": 16498,
+            "type": 21,
+            "region": null,
+            "alias": "Cây Xăng Đông Lộc Cơ Khí Hữu Thống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353"
+        },
+        {
+            "id": 109905,
+            "name": "Thôn Long Phụng",
+            "pid": 16498,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Long Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353"
+        },
+        {
+            "id": 109855,
+            "name": "Thôn Phụng Tường 1",
+            "pid": 16498,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phụng Tường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 13.085734",
+            "lng": "109.256353"
+        },
+        {
+            "id": 109875,
+            "name": "Thôn Phụng Tường 2",
+            "pid": 16498,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phụng Tường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353"
+        },
+        {
+            "id": 109815,
+            "name": "Thôn Phước Khánh",
+            "pid": 16498,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phước Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353 "
+        },
+        {
+            "id": 109839,
+            "name": "Thôn Qui Hậu",
+            "pid": 16498,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Qui Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 13.085734",
+            "lng": "109.256353 "
+        },
+        {
+            "id": 833737,
+            "name": "Trường Trần Suyền",
+            "pid": 16498,
+            "type": 21,
+            "region": null,
+            "alias": "Trường Trần Suyền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353"
+        },
+        {
+            "id": 833728,
+            "name": "Ubnd Xã Hoà Trị",
+            "pid": 16498,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã hoà Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353"
+        },
+        {
+            "id": 833740,
+            "name": "Xóm Cát",
+            "pid": 16498,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.085734",
+            "lng": "109.256353"
+        }
+    ],
+    "log_id": "67590b809d9b7111"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 909883,
+            "name": "Đồng Hương",
+            "pid": 19080,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Hương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5659824",
+            "lng": "106.29929119999996"
+        },
+        {
+            "id": 909871,
+            "name": "Đồng Lương",
+            "pid": 19080,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5659824",
+            "lng": "106.29929119999996"
+        }
+    ],
+    "log_id": "6758133f1715d275"
+}

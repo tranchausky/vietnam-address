@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 743740,
+            "name": "Thôn 1 Công Xá",
+            "pid": 17505,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 công xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5588073",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 397135,
+            "name": "Thôn 1 Mai Xá",
+            "pid": 17505,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1 mai xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.56309089371314, ",
+            "lng": "106.04076450320548"
+        },
+        {
+            "id": 729316,
+            "name": "Thôn 2 Mai Xá",
+            "pid": 17505,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2 mai xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5588073",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 743734,
+            "name": "Thôn 3 Mai Xá",
+            "pid": 17505,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3 mai xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5588073",
+            "lng": "106.03168979999998"
+        },
+        {
+            "id": 667213,
+            "name": "Thôn Công Xá",
+            "pid": 17505,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Công Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5634844",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 667234,
+            "name": "Thôn Mai Xá",
+            "pid": 17505,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mai Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5634844",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 397137,
+            "name": "Xóm 3",
+            "pid": 17505,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5634844",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 397139,
+            "name": "Xóm 6",
+            "pid": 17505,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5634844",
+            "lng": "106.04344489999994"
+        }
+    ],
+    "log_id": "675814281a020403"
+}

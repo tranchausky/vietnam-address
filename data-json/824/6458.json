@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600021,
+            "name": "Đường Ấp Bắc",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ấp Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000003"
+        },
+        {
+            "id": 796927,
+            "name": "Đường Đoàn Thị Nghiệp",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Thị Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000004"
+        },
+        {
+            "id": 600036,
+            "name": "Đường Hồ Văn Nhánh",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồ Văn Nhánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000003"
+        },
+        {
+            "id": 796918,
+            "name": "Đường Lê Việt Thắng",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "đường Lê Việt Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000004"
+        },
+        {
+            "id": 600024,
+            "name": "Đường Lý Thường Kiệt",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thường Kiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000003"
+        },
+        {
+            "id": 600033,
+            "name": "Đường Nguyễn Thị Thập",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Thập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000003"
+        },
+        {
+            "id": 796915,
+            "name": "Đường Phạm Thanh",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000004"
+        },
+        {
+            "id": 600027,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 6458,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3666306",
+            "lng": "106.35237210000003"
+        }
+    ],
+    "log_id": "675814f38b3d4220"
+}

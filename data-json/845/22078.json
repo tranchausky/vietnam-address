@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 588144,
+            "name": "Bản Huổi Lụ 2",
+            "pid": 22078,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huổi Lụ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 588141,
+            "name": "Bản Huổi Lụ 3",
+            "pid": 22078,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huổi Lụ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 588147,
+            "name": "Bản Nậm Chua 1",
+            "pid": 22078,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Chua 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 588150,
+            "name": "Bản Nậm Chua 3",
+            "pid": 22078,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Chua 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 509307,
+            "name": "Bản Nậm Nhừ 1",
+            "pid": 22078,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Nhừ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 588138,
+            "name": "Bản Nậm Nhừ 3",
+            "pid": 22078,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Nhừ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 509305,
+            "name": "Xóm Nậm Chua 2",
+            "pid": 22078,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nậm Chua 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        }
+    ],
+    "log_id": "675816a59a88a781"
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1001536,
+            "name": "An Lý",
+            "pid": 7202,
+            "type": 16,
+            "region": null,
+            "alias": "An Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.727429",
+            "lng": "106.2939151"
+        },
+        {
+            "id": 1002000,
+            "name": "Công Ty George Glory Việt Nam",
+            "pid": 7202,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty George Glory Việt Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6990849",
+            "lng": "106.2985852"
+        },
+        {
+            "id": 1001999,
+            "name": "Công Ty Giày Da Hưng Long",
+            "pid": 7202,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty giày da Hưng Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.699539",
+            "lng": "106.2999323"
+        },
+        {
+            "id": 1001996,
+            "name": "Công Ty Haichuang",
+            "pid": 7202,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty Haichuang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7014951",
+            "lng": "106.3035299"
+        },
+        {
+            "id": 1001995,
+            "name": "Công Ty May Hải Anh",
+            "pid": 7202,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty may Hải Anh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7014951",
+            "lng": "106.3035299"
+        },
+        {
+            "id": 1000646,
+            "name": "Hán Lý",
+            "pid": 7202,
+            "type": 16,
+            "region": null,
+            "alias": "Hán Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.715895",
+            "lng": "106.296079"
+        },
+        {
+            "id": 398037,
+            "name": "Hào Khê",
+            "pid": 7202,
+            "type": 16,
+            "region": null,
+            "alias": "Hào Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7007382",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 1002912,
+            "name": "Karaoke S9",
+            "pid": 7202,
+            "type": 10,
+            "region": null,
+            "alias": "Karaoke S9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.723412",
+            "lng": "106.2939883"
+        },
+        {
+            "id": 398035,
+            "name": "Trại Hào",
+            "pid": 7202,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Hào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7007382",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 1001434,
+            "name": "Văn Diệm",
+            "pid": 7202,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Diệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7204231",
+            "lng": "106.2900006"
+        }
+    ],
+    "log_id": "675813f1b9a36132"
+}

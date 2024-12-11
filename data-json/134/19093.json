@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910072,
+            "name": "Bàng Trên",
+            "pid": 19093,
+            "type": 16,
+            "region": null,
+            "alias": "Bàng Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5344565",
+            "lng": "106.2308862"
+        },
+        {
+            "id": 832369,
+            "name": "Điển Dưới",
+            "pid": 19093,
+            "type": 16,
+            "region": null,
+            "alias": "điển Dưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5344565",
+            "lng": "106.2308862"
+        },
+        {
+            "id": 832363,
+            "name": "Điển Trên",
+            "pid": 19093,
+            "type": 16,
+            "region": null,
+            "alias": "điển Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5344565",
+            "lng": "106.2308862"
+        },
+        {
+            "id": 832366,
+            "name": "Gốc Quýt",
+            "pid": 19093,
+            "type": 16,
+            "region": null,
+            "alias": "Gốc Quýt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5344565",
+            "lng": "106.2308862"
+        },
+        {
+            "id": 910084,
+            "name": "Na Đàn",
+            "pid": 19093,
+            "type": 16,
+            "region": null,
+            "alias": "Na đàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5344565",
+            "lng": "106.2308862"
+        }
+    ],
+    "log_id": "6758133f21b26254"
+}

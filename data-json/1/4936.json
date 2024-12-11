@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877537,
+            "name": "Đường Tân Nhuệ",
+            "pid": 4936,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Nhuệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,089864",
+            "lng": "105,777367"
+        },
+        {
+            "id": 830686,
+            "name": "Đường Thụy Phương",
+            "pid": 4936,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thụy Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0900768",
+            "lng": "105.77723119999996"
+        }
+    ],
+    "log_id": "675811bc9f20a722"
+}

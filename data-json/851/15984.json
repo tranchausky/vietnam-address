@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114721,
+            "name": "Ấp Hai Tốt",
+            "pid": 15984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hai Tốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.902389",
+            "lng": "105.093250"
+        },
+        {
+            "id": 114659,
+            "name": "Ấp Mương 40",
+            "pid": 15984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương 40",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.877444",
+            "lng": "105.091972"
+        },
+        {
+            "id": 114739,
+            "name": "Ấp Mương Chùa",
+            "pid": 15984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.885500",
+            "lng": "105.080472"
+        },
+        {
+            "id": 115131,
+            "name": "Ấp Ngã Bát",
+            "pid": 15984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngã Bát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.866111",
+            "lng": "105.109833"
+        },
+        {
+            "id": 114687,
+            "name": "Ấp Rẩy Mới",
+            "pid": 15984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rẩy Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.846056",
+            "lng": "105.094861"
+        },
+        {
+            "id": 115133,
+            "name": "Ấp Rọc Lá",
+            "pid": 15984,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rọc Lá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.846722",
+            "lng": "105.085056"
+        }
+    ],
+    "log_id": "6758173636a47109"
+}

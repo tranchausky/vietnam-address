@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110643,
+            "name": "Ấp Bắc Dần",
+            "pid": 7605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc Dần",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.572148",
+            "lng": "105.896277 "
+        },
+        {
+            "id": 110663,
+            "name": "Ấp Bét Tôn",
+            "pid": 7605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bét Tôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.556470",
+            "lng": "105.869320"
+        },
+        {
+            "id": 110593,
+            "name": "Ấp Bưng Cóc",
+            "pid": 7605,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bưng Cóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.58799",
+            "lng": "105.89854"
+        },
+        {
+            "id": 110633,
+            "name": "Ấp Đai Úi",
+            "pid": 7605,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Đai Úi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.56710",
+            "lng": "105.89654"
+        },
+        {
+            "id": 110991,
+            "name": "Ấp Phú Tức",
+            "pid": 7605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Tức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.593788",
+            "lng": "105.942603 "
+        },
+        {
+            "id": 111003,
+            "name": "Ấp Sóc Xoài",
+            "pid": 7605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Xoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.593788",
+            "lng": "105.942603 "
+        },
+        {
+            "id": 110651,
+            "name": "Ấp Tá Biên",
+            "pid": 7605,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tá Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.536811",
+            "lng": "105.866449 "
+        }
+    ],
+    "log_id": "675909c17cdb0343"
+}

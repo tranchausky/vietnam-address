@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 759019,
+            "name": "Thôn 6",
+            "pid": 19696,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2950214",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 843340,
+            "name": "Thôn A Xay",
+            "pid": 19696,
+            "type": 16,
+            "region": null,
+            "alias": "thôn A xay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2950214",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 818680,
+            "name": "Thôn Hòn Dù",
+            "pid": 19696,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hòn Dù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2950214",
+            "lng": "108.89674089999994"
+        },
+        {
+            "id": 843337,
+            "name": "Thôn Hòn Dù",
+            "pid": 19696,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hòn Dù",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2950214",
+            "lng": "108.89674089999994"
+        }
+    ],
+    "log_id": "675815859fbcb370"
+}

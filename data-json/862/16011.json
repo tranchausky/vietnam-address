@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109979,
+            "name": "Khu Phố Hiệp An",
+            "pid": 16011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.295806",
+            "lng": "106.121101"
+        },
+        {
+            "id": 109657,
+            "name": "Khu Phố Hiệp Định",
+            "pid": 16011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.299941",
+            "lng": "106.125908"
+        },
+        {
+            "id": 109473,
+            "name": "Khu Phố Hiệp Hòa",
+            "pid": 16011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.293016",
+            "lng": "106.110013"
+        },
+        {
+            "id": 109901,
+            "name": "Khu Phố Hiệp Long",
+            "pid": 16011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.292661",
+            "lng": "106.121148"
+        },
+        {
+            "id": 112209,
+            "name": "Khu Phố Hiệp Trường",
+            "pid": 16011,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.280196",
+            "lng": "106.105913"
+        },
+        {
+            "id": 990903,
+            "name": "Trường Chính Trị",
+            "pid": 16011,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Chính Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.291274",
+            "lng": "106.098071"
+        }
+    ],
+    "log_id": "675909dce32ea364"
+}

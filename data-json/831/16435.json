@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 978620,
+            "name": "Chợ Cam Hòa",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "CHỢ CAM HÒA",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.106338",
+            "lng": "109.136989"
+        },
+        {
+            "id": 843259,
+            "name": "Lam Sơn",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Lam Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.124952699999998",
+            "lng": "109.13449259999993"
+        },
+        {
+            "id": 112107,
+            "name": "Thôn Cửu Lợi 1",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cửu Lợi 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1107444",
+            "lng": "109.1291596"
+        },
+        {
+            "id": 112193,
+            "name": "Thôn Cửu Lợi 2",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cửu Lợi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1077341",
+            "lng": "109.1341654"
+        },
+        {
+            "id": 112037,
+            "name": "Thôn Cửu Lợi 3",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cửu Lợi 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1107497",
+            "lng": "109.1291553"
+        },
+        {
+            "id": 965996,
+            "name": "Thôn Lập Định",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1107444",
+            "lng": "109.1291596"
+        },
+        {
+            "id": 112049,
+            "name": "Thôn Lập Định 1",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Định 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2584888",
+            "lng": "109.0527256"
+        },
+        {
+            "id": 112065,
+            "name": "Thôn Lập Định 2",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Định 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1051446,",
+            "lng": "109.1166864"
+        },
+        {
+            "id": 112079,
+            "name": "Thôn Lập Định 3",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Định 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0875079",
+            "lng": "109.1177421"
+        },
+        {
+            "id": 112205,
+            "name": "Thôn Văn Tứ Đông",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Tứ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2586946",
+            "lng": "109.0526962"
+        },
+        {
+            "id": 112211,
+            "name": "Thôn Văn Tứ Tây",
+            "pid": 16435,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Tứ Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1056223",
+            "lng": "109.1408400"
+        }
+    ],
+    "log_id": "67581585d65de300"
+}

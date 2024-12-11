@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 429089,
+            "name": "Bản Mồ Sì San",
+            "pid": 15532,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mồ Sì San",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7592214",
+            "lng": "103.39916659999994"
+        },
+        {
+            "id": 429091,
+            "name": "Bản Séo Hồ Thầu",
+            "pid": 15532,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Séo Hồ Thầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7592214",
+            "lng": "103.39916659999994"
+        },
+        {
+            "id": 429093,
+            "name": "Bản Tân Séo Phìn",
+            "pid": 15532,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tân Séo Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7592214",
+            "lng": "103.39916659999994"
+        }
+    ],
+    "log_id": "6758175e6e5fa65"
+}

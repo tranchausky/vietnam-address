@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 997713,
+            "name": "Đường Đoàn Thị Điểm",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Thị Điểm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.654588659141384",
+            "lng": "106.60241389611143"
+        },
+        {
+            "id": 997697,
+            "name": "Đường Thủ Khoa Huân",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thủ Khoa Huân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.656859548979233",
+            "lng": "106.60703648393014"
+        },
+        {
+            "id": 997698,
+            "name": "Đường Trần Phú",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.653893903318725",
+            "lng": "106.60423106112425"
+        },
+        {
+            "id": 997741,
+            "name": "Khu Phố Bình An",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 997744,
+            "name": "Khu Phố Bình Tân",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Bình Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 997743,
+            "name": "Khu Phố Phú An",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 997747,
+            "name": "Khu Phố Phú Cường",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 997746,
+            "name": "Khu Phố Phú Sơn",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 997739,
+            "name": "Khu Phố Phú Trung",
+            "pid": 19825,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6630859",
+            "lng": "106.58449910000001"
+        },
+        {
+            "id": 997694,
+            "name": "Lẻ 1-75 Bùi Thị Xuân",
+            "pid": 19825,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1-75 Bùi Thị Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.657530614328557",
+            "lng": "106.60685394024026"
+        },
+        {
+            "id": 997758,
+            "name": "Lẻ 75-349 Nguyễn Huệ",
+            "pid": 19825,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 75-349 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.645079960346294",
+            "lng": "106.60700037877379"
+        },
+        {
+            "id": 997759,
+            "name": "Lẻ 351-617 Nguyễn Huệ",
+            "pid": 19825,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 351-617 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.645079960346294",
+            "lng": "106.60700037877379"
+        },
+        {
+            "id": 997648,
+            "name": "Trường Mầm Non Họa Mi",
+            "pid": 19825,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mầm Non Họa Mi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.651047654180589",
+            "lng": "106.60496613491549"
+        }
+    ],
+    "log_id": "675816377d951124"
+}

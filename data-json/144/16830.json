@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834187,
+            "name": "Cửa Đền",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Cửa đền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 792931,
+            "name": "Day",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Day",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 792922,
+            "name": "Quyet Tien",
+            "pid": 16830,
+            "type": 18,
+            "region": null,
+            "alias": "Quyet Tien",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 807103,
+            "name": "Tăng Sơn",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Tăng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 792970,
+            "name": "Thon Day",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Thon Day",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 807106,
+            "name": "Thôn Tăng Sơn",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tăng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 792943,
+            "name": "Thon Yêm",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Thon Yêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 792925,
+            "name": "Trung Hoa",
+            "pid": 16830,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hoa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        },
+        {
+            "id": 792952,
+            "name": "Yem",
+            "pid": 16830,
+            "type": 18,
+            "region": null,
+            "alias": "Yem",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3649348",
+            "lng": "105.9232128"
+        }
+    ],
+    "log_id": "675813d9217eb298"
+}

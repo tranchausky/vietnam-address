@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1460,
+            "name": "Huyện Cờ Đỏ",
+            "pid": 806,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cờ Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0972302",
+            "lng": "105.43044229999998"
+        },
+        {
+            "id": 1461,
+            "name": "Huyện Phong Điền",
+            "pid": 806,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phong Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9967657",
+            "lng": "105.66866110000001"
+        },
+        {
+            "id": 1462,
+            "name": "Huyện Thới Lai",
+            "pid": 806,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thới Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0681881",
+            "lng": "105.55997279999997"
+        },
+        {
+            "id": 1463,
+            "name": "Huyện Vĩnh Thạnh",
+            "pid": 806,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Vĩnh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2322696",
+            "lng": "105.39870339999993"
+        },
+        {
+            "id": 1464,
+            "name": "Quận Bình Thủy",
+            "pid": 806,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Bình Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0622567",
+            "lng": "105.73810170000002"
+        },
+        {
+            "id": 1465,
+            "name": "Quận Cái Răng",
+            "pid": 806,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Cái Răng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9992392",
+            "lng": "105.80435720000003"
+        },
+        {
+            "id": 1466,
+            "name": "Quận Ninh Kiều",
+            "pid": 806,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Ninh Kiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0272537",
+            "lng": "105.76980389999994"
+        },
+        {
+            "id": 1467,
+            "name": "Quận Ô Môn",
+            "pid": 806,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Ô Môn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1164943",
+            "lng": "105.63264570000001"
+        },
+        {
+            "id": 1468,
+            "name": "Quận Thốt Nốt",
+            "pid": 806,
+            "type": 3,
+            "region": null,
+            "alias": "Quận Thốt Nốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2405338",
+            "lng": "105.53368150000006"
+        }
+    ],
+    "log_id": "6758140c4e2d9833"
+}

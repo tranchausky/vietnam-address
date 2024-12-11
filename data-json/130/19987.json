@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 650563,
+            "name": "Bản Liềng",
+            "pid": 19987,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Liềng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "103.31618467728045",
+            "lng": "20.930828797104546"
+        },
+        {
+            "id": 733981,
+            "name": "Bản Mạt",
+            "pid": 19987,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mạt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8769403",
+            "lng": "103.33562719999998"
+        },
+        {
+            "id": 650626,
+            "name": "Bản Sam Quảng",
+            "pid": 19987,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Sam Quảng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 103.33203772687007",
+            "lng": "20.880637777864386"
+        }
+    ],
+    "log_id": "675812ef13a73722"
+}

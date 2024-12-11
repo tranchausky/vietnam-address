@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 400529,
+            "name": "Xóm Bình An",
+            "pid": 20492,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.72337",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 400531,
+            "name": "Xóm Lê Lợi",
+            "pid": 20492,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lê Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.72337",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 400533,
+            "name": "Xóm Minh Khai",
+            "pid": 20492,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.72337",
+            "lng": "105.90536889999998"
+        },
+        {
+            "id": 400535,
+            "name": "Xóm Nặm Rằng",
+            "pid": 20492,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nặm Rằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.72337",
+            "lng": "105.90536889999998"
+        }
+    ],
+    "log_id": "6758166272be5949"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 763012,
+            "name": "Đại Đồng",
+            "pid": 7158,
+            "type": 16,
+            "region": null,
+            "alias": "đại đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933631",
+            "lng": "106.52010840000004"
+        },
+        {
+            "id": 763009,
+            "name": "Đồng Xá Bắc",
+            "pid": 7158,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Xá Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933631",
+            "lng": "106.52010840000004"
+        },
+        {
+            "id": 763003,
+            "name": "Đồng Xá Nam",
+            "pid": 7158,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Xá Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 763018,
+            "name": "Phí Gia",
+            "pid": 7158,
+            "type": 16,
+            "region": null,
+            "alias": "Phí Gia",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933631",
+            "lng": "106.52010840000004"
+        },
+        {
+            "id": 763006,
+            "name": "Thị Tứ",
+            "pid": 7158,
+            "type": 16,
+            "region": null,
+            "alias": "Thị Tứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8933631",
+            "lng": "106.52010840000004"
+        }
+    ],
+    "log_id": "675813f1f32a7803"
+}

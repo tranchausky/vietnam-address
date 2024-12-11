@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115765,
+            "name": "Ấp Phú Hiệp",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.702865",
+            "lng": "105.3306814"
+        },
+        {
+            "id": 115771,
+            "name": "Ấp Phú Hữu",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hữu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.716083453316038",
+            "lng": "105.30842898476276"
+        },
+        {
+            "id": 115753,
+            "name": "Ấp Phú Trường",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.702865",
+            "lng": "105.3306814"
+        },
+        {
+            "id": 977184,
+            "name": "Ấp Phú Trường",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.694947",
+            "lng": "105.331013"
+        },
+        {
+            "id": 115761,
+            "name": "Ấp Phú Vinh",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.702865",
+            "lng": "105.3306814"
+        },
+        {
+            "id": 115757,
+            "name": "Ấp Phú Xương",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Xương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.702865",
+            "lng": "105.3306814"
+        },
+        {
+            "id": 977188,
+            "name": "Ấp Phú Xương",
+            "pid": 16592,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phú Xương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.706066",
+            "lng": "105.341456 "
+        }
+    ],
+    "log_id": "6758159dac97b731"
+}

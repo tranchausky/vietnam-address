@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98084,
+            "name": "Thôn 168",
+            "pid": 18365,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 168",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.735094",
+            "lng": "105.453113"
+        },
+        {
+            "id": 98078,
+            "name": "Thôn Kim Đức",
+            "pid": 18365,
+            "type": 16,
+            "region": null,
+            "alias": "thôn kim đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.750335",
+            "lng": "105.461240"
+        },
+        {
+            "id": 395163,
+            "name": "Xóm Đầm Rừng",
+            "pid": 18365,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đầm Rừng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7144946",
+            "lng": "105.4478131"
+        },
+        {
+            "id": 395161,
+            "name": "Xóm Suối Rèo",
+            "pid": 18365,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Suối Rèo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7144946",
+            "lng": "105.4478131"
+        },
+        {
+            "id": 395155,
+            "name": "Xóm Thao Cả",
+            "pid": 18365,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thao Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7144946",
+            "lng": "105.4478131"
+        },
+        {
+            "id": 395157,
+            "name": "Xóm Thao Con",
+            "pid": 18365,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thao Con",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7144946",
+            "lng": "105.4478131"
+        },
+        {
+            "id": 395159,
+            "name": "Xóm Vó Cối",
+            "pid": 18365,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Vó Cối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7144946",
+            "lng": "105.4478131"
+        }
+    ],
+    "log_id": "67581721322ea537"
+}

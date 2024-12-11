@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 706546,
+            "name": "Khu Phố 2 Phường Phước Nguyên",
+            "pid": 6597,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 phường phước nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 706552,
+            "name": "Khu Phố 3",
+            "pid": 6597,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 706570,
+            "name": "Khu Phố 4",
+            "pid": 6597,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 706582,
+            "name": "Khu Phố 5",
+            "pid": 6597,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 706591,
+            "name": "Khu Phố 6",
+            "pid": 6597,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        }
+    ],
+    "log_id": "675815b4136df582"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410477,
+            "name": "Thôn Đông Hồ",
+            "pid": 20682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5454376",
+            "lng": "106.47298109999997"
+        },
+        {
+            "id": 410475,
+            "name": "Thôn Đông Hòa",
+            "pid": 20682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5454376",
+            "lng": "106.47298109999997"
+        },
+        {
+            "id": 410479,
+            "name": "Thôn Phong Lẫm",
+            "pid": 20682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phong Lẫm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5454376",
+            "lng": "106.47298109999997"
+        }
+    ],
+    "log_id": "675909f3bbe41479"
+}

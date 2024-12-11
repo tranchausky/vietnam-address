@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 885886,
+            "name": "Ấp 1",
+            "pid": 15823,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        },
+        {
+            "id": 775897,
+            "name": "Ấp 2",
+            "pid": 15823,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        },
+        {
+            "id": 747481,
+            "name": "Ấp 3",
+            "pid": 15823,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        },
+        {
+            "id": 885904,
+            "name": "Ấp 4",
+            "pid": 15823,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        },
+        {
+            "id": 885892,
+            "name": "Ấp 5",
+            "pid": 15823,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        },
+        {
+            "id": 772042,
+            "name": "Ấp 6",
+            "pid": 15823,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        },
+        {
+            "id": 999941,
+            "name": "Khu Dân Cư 134",
+            "pid": 15823,
+            "type": 21,
+            "region": null,
+            "alias": "Khu dân cư 134",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.605555",
+            "lng": "107.048836"
+        },
+        {
+            "id": 1001594,
+            "name": "Ngã 3 Chợ 12 Ấp 4",
+            "pid": 15823,
+            "type": 21,
+            "region": null,
+            "alias": "Ngã 3 chợ 12 ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6205328",
+            "lng": "107.03045539999994"
+        }
+    ],
+    "log_id": "67581637843d2909"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397969,
+            "name": "Kim Chuế",
+            "pid": 7192,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Chuế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7649296",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 397975,
+            "name": "Trại Mũa",
+            "pid": 7192,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Mũa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7649296",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 397971,
+            "name": "Ứng Mộ",
+            "pid": 7192,
+            "type": 16,
+            "region": null,
+            "alias": "Ứng Mộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7649296",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 397973,
+            "name": "Vân Cầu",
+            "pid": 7192,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7649296",
+            "lng": "106.29634859999999"
+        }
+    ],
+    "log_id": "675813f1b9f9d310"
+}

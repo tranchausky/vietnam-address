@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 775924,
+            "name": "An Chánh",
+            "pid": 18442,
+            "type": 16,
+            "region": null,
+            "alias": "An Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.947942800000002",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 650827,
+            "name": "Thôn Mỹ An",
+            "pid": 18442,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9479428",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 650824,
+            "name": "Thôn Mỹ Thuận",
+            "pid": 18442,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9479428",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 858985,
+            "name": "Trường Thcs Tây Bình",
+            "pid": 18442,
+            "type": 9,
+            "region": null,
+            "alias": "trường THCS tây bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9479428",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 751858,
+            "name": "Trường Tiểu Học Tây Bình",
+            "pid": 18442,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Tây Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.947942800000002",
+            "lng": "108.85514839999996"
+        }
+    ],
+    "log_id": "6758150db2aa0568"
+}

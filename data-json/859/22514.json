@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 468261,
+            "name": "A Liêng",
+            "pid": 22514,
+            "type": 16,
+            "region": null,
+            "alias": "A liêng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6343749",
+            "lng": "107.69256740000003"
+        },
+        {
+            "id": 468259,
+            "name": "Tà Đắc",
+            "pid": 22514,
+            "type": 16,
+            "region": null,
+            "alias": "Tà Đắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6343749",
+            "lng": "107.69256740000003"
+        },
+        {
+            "id": 468263,
+            "name": "Thôn Galê",
+            "pid": 22514,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn GaLê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6343749",
+            "lng": "107.69256740000003"
+        }
+    ],
+    "log_id": "675817e1b8765114"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 650587,
+            "name": "Thôn Hòa Thuận",
+            "pid": 18445,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hòa thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.001973",
+            "lng": "108.792567"
+        },
+        {
+            "id": 650572,
+            "name": "Thôn Thượng Sơn 1",
+            "pid": 18445,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thượng sơn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": " 14.001973",
+            "lng": "108.792567"
+        },
+        {
+            "id": 650584,
+            "name": "Thôn Tiên Thuận -",
+            "pid": 18445,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tiên thuận -",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.001973",
+            "lng": "108.792567"
+        },
+        {
+            "id": 650578,
+            "name": "Thôn Trung Sơn-",
+            "pid": 18445,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trung sơn-",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.001973",
+            "lng": "108.792567"
+        },
+        {
+            "id": 700768,
+            "name": "Xóm 5",
+            "pid": 18445,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.001973",
+            "lng": "108.792567"
+        }
+    ],
+    "log_id": "6758150daf699503"
+}

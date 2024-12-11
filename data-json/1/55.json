@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829708,
+            "name": "Đường Khâm Thiên",
+            "pid": 55,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Khâm Thiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.019454",
+            "lng": "105.83857050000006"
+        },
+        {
+            "id": 877264,
+            "name": "Đường Trung Phụng",
+            "pid": 55,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trung Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,019516",
+            "lng": "105,836256"
+        },
+        {
+            "id": 19071,
+            "name": "Ngõ Hồ Bãi Cát",
+            "pid": 55,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ Hồ Bãi Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0173455",
+            "lng": "105.83978079999997"
+        }
+    ],
+    "log_id": "675811bbd4605188"
+}

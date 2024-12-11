@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 818698,
+            "name": "Khải Lương",
+            "pid": 19713,
+            "type": 16,
+            "region": null,
+            "alias": "khải lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.652397",
+            "lng": "109.414098"
+        },
+        {
+            "id": 456219,
+            "name": "Thôn Đầm Môn",
+            "pid": 19713,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN ĐẦM MÔN",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.652397",
+            "lng": "109.414098"
+        },
+        {
+            "id": 990639,
+            "name": "Thôn Điệp Sơn",
+            "pid": 19713,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Điệp Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.691508090183058",
+            "lng": "109.22430905488612"
+        },
+        {
+            "id": 456223,
+            "name": "Thôn Khải Lương",
+            "pid": 19713,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN KHẢI LƯƠNG",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.652397",
+            "lng": "109.414098"
+        },
+        {
+            "id": 990636,
+            "name": "Thôn Khải Lương",
+            "pid": 19713,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Khải Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.691466223381763",
+            "lng": "109.22435197022757"
+        },
+        {
+            "id": 990638,
+            "name": "Thôn Ninh Đảo",
+            "pid": 19713,
+            "type": 20,
+            "region": null,
+            "alias": "thôn Ninh Đảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.691717424086137",
+            "lng": "109.22405156283752"
+        },
+        {
+            "id": 990637,
+            "name": "Thôn Ninh Tân",
+            "pid": 19713,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Ninh Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.691215022429368",
+            "lng": "109.2242661395447"
+        },
+        {
+            "id": 456221,
+            "name": "Thôn Vĩnh Yên",
+            "pid": 19713,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN VĨNH YÊN",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.652397",
+            "lng": "109.414098"
+        }
+    ],
+    "log_id": "67581585a4e50692"
+}

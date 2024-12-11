@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846469,
+            "name": "Làng Càng 1",
+            "pid": 19838,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Càng 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6746569",
+            "lng": "106.54072989999996"
+        },
+        {
+            "id": 846472,
+            "name": "Làng Càng 2",
+            "pid": 19838,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Càng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6746569",
+            "lng": "106.54072989999996"
+        },
+        {
+            "id": 827257,
+            "name": "Mỏ Ba",
+            "pid": 19838,
+            "type": 16,
+            "region": null,
+            "alias": "Mỏ Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6746569",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 846475,
+            "name": "Pa Làng",
+            "pid": 19838,
+            "type": 16,
+            "region": null,
+            "alias": "Pa Làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6746569",
+            "lng": "106.54072989999996"
+        },
+        {
+            "id": 871987,
+            "name": "Thôn Mỏ Cống",
+            "pid": 19838,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Mỏ Cống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6746569",
+            "lng": "106.54072989999996"
+        },
+        {
+            "id": 871990,
+            "name": "Thôn Tồng Càn",
+            "pid": 19838,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tồng Càn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6746569",
+            "lng": "106.54072989999996"
+        }
+    ],
+    "log_id": "6758133f29403378"
+}

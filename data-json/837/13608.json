@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 794500,
+            "name": "Ấp Thượng",
+            "pid": 13608,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2182557",
+            "lng": "106.003046"
+        },
+        {
+            "id": 414565,
+            "name": "Bằng Lục",
+            "pid": 13608,
+            "type": 16,
+            "region": null,
+            "alias": "Bằng Lục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2037529",
+            "lng": "106.0144293"
+        },
+        {
+            "id": 414567,
+            "name": "Đông Tảo",
+            "pid": 13608,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Tảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2097842",
+            "lng": "106.0225403"
+        },
+        {
+            "id": 414561,
+            "name": "Lạc Nhuế",
+            "pid": 13608,
+            "type": 16,
+            "region": null,
+            "alias": "Lạc Nhuế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2062283",
+            "lng": "106.0046554"
+        },
+        {
+            "id": 414563,
+            "name": "Thiểm Xuyên",
+            "pid": 13608,
+            "type": 16,
+            "region": null,
+            "alias": "Thiểm Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2213737",
+            "lng": "106.0182489"
+        }
+    ],
+    "log_id": "675815f8d7209225"
+}

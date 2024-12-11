@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437107,
+            "name": "Khóm Đông An",
+            "pid": 15671,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Đông An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0451829",
+            "lng": "105.8361807"
+        },
+        {
+            "id": 437109,
+            "name": "Khóm Đông Bình",
+            "pid": 15671,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Đông Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0451829",
+            "lng": "105.8361807"
+        },
+        {
+            "id": 437103,
+            "name": "Khóm Đông Bình A",
+            "pid": 15671,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Đông Bình A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0451829",
+            "lng": "105.8361807"
+        },
+        {
+            "id": 437105,
+            "name": "Khóm Đông Bình B",
+            "pid": 15671,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Đông Bình B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0451829",
+            "lng": "105.8361807"
+        },
+        {
+            "id": 437111,
+            "name": "Khóm Đông Thuận",
+            "pid": 15671,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Đông Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0451829",
+            "lng": "105.8361807"
+        }
+    ],
+    "log_id": "67590b599c672243"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 812782,
+            "name": "Thôn An Bàng",
+            "pid": 15519,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0431887",
+            "lng": "108.85069229999999"
+        },
+        {
+            "id": 702169,
+            "name": "Thôn Vạn Mỹ",
+            "pid": 15519,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vạn Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.043188699999998",
+            "lng": "108.85069229999999"
+        }
+    ],
+    "log_id": "675909a4d689c791"
+}

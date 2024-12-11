@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981975,
+            "name": "Đường Huỳnh Thúc Kháng",
+            "pid": 5322,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Thúc Kháng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981978,
+            "name": "Đường Nguyễn Trường Tộ",
+            "pid": 5322,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trường Tộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675812d17062e120"
+}

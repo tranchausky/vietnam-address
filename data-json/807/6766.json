@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 397939,
+            "name": "Thôn Gốm",
+            "pid": 6766,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gốm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5990855",
+            "lng": "105.84957959999997"
+        },
+        {
+            "id": 397943,
+            "name": "Thôn Hồi Trung",
+            "pid": 6766,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hồi Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5990855",
+            "lng": "105.84957959999997"
+        },
+        {
+            "id": 397941,
+            "name": "Thôn Trung Hòa",
+            "pid": 6766,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5990855",
+            "lng": "105.84957959999997"
+        }
+    ],
+    "log_id": "6758142817e1d557"
+}

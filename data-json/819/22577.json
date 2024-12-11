@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 552869,
+            "name": "Khu 1",
+            "pid": 22577,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9725919",
+            "lng": "107.76414440000008"
+        },
+        {
+            "id": 552871,
+            "name": "Khu 2",
+            "pid": 22577,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9725919",
+            "lng": "107.76414440000008"
+        },
+        {
+            "id": 552873,
+            "name": "Khu 3",
+            "pid": 22577,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9725919",
+            "lng": "107.76414440000008"
+        },
+        {
+            "id": 552875,
+            "name": "Khu 4",
+            "pid": 22577,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9725919",
+            "lng": "107.76414440000008"
+        },
+        {
+            "id": 57396,
+            "name": "Trung Tâm Truyền Thông Và Văn Hóa Huyện Cô Tô",
+            "pid": 22577,
+            "type": 4,
+            "region": null,
+            "alias": "Trung tâm Truyền thông và Văn hóa huyện Cô Tô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        }
+    ],
+    "log_id": "675814c24f783679"
+}

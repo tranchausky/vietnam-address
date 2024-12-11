@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 607290,
+            "name": "Xóm Gò Chè",
+            "pid": 18346,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Gò Chè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6580696",
+            "lng": "105.56155439999998"
+        },
+        {
+            "id": 607296,
+            "name": "Xóm Mến",
+            "pid": 18346,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6580696",
+            "lng": "105.56155439999998"
+        },
+        {
+            "id": 607299,
+            "name": "Xóm Mến Bôi",
+            "pid": 18346,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mến Bôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6580696",
+            "lng": "105.56155439999998"
+        },
+        {
+            "id": 607293,
+            "name": "Xóm Trò",
+            "pid": 18346,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6580696",
+            "lng": "105.56155439999998"
+        }
+    ],
+    "log_id": "675817212c2fb612"
+}

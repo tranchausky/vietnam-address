@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424533,
+            "name": "Nhân Mỹ",
+            "pid": 6368,
+            "type": 18,
+            "region": null,
+            "alias": "Nhân Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424535,
+            "name": "Phú Ninh, Thanh Vân",
+            "pid": 6368,
+            "type": 18,
+            "region": null,
+            "alias": "Phú Ninh, Thanh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424543,
+            "name": "Thôn Phúc Lai",
+            "pid": 6368,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phúc lai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424539,
+            "name": "Thôn Viên Du",
+            "pid": 6368,
+            "type": 16,
+            "region": null,
+            "alias": "thôn viên du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424531,
+            "name": "Thôn Xuân Trường, Thanh Vân",
+            "pid": 6368,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân trường, Thanh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424525,
+            "name": "Xóm Đình",
+            "pid": 6368,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424529,
+            "name": "Xóm Giềng",
+            "pid": 6368,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Giềng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424537,
+            "name": "Xóm Mới",
+            "pid": 6368,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 424527,
+            "name": "Xóm Trại",
+            "pid": 6368,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3407063",
+            "lng": "105.57674930000007"
+        }
+    ],
+    "log_id": "6758153349ada180"
+}

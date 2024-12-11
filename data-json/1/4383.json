@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113213,
+            "name": "Thôn Cát Động",
+            "pid": 4383,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cát Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.758364",
+            "lng": "20.856350"
+        },
+        {
+            "id": 113197,
+            "name": "Thôn Kim Bài",
+            "pid": 4383,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.767575",
+            "lng": "20.856542"
+        },
+        {
+            "id": 113177,
+            "name": "Thôn Kim Lâm",
+            "pid": 4383,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.771530",
+            "lng": "20.853569"
+        },
+        {
+            "id": 53610,
+            "name": "Thpt Bắc Hà",
+            "pid": 4383,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Bắc Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55502,
+            "name": "Ubnd Huyện Thanh Oai",
+            "pid": 4383,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Huyện Thanh Oai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55418,
+            "name": "Ubnd Thị Trấn Kim Bài",
+            "pid": 4383,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Thị trấn Kim Bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 114749,
+            "name": "Xóm 2 Thị Trấn Kim Bài",
+            "pid": 4383,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2 Thị Trấn Kim Bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.768566",
+            "lng": "20.854081"
+        },
+        {
+            "id": 114771,
+            "name": "Xóm 3 Làng Kim Bài",
+            "pid": 4383,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3 Làng Kim Bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.762551",
+            "lng": "20.852676"
+        },
+        {
+            "id": 114815,
+            "name": "Xóm 4 Làng Kim Bài",
+            "pid": 4383,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 4 Làng Kim Bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 105.768608",
+            "lng": "20.852796"
+        },
+        {
+            "id": 114903,
+            "name": "Xóm Chùa Kim Bài",
+            "pid": 4383,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm chùa kim bài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.763477",
+            "lng": "20.852653"
+        },
+        {
+            "id": 114853,
+            "name": "Xóm Đồng Tâm",
+            "pid": 4383,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.764811",
+            "lng": "20.850823"
+        },
+        {
+            "id": 114887,
+            "name": "Xóm Lẻ Kim Lâm",
+            "pid": 4383,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lẻ Kim Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.769478",
+            "lng": "20.847509"
+        }
+    ],
+    "log_id": "675811bd5470e716"
+}

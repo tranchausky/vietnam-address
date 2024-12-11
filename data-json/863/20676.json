@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410547,
+            "name": "Thôn An Định",
+            "pid": 20676,
+            "type": 9,
+            "region": null,
+            "alias": "Thôn An Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5870745",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410549,
+            "name": "Thôn Hoành Sơn",
+            "pid": 20676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoành Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5870745",
+            "lng": "106.52010840000003"
+        },
+        {
+            "id": 410551,
+            "name": "Thôn Văn Tràng",
+            "pid": 20676,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Tràng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5870745",
+            "lng": "106.52010840000003"
+        }
+    ],
+    "log_id": "675909f3b56b0626"
+}

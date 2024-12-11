@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 399675,
+            "name": "Cao Bình",
+            "pid": 13830,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6796972",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 399673,
+            "name": "Đà Quận",
+            "pid": 13830,
+            "type": 16,
+            "region": null,
+            "alias": "Đà Quận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6796972",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 399667,
+            "name": "Nam Phong 1",
+            "pid": 13830,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Phong 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6796972",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 399669,
+            "name": "Nam Phong 2",
+            "pid": 13830,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Phong 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6796972",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 399671,
+            "name": "Nam Phong 3",
+            "pid": 13830,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Phong 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6796972",
+            "lng": "106.19044259999998"
+        },
+        {
+            "id": 399677,
+            "name": "Ngọc Quyến",
+            "pid": 13830,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Quyến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6796972",
+            "lng": "106.19044259999998"
+        }
+    ],
+    "log_id": "67581662ac8e2623"
+}

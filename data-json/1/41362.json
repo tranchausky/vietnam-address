@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 830545,
+            "name": "Đường Tân Mai",
+            "pid": 41362,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tân Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.983687",
+            "lng": "105.84815600000002"
+        },
+        {
+            "id": 699,
+            "name": "Nguyễn Chính",
+            "pid": 41362,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9799195",
+            "lng": "105.84799279999993"
+        },
+        {
+            "id": 681,
+            "name": "Tân Mai",
+            "pid": 41362,
+            "type": 2,
+            "region": null,
+            "alias": "Tân Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.983687",
+            "lng": "105.84815600000002"
+        }
+    ],
+    "log_id": "675811bd52ab9654"
+}

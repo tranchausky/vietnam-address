@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111645,
+            "name": "Thôn Đông Dinh",
+            "pid": 16443,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Dinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.228454",
+            "lng": "109.104845"
+        },
+        {
+            "id": 111677,
+            "name": "Thôn Phước Trạch",
+            "pid": 16443,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.228454",
+            "lng": "109.104845"
+        },
+        {
+            "id": 111663,
+            "name": "Thôn Trung Nam",
+            "pid": 16443,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.228454",
+            "lng": "109.104845"
+        }
+    ],
+    "log_id": "67581585b284a644"
+}

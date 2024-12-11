@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758575,
+            "name": "Nó Hém",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Nó Hém",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999996"
+        },
+        {
+            "id": 396071,
+            "name": "Xóm Cò Sa",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cò Sa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999995"
+        },
+        {
+            "id": 758569,
+            "name": "Xóm Mó Hém",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mó Hém",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999996"
+        },
+        {
+            "id": 835135,
+            "name": "Xóm Mực",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mực",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999996"
+        },
+        {
+            "id": 758578,
+            "name": "Xóm Nà Mát",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Mát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999996"
+        },
+        {
+            "id": 99116,
+            "name": "Xóm Oi Nọi",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "xóm oi nọi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.171931,105.4251153",
+            "lng": "105.4251153"
+        },
+        {
+            "id": 758572,
+            "name": "Xóm Trê",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999996"
+        },
+        {
+            "id": 396073,
+            "name": "Xóm Túp",
+            "pid": 20845,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Túp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7853283",
+            "lng": "105.11420109999995"
+        }
+    ],
+    "log_id": "6758172118914187"
+}

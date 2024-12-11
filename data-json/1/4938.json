@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1112,
+            "name": "An Dương Vương",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "An Dương Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0520539",
+            "lng": "105.74685350000004"
+        },
+        {
+            "id": 748,
+            "name": "Đông Ngạc",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Đông Ngạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0919168",
+            "lng": "105.78500220000001"
+        },
+        {
+            "id": 877084,
+            "name": "Đường Đỗ Nhuận",
+            "pid": 4938,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đỗ Nhuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,071568",
+            "lng": "105,797171"
+        },
+        {
+            "id": 913,
+            "name": "Hoàng Tăng Bí",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Hoàng Tăng Bí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0834951",
+            "lng": "105.78061490000005"
+        },
+        {
+            "id": 1071,
+            "name": "Kẻ Vẽ",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Kẻ Vẽ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0888156",
+            "lng": "105.78176400000007"
+        },
+        {
+            "id": 2117,
+            "name": "Liên Mạc",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Liên Mạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0831053",
+            "lng": "105.75565640000002"
+        },
+        {
+            "id": 719,
+            "name": "Phạm Văn Đồng",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Phạm Văn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0798401",
+            "lng": "105.78817700000002"
+        },
+        {
+            "id": 721,
+            "name": "Sông Nhuệ",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Sông Nhuệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.078356",
+            "lng": "105.77196839999999"
+        },
+        {
+            "id": 825,
+            "name": "Xuân Đỉnh",
+            "pid": 4938,
+            "type": 2,
+            "region": null,
+            "alias": "Xuân Đỉnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0681741",
+            "lng": "105.79087200000004"
+        }
+    ],
+    "log_id": "675811bca008d97"
+}

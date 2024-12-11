@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 457831,
+            "name": "Thôn 2A",
+            "pid": 19552,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.034192",
+            "lng": "107.46177069999999"
+        },
+        {
+            "id": 457829,
+            "name": "Thốn 2B",
+            "pid": 19552,
+            "type": 16,
+            "region": null,
+            "alias": "Thốn 2B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.034192",
+            "lng": "107.46177069999999"
+        },
+        {
+            "id": 457827,
+            "name": "Thôn Đông Tân",
+            "pid": 19552,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.034192",
+            "lng": "107.46177069999999"
+        },
+        {
+            "id": 457833,
+            "name": "Thôn Nam Hà",
+            "pid": 19552,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.034192",
+            "lng": "107.46177069999999"
+        }
+    ],
+    "log_id": "67581477e23f3200"
+}

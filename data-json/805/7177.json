@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 985033,
+            "name": "Siêu Thị Quyên Trượng",
+            "pid": 7177,
+            "type": 10,
+            "region": null,
+            "alias": "Siêu thị Quyên Trượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21°04'20.5\"N",
+            "lng": "106°19'44.5\"E"
+        },
+        {
+            "id": 639285,
+            "name": "Thôn Linh Xá",
+            "pid": 7177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Linh Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0628548",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 639288,
+            "name": "Thôn Ngô Đồng",
+            "pid": 7177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngô Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0628548",
+            "lng": "106.32577679999997"
+        },
+        {
+            "id": 639282,
+            "name": "Thôn Trần Xá",
+            "pid": 7177,
+            "type": 20,
+            "region": null,
+            "alias": "Thôn Trần xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0628548",
+            "lng": "106.32577679999997"
+        }
+    ],
+    "log_id": "675813f1c6dad904"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 619164,
+            "name": "Ấp K8",
+            "pid": 18048,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp K8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7353848",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 619167,
+            "name": "Ấp K9",
+            "pid": 18048,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp K9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7353848",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 619170,
+            "name": "Ấp Phú Xuân",
+            "pid": 18048,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7353848",
+            "lng": "105.55329929999994"
+        }
+    ],
+    "log_id": "675816c079fed961"
+}

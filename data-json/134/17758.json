@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 888097,
+            "name": "Khau Vàng",
+            "pid": 17758,
+            "type": 16,
+            "region": null,
+            "alias": "Khau Vàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8604874",
+            "lng": "106.97718269999996"
+        },
+        {
+            "id": 837511,
+            "name": "Khuổi Phiêng",
+            "pid": 17758,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Phiêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8604874",
+            "lng": "106.97718269999996"
+        }
+    ],
+    "log_id": "6758133ee9f49978"
+}

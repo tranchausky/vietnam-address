@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599469,
+            "name": "Hòa Bình",
+            "pid": 6524,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.456750",
+            "lng": "106.370947"
+        },
+        {
+            "id": 599472,
+            "name": "Hòa Ninh",
+            "pid": 6524,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.456750",
+            "lng": "106.370947"
+        },
+        {
+            "id": 599475,
+            "name": "Hòa Phú",
+            "pid": 6524,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.456750",
+            "lng": "106.370947"
+        },
+        {
+            "id": 599478,
+            "name": "Hòa Quới",
+            "pid": 6524,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Quới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.456750",
+            "lng": "106.370947"
+        }
+    ],
+    "log_id": "675814f39f44f668"
+}

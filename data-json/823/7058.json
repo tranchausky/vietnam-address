@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 92051,
+            "name": "Ấp Ngọc Lâm 1",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngọc Lâm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92054,
+            "name": "Ấp Ngọc Lâm 2",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngọc Lâm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92057,
+            "name": "Ấp Ngọc Lâm 3",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngọc Lâm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92042,
+            "name": "Ấp Thọ Lâm 1",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thọ Lâm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92063,
+            "name": "Ấp Thọ Lâm 1",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thọ Lâm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92045,
+            "name": "Ấp Thọ Lâm 2",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thọ Lâm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92048,
+            "name": "Ấp Thọ Lâm 3",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thọ Lâm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92060,
+            "name": "Bàu Chim",
+            "pid": 7058,
+            "type": 17,
+            "region": null,
+            "alias": "Bàu Chim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        }
+    ],
+    "log_id": "675814dd4d365554"
+}

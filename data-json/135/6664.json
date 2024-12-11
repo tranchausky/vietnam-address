@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 843013,
+            "name": "Hỷ Tái",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Hỷ Tái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8624991",
+            "lng": "106.61292090000006"
+        },
+        {
+            "id": 863137,
+            "name": "Kiến Phong",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Kiến Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8340318",
+            "lng": "106.62323590000004"
+        },
+        {
+            "id": 843022,
+            "name": "Kiều Hạ",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Kiều Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8624991",
+            "lng": "106.61292090000006"
+        },
+        {
+            "id": 843049,
+            "name": "Kiều Trung",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Kiều Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8475971",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 878401,
+            "name": "Kiều Trung",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Kiều Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8624991",
+            "lng": "106.61292090000006"
+        },
+        {
+            "id": 878455,
+            "name": "Thôn Xích Thổ",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xích Thổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8475971",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 843037,
+            "name": "Tiên Sa",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Tiên Sa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8340318",
+            "lng": "106.62323590000004"
+        },
+        {
+            "id": 883948,
+            "name": "Xích Thổ",
+            "pid": 6664,
+            "type": 16,
+            "region": null,
+            "alias": "Xích Thổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8624991",
+            "lng": "106.61292090000006"
+        },
+        {
+            "id": 858004,
+            "name": "Xóm Mới",
+            "pid": 6664,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8475971",
+            "lng": "106.63207769999997"
+        }
+    ],
+    "log_id": "67581365a78fc553"
+}

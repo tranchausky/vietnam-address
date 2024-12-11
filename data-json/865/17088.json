@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 647491,
+            "name": "An Toàn",
+            "pid": 17088,
+            "type": 21,
+            "region": null,
+            "alias": "An Toàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7207913",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 561581,
+            "name": "Thôn Phú Đa 1",
+            "pid": 17088,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Đa 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7207913",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 561587,
+            "name": "Xóm Trung (Hà Trung)",
+            "pid": 17088,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Trung (Hà trung)",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7207913",
+            "lng": "105.79967690000001"
+        }
+    ],
+    "log_id": "67590a2328ad2795"
+}

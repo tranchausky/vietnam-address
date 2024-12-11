@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 104798,
+            "name": "Ấp 1A,1B- Xã Hựu Thạnh",
+            "pid": 7362,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1A,1B- Xã Hựu Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.809753",
+            "lng": "106.446461"
+        },
+        {
+            "id": 104870,
+            "name": "Âp 1B - Xã Hựu Thạnh",
+            "pid": 7362,
+            "type": 17,
+            "region": null,
+            "alias": "Âp 1B - Xã Hựu Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.799972",
+            "lng": "106.426005"
+        },
+        {
+            "id": 104996,
+            "name": "Ấp 2- Xã Hựu Thạnh",
+            "pid": 7362,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 2- Xã Hựu Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.798549",
+            "lng": "106.431756"
+        },
+        {
+            "id": 105059,
+            "name": "Ấp 3A, Ấp 4- Xã Hựu Thạnh",
+            "pid": 7362,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3A, Ấp 4- Xã Hựu Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.791068",
+            "lng": "106.436319"
+        },
+        {
+            "id": 105101,
+            "name": "Ấp 3B - Xã Hựu Thạnh",
+            "pid": 7362,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 3B - Xã Hựu Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.783675",
+            "lng": "106.439767"
+        },
+        {
+            "id": 105125,
+            "name": "Ấp 4 - Hựu Thạnh",
+            "pid": 7362,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4 - hựu thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.767421",
+            "lng": "106.439181"
+        }
+    ],
+    "log_id": "6758178506411493"
+}

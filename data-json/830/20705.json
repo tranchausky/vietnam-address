@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407979,
+            "name": "Bách Sơn",
+            "pid": 20705,
+            "type": 16,
+            "region": null,
+            "alias": "Bách Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.677761",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 407981,
+            "name": "Khuổi Luông",
+            "pid": 20705,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.677761",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 407983,
+            "name": "Nà Lại",
+            "pid": 20705,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.677761",
+            "lng": "105.25458879999996"
+        },
+        {
+            "id": 407985,
+            "name": "Tả Luồng",
+            "pid": 20705,
+            "type": 16,
+            "region": null,
+            "alias": "Tả Luồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.677761",
+            "lng": "105.25458879999996"
+        }
+    ],
+    "log_id": "675815664fb29823"
+}

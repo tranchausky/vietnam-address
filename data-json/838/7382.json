@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442433,
+            "name": "Kp1",
+            "pid": 7382,
+            "type": 16,
+            "region": null,
+            "alias": "kp1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2421341",
+            "lng": "106.37507849999997"
+        },
+        {
+            "id": 442435,
+            "name": "Kp2",
+            "pid": 7382,
+            "type": 16,
+            "region": null,
+            "alias": "kp2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2421341",
+            "lng": "106.37507849999997"
+        },
+        {
+            "id": 442437,
+            "name": "Kp3",
+            "pid": 7382,
+            "type": 16,
+            "region": null,
+            "alias": "kp3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2421341",
+            "lng": "106.37507849999997"
+        }
+    ],
+    "log_id": "6758160dbb3db117"
+}

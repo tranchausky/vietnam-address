@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 649357,
+            "name": "Bản Sì Choang",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Sì Choang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.722799",
+            "lng": "103.340728"
+        },
+        {
+            "id": 736237,
+            "name": "Bản Tả Páo Hồ",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Tả Páo Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 649318,
+            "name": "Khoa San",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Khoa San",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.652022",
+            "lng": "103.297437"
+        },
+        {
+            "id": 649258,
+            "name": "Nhóm 1 Vmc",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Nhóm 1 VMC",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.658550",
+            "lng": "103.316132"
+        },
+        {
+            "id": 649285,
+            "name": "Nhóm 2 Vmc",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Nhóm 2 VMC",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.655024",
+            "lng": "103.323242"
+        },
+        {
+            "id": 649300,
+            "name": "Nhóm 3 Vmc",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Nhóm 3 VMC",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.656344",
+            "lng": "103.316424"
+        },
+        {
+            "id": 649381,
+            "name": "Tả Ô",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Tả Ô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.694473",
+            "lng": "103.297683"
+        },
+        {
+            "id": 649402,
+            "name": "Tả Páo Hồ",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Tả Páo Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.707590",
+            "lng": "103.300931"
+        },
+        {
+            "id": 649336,
+            "name": "Tả Phùng",
+            "pid": 15523,
+            "type": 16,
+            "region": null,
+            "alias": "Tả Phùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.691206",
+            "lng": "103.306639"
+        }
+    ],
+    "log_id": "6758175e73da6583"
+}

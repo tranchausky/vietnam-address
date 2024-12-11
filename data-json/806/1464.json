@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7924,
+            "name": "Phường An Thới",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường An Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0580035",
+            "lng": "105.76152520000005"
+        },
+        {
+            "id": 7925,
+            "name": "Phường Bình Thủy",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Bình Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0622567",
+            "lng": "105.73810170000002"
+        },
+        {
+            "id": 7926,
+            "name": "Phường Bùi Hữu Nghĩa",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Bùi Hữu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0799775",
+            "lng": "105.75565640000002"
+        },
+        {
+            "id": 7927,
+            "name": "Phường Long Hòa",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Long Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.062848",
+            "lng": "105.7175138"
+        },
+        {
+            "id": 7928,
+            "name": "Phường Long Tuyền",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Long Tuyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0297512",
+            "lng": "105.72924910000006"
+        },
+        {
+            "id": 7929,
+            "name": "Phường Thới An Đông",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thới An Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0645504",
+            "lng": "105.6823124"
+        },
+        {
+            "id": 7930,
+            "name": "Phường Trà An",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trà An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0873962",
+            "lng": "105.71458010000003"
+        },
+        {
+            "id": 7931,
+            "name": "Phường Trà Nóc",
+            "pid": 1464,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trà Nóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0985306",
+            "lng": "105.70871280000006"
+        }
+    ],
+    "log_id": "6758140c6038c972"
+}

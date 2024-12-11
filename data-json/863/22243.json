@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411605,
+            "name": "Lê Lợi 1",
+            "pid": 22243,
+            "type": 16,
+            "region": null,
+            "alias": "Lê Lợi 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5094572",
+            "lng": "106.36698339999998"
+        },
+        {
+            "id": 411607,
+            "name": "Lê Lợi 2",
+            "pid": 22243,
+            "type": 16,
+            "region": null,
+            "alias": "Lê Lợi 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5094572",
+            "lng": "106.36698339999998"
+        },
+        {
+            "id": 411603,
+            "name": "Quang Trung",
+            "pid": 22243,
+            "type": 16,
+            "region": null,
+            "alias": "Quang Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5094572",
+            "lng": "106.36698339999998"
+        },
+        {
+            "id": 411609,
+            "name": "Thôn Ký Kon",
+            "pid": 22243,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ký Kon",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5094572",
+            "lng": "106.36698339999998"
+        }
+    ],
+    "log_id": "675909f39917c722"
+}

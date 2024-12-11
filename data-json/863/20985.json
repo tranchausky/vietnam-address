@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 749893,
+            "name": "Tam Đường",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Tam đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 749899,
+            "name": "Tây Nha",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Nha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 573891,
+            "name": "Thôn Đoan Bản",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoan Bản",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 573894,
+            "name": "Thôn Do Đạo",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Do Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 749905,
+            "name": "Thôn Dương Xá",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dương Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 573900,
+            "name": "Thôn Nhật Tảo",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhật Tảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 573897,
+            "name": "Thôn Phú Vật",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Vật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        },
+        {
+            "id": 749908,
+            "name": "Thôn Trung Thượng",
+            "pid": 20985,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5945058",
+            "lng": "106.14339130000008"
+        }
+    ],
+    "log_id": "675909f3adbe8403"
+}

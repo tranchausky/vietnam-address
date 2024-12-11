@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 811681,
+            "name": "Hòa Bình",
+            "pid": 7223,
+            "type": 10,
+            "region": null,
+            "alias": "Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.073335",
+            "lng": "106.39044100000001"
+        },
+        {
+            "id": 637905,
+            "name": "Thôn Lạc Sơn",
+            "pid": 7223,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.073335",
+            "lng": "106.39044100000001"
+        },
+        {
+            "id": 637908,
+            "name": "Thôn Miễu Sơn",
+            "pid": 7223,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Miễu Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.073335",
+            "lng": "106.39044100000001"
+        },
+        {
+            "id": 637914,
+            "name": "Thôn Mít Sắt",
+            "pid": 7223,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mít Sắt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.073335",
+            "lng": "106.39044100000001"
+        },
+        {
+            "id": 637911,
+            "name": "Thôn Ninh Chấp",
+            "pid": 7223,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ninh Chấp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.073335",
+            "lng": "106.39044100000001"
+        }
+    ],
+    "log_id": "675813f1d4193808"
+}

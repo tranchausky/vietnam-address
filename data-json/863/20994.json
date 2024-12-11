@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 410059,
+            "name": "Thôn Đông Cao 1",
+            "pid": 20994,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông cao 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3721751",
+            "lng": "106.5318919"
+        },
+        {
+            "id": 410061,
+            "name": "Thôn Đông Cao 2",
+            "pid": 20994,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đông cao 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3721751",
+            "lng": "106.5318919"
+        },
+        {
+            "id": 410057,
+            "name": "Thôn Nguyệt Lũ",
+            "pid": 20994,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nguyệt lũ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3721751",
+            "lng": "106.5318919"
+        },
+        {
+            "id": 410063,
+            "name": "Thôn Tân Lập",
+            "pid": 20994,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3721751",
+            "lng": "106.5318919"
+        }
+    ],
+    "log_id": "675909f3a2a8c900"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449765,
+            "name": "Thôn Cẩm Bình",
+            "pid": 15900,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Cẩm Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9867812",
+            "lng": "108.11025670000004"
+        },
+        {
+            "id": 449763,
+            "name": "Thôn Châu Giang",
+            "pid": 15900,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9867812",
+            "lng": "108.11025670000004"
+        },
+        {
+            "id": 449761,
+            "name": "Thôn Tam Điệp",
+            "pid": 15900,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Tam Điệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.9867812",
+            "lng": "108.11025670000004"
+        }
+    ],
+    "log_id": "675816d360de9551"
+}

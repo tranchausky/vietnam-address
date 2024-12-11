@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439253,
+            "name": "Khóm 1",
+            "pid": 17522,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.237122",
+            "lng": "105.414930"
+        },
+        {
+            "id": 439255,
+            "name": "Khóm 2",
+            "pid": 17522,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.225709",
+            "lng": "105.411005"
+        },
+        {
+            "id": 439257,
+            "name": "Khóm 3",
+            "pid": 17522,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.221461",
+            "lng": "105.415399"
+        },
+        {
+            "id": 439259,
+            "name": "Khóm 4",
+            "pid": 17522,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.219045",
+            "lng": "105.420302"
+        },
+        {
+            "id": 439261,
+            "name": "Khóm 5",
+            "pid": 17522,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.234155",
+            "lng": "105.441363"
+        }
+    ],
+    "log_id": "675815e16ce63681"
+}

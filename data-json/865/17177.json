@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 420005,
+            "name": "Thôn Chẩn Xuyên 1",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chẩn Xuyên 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 420007,
+            "name": "Thôn Chẩn Xuyên 2",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chẩn Xuyên 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 420013,
+            "name": "Thôn Ngọc Sơn",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 420011,
+            "name": "Thôn Ngọc Thiện",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 420001,
+            "name": "Thôn Tân Bình 1",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Bình 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 420003,
+            "name": "Thôn Tân Bình 2",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Bình 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        },
+        {
+            "id": 420009,
+            "name": "Thôn Thiện Phong",
+            "pid": 17177,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9328663",
+            "lng": "105.5972706"
+        }
+    ],
+    "log_id": "67590a23a63e7853"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 427803,
+            "name": "Bắc Bình Tượng Sơn",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "Bắc Bình Tượng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2551834",
+            "lng": "108.3801314"
+        },
+        {
+            "id": 427805,
+            "name": "Hà Thanh Tượng Sơn",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "Hà Thanh Tượng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0277644",
+            "lng": "105.8341598"
+        },
+        {
+            "id": 427807,
+            "name": "Sâm Lộc Tượng Sơn",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "Sâm Lộc Tượng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3430572",
+            "lng": "105.93767560000003"
+        },
+        {
+            "id": 427813,
+            "name": "Thôn Đoài Phú",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Đoài Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1918695",
+            "lng": "105.8158204"
+        },
+        {
+            "id": 427815,
+            "name": "Thôn Hòa Mỹ",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Hòa Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.9999295",
+            "lng": "104.9973028"
+        },
+        {
+            "id": 427809,
+            "name": "Thôn Phú Sơn",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Phú Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4367174",
+            "lng": "105.6764461"
+        },
+        {
+            "id": 427811,
+            "name": "Thôn Thượng Phú",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "thôn Thượng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4947606",
+            "lng": "107.6008169"
+        },
+        {
+            "id": 856213,
+            "name": "Xóm 10",
+            "pid": 15447,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3430572",
+            "lng": "105.93767560000003"
+        }
+    ],
+    "log_id": "675816e9d4485228"
+}

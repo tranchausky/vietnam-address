@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 6103,
+            "name": "Thị Trấn Lai Uyên",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Lai Uyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2853477",
+            "lng": "106.61734150000007"
+        },
+        {
+            "id": 6100,
+            "name": "Xã Cây Trường",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Cây Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.331881",
+            "lng": "106.5701927"
+        },
+        {
+            "id": 6101,
+            "name": "Xã Hưng Hòa",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hưng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2207419",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 6102,
+            "name": "Xã Lai Hưng",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lai Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2454323",
+            "lng": "106.62433579999993"
+        },
+        {
+            "id": 6104,
+            "name": "Xã Long Nguyên",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2212577",
+            "lng": "106.56219540000006"
+        },
+        {
+            "id": 6105,
+            "name": "Xã Tân Hưng",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2443985",
+            "lng": "106.63317740000002"
+        },
+        {
+            "id": 6106,
+            "name": "Xã Trừ Văn Thố",
+            "pid": 1105,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Trừ Văn Thố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3569158",
+            "lng": "106.61144739999997"
+        }
+    ],
+    "log_id": "675816216d890565"
+}

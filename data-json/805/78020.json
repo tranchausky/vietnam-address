@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515651,
+            "name": "Đồng Quan",
+            "pid": 78020,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024392",
+            "lng": "106.425913"
+        },
+        {
+            "id": 515653,
+            "name": "Lâu Động",
+            "pid": 78020,
+            "type": 16,
+            "region": null,
+            "alias": "Lâu Động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024392",
+            "lng": "106.425913"
+        },
+        {
+            "id": 515655,
+            "name": "Miêu Nha",
+            "pid": 78020,
+            "type": 16,
+            "region": null,
+            "alias": "Miêu Nha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024392",
+            "lng": "106.425913"
+        },
+        {
+            "id": 957130,
+            "name": "Phúc Thành B",
+            "pid": 78020,
+            "type": 10,
+            "region": null,
+            "alias": "Phúc Thành B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.033778",
+            "lng": "106.430912"
+        },
+        {
+            "id": 957131,
+            "name": "Quang Trung",
+            "pid": 78020,
+            "type": 10,
+            "region": null,
+            "alias": "Quang Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.023606",
+            "lng": "106.427615"
+        },
+        {
+            "id": 515657,
+            "name": "Thái Mông",
+            "pid": 78020,
+            "type": 16,
+            "region": null,
+            "alias": "Thái Mông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024392",
+            "lng": "106.425913"
+        },
+        {
+            "id": 515659,
+            "name": "Tống Thượng",
+            "pid": 78020,
+            "type": 16,
+            "region": null,
+            "alias": "Tống Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024392",
+            "lng": "106.425913"
+        },
+        {
+            "id": 515661,
+            "name": "Xạ Sơn",
+            "pid": 78020,
+            "type": 16,
+            "region": null,
+            "alias": "Xạ Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.024392",
+            "lng": "106.425913"
+        }
+    ],
+    "log_id": "675813f1a600c689"
+}

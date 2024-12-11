@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1014636,
+            "name": "Đình Cả",
+            "pid": 13633,
+            "type": 16,
+            "region": null,
+            "alias": "Đình Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.134721276207024",
+            "lng": "106.00309981023372"
+        },
+        {
+            "id": 476379,
+            "name": "Thôn Đình Cả",
+            "pid": 13633,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đình Cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1400879",
+            "lng": "106.00818189999995"
+        },
+        {
+            "id": 476385,
+            "name": "Thôn Duệ Khánh",
+            "pid": 13633,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Duệ Khánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1400879",
+            "lng": "106.00818189999995"
+        },
+        {
+            "id": 476381,
+            "name": "Thôn Duệ Nam",
+            "pid": 13633,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Duệ Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1400879",
+            "lng": "106.00818189999995"
+        },
+        {
+            "id": 476383,
+            "name": "Thôn Lộ Bao",
+            "pid": 13633,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộ Bao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1400879",
+            "lng": "106.00818189999995"
+        }
+    ],
+    "log_id": "675815f8cca59861"
+}

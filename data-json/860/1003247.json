@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609204,
+            "name": "Thọ Bắc",
+            "pid": 1003247,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2187293",
+            "lng": "108.74821650000001"
+        },
+        {
+            "id": 609198,
+            "name": "Thọ Đông",
+            "pid": 1003247,
+            "type": 18,
+            "region": null,
+            "alias": "Thọ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2187293",
+            "lng": "108.74821650000001"
+        },
+        {
+            "id": 609201,
+            "name": "Thọ Nam",
+            "pid": 1003247,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2187293",
+            "lng": "108.74821650000001"
+        },
+        {
+            "id": 609207,
+            "name": "Thọ Tây",
+            "pid": 1003247,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2187293",
+            "lng": "108.74821650000001"
+        },
+        {
+            "id": 609210,
+            "name": "Thọ Trung",
+            "pid": 1003247,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2187293",
+            "lng": "108.74821650000001"
+        }
+    ],
+    "log_id": "675909a4df086950"
+}

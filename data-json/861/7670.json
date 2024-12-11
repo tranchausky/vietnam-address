@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434051,
+            "name": "Ấp 18",
+            "pid": 7670,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 18",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525030899999999",
+            "lng": "105.65884849999998"
+        },
+        {
+            "id": 434049,
+            "name": "Ấp Long An",
+            "pid": 7670,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525030899999999",
+            "lng": "105.65884849999998"
+        },
+        {
+            "id": 434047,
+            "name": "Ấp Long Hòa",
+            "pid": 7670,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525030899999999",
+            "lng": "105.65884849999998"
+        },
+        {
+            "id": 858679,
+            "name": "Ấp Long Thành",
+            "pid": 7670,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.512382",
+            "lng": "105.685920"
+        },
+        {
+            "id": 434045,
+            "name": "Ấp Long Thạnh",
+            "pid": 7670,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525030899999999",
+            "lng": "105.65884849999998"
+        },
+        {
+            "id": 434053,
+            "name": "Ấp Tân Chánh C",
+            "pid": 7670,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Chánh C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.525030899999999",
+            "lng": "105.65884849999998"
+        }
+    ],
+    "log_id": "675909c18c9a4743"
+}

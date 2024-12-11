@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571380,
+            "name": "Bắc Cạn",
+            "pid": 21080,
+            "type": 16,
+            "region": null,
+            "alias": "bắc cạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.078972",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 571383,
+            "name": "Pô Ma",
+            "pid": 21080,
+            "type": 16,
+            "region": null,
+            "alias": "pô ma",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.078972",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 571377,
+            "name": "Pó Ngần",
+            "pid": 21080,
+            "type": 16,
+            "region": null,
+            "alias": "pó ngần",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.078972",
+            "lng": "105.4829681"
+        }
+    ],
+    "log_id": "6758156643dcf50"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514029,
+            "name": "Thôn Lập Lễ",
+            "pid": 17716,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lập Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8303796",
+            "lng": "106.45531110000002"
+        },
+        {
+            "id": 514031,
+            "name": "Thôn Nhan Bầu",
+            "pid": 17716,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhan Bầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8303796",
+            "lng": "106.45531110000002"
+        },
+        {
+            "id": 514033,
+            "name": "Thôn Tiên Kiều",
+            "pid": 17716,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Kiều",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8303796",
+            "lng": "106.45531110000002"
+        }
+    ],
+    "log_id": "675813f1c5c45723"
+}

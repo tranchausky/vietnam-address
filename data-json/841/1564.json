@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7727,
+            "name": "Thị Trấn Rạch Gốc",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Rạch Gốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6563112",
+            "lng": "105.02067569999997"
+        },
+        {
+            "id": 7728,
+            "name": "Xã Đất Mũi",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đất Mũi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6006349",
+            "lng": "104.75578240000004"
+        },
+        {
+            "id": 7729,
+            "name": "Xã Tam Giang Tây",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tam Giang Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.7370964",
+            "lng": "105.1375908"
+        },
+        {
+            "id": 7731,
+            "name": "Xã Tân Ân",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Ân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6340159",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 7730,
+            "name": "Xã Tân Ân Tây",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Ân Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.7194981",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 7733,
+            "name": "Xã Viên An",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Viên An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6637275",
+            "lng": "104.83378790000006"
+        },
+        {
+            "id": 7732,
+            "name": "Xã Viên An Đông",
+            "pid": 1564,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Viên An Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "8.6377338",
+            "lng": "104.95056709999994"
+        }
+    ],
+    "log_id": "6758164d8a30d56"
+}

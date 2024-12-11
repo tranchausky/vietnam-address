@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 639321,
+            "name": "Thôn Đồn Bối",
+            "pid": 7176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồn Bối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9956039",
+            "lng": "106.31841929999996"
+        },
+        {
+            "id": 639327,
+            "name": "Thôn Đụn",
+            "pid": 7176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đụn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9956039",
+            "lng": "106.31841929999996"
+        },
+        {
+            "id": 639324,
+            "name": "Thôn Thượng Đáp",
+            "pid": 7176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Đáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9956039",
+            "lng": "106.31841929999996"
+        }
+    ],
+    "log_id": "675813f1bfa05544"
+}

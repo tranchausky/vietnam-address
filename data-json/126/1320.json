@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 681076,
+            "name": "Đường Bà Lài",
+            "pid": 1320,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bà Lài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7397659",
+            "lng": "106.6353702"
+        },
+        {
+            "id": 683443,
+            "name": "Đường Bến Bãi Sậy",
+            "pid": 1320,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Bãi Sậy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7466557",
+            "lng": "106.6414617"
+        },
+        {
+            "id": 924949,
+            "name": "Đường Bình Tiên",
+            "pid": 1320,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7450352",
+            "lng": "106.641797"
+        },
+        {
+            "id": 680542,
+            "name": "Đường Lò Gốm",
+            "pid": 1320,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lò Gốm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7428817",
+            "lng": "106.6369434"
+        },
+        {
+            "id": 675487,
+            "name": "Đường Phạm Văn Chí",
+            "pid": 1320,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Chí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7404114",
+            "lng": "106.638771"
+        },
+        {
+            "id": 677443,
+            "name": "Đường Văn Thân",
+            "pid": 1320,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Văn Thân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7415947",
+            "lng": "106.6387272"
+        }
+    ],
+    "log_id": "6758129ada420563"
+}

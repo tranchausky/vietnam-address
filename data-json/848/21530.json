@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428775,
+            "name": "Thôn Bắc Sơn",
+            "pid": 21530,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1293283",
+            "lng": "106.22314110000002"
+        },
+        {
+            "id": 428777,
+            "name": "Thôn Đất Đỏ",
+            "pid": 21530,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1293283",
+            "lng": "106.22314110000002"
+        },
+        {
+            "id": 428783,
+            "name": "Thôn Nam Sơn",
+            "pid": 21530,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1293283",
+            "lng": "106.22314110000002"
+        },
+        {
+            "id": 428779,
+            "name": "Thôn Trung Sơn",
+            "pid": 21530,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trung Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1293283",
+            "lng": "106.22314110000002"
+        }
+    ],
+    "log_id": "675816e9afc18553"
+}

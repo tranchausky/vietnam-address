@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100751,
+            "name": "Thôn Có",
+            "pid": 20836,
+            "type": 17,
+            "region": null,
+            "alias": "thôn có",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.1195128",
+            "lng": "20.7887767,105.1195128"
+        },
+        {
+            "id": 396229,
+            "name": "Xóm Hạ 1",
+            "pid": 20836,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hạ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9119907",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 396231,
+            "name": "Xóm Hạ 2",
+            "pid": 20836,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hạ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9119907",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 396233,
+            "name": "Xóm Hạ 3",
+            "pid": 20836,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hạ 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9119907",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 396235,
+            "name": "Xóm Hồm",
+            "pid": 20836,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hồm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9119907",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 99164,
+            "name": "Xóm Thượng",
+            "pid": 20836,
+            "type": 16,
+            "region": null,
+            "alias": "xóm thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9119907,104.9973028",
+            "lng": "104.9973028"
+        }
+    ],
+    "log_id": "6758172108203113"
+}

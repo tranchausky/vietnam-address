@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 932190,
+            "name": "Thôn Đăng Triều",
+            "pid": 18302,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăng Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0087",
+            "lng": "106.2519"
+        },
+        {
+            "id": 114837,
+            "name": "Thôn Đỉnh Dương",
+            "pid": 18302,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đỉnh Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0164897",
+            "lng": "106.2294829"
+        },
+        {
+            "id": 114605,
+            "name": "Thôn Nhị Trai",
+            "pid": 18302,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhị Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0055072",
+            "lng": "106.2469233"
+        },
+        {
+            "id": 114719,
+            "name": "Thôn Trừng Xá",
+            "pid": 18302,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trừng Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0164897",
+            "lng": "106.2294829"
+        },
+        {
+            "id": 114619,
+            "name": "Thôn Vĩnh Trai",
+            "pid": 18302,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0055072",
+            "lng": "106.2469233"
+        }
+    ],
+    "log_id": "675815f8d20fd184"
+}

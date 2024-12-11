@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828637,
+            "name": "Cây Xăng Nho Lăm",
+            "pid": 16496,
+            "type": 21,
+            "region": null,
+            "alias": "cây xăng nho lăm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1148742",
+            "lng": "109.17611260000001"
+        },
+        {
+            "id": 109931,
+            "name": "Thôn Đại Bình",
+            "pid": 16496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đại Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.066034",
+            "lng": "109.235987"
+        },
+        {
+            "id": 109917,
+            "name": "Thôn Đại Phú",
+            "pid": 16496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đại Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.070508",
+            "lng": "109.245801"
+        },
+        {
+            "id": 109989,
+            "name": "Thôn Mậu Lâm Nam",
+            "pid": 16496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Mậu Lâm Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1148742",
+            "lng": "109.17611260000001"
+        },
+        {
+            "id": 109969,
+            "name": "Thôn Nho Lâm",
+            "pid": 16496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nho Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1148742",
+            "lng": "109.17611260000001"
+        },
+        {
+            "id": 109955,
+            "name": "Thôn Phú Thạnh",
+            "pid": 16496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1148742",
+            "lng": "109.17611260000001"
+        },
+        {
+            "id": 109943,
+            "name": "Thôn Quang Hưng",
+            "pid": 16496,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Quang Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.056859",
+            "lng": "109.219061"
+        }
+    ],
+    "log_id": "67590b809d49457"
+}

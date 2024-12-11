@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 24006,
+            "name": "Thị Trấn Thứ Mười Một",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Thứ Mười Một",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.621867199999999",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 10098,
+            "name": "Xã Đông Hòa",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.711557299999999",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 10097,
+            "name": "Xã Đông Hưng",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.626956",
+            "lng": "104.985485"
+        },
+        {
+            "id": 24012,
+            "name": "Xã Đông Hưng A",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Hưng A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6780517",
+            "lng": "104.89800579999996"
+        },
+        {
+            "id": 24015,
+            "name": "Xã Đông Hưng B",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Hưng B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.5827226",
+            "lng": "104.9739333"
+        },
+        {
+            "id": 10100,
+            "name": "Xã Đông Thanh",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6692828",
+            "lng": "104.9739333"
+        },
+        {
+            "id": 10099,
+            "name": "Xã Tân Thạnh",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.715707499999999",
+            "lng": "104.90384510000001"
+        },
+        {
+            "id": 24009,
+            "name": "Xã Thuận Hoà",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thuận Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7807426",
+            "lng": "104.90384510000001"
+        },
+        {
+            "id": 10101,
+            "name": "Xã Vân Khánh",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vân Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.587220",
+            "lng": "104.873063"
+        },
+        {
+            "id": 24018,
+            "name": "Xã Vân Khánh Đông",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vân Khánh Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6300989",
+            "lng": "104.88048930000002"
+        },
+        {
+            "id": 24021,
+            "name": "Xã Vân Khánh Tây",
+            "pid": 1734,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vân Khánh Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.553207",
+            "lng": "104.856743"
+        }
+    ],
+    "log_id": "67581735f2311247"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 416951,
+            "name": "Thôn Cối Máy",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cối Máy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 416955,
+            "name": "Thôn Khe Cạn",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Cạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 416949,
+            "name": "Thôn Khe Ngang",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Ngang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 416953,
+            "name": "Thôn Máy Đứng",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Máy Đứng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 416945,
+            "name": "Thôn Ngòi Dì",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngòi Dì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 416957,
+            "name": "Thôn Ngòi Khương",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngòi Khương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        },
+        {
+            "id": 416947,
+            "name": "Thôn Trung Tâm Xã Yên Thành",
+            "pid": 20749,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Tâm xã Yên Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8886271",
+            "lng": "104.99730279999994"
+        }
+    ],
+    "log_id": "6758131fb3bb922"
+}

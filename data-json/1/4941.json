@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 99764,
+            "name": "Cao Lãm",
+            "pid": 4941,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Lãm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7585703",
+            "lng": "105.7395182"
+        },
+        {
+            "id": 99830,
+            "name": "Tử Dương",
+            "pid": 4941,
+            "type": 16,
+            "region": null,
+            "alias": "Tử Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7709842",
+            "lng": "105.7307161"
+        },
+        {
+            "id": 55726,
+            "name": "Ubnd Xã Cao Thành",
+            "pid": 4941,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Cao Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd443f3888"
+}

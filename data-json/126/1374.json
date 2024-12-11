@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 40158,
+            "name": "Chung Cư Royal",
+            "pid": 1374,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư Royal",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8286539",
+            "lng": "106.7038307"
+        },
+        {
+            "id": 671575,
+            "name": "Đường Bình Lợi",
+            "pid": 1374,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8304273",
+            "lng": "106.7055817"
+        },
+        {
+            "id": 681871,
+            "name": "Đường Lương Ngọc Quyến",
+            "pid": 1374,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Ngọc Quyến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8239212",
+            "lng": "106.7009315"
+        },
+        {
+            "id": 672553,
+            "name": "Đường Nguyễn Xí",
+            "pid": 1374,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Xí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8198885",
+            "lng": "106.7040581"
+        },
+        {
+            "id": 682576,
+            "name": "Đường Nơ Trang Long",
+            "pid": 1374,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nơ Trang Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8195166",
+            "lng": "106.7026565"
+        },
+        {
+            "id": 683317,
+            "name": "Đường Phạm Văn Đồng",
+            "pid": 1374,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8231607",
+            "lng": "106.7042801"
+        },
+        {
+            "id": 680764,
+            "name": "Đường Vũ Ngọc Phan",
+            "pid": 1374,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vũ Ngọc Phan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8207446",
+            "lng": "106.7072919"
+        },
+        {
+            "id": 956826,
+            "name": "Hẻm 255 Nơ Trang Long Số Cũ - Số Mới 311 Nơ Trang Long Phường 13",
+            "pid": 1374,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 255 Nơ Trang Long Số Cũ - Số Mới 311 Nơ Trang Long Phường 13",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8194646",
+            "lng": "106.6989959"
+        }
+    ],
+    "log_id": "6758129b03369620"
+}

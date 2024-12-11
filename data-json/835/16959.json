@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 866845,
+            "name": "Bản Châng",
+            "pid": 16959,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Châng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1490913",
+            "lng": "105.91124239999999"
+        },
+        {
+            "id": 898105,
+            "name": "Đền Cây Thị",
+            "pid": 16959,
+            "type": 16,
+            "region": null,
+            "alias": "đền Cây Thị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1490913",
+            "lng": "105.9112424"
+        },
+        {
+            "id": 834454,
+            "name": "Thôn Bản Luông1",
+            "pid": 16959,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bản Luông1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1490913",
+            "lng": "105.9112424"
+        },
+        {
+            "id": 799198,
+            "name": "Thôn Thôm Ưng",
+            "pid": 16959,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thôm ưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1490913",
+            "lng": "105.91124239999999"
+        },
+        {
+            "id": 834448,
+            "name": "Thôn Trại Lợn",
+            "pid": 16959,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trại Lợn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1490913",
+            "lng": "105.9112424"
+        }
+    ],
+    "log_id": "675815c9267cd394"
+}

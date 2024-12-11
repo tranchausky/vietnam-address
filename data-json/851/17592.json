@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110807,
+            "name": "Ấp Hố Bườn",
+            "pid": 17592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hố Bườn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.205138",
+            "lng": "104.667803"
+        },
+        {
+            "id": 110861,
+            "name": "Ấp Núi Mây",
+            "pid": 17592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Núi Mây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.209034",
+            "lng": "104.618054"
+        },
+        {
+            "id": 110785,
+            "name": "Ấp Rạch Đùng",
+            "pid": 17592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rạch Đùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.219722",
+            "lng": "104.704674"
+        },
+        {
+            "id": 110795,
+            "name": "Ấp Song Chinh",
+            "pid": 17592,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Song Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.189416",
+            "lng": "104.660996"
+        },
+        {
+            "id": 966851,
+            "name": "Công Ty Chế Biến Thủy Sản Trung Sơn",
+            "pid": 17592,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty chế biến thủy sản Trung Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.22342",
+            "lng": "104.70070"
+        }
+    ],
+    "log_id": "675817363b71f398"
+}

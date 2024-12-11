@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453481,
+            "name": "Thôn Cô Xia 1",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cô xia 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        },
+        {
+            "id": 453483,
+            "name": "Thôn Cô Xia 2",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cô Xia 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        },
+        {
+            "id": 453485,
+            "name": "Thôn Đăk Linh 1",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Linh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        },
+        {
+            "id": 453487,
+            "name": "Thôn Đăk Linh 2",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Linh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        },
+        {
+            "id": 453493,
+            "name": "Thôn Đăk Pre",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Pre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        },
+        {
+            "id": 453491,
+            "name": "Thôn Lộc Bông",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Bông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        },
+        {
+            "id": 453489,
+            "name": "Thôn Măng Rương 1",
+            "pid": 19440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Măng Rương 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9105786",
+            "lng": "108.00059329999999"
+        }
+    ],
+    "log_id": "6758174cdeff0637"
+}

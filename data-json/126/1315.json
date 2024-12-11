@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 682297,
+            "name": "Đường Bến Bãi Sậy",
+            "pid": 1315,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Bãi Sậy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7478761",
+            "lng": "106.6490605"
+        },
+        {
+            "id": 677449,
+            "name": "Đường Bình Tiên",
+            "pid": 1315,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7429251",
+            "lng": "106.6410932"
+        },
+        {
+            "id": 672706,
+            "name": "Đường Mai Xuân Thưởng",
+            "pid": 1315,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mai Xuân Thưởng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7442",
+            "lng": "106.6474151"
+        },
+        {
+            "id": 680458,
+            "name": "Đường Phạm Phú Thứ",
+            "pid": 1315,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Phú Thứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7435277",
+            "lng": "106.6444294"
+        },
+        {
+            "id": 682789,
+            "name": "Đường Phạm Văn Chí",
+            "pid": 1315,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Chí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7444822",
+            "lng": "106.6452393"
+        },
+        {
+            "id": 670762,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 1315,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7417772",
+            "lng": "106.6466903"
+        }
+    ],
+    "log_id": "6758129ad9b74176"
+}

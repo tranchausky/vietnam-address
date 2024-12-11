@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 741811,
+            "name": "Chí Linh",
+            "pid": 25341,
+            "type": 16,
+            "region": null,
+            "alias": "Chí Linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999992"
+        },
+        {
+            "id": 741799,
+            "name": "Đồn Sơn",
+            "pid": 25341,
+            "type": 16,
+            "region": null,
+            "alias": "Đồn Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999992"
+        },
+        {
+            "id": 741808,
+            "name": "Dương Đê",
+            "pid": 25341,
+            "type": 16,
+            "region": null,
+            "alias": "Dương Đê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999992"
+        },
+        {
+            "id": 555093,
+            "name": "Thôn Đức Sơn",
+            "pid": 25341,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999993"
+        },
+        {
+            "id": 555091,
+            "name": "Thôn Trại Hà",
+            "pid": 25341,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999993"
+        },
+        {
+            "id": 809071,
+            "name": "Xóm Chợ",
+            "pid": 25341,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999992"
+        },
+        {
+            "id": 741802,
+            "name": "Yên Khánh",
+            "pid": 25341,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Khánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0272959",
+            "lng": "106.62618309999992"
+        }
+    ],
+    "log_id": "675814c243701243"
+}

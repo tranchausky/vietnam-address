@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 400599,
+            "name": "Xóm Lũng Ót",
+            "pid": 20491,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lũng Ót",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.7629019",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 400601,
+            "name": "Xóm Lũng Súng",
+            "pid": 20491,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lũng Súng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.7629019",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 400605,
+            "name": "Xóm Nặm Làng",
+            "pid": 20491,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm nặm Làng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.7629019",
+            "lng": "105.8583873"
+        },
+        {
+            "id": 400603,
+            "name": "Xóm Tàn Pà",
+            "pid": 20491,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tàn Pà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.7629019",
+            "lng": "105.8583873"
+        }
+    ],
+    "log_id": "67581662732af966"
+}

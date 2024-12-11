@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 466557,
+            "name": "Thôn A Ching",
+            "pid": 23066,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn a ching",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9113016",
+            "lng": "107.49134890000005"
+        },
+        {
+            "id": 466561,
+            "name": "Thôn A Hu",
+            "pid": 23066,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn a hu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.9113016",
+            "lng": "107.49134890000005"
+        },
+        {
+            "id": 466559,
+            "name": "Thôn A Rồng",
+            "pid": 23066,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A rồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9113016",
+            "lng": "107.49134890000005"
+        },
+        {
+            "id": 466563,
+            "name": "Thôn Rà Bượp",
+            "pid": 23066,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn rà bượp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.9113016",
+            "lng": "107.49134890000005"
+        },
+        {
+            "id": 466565,
+            "name": "Thôn Tà Vàng",
+            "pid": 23066,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn tà vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9113016",
+            "lng": "107.49134890000005"
+        }
+    ],
+    "log_id": "675817e1d6b18584"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108440,
+            "name": "Ấp Thuận Hòa 1",
+            "pid": 7363,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.840814",
+            "lng": "106.420219"
+        },
+        {
+            "id": 108443,
+            "name": "Ấp Thuận Hòa 2",
+            "pid": 7363,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.840834",
+            "lng": "106.419186"
+        },
+        {
+            "id": 108446,
+            "name": "Ấp Xuân Khánh 1",
+            "pid": 7363,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xuân Khánh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.818483",
+            "lng": "106.401368"
+        },
+        {
+            "id": 108449,
+            "name": "Ấp Xuân Khánh 2",
+            "pid": 7363,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xuân Khánh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.830965,",
+            "lng": "106.398847"
+        }
+    ],
+    "log_id": "675817850737874"
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 996144,
+            "name": "Chẵn 2-106 Nguyễn Ngọc Nại",
+            "pid": 41238,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 2-106 Nguyễn Ngọc Nại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999845824779634",
+            "lng": "105.8248227549278"
+        },
+        {
+            "id": 990510,
+            "name": "Chẵn 200-328 Lê Trọng Tấn",
+            "pid": 41238,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 200-328 Lê Trọng Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.994069501848184",
+            "lng": "105.83140742565523"
+        },
+        {
+            "id": 640,
+            "name": "Cù Chính Lan",
+            "pid": 41238,
+            "type": 2,
+            "region": null,
+            "alias": "Cù Chính Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9983879",
+            "lng": "105.82346940000002"
+        },
+        {
+            "id": 877270,
+            "name": "Đường Cù Chính Lan",
+            "pid": 41238,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cù Chính Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,998736",
+            "lng": "105,822525"
+        },
+        {
+            "id": 996143,
+            "name": "Lẻ 1-97 Nguyễn Ngọc Nại",
+            "pid": 41238,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1-97 Nguyễn Ngọc Nại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.000181775462355",
+            "lng": "105.82366262609212"
+        },
+        {
+            "id": 996145,
+            "name": "Lẻ 99-235 Nguyễn Ngọc Nại",
+            "pid": 41238,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 99-235 Nguyễn Ngọc Nại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.99667431523631",
+            "lng": "105.82727142424284"
+        },
+        {
+            "id": 629,
+            "name": "Lê Trọng Tấn",
+            "pid": 41238,
+            "type": 2,
+            "region": null,
+            "alias": "Lê Trọng Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9938628",
+            "lng": "105.83144219999997"
+        },
+        {
+            "id": 660,
+            "name": "Nguyễn Viết Xuân",
+            "pid": 41238,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Viết Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9976583",
+            "lng": "105.82700729999999"
+        },
+        {
+            "id": 51166,
+            "name": "Tòa Nhà 86 Lê Trọng Tấn - 86 Lê Trọng Tấn",
+            "pid": 41238,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà 86 Lê Trọng Tấn - 86 Lê Trọng Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 639,
+            "name": "Vương Thừa Vũ",
+            "pid": 41238,
+            "type": 2,
+            "region": null,
+            "alias": "Vương Thừa Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9999817",
+            "lng": "105.82188659999997"
+        }
+    ],
+    "log_id": "675811bd3dfe9161"
+}

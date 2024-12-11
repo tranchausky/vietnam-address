@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443679,
+            "name": "Thôn Mỹ Thuận Ngoài",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thuận Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 443681,
+            "name": "Thôn Mỹ Thuận Trong",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Thuận Trong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 443669,
+            "name": "Thôn Phú Diễn Ngoài",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Diễn Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 443671,
+            "name": "Thôn Phú Diễn Trong",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Diễn Trong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 443677,
+            "name": "Thôn Phú Mỹ",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 443673,
+            "name": "Thôn Phú Phong",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 443675,
+            "name": "Thôn Vinh Ba",
+            "pid": 16482,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        },
+        {
+            "id": 833425,
+            "name": "Xưởng May Lâm Mơ",
+            "pid": 16482,
+            "type": 21,
+            "region": null,
+            "alias": "Xưởng may Lâm Mơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.9722153",
+            "lng": "109.24152329999993"
+        }
+    ],
+    "log_id": "67590b80a0d7e254"
+}

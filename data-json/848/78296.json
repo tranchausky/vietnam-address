@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 702985,
+            "name": "Thôn Diên Phúc",
+            "pid": 78296,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Diên Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.557935",
+            "lng": "105.608869"
+        },
+        {
+            "id": 702994,
+            "name": "Thôn Tân An",
+            "pid": 78296,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.557935",
+            "lng": "105.608869"
+        }
+    ],
+    "log_id": "675816e9d0b8e495"
+}

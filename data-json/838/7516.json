@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442073,
+            "name": "Ấp Tân An",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân an",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 442075,
+            "name": "Ấp Tân Đức A",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân đức A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 442077,
+            "name": "Ấp Tân Đức B",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân đức B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 818134,
+            "name": "Ấp Tân Hòa",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 442071,
+            "name": "Ấp Tân Mỹ",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 442079,
+            "name": "Ấp Tân Thạnh",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        },
+        {
+            "id": 442081,
+            "name": "Ấp Tân Thuận",
+            "pid": 7516,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1452558",
+            "lng": "106.29634859999999"
+        }
+    ],
+    "log_id": "6758160dd4db5892"
+}

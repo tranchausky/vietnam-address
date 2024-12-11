@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407913,
+            "name": "Bản Khén",
+            "pid": 20700,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khén",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7474469",
+            "lng": "105.2545888"
+        },
+        {
+            "id": 407911,
+            "name": "Bản Noong",
+            "pid": 20700,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Noong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7474469",
+            "lng": "105.2545888"
+        },
+        {
+            "id": 407917,
+            "name": "Nà Cắp",
+            "pid": 20700,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Cắp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7474469",
+            "lng": "105.2545888"
+        },
+        {
+            "id": 407915,
+            "name": "Nà Pâu",
+            "pid": 20700,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Pâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7474469",
+            "lng": "105.2545888"
+        }
+    ],
+    "log_id": "67581566579b9134"
+}

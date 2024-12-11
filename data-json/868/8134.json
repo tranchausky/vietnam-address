@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 440067,
+            "name": "Khóm 1 Tam Bình",
+            "pid": 8134,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 1 Tam Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0478007",
+            "lng": "105.99789809999993"
+        },
+        {
+            "id": 440069,
+            "name": "Khóm 2 Tam Bình",
+            "pid": 8134,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 2 Tam Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0478007",
+            "lng": "105.99789809999993"
+        },
+        {
+            "id": 440071,
+            "name": "Khóm 3 Tam Bình",
+            "pid": 8134,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 3 Tam Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0478007",
+            "lng": "105.99789809999993"
+        },
+        {
+            "id": 440073,
+            "name": "Khóm 4 Tam Bình",
+            "pid": 8134,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm 4 Tam Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0478007",
+            "lng": "105.99789809999993"
+        }
+    ],
+    "log_id": "67590b5984a9b602"
+}

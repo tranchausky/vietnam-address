@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445337,
+            "name": "Ấp Bắc 1",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.533423784372319",
+            "lng": "107.19702779923946"
+        },
+        {
+            "id": 445339,
+            "name": "Ấp Bắc 2",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.52164335257931, ",
+            "lng": "107.20819522240802"
+        },
+        {
+            "id": 445341,
+            "name": "Ấp Bắc 3",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5277905",
+            "lng": "107.20162949999997"
+        },
+        {
+            "id": 445347,
+            "name": "Ấp Đông",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.525853016439772",
+            "lng": "107.20957507634961"
+        },
+        {
+            "id": 445345,
+            "name": "Ấp Nam",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.518064728209504",
+            "lng": "107.21213978470082"
+        },
+        {
+            "id": 445343,
+            "name": "Ấp Tây",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.517525590623373",
+            "lng": "107.20404299063362"
+        },
+        {
+            "id": 991074,
+            "name": "Hương Lộ 3 - Ấp Đông",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Hương lộ 3 - ấp ĐÔNG",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.52976702487812",
+            "lng": "107.21497688931704"
+        },
+        {
+            "id": 951285,
+            "name": "Khu Dân Cư Lan Anh 1",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "Khu Dân Cư Lan Anh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.51382824786848",
+            "lng": "107.2043478275679"
+        },
+        {
+            "id": 951283,
+            "name": "Khu Dân Cư Lan Anh 4 - Ấp Nam",
+            "pid": 6601,
+            "type": 5,
+            "region": null,
+            "alias": "Khu Dân Cư Lan Anh 4 - ấp Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.512263916112518",
+            "lng": "107.21114176818953"
+        },
+        {
+            "id": 991076,
+            "name": "Tỉnh Lộ 52 - Ấp Đông",
+            "pid": 6601,
+            "type": 17,
+            "region": null,
+            "alias": "tỉnh lộ 52 - ấp đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.522036886899954",
+            "lng": "107.21098202101736"
+        }
+    ],
+    "log_id": "675815b413b61894"
+}

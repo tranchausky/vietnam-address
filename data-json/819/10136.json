@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 864418,
+            "name": "Đường Đại Lộ",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "đường đại Lộ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.524528",
+            "lng": "107.96651680000002"
+        },
+        {
+            "id": 1016216,
+            "name": "Hùng Vương 1-99",
+            "pid": 10136,
+            "type": 29,
+            "region": null,
+            "alias": "Hùng Vương 1-99",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.53753463093506",
+            "lng": "107.96903922509877"
+        },
+        {
+            "id": 554501,
+            "name": "Khu 3",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5353709",
+            "lng": "107.97244290000003"
+        },
+        {
+            "id": 554503,
+            "name": "Khu 4",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5353709",
+            "lng": "107.97244290000003"
+        },
+        {
+            "id": 899803,
+            "name": "Khu Phố Dân Chủ",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Dân Chủ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.524528",
+            "lng": "107.96651680000002"
+        },
+        {
+            "id": 864412,
+            "name": "Khu Phố Gốc Khế",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố gốc khế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.524528",
+            "lng": "107.96651680000002"
+        },
+        {
+            "id": 864415,
+            "name": "Phố Dân Tiến",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Dân Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.524528",
+            "lng": "107.96651680000002"
+        },
+        {
+            "id": 929515,
+            "name": "Phố Dân Tiến",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Dân Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5353709",
+            "lng": "107.97244290000003"
+        },
+        {
+            "id": 929500,
+            "name": "Võ Thị Sáu",
+            "pid": 10136,
+            "type": 21,
+            "region": null,
+            "alias": "Võ Thị Sáu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.524528",
+            "lng": "107.96651680000002"
+        },
+        {
+            "id": 1016704,
+            "name": "Vườn Trầu",
+            "pid": 10136,
+            "type": 16,
+            "region": null,
+            "alias": "vườn trầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.530423234063967",
+            "lng": "107.97277694275672"
+        }
+    ],
+    "log_id": "675814c24564c801"
+}

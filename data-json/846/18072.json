@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116909,
+            "name": "Khóm Cây Da",
+            "pid": 18072,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Cây Da",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4364387",
+            "lng": "105.66451099999995"
+        },
+        {
+            "id": 116905,
+            "name": "Khóm Cồng Cọc",
+            "pid": 18072,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Cồng Cọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4364387",
+            "lng": "105.66451099999995"
+        },
+        {
+            "id": 116903,
+            "name": "Khóm Sở Thượng",
+            "pid": 18072,
+            "type": 17,
+            "region": null,
+            "alias": "khóm Sở Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4364387",
+            "lng": "105.66451099999995"
+        }
+    ],
+    "log_id": "675816c069992386"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109743,
+            "name": "Xóm Liên Chung",
+            "pid": 21600,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Liên Chung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.833524",
+            "lng": "105.258037"
+        },
+        {
+            "id": 530817,
+            "name": "Xóm Liên Sơn",
+            "pid": 21600,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Liên Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.8491449",
+            "lng": "105.26438039999994"
+        },
+        {
+            "id": 580188,
+            "name": "Xóm Sơn Thành",
+            "pid": 21600,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sơn Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.8491449",
+            "lng": "105.26438039999994"
+        },
+        {
+            "id": 580185,
+            "name": "Xóm Xuân Thành",
+            "pid": 21600,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Xuân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.8491449",
+            "lng": "105.26438039999994"
+        }
+    ],
+    "log_id": "67581208b1d8f547"
+}

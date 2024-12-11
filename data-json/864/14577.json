@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011457,
+            "name": "Vân Khánh",
+            "pid": 14577,
+            "type": 18,
+            "region": null,
+            "alias": "Vân Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7971658",
+            "lng": "105.8422884"
+        },
+        {
+            "id": 1011458,
+            "name": "Văn Lăng",
+            "pid": 14577,
+            "type": 18,
+            "region": null,
+            "alias": "Văn Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.80999",
+            "lng": "105.8367095"
+        },
+        {
+            "id": 1011951,
+            "name": "Xóm Dạt - Xã Văn Lăng",
+            "pid": 14577,
+            "type": 18,
+            "region": null,
+            "alias": "xóm dạt - xã văn lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.784377",
+            "lng": "105.852710"
+        }
+    ],
+    "log_id": "67590a09b29ec116"
+}

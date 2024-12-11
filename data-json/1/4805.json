@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119523,
+            "name": "Thôn Hạ Hoà",
+            "pid": 4805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9714316",
+            "lng": "105.6963347"
+        },
+        {
+            "id": 119525,
+            "name": "Thôn Phú Hạng",
+            "pid": 4805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Hạng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9687545",
+            "lng": "105.6925787"
+        },
+        {
+            "id": 119527,
+            "name": "Thôn Yên Quán",
+            "pid": 4805,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Quán",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9740014",
+            "lng": "105.6984455"
+        },
+        {
+            "id": 55178,
+            "name": "Ubnd Xã Tân P",
+            "pid": 4805,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tân P",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bccab2549"
+}

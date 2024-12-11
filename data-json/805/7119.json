@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 513967,
+            "name": "Thôn Mạc Động",
+            "pid": 7119,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mạc Động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9295379",
+            "lng": "106.41703110000003"
+        },
+        {
+            "id": 513969,
+            "name": "Thôn Mạc Thủ",
+            "pid": 7119,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mạc Thủ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9295379",
+            "lng": "106.41703110000003"
+        },
+        {
+            "id": 513971,
+            "name": "Thôn Tiêu Xá",
+            "pid": 7119,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiêu Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9295379",
+            "lng": "106.41703110000003"
+        },
+        {
+            "id": 513973,
+            "name": "Thôn Văn Mạc",
+            "pid": 7119,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Mạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9295379",
+            "lng": "106.41703110000003"
+        }
+    ],
+    "log_id": "675813f1c578533"
+}

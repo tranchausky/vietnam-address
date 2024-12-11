@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91130,
+            "name": "Ấp Cây Dâu",
+            "pid": 6109,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Dâu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.139666",
+            "lng": "106.924006"
+        },
+        {
+            "id": 91127,
+            "name": "Ấp Cây Dừng",
+            "pid": 6109,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Dừng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.139666",
+            "lng": "106.924006"
+        },
+        {
+            "id": 91133,
+            "name": "Ấp Chánh Hưng",
+            "pid": 6109,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.139666",
+            "lng": "106.924006"
+        }
+    ],
+    "log_id": "6758162183999716"
+}

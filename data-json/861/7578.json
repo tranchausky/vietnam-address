@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 970897,
+            "name": "Đường Lê Hoàng Chu",
+            "pid": 7578,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Hoàng Chu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6178916",
+            "lng": "105.961801"
+        },
+        {
+            "id": 970898,
+            "name": "Đường Nam Kỳ Khởi Nghĩa",
+            "pid": 7578,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nam Kỳ Khởi Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.611841",
+            "lng": "105.953571"
+        },
+        {
+            "id": 970908,
+            "name": "Đường Quốc Lộ 60",
+            "pid": 7578,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quốc Lộ 60",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.640201",
+            "lng": "105.970913"
+        },
+        {
+            "id": 970909,
+            "name": "Đường Quốc Lộ P7",
+            "pid": 7578,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Quốc Lộ P7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.625355",
+            "lng": "105.958783"
+        },
+        {
+            "id": 970899,
+            "name": "Đường Sóc Vồ",
+            "pid": 7578,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sóc Vồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.631442",
+            "lng": "105.953417"
+        },
+        {
+            "id": 970903,
+            "name": "Đường Sóc Vồ 1-151",
+            "pid": 7578,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Sóc Vồ 1-151",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.631442",
+            "lng": "105.953417"
+        },
+        {
+            "id": 970904,
+            "name": "Đường Sóc Vồ 1-151",
+            "pid": 7578,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Sóc Vồ 1-151",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.631442",
+            "lng": "105.953417"
+        },
+        {
+            "id": 970906,
+            "name": "Đường Sóc Vồ 153-999",
+            "pid": 7578,
+            "type": 29,
+            "region": null,
+            "alias": "Đường Sóc Vồ 153-999",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.612386",
+            "lng": "105.949975"
+        },
+        {
+            "id": 970907,
+            "name": "Kdc Minh Châu",
+            "pid": 7578,
+            "type": 21,
+            "region": null,
+            "alias": "KDC Minh Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.627155",
+            "lng": "105.961881"
+        }
+    ],
+    "log_id": "675909c17ba02903"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 815593,
+            "name": "Kon Năng",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Kon Năng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627348,
+            "name": "Thôn Bê Rê",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bê Rê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627357,
+            "name": "Thôn Đăk Lây",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Lây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 815590,
+            "name": "Thôn Kon P Roi",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon P Roi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627339,
+            "name": "Thôn Kon Riêng",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Riêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627345,
+            "name": "Thôn Kon Rồng",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon Rồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627351,
+            "name": "Thôn La Lua",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Lua",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627342,
+            "name": "Thôn Liêm Răng",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liêm Răng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 627354,
+            "name": "Thôn Mô Man",
+            "pid": 19241,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mô Man",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1714697",
+            "lng": "107.8346924"
+        }
+    ],
+    "log_id": "6758174ccf18f248"
+}

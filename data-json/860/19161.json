@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 609327,
+            "name": "Huy Long",
+            "pid": 19161,
+            "type": 16,
+            "region": null,
+            "alias": "Huy Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8457201",
+            "lng": "108.65319090000003"
+        },
+        {
+            "id": 609333,
+            "name": "Làng Tương",
+            "pid": 19161,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8457201",
+            "lng": "108.65319090000003"
+        },
+        {
+            "id": 609324,
+            "name": "Thôn Gò Nghênh",
+            "pid": 19161,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gò Nghênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8457201",
+            "lng": "108.65319090000003"
+        },
+        {
+            "id": 609330,
+            "name": "Thôn Làng Rêu",
+            "pid": 19161,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Rêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8457201",
+            "lng": "108.65319090000003"
+        }
+    ],
+    "log_id": "675909a4b589c73"
+}

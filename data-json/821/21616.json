@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 530849,
+            "name": "Xóm Long Biên",
+            "pid": 21616,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Long Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7085372",
+            "lng": "105.38243379999994"
+        },
+        {
+            "id": 580434,
+            "name": "Xóm Long Giang",
+            "pid": 21616,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Long Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7085372",
+            "lng": "105.38243379999994"
+        },
+        {
+            "id": 580437,
+            "name": "Xóm Long Sơn",
+            "pid": 21616,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Long Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7085372",
+            "lng": "105.38243379999994"
+        },
+        {
+            "id": 580440,
+            "name": "Xóm Long Tiến",
+            "pid": 21616,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Long Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.7085372",
+            "lng": "105.38243379999994"
+        }
+    ],
+    "log_id": "67581208bfc67542"
+}

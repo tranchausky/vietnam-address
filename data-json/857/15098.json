@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603549,
+            "name": "Bệnh Viện Tỉnh Ninh Thuận",
+            "pid": 15098,
+            "type": 6,
+            "region": null,
+            "alias": "Bệnh viện tỉnh Ninh Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5683208",
+            "lng": "108.99583789999997"
+        },
+        {
+            "id": 603540,
+            "name": "Đường Nguyễn Thị Minh Khai",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thị Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5683208",
+            "lng": "108.99583789999997"
+        },
+        {
+            "id": 603555,
+            "name": "Đường Nguyễn Trác",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5683208",
+            "lng": "108.99583789999997"
+        },
+        {
+            "id": 603543,
+            "name": "Đường Nguyễn Văn Cừ",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5683208",
+            "lng": "108.99583789999997"
+        },
+        {
+            "id": 603552,
+            "name": "Đường Trường Chinh",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5683208",
+            "lng": "108.99583789999997"
+        },
+        {
+            "id": 603546,
+            "name": "Đường Yên Ninh",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5683208",
+            "lng": "108.99583789999997"
+        },
+        {
+            "id": 969721,
+            "name": "Khu Phố 7 Phường Văn Hải",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 7 Phường Văn Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5722248",
+            "lng": "108.9933112999999"
+        },
+        {
+            "id": 1006441,
+            "name": "Khu Tái Định Cư Nam Cương Thành",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tái định cư Nam Cương Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.579554816453767",
+            "lng": " 109.0007160664925"
+        },
+        {
+            "id": 1006439,
+            "name": "Nguyễn Trác Số Chẵn",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Trác số chẵn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.589715360196378",
+            "lng": "109.02064340994052"
+        },
+        {
+            "id": 1006440,
+            "name": "Nguyễn Trác Số Lẻ",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Trác số lẻ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.589715360196378",
+            "lng": "109.02064340994052"
+        },
+        {
+            "id": 1006437,
+            "name": "Trường Chinh Số Chẵn",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Trường Chinh số chẵn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.583475557229344",
+            "lng": "109.01266523114319"
+        },
+        {
+            "id": 1006438,
+            "name": "Trường Chinh Số Lẻ",
+            "pid": 15098,
+            "type": 21,
+            "region": null,
+            "alias": "Trường Chinh Số Lẻ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.583190391995144",
+            "lng": " 109.01207350808848"
+        }
+    ],
+    "log_id": "675817b98a6a4999"
+}

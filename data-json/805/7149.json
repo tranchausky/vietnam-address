@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 513623,
+            "name": "Kcn Tân Hồng",
+            "pid": 7149,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Tân Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8657716",
+            "lng": "106.17008190000001"
+        },
+        {
+            "id": 513625,
+            "name": "Thôn Mộ Trạch",
+            "pid": 7149,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mộ Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8657716",
+            "lng": "106.17008190000001"
+        },
+        {
+            "id": 513627,
+            "name": "Thôn My Cầu",
+            "pid": 7149,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn My Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8657716",
+            "lng": "106.17008190000001"
+        },
+        {
+            "id": 513631,
+            "name": "Thôn Trạch Xá",
+            "pid": 7149,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạch Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8657716",
+            "lng": "106.17008190000001"
+        },
+        {
+            "id": 513633,
+            "name": "Thôn Tuyển Cử",
+            "pid": 7149,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tuyển Cử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8657716",
+            "lng": "106.17008190000001"
+        }
+    ],
+    "log_id": "675813f1d23f7671"
+}

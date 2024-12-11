@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 961573,
+            "name": "Chẫn 384-512 Lý Thái Tổ",
+            "pid": 1212,
+            "type": 29,
+            "region": null,
+            "alias": "Chẫn 384-512 Lý Thái Tổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.768062",
+            "lng": "106.671634"
+        },
+        {
+            "id": 961542,
+            "name": "Chẫn 516-550 Lý Thái Tổ",
+            "pid": 1212,
+            "type": 29,
+            "region": null,
+            "alias": "Chẫn 516-550 Lý Thái Tổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.76797",
+            "lng": "106.670127"
+        },
+        {
+            "id": 961962,
+            "name": "Cửa Hàng Điện Thoại Di Động Lan Nguyễn",
+            "pid": 1212,
+            "type": 29,
+            "region": null,
+            "alias": "Cửa Hàng Điện Thoại Di Động Lan Nguyễn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.770961",
+            "lng": "106.673598"
+        },
+        {
+            "id": 680440,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1212,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7699903",
+            "lng": "106.671484"
+        },
+        {
+            "id": 681931,
+            "name": "Đường Điện Biên Phủ",
+            "pid": 1212,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7693149",
+            "lng": "106.6755535"
+        },
+        {
+            "id": 678022,
+            "name": "Đường Lê Hồng Phong",
+            "pid": 1212,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7700225",
+            "lng": "106.6734807"
+        },
+        {
+            "id": 679012,
+            "name": "Đường Lý Thái Tổ",
+            "pid": 1212,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thái Tổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7677634",
+            "lng": "106.6715465"
+        },
+        {
+            "id": 674614,
+            "name": "Đường Sư Vạn Hạnh",
+            "pid": 1212,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sư Vạn Hạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.769188201104484",
+            "lng": "106.67122721672058"
+        },
+        {
+            "id": 674320,
+            "name": "Đường Trần Minh Quyền",
+            "pid": 1212,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Minh Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7704159",
+            "lng": "106.6747885"
+        },
+        {
+            "id": 960453,
+            "name": "Hẻm 702 Điện Biên Phủ",
+            "pid": 1212,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 702 Điện Biên Phủ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.769307478",
+            "lng": "106.67556584"
+        }
+    ],
+    "log_id": "6758129af3e87547"
+}

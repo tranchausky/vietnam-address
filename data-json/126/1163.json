@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98531,
+            "name": "Ấp An Bình",
+            "pid": 1163,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.103920",
+            "lng": "106.478297"
+        },
+        {
+            "id": 98783,
+            "name": "Ấp An Hoà",
+            "pid": 1163,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.110932",
+            "lng": "106.491773"
+        },
+        {
+            "id": 98513,
+            "name": "Ấp Phú Bình",
+            "pid": 1163,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.122241",
+            "lng": "106.499123"
+        },
+        {
+            "id": 98486,
+            "name": "Ấp Phú Trung",
+            "pid": 1163,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.128866",
+            "lng": "106.494617"
+        },
+        {
+            "id": 98417,
+            "name": "Ấp Xóm Chùa",
+            "pid": 1163,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.100802",
+            "lng": "106.510979"
+        },
+        {
+            "id": 675637,
+            "name": "Đường Bến Súc",
+            "pid": 1163,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Súc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1086097",
+            "lng": "106.4872716"
+        },
+        {
+            "id": 681643,
+            "name": "Đường Nguyễn Văn Tiệp",
+            "pid": 1163,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Tiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1084902",
+            "lng": "106.5129278"
+        },
+        {
+            "id": 780295,
+            "name": "Xóm Thuốc",
+            "pid": 1163,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thuốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1168711",
+            "lng": "106.4994889"
+        }
+    ],
+    "log_id": "6758129a3b482685"
+}

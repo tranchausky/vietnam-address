@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 749821,
+            "name": "Khu 4",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 749818,
+            "name": "Khu 5",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556701,
+            "name": "Khu Ban",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Ban",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556709,
+            "name": "Khu Cốc",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556699,
+            "name": "Khu Khằm",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Khằm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556703,
+            "name": "Khu Khó",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Khó",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556707,
+            "name": "Khu Mướp",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Mướp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556705,
+            "name": "Khu Nghèo",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Nghèo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        },
+        {
+            "id": 556697,
+            "name": "Khu Phố Hồi Xuân",
+            "pid": 22204,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hồi Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.417771",
+            "lng": "105.06743170000004"
+        }
+    ],
+    "log_id": "67590a239ba07620"
+}

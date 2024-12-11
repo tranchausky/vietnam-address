@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465507,
+            "name": "Phước Điền",
+            "pid": 78479,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.709167",
+            "lng": "107.306944"
+        },
+        {
+            "id": 465531,
+            "name": "Thôn Thiện Đông",
+            "pid": 78479,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7191895",
+            "lng": "107.2725505"
+        },
+        {
+            "id": 465527,
+            "name": "Thôn Thiện Tây",
+            "pid": 78479,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiện Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.7191895",
+            "lng": "107.2725505"
+        },
+        {
+            "id": 465509,
+            "name": "Trung Đơn",
+            "pid": 78479,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Đơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.709167",
+            "lng": "107.306944"
+        }
+    ],
+    "log_id": "675813bc5f5e3999"
+}

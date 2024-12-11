@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102512,
+            "name": "Cộng Hòa",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Cộng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6594987",
+            "lng": "105.884813"
+        },
+        {
+            "id": 102503,
+            "name": "Đào Xá",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Đào Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6498099",
+            "lng": "105.8723337"
+        },
+        {
+            "id": 102533,
+            "name": "Mạnh Tân",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Mạnh Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6594987",
+            "lng": " 105.884813"
+        },
+        {
+            "id": 102530,
+            "name": "Ngọc Trục",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Trục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6639459",
+            "lng": "105.89142"
+        },
+        {
+            "id": 102527,
+            "name": "Nhân Trai",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Nhân Trai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6605675,",
+            "lng": " 105.8811425"
+        },
+        {
+            "id": 102548,
+            "name": "Thống Nhất",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6594987",
+            "lng": "105.884813"
+        },
+        {
+            "id": 55798,
+            "name": "Ubnd Xã Đông Lỗ",
+            "pid": 4945,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đông Lỗ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 102521,
+            "name": "Viên Đình",
+            "pid": 4945,
+            "type": 16,
+            "region": null,
+            "alias": "Viên Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6517414",
+            "lng": "105.8826107"
+        }
+    ],
+    "log_id": "675811bd42f64629"
+}

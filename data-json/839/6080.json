@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 955724,
+            "name": "Cụm Công Nghiệp 7 Mẫu",
+            "pid": 6080,
+            "type": 5,
+            "region": null,
+            "alias": "Cụm công nghiệp 7 mẫu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.987421",
+            "lng": "106.747520"
+        },
+        {
+            "id": 80966,
+            "name": "Khu Phố An Thành",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố An Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.984795",
+            "lng": "106.762235"
+        },
+        {
+            "id": 869482,
+            "name": "Khu Phố Ba Đình",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Ba Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.974325",
+            "lng": "106.769395"
+        },
+        {
+            "id": 639693,
+            "name": "Khu Phố Mỹ Hiệp",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Mỹ Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9758339",
+            "lng": "106.7609377"
+        },
+        {
+            "id": 80960,
+            "name": "Khu Phố Phước Hải",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.992366",
+            "lng": "106.751216"
+        },
+        {
+            "id": 80963,
+            "name": "Khu Phố Phước Thái",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.996491",
+            "lng": "106.754459"
+        },
+        {
+            "id": 639690,
+            "name": "Khu Phố Tân Ba",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Tân Ba",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9758339",
+            "lng": "106.7609377"
+        },
+        {
+            "id": 639696,
+            "name": "Khu Phố Tân Mỹ",
+            "pid": 6080,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Tân Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9758339",
+            "lng": "106.7609377"
+        }
+    ],
+    "log_id": "6758162198c16245"
+}

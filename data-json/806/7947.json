@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118903,
+            "name": "Kcn Thốt Nốt",
+            "pid": 7947,
+            "type": 21,
+            "region": null,
+            "alias": "KCN Thốt Nốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.314564",
+            "lng": "105.484918"
+        },
+        {
+            "id": 608088,
+            "name": "Khu Vực Thới Bình",
+            "pid": 7947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.287521",
+            "lng": "105.494472"
+        },
+        {
+            "id": 608076,
+            "name": "Khu Vực Thới Hòa 1",
+            "pid": 7947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.287521",
+            "lng": "105.494472"
+        },
+        {
+            "id": 608079,
+            "name": "Khu Vực Thới Hòa 2",
+            "pid": 7947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.287521",
+            "lng": "105.494472"
+        },
+        {
+            "id": 608082,
+            "name": "Khu Vực Thới Thạnh 1",
+            "pid": 7947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.287521",
+            "lng": "105.494472"
+        },
+        {
+            "id": 608085,
+            "name": "Khu Vực Thới Thạnh 2",
+            "pid": 7947,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực Thới Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.287521",
+            "lng": "105.494472"
+        }
+    ],
+    "log_id": "6758140cb57ef270"
+}

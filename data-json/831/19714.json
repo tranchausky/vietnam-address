@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640027,
+            "name": "Tân Phước Nam",
+            "pid": 19714,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Phước Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.771974",
+            "lng": "109.314089"
+        },
+        {
+            "id": 456227,
+            "name": "Thôn Tân Phước Bắc",
+            "pid": 19714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Phước Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8197205",
+            "lng": "109.29504799999995"
+        },
+        {
+            "id": 456229,
+            "name": "Thôn Tân Phước Đông",
+            "pid": 19714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Phước Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8197205",
+            "lng": "109.29504799999995"
+        },
+        {
+            "id": 456231,
+            "name": "Thôn Tân Phước Tây",
+            "pid": 19714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Phước Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8197205",
+            "lng": "109.29504799999995"
+        },
+        {
+            "id": 456233,
+            "name": "Thôn Tân Phước Trung",
+            "pid": 19714,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Phước Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.8197205",
+            "lng": "109.29504799999995"
+        }
+    ],
+    "log_id": "67581585a462f858"
+}

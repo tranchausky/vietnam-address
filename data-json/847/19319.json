@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 799876,
+            "name": "Thôn An Bình",
+            "pid": 19319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.027364",
+            "lng": "108.727391"
+        },
+        {
+            "id": 449579,
+            "name": "Thôn An Điền Bắc",
+            "pid": 19319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Điền Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.027364",
+            "lng": "108.727391"
+        },
+        {
+            "id": 449577,
+            "name": "Thôn An Điền Nam",
+            "pid": 19319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Điền Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.027364",
+            "lng": "108.727391"
+        },
+        {
+            "id": 826525,
+            "name": "Thôn Phước Bình",
+            "pid": 19319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.027364",
+            "lng": "108.727391"
+        }
+    ],
+    "log_id": "675816d33364872"
+}

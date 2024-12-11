@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443213,
+            "name": "Ấp Bắc Trang",
+            "pid": 18066,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bắc Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8438495",
+            "lng": "105.46538970000006"
+        },
+        {
+            "id": 443211,
+            "name": "Ấp Rọc Muống",
+            "pid": 18066,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Rọc Muống",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8438495",
+            "lng": "105.46538970000006"
+        },
+        {
+            "id": 443209,
+            "name": "Ấp Thành Lập",
+            "pid": 18066,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thành Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8438495",
+            "lng": "105.46538970000006"
+        },
+        {
+            "id": 443215,
+            "name": "Ấp Thống Nhất",
+            "pid": 18066,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8438495",
+            "lng": "105.46538970000006"
+        }
+    ],
+    "log_id": "675816c042827869"
+}

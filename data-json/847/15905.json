@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 754648,
+            "name": "Krai",
+            "pid": 15905,
+            "type": 16,
+            "region": null,
+            "alias": "Krai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0809777",
+            "lng": "108.15472599999998"
+        },
+        {
+            "id": 623397,
+            "name": "Làng Dung Rơ",
+            "pid": 15905,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Dung rơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0809777",
+            "lng": "108.15472599999998"
+        },
+        {
+            "id": 623391,
+            "name": "Làng Klot",
+            "pid": 15905,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Klot",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0809777",
+            "lng": "108.15472599999998"
+        },
+        {
+            "id": 623394,
+            "name": "Lang Kto",
+            "pid": 15905,
+            "type": 16,
+            "region": null,
+            "alias": "Lang Kto",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0809777",
+            "lng": "108.15472599999998"
+        }
+    ],
+    "log_id": "675816d36d392103"
+}

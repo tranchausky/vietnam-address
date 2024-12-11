@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435945,
+            "name": "Ấp 5",
+            "pid": 15826,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        },
+        {
+            "id": 435935,
+            "name": "Ấp Cây Cầy",
+            "pid": 15826,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Cây Cầy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        },
+        {
+            "id": 435947,
+            "name": "Ấp Pa Pếch",
+            "pid": 15826,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Pa Pếch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        },
+        {
+            "id": 435931,
+            "name": "Ấp Suối Da",
+            "pid": 15826,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Suối Da",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        },
+        {
+            "id": 435933,
+            "name": "Ấp Suối Đôi",
+            "pid": 15826,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Suối Đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        },
+        {
+            "id": 435929,
+            "name": "Ấp Suối Nhung",
+            "pid": 15826,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Suối Nhung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        },
+        {
+            "id": 1004688,
+            "name": "Uỷ Ban Nhân Dân Xã Tân Hưng",
+            "pid": 15826,
+            "type": 21,
+            "region": null,
+            "alias": "Uỷ ban nhân dân Xã Tân Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5123355",
+            "lng": "106.9905473"
+        }
+    ],
+    "log_id": "675816378c5ac217"
+}

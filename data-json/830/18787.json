@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 408209,
+            "name": "Tân Lâm",
+            "pid": 18787,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4990072",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 887239,
+            "name": "Tân Mỹ",
+            "pid": 18787,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4990072",
+            "lng": "104.87465079999993"
+        }
+    ],
+    "log_id": "675815661f1dd623"
+}

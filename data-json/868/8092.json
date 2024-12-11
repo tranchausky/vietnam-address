@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 668917,
+            "name": "Đường Lộ Bờ Gòn",
+            "pid": 8092,
+            "type": 9,
+            "region": null,
+            "alias": "Đường Lộ Bờ Gòn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.6632376",
+            "lng": "108.5099567"
+        },
+        {
+            "id": 668908,
+            "name": "Đường Phạm Hùng",
+            "pid": 8092,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0180002",
+            "lng": "105.7821755"
+        },
+        {
+            "id": 668914,
+            "name": "Đường Phan Văn Đáng",
+            "pid": 8092,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Văn Đáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7251875",
+            "lng": "106.7715203"
+        },
+        {
+            "id": 668911,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 8092,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1658784",
+            "lng": "105.7796882"
+        }
+    ],
+    "log_id": "67590b59a63af444"
+}

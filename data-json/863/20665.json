@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 750010,
+            "name": "Quang Lang",
+            "pid": 20665,
+            "type": 16,
+            "region": null,
+            "alias": "Quang Lang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.562827",
+            "lng": "106.590819"
+        },
+        {
+            "id": 410423,
+            "name": "Thôn Quang Lang Đoài",
+            "pid": 20665,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Lang Đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.562827",
+            "lng": "106.59081900000001"
+        },
+        {
+            "id": 410425,
+            "name": "Thôn Quang Lang Đông",
+            "pid": 20665,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quang Lang Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.562827",
+            "lng": "106.59081900000001"
+        },
+        {
+            "id": 410427,
+            "name": "Thôn Tam Đồng",
+            "pid": 20665,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tam Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.562827",
+            "lng": "106.59081900000001"
+        }
+    ],
+    "log_id": "675909f3beb63562"
+}

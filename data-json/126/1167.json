@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 970895,
+            "name": "11-619",
+            "pid": 1167,
+            "type": 29,
+            "region": null,
+            "alias": "11-619",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.033535",
+            "lng": "106.525131"
+        },
+        {
+            "id": 118061,
+            "name": "Ấp 1",
+            "pid": 1167,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0171234",
+            "lng": "106.5288087"
+        },
+        {
+            "id": 118063,
+            "name": "Ấp 2",
+            "pid": 1167,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.034296",
+            "lng": "106.5157986"
+        },
+        {
+            "id": 118067,
+            "name": "Ấp 3",
+            "pid": 1167,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0385445",
+            "lng": "106.5329497"
+        },
+        {
+            "id": 118069,
+            "name": "Ấp 4",
+            "pid": 1167,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0385444",
+            "lng": "106.5263836"
+        },
+        {
+            "id": 118073,
+            "name": "Ấp 5",
+            "pid": 1167,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0401891",
+            "lng": "106.5061907"
+        },
+        {
+            "id": 1014720,
+            "name": "Trại Tạm Giam T30",
+            "pid": 1167,
+            "type": 4,
+            "region": null,
+            "alias": "Trại tạm giam T30",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.050012241842872",
+            "lng": "106.50976359762782"
+        }
+    ],
+    "log_id": "6758129a3dede645"
+}

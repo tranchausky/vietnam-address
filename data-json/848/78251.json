@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 698659,
+            "name": "Nam Yên",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.279956",
+            "lng": "106.035774"
+        },
+        {
+            "id": 969038,
+            "name": "Tây Đồng",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.276227",
+            "lng": "106.044848"
+        },
+        {
+            "id": 698656,
+            "name": "Tây Nguyên",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2800527",
+            "lng": "106.03462850000004"
+        },
+        {
+            "id": 826615,
+            "name": "Thôn 1A",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.279956",
+            "lng": "106.035774"
+        },
+        {
+            "id": 826609,
+            "name": "Thôn 6A",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.279956",
+            "lng": "106.035774"
+        },
+        {
+            "id": 701452,
+            "name": "Tiến Hưng",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Tiến Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.279956",
+            "lng": "106.035774"
+        },
+        {
+            "id": 808381,
+            "name": "Trung Bá",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Bá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.279956",
+            "lng": "106.035774"
+        },
+        {
+            "id": 701440,
+            "name": "Yên Thành",
+            "pid": 78251,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.2800527",
+            "lng": "106.03462850000004"
+        }
+    ],
+    "log_id": "675816e9ac785267"
+}

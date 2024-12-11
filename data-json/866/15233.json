@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 670246,
+            "name": "41 Hùng Vương",
+            "pid": 15233,
+            "type": 21,
+            "region": null,
+            "alias": "41 Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4672825",
+            "lng": "107.59924219999996"
+        },
+        {
+            "id": 463897,
+            "name": "Đường Bến Nghé",
+            "pid": 15233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Nghé",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4672825",
+            "lng": "107.59924219999994"
+        },
+        {
+            "id": 669676,
+            "name": "Đường Hùng Vương",
+            "pid": 15233,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4672825",
+            "lng": "107.59924219999996"
+        }
+    ],
+    "log_id": "67590b262f611104"
+}

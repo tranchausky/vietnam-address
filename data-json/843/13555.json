@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 991017,
+            "name": "Đường A10",
+            "pid": 13555,
+            "type": 21,
+            "region": null,
+            "alias": "Đường A10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6934567",
+            "lng": "108.031185"
+        },
+        {
+            "id": 990005,
+            "name": "Giải Phóng",
+            "pid": 13555,
+            "type": 10,
+            "region": null,
+            "alias": "giải phóng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.7077915",
+            "lng": "108.0522546"
+        },
+        {
+            "id": 990011,
+            "name": "Hai Bà Trưng",
+            "pid": 13555,
+            "type": 10,
+            "region": null,
+            "alias": "hai bà trưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6845841",
+            "lng": "108.0420503"
+        },
+        {
+            "id": 698983,
+            "name": "Lê Hồg Phong",
+            "pid": 13555,
+            "type": 10,
+            "region": null,
+            "alias": "Lê Hồg Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.717459",
+            "lng": "108.017432"
+        },
+        {
+            "id": 947107,
+            "name": "Lê Hồng Phong",
+            "pid": 13555,
+            "type": 10,
+            "region": null,
+            "alias": "Lê Hồng Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6811372",
+            "lng": "108.0392021"
+        },
+        {
+            "id": 924448,
+            "name": "Lý Thái Tổ",
+            "pid": 13555,
+            "type": 21,
+            "region": null,
+            "alias": "Lý Thái Tổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.717459",
+            "lng": "108.017432"
+        },
+        {
+            "id": 990003,
+            "name": "Phạm Văn Đồng",
+            "pid": 13555,
+            "type": 10,
+            "region": null,
+            "alias": "phạm văn đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6877163",
+            "lng": "108.099491"
+        },
+        {
+            "id": 457025,
+            "name": "Thôn 1",
+            "pid": 13555,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.717459",
+            "lng": "108.017432"
+        },
+        {
+            "id": 457023,
+            "name": "Thôn 2",
+            "pid": 13555,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.717459",
+            "lng": "108.017432"
+        },
+        {
+            "id": 111825,
+            "name": "Thôn 7",
+            "pid": 13555,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.717232",
+            "lng": "108.053014"
+        },
+        {
+            "id": 457021,
+            "name": "Thôn 8",
+            "pid": 13555,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.717459",
+            "lng": "108.017432"
+        },
+        {
+            "id": 990007,
+            "name": "Xăprăm",
+            "pid": 13555,
+            "type": 10,
+            "region": null,
+            "alias": "xăprăm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6524108",
+            "lng": "108.0189561"
+        },
+        {
+            "id": 957401,
+            "name": "Y Moal",
+            "pid": 13555,
+            "type": 21,
+            "region": null,
+            "alias": "Y Moal",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.711240",
+            "lng": "108.053095"
+        }
+    ],
+    "log_id": "6758167889961193"
+}

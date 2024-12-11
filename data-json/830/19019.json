@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571782,
+            "name": "Thôn Nà Lại",
+            "pid": 19019,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Lại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4086337",
+            "lng": "104.59466329999998"
+        },
+        {
+            "id": 110403,
+            "name": "Thôn Tân An",
+            "pid": 19019,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110405,
+            "name": "Thôn Tân Bình",
+            "pid": 19019,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110391,
+            "name": "Tổ 1",
+            "pid": 19019,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110385,
+            "name": "Tổ 2",
+            "pid": 19019,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110379,
+            "name": "Tổ 3",
+            "pid": 19019,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110399,
+            "name": "Tổ 4",
+            "pid": 19019,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110395,
+            "name": "Tổ 5",
+            "pid": 19019,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 22.4041281",
+            "lng": "104.5856558"
+        },
+        {
+            "id": 110413,
+            "name": "Xóm Tân Tiến",
+            "pid": 19019,
+            "type": 18,
+            "region": null,
+            "alias": "xóm tân tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4041281",
+            "lng": "104.5856558"
+        }
+    ],
+    "log_id": "675815663bd30210"
+}

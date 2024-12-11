@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117459,
+            "name": "Lam Mẫu",
+            "pid": 4600,
+            "type": 16,
+            "region": null,
+            "alias": "Lam Mẫu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8175668",
+            "lng": "105.7439194"
+        },
+        {
+            "id": 117451,
+            "name": "Mô Xá",
+            "pid": 4600,
+            "type": 16,
+            "region": null,
+            "alias": "Mô Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8157055",
+            "lng": "105.7483206"
+        },
+        {
+            "id": 117461,
+            "name": "Phú Khang",
+            "pid": 4600,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Khang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8175668",
+            "lng": "105.7439194"
+        },
+        {
+            "id": 117463,
+            "name": "Tân Thôn",
+            "pid": 4600,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8175668",
+            "lng": "105.7439194"
+        },
+        {
+            "id": 117453,
+            "name": "Tử La",
+            "pid": 4600,
+            "type": 16,
+            "region": null,
+            "alias": "Tử La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8155814",
+            "lng": "105.7411401"
+        },
+        {
+            "id": 54366,
+            "name": "Ubnd Xã Phú Nam An",
+            "pid": 4600,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phú Nam An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb7c74f993"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 109053,
+            "name": "Ấp 1",
+            "pid": 8015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.897391897827887,",
+            "lng": " 105.1720288372337"
+        },
+        {
+            "id": 109067,
+            "name": "Ấp 2",
+            "pid": 8015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.89584973435782,",
+            "lng": " 105.1815697940236"
+        },
+        {
+            "id": 109075,
+            "name": "Ấp 3",
+            "pid": 8015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.877172824746667, ",
+            "lng": "105.17474929209362"
+        },
+        {
+            "id": 109083,
+            "name": "Ấp 4",
+            "pid": 8015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.878161417370544,",
+            "lng": " 105.18096718006333"
+        },
+        {
+            "id": 109099,
+            "name": "Ấp 5",
+            "pid": 8015,
+            "type": 10,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.17181262320999",
+            "lng": "10.909930269010106, "
+        },
+        {
+            "id": 985563,
+            "name": "Trường Thpt Vĩnh Xương",
+            "pid": 8015,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Vĩnh Xương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.880718830696292",
+            "lng": ", 105.17987109983929"
+        }
+    ],
+    "log_id": "6758159dc7fad747"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 464347,
+            "name": "Đường Bắc Sơn",
+            "pid": 15146,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        },
+        {
+            "id": 464351,
+            "name": "Đường Chi Lăng",
+            "pid": 15146,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chi Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        },
+        {
+            "id": 464349,
+            "name": "Đường Đào Tấn",
+            "pid": 15146,
+            "type": 21,
+            "region": null,
+            "alias": "đường Đào Tấn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        },
+        {
+            "id": 464355,
+            "name": "Đường Dinh Cát",
+            "pid": 15146,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Dinh Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        },
+        {
+            "id": 464357,
+            "name": "Đường Đông Kinh Nghĩa Thục",
+            "pid": 15146,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đông Kinh Nghĩa Thục",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        },
+        {
+            "id": 464345,
+            "name": "Đường Lý Nam Đế",
+            "pid": 15146,
+            "type": 21,
+            "region": null,
+            "alias": "đường Lý Nam Đế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8101912",
+            "lng": "107.05920900000001"
+        }
+    ],
+    "log_id": "675813bc51883323"
+}

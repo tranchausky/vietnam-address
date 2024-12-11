@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 833683,
+            "name": "Quầy Thuốc Minh Thư",
+            "pid": 16493,
+            "type": 21,
+            "region": null,
+            "alias": "Quầy Thuốc Minh Thư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0285599",
+            "lng": "109.15232919999994"
+        },
+        {
+            "id": 109585,
+            "name": "Thôn Cẩm Thạch",
+            "pid": 16493,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.037930",
+            "lng": "109.151704"
+        },
+        {
+            "id": 109593,
+            "name": "Thôn Phú Sen Đông",
+            "pid": 16493,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Sen Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.039602",
+            "lng": "109.2742321"
+        },
+        {
+            "id": 109601,
+            "name": "Thôn Phú Sen Tây",
+            "pid": 16493,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phú sen tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.039602",
+            "lng": "109.2742321"
+        }
+    ],
+    "log_id": "67590b809a2a2611"
+}

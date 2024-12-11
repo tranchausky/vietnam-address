@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 738562,
+            "name": "Thôn Dẫm Chùa",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dẫm Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        },
+        {
+            "id": 735877,
+            "name": "Thôn Dẫm Đình",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dẫm Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        },
+        {
+            "id": 735880,
+            "name": "Thôn Đào Lạng",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đào Lạng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        },
+        {
+            "id": 738568,
+            "name": "Thôn Lọng Đình",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lọng đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        },
+        {
+            "id": 738565,
+            "name": "Thôn Lọng Nghè",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lọng Nghè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        },
+        {
+            "id": 735883,
+            "name": "Thôn Quỳnh Độ",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quỳnh độ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        },
+        {
+            "id": 735886,
+            "name": "Thôn Xuân Phú",
+            "pid": 19102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.248389000000003",
+            "lng": "106.36551159999999"
+        }
+    ],
+    "log_id": "675813d960488701"
+}

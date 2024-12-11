@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1009950,
+            "name": "2 Phố Lạc Nghiệp",
+            "pid": 109,
+            "type": 8,
+            "region": null,
+            "alias": "2 Phố Lạc Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.00887605267525",
+            "lng": "105.85919453732066"
+        },
+        {
+            "id": 1009948,
+            "name": "120 Phố Lạc Nghiệp",
+            "pid": 109,
+            "type": 8,
+            "region": null,
+            "alias": "120 Phố Lạc Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.008194688854836",
+            "lng": "105.85697214474826"
+        },
+        {
+            "id": 1009947,
+            "name": "133 Phố Lạc Nghiệp",
+            "pid": 109,
+            "type": 8,
+            "region": null,
+            "alias": "133 Phố Lạc Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.00798070044887",
+            "lng": "105.85782139314126"
+        },
+        {
+            "id": 1009949,
+            "name": "164 Phố Lạc Nghiệp",
+            "pid": 109,
+            "type": 8,
+            "region": null,
+            "alias": "164 Phố Lạc Nghiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.008708499764232",
+            "lng": "105.85635662382813"
+        },
+        {
+            "id": 829789,
+            "name": "Đường Lạc Nghiệp",
+            "pid": 109,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lạc Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0053964",
+            "lng": "105.85691930000007"
+        },
+        {
+            "id": 881287,
+            "name": "Đường Ngõ Trại Găng",
+            "pid": 109,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngõ Trại Găng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,004058",
+            "lng": "105,852851"
+        },
+        {
+            "id": 881284,
+            "name": "Đường Thanh Nhàn",
+            "pid": 109,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thanh Nhàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,004058",
+            "lng": "105,852851"
+        },
+        {
+            "id": 881278,
+            "name": "Đường Trần Khát Chân",
+            "pid": 109,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Khát Chân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,004058",
+            "lng": "105,852851"
+        },
+        {
+            "id": 830989,
+            "name": "Đường Võ Thị Sáu",
+            "pid": 109,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Thị Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0053964",
+            "lng": "105.85691930000007"
+        },
+        {
+            "id": 26261,
+            "name": "Lạc Nghiệp",
+            "pid": 109,
+            "type": 2,
+            "region": null,
+            "alias": "Lạc Nghiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0078912",
+            "lng": "105.8581193"
+        },
+        {
+            "id": 1009952,
+            "name": "Ngõ 281 Trần Khát Chân",
+            "pid": 109,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 281 trần khát chân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0089362934067",
+            "lng": "105.85966153732056"
+        },
+        {
+            "id": 1009951,
+            "name": "Ngõ 395 Trần Khát Chân",
+            "pid": 109,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 395 trần khát chân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.008705109378",
+            "lng": "105.85442790848471"
+        },
+        {
+            "id": 49404,
+            "name": "Thcs Minh Khai",
+            "pid": 109,
+            "type": 9,
+            "region": null,
+            "alias": "THCS MINH KHAI",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd1d258418"
+}

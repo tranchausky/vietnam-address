@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467125,
+            "name": "Thôn Đa Phú 1",
+            "pid": 16235,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Phú 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3902328",
+            "lng": "108.64725269999997"
+        },
+        {
+            "id": 467127,
+            "name": "Thôn Đa Phú 2",
+            "pid": 16235,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Phú 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3902328",
+            "lng": "108.64725269999997"
+        },
+        {
+            "id": 467117,
+            "name": "Thôn Phú Quý 1",
+            "pid": 16235,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Quý 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3902328",
+            "lng": "108.64725269999997"
+        },
+        {
+            "id": 467119,
+            "name": "Thôn Phú Quý 2",
+            "pid": 16235,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Quý 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3902328",
+            "lng": "108.64725269999997"
+        },
+        {
+            "id": 467121,
+            "name": "Thôn Phú Quý 3",
+            "pid": 16235,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Quý 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3902328",
+            "lng": "108.64725269999997"
+        },
+        {
+            "id": 467123,
+            "name": "Thôn Trà Tây",
+            "pid": 16235,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trà Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.3902328",
+            "lng": "108.64725269999997"
+        }
+    ],
+    "log_id": "675817e1d3ef812"
+}

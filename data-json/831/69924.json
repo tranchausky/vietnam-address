@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 69928,
+            "name": "Đường Chính Hữu",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "đường Chính Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 15048,
+            "name": "Đường Giáp Văn Cương",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "đường Giáp Văn Cương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.3372157",
+            "lng": "109.19813369999997"
+        },
+        {
+            "id": 69940,
+            "name": "Đường Nguyễn Phan Chánh",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Phan Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 771853,
+            "name": "Đường Phạm Văn Đồng",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.287347",
+            "lng": "109.205586"
+        },
+        {
+            "id": 69936,
+            "name": "Đường Phan Trọng Tuệ",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "đường Phan Trọng Tuệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 69948,
+            "name": "Đường Văng Đăng",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Văng Đăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 69944,
+            "name": "Đường Võ Tánh",
+            "pid": 69924,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Tánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 69952,
+            "name": "Thôn Cát Lợi",
+            "pid": 69924,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Cát Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 843490,
+            "name": "Thôn Lương Hoà",
+            "pid": 69924,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lương Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.247134",
+            "lng": "109.189142"
+        },
+        {
+            "id": 994812,
+            "name": "Thu Bồn",
+            "pid": 69924,
+            "type": 16,
+            "region": null,
+            "alias": "Thu bồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.341225265483475",
+            "lng": " 109.19596508938848"
+        }
+    ],
+    "log_id": "67581585ddb50395"
+}

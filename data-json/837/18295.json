@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113667,
+            "name": "Thôn An Mỹ",
+            "pid": 18295,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0329279",
+            "lng": "106.2572487"
+        },
+        {
+            "id": 114863,
+            "name": "Thôn My Xuyên",
+            "pid": 18295,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn My Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0329279",
+            "lng": "106.2572487"
+        },
+        {
+            "id": 114633,
+            "name": "Thôn Nghĩa Hương",
+            "pid": 18295,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0329279",
+            "lng": "106.2572487"
+        }
+    ],
+    "log_id": "675815f8cd90b975"
+}

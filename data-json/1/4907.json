@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 916384,
+            "name": "Nghiêm Xá",
+            "pid": 4907,
+            "type": 16,
+            "region": null,
+            "alias": "Nghiêm Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8715715",
+            "lng": "105.86279130000004"
+        },
+        {
+            "id": 118857,
+            "name": "Thôn Cống Xuyên",
+            "pid": 4907,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cống Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.804073",
+            "lng": "105.862078"
+        },
+        {
+            "id": 118863,
+            "name": "Thôn Liễu Viên",
+            "pid": 4907,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liễu Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.804487",
+            "lng": "105.847756"
+        },
+        {
+            "id": 118851,
+            "name": "Thôn Nghiêm Xá",
+            "pid": 4907,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghiêm Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.808252",
+            "lng": "105.852417"
+        },
+        {
+            "id": 55674,
+            "name": "Ubnd Xã Nghiêm Xuyên",
+            "pid": 4907,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Nghiêm Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8039902",
+            "lng": "105.8544554,17"
+        }
+    ],
+    "log_id": "675811bc9ec0a86"
+}

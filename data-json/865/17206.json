@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 420189,
+            "name": "Cẩm Vân",
+            "pid": 17206,
+            "type": 21,
+            "region": null,
+            "alias": "Cẩm Vân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9249747",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 420191,
+            "name": "Thôn Lam Đạt",
+            "pid": 17206,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lam Đạt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9249747",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 420187,
+            "name": "Thôn Lam Vỹ",
+            "pid": 17206,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lam Vỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9249747",
+            "lng": "105.6207263"
+        },
+        {
+            "id": 420185,
+            "name": "Thôn Yên Lộ",
+            "pid": 17206,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Lộ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9249747",
+            "lng": "105.6207263"
+        }
+    ],
+    "log_id": "67590a23ae075568"
+}

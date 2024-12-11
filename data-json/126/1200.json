@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114467,
+            "name": "Ấp 1",
+            "pid": 1200,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7111829",
+            "lng": "106.6876195"
+        },
+        {
+            "id": 114477,
+            "name": "Ấp 2",
+            "pid": 1200,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7059276",
+            "lng": "106.6881802"
+        },
+        {
+            "id": 114481,
+            "name": "Ấp 3 - Xã Phước Lộc",
+            "pid": 1200,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3 - xã Phước Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.713525",
+            "lng": "106.6994046"
+        },
+        {
+            "id": 114489,
+            "name": "Ấp 4",
+            "pid": 1200,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6556418",
+            "lng": "106.6921501"
+        },
+        {
+            "id": 957392,
+            "name": "Đường Bờ Tây Kinh Cây Khô",
+            "pid": 1200,
+            "type": 21,
+            "region": null,
+            "alias": "Đường bờ Tây Kinh Cây Khô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7063914",
+            "lng": "106.6880488"
+        },
+        {
+            "id": 1000370,
+            "name": "Đường D4",
+            "pid": 1200,
+            "type": 21,
+            "region": null,
+            "alias": "ĐƯỜNG D4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.709177182",
+            "lng": "106.68673122"
+        },
+        {
+            "id": 675823,
+            "name": "Đường Đào Sư Tích",
+            "pid": 1200,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Đào Sư Tích",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7001935",
+            "lng": "106.686313"
+        },
+        {
+            "id": 671806,
+            "name": "Đường Phạm Hùng",
+            "pid": 1200,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7087131",
+            "lng": "106.6859232"
+        },
+        {
+            "id": 676639,
+            "name": "Đường Tám Phàm",
+            "pid": 1200,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tám Phàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7036232",
+            "lng": "106.6820626"
+        },
+        {
+            "id": 1000371,
+            "name": "Hẻm 85",
+            "pid": 1200,
+            "type": 8,
+            "region": null,
+            "alias": "HẺM 85",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.707269766",
+            "lng": "106.68692295"
+        }
+    ],
+    "log_id": "6758129ab9a5d498"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 887320,
+            "name": "Tơi",
+            "pid": 4713,
+            "type": 4,
+            "region": null,
+            "alias": "tơi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1660984",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 887326,
+            "name": "Trại A",
+            "pid": 4713,
+            "type": 18,
+            "region": null,
+            "alias": "Trại A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1660984",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 887323,
+            "name": "Trại B",
+            "pid": 4713,
+            "type": 10,
+            "region": null,
+            "alias": "Trại B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1660984",
+            "lng": "105.70577920000004"
+        },
+        {
+            "id": 54782,
+            "name": "Ubnd Xã Văn Khê",
+            "pid": 4713,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Văn Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 120703,
+            "name": "Xóm Đông",
+            "pid": 4713,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1663591",
+            "lng": "105.7060113"
+        }
+    ],
+    "log_id": "675811bc47217147"
+}

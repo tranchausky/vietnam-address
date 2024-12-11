@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928966,
+            "name": "Thanh Miếu",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Miếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 629121,
+            "name": "Thôn Cự Đình",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cự đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 629118,
+            "name": "Thôn Đồng Chung",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng chung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 629124,
+            "name": "Thôn Mễ Đậu",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mễ đậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 928960,
+            "name": "Thôn Miếu",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Miếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 629127,
+            "name": "Thôn Phả Lê",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phả lê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 629133,
+            "name": "Thôn Sầm Khúc",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn sầm khúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        },
+        {
+            "id": 629130,
+            "name": "Thôn Thục Cầu",
+            "pid": 20135,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thục cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9854595",
+            "lng": "106.04637460000004"
+        }
+    ],
+    "log_id": "67581490bc7b0188"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 528955,
+            "name": "Làng Trống",
+            "pid": 21450,
+            "type": 18,
+            "region": null,
+            "alias": "Làng Trống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3601015",
+            "lng": "105.55436609999992"
+        },
+        {
+            "id": 528949,
+            "name": "Xóm Cầu",
+            "pid": 21450,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3601015",
+            "lng": "105.55436609999992"
+        },
+        {
+            "id": 528951,
+            "name": "Xóm Màn",
+            "pid": 21450,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Màn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3601015",
+            "lng": "105.55436609999992"
+        },
+        {
+            "id": 528953,
+            "name": "Xóm Men",
+            "pid": 21450,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Men",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3601015",
+            "lng": "105.55436609999992"
+        }
+    ],
+    "log_id": "67581208e1f35859"
+}

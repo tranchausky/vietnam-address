@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 961413,
+            "name": "Kcn Trảng Bàng",
+            "pid": 19227,
+            "type": 10,
+            "region": null,
+            "alias": "KCN Trảng Bàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.0214242",
+            "lng": "106.39495160000001"
+        },
+        {
+            "id": 109995,
+            "name": "Khu Phố Gia Huỳnh",
+            "pid": 19227,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Gia Huỳnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.043096",
+            "lng": "106.359380"
+        },
+        {
+            "id": 110047,
+            "name": "Khu Phố Lộc An",
+            "pid": 19227,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lộc An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.037907",
+            "lng": "106.349271"
+        },
+        {
+            "id": 108785,
+            "name": "Khu Phố Lộc Du",
+            "pid": 19227,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lộc Du",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.032399",
+            "lng": "106.357649"
+        },
+        {
+            "id": 110195,
+            "name": "Khu Phố Lộc Thành",
+            "pid": 19227,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Lộc Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.029891",
+            "lng": "106.357996"
+        }
+    ],
+    "log_id": "675909dceeac4513"
+}

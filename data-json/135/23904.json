@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515973,
+            "name": "Phong Niên",
+            "pid": 23904,
+            "type": 16,
+            "region": null,
+            "alias": "Phong Niên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7951349",
+            "lng": "106.8679899"
+        },
+        {
+            "id": 636684,
+            "name": "Thôn Phong Niên",
+            "pid": 23904,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phong Niên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7951349",
+            "lng": "106.8679899"
+        },
+        {
+            "id": 636690,
+            "name": "Thôn Trung Lâm",
+            "pid": 23904,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7951349",
+            "lng": "106.8679899"
+        },
+        {
+            "id": 515977,
+            "name": "Văn Chấn",
+            "pid": 23904,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Chấn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7951349",
+            "lng": "106.8679899"
+        },
+        {
+            "id": 515979,
+            "name": "Văn Phong",
+            "pid": 23904,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7951349",
+            "lng": "106.8679899"
+        }
+    ],
+    "log_id": "6758136615ab8870"
+}

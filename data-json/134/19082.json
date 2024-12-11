@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 909919,
+            "name": "Ba Khe",
+            "pid": 19082,
+            "type": 16,
+            "region": null,
+            "alias": "Ba Khe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.490399",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 832288,
+            "name": "Đồng Tiến",
+            "pid": 19082,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.490399",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 909916,
+            "name": "Suối Trà",
+            "pid": 19082,
+            "type": 16,
+            "region": null,
+            "alias": "Suối Trà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.490399",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 714751,
+            "name": "Thôn Chiến Thắng",
+            "pid": 19082,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chiến thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.518372",
+            "lng": "106.446258"
+        },
+        {
+            "id": 714781,
+            "name": "Thôn Hố 10",
+            "pid": 19082,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hố 10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.521734",
+            "lng": "106.444104"
+        }
+    ],
+    "log_id": "6758133f21932934"
+}

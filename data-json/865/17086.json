@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 561757,
+            "name": "Làng Trung",
+            "pid": 17086,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6781919",
+            "lng": "105.79087200000004"
+        },
+        {
+            "id": 561761,
+            "name": "Thôn Cống Trúc",
+            "pid": 17086,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cống Trúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6781919",
+            "lng": "105.79087200000004"
+        },
+        {
+            "id": 561755,
+            "name": "Thôn Trần Cầu",
+            "pid": 17086,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trần Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6781919",
+            "lng": "105.79087200000004"
+        },
+        {
+            "id": 561763,
+            "name": "Thôn Xa Thư",
+            "pid": 17086,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xa Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6781919",
+            "lng": "105.79087200000004"
+        },
+        {
+            "id": 561759,
+            "name": "Tiền Thôn",
+            "pid": 17086,
+            "type": 16,
+            "region": null,
+            "alias": "Tiền Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6781919",
+            "lng": "105.79087200000004"
+        }
+    ],
+    "log_id": "67590a2328e3d397"
+}

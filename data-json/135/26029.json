@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980701,
+            "name": "Đường Chợ Hương",
+            "pid": 26029,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Chợ Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980704,
+            "name": "Đường Trại Mới",
+            "pid": 26029,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trại Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980700,
+            "name": "Đường Trần Bá Lương",
+            "pid": 26029,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Bá Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 81257,
+            "name": "Phạm Gia Mô",
+            "pid": 26029,
+            "type": 10,
+            "region": null,
+            "alias": "Phạm Gia Mô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.791807",
+            "lng": "106.675157"
+        },
+        {
+            "id": 81209,
+            "name": "Phúc Lộc",
+            "pid": 26029,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.803761",
+            "lng": "106.677504"
+        },
+        {
+            "id": 81215,
+            "name": "Phương Lung",
+            "pid": 26029,
+            "type": 5,
+            "region": null,
+            "alias": "Phương Lung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.792287",
+            "lng": "106.678555"
+        },
+        {
+            "id": 81197,
+            "name": "Tiểu Trà",
+            "pid": 26029,
+            "type": 16,
+            "region": null,
+            "alias": "Tiểu Trà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.800662",
+            "lng": "106.686623"
+        },
+        {
+            "id": 849199,
+            "name": "Tổ 4",
+            "pid": 26029,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7966965",
+            "lng": "106.67923999999994"
+        },
+        {
+            "id": 843112,
+            "name": "Tổ 11",
+            "pid": 26029,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7966965",
+            "lng": "106.67923999999994"
+        }
+    ],
+    "log_id": "67581366075f19"
+}

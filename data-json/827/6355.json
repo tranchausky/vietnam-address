@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 425035,
+            "name": "Ba Mô",
+            "pid": 6355,
+            "type": 17,
+            "region": null,
+            "alias": "Ba Mô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 806053,
+            "name": "Cầu Đá",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425043,
+            "name": "Chân Sơn",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "Chân Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425033,
+            "name": "Chùa Tiếng Hương Sơn",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "Chùa Tiếng Hương Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425045,
+            "name": "Hương Vị",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "Hương Vị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425041,
+            "name": "Tam Lộng",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "Tam Lộng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425037,
+            "name": "Thiếu Khanh",
+            "pid": 6355,
+            "type": 17,
+            "region": null,
+            "alias": "Thiếu Khanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425049,
+            "name": "Thôn Hoàng Oanh",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hoàng Oanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        },
+        {
+            "id": 425047,
+            "name": "Thôn Hương Ngọc, Xã Hương Sơn",
+            "pid": 6355,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hương Ngọc, xã Hương Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.313857",
+            "lng": "105.67644610000002"
+        }
+    ],
+    "log_id": "6758153330f3b399"
+}

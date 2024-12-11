@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876724,
+            "name": "Đường Cảm Hội",
+            "pid": 97,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cảm Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,009891",
+            "lng": "105,860103"
+        },
+        {
+            "id": 829306,
+            "name": "Đường Dốc Thọ Lão",
+            "pid": 97,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Dốc thọ Lão",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0112392",
+            "lng": "105.86022230000003"
+        },
+        {
+            "id": 829330,
+            "name": "Đường Đống Mác",
+            "pid": 97,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đống Mác",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0112392",
+            "lng": "105.86022230000003"
+        },
+        {
+            "id": 876733,
+            "name": "Đường Lò Đúc",
+            "pid": 97,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lò Đúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,009891",
+            "lng": "105,860103"
+        },
+        {
+            "id": 876730,
+            "name": "Đường Nguyễn Cao",
+            "pid": 97,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,009891",
+            "lng": "105,860103"
+        }
+    ],
+    "log_id": "675811bd19f6e946"
+}

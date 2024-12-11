@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599643,
+            "name": "Khu Phố 1",
+            "pid": 6554,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3448342",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599646,
+            "name": "Khu Phố 2",
+            "pid": 6554,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3448342",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599649,
+            "name": "Khu Phố 3",
+            "pid": 6554,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3448342",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599652,
+            "name": "Khu Phố 4",
+            "pid": 6554,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3448342",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599655,
+            "name": "Khu Phố 5",
+            "pid": 6554,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3448342",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 599658,
+            "name": "Khu Phố 6",
+            "pid": 6554,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3448342",
+            "lng": "106.57608570000002"
+        }
+    ],
+    "log_id": "675814f3c481f386"
+}

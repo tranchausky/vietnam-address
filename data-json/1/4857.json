@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 492933,
+            "name": "Hội Hương",
+            "pid": 4857,
+            "type": 16,
+            "region": null,
+            "alias": "Hội Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0033937",
+            "lng": "105.4098004"
+        },
+        {
+            "id": 492935,
+            "name": "Luồng Lặt",
+            "pid": 4857,
+            "type": 16,
+            "region": null,
+            "alias": "Luồng Lặt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.991622",
+            "lng": "105.4220633"
+        },
+        {
+            "id": 492937,
+            "name": "Sổ Tơi",
+            "pid": 4857,
+            "type": 16,
+            "region": null,
+            "alias": "Sổ Tơi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0041459",
+            "lng": "105.4214515"
+        },
+        {
+            "id": 489155,
+            "name": "Thôn Bối",
+            "pid": 4857,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0041459",
+            "lng": "105.4214515"
+        },
+        {
+            "id": 55318,
+            "name": "Yên Trung",
+            "pid": 4857,
+            "type": 10,
+            "region": null,
+            "alias": "Yên Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc19658675"
+}

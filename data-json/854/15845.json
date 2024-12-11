@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 459077,
+            "name": "Đarahoa",
+            "pid": 15845,
+            "type": 16,
+            "region": null,
+            "alias": "đarahoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1050292",
+            "lng": "108.55507669999997"
+        },
+        {
+            "id": 459083,
+            "name": "Thôn Đabla",
+            "pid": 15845,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đabla",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.1050292",
+            "lng": "108.55507669999997"
+        },
+        {
+            "id": 459085,
+            "name": "Thôn Đa Cháy",
+            "pid": 15845,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Cháy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1050292",
+            "lng": "108.55507669999997"
+        },
+        {
+            "id": 459079,
+            "name": "Thôn Đatro",
+            "pid": 15845,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đatro",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1050292",
+            "lng": "108.55507669999997"
+        },
+        {
+            "id": 459081,
+            "name": "Thôn Liêng Bông",
+            "pid": 15845,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liêng Bông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1050292",
+            "lng": "108.55507669999997"
+        }
+    ],
+    "log_id": "67581771c7d41390"
+}

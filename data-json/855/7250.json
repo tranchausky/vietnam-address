@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437439,
+            "name": "Ấp 1",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 437441,
+            "name": "Ấp 2",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 437443,
+            "name": "Ấp 3",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 437445,
+            "name": "Ấp 4",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 437447,
+            "name": "Ấp 5",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 437449,
+            "name": "Ấp 6",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        },
+        {
+            "id": 437451,
+            "name": "Ấp 7A",
+            "pid": 7250,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 7A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.661754",
+            "lng": "106.54072989999997"
+        }
+    ],
+    "log_id": "6758178529849214"
+}

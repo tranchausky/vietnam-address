@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445571,
+            "name": "Đường 3\/2",
+            "pid": 6583,
+            "type": 16,
+            "region": null,
+            "alias": "Đường 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3920828",
+            "lng": "107.11203190000003"
+        },
+        {
+            "id": 968241,
+            "name": "Đường Bình Giã",
+            "pid": 6583,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Giã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.38461727942878",
+            "lng": "107.11578246958356"
+        },
+        {
+            "id": 773869,
+            "name": "Hàn Thuyên",
+            "pid": 6583,
+            "type": 21,
+            "region": null,
+            "alias": "Hàn Thuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.391863085404639",
+            "lng": "107.1121523502035"
+        },
+        {
+            "id": 710578,
+            "name": "Lưu Chí Hiếu",
+            "pid": 6583,
+            "type": 21,
+            "region": null,
+            "alias": "Lưu Chí Hiếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3920828",
+            "lng": "107.11203190000003"
+        },
+        {
+            "id": 445645,
+            "name": "Nguyễn Hữu Cảnh",
+            "pid": 6583,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hữu Cảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.377154186484582",
+            "lng": "107.11282448122543"
+        }
+    ],
+    "log_id": "675815b3e758d961"
+}

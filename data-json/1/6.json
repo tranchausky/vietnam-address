@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 45,
+            "name": "Phường Dịch Vọng",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Dịch Vọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0347067",
+            "lng": "105.79233939999995"
+        },
+        {
+            "id": 46,
+            "name": "Phường Dịch Vọng Hậu",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Dịch Vọng Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0339527",
+            "lng": "105.78500220000001"
+        },
+        {
+            "id": 47,
+            "name": "Phường Mai Dịch",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Mai Dịch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0395659",
+            "lng": "105.77407119999998"
+        },
+        {
+            "id": 48,
+            "name": "Phường Nghĩa Đô",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Đô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0438759",
+            "lng": "105.80261199999995"
+        },
+        {
+            "id": 49,
+            "name": "Phường Nghĩa Tân",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nghĩa Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0460441",
+            "lng": "105.79110969999999"
+        },
+        {
+            "id": 50,
+            "name": "Phường Quan Hoa",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Quan Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0367702",
+            "lng": "105.80114449999996"
+        },
+        {
+            "id": 51,
+            "name": "Phường Trung Hoà",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Trung Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0101531",
+            "lng": "105.7988345"
+        },
+        {
+            "id": 52,
+            "name": "Phường Yên Hoà",
+            "pid": 6,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Yên Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0218044",
+            "lng": "105.79087200000004"
+        }
+    ],
+    "log_id": "675811bb5cc6b882"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 822487,
+            "name": "Cáo Sào",
+            "pid": 16764,
+            "type": 16,
+            "region": null,
+            "alias": "Cáo Sào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8409429",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 572256,
+            "name": "Thôn Bản Phùng",
+            "pid": 16764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bản phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8409429",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 572259,
+            "name": "Thôn Lùng Chu Phùng",
+            "pid": 16764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lùng chu phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8409429",
+            "lng": "104.76376189999996"
+        },
+        {
+            "id": 572262,
+            "name": "Thôn Ngài Là Thầu",
+            "pid": 16764,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngài là thầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8409429",
+            "lng": "104.76376189999996"
+        }
+    ],
+    "log_id": "67581566650a6630"
+}

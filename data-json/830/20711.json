@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571512,
+            "name": "Đầu Cầu 1",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Đầu Cầu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571515,
+            "name": "Đầu Cầu 2",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Đầu Cầu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 969353,
+            "name": "Phố Lồ Phìn",
+            "pid": 20711,
+            "type": 17,
+            "region": null,
+            "alias": "Phố Lồ Phìn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "23.075250",
+            "lng": "105.035782"
+        },
+        {
+            "id": 571527,
+            "name": "Pò Chúa Lủng",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Pò chúa Lủng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571524,
+            "name": "Sảng Cán Tỷ",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Sảng Cán Tỷ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571530,
+            "name": "Sủa Cán Tỷ",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Sủa Cán Tỷ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571533,
+            "name": "Thôn Giàng Chu Phìn",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giàng Chu Phìn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571521,
+            "name": "Thôn Lùng Vái",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lùng Vái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        },
+        {
+            "id": 571518,
+            "name": "Thôn Sín Suối Hồ",
+            "pid": 20711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sín Suối Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.0931512",
+            "lng": "105.04405199999997"
+        }
+    ],
+    "log_id": "67581566158c0255"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 659575,
+            "name": "Thôn Kiên Phú",
+            "pid": 19642,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiên Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.128515576839472",
+            "lng": "109.11007780551294"
+        },
+        {
+            "id": 659584,
+            "name": "Thôn Mỹ Hội 3",
+            "pid": 19642,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Hội 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.147504992666384,",
+            "lng": "109.08495655173138"
+        },
+        {
+            "id": 659590,
+            "name": "Thôn Vạn Ninh 2",
+            "pid": 19642,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vạn Ninh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.162498791438109",
+            "lng": "109.0837888591406"
+        },
+        {
+            "id": 659593,
+            "name": "Thôn Vạn Thái",
+            "pid": 19642,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vạn Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.157545177912858",
+            "lng": "109.07588872233488"
+        },
+        {
+            "id": 659599,
+            "name": "Thôn Vĩnh Nhơn",
+            "pid": 19642,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Nhơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.097134180551214",
+            "lng": "109.06994777413068"
+        },
+        {
+            "id": 659605,
+            "name": "Thôn Vĩnh Phú 3",
+            "pid": 19642,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Phú 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.097798884003568",
+            "lng": "109.08172097930044"
+        }
+    ],
+    "log_id": "6758150d9d9f629"
+}

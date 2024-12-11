@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53502,
+            "name": "Pt Nguyễn Trực",
+            "pid": 4792,
+            "type": 9,
+            "region": null,
+            "alias": "PT Nguyễn Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 119353,
+            "name": "Thôn Đồng Lư",
+            "pid": 4792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Lư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9742678",
+            "lng": "105.662481"
+        },
+        {
+            "id": 119357,
+            "name": "Thôn Dương Cốc",
+            "pid": 4792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dương Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.971322",
+            "lng": "105.6419858"
+        },
+        {
+            "id": 119359,
+            "name": "Thôn Yên Nội",
+            "pid": 4792,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9769279",
+            "lng": "105.6488479"
+        },
+        {
+            "id": 55158,
+            "name": "Ubnd Xã Đồng Quang",
+            "pid": 4792,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đồng Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bcd6a4133"
+}

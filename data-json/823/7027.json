@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93836,
+            "name": "Ấp 18",
+            "pid": 7027,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 18",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.987933",
+            "lng": "107302333"
+        },
+        {
+            "id": 93845,
+            "name": "Ấp Bàu Cối",
+            "pid": 7027,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Cối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0016915",
+            "lng": "107.2678591"
+        },
+        {
+            "id": 93848,
+            "name": "Ấp Lác Chiếu",
+            "pid": 7027,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lác Chiếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.986767",
+            "lng": "107.265991"
+        },
+        {
+            "id": 93839,
+            "name": "Ấp Ruộng Tre",
+            "pid": 7027,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ruộng Tre",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.991721",
+            "lng": "107.308067"
+        },
+        {
+            "id": 93842,
+            "name": "Ấp Thọ An",
+            "pid": 7027,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thọ An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.962964",
+            "lng": "107.310420"
+        },
+        {
+            "id": 821149,
+            "name": "Suối Chồn",
+            "pid": 7027,
+            "type": 21,
+            "region": null,
+            "alias": "Suối Chồn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8955505",
+            "lng": "107.228381"
+        }
+    ],
+    "log_id": "675814dd64831759"
+}

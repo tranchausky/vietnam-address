@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108691,
+            "name": "Thôn Suối Cốc",
+            "pid": 16440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Cốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.091019",
+            "lng": "109.060912"
+        },
+        {
+            "id": 109185,
+            "name": "Thôn Vali",
+            "pid": 16440,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vali",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0603839,109.0061752",
+            "lng": "12.0603839,109.0061752"
+        }
+    ],
+    "log_id": "67581585d72dc669"
+}

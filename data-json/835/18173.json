@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 752671,
+            "name": "Bản Luộc",
+            "pid": 18173,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Luộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4845422",
+            "lng": "105.83857050000006"
+        },
+        {
+            "id": 834421,
+            "name": "Khuổi Tẩu",
+            "pid": 18173,
+            "type": 20,
+            "region": null,
+            "alias": "Khuổi Tẩu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4845422",
+            "lng": "105.83857050000006"
+        },
+        {
+            "id": 842266,
+            "name": "Thôn Khuổi Luội",
+            "pid": 18173,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Khuổi Luội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4845422",
+            "lng": "105.83857050000006"
+        },
+        {
+            "id": 752668,
+            "name": "Vằng Quan",
+            "pid": 18173,
+            "type": 16,
+            "region": null,
+            "alias": "Vằng Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4845422",
+            "lng": "105.83857050000006"
+        }
+    ],
+    "log_id": "675815c920ea7615"
+}

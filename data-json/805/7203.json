@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398039,
+            "name": "An Lý",
+            "pid": 7203,
+            "type": 16,
+            "region": null,
+            "alias": "An Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7007382",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 398041,
+            "name": "Văn Diệm",
+            "pid": 7203,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Diệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7250115",
+            "lng": "106.29046349999999"
+        }
+    ],
+    "log_id": "675813f1ba8d8959"
+}

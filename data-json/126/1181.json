@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 66155,
+            "name": "Ấp Đồng Lớn",
+            "pid": 1181,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Lớn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66259,
+            "name": "Ấp Ràng",
+            "pid": 1181,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ràng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66311,
+            "name": "Ấp Trung Bình",
+            "pid": 1181,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Trung Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66319,
+            "name": "Ấp Trung Hưng",
+            "pid": 1181,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Trung Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 66323,
+            "name": "Ấp Vân Hàn",
+            "pid": 1181,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vân Hàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0066683",
+            "lng": "106.51319669999998"
+        },
+        {
+            "id": 971207,
+            "name": "Đường Hương Lộ 2",
+            "pid": 1181,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hương Lộ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.048476",
+            "lng": "106.434189"
+        },
+        {
+            "id": 969424,
+            "name": "Đường Tỉnh Lộ 7",
+            "pid": 1181,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tỉnh Lộ 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.049397",
+            "lng": "106.455470"
+        },
+        {
+            "id": 780454,
+            "name": "Lào Táo Thượng",
+            "pid": 1181,
+            "type": 17,
+            "region": null,
+            "alias": "Lào Táo Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0603258",
+            "lng": "106.4346979"
+        },
+        {
+            "id": 780439,
+            "name": "Sa Nhỏ",
+            "pid": 1181,
+            "type": 17,
+            "region": null,
+            "alias": "Sa Nhỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0603258",
+            "lng": "106.4346979"
+        }
+    ],
+    "log_id": "6758129a363d931"
+}

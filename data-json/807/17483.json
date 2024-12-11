@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 842785,
+            "name": "Cổ Động",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3814137",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 397557,
+            "name": "Đoan Vỹ",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "đoan vỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3814137",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 397565,
+            "name": "Đông Xuyên",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "đông xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3814137",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 397559,
+            "name": "Thanh Khê",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "thanh khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3814137",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 397563,
+            "name": "Thôn Chi Ngôn",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chi ngôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3814137",
+            "lng": "105.91711609999993"
+        },
+        {
+            "id": 907963,
+            "name": "Thôn Trung Hiếu Thượng",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hiếu Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5076924",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 397561,
+            "name": "Trung Hiếu Hạ",
+            "pid": 17483,
+            "type": 16,
+            "region": null,
+            "alias": "trung hiếu hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.3814137",
+            "lng": "105.91711609999993"
+        }
+    ],
+    "log_id": "675814280168a914"
+}

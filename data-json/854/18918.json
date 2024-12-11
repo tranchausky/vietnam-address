@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 459957,
+            "name": "Thôn 4",
+            "pid": 18918,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.505251",
+            "lng": "108.21402799999998"
+        },
+        {
+            "id": 459959,
+            "name": "Thôn 5",
+            "pid": 18918,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.505251",
+            "lng": "108.21402799999998"
+        },
+        {
+            "id": 459953,
+            "name": "Thôn Hiệp Thành 1",
+            "pid": 18918,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Thành 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.505251",
+            "lng": "108.21402799999998"
+        },
+        {
+            "id": 459955,
+            "name": "Thôn Hiệp Thành 2",
+            "pid": 18918,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiệp Thành 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.505251",
+            "lng": "108.21402799999998"
+        }
+    ],
+    "log_id": "67581771c5f78280"
+}

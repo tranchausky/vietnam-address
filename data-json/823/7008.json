@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 92153,
+            "name": "Ấp Đa Tôn",
+            "pid": 7008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đa Tôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92150,
+            "name": "Ấp Suối Đá",
+            "pid": 7008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Đá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.4384704",
+            "lng": "106.2404468"
+        },
+        {
+            "id": 92141,
+            "name": "Ấp Thanh Lâm",
+            "pid": 7008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92144,
+            "name": "Ấp Thanh Quang",
+            "pid": 7008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92147,
+            "name": "Ấp Thanh Trung",
+            "pid": 7008,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.2718815",
+            "lng": "105.9648468"
+        }
+    ],
+    "log_id": "675814dd4d3bf173"
+}

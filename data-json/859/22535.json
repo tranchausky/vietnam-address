@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467299,
+            "name": "Đắc Ro",
+            "pid": 22535,
+            "type": 16,
+            "region": null,
+            "alias": "Đắc Ro",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.4820572",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 467297,
+            "name": "Thôn Đắc Rích",
+            "pid": 22535,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đắc Rích",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.4820572",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 467295,
+            "name": "Thôn Đắc Tà Vân",
+            "pid": 22535,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đắc Tà Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.4820572",
+            "lng": "107.62153209999997"
+        }
+    ],
+    "log_id": "675817e1b6def106"
+}

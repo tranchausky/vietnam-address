@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 461931,
+            "name": "Biểu Lệ",
+            "pid": 21156,
+            "type": 16,
+            "region": null,
+            "alias": "Biểu Lệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7453554",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 461933,
+            "name": "Cộng Hòa",
+            "pid": 21156,
+            "type": 16,
+            "region": null,
+            "alias": "Cộng Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7453554",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 461929,
+            "name": "Thượng Thôn",
+            "pid": 21156,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7453554",
+            "lng": "106.33754929999998"
+        },
+        {
+            "id": 461927,
+            "name": "Trung Thôn",
+            "pid": 21156,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7453554",
+            "lng": "106.33754929999998"
+        }
+    ],
+    "log_id": "675814aa07229418"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 567915,
+            "name": "Thôn Lâm Giang",
+            "pid": 16523,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lâm Giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1977519",
+            "lng": "108.0835783"
+        },
+        {
+            "id": 567909,
+            "name": "Thôn Phú Hòa",
+            "pid": 16523,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1977519",
+            "lng": "108.0835783"
+        },
+        {
+            "id": 567912,
+            "name": "Thôn Phú Thái",
+            "pid": 16523,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1977519",
+            "lng": "108.0835783"
+        }
+    ],
+    "log_id": "67581478021d7305"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 553819,
+            "name": "Thôn Đá Bạc",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Bạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0641184",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 84713,
+            "name": "Thôn Đoàn Kết",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đoàn kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21°03'53.6",
+            "lng": "107°15'33.8"
+        },
+        {
+            "id": 553829,
+            "name": "Thôn Đồng Mậu",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Mậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0641184",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 553817,
+            "name": "Thôn Khe Sím",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Sím",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0641184",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 553821,
+            "name": "Thôn Tân Hải",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0641184",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 553827,
+            "name": "Thôn Tân Tiến",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0641184",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 553823,
+            "name": "Thôn Tha Cát",
+            "pid": 16705,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tha Cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0641184",
+            "lng": "107.25481830000001"
+        }
+    ],
+    "log_id": "675814c214ca5699"
+}

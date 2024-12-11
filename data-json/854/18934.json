@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101816,
+            "name": "Khu Phố 1A",
+            "pid": 18934,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.521029",
+            "lng": "107.486235"
+        },
+        {
+            "id": 101183,
+            "name": "Khu Phố 3C",
+            "pid": 18934,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5129011",
+            "lng": "107.485433"
+        },
+        {
+            "id": 101900,
+            "name": "Khu Phố 4A",
+            "pid": 18934,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.514007",
+            "lng": "107.495239"
+        },
+        {
+            "id": 101969,
+            "name": "Khu Phố 4D",
+            "pid": 18934,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4D",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.512777",
+            "lng": "107.494184"
+        },
+        {
+            "id": 102071,
+            "name": "Khu Phố 6A",
+            "pid": 18934,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.510222",
+            "lng": "107.485102"
+        },
+        {
+            "id": 849478,
+            "name": "Thôn 6B",
+            "pid": 18934,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6b",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5238408",
+            "lng": "107.48543300000006"
+        },
+        {
+            "id": 849481,
+            "name": "Thôn 7",
+            "pid": 18934,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5238408",
+            "lng": "107.48543300000006"
+        },
+        {
+            "id": 849475,
+            "name": "Thôn 10",
+            "pid": 18934,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5238408",
+            "lng": "107.48543300000006"
+        }
+    ],
+    "log_id": "6758177188706854"
+}

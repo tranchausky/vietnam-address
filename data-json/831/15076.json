@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 457485,
+            "name": "Ngọc Diêm",
+            "pid": 15076,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Diêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4009536",
+            "lng": "109.16725489999999"
+        },
+        {
+            "id": 457479,
+            "name": "Phú Hữu",
+            "pid": 15076,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.4009536",
+            "lng": "109.16725489999999"
+        },
+        {
+            "id": 457487,
+            "name": "Tân Thành",
+            "pid": 15076,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4009536",
+            "lng": "109.16725489999999"
+        },
+        {
+            "id": 457483,
+            "name": "Thôn Tân Đảo",
+            "pid": 15076,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Đảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4009536",
+            "lng": "109.16725489999999"
+        },
+        {
+            "id": 457481,
+            "name": "Vạn Thuận",
+            "pid": 15076,
+            "type": 16,
+            "region": null,
+            "alias": "Vạn Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4009536",
+            "lng": "109.16725489999999"
+        }
+    ],
+    "log_id": "67581585bcb6e574"
+}

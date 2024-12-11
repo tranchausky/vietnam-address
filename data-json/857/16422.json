@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455835,
+            "name": "Thôn Hòa Thủy",
+            "pid": 16422,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5104841",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 455833,
+            "name": "Thôn Thành Tín",
+            "pid": 16422,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành Tín",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5104841",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 455831,
+            "name": "Thôn Từ Tâm 2",
+            "pid": 16422,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Từ Tâm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5104841",
+            "lng": "108.96210910000002"
+        }
+    ],
+    "log_id": "675817b984af5782"
+}

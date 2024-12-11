@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1012122,
+            "name": "Khe Cái",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Khe Cái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.845970020513736",
+            "lng": "106.05303234683832"
+        },
+        {
+            "id": 1012119,
+            "name": "Na Mấy",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Na Mấy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.793172762749997",
+            "lng": "105.99023307733731"
+        },
+        {
+            "id": 414039,
+            "name": "Xóm Đồng Đình",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm đồng đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8112205",
+            "lng": "106.02030609999997"
+        },
+        {
+            "id": 414043,
+            "name": "Xóm Khe Rạc",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm khe rạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8112205",
+            "lng": "106.02030609999997"
+        },
+        {
+            "id": 414049,
+            "name": "Xóm Khe Rịa",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm khe rịa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8112205",
+            "lng": "106.02030609999997"
+        },
+        {
+            "id": 414047,
+            "name": "Xóm Na Đồng",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm na đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8112205",
+            "lng": "106.02030609999997"
+        },
+        {
+            "id": 414041,
+            "name": "Xóm Na Rang",
+            "pid": 18287,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm na rang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8112205",
+            "lng": "106.02030609999997"
+        }
+    ],
+    "log_id": "67590a09cadcd294"
+}

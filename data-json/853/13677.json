@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108743,
+            "name": "Bản Tả Xin Chải",
+            "pid": 13677,
+            "type": 16,
+            "region": null,
+            "alias": "bản Tả Xin Chải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.381716",
+            "lng": "103.494038"
+        },
+        {
+            "id": 843778,
+            "name": "Thèn Sin",
+            "pid": 13677,
+            "type": 16,
+            "region": null,
+            "alias": "Thèn Sin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4418542",
+            "lng": "103.46490530000004"
+        },
+        {
+            "id": 108607,
+            "name": "Tổ 22",
+            "pid": 13677,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 22",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.396286",
+            "lng": "103.467115"
+        },
+        {
+            "id": 108611,
+            "name": "Tổ 23",
+            "pid": 13677,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 23",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.386364",
+            "lng": "103.490745"
+        },
+        {
+            "id": 108621,
+            "name": "Tổ 24",
+            "pid": 13677,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 24",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.378968",
+            "lng": "103.487430"
+        },
+        {
+            "id": 108627,
+            "name": "Tổ 25",
+            "pid": 13677,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 25",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.379848",
+            "lng": "103.486198"
+        },
+        {
+            "id": 108637,
+            "name": "Tổ 26",
+            "pid": 13677,
+            "type": 20,
+            "region": null,
+            "alias": "tổ 26",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.383186",
+            "lng": "103.488273"
+        },
+        {
+            "id": 723019,
+            "name": "Trung Đoàn 880 Tổ 24",
+            "pid": 13677,
+            "type": 4,
+            "region": null,
+            "alias": "Trung đoàn 880 tổ 24",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4418542",
+            "lng": "103.46490530000004"
+        }
+    ],
+    "log_id": "6758175e59584732"
+}

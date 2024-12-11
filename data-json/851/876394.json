@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 978514,
+            "name": "Ấp An Bình",
+            "pid": 876394,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.686233",
+            "lng": "104.391605"
+        },
+        {
+            "id": 978515,
+            "name": "Ấp An Phú",
+            "pid": 876394,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp An Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.683016",
+            "lng": "104.387961"
+        },
+        {
+            "id": 978517,
+            "name": "Ấp Hòn Mấu",
+            "pid": 876394,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Hòn Mấu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.685296",
+            "lng": "104.393285"
+        }
+    ],
+    "log_id": "675817361844c62"
+}

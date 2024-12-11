@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113921,
+            "name": "Thôn Chương Dương",
+            "pid": 4896,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chương Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.848631",
+            "lng": "105.908881"
+        },
+        {
+            "id": 113949,
+            "name": "Thôn Chương Lộc",
+            "pid": 4896,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chương Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.847818",
+            "lng": "105.893243"
+        },
+        {
+            "id": 113973,
+            "name": "Thôn Kỳ Dương",
+            "pid": 4896,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kỳ Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.847199",
+            "lng": "105.901657"
+        },
+        {
+            "id": 55650,
+            "name": "Ubnd Xã Chương Dương",
+            "pid": 4896,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Chương Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.852996531232122, ",
+            "lng": " 105.90953845157357"
+        }
+    ],
+    "log_id": "675811bd69475459"
+}

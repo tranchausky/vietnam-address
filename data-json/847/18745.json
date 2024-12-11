@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 625500,
+            "name": "Làng A",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Làng A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°51'00.8\"N",
+            "lng": "107°47'52.2\"E"
+        },
+        {
+            "id": 625512,
+            "name": "Làng Blang",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "làng blang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8401928",
+            "lng": "107.79915449999999"
+        },
+        {
+            "id": 625506,
+            "name": "Làng Dít Rông 1",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Dít Rông 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8401928",
+            "lng": "107.79915449999999"
+        },
+        {
+            "id": 625509,
+            "name": "Làng Dít Rông 2",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Dít Rông 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8401928",
+            "lng": "107.79915449999999"
+        },
+        {
+            "id": 625497,
+            "name": "Làng Gôn",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Gôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°51'16.3\"N",
+            "lng": "107°47'49.1\"E"
+        },
+        {
+            "id": 625494,
+            "name": "Làng Nẻ",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Nẻ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°51'25.2\"N",
+            "lng": "107°47'44.3\"E"
+        },
+        {
+            "id": 625503,
+            "name": "Thôn Đoàn Kết",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°50'17.2\"N",
+            "lng": "107°48'22.6\"E"
+        },
+        {
+            "id": 625485,
+            "name": "Thôn Đồng Tâm",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°50'09.1\"N",
+            "lng": "107°47'25.0\"E"
+        },
+        {
+            "id": 625488,
+            "name": "Thôn Quyết Thắng",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quyết thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°51'14.0\"N",
+            "lng": "107°47'47.9\"E"
+        },
+        {
+            "id": 625491,
+            "name": "Thôn Thống Nhất",
+            "pid": 18745,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thống nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13°50'10.8\"N",
+            "lng": "107°47'39.1\"E"
+        }
+    ],
+    "log_id": "675816d33e88a304"
+}

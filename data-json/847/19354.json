@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 624645,
+            "name": "Thôn 1",
+            "pid": 19354,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3612555",
+            "lng": "108.3274735"
+        },
+        {
+            "id": 624648,
+            "name": "Thôn 2",
+            "pid": 19354,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3612555",
+            "lng": "108.3274735"
+        },
+        {
+            "id": 624651,
+            "name": "Thôn 3",
+            "pid": 19354,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3612555",
+            "lng": "108.3274735"
+        },
+        {
+            "id": 624654,
+            "name": "Thôn 4",
+            "pid": 19354,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.3612555",
+            "lng": "108.3274735"
+        }
+    ],
+    "log_id": "675816d3701a3633"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828997,
+            "name": "Đường Bùi Thị Xuân",
+            "pid": 95,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Thị Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0150437",
+            "lng": "105.85068049999995"
+        },
+        {
+            "id": 876535,
+            "name": "Đường Tô Hiến Thành",
+            "pid": 95,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tô Hiến Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.01345953",
+            "lng": "105.8500636"
+        },
+        {
+            "id": 876538,
+            "name": "Đường Trần Nhân Tông",
+            "pid": 95,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Nhân Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.01345953",
+            "lng": "105.8500636"
+        },
+        {
+            "id": 830848,
+            "name": "Đường Triệu Việt Vương",
+            "pid": 95,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Triệu Việt Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0150437",
+            "lng": "105.85068049999995"
+        },
+        {
+            "id": 876541,
+            "name": "Đường Tuệ Tĩnh",
+            "pid": 95,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tuệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.01345953",
+            "lng": "105.8500636"
+        }
+    ],
+    "log_id": "675811bd1c9ab711"
+}

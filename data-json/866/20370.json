@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462505,
+            "name": "An Thôn",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "An Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 462513,
+            "name": "Khúc Lý Ba Lạp",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Khúc Lý Ba Lạp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 462509,
+            "name": "Thôn Đông Lái",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Lái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 462517,
+            "name": "Thôn Huỳnh Liên",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Huỳnh Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 969024,
+            "name": "Thôn Phú Xuân",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.604845368527013",
+            "lng": "107.32951113370235"
+        },
+        {
+            "id": 462511,
+            "name": "Thôn Tây Lái",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây Lái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 462503,
+            "name": "Thôn Trạch Hữu",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trạch Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 462515,
+            "name": "Thôn Ưu Thượng",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ưu Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        },
+        {
+            "id": 462507,
+            "name": "Thôn Vân Trạch Hòa",
+            "pid": 20370,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân Trạch Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.5775494",
+            "lng": "107.33166670000003"
+        }
+    ],
+    "log_id": "67590b2550dc3569"
+}

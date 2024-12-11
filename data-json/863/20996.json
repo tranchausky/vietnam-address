@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 409797,
+            "name": "Thôn Cam Lai",
+            "pid": 20996,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cam lai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3993414",
+            "lng": "106.54956830000003"
+        },
+        {
+            "id": 409795,
+            "name": "Thôn Đức Cơ",
+            "pid": 20996,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đức cơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3993414",
+            "lng": "106.54956830000003"
+        },
+        {
+            "id": 409799,
+            "name": "Thôn Lương Điền",
+            "pid": 20996,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lương điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3993414",
+            "lng": "106.54956830000003"
+        },
+        {
+            "id": 409801,
+            "name": "Thôn Trinh Cát",
+            "pid": 20996,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trinh cát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3993414",
+            "lng": "106.54956830000003"
+        }
+    ],
+    "log_id": "675909f3a5c12223"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 516429,
+            "name": "Đông Cống",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Cống",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 516431,
+            "name": "Hà Đới",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Đới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 516433,
+            "name": "Khu Kinh Tế Mới",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Khu Kinh Tế Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 411975,
+            "name": "Kim Đới",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Kim đới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 755236,
+            "name": "Kim Quan",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 697738,
+            "name": "Lai Phuong",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Lai Phuong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 516437,
+            "name": "Ngọc Động",
+            "pid": 6714,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 516441,
+            "name": "Xóm 6",
+            "pid": 6714,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7194014",
+            "lng": "106.52600010000003"
+        }
+    ],
+    "log_id": "6758136601160845"
+}

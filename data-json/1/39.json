@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876457,
+            "name": "Đường Hàng Bún",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Bún",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 876445,
+            "name": "Đường Hàng Than",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàng Than",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 876460,
+            "name": "Đường Hòe Nhai",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hòe Nhai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 829666,
+            "name": "Đường Hồng Phúc",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0467979",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 876448,
+            "name": "Đường Ngũ Xã",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngũ Xã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 876451,
+            "name": "Đường Nguyễn Thiếp",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thiếp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 830218,
+            "name": "Đường Nguyễn Trung Trực",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trung Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0417971",
+            "lng": "105.84737769999992"
+        },
+        {
+            "id": 876463,
+            "name": "Đường Nguyễn Trường Tộ",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Trường Tộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 876454,
+            "name": "Đường Phó Đức Chính",
+            "pid": 39,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phó Đức Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04077",
+            "lng": "105.847448"
+        },
+        {
+            "id": 147,
+            "name": "Hàng Bún",
+            "pid": 39,
+            "type": 2,
+            "region": null,
+            "alias": "Hàng Bún",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0422981",
+            "lng": "105.84525299999996"
+        },
+        {
+            "id": 230,
+            "name": "Nguyễn Thiếp",
+            "pid": 39,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Thiếp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0404872",
+            "lng": "105.84941980000008"
+        },
+        {
+            "id": 1049,
+            "name": "Nguyễn Trung Trực",
+            "pid": 39,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Trung Trực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0417971",
+            "lng": "105.84737769999992"
+        }
+    ],
+    "log_id": "675811bc4cd13406"
+}

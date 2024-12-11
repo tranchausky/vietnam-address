@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566512,
+            "name": "Khu Phố 1 - Phường Quyết Thắng",
+            "pid": 6938,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1 - Phường Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.943412",
+            "lng": "106.823991"
+        },
+        {
+            "id": 566563,
+            "name": "Khu Phố 2- Phường Quyết Thắng",
+            "pid": 6938,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2- Phường Quyết Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.945753",
+            "lng": "106.822122"
+        },
+        {
+            "id": 566566,
+            "name": "Khu Phố 3- Phương Quyết Thắng",
+            "pid": 6938,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3- Phương Quyết Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.945753",
+            "lng": "106.822122"
+        }
+    ],
+    "log_id": "675814dd60255464"
+}

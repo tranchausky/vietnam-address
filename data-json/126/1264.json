@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 897712,
+            "name": "Chẵn 702-800 Nguyễn Đình Chiểu",
+            "pid": 1264,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 702-800 Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7667146",
+            "lng": "106.6786801"
+        },
+        {
+            "id": 675988,
+            "name": "Đường Điện Biên Phủ",
+            "pid": 1264,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7693149",
+            "lng": "106.6755535"
+        },
+        {
+            "id": 670666,
+            "name": "Đường Lý Thái Tổ",
+            "pid": 1264,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thái Tổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.766742",
+            "lng": "106.6775824"
+        },
+        {
+            "id": 670723,
+            "name": "Đường Nguyễn Đình Chiểu",
+            "pid": 1264,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7674031",
+            "lng": "106.6796196"
+        },
+        {
+            "id": 683257,
+            "name": "Đường Nguyễn Thiện Thuật",
+            "pid": 1264,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thiện Thuật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7684673",
+            "lng": "106.6793563"
+        }
+    ],
+    "log_id": "6758129ae27e8564"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 408693,
+            "name": "Thôn Thái Công Bắc",
+            "pid": 22290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Công Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3731201",
+            "lng": "106.40230999999994"
+        },
+        {
+            "id": 408695,
+            "name": "Thôn Thái Công Nam",
+            "pid": 22290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Công Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3731201",
+            "lng": "106.40230999999994"
+        },
+        {
+            "id": 408697,
+            "name": "Thôn Trà Vi Bắc",
+            "pid": 22290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trà VI Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3731201",
+            "lng": "106.40230999999994"
+        },
+        {
+            "id": 408699,
+            "name": "Thôn Trà Vi Đông",
+            "pid": 22290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trà VI Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3731201",
+            "lng": "106.40230999999994"
+        },
+        {
+            "id": 408701,
+            "name": "Thôn Trà Vi Nam",
+            "pid": 22290,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trà VI Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3731201",
+            "lng": "106.40230999999994"
+        }
+    ],
+    "log_id": "675909f36b88e608"
+}

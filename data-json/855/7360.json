@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108302,
+            "name": "Ấp Bàu Trai Hạ",
+            "pid": 7360,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Trai Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.941401",
+            "lng": "106.405866"
+        },
+        {
+            "id": 108308,
+            "name": "Ấp Bàu Trai Thượng",
+            "pid": 7360,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Trai Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.902920",
+            "lng": "106.362784"
+        },
+        {
+            "id": 108326,
+            "name": "Ấp Bình Thủy",
+            "pid": 7360,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.888478",
+            "lng": "106.348686"
+        },
+        {
+            "id": 108299,
+            "name": "Ấp Chánh",
+            "pid": 7360,
+            "type": 10,
+            "region": null,
+            "alias": "Ấp Chánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.907742",
+            "lng": "106.364945"
+        },
+        {
+            "id": 108320,
+            "name": "Ấp Gò Sao",
+            "pid": 7360,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gò Sao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.941656",
+            "lng": "106.405155"
+        },
+        {
+            "id": 108314,
+            "name": "Ấp Tân Qui Hạ",
+            "pid": 7360,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Qui Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.887452",
+            "lng": "106.357489"
+        },
+        {
+            "id": 108317,
+            "name": "Ấp Tân Qui Thượng",
+            "pid": 7360,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Qui Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.901363",
+            "lng": "106.356061"
+        }
+    ],
+    "log_id": "6758178506491784"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 940355,
+            "name": "Khu Đô Thị Picenza",
+            "pid": 5738,
+            "type": 21,
+            "region": null,
+            "alias": "Khu đô thị Picenza",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        },
+        {
+            "id": 872962,
+            "name": "Tổ 4",
+            "pid": 5738,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        },
+        {
+            "id": 940349,
+            "name": "Tổ 5",
+            "pid": 5738,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        },
+        {
+            "id": 789688,
+            "name": "Tổ 6",
+            "pid": 5738,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        },
+        {
+            "id": 789685,
+            "name": "Tổ Tân Thành 2",
+            "pid": 5738,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Tân Thành 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        },
+        {
+            "id": 940352,
+            "name": "Xóm Văn Thánh",
+            "pid": 5738,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Văn Thánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        },
+        {
+            "id": 900802,
+            "name": "Xóm Phúc Thuần",
+            "pid": 5738,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phúc Thuần",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6061778",
+            "lng": "105.83959809999999"
+        }
+    ],
+    "log_id": "67590a09a9ac3671"
+}

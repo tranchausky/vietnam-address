@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 898123,
+            "name": "Thôn 1",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 898126,
+            "name": "Thôn 7",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 799213,
+            "name": "Thôn Bản Mới",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bản Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.8525154"
+        },
+        {
+            "id": 853822,
+            "name": "Thôn Cốc Bây",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Cốc Bây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.8525154"
+        },
+        {
+            "id": 784534,
+            "name": "Thôn Nà Phát",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nà Phát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 839779,
+            "name": "Thôn Nà Tà",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Tà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 853825,
+            "name": "Thôn Nà Xe",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nà Xe",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.8525154"
+        },
+        {
+            "id": 834460,
+            "name": "Thôn Pò Đeng",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Pò đeng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.85251540000002"
+        },
+        {
+            "id": 784537,
+            "name": "Thôn Quan Làng",
+            "pid": 87638,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quan Làng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2360787",
+            "lng": "105.85251540000002"
+        }
+    ],
+    "log_id": "675815c926ac4195"
+}

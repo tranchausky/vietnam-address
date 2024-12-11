@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 10102,
+            "name": "Phường Binh San",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Binh San",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.390722",
+            "lng": "104.48106480000001"
+        },
+        {
+            "id": 10103,
+            "name": "Phường Đông Hồ",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4029259",
+            "lng": "104.5130967"
+        },
+        {
+            "id": 10104,
+            "name": "Phường Pháo Đài",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Pháo Đài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3837166",
+            "lng": "104.45486210000001"
+        },
+        {
+            "id": 10105,
+            "name": "Phường Tô Châu",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Tô Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3735151",
+            "lng": "104.49853589999998"
+        },
+        {
+            "id": 18454,
+            "name": "Xã Mỹ Đức",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Mỹ Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4160066",
+            "lng": "104.46650720000002"
+        },
+        {
+            "id": 18455,
+            "name": "Xã Thuận Yên",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thuận Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3471797",
+            "lng": "104.5363969"
+        },
+        {
+            "id": 18456,
+            "name": "Xã Tiên Hải",
+            "pid": 1747,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tiên Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2910916",
+            "lng": "104.3268266"
+        }
+    ],
+    "log_id": "67581735f2a6d271"
+}

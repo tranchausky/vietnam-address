@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 963730,
+            "name": "Chợ Nứa - Thanh Hải",
+            "pid": 17715,
+            "type": 18,
+            "region": null,
+            "alias": "CHỢ NỨA - THANH HẢI",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8972523",
+            "lng": "106.4023104"
+        },
+        {
+            "id": 963728,
+            "name": "Makalot",
+            "pid": 17715,
+            "type": 18,
+            "region": null,
+            "alias": "MAKALOT",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9037376",
+            "lng": "106.3835174"
+        },
+        {
+            "id": 963729,
+            "name": "Tbt",
+            "pid": 17715,
+            "type": 18,
+            "region": null,
+            "alias": "TBT",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8978767",
+            "lng": "106.3948685"
+        },
+        {
+            "id": 514023,
+            "name": "Thôn An Liệt",
+            "pid": 17715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Liệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.887512",
+            "lng": "106.402738"
+        },
+        {
+            "id": 514025,
+            "name": "Thôn Bồ Đề",
+            "pid": 17715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bồ Đề",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.887512",
+            "lng": "106.402738"
+        },
+        {
+            "id": 514027,
+            "name": "Thôn Thừa Liệt",
+            "pid": 17715,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thừa Liệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.887512",
+            "lng": "106.402738"
+        },
+        {
+            "id": 963719,
+            "name": "Thôn Tiền Vỹ",
+            "pid": 17715,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN TIỀN VỸ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8897823",
+            "lng": "106.3927611"
+        }
+    ],
+    "log_id": "675813f1c7652725"
+}

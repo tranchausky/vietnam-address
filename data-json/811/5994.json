@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 525239,
+            "name": "Đường 19-5",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 19-5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525241,
+            "name": "Đường Cù Chính Lan",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cù Chính Lan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 786811,
+            "name": "Đường Đê Thành Nam",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "đường đê Thành Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 786814,
+            "name": "Đường Hàn Thuyên",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Thuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525243,
+            "name": "Đường Phù Long",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phù Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525245,
+            "name": "Đường Thái Bình",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 786808,
+            "name": "Đường Thanh Bình",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "đường Thanh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 786805,
+            "name": "Đường Trần Nhật Duật",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "đường Trần Nhật Duật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 893395,
+            "name": "Liên Hà 1",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Liên Hà 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 893398,
+            "name": "Phù Nghĩa",
+            "pid": 5994,
+            "type": 21,
+            "region": null,
+            "alias": "Phù Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7e2e9663"
+}

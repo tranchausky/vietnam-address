@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116115,
+            "name": "Ấp 10 Chợ",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 10 Chợ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.630148",
+            "lng": "104.973678"
+        },
+        {
+            "id": 116125,
+            "name": "Ấp 10 Chợ A",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 10 Chợ A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.626929",
+            "lng": "104.973506"
+        },
+        {
+            "id": 116107,
+            "name": "Ấp 10 Huỳnh",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 10 Huỳnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.630320",
+            "lng": "104.974193"
+        },
+        {
+            "id": 736228,
+            "name": "Ấp 11B",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 11B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.626956",
+            "lng": "104.985485"
+        },
+        {
+            "id": 116129,
+            "name": "Ấp Đông Bình",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.756678",
+            "lng": " 104.935106"
+        },
+        {
+            "id": 116159,
+            "name": "Ấp Thành Phụng Đông",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thành Phụng Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.634101",
+            "lng": "104.975628"
+        },
+        {
+            "id": 116135,
+            "name": "Ấp Thành Phụng Tây",
+            "pid": 10097,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thành Phụng Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.631208",
+            "lng": "104.972648"
+        }
+    ],
+    "log_id": "675817361f936430"
+}

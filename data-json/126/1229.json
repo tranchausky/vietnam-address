@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 861598,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.762099",
+            "lng": "106.656652"
+        },
+        {
+            "id": 675892,
+            "name": "Đường Công Chúa Ngọc Hân",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Công Chúa Ngọc Hân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7613889",
+            "lng": "106.6545677"
+        },
+        {
+            "id": 679489,
+            "name": "Đường Huyền Toại",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huyền Toại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7617654",
+            "lng": "106.6531786"
+        },
+        {
+            "id": 682909,
+            "name": "Đường Lãnh Binh Thăng",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lãnh Binh Thăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7625243",
+            "lng": "106.6536686"
+        },
+        {
+            "id": 682756,
+            "name": "Đường Lò Siêu",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lò Siêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7610937",
+            "lng": "106.6511227"
+        },
+        {
+            "id": 672769,
+            "name": "Đường Tôn Thất Hiệp",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Thất Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7616707",
+            "lng": "106.6523024"
+        },
+        {
+            "id": 672898,
+            "name": "Đường Tuệ Tĩnh",
+            "pid": 1229,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tuệ Tĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7616378",
+            "lng": "106.6541848"
+        }
+    ],
+    "log_id": "6758129ae58c3502"
+}

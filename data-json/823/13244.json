@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 75784,
+            "name": "Du Lịch Sinh Thái Ngọc Hoa Trang",
+            "pid": 13244,
+            "type": 10,
+            "region": null,
+            "alias": "Du lịch sinh thái Ngọc Hoa Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12",
+            "lng": "109"
+        },
+        {
+            "id": 93728,
+            "name": "Khu Phố Nhất Hòa - P. Hiệp Hòa",
+            "pid": 13244,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Nhất hòa - P. Hiệp Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.928230",
+            "lng": "106.834254"
+        },
+        {
+            "id": 93722,
+            "name": "Khu Phố Nhị Hòa - P. Hiệp Hòa",
+            "pid": 13244,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Nhị Hòa - P. Hiệp Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.928230",
+            "lng": "106.834254"
+        },
+        {
+            "id": 93716,
+            "name": "Khu Phố Tam Hòa - P. Hiệp Hòa",
+            "pid": 13244,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tam Hòa - P. Hiệp Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.928230",
+            "lng": "106.834254"
+        }
+    ],
+    "log_id": "675814dd5bbb6841"
+}

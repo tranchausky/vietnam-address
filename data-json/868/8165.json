@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 984061,
+            "name": "Khóm 1",
+            "pid": 8165,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.096363",
+            "lng": "106.184341"
+        },
+        {
+            "id": 447699,
+            "name": "Khóm 2",
+            "pid": 8165,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.058632",
+            "lng": "106.1345705"
+        },
+        {
+            "id": 447693,
+            "name": "Phong Thới",
+            "pid": 8165,
+            "type": 17,
+            "region": null,
+            "alias": "Phong Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.058632",
+            "lng": "106.1345705"
+        },
+        {
+            "id": 447691,
+            "name": "Rạch Trúc",
+            "pid": 8165,
+            "type": 16,
+            "region": null,
+            "alias": "Rạch Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.058632",
+            "lng": "106.1345705"
+        },
+        {
+            "id": 447695,
+            "name": "Trung Tín",
+            "pid": 8165,
+            "type": 17,
+            "region": null,
+            "alias": "Trung Tín",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.058632",
+            "lng": "106.1345705"
+        }
+    ],
+    "log_id": "67590b59aa1c3751"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 893641,
+            "name": "Bản Bua",
+            "pid": 21458,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Bua",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 529111,
+            "name": "Đôm",
+            "pid": 21458,
+            "type": 16,
+            "region": null,
+            "alias": "Đôm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 529113,
+            "name": "Lìm",
+            "pid": 21458,
+            "type": 16,
+            "region": null,
+            "alias": "Lìm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 529115,
+            "name": "Luồng",
+            "pid": 21458,
+            "type": 16,
+            "region": null,
+            "alias": "Luồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 529117,
+            "name": "Quàng",
+            "pid": 21458,
+            "type": 18,
+            "region": null,
+            "alias": "Quàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 529119,
+            "name": "Tằm",
+            "pid": 21458,
+            "type": 16,
+            "region": null,
+            "alias": "Tằm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 910561,
+            "name": "Xóm Lầu",
+            "pid": 21458,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Lầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        },
+        {
+            "id": 529121,
+            "name": "Xóm Mới",
+            "pid": 21458,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4515251",
+            "lng": "105.02578900000003"
+        }
+    ],
+    "log_id": "67581208aed501"
+}

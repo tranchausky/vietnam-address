@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 991753,
+            "name": "Chiềng Sại",
+            "pid": 21376,
+            "type": 21,
+            "region": null,
+            "alias": "Chiềng Sại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6596992",
+            "lng": "105.0827233"
+        },
+        {
+            "id": 968254,
+            "name": "Ngân Hàng Chính Sách Xã Hội",
+            "pid": 21376,
+            "type": 16,
+            "region": null,
+            "alias": "Ngân hàng chính sách xã hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6655982858394",
+            "lng": "105.08391309555479"
+        },
+        {
+            "id": 703234,
+            "name": "Pom Kính",
+            "pid": 21376,
+            "type": 18,
+            "region": null,
+            "alias": "Pom Kính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.659799600000003",
+            "lng": "105.09176770000002"
+        },
+        {
+            "id": 103061,
+            "name": "Tiểu Khu 1",
+            "pid": 21376,
+            "type": 21,
+            "region": null,
+            "alias": "Tiểu khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.662578",
+            "lng": "105.083481"
+        },
+        {
+            "id": 726742,
+            "name": "Tiểu Khu 3",
+            "pid": 21376,
+            "type": 21,
+            "region": null,
+            "alias": "Tiểu khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.659799600000003",
+            "lng": "105.09176770000002"
+        },
+        {
+            "id": 703219,
+            "name": "Tiểu Khu 4",
+            "pid": 21376,
+            "type": 21,
+            "region": null,
+            "alias": "Tiểu khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.659799600000003",
+            "lng": "105.09176770000002"
+        },
+        {
+            "id": 103223,
+            "name": "Xóm Chiềng Sại",
+            "pid": 21376,
+            "type": 18,
+            "region": null,
+            "alias": "xóm chiềng sại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.662578",
+            "lng": "105.083481"
+        },
+        {
+            "id": 103202,
+            "name": "Xóm Văn",
+            "pid": 21376,
+            "type": 18,
+            "region": null,
+            "alias": "xóm văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.662578",
+            "lng": "105.083481"
+        },
+        {
+            "id": 103181,
+            "name": "Xóm Vãng",
+            "pid": 21376,
+            "type": 18,
+            "region": null,
+            "alias": "xóm vãng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.662578",
+            "lng": "105.083481"
+        }
+    ],
+    "log_id": "6758172140f93560"
+}

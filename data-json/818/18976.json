@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 615990,
+            "name": "Thôn Đông Thành",
+            "pid": 18976,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2238856",
+            "lng": "106.80898849999994"
+        },
+        {
+            "id": 615993,
+            "name": "Thôn Quy Hậu",
+            "pid": 18976,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Quy Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2238856",
+            "lng": "106.80898849999994"
+        },
+        {
+            "id": 615996,
+            "name": "Thôn Uẩn Áo",
+            "pid": 18976,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Uẩn Áo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2238856",
+            "lng": "106.80898849999994"
+        },
+        {
+            "id": 615999,
+            "name": "Thôn Xuân Hồi",
+            "pid": 18976,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Hồi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.2238856",
+            "lng": "106.80898849999994"
+        }
+    ],
+    "log_id": "675814a9d03aa179"
+}

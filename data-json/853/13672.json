@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 429327,
+            "name": "Tổ 3",
+            "pid": 13672,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4026064",
+            "lng": "103.4367274"
+        },
+        {
+            "id": 429325,
+            "name": "Tổ 9",
+            "pid": 13672,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4026064",
+            "lng": "103.4367274"
+        }
+    ],
+    "log_id": "6758175e59a4e26"
+}

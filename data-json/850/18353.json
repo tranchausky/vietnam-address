@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 607335,
+            "name": "Xóm Chiệng",
+            "pid": 18353,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chiệng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6913694",
+            "lng": "105.55974190000006"
+        },
+        {
+            "id": 607338,
+            "name": "Xóm Khoáy",
+            "pid": 18353,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khoáy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6913694",
+            "lng": "105.55974190000006"
+        },
+        {
+            "id": 607332,
+            "name": "Xóm Lập",
+            "pid": 18353,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6913694",
+            "lng": "105.55974190000006"
+        }
+    ],
+    "log_id": "6758172132d7b309"
+}

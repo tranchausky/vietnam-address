@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 625017,
+            "name": "Tổ 1",
+            "pid": 19314,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0107623",
+            "lng": "108.69476170000007"
+        },
+        {
+            "id": 625020,
+            "name": "Tổ 2",
+            "pid": 19314,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0107623",
+            "lng": "108.69476170000007"
+        },
+        {
+            "id": 625023,
+            "name": "Tổ 3",
+            "pid": 19314,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0107623",
+            "lng": "108.69476170000007"
+        }
+    ],
+    "log_id": "675816d331b38419"
+}

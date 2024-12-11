@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 714802,
+            "name": "Thôn Bản Khiếng",
+            "pid": 17777,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bản khiếng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.782957",
+            "lng": "106.959726"
+        },
+        {
+            "id": 634053,
+            "name": "Thôn Bản Quang",
+            "pid": 17777,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bản quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7752214",
+            "lng": "106.94397670000001"
+        }
+    ],
+    "log_id": "6758133f32357568"
+}

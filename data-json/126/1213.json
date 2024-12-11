@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 961963,
+            "name": "Chẵn 310-680 Điện Biên Phủ",
+            "pid": 1213,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 310-680 Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.769681",
+            "lng": "106.675773"
+        },
+        {
+            "id": 674566,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1213,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.771276016",
+            "lng": "106.67373445"
+        },
+        {
+            "id": 675898,
+            "name": "Đường Cao Thắng",
+            "pid": 1213,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7727466",
+            "lng": "106.6790297"
+        },
+        {
+            "id": 671926,
+            "name": "Đường Điện Biên Phủ",
+            "pid": 1213,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Điện Biên Phủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7727985",
+            "lng": "106.6790826"
+        },
+        {
+            "id": 681994,
+            "name": "Đường Nguyễn Thượng Hiền",
+            "pid": 1213,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thượng Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7758691",
+            "lng": "106.682756"
+        },
+        {
+            "id": 675883,
+            "name": "Đường Trần Minh Quyền",
+            "pid": 1213,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Minh Quyền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7704159",
+            "lng": "106.6747885"
+        }
+    ],
+    "log_id": "6758129b0cdc0591"
+}

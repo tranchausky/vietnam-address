@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101699,
+            "name": "Cáp Hoàng",
+            "pid": 4956,
+            "type": 9,
+            "region": null,
+            "alias": "Cáp Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.652633",
+            "lng": "105.8073816"
+        },
+        {
+            "id": 101735,
+            "name": "Ngoại Hoàng",
+            "pid": 4956,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoại Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6492712",
+            "lng": "105.8084823"
+        },
+        {
+            "id": 101690,
+            "name": "Nội Lưu",
+            "pid": 4956,
+            "type": 16,
+            "region": null,
+            "alias": "Nội Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6452937",
+            "lng": "105.8069688"
+        },
+        {
+            "id": 101717,
+            "name": "Thanh Bồ",
+            "pid": 4956,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Bồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6426848",
+            "lng": "105.8092161"
+        },
+        {
+            "id": 53654,
+            "name": "Thpt Lưu Hoàng",
+            "pid": 4956,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Lưu Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55810,
+            "name": "Ubnd Xã Lưu Hoàng",
+            "pid": 4956,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Lưu Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd3f86975"
+}

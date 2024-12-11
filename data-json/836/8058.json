@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439503,
+            "name": "Ấp Bửu Đông",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bửu Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1993281487573",
+            "lng": "105.56258990000002"
+        },
+        {
+            "id": 439499,
+            "name": "Ấp Bửu I",
+            "pid": 8058,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bửu I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.181881487573",
+            "lng": "105.54336490000002"
+        },
+        {
+            "id": 439501,
+            "name": "Ấp Bửu Ii",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bửu II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1519331487573",
+            "lng": "105.53145590000002"
+        },
+        {
+            "id": 439505,
+            "name": "Ấp Cái Cùng",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Cùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1591361487573",
+            "lng": "105.56855690000002"
+        },
+        {
+            "id": 439507,
+            "name": "Ấp Minh Điền",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Minh Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.174108",
+            "lng": "105.518313"
+        },
+        {
+            "id": 439509,
+            "name": "Ấp Trung Điền",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.192221487573",
+            "lng": "105.54050890000002"
+        },
+        {
+            "id": 439511,
+            "name": "Ấp Trường Điền",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trường Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1621251487573",
+            "lng": "105.52577590000002"
+        },
+        {
+            "id": 439513,
+            "name": "Ấp Vĩnh Điền",
+            "pid": 8058,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.1607641487573",
+            "lng": "105.55839490000002"
+        }
+    ],
+    "log_id": "675815e17d7fa746"
+}

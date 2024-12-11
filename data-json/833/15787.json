@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113505,
+            "name": "Ấp Mỹ Hòa",
+            "pid": 15787,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.497484",
+            "lng": "105.488362"
+        },
+        {
+            "id": 113511,
+            "name": "Ấp Mỹ Quý",
+            "pid": 15787,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Quý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.497621",
+            "lng": "105.489499"
+        },
+        {
+            "id": 113523,
+            "name": "Ấp Mỹ Tân",
+            "pid": 15787,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.495849",
+            "lng": "105.490583"
+        },
+        {
+            "id": 113535,
+            "name": "Ấp Mỹ Thuận",
+            "pid": 15787,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.496176",
+            "lng": "105.491549"
+        },
+        {
+            "id": 113477,
+            "name": "Ấp Thị 1",
+            "pid": 15787,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.494531",
+            "lng": "105.486130"
+        },
+        {
+            "id": 113491,
+            "name": "Ấp Thị 2",
+            "pid": 15787,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.494626",
+            "lng": "105.484789"
+        }
+    ],
+    "log_id": "6758159dd0667553"
+}

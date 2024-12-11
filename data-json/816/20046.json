@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630501,
+            "name": "Mễ Hạ",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "mễ hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        },
+        {
+            "id": 630507,
+            "name": "Mễ Thượng",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "mễ thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        },
+        {
+            "id": 800407,
+            "name": "Tân Phú",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        },
+        {
+            "id": 988380,
+            "name": "Thôn Bình Phú",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bình Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.98518040971604",
+            "lng": "20.873955338169782"
+        },
+        {
+            "id": 630513,
+            "name": "Thôn Lại Trạch",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lại trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        },
+        {
+            "id": 954869,
+            "name": "Trường Tiểu Học Yên Phú",
+            "pid": 20046,
+            "type": 9,
+            "region": null,
+            "alias": "Trường tiểu học Yên Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.888179520225044, 105.98579869998781",
+            "lng": "20.888179520225044, 105.98579869998781"
+        },
+        {
+            "id": 630495,
+            "name": "Từ Hồ",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "từ hồ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        },
+        {
+            "id": 630504,
+            "name": "Từ Tây",
+            "pid": 20046,
+            "type": 16,
+            "region": null,
+            "alias": "từ tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        }
+    ],
+    "log_id": "6758149123747884"
+}

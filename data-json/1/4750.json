@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102536,
+            "name": "Nam Quất",
+            "pid": 4750,
+            "type": 16,
+            "region": null,
+            "alias": "nam quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.743790, 105.927397",
+            "lng": "20.743790, 105.927397"
+        },
+        {
+            "id": 102620,
+            "name": "Phong Triều",
+            "pid": 4750,
+            "type": 16,
+            "region": null,
+            "alias": "phong triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.753225, 105.934536",
+            "lng": "20.753225, 105.934536"
+        }
+    ],
+    "log_id": "675811bcdea38882"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846478,
+            "name": "Thôn Nà Lìa",
+            "pid": 19839,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Lìa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.602712",
+            "lng": "106.73525840000002"
+        },
+        {
+            "id": 888142,
+            "name": "Thôn Pá Thào",
+            "pid": 19839,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pá Thào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.602712",
+            "lng": "106.73525840000002"
+        }
+    ],
+    "log_id": "6758133f2a370387"
+}

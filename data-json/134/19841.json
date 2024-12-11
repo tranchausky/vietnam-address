@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 852451,
+            "name": "Thôn Thiên Cầm",
+            "pid": 19841,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thiên Cầm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6813465",
+            "lng": "106.74612860000002"
+        },
+        {
+            "id": 1011873,
+            "name": "Uỷ Ban Nhân Dân Xã Liên Sơn",
+            "pid": 19841,
+            "type": 16,
+            "region": null,
+            "alias": "uỷ ban nhân dân xã liên sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.661391493577415,",
+            "lng": " 106.67803659393094"
+        }
+    ],
+    "log_id": "6758133f2a357129"
+}

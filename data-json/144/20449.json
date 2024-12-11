@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 931813,
+            "name": "Tân Thanh",
+            "pid": 20449,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3520004",
+            "lng": "106.8849897"
+        },
+        {
+            "id": 610746,
+            "name": "Thôn Bài",
+            "pid": 20449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3520004",
+            "lng": "106.8849897"
+        },
+        {
+            "id": 610743,
+            "name": "Thôn Mậu",
+            "pid": 20449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3520004",
+            "lng": "106.8849897"
+        },
+        {
+            "id": 610752,
+            "name": "Thôn Thanh An",
+            "pid": 20449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3520004",
+            "lng": "106.8849897"
+        },
+        {
+            "id": 610749,
+            "name": "Thôn Thanh Chung",
+            "pid": 20449,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Chung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3520004",
+            "lng": "106.8849897"
+        }
+    ],
+    "log_id": "675813d95e0e1738"
+}

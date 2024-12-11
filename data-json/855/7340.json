@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452615,
+            "name": "Ấp Bình Đông",
+            "pid": 7340,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7566294",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 452611,
+            "name": "Ấp Bình Nam",
+            "pid": 7340,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7566294",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 452607,
+            "name": "Ấp Bình Trung 1",
+            "pid": 7340,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Trung 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7566294",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 452609,
+            "name": "Ấp Bình Trung 2",
+            "pid": 7340,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Trung 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7566294",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 452613,
+            "name": "Ấp Hương Trang",
+            "pid": 7340,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Hương Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7566294",
+            "lng": "105.98761489999993"
+        }
+    ],
+    "log_id": "6758178527fa233"
+}

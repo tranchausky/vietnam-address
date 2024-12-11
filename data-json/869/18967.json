@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444231,
+            "name": "Buôn Mava",
+            "pid": 18967,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn Mava",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 444225,
+            "name": "Thôn Độc Lập A",
+            "pid": 18967,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Độc Lập A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 444227,
+            "name": "Thôn Độc Lập B",
+            "pid": 18967,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Độc Lập B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 444229,
+            "name": "Thôn Độc Lập C",
+            "pid": 18967,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Độc Lập C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 755764,
+            "name": "Thôn Kiến Thiết",
+            "pid": 18967,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiến Thiết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.116365599999998",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 444223,
+            "name": "Thôn Thanh Minh",
+            "pid": 18967,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 828169,
+            "name": "Trạm Y Tế Xã Ea Chà Rang",
+            "pid": 18967,
+            "type": 21,
+            "region": null,
+            "alias": "Trạm Y Tế Xã Ea Chà Rang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        },
+        {
+            "id": 828163,
+            "name": "Ubnd Xã Ea Chà Rang",
+            "pid": 18967,
+            "type": 21,
+            "region": null,
+            "alias": "UBND xã Ea Chà Rang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1163656",
+            "lng": "108.86703149999994"
+        }
+    ],
+    "log_id": "67590b8097355737"
+}

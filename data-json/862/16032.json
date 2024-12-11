@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435087,
+            "name": "Ấp Tầm Long",
+            "pid": 16032,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tầm Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3081393",
+            "lng": "106.01699710000003"
+        },
+        {
+            "id": 435091,
+            "name": "Ấp Xóm Mới 1",
+            "pid": 16032,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Xóm Mới 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3081393",
+            "lng": "106.01699710000003"
+        },
+        {
+            "id": 435093,
+            "name": "Ấp Xóm Mới 2",
+            "pid": 16032,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Xóm Mới 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3081393",
+            "lng": "106.01699710000003"
+        },
+        {
+            "id": 435089,
+            "name": "Ấp Xóm Ruộng",
+            "pid": 16032,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Xóm Ruộng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3081393",
+            "lng": "106.01699710000003"
+        }
+    ],
+    "log_id": "675909dcee70051"
+}

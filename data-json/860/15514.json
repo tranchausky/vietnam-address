@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 701782,
+            "name": "Hoà Bân",
+            "pid": 15514,
+            "type": 16,
+            "region": null,
+            "alias": "Hoà Bân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1819929",
+            "lng": "108.84920699999998"
+        },
+        {
+            "id": 701767,
+            "name": "Khánh Vân",
+            "pid": 15514,
+            "type": 16,
+            "region": null,
+            "alias": "Khánh Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1819929",
+            "lng": "108.84920699999998"
+        },
+        {
+            "id": 701773,
+            "name": "Long Thành",
+            "pid": 15514,
+            "type": 16,
+            "region": null,
+            "alias": "Long Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1819929",
+            "lng": "108.84920699999998"
+        },
+        {
+            "id": 704683,
+            "name": "Thôn Tân An",
+            "pid": 15514,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.1819929",
+            "lng": "108.84920699999998"
+        }
+    ],
+    "log_id": "675909a4d530d727"
+}

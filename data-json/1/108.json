@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828928,
+            "name": "Đường Bạch Đằng",
+            "pid": 108,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Đằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.005049555169172",
+            "lng": "105.86949018745366"
+        },
+        {
+            "id": 881305,
+            "name": "Đường Đê Trần Khát Chân",
+            "pid": 108,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đê Trần Khát Chân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,00605",
+            "lng": "105,867607"
+        },
+        {
+            "id": 881299,
+            "name": "Đường Kim Ngưu",
+            "pid": 108,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kim Ngưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,00605",
+            "lng": "105,867607"
+        },
+        {
+            "id": 881296,
+            "name": "Đường Lãng Yên",
+            "pid": 108,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lãng Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,00605",
+            "lng": "105,867607"
+        },
+        {
+            "id": 49552,
+            "name": "Ngõ 121 Kim Ngưu",
+            "pid": 108,
+            "type": 22,
+            "region": null,
+            "alias": "Ngõ 121 Kim Ngưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd1cb86288"
+}

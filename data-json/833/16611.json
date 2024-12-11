@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 969380,
+            "name": "Chợ Bách Hóa",
+            "pid": 16611,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Bách Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.604987",
+            "lng": "104.946632"
+        },
+        {
+            "id": 969386,
+            "name": "Chợ Cửa Khẩu Tịnh Biên",
+            "pid": 16611,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Cửa Khẩu Tịnh Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.605395",
+            "lng": "104.946825"
+        },
+        {
+            "id": 112171,
+            "name": "Khóm Xuân Biên",
+            "pid": 16611,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm Xuân Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905003",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 112199,
+            "name": "Khóm Xuân Bình",
+            "pid": 16611,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm Xuân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905003",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 112023,
+            "name": "Khóm Xuân Hiệp",
+            "pid": 16611,
+            "type": 10,
+            "region": null,
+            "alias": "Khóm Xuân Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905003",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 112099,
+            "name": "Khóm Xuân Hòa",
+            "pid": 16611,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm Xuân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905003",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 112051,
+            "name": "Khóm Xuân Phú",
+            "pid": 16611,
+            "type": 18,
+            "region": null,
+            "alias": "Khóm Xuân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5905003",
+            "lng": "104.94472610000003"
+        },
+        {
+            "id": 969387,
+            "name": "Khu Sao Mai",
+            "pid": 16611,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Sao Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.605041",
+            "lng": "104.947369"
+        }
+    ],
+    "log_id": "6758159dd9bb4122"
+}

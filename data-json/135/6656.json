@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 909091,
+            "name": "Công Ty Greenworks",
+            "pid": 6656,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty Greenworks",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8904493",
+            "lng": "106.54956830000003"
+        },
+        {
+            "id": 909088,
+            "name": "Công Ty Oki",
+            "pid": 6656,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty Oki",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8904493",
+            "lng": "106.54956830000003"
+        },
+        {
+            "id": 925480,
+            "name": "Công Ty Seyzo",
+            "pid": 6656,
+            "type": 5,
+            "region": null,
+            "alias": "Công Ty Seyzo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8904493",
+            "lng": "106.54956830000003"
+        },
+        {
+            "id": 980646,
+            "name": "Đường 208 An Hòa",
+            "pid": 6656,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 208 An Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581365a5b18919"
+}

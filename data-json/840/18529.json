@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437069,
+            "name": "Becamex Giai Đoạn 1",
+            "pid": 18529,
+            "type": 5,
+            "region": null,
+            "alias": "BECAMEX giai đoạn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        },
+        {
+            "id": 948709,
+            "name": "Becamex Giai Đoạn 3",
+            "pid": 18529,
+            "type": 5,
+            "region": null,
+            "alias": "BECAMEX giai đoạn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.449796",
+            "lng": "106.648231"
+        },
+        {
+            "id": 437059,
+            "name": "Khu Phố 1",
+            "pid": 18529,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        },
+        {
+            "id": 437061,
+            "name": "Khu Phố 2",
+            "pid": 18529,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        },
+        {
+            "id": 437063,
+            "name": "Khu Phố 3",
+            "pid": 18529,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        },
+        {
+            "id": 437065,
+            "name": "Khu Phố 4",
+            "pid": 18529,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        },
+        {
+            "id": 437067,
+            "name": "Khu Phố 5",
+            "pid": 18529,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4360894",
+            "lng": "106.6645007"
+        }
+    ],
+    "log_id": "675816377e87582"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558357,
+            "name": "Thôn Cầu Tài",
+            "pid": 20127,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9658377",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 558353,
+            "name": "Thôn Đông Thôn 1",
+            "pid": 20127,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9658377",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 558349,
+            "name": "Thôn Thiều Xá 1",
+            "pid": 20127,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiều Xá 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9658377",
+            "lng": "105.87306779999994"
+        },
+        {
+            "id": 558351,
+            "name": "Thôn Thiều Xá 2",
+            "pid": 20127,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiều Xá 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9658377",
+            "lng": "105.87306779999994"
+        }
+    ],
+    "log_id": "67590a22ed1fa502"
+}

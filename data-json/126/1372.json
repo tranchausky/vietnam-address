@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1011453,
+            "name": "Chẵn 482-496 Lê Quang Định",
+            "pid": 1372,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 482-496 Lê Quang Định",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.814746483045269",
+            "lng": "106.68974328941972"
+        },
+        {
+            "id": 45958,
+            "name": "Đại Học Văn Lang, Cơ Sở 2",
+            "pid": 1372,
+            "type": 9,
+            "region": null,
+            "alias": "Đại học Văn Lang, Cơ sở 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8128474",
+            "lng": "106.69440429999997"
+        },
+        {
+            "id": 673804,
+            "name": "Đường Lê Quang Định",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Quang Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8141238",
+            "lng": "106.6897231"
+        },
+        {
+            "id": 676411,
+            "name": "Đường Mai Xuân Thưởng",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mai Xuân Thưởng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8154456",
+            "lng": "106.6942502"
+        },
+        {
+            "id": 677377,
+            "name": "Đường Nguyên Hồng",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyên Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8181342",
+            "lng": "106.6930122"
+        },
+        {
+            "id": 672934,
+            "name": "Đường Nguyễn Văn Đậu",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Đậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8119746",
+            "lng": "106.6925044"
+        },
+        {
+            "id": 678250,
+            "name": "Đường Nơ Trang Long",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nơ Trang Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.813968",
+            "lng": "106.6975869"
+        },
+        {
+            "id": 721117,
+            "name": "Đường Phạm Văn Đồng",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8204226",
+            "lng": "106.6942397"
+        },
+        {
+            "id": 671371,
+            "name": "Đường Tăng Bạt Hổ",
+            "pid": 1372,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tăng Bạt Hổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8109741",
+            "lng": "106.693759"
+        },
+        {
+            "id": 912724,
+            "name": "Hẻm 407 Nguyễn Xí",
+            "pid": 1372,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 407 Nguyễn Xí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.823612",
+            "lng": "106.70081"
+        },
+        {
+            "id": 565222,
+            "name": "Lẻ 57-125 Nơ Trang Long",
+            "pid": 1372,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 57-125 Nơ Trang Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.811167",
+            "lng": "106.6953253"
+        }
+    ],
+    "log_id": "6758129b04d51184"
+}

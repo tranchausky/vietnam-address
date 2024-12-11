@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411715,
+            "name": "Bắc Bình Cách",
+            "pid": 22259,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Bình Cách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5644211",
+            "lng": "106.39642179999998"
+        },
+        {
+            "id": 411711,
+            "name": "Bình Cách",
+            "pid": 22259,
+            "type": 16,
+            "region": null,
+            "alias": "bình Cách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5644211",
+            "lng": "106.39642179999998"
+        },
+        {
+            "id": 411713,
+            "name": "Tân Tích",
+            "pid": 22259,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Tích",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5644211",
+            "lng": "106.39642179999998"
+        },
+        {
+            "id": 411709,
+            "name": "Tây Bình Cách",
+            "pid": 22259,
+            "type": 16,
+            "region": null,
+            "alias": "Tây Bình Cách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5644211",
+            "lng": "106.39642179999998"
+        }
+    ],
+    "log_id": "675909f3913a8134"
+}

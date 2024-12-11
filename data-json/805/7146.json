@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 637659,
+            "name": "Khu Đại Dương",
+            "pid": 7146,
+            "type": 10,
+            "region": null,
+            "alias": "Khu Đại Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9242646",
+            "lng": "106.15956400000005"
+        },
+        {
+            "id": 637650,
+            "name": "Thôn Ngọc Mai",
+            "pid": 7146,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9242646",
+            "lng": "106.15956400000005"
+        },
+        {
+            "id": 637653,
+            "name": "Thôn Phương Độ",
+            "pid": 7146,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9242646",
+            "lng": "106.15956400000005"
+        },
+        {
+            "id": 637656,
+            "name": "Thôn Quán Gỏi",
+            "pid": 7146,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quán Gỏi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9242646",
+            "lng": "106.15956400000005"
+        },
+        {
+            "id": 637647,
+            "name": "Thôn Thượng Khuông",
+            "pid": 7146,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Khuông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9242646",
+            "lng": "106.15956400000005"
+        }
+    ],
+    "log_id": "675813f1c9cd0503"
+}

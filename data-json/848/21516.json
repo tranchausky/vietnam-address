@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 85193,
+            "name": "Bưu Điện Kỳ Giang",
+            "pid": 21516,
+            "type": 16,
+            "region": null,
+            "alias": "Bưu điện Kỳ Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736992",
+            "lng": "106.2173978"
+        },
+        {
+            "id": 428807,
+            "name": "Thôn Tân Đình",
+            "pid": 21516,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736164",
+            "lng": "106.21670549999999"
+        },
+        {
+            "id": 428811,
+            "name": "Thôn Tân Giang",
+            "pid": 21516,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Tân giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736164",
+            "lng": "106.21670549999999"
+        },
+        {
+            "id": 428803,
+            "name": "Thôn Tân Phan",
+            "pid": 21516,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Phan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736164",
+            "lng": "106.21670549999999"
+        },
+        {
+            "id": 428801,
+            "name": "Thôn Tân Phong",
+            "pid": 21516,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736164",
+            "lng": "106.21670549999999"
+        },
+        {
+            "id": 428809,
+            "name": "Thôn Tân Thắng",
+            "pid": 21516,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736164",
+            "lng": "106.21670549999999"
+        },
+        {
+            "id": 428799,
+            "name": "Thôn Tân Thành",
+            "pid": 21516,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1736164",
+            "lng": "106.21670549999999"
+        }
+    ],
+    "log_id": "675816e9acdb7520"
+}

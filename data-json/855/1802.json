@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7341,
+            "name": "Thị Trấn Bình Phong Thạnh",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Bình Phong Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7465277",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 7338,
+            "name": "Xã Bình Hòa Đông",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7650744",
+            "lng": "106.03462850000005"
+        },
+        {
+            "id": 7339,
+            "name": "Xã Bình Hòa Tây",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Hòa Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8170207",
+            "lng": "105.98173900000006"
+        },
+        {
+            "id": 7340,
+            "name": "Xã Bình Hòa Trung",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Hòa Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7566294",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 7343,
+            "name": "Xã Bình Thạnh",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Bình Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7965934",
+            "lng": "106.05813969999997"
+        },
+        {
+            "id": 7342,
+            "name": "Xã Tân Lập",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7090371",
+            "lng": "105.95823719999999"
+        },
+        {
+            "id": 7344,
+            "name": "Xã Tân Thành",
+            "pid": 1802,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7053475",
+            "lng": "106.02875119999999"
+        }
+    ],
+    "log_id": "67581784e2bb9518"
+}

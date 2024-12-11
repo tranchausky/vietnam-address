@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 530629,
+            "name": "Xóm Hồng Sơn",
+            "pid": 21563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hồng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1442079",
+            "lng": "105.33726790000003"
+        },
+        {
+            "id": 530631,
+            "name": "Xóm Nghĩa Sơn",
+            "pid": 21563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nghĩa Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1442079",
+            "lng": "105.33726790000003"
+        },
+        {
+            "id": 530633,
+            "name": "Xóm Vân Nam",
+            "pid": 21563,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Vân Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1442079",
+            "lng": "105.33726790000003"
+        }
+    ],
+    "log_id": "67581208dd403446"
+}

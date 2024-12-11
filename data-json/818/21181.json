@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 872557,
+            "name": "Hậu Thành",
+            "pid": 21181,
+            "type": 16,
+            "region": null,
+            "alias": "Hậu Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7713242",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 905719,
+            "name": "Phú Cường",
+            "pid": 21181,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7713242",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 728206,
+            "name": "Thôn Long Châu",
+            "pid": 21181,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7713242",
+            "lng": "106.30223390000003"
+        },
+        {
+            "id": 872563,
+            "name": "Trường Xuân",
+            "pid": 21181,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7713242",
+            "lng": "106.30223390000003"
+        }
+    ],
+    "log_id": "675814aa2701a169"
+}

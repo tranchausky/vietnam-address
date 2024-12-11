@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 598815,
+            "name": "Long Bình",
+            "pid": 19012,
+            "type": 17,
+            "region": null,
+            "alias": "Long bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3736306",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 598812,
+            "name": "Long Hưng",
+            "pid": 19012,
+            "type": 17,
+            "region": null,
+            "alias": "Long Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 598818,
+            "name": "Long Mỹ",
+            "pid": 19012,
+            "type": 17,
+            "region": null,
+            "alias": "Long Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3736306",
+            "lng": "106.64681480000002"
+        },
+        {
+            "id": 598821,
+            "name": "Long Phước",
+            "pid": 19012,
+            "type": 17,
+            "region": null,
+            "alias": "Long Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3736306",
+            "lng": "106.64681480000002"
+        }
+    ],
+    "log_id": "675814f3969cc520"
+}

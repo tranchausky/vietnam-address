@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453019,
+            "name": "Ấp Bình Hòa",
+            "pid": 7315,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4967166",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 453017,
+            "name": "Ấp Bình Lợi",
+            "pid": 7315,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Bình Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4967166",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 453011,
+            "name": "Ấp Tân Hòa",
+            "pid": 7315,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4967166",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 453015,
+            "name": "Ấp Tân Lợi",
+            "pid": 7315,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4967166",
+            "lng": "106.52600010000003"
+        },
+        {
+            "id": 453013,
+            "name": "Ấp Tân Thạnh",
+            "pid": 7315,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tân Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4967166",
+            "lng": "106.52600010000003"
+        }
+    ],
+    "log_id": "675817854f4af277"
+}

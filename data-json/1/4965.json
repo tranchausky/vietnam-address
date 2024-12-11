@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100370,
+            "name": "Đống Vũ",
+            "pid": 4965,
+            "type": 16,
+            "region": null,
+            "alias": "Đống Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7637574",
+            "lng": "105.7615252"
+        },
+        {
+            "id": 100364,
+            "name": "Họa Đống",
+            "pid": 4965,
+            "type": 16,
+            "region": null,
+            "alias": "Họa Đống",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7656315",
+            "lng": "105.7718326"
+        },
+        {
+            "id": 100382,
+            "name": "Hoa Đường",
+            "pid": 4965,
+            "type": 16,
+            "region": null,
+            "alias": "Hoa Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7656315",
+            "lng": "105.7718326"
+        },
+        {
+            "id": 100376,
+            "name": "Thanh Sam",
+            "pid": 4965,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Sam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7731842",
+            "lng": "105.7627791"
+        },
+        {
+            "id": 100385,
+            "name": "Trung Thịnh",
+            "pid": 4965,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.758511",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 55722,
+            "name": "Ubnd Xã Trường Thịnh",
+            "pid": 4965,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Trường Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 100379,
+            "name": "Yên Trường",
+            "pid": 4965,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7637574",
+            "lng": "105.7615252"
+        }
+    ],
+    "log_id": "675811bd3d828381"
+}

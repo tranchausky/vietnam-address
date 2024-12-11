@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 49324,
+            "name": "Coma Building",
+            "pid": 41470,
+            "type": 10,
+            "region": null,
+            "alias": "Coma Building",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 49596,
+            "name": "Ngõ 254 Minh Khai",
+            "pid": 41470,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 254 Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd1c704964"
+}

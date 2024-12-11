@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 969529,
+            "name": "Chung Cư An Phú",
+            "pid": 7922,
+            "type": 5,
+            "region": null,
+            "alias": "Chung Cư An Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.991357323",
+            "lng": "105.7454733"
+        },
+        {
+            "id": 117355,
+            "name": "Khu Hành Chính Đường Nguyên Hồng",
+            "pid": 7922,
+            "type": 8,
+            "region": null,
+            "alias": "Khu Hành chính đường Nguyên Hồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9841458",
+            "lng": "105.7414445,17"
+        },
+        {
+            "id": 607920,
+            "name": "Khu Vực 1",
+            "pid": 7922,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9832675",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 607923,
+            "name": "Khu Vực 2",
+            "pid": 7922,
+            "type": 21,
+            "region": null,
+            "alias": "Khu vực 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9832675",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 607926,
+            "name": "Khu Vực 3",
+            "pid": 7922,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9832675",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 607929,
+            "name": "Khu Vực 4",
+            "pid": 7922,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9832675",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 607932,
+            "name": "Khu Vực 5",
+            "pid": 7922,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Vực 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9832675",
+            "lng": "105.7380511"
+        }
+    ],
+    "log_id": "6758140cc3cd6867"
+}

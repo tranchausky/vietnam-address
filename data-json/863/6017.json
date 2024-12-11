@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 411387,
+            "name": "Thôn Đại Lai 1",
+            "pid": 6017,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Lai 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411389,
+            "name": "Thôn Đại Lai 2",
+            "pid": 6017,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Đại Lai 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411381,
+            "name": "Thôn Nghĩa Chính",
+            "pid": 6017,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Nghĩa Chính",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411385,
+            "name": "Thôn Phú Lạc",
+            "pid": 6017,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Phú Lạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411383,
+            "name": "Thôn Thắng Cựu",
+            "pid": 6017,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thắng Cựu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411379,
+            "name": "Thôn Vĩnh Gia",
+            "pid": 6017,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Vĩnh Gia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411391,
+            "name": "Thôn Xuân Lôi",
+            "pid": 6017,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Lôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411395,
+            "name": "Tổ 1",
+            "pid": 6017,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        },
+        {
+            "id": 411393,
+            "name": "Tổ 2",
+            "pid": 6017,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4549191",
+            "lng": "106.32572570000002"
+        }
+    ],
+    "log_id": "675909f3be893585"
+}

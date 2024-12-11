@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 581535,
+            "name": "Xóm Ba Đình",
+            "pid": 17459,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Ba Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6574163",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 581532,
+            "name": "Xóm Nhạn Tháp",
+            "pid": 17459,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nhạn Tháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6574163",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 581538,
+            "name": "Xóm Tân Phúc",
+            "pid": 17459,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tân Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6574163",
+            "lng": "105.52985250000006"
+        },
+        {
+            "id": 581529,
+            "name": "Xóm Thượng Nậm",
+            "pid": 17459,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Thượng Nậm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.6574163",
+            "lng": "105.52985250000006"
+        }
+    ],
+    "log_id": "6758120887574937"
+}

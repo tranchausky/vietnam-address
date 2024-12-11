@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 955978,
+            "name": "Kcn Hạp Lĩnh",
+            "pid": 5905,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Hạp Lĩnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1447549",
+            "lng": "106.0743178"
+        },
+        {
+            "id": 414647,
+            "name": "Khu Ấp Thôn",
+            "pid": 5905,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Ấp Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1332662",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 951150,
+            "name": "Khu Ất",
+            "pid": 5905,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Ất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1309568",
+            "lng": "106.0761376"
+        },
+        {
+            "id": 414639,
+            "name": "Khu Phố Và",
+            "pid": 5905,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Và",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1332662",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 414645,
+            "name": "Khu Sơn",
+            "pid": 5905,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1332662",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 414643,
+            "name": "Khu Tiên Xá",
+            "pid": 5905,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Tiên Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1332662",
+            "lng": "106.07871419999992"
+        },
+        {
+            "id": 414641,
+            "name": "Khu Trần",
+            "pid": 5905,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Trần",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1332662",
+            "lng": "106.07871419999992"
+        }
+    ],
+    "log_id": "675815f8b382e131"
+}

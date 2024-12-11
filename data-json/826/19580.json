@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 784084,
+            "name": "Hưng Nhơn",
+            "pid": 19580,
+            "type": 10,
+            "region": null,
+            "alias": "Hưng Nhơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5748386",
+            "lng": "108.88485689999992"
+        },
+        {
+            "id": 637392,
+            "name": "Thôn 2",
+            "pid": 19580,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5717294",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 637395,
+            "name": "Thôn 7",
+            "pid": 19580,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5717294",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 637398,
+            "name": "Thôn 9",
+            "pid": 19580,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5717294",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 637401,
+            "name": "Thôn Gò Bùi",
+            "pid": 19580,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gò Bùi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5717294",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 637404,
+            "name": "Thôn Hưng Nhơn",
+            "pid": 19580,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hưng Nhơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5717294",
+            "lng": "108.85514839999996"
+        },
+        {
+            "id": 637407,
+            "name": "Thôn Hưng Nhơn Bắc",
+            "pid": 19580,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hưng Nhơn Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.5717294",
+            "lng": "108.85514839999996"
+        }
+    ],
+    "log_id": "6758150d9debe634"
+}

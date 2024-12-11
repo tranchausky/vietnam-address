@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 876559,
+            "name": "Ấp Phú Hữu 1",
+            "pid": 8022,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hữu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.743835264705487,",
+            "lng": " 105.1761607701037"
+        },
+        {
+            "id": 108955,
+            "name": "Ấp Phú Hữu 2",
+            "pid": 8022,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hữu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.735294633096137, ",
+            "lng": "105.16733003309479"
+        },
+        {
+            "id": 108883,
+            "name": "Ấp Vĩnh Thạnh 1",
+            "pid": 8022,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.730561",
+            "lng": "105.164330"
+        },
+        {
+            "id": 108907,
+            "name": "Ấp Vĩnh Thạnh 2",
+            "pid": 8022,
+            "type": 10,
+            "region": null,
+            "alias": "Ấp Vĩnh Thạnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.732340361149195",
+            "lng": "105.15911380631032"
+        },
+        {
+            "id": 986080,
+            "name": "Cây Xăng Thuận Thành",
+            "pid": 8022,
+            "type": 10,
+            "region": null,
+            "alias": "Cây xăng Thuận Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.734917417737178",
+            "lng": "105.16605938794604"
+        },
+        {
+            "id": 985971,
+            "name": "Tiệm Tóc Tiến",
+            "pid": 8022,
+            "type": 10,
+            "region": null,
+            "alias": "Tiệm tóc Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.73502928518214",
+            "lng": "105.16834314247171"
+        }
+    ],
+    "log_id": "6758159dc7328787"
+}

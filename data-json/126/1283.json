@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 680884,
+            "name": "Đường Tôn Đản",
+            "pid": 1283,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Đản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7561764",
+            "lng": "106.7060503"
+        },
+        {
+            "id": 682411,
+            "name": "Đường Tôn Thất Thuyết",
+            "pid": 1283,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7532744",
+            "lng": "106.7075059"
+        },
+        {
+            "id": 672370,
+            "name": "Đường Xóm Chiếu",
+            "pid": 1283,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xóm Chiếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7554979",
+            "lng": "106.7091738"
+        },
+        {
+            "id": 955202,
+            "name": "Hẻm 92 Tôn Thất Thuyết",
+            "pid": 1283,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 92 Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7534449",
+            "lng": "106.71036"
+        },
+        {
+            "id": 955195,
+            "name": "Hẻm 307 Tôn Đản",
+            "pid": 1283,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 307 Tôn Đản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.756291",
+            "lng": "106.7066368"
+        },
+        {
+            "id": 735604,
+            "name": "Lẻ 189-385 Tôn Đản",
+            "pid": 1283,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 189-385 Tôn Đản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.753442",
+            "lng": "106.705432"
+        },
+        {
+            "id": 45142,
+            "name": "Trường Đại Học Nguyễn Tất Thành Cơ Sở 7",
+            "pid": 1283,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Đại học Nguyễn Tất Thành cơ sở 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7609406",
+            "lng": "106.71028790000003"
+        }
+    ],
+    "log_id": "6758129a96ec8898"
+}

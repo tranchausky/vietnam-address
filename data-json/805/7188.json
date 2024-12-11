@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 731842,
+            "name": "An Cường",
+            "pid": 7188,
+            "type": 10,
+            "region": null,
+            "alias": "An Cường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0064289",
+            "lng": "106.53355680000004"
+        },
+        {
+            "id": 515501,
+            "name": "Hiệp Hạ",
+            "pid": 7188,
+            "type": 16,
+            "region": null,
+            "alias": "Hiệp Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0064289",
+            "lng": "106.53355680000004"
+        },
+        {
+            "id": 638427,
+            "name": "Hiệp Thạch",
+            "pid": 7188,
+            "type": 10,
+            "region": null,
+            "alias": "Hiệp Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0064289",
+            "lng": "106.53355680000004"
+        },
+        {
+            "id": 729886,
+            "name": "Hoà Phát",
+            "pid": 7188,
+            "type": 10,
+            "region": null,
+            "alias": "Hoà Phát",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0064289",
+            "lng": "106.53355680000004"
+        },
+        {
+            "id": 996734,
+            "name": "Karaoke Nữ Hoàng",
+            "pid": 7188,
+            "type": 4,
+            "region": null,
+            "alias": "Karaoke Nữ Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999866225422803",
+            "lng": "106.5394551132756"
+        },
+        {
+            "id": 638433,
+            "name": "Khu Thái Hà",
+            "pid": 7188,
+            "type": 10,
+            "region": null,
+            "alias": "Khu Thái Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0064289",
+            "lng": "106.53355680000004"
+        },
+        {
+            "id": 638439,
+            "name": "Ngã Tư Hiệp Sơn",
+            "pid": 7188,
+            "type": 10,
+            "region": null,
+            "alias": "Ngã Tư Hiệp Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999449517137034",
+            "lng": "106.54102030495825"
+        },
+        {
+            "id": 996731,
+            "name": "Nhà Hàng Trúc Lộc",
+            "pid": 7188,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà hàng Trúc Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999682361605714",
+            "lng": "106.5398546535485"
+        },
+        {
+            "id": 996728,
+            "name": "Nhà Nghỉ Hòa Bình",
+            "pid": 7188,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà Nghỉ Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.999779708743148",
+            "lng": "106.54058040758841"
+        }
+    ],
+    "log_id": "675813f179f13765"
+}

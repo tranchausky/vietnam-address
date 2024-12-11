@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 766249,
+            "name": "Đường Sơn Nam",
+            "pid": 5943,
+            "type": 21,
+            "region": null,
+            "alias": "đường Sơn Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6734662",
+            "lng": "106.04344489999994"
+        },
+        {
+            "id": 935375,
+            "name": "Kim Dang",
+            "pid": 5943,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Dang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6770196",
+            "lng": "106.06695709999997"
+        }
+    ],
+    "log_id": "675814910e99c997"
+}

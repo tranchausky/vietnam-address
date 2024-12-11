@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1004298,
+            "name": "317 Nguyễn Bỉnh Khiêm",
+            "pid": 10071,
+            "type": 4,
+            "region": null,
+            "alias": "317 Nguyễn Bỉnh Khiêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.018057",
+            "lng": "105.083491"
+        },
+        {
+            "id": 768400,
+            "name": "Đường Bùi Viện",
+            "pid": 10071,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Viện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.952465",
+            "lng": "105.134476"
+        },
+        {
+            "id": 768415,
+            "name": "Đường Cao Thắng",
+            "pid": 10071,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.953564",
+            "lng": "105.126061"
+        },
+        {
+            "id": 968965,
+            "name": "Đường Nguyễn Biểu",
+            "pid": 10071,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Biểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9606814",
+            "lng": "105.1348943"
+        },
+        {
+            "id": 768418,
+            "name": "Đường Sư Thiện Chiếu",
+            "pid": 10071,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sư Thiện Chiếu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.955259",
+            "lng": "105.123096"
+        },
+        {
+            "id": 968948,
+            "name": "Kdc Vĩnh Lợi",
+            "pid": 10071,
+            "type": 21,
+            "region": null,
+            "alias": "KDC Vĩnh Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9502835",
+            "lng": "105.1327362"
+        }
+    ],
+    "log_id": "67581736282c1836"
+}

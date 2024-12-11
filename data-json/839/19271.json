@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88463,
+            "name": "Ấp 6",
+            "pid": 19271,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.359860907729656",
+            "lng": "106.72559315104454"
+        },
+        {
+            "id": 88466,
+            "name": "Ấp 7",
+            "pid": 19271,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.339449726133118",
+            "lng": "106.73069967449777"
+        },
+        {
+            "id": 88472,
+            "name": "Ấp 9",
+            "pid": 19271,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.318937860338924",
+            "lng": "106.70982840219278"
+        },
+        {
+            "id": 88469,
+            "name": "Ấp 30\/4",
+            "pid": 19271,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 30\/4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.333359008002246",
+            "lng": "106.71372921974191"
+        },
+        {
+            "id": 88442,
+            "name": "Ấp Phú Bằng",
+            "pid": 19271,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Phú Bằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.372383882307155",
+            "lng": "106.72278140409513"
+        }
+    ],
+    "log_id": "675816218886c443"
+}

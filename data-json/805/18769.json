@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398107,
+            "name": "Đào Lạng",
+            "pid": 18769,
+            "type": 16,
+            "region": null,
+            "alias": "Đào Lạng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267182",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 398113,
+            "name": "Hội Chói",
+            "pid": 18769,
+            "type": 16,
+            "region": null,
+            "alias": "Hội Chói",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267182",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 398111,
+            "name": "Tuy Hòa",
+            "pid": 18769,
+            "type": 16,
+            "region": null,
+            "alias": "Tuy Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267182",
+            "lng": "106.27280910000002"
+        },
+        {
+            "id": 398109,
+            "name": "Tuy Lai",
+            "pid": 18769,
+            "type": 16,
+            "region": null,
+            "alias": "Tuy Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7267182",
+            "lng": "106.27280910000002"
+        }
+    ],
+    "log_id": "675813f1bea21636"
+}

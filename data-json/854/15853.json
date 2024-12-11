@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 844039,
+            "name": "Chợ Gia Lâm",
+            "pid": 15853,
+            "type": 16,
+            "region": null,
+            "alias": "Chợ Gia Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8082174",
+            "lng": "108.33859770000004"
+        },
+        {
+            "id": 849307,
+            "name": "Gan Thi",
+            "pid": 15853,
+            "type": 16,
+            "region": null,
+            "alias": "Gan Thi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8082174",
+            "lng": "108.33859770000004"
+        },
+        {
+            "id": 836971,
+            "name": "Thôn 1",
+            "pid": 15853,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8082174",
+            "lng": "108.33859770000004"
+        },
+        {
+            "id": 836974,
+            "name": "Thôn 2",
+            "pid": 15853,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8082174",
+            "lng": "108.33859770000004"
+        },
+        {
+            "id": 914095,
+            "name": "Thôn 4 Gia Lâm",
+            "pid": 15853,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 4 Gia Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8410118",
+            "lng": "108.33859770000004"
+        }
+    ],
+    "log_id": "67581771adf78687"
+}

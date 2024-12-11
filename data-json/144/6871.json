@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 923590,
+            "name": "Hoàng Mai 1",
+            "pid": 6871,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Mai 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2404266",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 923596,
+            "name": "Hoàng Mai 2",
+            "pid": 6871,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Mai 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2508596",
+            "lng": "106.11986990000004"
+        },
+        {
+            "id": 923602,
+            "name": "Hoàng Mai 3",
+            "pid": 6871,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Mai 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2508596",
+            "lng": "106.11986990000004"
+        },
+        {
+            "id": 765283,
+            "name": "Khu 2 Phố Nếnh",
+            "pid": 6871,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2 Phố Nếnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2404266",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 765289,
+            "name": "Khu Công Nghiệp Đình Trám",
+            "pid": 6871,
+            "type": 5,
+            "region": null,
+            "alias": "Khu công nghiệp Đình Trám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2404266",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 765298,
+            "name": "Thôn Ninh Khánh",
+            "pid": 6871,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Ninh Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2404266",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 765271,
+            "name": "Thôn Yên Ninh",
+            "pid": 6871,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2404266",
+            "lng": "106.10811030000002"
+        }
+    ],
+    "log_id": "675813d8aa888568"
+}

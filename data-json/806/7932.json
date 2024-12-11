@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 608379,
+            "name": "Ấp Nhơn Lộc 1",
+            "pid": 7932,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0108953",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 608382,
+            "name": "Ấp Nhơn Lộc 1A",
+            "pid": 7932,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Lộc 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0108953",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 608385,
+            "name": "Ấp Nhơn Lộc 2",
+            "pid": 7932,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Lộc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0108953",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 608388,
+            "name": "Ấp Nhơn Lộc 2A",
+            "pid": 7932,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Lộc 2A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0108953",
+            "lng": "105.67058010000005"
+        },
+        {
+            "id": 608391,
+            "name": "Ấp Thị Tứ",
+            "pid": 7932,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị Tứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0108953",
+            "lng": "105.67058010000005"
+        }
+    ],
+    "log_id": "6758140cc2a87408"
+}

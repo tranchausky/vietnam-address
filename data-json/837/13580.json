@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753106,
+            "name": "Bồng Lai",
+            "pid": 13580,
+            "type": 9,
+            "region": null,
+            "alias": "Bồng Lai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1198922",
+            "lng": "106.16473900000004"
+        },
+        {
+            "id": 784693,
+            "name": "Cẩm Chàng",
+            "pid": 13580,
+            "type": 16,
+            "region": null,
+            "alias": "Cẩm Chàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1198922",
+            "lng": "106.16473900000004"
+        },
+        {
+            "id": 784687,
+            "name": "Tân Thịnh",
+            "pid": 13580,
+            "type": 18,
+            "region": null,
+            "alias": "Tân Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1198922",
+            "lng": "106.16473900000004"
+        },
+        {
+            "id": 784696,
+            "name": "Vũ Dương",
+            "pid": 13580,
+            "type": 16,
+            "region": null,
+            "alias": "Vũ Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1198922",
+            "lng": "106.16473900000004"
+        },
+        {
+            "id": 822010,
+            "name": "Xa Loan",
+            "pid": 13580,
+            "type": 18,
+            "region": null,
+            "alias": "Xa Loan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1198922",
+            "lng": "106.16473900000004"
+        }
+    ],
+    "log_id": "675815f8c4b1e472"
+}

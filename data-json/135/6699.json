@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412071,
+            "name": "Làng Trúc",
+            "pid": 6699,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7268033",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 412069,
+            "name": "Thôn Đại Thắng",
+            "pid": 6699,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7268033",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 412073,
+            "name": "Xóm Đương Thắng",
+            "pid": 6699,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đương Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7268033",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 412077,
+            "name": "Xóm Hòa Nhất",
+            "pid": 6699,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hòa Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7268033",
+            "lng": "106.68513600000006"
+        },
+        {
+            "id": 412075,
+            "name": "Xóm Tiền Anh",
+            "pid": 6699,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tiền Anh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7268033",
+            "lng": "106.68513600000006"
+        }
+    ],
+    "log_id": "675813664bb5a484"
+}

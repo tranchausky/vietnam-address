@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 659977,
+            "name": "501-849 Hà Huy Tập",
+            "pid": 15240,
+            "type": 29,
+            "region": null,
+            "alias": "501-849 Hà Huy Tập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3533117",
+            "lng": "105.9070127"
+        },
+        {
+            "id": 428893,
+            "name": "Đặng Văn Bá",
+            "pid": 15240,
+            "type": 21,
+            "region": null,
+            "alias": "Đặng Văn Bá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3141029",
+            "lng": "105.9304773"
+        },
+        {
+            "id": 912637,
+            "name": "Hà Huy Tập",
+            "pid": 15240,
+            "type": 21,
+            "region": null,
+            "alias": "Hà Huy Tập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3533117",
+            "lng": "105.9070127"
+        }
+    ],
+    "log_id": "675816e9d6096822"
+}

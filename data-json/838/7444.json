@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 441169,
+            "name": "Ấp An Hòa",
+            "pid": 7444,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP AN HÒA",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0447811",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 441171,
+            "name": "Ấp An Huy",
+            "pid": 7444,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP AN HUY",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0447811",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 441167,
+            "name": "Ấp Giồng Quéo",
+            "pid": 7444,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP GIỒNG QUÉO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0447811",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 441173,
+            "name": "Ấp Giồng Sao",
+            "pid": 7444,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP GIỒNG SAO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0447811",
+            "lng": "106.5171626"
+        },
+        {
+            "id": 441175,
+            "name": "Ấp Giồng Trôm",
+            "pid": 7444,
+            "type": 16,
+            "region": null,
+            "alias": "ẤP GIỒNG TRÔM",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0447811",
+            "lng": "106.5171626"
+        }
+    ],
+    "log_id": "6758160df1db8155"
+}

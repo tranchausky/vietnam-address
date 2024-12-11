@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 644392,
+            "name": "Thôn An Bình",
+            "pid": 19682,
+            "type": 16,
+            "region": null,
+            "alias": "thôn An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.837781",
+            "lng": "107.761896"
+        },
+        {
+            "id": 567702,
+            "name": "Thôn An Vinh",
+            "pid": 19682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8717086",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 567705,
+            "name": "Thôn Tân Hòa",
+            "pid": 19682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8717086",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 567711,
+            "name": "Thôn Tân Hưng",
+            "pid": 19682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8717086",
+            "lng": "107.72809200000006"
+        },
+        {
+            "id": 567708,
+            "name": "Thôn Tân Quang",
+            "pid": 19682,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8717086",
+            "lng": "107.72809200000006"
+        }
+    ],
+    "log_id": "67581477938fc760"
+}

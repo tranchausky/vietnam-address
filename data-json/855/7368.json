@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97286,
+            "name": "Ấp Bàu Sen - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Sen - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.904002",
+            "lng": "106.3980634"
+        },
+        {
+            "id": 97283,
+            "name": "Ấp Chánh - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.903779",
+            "lng": "106.4093826"
+        },
+        {
+            "id": 97289,
+            "name": "Ấp Đức Hạnh 1 - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đức Hạnh 1 - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9044896",
+            "lng": "106.436727"
+        },
+        {
+            "id": 97292,
+            "name": "Ấp Đức Hạnh 2 - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đức Hạnh 2 - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9100417",
+            "lng": "106.4250112"
+        },
+        {
+            "id": 97295,
+            "name": "Ấp Tân Hòa - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân hòa - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9190689",
+            "lng": "106.4465759"
+        },
+        {
+            "id": 991046,
+            "name": "Kcn Đức Hòa 3 - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "KCN Đức Hòa 3 - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9044896",
+            "lng": "106.436727"
+        },
+        {
+            "id": 991045,
+            "name": "Kcn Thái Hòa - Đức Lập Hạ",
+            "pid": 7368,
+            "type": 17,
+            "region": null,
+            "alias": "KCN Thái Hòa - Đức Lập Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9044896",
+            "lng": "106.436727"
+        }
+    ],
+    "log_id": "6758178506d22320"
+}

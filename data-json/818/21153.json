@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462067,
+            "name": "Bắc Sơn",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        },
+        {
+            "id": 462065,
+            "name": "Diên Trương",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Diên Trương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        },
+        {
+            "id": 462059,
+            "name": "Hà Sơn",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Hà Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        },
+        {
+            "id": 462061,
+            "name": "Linh Cận Sơn",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Linh Cận Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        },
+        {
+            "id": 724858,
+            "name": "Mầm Non Quảng Sơn",
+            "pid": 21153,
+            "type": 9,
+            "region": null,
+            "alias": "Mầm Non Quảng Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.6885751",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 462069,
+            "name": "Tân Sơn",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        },
+        {
+            "id": 895207,
+            "name": "Thọ Hạ",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.6885751",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 462063,
+            "name": "Thọ Hạ",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        },
+        {
+            "id": 462057,
+            "name": "Trung Thượng",
+            "pid": 21153,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7185609",
+            "lng": "106.3598442"
+        }
+    ],
+    "log_id": "675814aa07949401"
+}

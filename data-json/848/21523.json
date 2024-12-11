@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88775,
+            "name": "Ngã 3 Voi, Thị Trấn Voi",
+            "pid": 21523,
+            "type": 5,
+            "region": null,
+            "alias": "Ngã 3 Voi, Thị Trấn Voi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.19838",
+            "lng": "106.167063"
+        },
+        {
+            "id": 428715,
+            "name": "Thôn Bắc Sơn",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428717,
+            "name": "Thôn Đông Sơn",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428713,
+            "name": "Thôn Đông Thịnh",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đông Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428701,
+            "name": "Thôn Hà Phong",
+            "pid": 21523,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Hà Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428711,
+            "name": "Thôn Hòa Bình",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428719,
+            "name": "Thôn Nam Phong",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nam Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428703,
+            "name": "Thôn Thượng Phong",
+            "pid": 21523,
+            "type": 10,
+            "region": null,
+            "alias": "thôn Thượng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428709,
+            "name": "Thôn Tuần Tượng",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tuần Tượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428707,
+            "name": "Xóm Tân Phong",
+            "pid": 21523,
+            "type": 16,
+            "region": null,
+            "alias": "xóm Tân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 428705,
+            "name": "Xóm Trung Phong",
+            "pid": 21523,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trung Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1778763",
+            "lng": "106.15221259999998"
+        }
+    ],
+    "log_id": "675816e9acd2e129"
+}

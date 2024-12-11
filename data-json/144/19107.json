@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407517,
+            "name": "Thôn Bình An",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407519,
+            "name": "Thôn Hà Mỹ",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407521,
+            "name": "Thôn Hà Tú",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Tú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407523,
+            "name": "Thôn Mẫu Sơn",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mẫu Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407525,
+            "name": "Thôn Ngọc Mai",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Mai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407527,
+            "name": "Thôn Ngọc Sơn",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407529,
+            "name": "Thôn Rừng Gai",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Rừng Gai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        },
+        {
+            "id": 407531,
+            "name": "Thôn Xuân Phong",
+            "pid": 19107,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2997897",
+            "lng": "106.3555791"
+        }
+    ],
+    "log_id": "675813d962384980"
+}

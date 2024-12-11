@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453515,
+            "name": "Thôn Đăk Song'",
+            "pid": 19444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Song'",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9205",
+            "lng": "107.94725790000007"
+        },
+        {
+            "id": 453513,
+            "name": "Thôn Đăk Viên",
+            "pid": 19444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9205",
+            "lng": "107.94725790000007"
+        },
+        {
+            "id": 744967,
+            "name": "Thôn Tân Ba",
+            "pid": 19444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9205",
+            "lng": "107.94725790000008"
+        },
+        {
+            "id": 453511,
+            "name": "Thôn Tu Thó",
+            "pid": 19444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tu Thó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.9205",
+            "lng": "107.94725790000007"
+        }
+    ],
+    "log_id": "6758174cdb9d0616"
+}

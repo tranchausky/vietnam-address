@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113291,
+            "name": "Ấp Láng Sen",
+            "pid": 6244,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Láng Sen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.832459",
+            "lng": "105.790539"
+        },
+        {
+            "id": 113219,
+            "name": "Ấp Láng Sen A",
+            "pid": 6244,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Láng Sen A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.832459",
+            "lng": "105.790539"
+        },
+        {
+            "id": 113267,
+            "name": "Ấp Xẻo Vong",
+            "pid": 6244,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Vong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.832459",
+            "lng": "105.790539"
+        },
+        {
+            "id": 113247,
+            "name": "Ấp Xẻo Vong B",
+            "pid": 6244,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Vong B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.832459",
+            "lng": "105.790539"
+        },
+        {
+            "id": 113241,
+            "name": "Ấp Xẻo Vong C",
+            "pid": 6244,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Vong C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.832459",
+            "lng": "105.790539"
+        }
+    ],
+    "log_id": "675816fe46d77458"
+}

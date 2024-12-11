@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 607500,
+            "name": "Xóm Can",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Can",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 836695,
+            "name": "Xóm Can",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Can",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8306227",
+            "lng": "105.33995779999998"
+        },
+        {
+            "id": 607509,
+            "name": "Xóm Mùi",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mùi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 607506,
+            "name": "Xóm Mường Dao",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mường Dao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 607512,
+            "name": "Xóm Nội",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 607515,
+            "name": "Xóm Nưa",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nưa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 607503,
+            "name": "Xóm Rối",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Rối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 607518,
+            "name": "Xóm Sòng",
+            "pid": 16642,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8232235",
+            "lng": "105.40095080000003"
+        },
+        {
+            "id": 699304,
+            "name": "Xóm Sòng Độc Lập",
+            "pid": 16642,
+            "type": 10,
+            "region": null,
+            "alias": "Xóm Sòng độc Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.921303",
+            "lng": "105.397547"
+        }
+    ],
+    "log_id": "675817212d149513"
+}

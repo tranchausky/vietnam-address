@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981051,
+            "name": "Cửa Hàng Dịch Vụ Khách Hàng Viettel",
+            "pid": 10700,
+            "type": 21,
+            "region": null,
+            "alias": "Cửa hàng dịch vụ khách hàng Viettel",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981052,
+            "name": "Nguyễn Công Hòa",
+            "pid": 10700,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Công Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981053,
+            "name": "Phạm Huy Thôngg",
+            "pid": 10700,
+            "type": 21,
+            "region": null,
+            "alias": "Phạm Huy Thôngg",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758136626cfe175"
+}

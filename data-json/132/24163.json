@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 726676,
+            "name": "Bản Giõng",
+            "pid": 24163,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Giõng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6844394",
+            "lng": "104.48980010000002"
+        },
+        {
+            "id": 725653,
+            "name": "Thôn Tành Hanh",
+            "pid": 24163,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tành Hanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6844394",
+            "lng": "104.48980010000002"
+        }
+    ],
+    "log_id": "6758131fabcf9746"
+}

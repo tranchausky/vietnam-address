@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 557017,
+            "name": "Bản Bách",
+            "pid": 22228,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Bách",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.288601",
+            "lng": "104.95056709999994"
+        },
+        {
+            "id": 557007,
+            "name": "Bản Bàng",
+            "pid": 22228,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.288601",
+            "lng": "104.95056709999994"
+        },
+        {
+            "id": 557013,
+            "name": "Bản Bôn",
+            "pid": 22228,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Bôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.288601",
+            "lng": "104.95056709999994"
+        },
+        {
+            "id": 557009,
+            "name": "Bản Khạn",
+            "pid": 22228,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Khạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.288601",
+            "lng": "104.95056709999994"
+        },
+        {
+            "id": 557011,
+            "name": "Bản Máy",
+            "pid": 22228,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Máy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.288601",
+            "lng": "104.95056709999994"
+        },
+        {
+            "id": 557015,
+            "name": "Bản Ngàm",
+            "pid": 22228,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Ngàm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.288601",
+            "lng": "104.95056709999994"
+        }
+    ],
+    "log_id": "67590a2393dd0256"
+}

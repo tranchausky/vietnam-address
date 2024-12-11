@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 703936,
+            "name": "05-403 Đường 26\/3",
+            "pid": 15193,
+            "type": 16,
+            "region": null,
+            "alias": "05-403 Đường 26\/3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3320418",
+            "lng": "105.9198794"
+        },
+        {
+            "id": 428879,
+            "name": "Đg Phan Bội Châu",
+            "pid": 15193,
+            "type": 21,
+            "region": null,
+            "alias": "đg Phan Bội Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3320418",
+            "lng": "105.91987940000001"
+        },
+        {
+            "id": 428873,
+            "name": "Lê Khôi",
+            "pid": 15193,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Khôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3320418",
+            "lng": "105.91987940000001"
+        },
+        {
+            "id": 428871,
+            "name": "Nguyễn Biên",
+            "pid": 15193,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3320418",
+            "lng": "105.91987940000001"
+        },
+        {
+            "id": 785275,
+            "name": "Tân Yên",
+            "pid": 15193,
+            "type": 21,
+            "region": null,
+            "alias": "Tân Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.3320418",
+            "lng": "105.9198794"
+        }
+    ],
+    "log_id": "675816e9d6ce2617"
+}

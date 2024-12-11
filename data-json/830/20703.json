@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 407967,
+            "name": "Phiêng Đáy",
+            "pid": 20703,
+            "type": 16,
+            "region": null,
+            "alias": "Phiêng Đáy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6203843",
+            "lng": "105.30726460000005"
+        },
+        {
+            "id": 407965,
+            "name": "Phiêng Luông",
+            "pid": 20703,
+            "type": 16,
+            "region": null,
+            "alias": "Phiêng Luông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6203843",
+            "lng": "105.30726460000005"
+        },
+        {
+            "id": 407969,
+            "name": "Tá Tò",
+            "pid": 20703,
+            "type": 16,
+            "region": null,
+            "alias": "Tá Tò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6203843",
+            "lng": "105.30726460000005"
+        }
+    ],
+    "log_id": "6758156654057784"
+}

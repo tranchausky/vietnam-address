@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 530001,
+            "name": "Cộng Hòa",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "cộng hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        },
+        {
+            "id": 530003,
+            "name": "Đại Bắc",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "đại bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        },
+        {
+            "id": 530005,
+            "name": "Đại Hải",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "đại hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        },
+        {
+            "id": 530007,
+            "name": "Đại Tân",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "đại tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        },
+        {
+            "id": 530009,
+            "name": "Phú Liên",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "phú liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        },
+        {
+            "id": 530011,
+            "name": "Phú Thành",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "phú thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        },
+        {
+            "id": 530013,
+            "name": "Thành Công",
+            "pid": 20344,
+            "type": 16,
+            "region": null,
+            "alias": "thành công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.0856219",
+            "lng": "105.69111210000005"
+        }
+    ],
+    "log_id": "675812093652d354"
+}

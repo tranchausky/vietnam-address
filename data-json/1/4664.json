@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 993075,
+            "name": "Làng Bình Trù",
+            "pid": 4664,
+            "type": 16,
+            "region": null,
+            "alias": "LÀNG BÌNH TRÙ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.00944204197312",
+            "lng": "105.99003192958335"
+        },
+        {
+            "id": 993071,
+            "name": "Thôn Bài Tâm",
+            "pid": 4664,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN BÀI TÂM",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.008194491215235",
+            "lng": "105.97581769322977"
+        },
+        {
+            "id": 993066,
+            "name": "Thôn Đề Trụ",
+            "pid": 4664,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN ĐỀ TRỤ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.013037616168006",
+            "lng": "105.97610595150006"
+        },
+        {
+            "id": 958790,
+            "name": "Thôn Lam Cầu",
+            "pid": 4664,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Lam cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 958954,
+            "name": "Thôn Quang Trung",
+            "pid": 4664,
+            "type": 18,
+            "region": null,
+            "alias": "THÔN QUANG TRUNG",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 993065,
+            "name": "Thôn Quán Khê",
+            "pid": 4664,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN QUÁN KHÊ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.998474567542438",
+            "lng": "105.98391114333582"
+        },
+        {
+            "id": 993073,
+            "name": "Thôn Tự Môn",
+            "pid": 4664,
+            "type": 16,
+            "region": null,
+            "alias": "THÔN TỰ MÔN",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.003692889402803",
+            "lng": "105.97891696212577"
+        }
+    ],
+    "log_id": "675811bb9b478130"
+}

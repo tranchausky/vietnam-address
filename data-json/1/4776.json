@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 850285,
+            "name": "Chợ Chiều",
+            "pid": 4776,
+            "type": 18,
+            "region": null,
+            "alias": "Chợ Chiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.08184193337358",
+            "lng": "105.6229507640025"
+        },
+        {
+            "id": 850279,
+            "name": "Đền Dịp",
+            "pid": 4776,
+            "type": 18,
+            "region": null,
+            "alias": "Đền Dịp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.075567769150464",
+            "lng": "105.61734919077979"
+        },
+        {
+            "id": 850291,
+            "name": "Dốc Nhà Máy Đường",
+            "pid": 4776,
+            "type": 18,
+            "region": null,
+            "alias": "Dốc Nhà Máy Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0850655513324",
+            "lng": "105.6238418983484"
+        },
+        {
+            "id": 875407,
+            "name": "Đường Trục Chính",
+            "pid": 4776,
+            "type": 18,
+            "region": null,
+            "alias": "Đường Trục Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.08478394420621",
+            "lng": "105.62343883381493"
+        },
+        {
+            "id": 118281,
+            "name": "Hòa Thôn",
+            "pid": 4776,
+            "type": 16,
+            "region": null,
+            "alias": "Hòa Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0789787",
+            "lng": "105.6148621"
+        },
+        {
+            "id": 933887,
+            "name": "Làng Đại Điền",
+            "pid": 4776,
+            "type": 18,
+            "region": null,
+            "alias": "Làng Đại Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.079383129158487",
+            "lng": "105.62176752345826"
+        },
+        {
+            "id": 118289,
+            "name": "Mỹ Giang",
+            "pid": 4776,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.084205",
+            "lng": "105.618192"
+        },
+        {
+            "id": 118279,
+            "name": "Thôn 1",
+            "pid": 4776,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0769923",
+            "lng": "105.6168408"
+        },
+        {
+            "id": 55102,
+            "name": "Ubnd Xã Tam Hiệp - Phúc Thọ",
+            "pid": 4776,
+            "type": 17,
+            "region": null,
+            "alias": "UBND Xã Tam Hiệp - Phúc Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0789787",
+            "lng": "105.61486209999998"
+        }
+    ],
+    "log_id": "675811bc48595765"
+}

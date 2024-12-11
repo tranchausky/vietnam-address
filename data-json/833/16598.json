@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116265,
+            "name": "Ấp Bình Phú 1",
+            "pid": 16598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Phú 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5933054",
+            "lng": "105.2493604"
+        },
+        {
+            "id": 116275,
+            "name": "Ấp Bình Phú 2",
+            "pid": 16598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Phú 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5933054",
+            "lng": "105.2493604"
+        },
+        {
+            "id": 116239,
+            "name": "Ấp Bình Tây 1",
+            "pid": 16598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Tây 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5933054",
+            "lng": "105.2493604"
+        },
+        {
+            "id": 116281,
+            "name": "Ấp Bình Thành",
+            "pid": 16598,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5933054",
+            "lng": "105.2493604"
+        }
+    ],
+    "log_id": "6758159dada49501"
+}

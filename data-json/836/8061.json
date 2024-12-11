@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439453,
+            "name": "Ấp Cây Gía",
+            "pid": 8061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Gía",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.111262 ",
+            "lng": "105.318941"
+        },
+        {
+            "id": 439455,
+            "name": "Ấp Cây Thẻ",
+            "pid": 8061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Thẻ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.171067 ",
+            "lng": "105.290257"
+        },
+        {
+            "id": 439457,
+            "name": "Ấp Chòi Mòi",
+            "pid": 8061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chòi Mòi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.078845",
+            "lng": "105.314987"
+        },
+        {
+            "id": 439459,
+            "name": "Ấp Lung Chim",
+            "pid": 8061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lung Chim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.122521 ",
+            "lng": "105.295066"
+        },
+        {
+            "id": 439461,
+            "name": "Ấp Lung Xình",
+            "pid": 8061,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lung Xình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.158059 ",
+            "lng": "105.296427"
+        }
+    ],
+    "log_id": "675815e17cccc647"
+}

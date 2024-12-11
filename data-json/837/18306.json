@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 739798,
+            "name": "Đoan Bái",
+            "pid": 18306,
+            "type": 16,
+            "region": null,
+            "alias": "đoan Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0402318",
+            "lng": "106.1500072"
+        },
+        {
+            "id": 971674,
+            "name": "Thôn Đại Bái",
+            "pid": 18306,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Đại Bái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0402318",
+            "lng": "106.1500072"
+        },
+        {
+            "id": 971675,
+            "name": "Thôn Ngoài",
+            "pid": 18306,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0402318 ",
+            "lng": "106.1500072"
+        },
+        {
+            "id": 971670,
+            "name": "Thôn Ngọc Xuyên",
+            "pid": 18306,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Ngọc Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0527624",
+            "lng": "106.144268655555555"
+        },
+        {
+            "id": 971676,
+            "name": "Thôn Tây Giữa",
+            "pid": 18306,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Tây Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0402318 ",
+            "lng": "106.1500072"
+        },
+        {
+            "id": 739792,
+            "name": "Xóm Áng",
+            "pid": 18306,
+            "type": 18,
+            "region": null,
+            "alias": "xóm áng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0402318",
+            "lng": "106.1500072"
+        },
+        {
+            "id": 104957,
+            "name": "Xóm Ngoài",
+            "pid": 18306,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0412482",
+            "lng": "106.1474588"
+        },
+        {
+            "id": 105002,
+            "name": "Xóm Sôn",
+            "pid": 18306,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0806033",
+            "lng": "106.1155949"
+        },
+        {
+            "id": 855322,
+            "name": "Xóm Tây",
+            "pid": 18306,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0402318",
+            "lng": "106.1500072"
+        },
+        {
+            "id": 104933,
+            "name": "Xóm Trại",
+            "pid": 18306,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Trại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0727136",
+            "lng": "106.1463396"
+        }
+    ],
+    "log_id": "675815f8d307e466"
+}

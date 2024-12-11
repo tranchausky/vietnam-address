@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652237,
+            "name": "Thôn Hiền Sỹ",
+            "pid": 17688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hiền Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.834101",
+            "lng": "106.424129"
+        },
+        {
+            "id": 652240,
+            "name": "Thôn Kim Đới",
+            "pid": 17688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Đới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.824780",
+            "lng": "106.417134"
+        },
+        {
+            "id": 652234,
+            "name": "Thôn Kim Xuyên",
+            "pid": 17688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.825893",
+            "lng": "106.422970"
+        },
+        {
+            "id": 652243,
+            "name": "Thôn Làng Vôi",
+            "pid": 17688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Vôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.822598",
+            "lng": "106.426747"
+        },
+        {
+            "id": 652231,
+            "name": "Thôn Nhân Lý",
+            "pid": 17688,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.820052",
+            "lng": "106.419450"
+        }
+    ],
+    "log_id": "675813f1e011750"
+}

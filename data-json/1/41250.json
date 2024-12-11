@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829720,
+            "name": "Đường Khương Đình",
+            "pid": 41250,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Khương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9923944",
+            "lng": "105.81359799999996"
+        },
+        {
+            "id": 652,
+            "name": "Hạ Đình",
+            "pid": 41250,
+            "type": 2,
+            "region": null,
+            "alias": "Hạ Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9866719",
+            "lng": "105.80994989999999"
+        },
+        {
+            "id": 634,
+            "name": "Khương Đình",
+            "pid": 41250,
+            "type": 2,
+            "region": null,
+            "alias": "Khương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9887356",
+            "lng": "105.8187558"
+        },
+        {
+            "id": 50906,
+            "name": "Ngõ 460 Khương Đình",
+            "pid": 41250,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 460 Khương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9860058",
+            "lng": "105.810339"
+        }
+    ],
+    "log_id": "675811bd438a2915"
+}

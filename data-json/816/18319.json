@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629259,
+            "name": "Thôn Bối Khê",
+            "pid": 18319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bối Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8592327",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 629256,
+            "name": "Thôn Đào Quạt",
+            "pid": 18319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đào Quạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8592327",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 629262,
+            "name": "Thôn Tiên Kiều",
+            "pid": 18319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Kiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8592327",
+            "lng": "106.12869009999997"
+        }
+    ],
+    "log_id": "67581491308d0389"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 808150,
+            "name": "Phố Vác",
+            "pid": 4389,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Vác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 663277,
+            "name": "Thôn Hoàng Văn Thụ",
+            "pid": 4389,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Văn Thụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": " 105.790872",
+            "lng": "20.813163"
+        },
+        {
+            "id": 663289,
+            "name": "Thôn Phú Thọ",
+            "pid": 4389,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7877914",
+            "lng": "20.817310"
+        },
+        {
+            "id": 663310,
+            "name": "Thôn Thế Hiển, Xã Dân Hòa",
+            "pid": 4389,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thế Hiển, Xã Dân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7780684",
+            "lng": "20.811042"
+        },
+        {
+            "id": 663301,
+            "name": "Thôn Tiên Văn, Xã Dân Hòa",
+            "pid": 4389,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiên Văn, Xã Dân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7798664",
+            "lng": "20.814920"
+        },
+        {
+            "id": 663292,
+            "name": "Thôn Trần Phú",
+            "pid": 4389,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trần phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7759776",
+            "lng": "20.809683"
+        },
+        {
+            "id": 663304,
+            "name": "Thôn Trung Hòa, Xã Dân Hòa",
+            "pid": 4389,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hòa, Xã Dân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7774537",
+            "lng": "20.816136"
+        },
+        {
+            "id": 53598,
+            "name": "Thpt Nguyễn Du",
+            "pid": 4389,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Nguyễn Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55482,
+            "name": "Ubnd Xã Dân Hòa",
+            "pid": 4389,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Dân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd55f41598"
+}

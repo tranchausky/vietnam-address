@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449549,
+            "name": "Lang Brang",
+            "pid": 19347,
+            "type": 16,
+            "region": null,
+            "alias": "Lang Brang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9031948",
+            "lng": "108.69253449999997"
+        },
+        {
+            "id": 449541,
+            "name": "Làng Groi1",
+            "pid": 19347,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Groi1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9031948",
+            "lng": "108.69253449999997"
+        },
+        {
+            "id": 449543,
+            "name": "Làng Groi2",
+            "pid": 19347,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Groi2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9031948",
+            "lng": "108.69253449999997"
+        },
+        {
+            "id": 449545,
+            "name": "Làng Mông 1",
+            "pid": 19347,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Mông 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9031948",
+            "lng": "108.69253449999997"
+        },
+        {
+            "id": 449547,
+            "name": "Làng Mông 2",
+            "pid": 19347,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Mông 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9031948",
+            "lng": "108.69253449999997"
+        },
+        {
+            "id": 765811,
+            "name": "Làng Tờ",
+            "pid": 19347,
+            "type": 22,
+            "region": null,
+            "alias": "Làng Tờ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.9031948",
+            "lng": "108.69253449999997"
+        }
+    ],
+    "log_id": "675816d326c4e708"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 985014,
+            "name": "Công Ty Tnhh Nước Sinh Hoạt Tân Phú",
+            "pid": 7171,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty TNHH Nước Sinh Hoạt Tân Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21°02'30.1\"N",
+            "lng": "106°18'28.7\"E"
+        },
+        {
+            "id": 985007,
+            "name": "Nhà Văn Hóa Kim Độ Trại",
+            "pid": 7171,
+            "type": 10,
+            "region": null,
+            "alias": "Nhà Văn Hóa Kim Độ Trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21°02'22.8\"N",
+            "lng": "106°19'02.9\"E"
+        },
+        {
+            "id": 639243,
+            "name": "Thôn Cát Khê",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn cát khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639249,
+            "name": "Thôn Chợ La",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn chợ la",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639237,
+            "name": "Thôn Đại Lã",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đại lã",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639234,
+            "name": "Thôn Kim Độ Làng",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn kim độ làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639231,
+            "name": "Thôn Kim Độ Trại",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn kim độ trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639240,
+            "name": "Thôn Kinh Dương",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn kinh dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        },
+        {
+            "id": 639246,
+            "name": "Thôn Lấu Khê",
+            "pid": 7171,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn lấu khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0414472",
+            "lng": "106.30811940000001"
+        }
+    ],
+    "log_id": "675813f1bf28f339"
+}

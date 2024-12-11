@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 78653,
+            "name": "Ấp Thanh Tâm",
+            "pid": 18517,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.946657",
+            "lng": "106.824268"
+        },
+        {
+            "id": 78650,
+            "name": "Ấp Thanh Thủy",
+            "pid": 18517,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.964868",
+            "lng": "106.836676"
+        },
+        {
+            "id": 78659,
+            "name": "Ấp Thanh Trung",
+            "pid": 18517,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.961322",
+            "lng": "106.813259"
+        },
+        {
+            "id": 436811,
+            "name": "Kp Thanh Bình",
+            "pid": 18517,
+            "type": 21,
+            "region": null,
+            "alias": "Kp Thanh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.9598232",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 436813,
+            "name": "Kp Thanh Xuân",
+            "pid": 18517,
+            "type": 21,
+            "region": null,
+            "alias": "Kp Thanh Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.9598232",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 885688,
+            "name": "Thanh Sơn",
+            "pid": 18517,
+            "type": 17,
+            "region": null,
+            "alias": "Thanh Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.9598232",
+            "lng": "106.82373740000004"
+        }
+    ],
+    "log_id": "6758163774b72484"
+}

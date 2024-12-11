@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1009119,
+            "name": "334 La Thành",
+            "pid": 4972,
+            "type": 4,
+            "region": null,
+            "alias": "334 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.137264710330978",
+            "lng": "105.51092497201108"
+        },
+        {
+            "id": 1009122,
+            "name": "356 La Thành",
+            "pid": 4972,
+            "type": 4,
+            "region": null,
+            "alias": "356 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.13687883182956",
+            "lng": "105.51095464364447"
+        },
+        {
+            "id": 1009121,
+            "name": "392 La Thành",
+            "pid": 4972,
+            "type": 4,
+            "region": null,
+            "alias": "392 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.13528001128276",
+            "lng": "105.5111241720156"
+        },
+        {
+            "id": 1009123,
+            "name": "456 La Thành",
+            "pid": 4972,
+            "type": 4,
+            "region": null,
+            "alias": "456 La Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.133481841400997",
+            "lng": "105.51127484381425"
+        },
+        {
+            "id": 979960,
+            "name": "Bùi Thị Xuân",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Bùi Thị Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.13323",
+            "lng": "105.50927"
+        },
+        {
+            "id": 807826,
+            "name": "Công Ty Điện Lực",
+            "pid": 4972,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty Điện Lực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807808,
+            "name": "Ngõ Cẩm An",
+            "pid": 4972,
+            "type": 18,
+            "region": null,
+            "alias": "Ngõ Cẩm An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807823,
+            "name": "Phố Hoàng Diệu",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Hoàng Diệu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807817,
+            "name": "Phố Nguyễn Thái Học",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Nguyễn Thái Học",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807814,
+            "name": "Phố Phạm Hồng Thái",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phạm Hồng Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807805,
+            "name": "Phố Phùng Khắc Khoan",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phùng Khắc Khoan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807820,
+            "name": "Phố Quang Trung",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Quang Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        },
+        {
+            "id": 807835,
+            "name": "Thuần Nghệ",
+            "pid": 4972,
+            "type": 21,
+            "region": null,
+            "alias": "Thuần Nghệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1347408",
+            "lng": "105.50714130000006"
+        }
+    ],
+    "log_id": "675811bc9f1b0316"
+}

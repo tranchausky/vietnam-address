@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 461371,
+            "name": "Đồng Phú",
+            "pid": 15122,
+            "type": 21,
+            "region": null,
+            "alias": "Đồng Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4698609",
+            "lng": "106.61707920000003"
+        },
+        {
+            "id": 461375,
+            "name": "Tdp 2",
+            "pid": 15122,
+            "type": 20,
+            "region": null,
+            "alias": "TDP 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4698609",
+            "lng": "106.61707920000003"
+        },
+        {
+            "id": 461391,
+            "name": "Tổ Dân Phố 10",
+            "pid": 15122,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4698609",
+            "lng": "106.61707920000003"
+        },
+        {
+            "id": 916933,
+            "name": "Tổ Dân Phố 11",
+            "pid": 15122,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ Dân Phố 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.4698609",
+            "lng": "106.61707920000003"
+        }
+    ],
+    "log_id": "675814aa18137964"
+}

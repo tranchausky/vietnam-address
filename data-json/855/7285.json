@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 499027,
+            "name": "Ấp Phước Hưng 1",
+            "pid": 7285,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Hưng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5920361",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 499029,
+            "name": "Ấp Phước Hưng 2",
+            "pid": 7285,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Hưng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5920361",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 499031,
+            "name": "Ấp Phước Kế",
+            "pid": 7285,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Kế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5920361",
+            "lng": "106.62323590000005"
+        },
+        {
+            "id": 499033,
+            "name": "Ấp Phước Thuận",
+            "pid": 7285,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Phước Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5920361",
+            "lng": "106.62323590000005"
+        }
+    ],
+    "log_id": "6758178535319714"
+}

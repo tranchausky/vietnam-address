@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 406575,
+            "name": "Thôn An Phúc",
+            "pid": 19122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3093572",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 406573,
+            "name": "Thôn Đồng Chè",
+            "pid": 19122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Chè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3093572",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 406577,
+            "name": "Thôn Tổng Lệnh 1",
+            "pid": 19122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tổng Lệnh 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3093572",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 406579,
+            "name": "Thôn Tổng Lệnh 2",
+            "pid": 19122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tổng Lệnh 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3093572",
+            "lng": "106.49359800000002"
+        },
+        {
+            "id": 406581,
+            "name": "Thôn Tổng Lệnh 3",
+            "pid": 19122,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tổng Lệnh 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3093572",
+            "lng": "106.49359800000002"
+        }
+    ],
+    "log_id": "675813d935270728"
+}

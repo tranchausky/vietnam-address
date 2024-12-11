@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 55770,
+            "name": "Ubnd Xã Hòa Xá",
+            "pid": 4952,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hòa Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 835042,
+            "name": "Xóm 1",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 835036,
+            "name": "Xóm Chùa",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 831367,
+            "name": "Xóm Chung",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Chung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 810694,
+            "name": "Xóm Chung Mới",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "xóm CHUNG mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 810703,
+            "name": "Xóm Cộc",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Cộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 835033,
+            "name": "Xóm Giếng",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Giếng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 835048,
+            "name": "Xóm Sông Mới",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sông Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 810721,
+            "name": "Xóm Thượng Dài",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Thượng Dài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        },
+        {
+            "id": 810706,
+            "name": "Xóm Vực",
+            "pid": 4952,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Vực",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.696075",
+            "lng": "105.7571236"
+        }
+    ],
+    "log_id": "675811bd4418a56"
+}

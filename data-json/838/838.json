@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1521,
+            "name": "Huyện Ba Tri",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Ba Tri",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0417849",
+            "lng": "106.59367410000004"
+        },
+        {
+            "id": 1522,
+            "name": "Huyện Bình Đại",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bình Đại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1596899",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 1523,
+            "name": "Huyện Châu Thành",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Châu Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3067813",
+            "lng": "106.36992710000004"
+        },
+        {
+            "id": 1524,
+            "name": "Huyện Chợ Lách",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Chợ Lách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.241094",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 1525,
+            "name": "Huyện Giồng Trôm",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Giồng Trôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1718844",
+            "lng": "106.46414589999995"
+        },
+        {
+            "id": 1526,
+            "name": "Huyện Mỏ Cày Bắc",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Mỏ Cày Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1700758",
+            "lng": "106.28752099999997"
+        },
+        {
+            "id": 1527,
+            "name": "Huyện Mỏ Cày Nam",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Mỏ Cày Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.0468396",
+            "lng": "106.36992710000004"
+        },
+        {
+            "id": 1528,
+            "name": "Huyện Thạnh Phú",
+            "pid": 838,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Thạnh Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9077234",
+            "lng": "106.55840710000007"
+        },
+        {
+            "id": 1529,
+            "name": "Thành Phố Bến Tre",
+            "pid": 838,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Bến Tre",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.241361",
+            "lng": "106.37626009999997"
+        }
+    ],
+    "log_id": "6758160d8e960919"
+}

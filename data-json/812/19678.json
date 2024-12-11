@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 994653,
+            "name": "46 Cách Mạng Tháng Tám",
+            "pid": 19678,
+            "type": 10,
+            "region": null,
+            "alias": "46 Cách Mạng Tháng Tám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.798011741469066",
+            "lng": "107.71641605190811"
+        },
+        {
+            "id": 567639,
+            "name": "Khu Phố 2",
+            "pid": 19678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8233418",
+            "lng": "107.73040489999994"
+        },
+        {
+            "id": 567642,
+            "name": "Khu Phố 3",
+            "pid": 19678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8233418",
+            "lng": "107.73040489999994"
+        },
+        {
+            "id": 567645,
+            "name": "Khu Phố 4",
+            "pid": 19678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8233418",
+            "lng": "107.73040489999994"
+        },
+        {
+            "id": 567648,
+            "name": "Khu Phố 5",
+            "pid": 19678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8233418",
+            "lng": "107.73040489999994"
+        },
+        {
+            "id": 567654,
+            "name": "Khu Phố 7",
+            "pid": 19678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8233418",
+            "lng": "107.73040489999994"
+        },
+        {
+            "id": 567657,
+            "name": "Khu Phố 8",
+            "pid": 19678,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8233418",
+            "lng": "107.73040489999994"
+        }
+    ],
+    "log_id": "6758147798ac4194"
+}

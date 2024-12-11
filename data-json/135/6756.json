@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 785494,
+            "name": "Đường 20\/8",
+            "pid": 6756,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 20\/8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.47887140000002"
+        },
+        {
+            "id": 632346,
+            "name": "Kdc Hòa Bình",
+            "pid": 6756,
+            "type": 5,
+            "region": null,
+            "alias": "KDC Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 632349,
+            "name": "Kdc Lam Sơn",
+            "pid": 6756,
+            "type": 5,
+            "region": null,
+            "alias": "KDC Lam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 632355,
+            "name": "Kdc Tiền Hải",
+            "pid": 6756,
+            "type": 5,
+            "region": null,
+            "alias": "KDC Tiền Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 632364,
+            "name": "Khu Bắc Hải",
+            "pid": 6756,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Bắc Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 632367,
+            "name": "Khu Đông Thái",
+            "pid": 6756,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Đông Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 632358,
+            "name": "Khu Phố 1\/5",
+            "pid": 6756,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1\/5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.688296454347824",
+            "lng": " 106.4813185640764"
+        },
+        {
+            "id": 632361,
+            "name": "Khu Phố 3\/2",
+            "pid": 6756,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3\/2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6951233",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 632370,
+            "name": "Khu Phố Tân Hòa",
+            "pid": 6756,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.682188270223435",
+            "lng": "106.48208674289833"
+        }
+    ],
+    "log_id": "67581365caf5b169"
+}

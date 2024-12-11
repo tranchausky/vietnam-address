@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 439611,
+            "name": "Ấp Chắt Đốt",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chắt Đốt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3933912",
+            "lng": "105.7738667"
+        },
+        {
+            "id": 439613,
+            "name": "Ấp Hà Đức",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hà Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3583345",
+            "lng": "105.7378119"
+        },
+        {
+            "id": 439607,
+            "name": "Ấp Nhà Dài A",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhà Dài A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3800005",
+            "lng": "105.7481888"
+        },
+        {
+            "id": 439609,
+            "name": "Ấp Nhà Dài B",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhà Dài B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4069211",
+            "lng": "105.7555366"
+        },
+        {
+            "id": 439605,
+            "name": "Ấp Thạnh Long",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thạnh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.41134833",
+            "lng": "105.771698333"
+        },
+        {
+            "id": 439619,
+            "name": "Ấp Thông Lưu",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thông Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4003183",
+            "lng": "105.7438367"
+        },
+        {
+            "id": 439615,
+            "name": "Ấp Trà Ban 1",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Ban 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3785654",
+            "lng": "105.7126686"
+        },
+        {
+            "id": 439617,
+            "name": "Ấp Trà Ban 2",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Ban 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3863433",
+            "lng": "105.7127812"
+        },
+        {
+            "id": 799021,
+            "name": "Tân Tạo",
+            "pid": 8080,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Tạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.376756799999999",
+            "lng": "105.7233814"
+        }
+    ],
+    "log_id": "675815e17fadb123"
+}

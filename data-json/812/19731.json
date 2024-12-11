@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568356,
+            "name": "Thôn Vĩnh Hưng",
+            "pid": 19731,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3462211",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 568359,
+            "name": "Thôn Vĩnh Phúc",
+            "pid": 19731,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3462211",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 568362,
+            "name": "Thôn Vĩnh Tiến",
+            "pid": 19731,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3462211",
+            "lng": "108.81950119999999"
+        }
+    ],
+    "log_id": "675814780d1be744"
+}

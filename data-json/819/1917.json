@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 20918,
+            "name": "Thị Trấn Bình Liêu",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Bình Liêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5259304",
+            "lng": "107.398189"
+        },
+        {
+            "id": 20917,
+            "name": "Xã Đồng Tâm",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5973654",
+            "lng": "107.44402539999999"
+        },
+        {
+            "id": 20919,
+            "name": "Xã Đồng Văn",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đồng Văn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5615613",
+            "lng": "107.5623501"
+        },
+        {
+            "id": 20920,
+            "name": "Xã Hoành Mô",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hoành Mô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5955193",
+            "lng": "107.48881519999998"
+        },
+        {
+            "id": 20921,
+            "name": "Xã Húc Động",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Húc Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4802148",
+            "lng": "107.44846159999997"
+        },
+        {
+            "id": 20922,
+            "name": "Xã Lục Hồn",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lục Hồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5538089",
+            "lng": "107.42036689999998"
+        },
+        {
+            "id": 20923,
+            "name": "Xã Tình Húc",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tình Húc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5256307",
+            "lng": "107.4144526"
+        },
+        {
+            "id": 20924,
+            "name": "Xã Vô Ngại",
+            "pid": 1917,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vô Ngại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5152902",
+            "lng": "107.34940430000006"
+        }
+    ],
+    "log_id": "675814c1cd245911"
+}

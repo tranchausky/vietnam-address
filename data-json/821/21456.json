@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 665053,
+            "name": "Bản Đơn",
+            "pid": 21456,
+            "type": 10,
+            "region": null,
+            "alias": "Bản đơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 529101,
+            "name": "Bản Hội 1",
+            "pid": 21456,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hội 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 665044,
+            "name": "Bản Khứm",
+            "pid": 21456,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Khứm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 665038,
+            "name": "Bản Khun",
+            "pid": 21456,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Khun",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 665050,
+            "name": "Bản Lè",
+            "pid": 21456,
+            "type": 10,
+            "region": null,
+            "alias": "Bản Lè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 529103,
+            "name": "Hội 2",
+            "pid": 21456,
+            "type": 9,
+            "region": null,
+            "alias": "Hội 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 529105,
+            "name": "Hội 3",
+            "pid": 21456,
+            "type": 16,
+            "region": null,
+            "alias": "Hội 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 529107,
+            "name": "Lâm Hội",
+            "pid": 21456,
+            "type": 18,
+            "region": null,
+            "alias": "Lâm Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        },
+        {
+            "id": 893635,
+            "name": "Làng 83",
+            "pid": 21456,
+            "type": 18,
+            "region": null,
+            "alias": "Làng 83",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000004"
+        },
+        {
+            "id": 910540,
+            "name": "Na Hiền",
+            "pid": 21456,
+            "type": 18,
+            "region": null,
+            "alias": "Na Hiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000004"
+        },
+        {
+            "id": 529109,
+            "name": "Việt Hương",
+            "pid": 21456,
+            "type": 18,
+            "region": null,
+            "alias": "Việt Hương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6225464",
+            "lng": "105.17926190000003"
+        }
+    ],
+    "log_id": "67581208a49ef218"
+}

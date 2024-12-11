@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981061,
+            "name": "Đình Đông",
+            "pid": 26145,
+            "type": 21,
+            "region": null,
+            "alias": "Đình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981064,
+            "name": "Hàng Kênh",
+            "pid": 26145,
+            "type": 21,
+            "region": null,
+            "alias": "Hàng Kênh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581366269c4767"
+}

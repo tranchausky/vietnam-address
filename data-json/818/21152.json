@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 895210,
+            "name": "Đan Sa",
+            "pid": 21152,
+            "type": 20,
+            "region": null,
+            "alias": "đan Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.6885751",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 644860,
+            "name": "Tdp Diên Phúc",
+            "pid": 21152,
+            "type": 16,
+            "region": null,
+            "alias": "TDP Diên Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.724061",
+            "lng": "106.4644822"
+        },
+        {
+            "id": 644863,
+            "name": "Tdp Mỹ Hòa",
+            "pid": 21152,
+            "type": 16,
+            "region": null,
+            "alias": "TDP Mỹ Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7221851",
+            "lng": "106.466859"
+        },
+        {
+            "id": 895216,
+            "name": "Tdp Tân Mỹ",
+            "pid": 21152,
+            "type": 20,
+            "region": null,
+            "alias": "TDP Tân Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.6885751",
+            "lng": "106.3640398"
+        }
+    ],
+    "log_id": "675814aa082d7202"
+}

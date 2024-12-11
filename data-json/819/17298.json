@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555317,
+            "name": "Thôn Cẩm Liên",
+            "pid": 17298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Liên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9191199",
+            "lng": "106.81193819999999"
+        },
+        {
+            "id": 555311,
+            "name": "Thôn Cẩm Luỹ",
+            "pid": 17298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Luỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9191199",
+            "lng": "106.81193819999999"
+        },
+        {
+            "id": 555315,
+            "name": "Thôn Cẩm Thành",
+            "pid": 17298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9191199",
+            "lng": "106.81193819999999"
+        },
+        {
+            "id": 555313,
+            "name": "Thôn Cẩm Tiến",
+            "pid": 17298,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cẩm Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9191199",
+            "lng": "106.81193819999999"
+        }
+    ],
+    "log_id": "675814c2187cc951"
+}

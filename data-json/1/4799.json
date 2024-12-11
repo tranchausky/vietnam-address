@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119445,
+            "name": "Thôn Ngọc Than",
+            "pid": 4799,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Than",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9932982",
+            "lng": "105.6288816"
+        },
+        {
+            "id": 119447,
+            "name": "Thôn Phú Mỹ",
+            "pid": 4799,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9857815",
+            "lng": "105.6271371"
+        },
+        {
+            "id": 55146,
+            "name": "Ubnd Xã Ngọc Mỹ",
+            "pid": 4799,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Ngọc Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bcd5147445"
+}

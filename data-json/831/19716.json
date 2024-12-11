@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118247,
+            "name": "Xuân Cam",
+            "pid": 19716,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Cam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.711882",
+            "lng": "109.113507"
+        },
+        {
+            "id": 118253,
+            "name": "Xuân Ninh",
+            "pid": 19716,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.708188,",
+            "lng": "109.118485"
+        },
+        {
+            "id": 118251,
+            "name": "Xuân Thọ",
+            "pid": 19716,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.715614",
+            "lng": " 109.113807"
+        },
+        {
+            "id": 118259,
+            "name": "Xuân Trang",
+            "pid": 19716,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.718011",
+            "lng": "109.112005"
+        }
+    ],
+    "log_id": "67581585a9b992"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 666097,
+            "name": "Bản Bà",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Bà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527743,
+            "name": "Bản Đỉnh Sơn 1",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Đỉnh Sơn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527745,
+            "name": "Bản Đỉnh Sơn 2",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Đỉnh Sơn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527747,
+            "name": "Bản Hòm",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Hòm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527749,
+            "name": "Bản Huồi Thợ",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huồi Thợ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527751,
+            "name": "Bản Khe Tỳ",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khe Tỳ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527753,
+            "name": "Bản Na Chảo",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Chảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        },
+        {
+            "id": 527755,
+            "name": "Bản Na Lượng",
+            "pid": 21928,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Lượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3509775",
+            "lng": "104.20471599999996"
+        }
+    ],
+    "log_id": "6758120849df268"
+}

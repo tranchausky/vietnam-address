@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 17682,
+            "name": "Thị Trấn Tô Hạp",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Thị Trấn Tô Hạp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9863042",
+            "lng": "108.93239500000004"
+        },
+        {
+            "id": 17686,
+            "name": "Xã Ba Cụm Bắc",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ba Cụm Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9880298",
+            "lng": "108.98588199999995"
+        },
+        {
+            "id": 17684,
+            "name": "Xã Ba Cụm Nam",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ba Cụm Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9460308",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 17692,
+            "name": "Xã Sơn Bình",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.01063",
+            "lng": "108.8967409"
+        },
+        {
+            "id": 17690,
+            "name": "Xã Sơn Hiệp",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sơn Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.041743",
+            "lng": "108.92050990000007"
+        },
+        {
+            "id": 17695,
+            "name": "Xã Sơn Lâm",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sơn Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0458923",
+            "lng": "108.86108990000002"
+        },
+        {
+            "id": 17689,
+            "name": "Xã Sơn Trung",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Sơn Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0552157",
+            "lng": "108.96210910000002"
+        },
+        {
+            "id": 17694,
+            "name": "Xã Thành Sơn",
+            "pid": 1726,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thành Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.087055",
+            "lng": "108.81950119999999"
+        }
+    ],
+    "log_id": "675815858fd21475"
+}

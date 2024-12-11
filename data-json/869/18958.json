@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111655,
+            "name": "Thôn Dốc Cát",
+            "pid": 18958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dốc Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189, 109.023206",
+            "lng": "109.023206"
+        },
+        {
+            "id": 117275,
+            "name": "Thôn Hòa Sơn",
+            "pid": 18958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189",
+            "lng": "109.023206"
+        },
+        {
+            "id": 111671,
+            "name": "Thôn Mặt Hàn",
+            "pid": 18958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mặt Hàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189",
+            "lng": "109.023206"
+        },
+        {
+            "id": 111265,
+            "name": "Thôn Ngân Điền",
+            "pid": 18958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngân Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189, 109.023206",
+            "lng": "109.023206"
+        },
+        {
+            "id": 111283,
+            "name": "Thôn Suối Cau",
+            "pid": 18958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Cau",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189",
+            "lng": "109.023206"
+        },
+        {
+            "id": 111297,
+            "name": "Thôn Thành Hội",
+            "pid": 18958,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.073189",
+            "lng": " 109.023206"
+        },
+        {
+            "id": 833992,
+            "name": "Ubnd Xã Sơn Hà",
+            "pid": 18958,
+            "type": 21,
+            "region": null,
+            "alias": "UBND Xã Sơn Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0578384",
+            "lng": "109.0572086"
+        }
+    ],
+    "log_id": "67590b8099989128"
+}

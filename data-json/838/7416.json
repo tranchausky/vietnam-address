@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 907792,
+            "name": "Ấp An Bình",
+            "pid": 7416,
+            "type": 18,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2727576",
+            "lng": "106.293406"
+        },
+        {
+            "id": 663028,
+            "name": "Ấp An Hòa",
+            "pid": 7416,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2727576",
+            "lng": "106.293406"
+        },
+        {
+            "id": 663025,
+            "name": "Ấp Hòa Thanh",
+            "pid": 7416,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hòa Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2727576",
+            "lng": "106.293406"
+        },
+        {
+            "id": 663040,
+            "name": "Ấp Thuận Điền",
+            "pid": 7416,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2727576",
+            "lng": "106.293406"
+        },
+        {
+            "id": 758272,
+            "name": "Kcn An Hiệp",
+            "pid": 7416,
+            "type": 5,
+            "region": null,
+            "alias": "KCN An Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2727576",
+            "lng": "106.293406"
+        }
+    ],
+    "log_id": "6758160de41a3556"
+}

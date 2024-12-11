@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 729547,
+            "name": "Công Ty Brother",
+            "pid": 7135,
+            "type": 10,
+            "region": null,
+            "alias": "Công Ty Brother",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9351342",
+            "lng": "106.22244599999999"
+        },
+        {
+            "id": 725017,
+            "name": "Kcn Phúc Điền",
+            "pid": 7135,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Phúc Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.931298440337798",
+            "lng": "106.19222051171329"
+        },
+        {
+            "id": 725494,
+            "name": "Khu Công Nghiệp Phúc Điền",
+            "pid": 7135,
+            "type": 5,
+            "region": null,
+            "alias": "Khu công nghiệp Phúc Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9355146",
+            "lng": "106.20428779999996"
+        },
+        {
+            "id": 725491,
+            "name": "Lê Xá",
+            "pid": 7135,
+            "type": 16,
+            "region": null,
+            "alias": "Lê Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9684918",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 725503,
+            "name": "Phúc Cầu",
+            "pid": 7135,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9355146",
+            "lng": "106.20428779999996"
+        },
+        {
+            "id": 638838,
+            "name": "Phúc Xá A",
+            "pid": 7135,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Xá A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9355146",
+            "lng": "106.20428779999997"
+        },
+        {
+            "id": 638841,
+            "name": "Phúc Xá B",
+            "pid": 7135,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Xá B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9355146",
+            "lng": "106.20428779999997"
+        },
+        {
+            "id": 785353,
+            "name": "Tân Hòa",
+            "pid": 7135,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9684918",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 638832,
+            "name": "Thôn Cờ Đỏ",
+            "pid": 7135,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cờ Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9355146",
+            "lng": "106.20428779999997"
+        },
+        {
+            "id": 638829,
+            "name": "Thôn Vũ Xá",
+            "pid": 7135,
+            "type": 17,
+            "region": null,
+            "alias": "Thôn Vũ Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.944767246905037",
+            "lng": "106.19230262307984"
+        }
+    ],
+    "log_id": "675813f167677648"
+}

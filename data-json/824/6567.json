@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599073,
+            "name": "Ấp Dương Phú",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "ấp dương phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 599079,
+            "name": "Ấp Hòa Thơm 2",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "ấp hòa thơm 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 599082,
+            "name": "Ấp Hòa Thơm 3",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "ấp hòa thơm 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 742102,
+            "name": "Ấp Xóm Gò 1",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Gò 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 599076,
+            "name": "Hòa Thơm 1",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "Hòa Thơm 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 742111,
+            "name": "Lò Gạch 1",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "Lò Gạch 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 742108,
+            "name": "Lò Gạch 2",
+            "pid": 6567,
+            "type": 17,
+            "region": null,
+            "alias": "Lò Gạch 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        },
+        {
+            "id": 724747,
+            "name": "Xóm Gò 2",
+            "pid": 6567,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Gò 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3239769",
+            "lng": "106.71461840000006"
+        }
+    ],
+    "log_id": "675814f3ac38245"
+}

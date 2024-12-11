@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568002,
+            "name": "Khu Phố Lập Bình",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Lập Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 567999,
+            "name": "Khu Phố Lập Hòa",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Lập Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 568008,
+            "name": "Khu Phố Lập Nghĩa",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Lập Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 568005,
+            "name": "Khu Phố Lập Vinh",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Lập Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 567990,
+            "name": "Khu Phố Nam Tân",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Nam Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 567993,
+            "name": "Khu Phố Nam Thành",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Nam Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        },
+        {
+            "id": 567996,
+            "name": "Khu Phố Nam Trung",
+            "pid": 15121,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Nam Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999997"
+        }
+    ],
+    "log_id": "67581477eaa45375"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928918,
+            "name": "Đông Mai",
+            "pid": 20140,
+            "type": 16,
+            "region": null,
+            "alias": "đông Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        },
+        {
+            "id": 928909,
+            "name": "Thanh Đặng",
+            "pid": 20140,
+            "type": 10,
+            "region": null,
+            "alias": "thanh đặng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        },
+        {
+            "id": 629181,
+            "name": "Thôn Chùa",
+            "pid": 20140,
+            "type": 16,
+            "region": null,
+            "alias": "thôn chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        },
+        {
+            "id": 629172,
+            "name": "Thôn Hoàng Nha",
+            "pid": 20140,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoàng nha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        },
+        {
+            "id": 629184,
+            "name": "Thôn Khách",
+            "pid": 20140,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khách",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        },
+        {
+            "id": 629178,
+            "name": "Thôn Thanh Đặng",
+            "pid": 20140,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thanh đặng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        },
+        {
+            "id": 629187,
+            "name": "Thôn Thanh Khê",
+            "pid": 20140,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thanh khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9652569",
+            "lng": "106.05301680000002"
+        }
+    ],
+    "log_id": "67581490b9f01675"
+}

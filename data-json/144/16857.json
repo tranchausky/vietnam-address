@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 925264,
+            "name": "Ấp Trường Xe",
+            "pid": 16857,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Trường Xe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3697486",
+            "lng": "105.99936720000004"
+        },
+        {
+            "id": 913381,
+            "name": "Khu Tập Thể Trường Xe",
+            "pid": 16857,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Tập Thể Trường Xe",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3697486",
+            "lng": "105.99936720000004"
+        }
+    ],
+    "log_id": "675813d916966734"
+}

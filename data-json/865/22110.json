@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555809,
+            "name": "Thôn Bứng",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Bứng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555811,
+            "name": "Thôn Đèn",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đèn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555805,
+            "name": "Thôn Đớn",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đớn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555813,
+            "name": "Thôn Duồng",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn duồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555807,
+            "name": "Thôn Nan",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555801,
+            "name": "Thôn Né",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Né",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555797,
+            "name": "Thôn Sèo",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Sèo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555803,
+            "name": "Thôn Thành Điền",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thành Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        },
+        {
+            "id": 555799,
+            "name": "Thôn Xăm",
+            "pid": 22110,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xăm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2345721",
+            "lng": "105.30141090000006"
+        }
+    ],
+    "log_id": "67590a234e90023"
+}

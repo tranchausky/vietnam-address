@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446733,
+            "name": "Khu Vực Long Định",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Long Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 446739,
+            "name": "Khu Vực Long Hòa",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Long Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 446735,
+            "name": "Khu Vực Long Thành",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Long Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 446737,
+            "name": "Khu Vực Phú Luông",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Phú Luông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 446741,
+            "name": "Khu Vực Thới Hòa B",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Thới Hòa B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 446743,
+            "name": "Khu Vực Thới Hòa C",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Thới Hòa C",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 446731,
+            "name": "Khu Vực Thới Hưng",
+            "pid": 7951,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực Thới Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1564978",
+            "lng": "105.57674930000007"
+        },
+        {
+            "id": 117655,
+            "name": "Trường Tiểu Học Long Hưng",
+            "pid": 7951,
+            "type": 9,
+            "region": null,
+            "alias": "Trường tiểu học Long Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1637138",
+            "lng": "105.5804063,17"
+        },
+        {
+            "id": 117601,
+            "name": "Ubnd Phường Long Hưng",
+            "pid": 7951,
+            "type": 10,
+            "region": null,
+            "alias": "UBND phường Long Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1471841",
+            "lng": "105.5749526,17"
+        }
+    ],
+    "log_id": "6758140c6ef5a976"
+}

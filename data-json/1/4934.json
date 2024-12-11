@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829048,
+            "name": "Cầu Khoát",
+            "pid": 4934,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu Khoát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0677541",
+            "lng": "105.73887630000002"
+        },
+        {
+            "id": 881323,
+            "name": "Đường Tây Đam",
+            "pid": 4934,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tây Đam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,069748",
+            "lng": "105,730943"
+        },
+        {
+            "id": 830587,
+            "name": "Đường Tây Tựu",
+            "pid": 4934,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tây Tựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0677541",
+            "lng": "105.73887630000002"
+        },
+        {
+            "id": 830869,
+            "name": "Đường Trung Kiên",
+            "pid": 4934,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trung Kiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0677541",
+            "lng": "105.73887630000002"
+        },
+        {
+            "id": 830890,
+            "name": "Đường Trung Tựu",
+            "pid": 4934,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trung Tựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0677541",
+            "lng": "105.73887630000002"
+        },
+        {
+            "id": 16907,
+            "name": "Phố Đăm",
+            "pid": 4934,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Đăm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0686826",
+            "lng": "105.7310539"
+        },
+        {
+            "id": 16890,
+            "name": "Tây Đam",
+            "pid": 4934,
+            "type": 2,
+            "region": null,
+            "alias": "Tây Đam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0727926",
+            "lng": "105.73104799999999"
+        },
+        {
+            "id": 4069,
+            "name": "Tây Tựu",
+            "pid": 4934,
+            "type": 2,
+            "region": null,
+            "alias": "Tây Tựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0679338",
+            "lng": "105.73218309999993"
+        },
+        {
+            "id": 16894,
+            "name": "Trung Tựu",
+            "pid": 4934,
+            "type": 2,
+            "region": null,
+            "alias": "Trung Tựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0728392",
+            "lng": "105.74207720000004"
+        },
+        {
+            "id": 52678,
+            "name": "Trường Thcs Tây Tựu",
+            "pid": 4934,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Tây Tựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc9cbdd156"
+}

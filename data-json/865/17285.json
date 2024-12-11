@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 813316,
+            "name": "Lạc Đô",
+            "pid": 17285,
+            "type": 21,
+            "region": null,
+            "alias": "Lạc đô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8707558",
+            "lng": "105.64418520000004"
+        },
+        {
+            "id": 420163,
+            "name": "Lạc Đô 1",
+            "pid": 17285,
+            "type": 21,
+            "region": null,
+            "alias": "Lạc Đô 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8502332",
+            "lng": "105.67937919999997"
+        },
+        {
+            "id": 805000,
+            "name": "Thôn 1",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 804991,
+            "name": "Thôn 2",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 804994,
+            "name": "Thôn 4",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 820672,
+            "name": "Thôn7",
+            "pid": 17285,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 420169,
+            "name": "Thôn Lạc Đô 2",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Đô 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 420165,
+            "name": "Thôn Quy Xá 1",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quy Xá 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 420171,
+            "name": "Thôn Quy Xá 2",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quy Xá 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        },
+        {
+            "id": 420167,
+            "name": "Thôn Vận Quy",
+            "pid": 17285,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vận Quy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8624394",
+            "lng": "105.74474399999997"
+        }
+    ],
+    "log_id": "67590a23ada41436"
+}

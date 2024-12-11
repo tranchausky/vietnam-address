@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120489,
+            "name": "An Duyệt",
+            "pid": 4726,
+            "type": 16,
+            "region": null,
+            "alias": "An Duyệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6368144",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 120491,
+            "name": "Bạch Tuyết",
+            "pid": 4726,
+            "type": 16,
+            "region": null,
+            "alias": "Bạch Tuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.625397",
+            "lng": "105.7759414"
+        },
+        {
+            "id": 120487,
+            "name": "Đông Bình",
+            "pid": 4726,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6508938",
+            "lng": "105.7630745"
+        },
+        {
+            "id": 120485,
+            "name": "Hưng Nông",
+            "pid": 4726,
+            "type": 16,
+            "region": null,
+            "alias": "Hưng Nông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6362682",
+            "lng": "105.7615252"
+        },
+        {
+            "id": 120493,
+            "name": "Nông Khê",
+            "pid": 4726,
+            "type": 16,
+            "region": null,
+            "alias": "Nông Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6514512",
+            "lng": "105.7501546"
+        },
+        {
+            "id": 120483,
+            "name": "Trung Hòa",
+            "pid": 4726,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6368144",
+            "lng": "105.7556564"
+        },
+        {
+            "id": 54874,
+            "name": "Ubnd Xã Hùng Tiến",
+            "pid": 4726,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hùng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc45f12768"
+}

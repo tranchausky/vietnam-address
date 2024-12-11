@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 712564,
+            "name": "Làng Konhngokơtu",
+            "pid": 13541,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Konhngokơtu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.402976",
+            "lng": "107.972829"
+        },
+        {
+            "id": 712555,
+            "name": "Phương Quý 1",
+            "pid": 13541,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Quý 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.402976",
+            "lng": "107.972829"
+        },
+        {
+            "id": 712558,
+            "name": "Phương Quý 2",
+            "pid": 13541,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Quý 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.402976",
+            "lng": "107.972829"
+        },
+        {
+            "id": 712543,
+            "name": "Thôn Kon Rờ Bàng 1",
+            "pid": 13541,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon rờ bàng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.402976",
+            "lng": "107.972829"
+        },
+        {
+            "id": 712549,
+            "name": "Thôn Kon Rờ Bàng 2",
+            "pid": 13541,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kon rờ bàng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.402976",
+            "lng": "107.972829"
+        },
+        {
+            "id": 712570,
+            "name": "Thôn Trung Thành",
+            "pid": 13541,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.402976",
+            "lng": "107.972829"
+        }
+    ],
+    "log_id": "6758174ce6d7499"
+}

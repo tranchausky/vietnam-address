@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117897,
+            "name": "Bảo Lộc",
+            "pid": 4786,
+            "type": 16,
+            "region": null,
+            "alias": "Bảo Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1305813",
+            "lng": "105.5629674"
+        },
+        {
+            "id": 53438,
+            "name": "Gdtx Phúc Thọ",
+            "pid": 4786,
+            "type": 9,
+            "region": null,
+            "alias": "GDTX Phúc Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 117883,
+            "name": "Lục Xuân",
+            "pid": 4786,
+            "type": 16,
+            "region": null,
+            "alias": "Lục Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1249686",
+            "lng": "105.5496355"
+        },
+        {
+            "id": 117879,
+            "name": "Nghĩa Lộ",
+            "pid": 4786,
+            "type": 16,
+            "region": null,
+            "alias": "Nghĩa Lộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1257909",
+            "lng": "105.5408428"
+        },
+        {
+            "id": 117889,
+            "name": "Phúc Trạch",
+            "pid": 4786,
+            "type": 16,
+            "region": null,
+            "alias": "Phúc Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.1142845",
+            "lng": "105.7468535"
+        },
+        {
+            "id": 117885,
+            "name": "Võng Ngoại",
+            "pid": 4786,
+            "type": 16,
+            "region": null,
+            "alias": "Võng Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1349747",
+            "lng": "105.5493397"
+        },
+        {
+            "id": 117891,
+            "name": "Võng Nội",
+            "pid": 4786,
+            "type": 16,
+            "region": null,
+            "alias": "Võng Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1361862",
+            "lng": "105.5563496"
+        },
+        {
+            "id": 117893,
+            "name": "Xóm 8",
+            "pid": 4786,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.3462804",
+            "lng": "105.9589716"
+        }
+    ],
+    "log_id": "675811bd52c45985"
+}

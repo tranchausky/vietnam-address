@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 430323,
+            "name": "Bản Chẹn",
+            "pid": 20779,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chẹn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2060677",
+            "lng": "104.29774329999998"
+        },
+        {
+            "id": 721921,
+            "name": "Bản Khoa",
+            "pid": 20779,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khoa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2451953",
+            "lng": "104.43809599999996"
+        },
+        {
+            "id": 430327,
+            "name": "Bản Khọc",
+            "pid": 20779,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Khọc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2060677",
+            "lng": "104.29774329999998"
+        },
+        {
+            "id": 430325,
+            "name": "Bản Pa Nó",
+            "pid": 20779,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pa Nó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2060677",
+            "lng": "104.29774329999998"
+        },
+        {
+            "id": 590265,
+            "name": "Bản Phúc",
+            "pid": 20779,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2060677",
+            "lng": "104.29774329999998"
+        },
+        {
+            "id": 430329,
+            "name": "Bản Trạng",
+            "pid": 20779,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Trạng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2060677",
+            "lng": "104.29774329999998"
+        }
+    ],
+    "log_id": "675812ef272a2339"
+}

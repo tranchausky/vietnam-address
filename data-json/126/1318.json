@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 788401,
+            "name": "Đường Hậu Giang",
+            "pid": 1318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hậu Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7519627",
+            "lng": "106.6460779"
+        },
+        {
+            "id": 672766,
+            "name": "Đường Hồng Bàng",
+            "pid": 1318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7540032",
+            "lng": "106.6457894"
+        },
+        {
+            "id": 682912,
+            "name": "Đường Lê Quang Sung",
+            "pid": 1318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Quang Sung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7515435",
+            "lng": "106.6459332"
+        },
+        {
+            "id": 670690,
+            "name": "Đường Mai Xuân Thưởng",
+            "pid": 1318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mai Xuân Thưởng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7472069",
+            "lng": "106.6482754"
+        },
+        {
+            "id": 679261,
+            "name": "Đường Minh Phụng",
+            "pid": 1318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Minh Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7523079",
+            "lng": "106.6428176"
+        },
+        {
+            "id": 674008,
+            "name": "Đường Phạm Đình Hổ",
+            "pid": 1318,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Đình Hổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7515881",
+            "lng": "106.6495677"
+        }
+    ],
+    "log_id": "6758129ad9a24756"
+}

@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 897484,
+            "name": "1-89 Nguyễn Cơ Thạch",
+            "pid": 1254,
+            "type": 29,
+            "region": null,
+            "alias": "1-89 Nguyễn Cơ Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7665486",
+            "lng": "106.7240682"
+        },
+        {
+            "id": 897478,
+            "name": "6-74 Nguyễn Cơ Thạchh",
+            "pid": 1254,
+            "type": 29,
+            "region": null,
+            "alias": "6-74 Nguyễn Cơ Thạchh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7679749",
+            "lng": "106.7225585"
+        },
+        {
+            "id": 679900,
+            "name": "12 Mai Chí Thọ",
+            "pid": 1254,
+            "type": 21,
+            "region": null,
+            "alias": "12 Mai Chí Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7747618",
+            "lng": "106.7249971"
+        },
+        {
+            "id": 897493,
+            "name": "89-153 Nguyễn Cơ Thạch",
+            "pid": 1254,
+            "type": 29,
+            "region": null,
+            "alias": "89-153 Nguyễn Cơ Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7692771",
+            "lng": "106.7225401"
+        },
+        {
+            "id": 670885,
+            "name": "Đường Hoàng Thế Thiện (Đường R8 Cũ)",
+            "pid": 1254,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Thế Thiện (đường R8 cũ)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7734877",
+            "lng": "106.7259768"
+        },
+        {
+            "id": 676855,
+            "name": "Đường N1",
+            "pid": 1254,
+            "type": 21,
+            "region": null,
+            "alias": "Đường N1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.799701",
+            "lng": "106.7932315"
+        },
+        {
+            "id": 672115,
+            "name": "Đường N2",
+            "pid": 1254,
+            "type": 21,
+            "region": null,
+            "alias": "Đường N2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7706709",
+            "lng": "106.7241425"
+        },
+        {
+            "id": 677242,
+            "name": "Đường N7",
+            "pid": 1254,
+            "type": 21,
+            "region": null,
+            "alias": "Đường N7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7692625",
+            "lng": "106.7248557"
+        },
+        {
+            "id": 674791,
+            "name": "Đường Nguyễn Cơ Thạch",
+            "pid": 1254,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Cơ Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7692625",
+            "lng": "106.7248557"
+        }
+    ],
+    "log_id": "6758129b2247e1"
+}

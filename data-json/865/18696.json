@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 814099,
+            "name": "Minh Châu",
+            "pid": 18696,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.31803445178626",
+            "lng": "105.70724806700652"
+        },
+        {
+            "id": 814102,
+            "name": "Thôn Trường An",
+            "pid": 18696,
+            "type": 17,
+            "region": null,
+            "alias": "thôn trường an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.32185514633918",
+            "lng": "105.71906035166276"
+        }
+    ],
+    "log_id": "67590a23b41d7401"
+}

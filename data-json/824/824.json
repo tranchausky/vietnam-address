@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 2024,
+            "name": "Huyện Cái Bè",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cái Bè",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3718873",
+            "lng": "105.94648740000002"
+        },
+        {
+            "id": 2025,
+            "name": "Huyện Cai Lậy",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Cai Lậy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4050639",
+            "lng": "106.1186715"
+        },
+        {
+            "id": 2026,
+            "name": "Huyện Châu Thành",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Châu Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4009358",
+            "lng": "106.22867999999994"
+        },
+        {
+            "id": 2027,
+            "name": "Huyện Chợ Gạo",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Chợ Gạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3793903",
+            "lng": "106.45419029999994"
+        },
+        {
+            "id": 2028,
+            "name": "Huyện Gò Công Đông",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Gò Công Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3737254",
+            "lng": "106.74705360000007"
+        },
+        {
+            "id": 2029,
+            "name": "Huyện Gò Công Tây",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Gò Công Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3378629",
+            "lng": "106.60555339999996"
+        },
+        {
+            "id": 2030,
+            "name": "Huyện Tân Phú Đông",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tân Phú Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 2031,
+            "name": "Huyện Tân Phước",
+            "pid": 824,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tân Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5314211",
+            "lng": "106.22867999999994"
+        },
+        {
+            "id": 2032,
+            "name": "Thành Phố Mỹ Tho",
+            "pid": 824,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Mỹ Tho",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3765284",
+            "lng": "106.34388910000007"
+        },
+        {
+            "id": 17533,
+            "name": "Thị Xã Cai Lậy",
+            "pid": 824,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Cai Lậy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4050639",
+            "lng": "106.1186715"
+        },
+        {
+            "id": 2033,
+            "name": "Thị Xã Gò Công",
+            "pid": 824,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Gò Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4106494",
+            "lng": "106.66450069999996"
+        }
+    ],
+    "log_id": "675814f34d104635"
+}

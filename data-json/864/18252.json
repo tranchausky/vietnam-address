@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 776473,
+            "name": "Bảo Biên",
+            "pid": 18252,
+            "type": 18,
+            "region": null,
+            "alias": "Bảo Biên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9047441",
+            "lng": "105.57161930000008"
+        },
+        {
+            "id": 542305,
+            "name": "Xóm Hoa Muồng",
+            "pid": 18252,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hoa Muồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9047441",
+            "lng": "105.57161930000007"
+        },
+        {
+            "id": 542307,
+            "name": "Xóm Khuổi Chao",
+            "pid": 18252,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Khuổi Chao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9047441",
+            "lng": "105.57161930000007"
+        },
+        {
+            "id": 542309,
+            "name": "Xóm Liên Minh",
+            "pid": 18252,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Liên Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9047441",
+            "lng": "105.57161930000007"
+        },
+        {
+            "id": 542311,
+            "name": "Xóm Quế Linh",
+            "pid": 18252,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Quế Linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9047441",
+            "lng": "105.57161930000007"
+        }
+    ],
+    "log_id": "67590a09b2ecc682"
+}

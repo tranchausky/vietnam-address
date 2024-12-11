@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514237,
+            "name": "Thôn Đoàn",
+            "pid": 17712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8365397",
+            "lng": "106.21397239999999"
+        },
+        {
+            "id": 514239,
+            "name": "Thôn Đông",
+            "pid": 17712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8365397",
+            "lng": "106.21397239999999"
+        },
+        {
+            "id": 514241,
+            "name": "Thôn La Xá",
+            "pid": 17712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn La Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8365397",
+            "lng": "106.21397239999999"
+        },
+        {
+            "id": 514243,
+            "name": "Thôn Phú Cốc",
+            "pid": 17712,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8365397",
+            "lng": "106.21397239999999"
+        }
+    ],
+    "log_id": "675813f1f3e5e34"
+}

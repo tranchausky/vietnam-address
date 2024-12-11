@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881425,
+            "name": "Đường Giải Phóng",
+            "pid": 64,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Giải Phóng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,004113",
+            "lng": "105,837667"
+        },
+        {
+            "id": 997107,
+            "name": "Khu Phố Đào Duy Anh",
+            "pid": 64,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Đào Duy Anh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.009020537763284",
+            "lng": "105.8379948539223"
+        },
+        {
+            "id": 883516,
+            "name": "Ngõ 48",
+            "pid": 64,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 48",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0012748",
+            "lng": "105.83930439999996"
+        }
+    ],
+    "log_id": "675811bbd3822871"
+}

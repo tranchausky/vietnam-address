@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603483,
+            "name": "Đường Bạch Đằng",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Đằng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000005"
+        },
+        {
+            "id": 603477,
+            "name": "Đường Trịnh Hoài Đức",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trịnh Hoài Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000005"
+        },
+        {
+            "id": 603480,
+            "name": "Đường Yên Ninh",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000005"
+        },
+        {
+            "id": 603450,
+            "name": "Đường Yên Ninh Số Chẵn 242-348",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Ninh số chẵn 242-348",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5825677",
+            "lng": "108.99120659999994"
+        },
+        {
+            "id": 603456,
+            "name": "Đường Yên Ninh Số Lẻ 215-265",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Ninh số lẻ 215-265",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5825677",
+            "lng": "108.99120659999994"
+        },
+        {
+            "id": 969713,
+            "name": "Khu Phố 7 Đông Hải",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 7 đông hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000004"
+        },
+        {
+            "id": 847597,
+            "name": "Khu Phố 9 Đông Hải",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 9 Đông Hải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5825677",
+            "lng": "108.99120659999994"
+        },
+        {
+            "id": 603474,
+            "name": "Khu Phố Tân Thành",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000005"
+        },
+        {
+            "id": 746206,
+            "name": "Thôn Phú Thọ",
+            "pid": 15087,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000004"
+        },
+        {
+            "id": 872140,
+            "name": "Trần Đại Nghĩa",
+            "pid": 15087,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Đại Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.5426451",
+            "lng": "109.02897370000004"
+        }
+    ],
+    "log_id": "675817b988a6057"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638553,
+            "name": "Chợ Lữ",
+            "pid": 7183,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Lữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0507919",
+            "lng": "106.46839299999999"
+        },
+        {
+            "id": 515605,
+            "name": "Đại Uyên",
+            "pid": 7183,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Uyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0507919",
+            "lng": "106.46839299999999"
+        },
+        {
+            "id": 515607,
+            "name": "Kim Lôi",
+            "pid": 7183,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Lôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0507919",
+            "lng": "106.46839299999999"
+        },
+        {
+            "id": 515609,
+            "name": "Trạm Lộ",
+            "pid": 7183,
+            "type": 16,
+            "region": null,
+            "alias": "Trạm Lộ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0507919",
+            "lng": "106.46839299999999"
+        }
+    ],
+    "log_id": "675813f1816c8259"
+}

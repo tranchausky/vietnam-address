@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 755071,
+            "name": "Thôn 2",
+            "pid": 4854,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0300124",
+            "lng": "105.59580470000004"
+        },
+        {
+            "id": 883693,
+            "name": "Thôn 3",
+            "pid": 4854,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0300124",
+            "lng": "105.59580470000004"
+        },
+        {
+            "id": 755074,
+            "name": "Thôn 6",
+            "pid": 4854,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0300124",
+            "lng": "105.59580470000004"
+        },
+        {
+            "id": 489061,
+            "name": "Thôn 7",
+            "pid": 4854,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0377491",
+            "lng": "105.6045613"
+        },
+        {
+            "id": 489063,
+            "name": "Thôn 8",
+            "pid": 4854,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.028747",
+            "lng": "105.591011"
+        },
+        {
+            "id": 489065,
+            "name": "Thôn 9",
+            "pid": 4854,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0185892",
+            "lng": "105.5516749"
+        },
+        {
+            "id": 120879,
+            "name": "Thôn Yên",
+            "pid": 4854,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0311549",
+            "lng": "105.604958"
+        },
+        {
+            "id": 55394,
+            "name": "Ubnd Xã Thạch Xá",
+            "pid": 4854,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thạch Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc12f0a255"
+}

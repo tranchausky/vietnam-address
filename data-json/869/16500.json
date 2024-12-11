@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444063,
+            "name": "Thôn Hòa Tú",
+            "pid": 16500,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hòa Tú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2857724",
+            "lng": "109.24747009999999"
+        },
+        {
+            "id": 444059,
+            "name": "Thôn Phước Lương",
+            "pid": 16500,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phước Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.2857724",
+            "lng": "109.24747009999999"
+        },
+        {
+            "id": 444055,
+            "name": "Thôn Phú Tân 1",
+            "pid": 16500,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Tân 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2857724",
+            "lng": "109.24747009999999"
+        },
+        {
+            "id": 444057,
+            "name": "Thôn Phú Tân 2",
+            "pid": 16500,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Tân 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.2857724",
+            "lng": "109.24747009999999"
+        },
+        {
+            "id": 444061,
+            "name": "Thôn Tân Long",
+            "pid": 16500,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.2857724",
+            "lng": "109.24747009999999"
+        }
+    ],
+    "log_id": "67590b80a07d3282"
+}

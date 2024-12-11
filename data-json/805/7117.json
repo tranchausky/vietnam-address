@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 513955,
+            "name": "Thôn Bắc",
+            "pid": 7117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9596077",
+            "lng": "106.40509070000007"
+        },
+        {
+            "id": 857836,
+            "name": "Thôn Đoài",
+            "pid": 7117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9596077",
+            "lng": "106.40509070000007"
+        },
+        {
+            "id": 513959,
+            "name": "Thôn Đồng Hởi",
+            "pid": 7117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Hởi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9596077",
+            "lng": "106.40509070000007"
+        },
+        {
+            "id": 513961,
+            "name": "Thôn Đồng Vang",
+            "pid": 7117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Vang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9596077",
+            "lng": "106.40509070000007"
+        },
+        {
+            "id": 513963,
+            "name": "Thôn Hải Yến",
+            "pid": 7117,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Yến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9596077",
+            "lng": "106.40509070000007"
+        },
+        {
+            "id": 963702,
+            "name": "Xóm Đông - Xã Hồng Lạc - Huyện Thanh Hà",
+            "pid": 7117,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đông - xã hồng lạc - huyện thanh hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9595765",
+            "lng": "106.4024997"
+        },
+        {
+            "id": 513965,
+            "name": "Xóm Mới",
+            "pid": 7117,
+            "type": 17,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9596077",
+            "lng": "106.40509070000007"
+        },
+        {
+            "id": 963704,
+            "name": "Xóm Nam - Xá Hồng Lạc - Huyện Thanh Hà",
+            "pid": 7117,
+            "type": 18,
+            "region": null,
+            "alias": "xóm nam - xá hồng lạc - huyện thanh hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9595765",
+            "lng": "106.4024997"
+        }
+    ],
+    "log_id": "675813f1c59d7168"
+}

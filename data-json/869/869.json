@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1869,
+            "name": "Huyện Đồng Xuân",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Đồng Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.4083074",
+            "lng": "108.95022319999998"
+        },
+        {
+            "id": 1870,
+            "name": "Huyện Phú Hòa",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0606953",
+            "lng": "109.16422080000007"
+        },
+        {
+            "id": 1872,
+            "name": "Huyện Sông Hinh",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Sông Hinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.8786353",
+            "lng": "108.95022319999998"
+        },
+        {
+            "id": 1871,
+            "name": "Huyện Sơn Hòa",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Sơn Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1431691",
+            "lng": "108.95022319999998"
+        },
+        {
+            "id": 1873,
+            "name": "Huyện Tây Hòa",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tây Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9285815",
+            "lng": "109.16422080000007"
+        },
+        {
+            "id": 1874,
+            "name": "Huyện Tuy An",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tuy An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.297735",
+            "lng": "109.23557640000001"
+        },
+        {
+            "id": 1875,
+            "name": "Thành Phố Tuy Hòa",
+            "pid": 869,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Tuy Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.1057062",
+            "lng": "109.29504799999995"
+        },
+        {
+            "id": 1868,
+            "name": "Thị Xã Đông Hòa",
+            "pid": 869,
+            "type": 7,
+            "region": null,
+            "alias": "Thị xã Đông Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9580642",
+            "lng": "109.35452699999996"
+        },
+        {
+            "id": 1876,
+            "name": "Thị Xã Sông Cầu",
+            "pid": 869,
+            "type": 3,
+            "region": null,
+            "alias": "Thị xã Sông Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.4744193",
+            "lng": "109.23557640000001"
+        }
+    ],
+    "log_id": "67590b8074b79961"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 485835,
+            "name": "Tà Giang 1",
+            "pid": 17694,
+            "type": 16,
+            "region": null,
+            "alias": "Tà Giang 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.087055",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 485833,
+            "name": "Thôn A Pa 2",
+            "pid": 17694,
+            "type": 16,
+            "region": null,
+            "alias": "thôn A Pa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.087055",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 485837,
+            "name": "Thôn Tà Giang 2",
+            "pid": 17694,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tà Giang 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.087055",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 485831,
+            "name": "Xã A Pa 1",
+            "pid": 17694,
+            "type": 16,
+            "region": null,
+            "alias": "xã A Pa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.087055",
+            "lng": "108.81950119999999"
+        }
+    ],
+    "log_id": "67581585d704a4"
+}

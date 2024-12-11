@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616647,
+            "name": "Thôn Kinh Châu",
+            "pid": 21201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kinh Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7924207",
+            "lng": "106.22279679999997"
+        },
+        {
+            "id": 616659,
+            "name": "Thôn Lạc Sơn",
+            "pid": 21201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lạc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7924207",
+            "lng": "106.22279679999997"
+        },
+        {
+            "id": 616653,
+            "name": "Thôn Lâm Lang",
+            "pid": 21201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lâm Lang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7924207",
+            "lng": "106.22279679999997"
+        },
+        {
+            "id": 616656,
+            "name": "Thôn Thanh Châu",
+            "pid": 21201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7924207",
+            "lng": "106.22279679999997"
+        },
+        {
+            "id": 616650,
+            "name": "Thôn Uyên Phong",
+            "pid": 21201,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Uyên Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7924207",
+            "lng": "106.22279679999997"
+        }
+    ],
+    "log_id": "675814aa19414163"
+}

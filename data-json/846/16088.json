@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 618741,
+            "name": "Ấp Ha",
+            "pid": 16088,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6567686",
+            "lng": "105.37752449999994"
+        },
+        {
+            "id": 618747,
+            "name": "Ấp Tân Thới",
+            "pid": 16088,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6567686",
+            "lng": "105.37752449999994"
+        },
+        {
+            "id": 618744,
+            "name": "Ấp Thượng",
+            "pid": 16088,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6567686",
+            "lng": "105.37752449999994"
+        },
+        {
+            "id": 618738,
+            "name": "Ấp Trung",
+            "pid": 16088,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6567686",
+            "lng": "105.37752449999994"
+        },
+        {
+            "id": 833110,
+            "name": "Phú Trung",
+            "pid": 16088,
+            "type": 17,
+            "region": null,
+            "alias": "Phú Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6567686",
+            "lng": "105.37752449999994"
+        }
+    ],
+    "log_id": "675816c03fae8149"
+}

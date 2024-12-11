@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115327,
+            "name": "Ấp Đông",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.503564",
+            "lng": "105.541297"
+        },
+        {
+            "id": 115343,
+            "name": "Ấp Đông Châu",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505706",
+            "lng": "105.542617"
+        },
+        {
+            "id": 115337,
+            "name": "Ấp Tây Hạ",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505347",
+            "lng": "105.542563"
+        },
+        {
+            "id": 115341,
+            "name": "Ấp Tây Thượng",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505896",
+            "lng": "105.542091"
+        },
+        {
+            "id": 115331,
+            "name": "Ấp Thị",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.504461",
+            "lng": "105.541769"
+        },
+        {
+            "id": 115333,
+            "name": "Ấp Trung",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.505294",
+            "lng": "105.541962"
+        },
+        {
+            "id": 115347,
+            "name": "Ấp Trung Châu",
+            "pid": 15801,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung Châu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.504714",
+            "lng": "105.543561"
+        }
+    ],
+    "log_id": "6758159dcec4c1000"
+}

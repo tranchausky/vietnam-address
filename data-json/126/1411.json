@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 96341,
+            "name": "Chẵn 1134-1200 Trường Sa",
+            "pid": 1411,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 1134-1200 Trường Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.788147",
+            "lng": "106.670786"
+        },
+        {
+            "id": 677425,
+            "name": "Đường Huỳnh Văn Bánh",
+            "pid": 1411,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Bánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7918296",
+            "lng": "106.6712941"
+        },
+        {
+            "id": 995286,
+            "name": "Đường Huỳnh Văn Bánh",
+            "pid": 1411,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Bánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7912633",
+            "lng": "106.6698944"
+        },
+        {
+            "id": 683629,
+            "name": "Đường Lê Văn Sỹ",
+            "pid": 1411,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7914915",
+            "lng": "106.6720314"
+        },
+        {
+            "id": 680818,
+            "name": "Đường Trường Sa",
+            "pid": 1411,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7883638",
+            "lng": "106.670122"
+        },
+        {
+            "id": 826063,
+            "name": "Lẻ 117-143 Lê Văn Sỹ",
+            "pid": 1411,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 117-143 Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.791704",
+            "lng": "106.671419"
+        },
+        {
+            "id": 96347,
+            "name": "Lẻ 429B-489 Huỳnh Văn Bánh",
+            "pid": 1411,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 429B-489 Huỳnh Văn Bánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.791572",
+            "lng": "106.670057"
+        },
+        {
+            "id": 40414,
+            "name": "Tòa Nhà Gic Building",
+            "pid": 1411,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà GIC Building",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "6758129aa0952407"
+}

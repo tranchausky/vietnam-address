@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445355,
+            "name": "Ấp Bắc",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5156408",
+            "lng": "107.22526749999997"
+        },
+        {
+            "id": 445353,
+            "name": "Ấp Đông",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.527174893822213",
+            "lng": "107.2406679192054"
+        },
+        {
+            "id": 445351,
+            "name": "Ấp Nam",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.521676490250972",
+            "lng": "107.23003196838437"
+        },
+        {
+            "id": 706678,
+            "name": "Ấp Phong Phú",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phong Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 706666,
+            "name": "Ấp Phước Hữu",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.508928",
+            "lng": "107.18162570000004"
+        },
+        {
+            "id": 445349,
+            "name": "Ấp Tây",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.534114917170308",
+            "lng": "107.22937032909445"
+        },
+        {
+            "id": 870259,
+            "name": "Bưu Điện Xã Long Phước",
+            "pid": 6606,
+            "type": 17,
+            "region": null,
+            "alias": "Bưu điện Xã Long Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.515640800000002",
+            "lng": "107.22526749999996"
+        }
+    ],
+    "log_id": "675815b41394e35"
+}

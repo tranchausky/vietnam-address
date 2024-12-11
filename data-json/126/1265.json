@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 678067,
+            "name": "Đường Cách Mạng Tháng Tám",
+            "pid": 1265,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cách Mạng Tháng Tám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7808177",
+            "lng": "106.6760435"
+        },
+        {
+            "id": 681025,
+            "name": "Đường Nguyễn Phúc Nguyên",
+            "pid": 1265,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Phúc Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.779951",
+            "lng": "106.6800985"
+        },
+        {
+            "id": 672697,
+            "name": "Đường Rạch Bùng Binh",
+            "pid": 1265,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Rạch Bùng Binh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7810271",
+            "lng": "106.6800597"
+        }
+    ],
+    "log_id": "6758129ae15d2390"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 981049,
+            "name": "Cát Dài",
+            "pid": 26153,
+            "type": 21,
+            "region": null,
+            "alias": "Cát Dài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 981133,
+            "name": "Đường Mê Linh",
+            "pid": 26153,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mê Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981044,
+            "name": "Hai Bà Trưng",
+            "pid": 26153,
+            "type": 21,
+            "region": null,
+            "alias": "Hai Bà Trưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981046,
+            "name": "Mê Linh, An Biên",
+            "pid": 26153,
+            "type": 21,
+            "region": null,
+            "alias": "Mê Linh, an biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981048,
+            "name": "Phố Lê Chân",
+            "pid": 26153,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Lê Chân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675813662635e414"
+}

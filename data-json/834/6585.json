@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 817954,
+            "name": "Bình Giã",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Bình Giã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3621958",
+            "lng": "107.09498180000003"
+        },
+        {
+            "id": 77481,
+            "name": "Chung Cư Dic Phoenix",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Chung cư Dic Phoenix",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.376345",
+            "lng": "107.103567"
+        },
+        {
+            "id": 713017,
+            "name": "Chung Cư Gateway",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Chung Cư Gateway",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.362195800000002",
+            "lng": "107.09498180000004"
+        },
+        {
+            "id": 77478,
+            "name": "Chung Cư Lakeside",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Chung Cư Lakeside",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.376345",
+            "lng": "107.103567"
+        },
+        {
+            "id": 817951,
+            "name": "Đường 3 Tháng 2",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 3 Tháng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3621958",
+            "lng": "107.09498180000003"
+        },
+        {
+            "id": 885511,
+            "name": "Nguyễn Hới",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3564094",
+            "lng": "107.09380970000008"
+        },
+        {
+            "id": 712897,
+            "name": "Nguyễn Hới",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.362195800000002",
+            "lng": "107.09498180000004"
+        },
+        {
+            "id": 845569,
+            "name": "Thùy Vân",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Thùy Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.362195800000002",
+            "lng": "107.09498180000004"
+        },
+        {
+            "id": 885526,
+            "name": "Trần Bình Trọng",
+            "pid": 6585,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Bình Trọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.362195800000002",
+            "lng": "107.09498180000004"
+        }
+    ],
+    "log_id": "675815b3e7684336"
+}

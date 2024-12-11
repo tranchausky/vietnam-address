@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 398119,
+            "name": "Cẩm Bối",
+            "pid": 18772,
+            "type": 16,
+            "region": null,
+            "alias": "Cẩm Bối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8002229",
+            "lng": "106.35042699999997"
+        },
+        {
+            "id": 398123,
+            "name": "Đồng Lại",
+            "pid": 18772,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Lại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8002229",
+            "lng": "106.35042699999997"
+        },
+        {
+            "id": 398121,
+            "name": "Quảng Nội",
+            "pid": 18772,
+            "type": 16,
+            "region": null,
+            "alias": "Quảng Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8002229",
+            "lng": "106.35042699999997"
+        }
+    ],
+    "log_id": "675813f1b93ac201"
+}

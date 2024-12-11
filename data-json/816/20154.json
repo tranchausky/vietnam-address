@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 769618,
+            "name": "Bến Chùa",
+            "pid": 20154,
+            "type": 18,
+            "region": null,
+            "alias": "Bến Chùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9394443",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 631011,
+            "name": "Thôn Bến",
+            "pid": 20154,
+            "type": 16,
+            "region": null,
+            "alias": "thôn bến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9568231",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 631008,
+            "name": "Thôn Đại",
+            "pid": 20154,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9568231",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 862960,
+            "name": "Thôn Đầu",
+            "pid": 20154,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9362681",
+            "lng": "105.92886410000006"
+        },
+        {
+            "id": 631014,
+            "name": "Thôn Khúc",
+            "pid": 20154,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9568231",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 631020,
+            "name": "Thôn Ngò",
+            "pid": 20154,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9568231",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 925393,
+            "name": "Trường Tiều Học Phụng Công",
+            "pid": 20154,
+            "type": 9,
+            "region": null,
+            "alias": "trường tiều học Phụng Công",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9394443",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "67581490eb426508"
+}

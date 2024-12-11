@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93719,
+            "name": "Ấp Bạch Lâm",
+            "pid": 7022,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bạch Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.061223",
+            "lng": "107.169541"
+        },
+        {
+            "id": 93725,
+            "name": "Ấp Đức Long",
+            "pid": 7022,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đức Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.069362",
+            "lng": "107.185629"
+        }
+    ],
+    "log_id": "675814dd3fd03440"
+}

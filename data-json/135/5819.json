@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 636522,
+            "name": "Đất Đỏ",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Đất Đỏ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7880724",
+            "lng": "106.64976230000002"
+        },
+        {
+            "id": 981034,
+            "name": "Đẩu Sơn, Phường Văn Đẩu, Quận Kiến An, Hải Phòng",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Đẩu Sơn, phường Văn Đẩu, quận Kiến An, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981032,
+            "name": "Đẩu Vũ",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Đẩu Vũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 981042,
+            "name": "Đường 10 Cũ",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Đường 10 cũ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981039,
+            "name": "Đường Hòa Bình, Phường Văn Đẩu, Quận Kiến An, Hải Phòng",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hòa Bình, phường Văn Đẩu, quận Kiến An, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981038,
+            "name": "Đường Tô Phong, Phường Văn Đẩu, Quận Kiến An, Hải Phòng",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tô Phong, phường Văn Đẩu, quận Kiến An, Hải Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 636504,
+            "name": "Khu Tập Thể 3 Tầng",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tập thể 3 tầng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7880724",
+            "lng": "106.64976230000002"
+        },
+        {
+            "id": 981043,
+            "name": "Phù Lưu",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Phù Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 981035,
+            "name": "Trần Bích",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Bích",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 981031,
+            "name": "Trần Nhân Tông",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Nhân Tông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 981040,
+            "name": "Trần Văn Cẩn",
+            "pid": 5819,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Văn Cẩn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "6758136614a47435"
+}

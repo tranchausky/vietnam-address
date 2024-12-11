@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 562101,
+            "name": "Năng Cát",
+            "pid": 22189,
+            "type": 16,
+            "region": null,
+            "alias": "Năng Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1056564",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 562095,
+            "name": "Thôn Cảy",
+            "pid": 22189,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cảy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1056564",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 562097,
+            "name": "Thôn En",
+            "pid": 22189,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn En",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1056564",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 562091,
+            "name": "Thôn Giàng",
+            "pid": 22189,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn giàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1056564",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 562099,
+            "name": "Thôn Hắc",
+            "pid": 22189,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1056564",
+            "lng": "105.1843801"
+        },
+        {
+            "id": 562093,
+            "name": "Thôn Vìn",
+            "pid": 22189,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vìn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1056564",
+            "lng": "105.1843801"
+        }
+    ],
+    "log_id": "67590a239c4bc20"
+}

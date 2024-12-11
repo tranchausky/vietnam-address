@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 446447,
+            "name": "Khu Vực 1",
+            "pid": 7930,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0873962",
+            "lng": "105.71458010000003"
+        },
+        {
+            "id": 446449,
+            "name": "Khu Vực 2",
+            "pid": 7930,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0873962",
+            "lng": "105.71458010000003"
+        },
+        {
+            "id": 446451,
+            "name": "Khu Vực 3",
+            "pid": 7930,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0873962",
+            "lng": "105.71458010000003"
+        },
+        {
+            "id": 446453,
+            "name": "Khu Vực 4",
+            "pid": 7930,
+            "type": 16,
+            "region": null,
+            "alias": "Khu vực 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0873962",
+            "lng": "105.71458010000003"
+        },
+        {
+            "id": 955430,
+            "name": "Lê Hồng Phong",
+            "pid": 7930,
+            "type": 21,
+            "region": null,
+            "alias": "Lê Hồng phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.092011",
+            "lng": "105.7235926"
+        },
+        {
+            "id": 954469,
+            "name": "Nguyễn Viết Xuân",
+            "pid": 7930,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Viết Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.7161309",
+            "lng": "10.0916227"
+        }
+    ],
+    "log_id": "6758140ca213e488"
+}

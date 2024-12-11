@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 92546,
+            "name": "Khu Phố 1 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7756587",
+            "lng": "106.7004238"
+        },
+        {
+            "id": 92549,
+            "name": "Khu Phố 2 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9700672",
+            "lng": "106.8749268"
+        },
+        {
+            "id": 92552,
+            "name": "Khu Phố 3 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1309966",
+            "lng": "106.6129209"
+        },
+        {
+            "id": 92555,
+            "name": "Khu Phố 4 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7574561",
+            "lng": "106.5903461"
+        },
+        {
+            "id": 92558,
+            "name": "Khu Phố 5 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.867473",
+            "lng": "106.726325"
+        },
+        {
+            "id": 92561,
+            "name": "Khu Phố 6 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 6 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.863392",
+            "lng": "106.7615546"
+        },
+        {
+            "id": 92564,
+            "name": "Khu Phố 7 - Phường Tân Tiến",
+            "pid": 6946,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 7 - Phường Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9954121",
+            "lng": "105.8562514"
+        }
+    ],
+    "log_id": "675814dd61f18394"
+}

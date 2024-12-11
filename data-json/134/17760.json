@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 919159,
+            "name": "Nà Giềng",
+            "pid": 17760,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Giềng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.881755",
+            "lng": "106.6910322"
+        },
+        {
+            "id": 786010,
+            "name": "Nà Ngườm",
+            "pid": 17760,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Ngườm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.881755",
+            "lng": "106.6910322"
+        },
+        {
+            "id": 786013,
+            "name": "Slam Kha",
+            "pid": 17760,
+            "type": 16,
+            "region": null,
+            "alias": "Slam Kha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.881755",
+            "lng": "106.6910322"
+        },
+        {
+            "id": 726760,
+            "name": "Ubnd Xã Song Giáp",
+            "pid": 17760,
+            "type": 10,
+            "region": null,
+            "alias": "UBND xã Song Giáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.881755",
+            "lng": "106.6910322"
+        }
+    ],
+    "log_id": "6758133eebcc9279"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 438399,
+            "name": "Ấp 2",
+            "pid": 7690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.195023",
+            "lng": "105.220504"
+        },
+        {
+            "id": 438401,
+            "name": "Ấp 3",
+            "pid": 7690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.195023",
+            "lng": "105.220504"
+        },
+        {
+            "id": 438403,
+            "name": "Ấp 4",
+            "pid": 7690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.195023",
+            "lng": "105.220504"
+        },
+        {
+            "id": 438405,
+            "name": "Ấp 5",
+            "pid": 7690,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.195023",
+            "lng": "105.220504"
+        },
+        {
+            "id": 438407,
+            "name": "Ấp 6",
+            "pid": 7690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.195023",
+            "lng": "105.220504"
+        },
+        {
+            "id": 438397,
+            "name": "Ấp Bình Định",
+            "pid": 7690,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp bình định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.195023",
+            "lng": "105.220504"
+        }
+    ],
+    "log_id": "6758164db5670608"
+}

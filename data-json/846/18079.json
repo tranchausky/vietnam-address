@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443489,
+            "name": "Khóm Thượng 1",
+            "pid": 18079,
+            "type": 21,
+            "region": null,
+            "alias": "khóm thượng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.837225",
+            "lng": "105.27214559999993"
+        },
+        {
+            "id": 443491,
+            "name": "Khóm Thượng 2",
+            "pid": 18079,
+            "type": 21,
+            "region": null,
+            "alias": "khóm thượng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.837225",
+            "lng": "105.27214559999993"
+        },
+        {
+            "id": 443493,
+            "name": "Khóm Trung 1",
+            "pid": 18079,
+            "type": 21,
+            "region": null,
+            "alias": "khóm trung 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.837225",
+            "lng": "105.27214559999993"
+        },
+        {
+            "id": 443495,
+            "name": "Khóm Trung 2",
+            "pid": 18079,
+            "type": 21,
+            "region": null,
+            "alias": "khóm trung 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.837225",
+            "lng": "105.27214559999993"
+        }
+    ],
+    "log_id": "675816c04b248115"
+}

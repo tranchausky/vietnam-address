@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 814198,
+            "name": "Thôn Ngòi Trẹo",
+            "pid": 5737,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngòi trẹo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6347932",
+            "lng": "105.81352620000007"
+        },
+        {
+            "id": 875191,
+            "name": "Thôn Vải",
+            "pid": 5737,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vải",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6347932",
+            "lng": "105.81352620000007"
+        },
+        {
+            "id": 875188,
+            "name": "Trung Cấp Nghề Thái Hà",
+            "pid": 5737,
+            "type": 18,
+            "region": null,
+            "alias": "Trung Cấp Nghề Thái Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6347932",
+            "lng": "105.81352620000007"
+        },
+        {
+            "id": 875194,
+            "name": "Xóm Ao Giàng",
+            "pid": 5737,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ao Giàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6347932",
+            "lng": "105.81352620000007"
+        },
+        {
+            "id": 875185,
+            "name": "Xóm Hội Hiểu",
+            "pid": 5737,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Hội Hiểu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6347932",
+            "lng": "105.81352620000007"
+        }
+    ],
+    "log_id": "67590a09b12eb764"
+}

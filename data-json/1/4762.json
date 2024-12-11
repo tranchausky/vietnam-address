@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101135,
+            "name": "Thôn Hạ",
+            "pid": 4762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'35.1\"N",
+            "lng": "105°50'52.1\"E"
+        },
+        {
+            "id": 101090,
+            "name": "Thôn Hội",
+            "pid": 4762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'39.3\"N",
+            "lng": "105°51'16.9\"E"
+        },
+        {
+            "id": 101042,
+            "name": "Thôn Liễu",
+            "pid": 4762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liễu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'23.2\"N",
+            "lng": "105°51'06.4\"E"
+        },
+        {
+            "id": 101012,
+            "name": "Thôn Nội",
+            "pid": 4762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'04.5\"N",
+            "lng": "105°51'04.8\"E"
+        },
+        {
+            "id": 100934,
+            "name": "Thôn Thượng",
+            "pid": 4762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°47'03.1\"N",
+            "lng": "105°50'43.1\"E"
+        },
+        {
+            "id": 1010308,
+            "name": "Thôn Trung",
+            "pid": 4762,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.77969094835642",
+            "lng": "105.84666796072261"
+        },
+        {
+            "id": 54938,
+            "name": "Ubnd Xã Văn Hoàng",
+            "pid": 4762,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Văn Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.770068049355626",
+            "lng": "105.85009254226323"
+        }
+    ],
+    "log_id": "675811bcd5349423"
+}

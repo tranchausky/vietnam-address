@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116211,
+            "name": "Ấp 11A",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 11A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.583728",
+            "lng": "104.974201"
+        },
+        {
+            "id": 116245,
+            "name": "Ấp 15",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 15",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.582955",
+            "lng": "104.973880"
+        },
+        {
+            "id": 116255,
+            "name": "Ấp Cán Gáo",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cán Gáo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.577794",
+            "lng": "104.938659"
+        },
+        {
+            "id": 116219,
+            "name": "Ấp Danh Coi",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Danh Coi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.583749",
+            "lng": "104.974309"
+        },
+        {
+            "id": 116287,
+            "name": "Ấp Ngã Bát",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngã Bát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.541578",
+            "lng": "104.993249"
+        },
+        {
+            "id": 116309,
+            "name": "Ấp Thanh Hùng",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thanh Hùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.603001",
+            "lng": "105.005997"
+        },
+        {
+            "id": 763078,
+            "name": "Ấp Vàm Sáng",
+            "pid": 24015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vàm Sáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.58722",
+            "lng": "104.873063"
+        }
+    ],
+    "log_id": "675817362102f850"
+}

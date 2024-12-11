@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 459087,
+            "name": "Đông Măng",
+            "pid": 15844,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Măng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.1322743",
+            "lng": "108.64131450000002"
+        },
+        {
+            "id": 459093,
+            "name": "Thôn Đưng K'si",
+            "pid": 15844,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đưng K'si",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.1322743",
+            "lng": "108.64131450000002"
+        },
+        {
+            "id": 459091,
+            "name": "Thôn Long Lanh",
+            "pid": 15844,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Long Lanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.1322743",
+            "lng": "108.64131450000002"
+        },
+        {
+            "id": 459089,
+            "name": "Thôn Tupob",
+            "pid": 15844,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tupob",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.1322743",
+            "lng": "108.64131450000002"
+        }
+    ],
+    "log_id": "67581771d0c67787"
+}

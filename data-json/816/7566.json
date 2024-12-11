@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 986997,
+            "name": "Bưu Điện Xã Hải Triều",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "Bưu điện xã Hải Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 987006,
+            "name": "Công Ty Gạch Tinen Hải Triều",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "công ty gạch tinen Hải Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 987004,
+            "name": "Công Ty May Hải Triều",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "công ty may Hải Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 987008,
+            "name": "Công Ty Tấm Lợp Đông Anh Xã Hải Triều",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "công ty tấm lợp Đông anh xã Hải Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        },
+        {
+            "id": 630822,
+            "name": "Thôn Hải Yến",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hải yến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6708539",
+            "lng": "106.13163029999998"
+        },
+        {
+            "id": 630825,
+            "name": "Thôn Triều Dương",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn triều dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6708539",
+            "lng": "106.13163029999998"
+        },
+        {
+            "id": 987002,
+            "name": "Trường Cấp 2 Hải Triều",
+            "pid": 7566,
+            "type": 16,
+            "region": null,
+            "alias": "trường cấp 2 Hải Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.937339917462175",
+            "lng": "106.04772359675883"
+        }
+    ],
+    "log_id": "67581490f35b4432"
+}

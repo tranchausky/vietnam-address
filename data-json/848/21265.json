@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 427005,
+            "name": "Tổ Dân Phố 1",
+            "pid": 21265,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.9023354",
+            "lng": "108.2688921"
+        },
+        {
+            "id": 427007,
+            "name": "Tố Dân Phố 2",
+            "pid": 21265,
+            "type": 20,
+            "region": null,
+            "alias": "tố dân phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7777947",
+            "lng": "106.7168297"
+        },
+        {
+            "id": 427009,
+            "name": "Tổ Dân Phố 3",
+            "pid": 21265,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0640383",
+            "lng": "105.773923"
+        },
+        {
+            "id": 427011,
+            "name": "Tổ Dân Phố 4",
+            "pid": 21265,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9724114",
+            "lng": "105.7615252"
+        },
+        {
+            "id": 427013,
+            "name": "Tổ Dân Phố 5",
+            "pid": 21265,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9523823",
+            "lng": "105.7853365"
+        },
+        {
+            "id": 427015,
+            "name": "Tổ Dân Phố 6",
+            "pid": 21265,
+            "type": 20,
+            "region": null,
+            "alias": "tổ dân phố 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9878369",
+            "lng": "105.7926804"
+        }
+    ],
+    "log_id": "675816e9e3367724"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 563649,
+            "name": "Thôn Khê Hạ",
+            "pid": 7790,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khê Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2445591",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 563647,
+            "name": "Thôn Khê Thượng",
+            "pid": 7790,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khê Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2445591",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 563645,
+            "name": "Thôn Ngoại",
+            "pid": 7790,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngoại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2445591",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 563643,
+            "name": "Thôn Nội",
+            "pid": 7790,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2445591",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "675817990d578678"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 6211,
+            "name": "Thị Trấn Long Thạnh",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Long Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6095512",
+            "lng": "106.44560520000005"
+        },
+        {
+            "id": 6206,
+            "name": "Xã Đôn Châu",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đôn Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6686293",
+            "lng": "106.38170209999998"
+        },
+        {
+            "id": 6218,
+            "name": "Xã Đông Hải",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đông Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.553478",
+            "lng": "106.434348"
+        },
+        {
+            "id": 6205,
+            "name": "Xã Đôn Xuân",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Đôn Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6431509",
+            "lng": "106.35226579999994"
+        },
+        {
+            "id": 6220,
+            "name": "Xã Long Khánh",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.607482",
+            "lng": "106.442113"
+        },
+        {
+            "id": 6217,
+            "name": "Xã Long Vĩnh",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Long Vĩnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.5836975",
+            "lng": "106.3581527"
+        },
+        {
+            "id": 6216,
+            "name": "Xã Ngũ Lạc",
+            "pid": 2038,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ngũ Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6663333",
+            "lng": "106.42880880000007"
+        }
+    ],
+    "log_id": "67590b437876b155"
+}

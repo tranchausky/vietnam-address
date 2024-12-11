@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 987149,
+            "name": "Đường Lê Lợi",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "đường lê lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.92846550488221",
+            "lng": "105.52246439732089"
+        },
+        {
+            "id": 867931,
+            "name": "Huyện Ủy Tt Thọ Xuân",
+            "pid": 22734,
+            "type": 4,
+            "region": null,
+            "alias": "Huyện ủy Tt Thọ Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 594081,
+            "name": "Khu 1",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 594084,
+            "name": "Khu 2",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 594087,
+            "name": "Khu 3",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 594090,
+            "name": "Khu 4",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 594093,
+            "name": "Khu 5",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9338744",
+            "lng": "105.52106070000002"
+        },
+        {
+            "id": 988376,
+            "name": "Khu 6",
+            "pid": 22734,
+            "type": 16,
+            "region": null,
+            "alias": "khu 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.923938340563268",
+            "lng": "105.52133256898128"
+        },
+        {
+            "id": 988392,
+            "name": "Khu 6",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.926932010129264",
+            "lng": "105.52000167234041"
+        },
+        {
+            "id": 987143,
+            "name": "Khu 7",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.928168055510326",
+            "lng": "105.52445416812813"
+        },
+        {
+            "id": 1012087,
+            "name": "Khu Phố Quân Bình",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Quân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.936541688045928",
+            "lng": "105.54029093100404"
+        },
+        {
+            "id": 1012086,
+            "name": "Khu Phố Vĩnh Nghi",
+            "pid": 22734,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Vĩnh nghi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.937106495523665",
+            "lng": "105.54415331192763"
+        }
+    ],
+    "log_id": "67590a23d8632819"
+}

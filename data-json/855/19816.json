@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 452489,
+            "name": "Ấp Gò Dưa",
+            "pid": 19816,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Gò Dưa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8246543",
+            "lng": "105.94061280000005"
+        },
+        {
+            "id": 452487,
+            "name": "Ap Ông Lễ",
+            "pid": 19816,
+            "type": 17,
+            "region": null,
+            "alias": "ap Ông Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8246543",
+            "lng": "105.94061280000005"
+        },
+        {
+            "id": 452491,
+            "name": "Âp Ông Nhan Đông",
+            "pid": 19816,
+            "type": 16,
+            "region": null,
+            "alias": "Âp Ông Nhan Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8246543",
+            "lng": "105.94061280000005"
+        },
+        {
+            "id": 452493,
+            "name": "Ấp Ông Nhan Tây",
+            "pid": 19816,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Ông Nhan Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8246543",
+            "lng": "105.94061280000005"
+        },
+        {
+            "id": 452495,
+            "name": "Ấp Tầm Đuông",
+            "pid": 19816,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Tầm Đuông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8246543",
+            "lng": "105.94061280000005"
+        }
+    ],
+    "log_id": "6758178530cd1801"
+}

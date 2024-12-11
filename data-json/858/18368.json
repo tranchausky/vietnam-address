@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 538345,
+            "name": "Phố Phú An",
+            "pid": 18368,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phú An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3980921",
+            "lng": "105.22679440000002"
+        },
+        {
+            "id": 538347,
+            "name": "Phố Phú Bình",
+            "pid": 18368,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phú Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3980921",
+            "lng": "105.22679440000002"
+        },
+        {
+            "id": 872368,
+            "name": "Phố Phú Cường",
+            "pid": 18368,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3980921",
+            "lng": "105.22679440000002"
+        },
+        {
+            "id": 538349,
+            "name": "Phố Phú Hà",
+            "pid": 18368,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phú Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3980921",
+            "lng": "105.22679440000002"
+        },
+        {
+            "id": 538351,
+            "name": "Phố Phú Thịnh",
+            "pid": 18368,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phú Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3980921",
+            "lng": "105.22679440000002"
+        },
+        {
+            "id": 763969,
+            "name": "Phú Lợi",
+            "pid": 18368,
+            "type": 21,
+            "region": null,
+            "alias": "Phú Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3980921",
+            "lng": "105.22679440000002"
+        }
+    ],
+    "log_id": "675817cd91038475"
+}

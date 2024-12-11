@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 569931,
+            "name": "Thôn Hoàng Pha",
+            "pid": 6625,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Pha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.893816",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 569934,
+            "name": "Thôn Làng Nở",
+            "pid": 6625,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Nở",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.893816",
+            "lng": "106.63207769999997"
+        },
+        {
+            "id": 811756,
+            "name": "Thôn Lôi Động",
+            "pid": 6625,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lôi động",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.893816",
+            "lng": "106.63207769999997"
+        }
+    ],
+    "log_id": "67581365d5ad0529"
+}

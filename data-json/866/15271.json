@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 669637,
+            "name": "Chung Cư Vicoland",
+            "pid": 15271,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư Vicoland",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.467616800000002",
+            "lng": "107.6057621"
+        },
+        {
+            "id": 463943,
+            "name": "Đường Đặng Thùy Trâm",
+            "pid": 15271,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Thùy Trâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4676168",
+            "lng": "107.60576209999999"
+        },
+        {
+            "id": 463947,
+            "name": "Đường Nguyễn Hữu Thọ",
+            "pid": 15271,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hữu Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4676168",
+            "lng": "107.60576209999999"
+        },
+        {
+            "id": 805867,
+            "name": "Hoàng Văn Thụ",
+            "pid": 15271,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Văn Thụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4676168",
+            "lng": "107.60576209999999"
+        }
+    ],
+    "log_id": "67590b2636044684"
+}

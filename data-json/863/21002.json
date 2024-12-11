@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 848704,
+            "name": "Hải Long",
+            "pid": 21002,
+            "type": 16,
+            "region": null,
+            "alias": "Hải Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.444404100000003",
+            "lng": "106.56135340000004"
+        },
+        {
+            "id": 409881,
+            "name": "Thôn An Cư",
+            "pid": 21002,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an cư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4444041",
+            "lng": "106.56135340000003"
+        },
+        {
+            "id": 844369,
+            "name": "Thôn Hải Long",
+            "pid": 21002,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hải Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.444404100000003",
+            "lng": "106.56135340000004"
+        },
+        {
+            "id": 409883,
+            "name": "Thôn Kênh Xuyên",
+            "pid": 21002,
+            "type": 16,
+            "region": null,
+            "alias": "thôn kênh xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4444041",
+            "lng": "106.56135340000003"
+        },
+        {
+            "id": 409885,
+            "name": "Thôn Mỹ Đức",
+            "pid": 21002,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mỹ đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4444041",
+            "lng": "106.56135340000003"
+        }
+    ],
+    "log_id": "675909f39ce9c569"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 57372,
+            "name": "Sân Bay Vân Đồn",
+            "pid": 16711,
+            "type": 4,
+            "region": null,
+            "alias": "Sân bay Vân Đồn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.058324",
+            "lng": "108.277199"
+        },
+        {
+            "id": 553453,
+            "name": "Thôn Bò Lạy",
+            "pid": 16711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bò Lạy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0992599",
+            "lng": "107.4144526"
+        },
+        {
+            "id": 553457,
+            "name": "Thôn Đồng Cậy",
+            "pid": 16711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đồng cậy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0992599",
+            "lng": "107.4144526"
+        },
+        {
+            "id": 553451,
+            "name": "Thôn Khe Ngái",
+            "pid": 16711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khe Ngái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0992599",
+            "lng": "107.4144526"
+        },
+        {
+            "id": 553455,
+            "name": "Thôn Tràng Hương",
+            "pid": 16711,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tràng Hương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0992599",
+            "lng": "107.4144526"
+        }
+    ],
+    "log_id": "675814c23780641"
+}

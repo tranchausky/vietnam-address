@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 424325,
+            "name": "Cầu Giáp",
+            "pid": 6423,
+            "type": 20,
+            "region": null,
+            "alias": "Cầu Giáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424321,
+            "name": "Độc Lập",
+            "pid": 6423,
+            "type": 20,
+            "region": null,
+            "alias": "Độc Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424319,
+            "name": "Khu 6",
+            "pid": 6423,
+            "type": 16,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424317,
+            "name": "Phố Ri",
+            "pid": 6423,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Ri",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424313,
+            "name": "Phú Cường",
+            "pid": 6423,
+            "type": 20,
+            "region": null,
+            "alias": "Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424323,
+            "name": "Thọ Linh",
+            "pid": 6423,
+            "type": 20,
+            "region": null,
+            "alias": "Thọ Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424311,
+            "name": "Thôn Tân Lập",
+            "pid": 6423,
+            "type": 20,
+            "region": null,
+            "alias": "thôn tân lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        },
+        {
+            "id": 424315,
+            "name": "Thôn Tùng Sơn",
+            "pid": 6423,
+            "type": 20,
+            "region": null,
+            "alias": "thôn tùng sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4914585",
+            "lng": "105.48589800000002"
+        }
+    ],
+    "log_id": "6758153380fe9512"
+}

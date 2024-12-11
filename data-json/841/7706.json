@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437785,
+            "name": "Ấp 1",
+            "pid": 7706,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 437787,
+            "name": "Ấp 2",
+            "pid": 7706,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 437789,
+            "name": "Ấp 3",
+            "pid": 7706,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 437791,
+            "name": "Ấp 4",
+            "pid": 7706,
+            "type": 9,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 437793,
+            "name": "Ấp Xóm Lớn Ngooài",
+            "pid": 7706,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Lớn Ngooài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 437795,
+            "name": "Ấp Xóm Lớn Trong",
+            "pid": 7706,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Lớn Trong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        },
+        {
+            "id": 437797,
+            "name": "Khóm Hàng Vịnh",
+            "pid": 7706,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm Hàng Vịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "8.788631",
+            "lng": "105.044344"
+        }
+    ],
+    "log_id": "6758164da6d12320"
+}

@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114547,
+            "name": "Ấp 1",
+            "pid": 1196,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6679434",
+            "lng": "106.7237978"
+        },
+        {
+            "id": 114559,
+            "name": "Ấp 2",
+            "pid": 1196,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.650081",
+            "lng": "106.72891"
+        },
+        {
+            "id": 114573,
+            "name": "Ấp 3",
+            "pid": 1196,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6576205",
+            "lng": "106.7283767"
+        },
+        {
+            "id": 853102,
+            "name": "Đường Ngô Quang Thắm",
+            "pid": 1196,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Quang Thắm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.658641",
+            "lng": "106.706461"
+        },
+        {
+            "id": 838471,
+            "name": "Đường Nguyễn Hữu Thọ",
+            "pid": 1196,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Hữu Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6686948",
+            "lng": "106.726818"
+        },
+        {
+            "id": 1014943,
+            "name": "Hẻm 306 Nguyễn Văn Tạo",
+            "pid": 1196,
+            "type": 8,
+            "region": null,
+            "alias": "HẺM 306 NGUYỄN VĂN TẠO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.651481498008659",
+            "lng": "106.72809895388204"
+        },
+        {
+            "id": 1014945,
+            "name": "Hẻm 339 Nguyễn Văn Tạo",
+            "pid": 1196,
+            "type": 8,
+            "region": null,
+            "alias": "HẺM 339 NGUYỄN VĂN TẠO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.651019681377273",
+            "lng": "106.7310574665705"
+        },
+        {
+            "id": 1014944,
+            "name": "Hẻm 360 Nguyễn Văn Tạo",
+            "pid": 1196,
+            "type": 8,
+            "region": null,
+            "alias": "HẺM 360 NGUYỄN VĂN TẠO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.649484185898682",
+            "lng": "106.72914219540633"
+        },
+        {
+            "id": 1008267,
+            "name": "Hẻm 489 Nguyễn Văn Tạo",
+            "pid": 1196,
+            "type": 8,
+            "region": null,
+            "alias": "HẺM 489 NGUYỄN VĂN TẠO",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.644815217883853",
+            "lng": "106.73551025177589"
+        },
+        {
+            "id": 838438,
+            "name": "Hẻm 541 Nguyễn Văn Tạo",
+            "pid": 1196,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 541 Nguyễn Văn Tạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.659191",
+            "lng": "106.727498"
+        },
+        {
+            "id": 1008269,
+            "name": "Hẻm 590 Nguyễn Văn Tạo",
+            "pid": 1196,
+            "type": 8,
+            "region": null,
+            "alias": "HẺM 590 NGUYỄN VĂN TẠO",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.640170832514983",
+            "lng": "106.73349140760041"
+        }
+    ],
+    "log_id": "6758129aa7cfb431"
+}

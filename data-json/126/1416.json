@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1018109,
+            "name": "134-176 Phan Đăng Lưu",
+            "pid": 1416,
+            "type": 29,
+            "region": null,
+            "alias": "134-176 Phan Đăng Lưu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.801813",
+            "lng": "106.682804"
+        },
+        {
+            "id": 672160,
+            "name": "Đường Nguyễn Đình Chiểu",
+            "pid": 1416,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8038786",
+            "lng": "106.6811704"
+        },
+        {
+            "id": 676147,
+            "name": "Đường Nguyễn Kiệm",
+            "pid": 1416,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Kiệm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8218692 ",
+            "lng": "106.6749163 "
+        },
+        {
+            "id": 672616,
+            "name": "Đường Phan Đăng Lưu",
+            "pid": 1416,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đăng Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8011554",
+            "lng": "106.682439"
+        },
+        {
+            "id": 679081,
+            "name": "Đường Phan Xích Long",
+            "pid": 1416,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Xích Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8018385",
+            "lng": "106.6830124"
+        },
+        {
+            "id": 680752,
+            "name": "Đường Thích Quảng Đức",
+            "pid": 1416,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thích Quảng Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.804166",
+            "lng": "106.6837898"
+        },
+        {
+            "id": 46150,
+            "name": "Trường Thcs Trần Huy Liệu",
+            "pid": 1416,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Trần Huy Liệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8043394",
+            "lng": "106.682176"
+        }
+    ],
+    "log_id": "6758129ab585e659"
+}

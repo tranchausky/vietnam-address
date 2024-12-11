@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 83552,
+            "name": "Cđ Công Nghệ Và Kĩ Thuật Ô Tô",
+            "pid": 4977,
+            "type": 9,
+            "region": null,
+            "alias": "CĐ công nghệ và kĩ thuật ô tô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.108899",
+            "lng": "105.454899"
+        },
+        {
+            "id": 83519,
+            "name": "Công Ty M3 (Bộ Quốc Phòng)",
+            "pid": 4977,
+            "type": 4,
+            "region": null,
+            "alias": "Công ty M3 (Bộ Quốc Phòng)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.120862",
+            "lng": "105.442845"
+        },
+        {
+            "id": 488975,
+            "name": "Ngã 3 Xuân Khanh",
+            "pid": 4977,
+            "type": 16,
+            "region": null,
+            "alias": "Ngã 3 Xuân Khanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.10929799958561",
+            "lng": "105.45305386522568"
+        },
+        {
+            "id": 83543,
+            "name": "Nhà Máy Z151 (Bộ Quốc Phòng)",
+            "pid": 4977,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà máy Z151 (Bộ Quốc Phòng)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.111504",
+            "lng": "105.465546"
+        },
+        {
+            "id": 53402,
+            "name": "Thpt Xuân Khanh",
+            "pid": 4977,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Xuân Khanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 53154,
+            "name": "Trường Đại Học Công Nghiệp Việt Hung",
+            "pid": 4977,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Đại học Công nghiệp Việt Hung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd3d0cc832"
+}

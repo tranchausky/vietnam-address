@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 971448,
+            "name": "Ấp Hiệp Trị",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hiệp Trị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 599064,
+            "name": "Dương Hòa",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Dương Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 599061,
+            "name": "Dương Qưới",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Dương Qưới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 599070,
+            "name": "Nghĩa Chí",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Nghĩa Chí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 599067,
+            "name": "Tân Xuân",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Tân Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 599055,
+            "name": "Thanh Nhung1",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Thanh Nhung1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 599058,
+            "name": "Thanh Nhung2",
+            "pid": 6573,
+            "type": 17,
+            "region": null,
+            "alias": "Thanh Nhung2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.30611",
+            "lng": "106.69398030000002"
+        }
+    ],
+    "log_id": "675814f3ae590811"
+}

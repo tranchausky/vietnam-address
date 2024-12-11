@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 574839,
+            "name": "Thôn Mưỡu Giáp",
+            "pid": 7820,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mưỡu giáp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.348753",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 574836,
+            "name": "Thôn Vũ Đại",
+            "pid": 7820,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vũ đại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.348753",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 574842,
+            "name": "Thôn Xuân Hòa",
+            "pid": 7820,
+            "type": 16,
+            "region": null,
+            "alias": "thôn xuân hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.348753",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 574833,
+            "name": "Xóm Đồng Xuân",
+            "pid": 7820,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đồng xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.348753",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "6758179908e8d225"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 568101,
+            "name": "Thôn 1",
+            "pid": 16536,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.093442",
+            "lng": "107.8346924"
+        },
+        {
+            "id": 568104,
+            "name": "Thôn 2",
+            "pid": 16536,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.093442",
+            "lng": "107.8346924"
+        }
+    ],
+    "log_id": "6758147805815179"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112289,
+            "name": "Thôn Phú Khánh Hạ",
+            "pid": 16444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khánh Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.244235",
+            "lng": "109.088160"
+        },
+        {
+            "id": 112279,
+            "name": "Thôn Phú Khánh Thượng",
+            "pid": 16444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khánh Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.244235",
+            "lng": "109.088160"
+        },
+        {
+            "id": 112303,
+            "name": "Thôn Phú Khánh Trung",
+            "pid": 16444,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khánh Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.244235",
+            "lng": "109.088160"
+        },
+        {
+            "id": 843310,
+            "name": "Trường Thạnh",
+            "pid": 16444,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2456414",
+            "lng": "109.08990399999992"
+        }
+    ],
+    "log_id": "67581585b31b6972"
+}

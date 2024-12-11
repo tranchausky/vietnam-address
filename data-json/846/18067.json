@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443219,
+            "name": "Ấp Chiến Thắng",
+            "pid": 18067,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Chiến Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9327262",
+            "lng": "105.44195460000003"
+        },
+        {
+            "id": 82799,
+            "name": "Ấp Dinh Bà",
+            "pid": 18067,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Dinh Bà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9655145",
+            "lng": "105.4261412"
+        },
+        {
+            "id": 443217,
+            "name": "Ấp Đuôi Tôm",
+            "pid": 18067,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Đuôi Tôm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9327262",
+            "lng": "105.44195460000003"
+        },
+        {
+            "id": 443221,
+            "name": "Ấp Gò Bói",
+            "pid": 18067,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp Gò Bói",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9327262",
+            "lng": "105.44195460000003"
+        }
+    ],
+    "log_id": "675816c0491c2799"
+}

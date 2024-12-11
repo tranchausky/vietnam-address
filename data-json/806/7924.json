@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117899,
+            "name": "Công Ty Mobifone",
+            "pid": 7924,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty Mobifone",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0479481",
+            "lng": "105.7560648,17"
+        },
+        {
+            "id": 955428,
+            "name": "Đường Võ Văn Kiệt",
+            "pid": 7924,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Võ Văn Kiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0511194",
+            "lng": "105.751855"
+        },
+        {
+            "id": 762700,
+            "name": "Huyn Dai",
+            "pid": 7924,
+            "type": 21,
+            "region": null,
+            "alias": "Huyn Dai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0580035",
+            "lng": "105.76152520000004"
+        },
+        {
+            "id": 117895,
+            "name": "Tòa Báo Sg",
+            "pid": 7924,
+            "type": 10,
+            "region": null,
+            "alias": "Tòa báo SG",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0642475",
+            "lng": ",105.7237391,13"
+        },
+        {
+            "id": 754381,
+            "name": "Ubnd Phường An Thới",
+            "pid": 7924,
+            "type": 10,
+            "region": null,
+            "alias": "UBND Phường An Thới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0580035",
+            "lng": "105.76152520000004"
+        }
+    ],
+    "log_id": "6758140c7d371653"
+}

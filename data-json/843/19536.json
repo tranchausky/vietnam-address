@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455241,
+            "name": "Buôn M'dui",
+            "pid": 19536,
+            "type": 16,
+            "region": null,
+            "alias": "Buôn M'Dui",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6278383",
+            "lng": "108.82692739999993"
+        },
+        {
+            "id": 455243,
+            "name": "Thôn 1",
+            "pid": 19536,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6278383",
+            "lng": "108.82692739999993"
+        },
+        {
+            "id": 455245,
+            "name": "Thôn 2",
+            "pid": 19536,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6278383",
+            "lng": "108.82692739999993"
+        },
+        {
+            "id": 455247,
+            "name": "Thôn 3",
+            "pid": 19536,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.6278383",
+            "lng": "108.82692739999993"
+        }
+    ],
+    "log_id": "67581678907a6739"
+}

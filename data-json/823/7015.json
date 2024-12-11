@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94574,
+            "name": "Ấp 1",
+            "pid": 7015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8881408",
+            "lng": "107.024264"
+        },
+        {
+            "id": 94577,
+            "name": "Ấp 2",
+            "pid": 7015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.881911",
+            "lng": "107.008368"
+        },
+        {
+            "id": 94580,
+            "name": "Ấp 3",
+            "pid": 7015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.881911",
+            "lng": "107.008368"
+        },
+        {
+            "id": 94586,
+            "name": "Ấp 4",
+            "pid": 7015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.881911",
+            "lng": "107.008368"
+        },
+        {
+            "id": 94589,
+            "name": "Ấp 5",
+            "pid": 7015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8780085",
+            "lng": "106.979530"
+        },
+        {
+            "id": 94592,
+            "name": "Ấp 6",
+            "pid": 7015,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.881911",
+            "lng": "107.008368"
+        },
+        {
+            "id": 881107,
+            "name": "Kcn Giang Dien",
+            "pid": 7015,
+            "type": 5,
+            "region": null,
+            "alias": "Kcn Giang Dien",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.881911",
+            "lng": "107.008368"
+        }
+    ],
+    "log_id": "675814dd3f6f6116"
+}

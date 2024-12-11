@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 100136,
+            "name": "Bặt Chùa",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Bặt Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7584653",
+            "lng": "105.767761"
+        },
+        {
+            "id": 100124,
+            "name": "Bặt Ngõ",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Bặt Ngõ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.760829",
+            "lng": "105.7695951"
+        },
+        {
+            "id": 100130,
+            "name": "Bặt Trung",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Bặt Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7551712",
+            "lng": "105.7681278"
+        },
+        {
+            "id": 100187,
+            "name": "Đình Tràng",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Đình Tràng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7378031",
+            "lng": "105.772187"
+        },
+        {
+            "id": 100175,
+            "name": "Lương Xá",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7402716",
+            "lng": "105.7725297"
+        },
+        {
+            "id": 100163,
+            "name": "Lưu Khê",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Lưu Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.746302",
+            "lng": "105.773985"
+        },
+        {
+            "id": 55730,
+            "name": "Ubnd Xã Liên Bạt",
+            "pid": 4955,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Liên Bạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 100154,
+            "name": "Vũ Ngoại",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Vũ Ngoại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.751084",
+            "lng": "105.7692283"
+        },
+        {
+            "id": 100145,
+            "name": "Vũ Nội",
+            "pid": 4955,
+            "type": 16,
+            "region": null,
+            "alias": "Vũ Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7504129",
+            "lng": "105.7725297"
+        }
+    ],
+    "log_id": "675811bd3de0b273"
+}

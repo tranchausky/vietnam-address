@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 853375,
+            "name": "Bình Trung",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.624722",
+            "lng": "107.112412"
+        },
+        {
+            "id": 436019,
+            "name": "Thôn Bình Hòa,",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Hòa,",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        },
+        {
+            "id": 436029,
+            "name": "Thôn Bình Lợi",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        },
+        {
+            "id": 436021,
+            "name": "Thôn Bình Minh",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn BÌnh Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        },
+        {
+            "id": 436025,
+            "name": "Thôn Bình Thọ",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        },
+        {
+            "id": 436023,
+            "name": "Thôn Bình Tiến",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        },
+        {
+            "id": 436027,
+            "name": "Thôn Bình Trung",
+            "pid": 23042,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6778237",
+            "lng": "107.11891409999998"
+        }
+    ],
+    "log_id": "675816379fafc621"
+}

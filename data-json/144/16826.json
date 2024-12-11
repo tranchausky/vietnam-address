@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 406053,
+            "name": "Thôn Ngọc Liễn",
+            "pid": 16826,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Liễn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2609717",
+            "lng": "105.97169910000002"
+        },
+        {
+            "id": 406049,
+            "name": "Thôn Ngọ Khổng",
+            "pid": 16826,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọ Khổng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2609717",
+            "lng": "105.97169910000002"
+        },
+        {
+            "id": 406045,
+            "name": "Thôn Ngọ Phúc",
+            "pid": 16826,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọ Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2609717",
+            "lng": "105.97169910000002"
+        },
+        {
+            "id": 406047,
+            "name": "Thôn Ngọ Xá",
+            "pid": 16826,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọ Xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2609717",
+            "lng": "105.97169910000002"
+        },
+        {
+            "id": 406051,
+            "name": "Thôn Xuân Thành",
+            "pid": 16826,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2609717",
+            "lng": "105.97169910000002"
+        }
+    ],
+    "log_id": "675813d914a15253"
+}

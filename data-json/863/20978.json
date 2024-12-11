@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 985599,
+            "name": "Đường Sông Me",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Sông Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6239148",
+            "lng": "106.1743257"
+        },
+        {
+            "id": 985608,
+            "name": "Me",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6227489",
+            "lng": "106.1726088"
+        },
+        {
+            "id": 641995,
+            "name": "Thôn Cun",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cun",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.621436",
+            "lng": "106.157013"
+        },
+        {
+            "id": 641941,
+            "name": "Thôn Diệc",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Diệc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.630831",
+            "lng": "106.163294"
+        },
+        {
+            "id": 641914,
+            "name": "Thôn Gạo",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Gạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.627168",
+            "lng": "106.161549"
+        },
+        {
+            "id": 642007,
+            "name": "Thôn Lường",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.620369",
+            "lng": "106.165964"
+        },
+        {
+            "id": 641890,
+            "name": "Thôn Me",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Me",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.630579",
+            "lng": "106.163306"
+        },
+        {
+            "id": 641971,
+            "name": "Thôn Ruốm",
+            "pid": 20978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ruốm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.615847",
+            "lng": "106.165199"
+        }
+    ],
+    "log_id": "675909f3c387c34"
+}

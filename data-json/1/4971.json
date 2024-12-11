@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53410,
+            "name": "Gdtx Sơn Tây",
+            "pid": 4971,
+            "type": 9,
+            "region": null,
+            "alias": "GDTX Sơn Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53990,
+            "name": "Khu Đô Thị Mới Phú Thịnh",
+            "pid": 4971,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị mới Phú Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1537625",
+            "lng": "105.49761809999995"
+        },
+        {
+            "id": 1011582,
+            "name": "Phú Nhi",
+            "pid": 4971,
+            "type": 10,
+            "region": null,
+            "alias": "Phú Nhi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.150911150688074",
+            "lng": "105.49540689928494"
+        },
+        {
+            "id": 995831,
+            "name": "Phú Nhi 2",
+            "pid": 4971,
+            "type": 10,
+            "region": null,
+            "alias": "Phú Nhi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.150937592088905",
+            "lng": "105.49479398220907"
+        },
+        {
+            "id": 995832,
+            "name": "Phú Nhi 3",
+            "pid": 4971,
+            "type": 8,
+            "region": null,
+            "alias": "Phú Nhi 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.15054137149513",
+            "lng": "105.5013031408409"
+        },
+        {
+            "id": 807802,
+            "name": "Phú Thịnh",
+            "pid": 4971,
+            "type": 10,
+            "region": null,
+            "alias": "Phú Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1537625",
+            "lng": "105.49761809999997"
+        }
+    ],
+    "log_id": "675811bc9ed58532"
+}

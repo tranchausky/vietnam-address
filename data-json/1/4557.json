@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54082,
+            "name": "Trung Tâm Y Tế Xã Châu Sơn",
+            "pid": 4557,
+            "type": 4,
+            "region": null,
+            "alias": "Trung tâm y tế xã Châu Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 54078,
+            "name": "Ubnd Xã Châu Sơn",
+            "pid": 4557,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Châu Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb79ca634"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910177,
+            "name": "Thôn Đồng Tiến",
+            "pid": 19098,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đồng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6187767",
+            "lng": "106.34269990000007"
+        },
+        {
+            "id": 910171,
+            "name": "Thôn Tân Yên",
+            "pid": 19098,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Yên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6187767",
+            "lng": "106.34269990000007"
+        },
+        {
+            "id": 910180,
+            "name": "Xóm Làng",
+            "pid": 19098,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Làng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6187767",
+            "lng": "106.34269990000007"
+        }
+    ],
+    "log_id": "6758133f27075108"
+}

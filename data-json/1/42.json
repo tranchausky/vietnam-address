@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1048,
+            "name": "Bắc Thành Công",
+            "pid": 42,
+            "type": 5,
+            "region": null,
+            "alias": "Bắc Thành Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0358515",
+            "lng": "105.82609430000002"
+        },
+        {
+            "id": 829210,
+            "name": "Đường Đê La Thành",
+            "pid": 42,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đê La Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.020889",
+            "lng": "105.8158204"
+        },
+        {
+            "id": 954595,
+            "name": "Đường Láng Hạ",
+            "pid": 42,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Láng Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.021736422062986",
+            "lng": "105.81849709937767"
+        },
+        {
+            "id": 881308,
+            "name": "Đường Nguyên Hồng",
+            "pid": 42,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyên Hồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,021896",
+            "lng": "105,815736"
+        },
+        {
+            "id": 881311,
+            "name": "Đường Thành Công",
+            "pid": 42,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thành Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,021896",
+            "lng": "105,815736"
+        },
+        {
+            "id": 5269,
+            "name": "Số 5 - Ngõ 8 - Phố Thành Công - Ba Đình",
+            "pid": 42,
+            "type": 10,
+            "region": null,
+            "alias": "Số 5 - Ngõ 8 - Phố Thành Công - Ba Đình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0224048",
+            "lng": "105.81601590000002"
+        }
+    ],
+    "log_id": "675811bc47563234"
+}

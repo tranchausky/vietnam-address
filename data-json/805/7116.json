@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 835234,
+            "name": "Kỳ Tây",
+            "pid": 7116,
+            "type": 16,
+            "region": null,
+            "alias": "Kỳ Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9003335",
+            "lng": "106.44942140000002"
+        },
+        {
+            "id": 513951,
+            "name": "Thôn Du La",
+            "pid": 7116,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Du La",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9003335",
+            "lng": "106.4494214"
+        },
+        {
+            "id": 513953,
+            "name": "Thôn Nhân Lư",
+            "pid": 7116,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Lư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9003335",
+            "lng": "106.4494214"
+        }
+    ],
+    "log_id": "675813f1c562a921"
+}

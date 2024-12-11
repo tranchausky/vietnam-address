@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 429237,
+            "name": "Thôn Đoàn Kết",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 429235,
+            "name": "Thôn Nậm Pậy",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Nậm Pậy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 429233,
+            "name": "Thônthống Nhất",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "ThônThống Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 429231,
+            "name": "Thôn Vàng Bó",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Vàng Bó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 429227,
+            "name": "Tổ Dân Phố Hòa Bình",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ Dân Phố Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 429225,
+            "name": "Tổ Dân Phố Hữu Nghị",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ Dân Phố Hữu Nghị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        },
+        {
+            "id": 429229,
+            "name": "Tổ Dân Phố Pa So",
+            "pid": 15522,
+            "type": 21,
+            "region": null,
+            "alias": "Tổ Dân Phố Pa So",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.5776336",
+            "lng": "103.40494450000006"
+        }
+    ],
+    "log_id": "6758175e6f26b478"
+}

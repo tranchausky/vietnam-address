@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435275,
+            "name": "Ấp Bàu Đưng",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Đưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.488567",
+            "lng": "106.044789"
+        },
+        {
+            "id": 435279,
+            "name": "Ấp Cầu",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.743786",
+            "lng": "106.8048656"
+        },
+        {
+            "id": 435285,
+            "name": "Ấp Đồng Dài",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Dài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4",
+            "lng": "106.216667"
+        },
+        {
+            "id": 435277,
+            "name": "Ấp Gò Cát",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Gò Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8315859",
+            "lng": "106.8853178"
+        },
+        {
+            "id": 435281,
+            "name": "Ấp Mới",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.93978",
+            "lng": "106.366096"
+        },
+        {
+            "id": 435283,
+            "name": "Ấp Sân Bay",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sân Bay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.1634153",
+            "lng": "103.9980303"
+        },
+        {
+            "id": 435289,
+            "name": "Ấp Trại Bí",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trại Bí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5",
+            "lng": "106.016667"
+        },
+        {
+            "id": 435287,
+            "name": "Ấp Xóm Tháp",
+            "pid": 18123,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9945639",
+            "lng": "105.7571236"
+        }
+    ],
+    "log_id": "675909dcf3cb051"
+}

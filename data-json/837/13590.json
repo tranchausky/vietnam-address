@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 753154,
+            "name": "Bất Phí",
+            "pid": 13590,
+            "type": 16,
+            "region": null,
+            "alias": "Bất Phí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1810721",
+            "lng": "106.14205900000002"
+        },
+        {
+            "id": 753157,
+            "name": "Cung Kiệm",
+            "pid": 13590,
+            "type": 16,
+            "region": null,
+            "alias": "Cung Kiệm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1810721",
+            "lng": "106.14205900000002"
+        },
+        {
+            "id": 758170,
+            "name": "Đồng Chuế",
+            "pid": 13590,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Chuế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1810721",
+            "lng": "106.14205900000002"
+        },
+        {
+            "id": 758176,
+            "name": "Trại Đường",
+            "pid": 13590,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1810721",
+            "lng": "106.14205900000002"
+        }
+    ],
+    "log_id": "675815f8c76c3950"
+}

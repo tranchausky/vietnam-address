@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119313,
+            "name": "Thôn Cấn Hạ",
+            "pid": 4789,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cấn Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9448457",
+            "lng": "105.6172287"
+        },
+        {
+            "id": 119315,
+            "name": "Thôn Cấn Thượng",
+            "pid": 4789,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cấn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9135428",
+            "lng": "105.6413789"
+        },
+        {
+            "id": 119317,
+            "name": "Thôn Cây Chay",
+            "pid": 4789,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cây Chay",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9546354",
+            "lng": "105.6179174"
+        },
+        {
+            "id": 119319,
+            "name": "Thôn Đĩnh Tú",
+            "pid": 4789,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đĩnh Tú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.957833",
+            "lng": "105.608847"
+        },
+        {
+            "id": 119321,
+            "name": "Thôn Thái Thượng Khê",
+            "pid": 4789,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thái Thượng Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9641343",
+            "lng": "105.6107337"
+        },
+        {
+            "id": 53494,
+            "name": "Thpt Minh Khai",
+            "pid": 4789,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55190,
+            "name": "Ubnd Xã Cấn Hữu",
+            "pid": 4789,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Cấn Hữu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bcd687b137"
+}

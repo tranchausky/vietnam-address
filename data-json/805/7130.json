@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 808636,
+            "name": "Bằng Quân",
+            "pid": 7130,
+            "type": 10,
+            "region": null,
+            "alias": "Bằng Quân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9684918",
+            "lng": "106.17353230000003"
+        },
+        {
+            "id": 638784,
+            "name": "Tân An",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        },
+        {
+            "id": 638775,
+            "name": "Thôn An Điềm A",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Điềm A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        },
+        {
+            "id": 638778,
+            "name": "Thôn An Điềm B",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Điềm B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        },
+        {
+            "id": 638787,
+            "name": "Thôn An Tân",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        },
+        {
+            "id": 638772,
+            "name": "Thôn Bằng Quân",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bằng Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        },
+        {
+            "id": 638781,
+            "name": "Thôn Đức Trạch",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        },
+        {
+            "id": 638769,
+            "name": "Thôn Phú Quân",
+            "pid": 7130,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9617815",
+            "lng": "106.23167549999994"
+        }
+    ],
+    "log_id": "675813f1644fd475"
+}

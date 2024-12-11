@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 92108,
+            "name": "Ấp Phú Cường",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7157434",
+            "lng": "105.2900096"
+        },
+        {
+            "id": 92117,
+            "name": "Ấp Phú Dũng",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Dũng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92111,
+            "name": "Ấp Phú Hợp A",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hợp A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.289879",
+            "lng": "103.98402"
+        },
+        {
+            "id": 92114,
+            "name": "Ấp Phú Hợp B",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Hợp B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.968864000000002",
+            "lng": "105.833702"
+        },
+        {
+            "id": 92105,
+            "name": "Ấp Phú Kiên",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Kiên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92102,
+            "name": "Ấp Phú Lập",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 92120,
+            "name": "Ấp Phú Tân",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6666154",
+            "lng": "105.2897042"
+        },
+        {
+            "id": 92099,
+            "name": "Ấp Phú Thành",
+            "pid": 7001,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phú Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        }
+    ],
+    "log_id": "675814dd49d74755"
+}

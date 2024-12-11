@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 907384,
+            "name": "Phú Sum",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Sum",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8415724",
+            "lng": "107.87023469999995"
+        },
+        {
+            "id": 568146,
+            "name": "Thôn Phú Hưng",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        },
+        {
+            "id": 568143,
+            "name": "Thôn Phú Khánh",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Khánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        },
+        {
+            "id": 568149,
+            "name": "Thôn Phú Mỹ",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        },
+        {
+            "id": 568158,
+            "name": "Thôn Phú Phong",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        },
+        {
+            "id": 568161,
+            "name": "Thôn Phú Sơn",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        },
+        {
+            "id": 568152,
+            "name": "Thôn Phú Sum",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Sum",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        },
+        {
+            "id": 568155,
+            "name": "Thôn Văn Lâm",
+            "pid": 16533,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9289644",
+            "lng": "108.04189769999993"
+        }
+    ],
+    "log_id": "67581477eb530581"
+}

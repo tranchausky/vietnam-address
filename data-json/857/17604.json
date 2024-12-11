@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455655,
+            "name": "Thôn Đá Trắng",
+            "pid": 17604,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đá Trắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8962771",
+            "lng": "108.81356030000006"
+        },
+        {
+            "id": 455657,
+            "name": "Thôn Ma Lâm",
+            "pid": 17604,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8962771",
+            "lng": "108.81356030000006"
+        },
+        {
+            "id": 455659,
+            "name": "Thôn Ma Ty",
+            "pid": 17604,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ma Ty",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8962771",
+            "lng": "108.81356030000006"
+        }
+    ],
+    "log_id": "675817b978db4938"
+}

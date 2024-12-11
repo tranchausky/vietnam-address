@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 714223,
+            "name": "Ấp An Hòa 1",
+            "pid": 7321,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.543697",
+            "lng": "10.543697"
+        },
+        {
+            "id": 714226,
+            "name": "Ấp An Hòa 2",
+            "pid": 7321,
+            "type": 17,
+            "region": null,
+            "alias": "ấp an hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.543697",
+            "lng": "10.543697"
+        },
+        {
+            "id": 726703,
+            "name": "Ấp An Hoà 3",
+            "pid": 7321,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Hoà 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5990886",
+            "lng": "106.43415500000003"
+        },
+        {
+            "id": 714232,
+            "name": "Ấp Vàm Kinh",
+            "pid": 7321,
+            "type": 17,
+            "region": null,
+            "alias": "ấp vàm kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.543697",
+            "lng": "10.543697"
+        },
+        {
+            "id": 727093,
+            "name": "Long Thạnh",
+            "pid": 7321,
+            "type": 17,
+            "region": null,
+            "alias": "Long Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5990886",
+            "lng": "106.43415500000003"
+        }
+    ],
+    "log_id": "675817853ca59574"
+}

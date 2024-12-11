@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 631254,
+            "name": "Long Bàn Bắc",
+            "pid": 16205,
+            "type": 16,
+            "region": null,
+            "alias": "Long Bàn Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0431091",
+            "lng": "108.77612290000002"
+        },
+        {
+            "id": 631251,
+            "name": "Long Bàn Nam",
+            "pid": 16205,
+            "type": 16,
+            "region": null,
+            "alias": "Long Bàn Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0431091",
+            "lng": "108.77612290000002"
+        },
+        {
+            "id": 631260,
+            "name": "Tình Phú Bắc",
+            "pid": 16205,
+            "type": 16,
+            "region": null,
+            "alias": "Tình Phú Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0431091",
+            "lng": "108.77612290000002"
+        },
+        {
+            "id": 631257,
+            "name": "Tình Phú Nam",
+            "pid": 16205,
+            "type": 16,
+            "region": null,
+            "alias": "Tình Phú Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.0431091",
+            "lng": "108.77612290000002"
+        }
+    ],
+    "log_id": "675909a4a4653708"
+}

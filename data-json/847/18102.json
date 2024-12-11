@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 702025,
+            "name": "Phu Ma Nher 1",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Phu Ma Nher 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000004"
+        },
+        {
+            "id": 626121,
+            "name": "Thôn Buôn Jư Ama Nai",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Jư Ama Nai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        },
+        {
+            "id": 626112,
+            "name": "Thôn Buôn Ma Mương",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Ma Mương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        },
+        {
+            "id": 626115,
+            "name": "Thôn Buôn Phu Ma Nher 1",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Phu Ma Nher 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        },
+        {
+            "id": 626118,
+            "name": "Thôn Buôn Phu Ma Nher 2",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Phu Ma Nher 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        },
+        {
+            "id": 626109,
+            "name": "Thôn Đức Lập",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đức Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        },
+        {
+            "id": 626106,
+            "name": "Thôn Tân Lập",
+            "pid": 18102,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        }
+    ],
+    "log_id": "675816d37e25b271"
+}

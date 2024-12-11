@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 466367,
+            "name": "Thôn 7",
+            "pid": 16355,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8631119",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 466369,
+            "name": "Thôn 8",
+            "pid": 16355,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 8",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8631119",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 466371,
+            "name": "Thôn 9",
+            "pid": 16355,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8631119",
+            "lng": "107.25481830000001"
+        },
+        {
+            "id": 466365,
+            "name": "Thôn Làng Sinh Thái",
+            "pid": 16355,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Sinh Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8631119",
+            "lng": "107.25481830000001"
+        }
+    ],
+    "log_id": "675813bc57055646"
+}

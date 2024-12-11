@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 930961,
+            "name": "Chợ Phúc Đồng",
+            "pid": 18737,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Phúc Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0398069",
+            "lng": "105.900587"
+        },
+        {
+            "id": 830434,
+            "name": "Chợ Phúc Đồng",
+            "pid": 18737,
+            "type": 21,
+            "region": null,
+            "alias": "Chợ Phúc Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0407327",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 829693,
+            "name": "Đường Huỳnh Văn Nghệ",
+            "pid": 18737,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Nghệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0407327",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 998772,
+            "name": "Khu Tập Thể 918",
+            "pid": 18737,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tập thể 918",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.035854141519206",
+            "lng": "105.89918068878745"
+        },
+        {
+            "id": 926824,
+            "name": "Tổ 3",
+            "pid": 18737,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.041560,",
+            "lng": "105.900841"
+        },
+        {
+            "id": 972265,
+            "name": "Tổ 5 Phúc Đồng",
+            "pid": 18737,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 5 Phúc Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040723714220803",
+            "lng": "105.90187320253168"
+        },
+        {
+            "id": 999677,
+            "name": "Tổ 6 Phúc Đồng",
+            "pid": 18737,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 6 Phúc Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.040317755997386",
+            "lng": "105.90244358268549"
+        },
+        {
+            "id": 999678,
+            "name": "Tổ 7 Phúc Đồng",
+            "pid": 18737,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 7 Phúc Đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.04087163189296",
+            "lng": "105.9020486280124"
+        }
+    ],
+    "log_id": "675811bcd4ca7866"
+}

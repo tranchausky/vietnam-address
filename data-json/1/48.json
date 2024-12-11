@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 979555,
+            "name": "47-81 Võ Chí Công",
+            "pid": 48,
+            "type": 29,
+            "region": null,
+            "alias": "47-81 Võ Chí Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.050372924250762",
+            "lng": "105.80428358521549"
+        },
+        {
+            "id": 829633,
+            "name": "Đường Hoàng Sâm",
+            "pid": 48,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Sâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0438759",
+            "lng": "105.80261199999995"
+        },
+        {
+            "id": 830119,
+            "name": "Đường Nguyễn Đình Hoàn",
+            "pid": 48,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Đình Hoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0438759",
+            "lng": "105.80261199999995"
+        },
+        {
+            "id": 830452,
+            "name": "Đường Phùng Chí Kiên",
+            "pid": 48,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phùng Chí Kiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0438759",
+            "lng": "105.80261199999995"
+        },
+        {
+            "id": 4071,
+            "name": "Nguyễn Đình Hoàn",
+            "pid": 48,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Đình Hoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0362368",
+            "lng": "105.79058250000003"
+        },
+        {
+            "id": 47684,
+            "name": "Tràng An Complex",
+            "pid": 48,
+            "type": 16,
+            "region": null,
+            "alias": "Tràng An Complex",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd54649308"
+}

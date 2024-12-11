@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 583785,
+            "name": "Bản Pá",
+            "pid": 16988,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0748924",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 583782,
+            "name": "Bản Ruộc",
+            "pid": 16988,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Ruộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0748924",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 583788,
+            "name": "Khau Ràng",
+            "pid": 16988,
+            "type": 16,
+            "region": null,
+            "alias": "Khau Ràng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0748924",
+            "lng": "105.7233814"
+        },
+        {
+            "id": 583791,
+            "name": "Khau Tổng",
+            "pid": 16988,
+            "type": 16,
+            "region": null,
+            "alias": "Khau Tổng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.0748924",
+            "lng": "105.7233814"
+        }
+    ],
+    "log_id": "675815c91b6a4906"
+}

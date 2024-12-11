@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119433,
+            "name": "Đường Đại Lộ Thăng Long",
+            "pid": 4798,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đại Lộ Thăng Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9976721",
+            "lng": "105.594977"
+        },
+        {
+            "id": 119435,
+            "name": "Thôn Đồng Bụt",
+            "pid": 4798,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Bụt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.000501",
+            "lng": "105.606048"
+        },
+        {
+            "id": 119437,
+            "name": "Thôn Liệp Mai",
+            "pid": 4798,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liệp Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9965414",
+            "lng": "105.596509"
+        },
+        {
+            "id": 119439,
+            "name": "Thôn Ngọc Bài,",
+            "pid": 4798,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Bài,",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9961897",
+            "lng": "105.5959406"
+        },
+        {
+            "id": 119441,
+            "name": "Thôn Ngọc Phúc",
+            "pid": 4798,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9946335",
+            "lng": "105.6010269"
+        },
+        {
+            "id": 55142,
+            "name": "Ubnd Xã Ngọc Liệp",
+            "pid": 4798,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Ngọc Liệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bcd600e54"
+}

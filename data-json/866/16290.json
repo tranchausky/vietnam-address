@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 463097,
+            "name": "An Lưu",
+            "pid": 16290,
+            "type": 16,
+            "region": null,
+            "alias": "An Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4950515",
+            "lng": "107.62984370000004"
+        },
+        {
+            "id": 716671,
+            "name": "Định Cư",
+            "pid": 16290,
+            "type": 16,
+            "region": null,
+            "alias": "Định Cư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.495051500000002",
+            "lng": "107.62984370000004"
+        },
+        {
+            "id": 463101,
+            "name": "Mong An",
+            "pid": 16290,
+            "type": 16,
+            "region": null,
+            "alias": "Mong An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4950515",
+            "lng": "107.62984370000004"
+        },
+        {
+            "id": 463099,
+            "name": "Mỹ Lam",
+            "pid": 16290,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Lam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4950515",
+            "lng": "107.62984370000004"
+        },
+        {
+            "id": 463095,
+            "name": "Phước Linh",
+            "pid": 16290,
+            "type": 16,
+            "region": null,
+            "alias": "Phước Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4950515",
+            "lng": "107.62984370000004"
+        },
+        {
+            "id": 463093,
+            "name": "Vinh Vệ",
+            "pid": 16290,
+            "type": 10,
+            "region": null,
+            "alias": "Vinh Vệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.4950515",
+            "lng": "107.62984370000004"
+        }
+    ],
+    "log_id": "67590b26271f7323"
+}

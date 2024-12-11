@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 786097,
+            "name": "Nà Canh",
+            "pid": 19834,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Canh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6844357",
+            "lng": "106.51568980000002"
+        },
+        {
+            "id": 715822,
+            "name": "Nà Pe",
+            "pid": 19834,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Pe",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6844357",
+            "lng": "106.51568980000002"
+        }
+    ],
+    "log_id": "6758133f26efb567"
+}

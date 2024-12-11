@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 828937,
+            "name": "Đường Bạch Mai",
+            "pid": 110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bạch Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9946437",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 876793,
+            "name": "Đường Đại La",
+            "pid": 110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đại La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.996060634770984",
+            "lng": "105.84796071052551"
+        },
+        {
+            "id": 830725,
+            "name": "Đường Trại Cá",
+            "pid": 110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trại Cá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9946437",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 830902,
+            "name": "Đường Trương Định",
+            "pid": 110,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trương Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9946437",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 700,
+            "name": "Nguyễn An Ninh",
+            "pid": 110,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9911133",
+            "lng": "105.84465120000004"
+        },
+        {
+            "id": 399,
+            "name": "Trương Định",
+            "pid": 110,
+            "type": 2,
+            "region": null,
+            "alias": "Trương Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9946437",
+            "lng": "105.84811160000004"
+        }
+    ],
+    "log_id": "675811bd1bfa1119"
+}

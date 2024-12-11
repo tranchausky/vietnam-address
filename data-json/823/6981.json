@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 88589,
+            "name": "Ấp 1",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.776099",
+            "lng": "106.5780894"
+        },
+        {
+            "id": 88580,
+            "name": "Ấp 2",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 88583,
+            "name": "Ấp 3",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 88592,
+            "name": "Ấp 4",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 88574,
+            "name": "Ấp An Lâm",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.25",
+            "lng": "108.133333"
+        },
+        {
+            "id": 88586,
+            "name": "Ấp Bưng Môn",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bưng Môn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7718381",
+            "lng": "106.970498"
+        },
+        {
+            "id": 88571,
+            "name": "Ấp Xóm Gốc",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Gốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7892863",
+            "lng": "106.9513838"
+        },
+        {
+            "id": 88577,
+            "name": "Ấp Xóm Trầu",
+            "pid": 6981,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Trầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.5607168",
+            "lng": "106.6497623"
+        }
+    ],
+    "log_id": "675814dd58250641"
+}

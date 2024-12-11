@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 847465,
+            "name": "Ba Tháp",
+            "pid": 15758,
+            "type": 16,
+            "region": null,
+            "alias": "Ba Tháp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.685347",
+            "lng": "109.028574"
+        },
+        {
+            "id": 847456,
+            "name": "Gò Sạn",
+            "pid": 15758,
+            "type": 16,
+            "region": null,
+            "alias": "Gò Sạn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.685347",
+            "lng": "109.028574"
+        },
+        {
+            "id": 847462,
+            "name": "Mỹ Nhơn",
+            "pid": 15758,
+            "type": 16,
+            "region": null,
+            "alias": "Mỹ Nhơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.685347",
+            "lng": "109.028574"
+        }
+    ],
+    "log_id": "675817b98bec4291"
+}

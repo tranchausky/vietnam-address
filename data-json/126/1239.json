@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 861595,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7627",
+            "lng": "106.658112"
+        },
+        {
+            "id": 679117,
+            "name": "Đường Hòa Hảo",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hòa Hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7599676",
+            "lng": "106.659948"
+        },
+        {
+            "id": 674050,
+            "name": "Đường Lê Đại Hành",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Đại Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7607053",
+            "lng": "106.65807"
+        },
+        {
+            "id": 672316,
+            "name": "Đường Lý Nam Đế",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Nam Đế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7608188",
+            "lng": "106.659596"
+        },
+        {
+            "id": 683344,
+            "name": "Đường Lý Thường Kiệt",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lý Thường Kiệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7610536",
+            "lng": "106.6607949"
+        },
+        {
+            "id": 681460,
+            "name": "Đường Nguyễn Chí Thanh",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Chí Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7579676",
+            "lng": "106.6596074"
+        },
+        {
+            "id": 683617,
+            "name": "Đường Nhật Tảo",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nhật Tảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7627627",
+            "lng": "106.6595289"
+        },
+        {
+            "id": 674869,
+            "name": "Đường Vĩnh Viễn",
+            "pid": 1239,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vĩnh Viễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7617369",
+            "lng": "106.6592551"
+        }
+    ],
+    "log_id": "6758129ae64fe637"
+}

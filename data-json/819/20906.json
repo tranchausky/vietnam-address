@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 640666,
+            "name": "Phố Bắc Sơn",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Bắc Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.347330",
+            "lng": "107.596648"
+        },
+        {
+            "id": 640636,
+            "name": "Phố Chu Văn An",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Chu Văn An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.350664",
+            "lng": "107.601757"
+        },
+        {
+            "id": 640642,
+            "name": "Phố Hà Quang Vóc",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Hà Quang Vóc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.350259",
+            "lng": "107.600439"
+        },
+        {
+            "id": 640654,
+            "name": "Phố Hoàng Ngân",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Hoàng Ngân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.352661",
+            "lng": "107.596410"
+        },
+        {
+            "id": 640657,
+            "name": "Phố Lê Hồng Phong",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.352627",
+            "lng": "107.597752"
+        },
+        {
+            "id": 640651,
+            "name": "Phố Lê Lương",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Lê Lương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.351733",
+            "lng": "107.595364"
+        },
+        {
+            "id": 640639,
+            "name": "Phố Lỷ A Coỏng",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Lỷ A Coỏng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.355651",
+            "lng": "107.593061"
+        },
+        {
+            "id": 640660,
+            "name": "Phố Minh Khai",
+            "pid": 20906,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Minh Khai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.356896",
+            "lng": "107.603758"
+        }
+    ],
+    "log_id": "675814c1dd131885"
+}

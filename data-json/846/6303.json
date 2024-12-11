@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 706006,
+            "name": "Khóm 1-Phường 11",
+            "pid": 6303,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 1-Phường 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.487881",
+            "lng": "105.583926"
+        },
+        {
+            "id": 706009,
+            "name": "Khóm 2-Phường 11",
+            "pid": 6303,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 2-Phường 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.487881",
+            "lng": "105.583926"
+        },
+        {
+            "id": 706015,
+            "name": "Khóm 4- Phường 11",
+            "pid": 6303,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 4- Phường 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.487881",
+            "lng": "105.583926"
+        },
+        {
+            "id": 706021,
+            "name": "Khóm 5- Phường 11",
+            "pid": 6303,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm 5- Phường 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.487881",
+            "lng": "105.583926"
+        },
+        {
+            "id": 987457,
+            "name": "Ql.30- Đường 30\/4, Phường 11",
+            "pid": 6303,
+            "type": 21,
+            "region": null,
+            "alias": "QL.30- Đường 30\/4, Phường 11",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.476948232732296",
+            "lng": "10.476948232732296"
+        }
+    ],
+    "log_id": "675816c06d17d584"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117407,
+            "name": "Thôn Lễ Khê Hạ",
+            "pid": 4593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lễ Khê Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8393475",
+            "lng": "105.6969788"
+        },
+        {
+            "id": 117403,
+            "name": "Thôn Lễ Khê Thượng",
+            "pid": 4593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lễ Khê Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8446256",
+            "lng": "105.6947787"
+        },
+        {
+            "id": 117405,
+            "name": "Thôn Lễ Khê Trung",
+            "pid": 4593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lễ Khê Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8454691",
+            "lng": "105.6958116"
+        },
+        {
+            "id": 117393,
+            "name": "Thôn Mới",
+            "pid": 4593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8393475",
+            "lng": "105.6969788"
+        },
+        {
+            "id": 117417,
+            "name": "Thôn Trại Cốc",
+            "pid": 4593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trại Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8381057",
+            "lng": "105.6972956"
+        },
+        {
+            "id": 117411,
+            "name": "Thôn Yên Cốc",
+            "pid": 4593,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Cốc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8381057",
+            "lng": "105.6972956"
+        },
+        {
+            "id": 54282,
+            "name": "Ubnd Xã Hồng Phong",
+            "pid": 4593,
+            "type": 4,
+            "region": null,
+            "alias": "UBND xã Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb73326724"
+}

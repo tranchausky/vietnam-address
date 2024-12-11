@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 5072,
+            "name": "Đại Đồng",
+            "pid": 41342,
+            "type": 2,
+            "region": null,
+            "alias": "Đại Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9961473",
+            "lng": "105.88291630000003"
+        },
+        {
+            "id": 829147,
+            "name": "Đường Đại Đồng",
+            "pid": 41342,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đại Đồng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.994941",
+            "lng": "105.8906859"
+        },
+        {
+            "id": 830074,
+            "name": "Đường Ngũ Nhạc",
+            "pid": 41342,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngũ Nhạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.994941",
+            "lng": "105.8906859"
+        },
+        {
+            "id": 881212,
+            "name": "Đường Nguyễn Khoái",
+            "pid": 41342,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Khoái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20,994673",
+            "lng": "105,886279"
+        },
+        {
+            "id": 666,
+            "name": "Ngọc Hồi",
+            "pid": 41342,
+            "type": 2,
+            "region": null,
+            "alias": "Ngọc Hồi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9514029",
+            "lng": "105.8440286"
+        },
+        {
+            "id": 664,
+            "name": "Thanh Lân",
+            "pid": 41342,
+            "type": 2,
+            "region": null,
+            "alias": "Thanh Lân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9907713",
+            "lng": "105.88858389999996"
+        },
+        {
+            "id": 990,
+            "name": "Tựu Liệt",
+            "pid": 41342,
+            "type": 2,
+            "region": null,
+            "alias": "Tựu Liệt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9554557",
+            "lng": "105.83478300000002"
+        }
+    ],
+    "log_id": "675811bd4a519668"
+}

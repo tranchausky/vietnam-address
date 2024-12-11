@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 951439,
+            "name": "A1 Ấp 1",
+            "pid": 1143,
+            "type": 10,
+            "region": null,
+            "alias": "A1 Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.686115",
+            "lng": "106.650737"
+        },
+        {
+            "id": 97220,
+            "name": "Ấp 1",
+            "pid": 1143,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6631912",
+            "lng": "106.6618093"
+        },
+        {
+            "id": 97223,
+            "name": "Ấp 2",
+            "pid": 1143,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.658964",
+            "lng": "106.6562402"
+        },
+        {
+            "id": 97226,
+            "name": "Ấp 3",
+            "pid": 1143,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.658964",
+            "lng": "106.6562402"
+        },
+        {
+            "id": 97229,
+            "name": "Ấp 4",
+            "pid": 1143,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6659242",
+            "lng": "106.6414365"
+        },
+        {
+            "id": 97232,
+            "name": "Ấp 5",
+            "pid": 1143,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6659242",
+            "lng": "106.6414365"
+        },
+        {
+            "id": 951437,
+            "name": "B1 Ấp 2",
+            "pid": 1143,
+            "type": 10,
+            "region": null,
+            "alias": "B1 Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.653649",
+            "lng": "106.659845"
+        },
+        {
+            "id": 680467,
+            "name": "Đường Bà Cả",
+            "pid": 1143,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bà Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6750395",
+            "lng": "106.6450216"
+        },
+        {
+            "id": 670504,
+            "name": "Đường Đa Phước",
+            "pid": 1143,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đa Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.666245",
+            "lng": "106.6586052"
+        },
+        {
+            "id": 683554,
+            "name": "Đường Linh Hòa Tự",
+            "pid": 1143,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Linh Hòa Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6624713",
+            "lng": "106.6488143"
+        },
+        {
+            "id": 983962,
+            "name": "Đường Tam Bửutự",
+            "pid": 1143,
+            "type": 10,
+            "region": null,
+            "alias": "đường Tam BửuTự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.66066594374179",
+            "lng": "106.65334761142731"
+        },
+        {
+            "id": 671209,
+            "name": "Đường Tập Đoàn 16",
+            "pid": 1143,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tập Đoàn 16",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6707527",
+            "lng": "106.6455358"
+        },
+        {
+            "id": 680509,
+            "name": "Đường Tập Đoàn Liên Doanh",
+            "pid": 1143,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tập Đoàn Liên Doanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.6513503",
+            "lng": "106.6618382"
+        }
+    ],
+    "log_id": "6758129ab7c42706"
+}

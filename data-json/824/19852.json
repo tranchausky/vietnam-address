@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 454135,
+            "name": "Ấp Hưng Điền",
+            "pid": 19852,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hưng Điền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9266748",
+            "lng": "105.5591615"
+        },
+        {
+            "id": 454137,
+            "name": "Ấp Hưng Phú",
+            "pid": 19852,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hưng Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0291938",
+            "lng": "105.7967419"
+        },
+        {
+            "id": 454139,
+            "name": "Ấp Hưng Quới",
+            "pid": 19852,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hưng Quới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5138955",
+            "lng": "106.458256"
+        }
+    ],
+    "log_id": "675814f38eca5572"
+}

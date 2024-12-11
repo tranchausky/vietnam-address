@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 530957,
+            "name": "Bản Bay",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Bay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 796459,
+            "name": "Bản Canh",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Canh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.359070300000006",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 530959,
+            "name": "Bản Đàng",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Đàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 665908,
+            "name": "Bản Na Ka",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Ka",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 530961,
+            "name": "Bản Na Ngân",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na Ngân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 530963,
+            "name": "Bản Pột",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pột",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 530965,
+            "name": "Bản Văng Môn Nm",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Văng Môn NM",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        },
+        {
+            "id": 530967,
+            "name": "Bản Xốp Kho",
+            "pid": 21415,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Xốp Kho",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.3590703",
+            "lng": "104.82211469999993"
+        }
+    ],
+    "log_id": "67581208c31df668"
+}

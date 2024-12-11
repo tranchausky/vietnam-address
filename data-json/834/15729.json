@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445491,
+            "name": "Ấp Phước Bình",
+            "pid": 15729,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.46243698617426",
+            "lng": "107.2375916061297"
+        },
+        {
+            "id": 445493,
+            "name": "Ấp Phước Hưng",
+            "pid": 15729,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.470331122800017",
+            "lng": "107.23670100118827"
+        },
+        {
+            "id": 445495,
+            "name": "Ấp Phước Lăng",
+            "pid": 15729,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.473601276979304",
+            "lng": "107.23189698128246"
+        },
+        {
+            "id": 445497,
+            "name": "Ấp Phước Nghĩa",
+            "pid": 15729,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.463953550373493",
+            "lng": "107.2282549487595"
+        },
+        {
+            "id": 445499,
+            "name": "Ấp Phước Trinh",
+            "pid": 15729,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.461104132654548",
+            "lng": "107.24846594997246"
+        },
+        {
+            "id": 445501,
+            "name": "Ấp Phước Trung",
+            "pid": 15729,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4608351",
+            "lng": "107.23708740000006"
+        },
+        {
+            "id": 957145,
+            "name": "Khu Chung Cư Gia Phát Minh Mẫn",
+            "pid": 15729,
+            "type": 4,
+            "region": null,
+            "alias": "Khu chung cư gia phát Minh Mẫn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.471813381321207",
+            "lng": "107.22590240199044"
+        },
+        {
+            "id": 954409,
+            "name": "Trường Mầm Non Bình Minh",
+            "pid": 15729,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Mầm Non Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.467615042023327",
+            "lng": "107.22746331892868"
+        },
+        {
+            "id": 954408,
+            "name": "Trường Thcs Mạc Đĩnh Chi",
+            "pid": 15729,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Mạc Đĩnh Chi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.467538370865839",
+            "lng": "107.22914386615415"
+        },
+        {
+            "id": 954410,
+            "name": "Trường Tiểu Học Tam Phước",
+            "pid": 15729,
+            "type": 9,
+            "region": null,
+            "alias": "Trường tiểu học Tam Phước",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.466641595322738",
+            "lng": "107.22961593489023"
+        }
+    ],
+    "log_id": "675815b40a0e5342"
+}

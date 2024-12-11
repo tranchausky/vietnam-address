@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 396389,
+            "name": "Bản",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Bản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        },
+        {
+            "id": 587673,
+            "name": "Huổi Pứng",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Huổi Pứng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        },
+        {
+            "id": 587670,
+            "name": "Long Tạo",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Long Tạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        },
+        {
+            "id": 509033,
+            "name": "Lùng Thàng 1",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Lùng Thàng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        },
+        {
+            "id": 587667,
+            "name": "Pá Xoan",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Pá Xoan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        },
+        {
+            "id": 587664,
+            "name": "Thôn Huổi Ít",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Huổi Ít",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        },
+        {
+            "id": 587661,
+            "name": "Thôn Lùng Thàng 2",
+            "pid": 22033,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lùng Thàng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6039",
+            "lng": "103.0254999"
+        }
+    ],
+    "log_id": "675816a56f6e7242"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 667138,
+            "name": "Đội 4 Phương Đình",
+            "pid": 4623,
+            "type": 22,
+            "region": null,
+            "alias": "đội 4 Phương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1052231",
+            "lng": "105.6441852"
+        },
+        {
+            "id": 666913,
+            "name": "Đội 5 Phương Đình",
+            "pid": 4623,
+            "type": 22,
+            "region": null,
+            "alias": "đội 5 Phương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1052231",
+            "lng": "105.6441852"
+        },
+        {
+            "id": 666916,
+            "name": "Đội 6 Phương Đình",
+            "pid": 4623,
+            "type": 22,
+            "region": null,
+            "alias": "đội 6 Phương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1063011",
+            "lng": "105.6646813"
+        },
+        {
+            "id": 667420,
+            "name": "Thôn Địch Thượng, Phương Đình, Đan Phượng",
+            "pid": 4623,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Địch Thượng, Phương Đình, Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1141049",
+            "lng": "105.6339533"
+        },
+        {
+            "id": 667411,
+            "name": "Thôn Ích Vịnh, Phương Đình, Đan Phượng",
+            "pid": 4623,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ích Vịnh, Phương Đình, Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1052231",
+            "lng": "105.6441852"
+        },
+        {
+            "id": 667414,
+            "name": "Thôn La Thạch, Phương Đình, Đan Phượng",
+            "pid": 4623,
+            "type": 16,
+            "region": null,
+            "alias": "thôn La Thạch, Phương Đình, Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1055434",
+            "lng": "105.6422111"
+        },
+        {
+            "id": 667405,
+            "name": "Thôn Phương Mạc, Phương Đình, Đan Phượng",
+            "pid": 4623,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phương Mạc, Phương Đình, Đan Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1052231",
+            "lng": "105.6441852"
+        },
+        {
+            "id": 54406,
+            "name": "Ubnd Xã Phương Đình",
+            "pid": 4623,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phương Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb97e02707"
+}

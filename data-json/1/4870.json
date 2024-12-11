@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116509,
+            "name": "Thôn Đan Thắm",
+            "pid": 4870,
+            "type": 22,
+            "region": null,
+            "alias": "Thôn Đan Thắm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.800254",
+            "lng": "20.911471"
+        },
+        {
+            "id": 116519,
+            "name": "Thôn Phương Mỹ",
+            "pid": 4870,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.795129",
+            "lng": "20.895222"
+        },
+        {
+            "id": 116523,
+            "name": "Thôn Quảng Minh",
+            "pid": 4870,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quảng Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.790300",
+            "lng": "20.915653"
+        },
+        {
+            "id": 116531,
+            "name": "Thôn Thạch Nham",
+            "pid": 4870,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thạch Nham",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.804176",
+            "lng": "20.905301"
+        },
+        {
+            "id": 116535,
+            "name": "Thôn Thiên Đông",
+            "pid": 4870,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiên Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "105.801365",
+            "lng": "20.895517"
+        },
+        {
+            "id": 55430,
+            "name": "Ubnd Xã Mỹ Hưng",
+            "pid": 4870,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Mỹ Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd71c52539"
+}

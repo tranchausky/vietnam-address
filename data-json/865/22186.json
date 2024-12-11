@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 837751,
+            "name": "Bản Lưỡi",
+            "pid": 22186,
+            "type": 21,
+            "region": null,
+            "alias": "Bản Lưỡi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1553743",
+            "lng": "105.24581109999995"
+        },
+        {
+            "id": 561999,
+            "name": "Khu Phố Nguyễn Trãi",
+            "pid": 22186,
+            "type": 10,
+            "region": null,
+            "alias": "Khu Phố Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1553743",
+            "lng": "105.24581109999997"
+        },
+        {
+            "id": 977767,
+            "name": "Khu Phố Phống Bàn",
+            "pid": 22186,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố phống bàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.140997674883533",
+            "lng": "105.23563163702336"
+        },
+        {
+            "id": 561995,
+            "name": "Phố Chiềng Trải",
+            "pid": 22186,
+            "type": 10,
+            "region": null,
+            "alias": "Phố Chiềng Trải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.1553743",
+            "lng": "105.24581109999997"
+        }
+    ],
+    "log_id": "67590a239905b996"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 449915,
+            "name": "Làng Díp",
+            "pid": 15878,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Díp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.181261",
+            "lng": "107.727711"
+        },
+        {
+            "id": 625452,
+            "name": "Làng Doch 1",
+            "pid": 15878,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Doch 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.181261",
+            "lng": "107.727711"
+        },
+        {
+            "id": 625455,
+            "name": "Làng Doch 2",
+            "pid": 15878,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Doch 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.181261",
+            "lng": "107.727711"
+        },
+        {
+            "id": 449917,
+            "name": "Làng Típ",
+            "pid": 15878,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Típ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.181261",
+            "lng": "107.727711"
+        },
+        {
+            "id": 625449,
+            "name": "Làng Tút",
+            "pid": 15878,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tút",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.181261",
+            "lng": "107.727711"
+        }
+    ],
+    "log_id": "675816d31da8e77"
+}

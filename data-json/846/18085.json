@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443499,
+            "name": "Ấp 1",
+            "pid": 18085,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.854187",
+            "lng": "105.314855"
+        },
+        {
+            "id": 443501,
+            "name": "Ấp 2",
+            "pid": 18085,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.854187",
+            "lng": "105.314855"
+        },
+        {
+            "id": 443503,
+            "name": "Ấp 6",
+            "pid": 18085,
+            "type": 17,
+            "region": null,
+            "alias": "ấp 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.854187",
+            "lng": "105.314855"
+        },
+        {
+            "id": 443497,
+            "name": "Ấp Bình Hòa Hạ",
+            "pid": 18085,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình hòa hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.854187",
+            "lng": "105.314855"
+        },
+        {
+            "id": 443505,
+            "name": "Ấp Thị",
+            "pid": 18085,
+            "type": 17,
+            "region": null,
+            "alias": "ấp thị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.854187",
+            "lng": "105.314855"
+        },
+        {
+            "id": 443507,
+            "name": "Ấp Trà Đư",
+            "pid": 18085,
+            "type": 17,
+            "region": null,
+            "alias": "ấp trà đư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.854187",
+            "lng": "105.314855"
+        }
+    ],
+    "log_id": "675816c042531207"
+}

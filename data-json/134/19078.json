@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 832471,
+            "name": "Mỏ Ám",
+            "pid": 19078,
+            "type": 16,
+            "region": null,
+            "alias": "Mỏ ám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5104621",
+            "lng": "106.19558949999998"
+        },
+        {
+            "id": 714778,
+            "name": "Thôn Làng Gia",
+            "pid": 19078,
+            "type": 16,
+            "region": null,
+            "alias": "thôn làng gia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.510934",
+            "lng": " 106.183727"
+        }
+    ],
+    "log_id": "6758133f1d294288"
+}

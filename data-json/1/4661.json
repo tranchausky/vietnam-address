@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1006819,
+            "name": "Ngõ 15 Đình Xuyên, Gia Lâm, Hà Nội",
+            "pid": 4661,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 15 Đình Xuyên, Gia Lâm, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.090283787519166",
+            "lng": "105.92818621071582"
+        },
+        {
+            "id": 1006820,
+            "name": "Ngõ 29 Đình Xuyên, Gia Lâm, Hà Nội",
+            "pid": 4661,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 29 Đình Xuyên, Gia Lâm, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.090032641006673",
+            "lng": "105.9284210522545"
+        },
+        {
+            "id": 1006825,
+            "name": "Ngõ 38 Đình Xuyên, Gia Lâm, Hà Nội",
+            "pid": 4661,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 38 Đình Xuyên, Gia Lâm, Hà Nội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.089833297765335",
+            "lng": "105.92769028952388"
+        },
+        {
+            "id": 1006822,
+            "name": "Ngõ 49 Đình Xuyên, Gia Lâm, Hà Nội",
+            "pid": 4661,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 49 Đình Xuyên, Gia Lâm, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.089771359832724",
+            "lng": "105.92881518127085"
+        },
+        {
+            "id": 1003107,
+            "name": "Ngõ 83, Đình Xuyên, Gia Lâm,",
+            "pid": 4661,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 83, Đình Xuyên, gia lâm,",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.089192",
+            "lng": "105.92926"
+        },
+        {
+            "id": 869173,
+            "name": "Nhà Văn Hóa Thôn 7",
+            "pid": 4661,
+            "type": 4,
+            "region": null,
+            "alias": "Nhà Văn Hóa Thôn 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 869167,
+            "name": "Thôn 2",
+            "pid": 4661,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 869164,
+            "name": "Thôn 4",
+            "pid": 4661,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 869161,
+            "name": "Thôn Công Đình",
+            "pid": 4661,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Công đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 923830,
+            "name": "Thôn Đình Xuyên",
+            "pid": 4661,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đình Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 869170,
+            "name": "Tòa Nhà Ybnd Xã",
+            "pid": 4661,
+            "type": 16,
+            "region": null,
+            "alias": "tòa nhà ybnd xã",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb9a0ba31"
+}

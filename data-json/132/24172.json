@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 845056,
+            "name": "Bản Cóc",
+            "pid": 24172,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Cóc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6341632",
+            "lng": "104.49853589999998"
+        },
+        {
+            "id": 827890,
+            "name": "Gốc Bục",
+            "pid": 24172,
+            "type": 16,
+            "region": null,
+            "alias": "Gốc Bục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6341632",
+            "lng": "104.49853589999998"
+        }
+    ],
+    "log_id": "6758131fbdb34919"
+}

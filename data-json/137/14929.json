@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1012707,
+            "name": "Đồng Tân",
+            "pid": 14929,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.05404700697436",
+            "lng": "105.2782917331299"
+        },
+        {
+            "id": 419185,
+            "name": "Thôn Biình Minh",
+            "pid": 14929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Biình Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0591599",
+            "lng": "105.28226240000004"
+        },
+        {
+            "id": 419181,
+            "name": "Thôn Bình An",
+            "pid": 14929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0591599",
+            "lng": "105.28226240000004"
+        },
+        {
+            "id": 419183,
+            "name": "Thôn Đồng Tâm",
+            "pid": 14929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0591599",
+            "lng": "105.28226240000004"
+        },
+        {
+            "id": 419179,
+            "name": "Thôn Nhân Lý",
+            "pid": 14929,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0591599",
+            "lng": "105.28226240000004"
+        }
+    ],
+    "log_id": "6758138a2f9bf112"
+}

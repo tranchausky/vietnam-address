@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 800335,
+            "name": "Đội 3 Phương Trù",
+            "pid": 20089,
+            "type": 22,
+            "region": null,
+            "alias": "đội 3 Phương Trù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8313956",
+            "lng": "105.98099639999998"
+        },
+        {
+            "id": 857779,
+            "name": "Mạn Xuyên",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "Mạn Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 758662,
+            "name": "Năm Mẫu",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "Năm Mẫu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8178004",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 810847,
+            "name": "Nhà Văn Hóa Mạn Xuyên",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "Nhà Văn Hóa Mạn Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8633935",
+            "lng": "105.9831236"
+        },
+        {
+            "id": 857782,
+            "name": "Phương Trù",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Trù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 629673,
+            "name": "Thôn Mạn Xuyên",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mạn xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 629679,
+            "name": "Thôn Năm Mẫu",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "thôn năm mẫu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 629667,
+            "name": "Thôn Phương Trù",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "thôn phương trù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 629670,
+            "name": "Thôn Toàn Thắng",
+            "pid": 20089,
+            "type": 16,
+            "region": null,
+            "alias": "thôn toàn thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        },
+        {
+            "id": 629676,
+            "name": "Xóm Đường",
+            "pid": 20089,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8409696",
+            "lng": "105.92592709999997"
+        }
+    ],
+    "log_id": "67581490cc260968"
+}

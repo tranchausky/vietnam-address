@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877603,
+            "name": "Ấp An Thạnh",
+            "pid": 16629,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5035433",
+            "lng": "104.93304480000006"
+        },
+        {
+            "id": 109467,
+            "name": "Ấp Sóc Tức",
+            "pid": 16629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Tức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5035433",
+            "lng": "104.93304480000006"
+        },
+        {
+            "id": 109457,
+            "name": "Ấp Trung An",
+            "pid": 16629,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trung An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5035433",
+            "lng": "104.93304480000006"
+        }
+    ],
+    "log_id": "6758159e03310183"
+}

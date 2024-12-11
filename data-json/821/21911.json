@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 581949,
+            "name": "Bản Huồi Viêng",
+            "pid": 21911,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Huồi Viêng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5854069",
+            "lng": "104.18146860000002"
+        },
+        {
+            "id": 581952,
+            "name": "Bản Pha Lếch Phay",
+            "pid": 21911,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pha Lếch Phay",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5854069",
+            "lng": "104.18146860000002"
+        },
+        {
+            "id": 581955,
+            "name": "Bản Phà Nọi",
+            "pid": 21911,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Phà Nọi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.5854069",
+            "lng": "104.18146860000002"
+        }
+    ],
+    "log_id": "6758120849753258"
+}

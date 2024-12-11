@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 445713,
+            "name": "Lạc Long Quân",
+            "pid": 6594,
+            "type": 21,
+            "region": null,
+            "alias": "Lạc Long Quân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3314365",
+            "lng": "107.08052020000002"
+        },
+        {
+            "id": 445711,
+            "name": "Nguyễn Hiền",
+            "pid": 6594,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3314365",
+            "lng": "107.08052020000002"
+        },
+        {
+            "id": 445709,
+            "name": "Võ Thị Sáu",
+            "pid": 6594,
+            "type": 21,
+            "region": null,
+            "alias": "Võ Thị Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3314365",
+            "lng": "107.08052020000002"
+        }
+    ],
+    "log_id": "675815b3e59cc257"
+}

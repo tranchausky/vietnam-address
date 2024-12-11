@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 844354,
+            "name": "Cổ Rồng",
+            "pid": 20993,
+            "type": 16,
+            "region": null,
+            "alias": "Cổ Rồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 410009,
+            "name": "Thôn Công Bồi Đông",
+            "pid": 20993,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Công Bồi Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3819419",
+            "lng": "106.49065259999998"
+        },
+        {
+            "id": 410011,
+            "name": "Thôn Công Bồi Tây",
+            "pid": 20993,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Công Bồi Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3819419",
+            "lng": "106.49065259999998"
+        },
+        {
+            "id": 410017,
+            "name": "Thôn Cổ Rồng",
+            "pid": 20993,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Cổ Rồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3819419",
+            "lng": "106.49065259999998"
+        },
+        {
+            "id": 410015,
+            "name": "Thôn Phương Trạch Đông",
+            "pid": 20993,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phương Trạch Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3819419",
+            "lng": "106.49065259999998"
+        },
+        {
+            "id": 410013,
+            "name": "Thôn Phương Trạch Tây",
+            "pid": 20993,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phương Trạch Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.3819419",
+            "lng": "106.49065259999998"
+        }
+    ],
+    "log_id": "675909f3a52ef169"
+}

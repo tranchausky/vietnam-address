@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 887353,
+            "name": "Mớ Khoắc",
+            "pid": 18344,
+            "type": 18,
+            "region": null,
+            "alias": "Mớ Khoắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000003"
+        },
+        {
+            "id": 394935,
+            "name": "Phố Bưởi",
+            "pid": 18344,
+            "type": 16,
+            "region": null,
+            "alias": "Phố Bưởi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000005"
+        },
+        {
+            "id": 394931,
+            "name": "Xóm Mớ Đá",
+            "pid": 18344,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mớ Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000005"
+        },
+        {
+            "id": 394929,
+            "name": "Xóm Mớ Đồi",
+            "pid": 18344,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mớ Đồi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000005"
+        },
+        {
+            "id": 394933,
+            "name": "Xóm Mớ Khoắc",
+            "pid": 18344,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mớ Khoắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000005"
+        },
+        {
+            "id": 394925,
+            "name": "Xóm Nội",
+            "pid": 18344,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000005"
+        },
+        {
+            "id": 394927,
+            "name": "Xóm Sào",
+            "pid": 18344,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sào",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6816771",
+            "lng": "105.52529660000005"
+        }
+    ],
+    "log_id": "675817212cc2c288"
+}

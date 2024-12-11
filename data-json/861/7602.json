@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 110427,
+            "name": "Ấp Phước An A",
+            "pid": 7602,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Phước An A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.57970",
+            "lng": "105.76537"
+        },
+        {
+            "id": 110447,
+            "name": "Ấp Phước An B",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước An B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.587826",
+            "lng": "105.747800"
+        },
+        {
+            "id": 110457,
+            "name": "Ấp Phước Lợi A",
+            "pid": 7602,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Phước Lợi A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.57314",
+            "lng": "105.70480"
+        },
+        {
+            "id": 110469,
+            "name": "Ấp Phước Lợi B",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lợi B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.602189",
+            "lng": "105.713663"
+        },
+        {
+            "id": 110451,
+            "name": "Ấp Phước Ninh",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.597253",
+            "lng": "105.728405"
+        },
+        {
+            "id": 110533,
+            "name": "Ấp Phước Thọ A",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thọ A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.6167918",
+            "lng": "105.689462"
+        },
+        {
+            "id": 110547,
+            "name": "Ấp Phước Thọ B",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thọ B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.625936",
+            "lng": "105.706131"
+        },
+        {
+            "id": 110553,
+            "name": "Ấp Phước Thọ C",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thọ C",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.632812",
+            "lng": "105.725078"
+        },
+        {
+            "id": 110571,
+            "name": "Ấp Phước Thới A",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thới A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.610218",
+            "lng": "105.696880"
+        },
+        {
+            "id": 110579,
+            "name": "Ấp Phước Thới B",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thới B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.592096",
+            "lng": "105.687675"
+        },
+        {
+            "id": 110507,
+            "name": "Ấp Phước Thuận",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.605426",
+            "lng": "105.709775"
+        },
+        {
+            "id": 110489,
+            "name": "Ấp Phước Trường A",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Trường A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.576992",
+            "lng": "105.697303"
+        },
+        {
+            "id": 110497,
+            "name": "Ấp Phước Trường B",
+            "pid": 7602,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Trường B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.570581",
+            "lng": "105.699313"
+        }
+    ],
+    "log_id": "675909c17ca37564"
+}

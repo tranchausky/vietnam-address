@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 783067,
+            "name": "Ấp Tân Định",
+            "pid": 6096,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4030921",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 783097,
+            "name": "Ấp Tân Thanh",
+            "pid": 6096,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4030921",
+            "lng": "106.4759262"
+        },
+        {
+            "id": 783070,
+            "name": "Ấp Tân Tiến",
+            "pid": 6096,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.4030921",
+            "lng": "106.4759262"
+        }
+    ],
+    "log_id": "675816218eedc638"
+}

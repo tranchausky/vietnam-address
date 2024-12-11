@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114867,
+            "name": "Ấp An Trạch Đông",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Trạch Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3003925",
+            "lng": "105.8135793"
+        },
+        {
+            "id": 114879,
+            "name": "Ấp Bờ Xáng",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bờ Xáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3161821",
+            "lng": "105.8171391"
+        },
+        {
+            "id": 114897,
+            "name": "Ấp Công Điền",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Công Điền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3039672",
+            "lng": "105.7775569"
+        },
+        {
+            "id": 114901,
+            "name": "Ấp Giáp Nước",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Giáp Nước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2723081",
+            "lng": "105.7714645"
+        },
+        {
+            "id": 114905,
+            "name": "Ấp Kim Cấu",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kim Cấu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3036187",
+            "lng": "105.7764872"
+        },
+        {
+            "id": 114911,
+            "name": "Ấp Rạch Thăng",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Rạch Thăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.28868293762207",
+            "lng": "105.75128853321075"
+        },
+        {
+            "id": 114921,
+            "name": "Ấp Thào Lạng",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thào Lạng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3122147",
+            "lng": "105.7994165"
+        },
+        {
+            "id": 114929,
+            "name": "Ấp Vĩnh An",
+            "pid": 8030,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Vĩnh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2960619",
+            "lng": "105.7562536"
+        }
+    ],
+    "log_id": "675815e1785f6603"
+}

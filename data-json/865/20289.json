@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600642,
+            "name": "Làng Lục Hải",
+            "pid": 20289,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Lục Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0392219",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 600645,
+            "name": "Làng Lục Sơn",
+            "pid": 20289,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Lục Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0392219",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 600630,
+            "name": "Làng Ngoại 1",
+            "pid": 20289,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ngoại 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0392219",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 600633,
+            "name": "Làng Ngoại 2",
+            "pid": 20289,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ngoại 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0392219",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 600636,
+            "name": "Làng Nội 1",
+            "pid": 20289,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Nội 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0392219",
+            "lng": "105.98761489999993"
+        },
+        {
+            "id": 600639,
+            "name": "Làng Nội 2",
+            "pid": 20289,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Nội 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0392219",
+            "lng": "105.98761489999993"
+        }
+    ],
+    "log_id": "67590a230dcb8496"
+}

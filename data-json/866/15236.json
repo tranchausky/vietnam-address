@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 716023,
+            "name": "50A Hùng Vương",
+            "pid": 15236,
+            "type": 4,
+            "region": null,
+            "alias": "50A Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.467616800000002",
+            "lng": "107.6057621"
+        },
+        {
+            "id": 464095,
+            "name": "Đường Đống Đa",
+            "pid": 15236,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đống Đa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.459649",
+            "lng": "107.5963782"
+        },
+        {
+            "id": 464093,
+            "name": "Đường Hà Nội",
+            "pid": 15236,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.459649",
+            "lng": "107.5963782"
+        },
+        {
+            "id": 805714,
+            "name": "Đường Nguyễn Huệ",
+            "pid": 15236,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Huệ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.459649",
+            "lng": "107.5963782"
+        },
+        {
+            "id": 464089,
+            "name": "Hùng Vương",
+            "pid": 15236,
+            "type": 21,
+            "region": null,
+            "alias": "Hùng Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.459649",
+            "lng": "107.5963782"
+        },
+        {
+            "id": 805702,
+            "name": "Nguyễn Khuyến",
+            "pid": 15236,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Khuyến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.459649",
+            "lng": "107.5963782"
+        },
+        {
+            "id": 464099,
+            "name": "Võ Văn Tần",
+            "pid": 15236,
+            "type": 21,
+            "region": null,
+            "alias": "Võ Văn Tần",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.459649",
+            "lng": "107.5963782"
+        }
+    ],
+    "log_id": "67590b262f44290"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 761197,
+            "name": "Bản Lắn",
+            "pid": 18237,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Lắn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 803044,
+            "name": "Bản Ngậm",
+            "pid": 18237,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Ngậm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 602403,
+            "name": "Bản Rón",
+            "pid": 18237,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Rón",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 809080,
+            "name": "Ngậm",
+            "pid": 18237,
+            "type": 16,
+            "region": null,
+            "alias": "Ngậm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 602406,
+            "name": "Suối Nậu",
+            "pid": 18237,
+            "type": 16,
+            "region": null,
+            "alias": "Suối Nậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 431225,
+            "name": "Tà Phù",
+            "pid": 18237,
+            "type": 10,
+            "region": null,
+            "alias": "Tà Phù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        },
+        {
+            "id": 431227,
+            "name": "Tương Liên",
+            "pid": 18237,
+            "type": 10,
+            "region": null,
+            "alias": "Tương Liên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9868594",
+            "lng": "104.87465079999993"
+        }
+    ],
+    "log_id": "675812ef20dd3460"
+}

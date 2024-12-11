@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 467933,
+            "name": "Phú An",
+            "pid": 22352,
+            "type": 16,
+            "region": null,
+            "alias": "Phú An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.252627",
+            "lng": "108.581746"
+        },
+        {
+            "id": 467929,
+            "name": "Phú Hòa",
+            "pid": 22352,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.252627",
+            "lng": "108.581746"
+        },
+        {
+            "id": 467931,
+            "name": "Phú Long",
+            "pid": 22352,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.252627",
+            "lng": "108.581746"
+        },
+        {
+            "id": 467935,
+            "name": "Phú Tài",
+            "pid": 22352,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.252627",
+            "lng": "108.581746"
+        }
+    ],
+    "log_id": "675909a4e300b354"
+}

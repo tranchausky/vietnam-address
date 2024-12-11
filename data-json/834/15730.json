@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 995876,
+            "name": "Chợ Đất Đỏ",
+            "pid": 15730,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.489851993463791",
+            "lng": "107.27099902254015"
+        },
+        {
+            "id": 995879,
+            "name": "Công Viên Nguyễn Thị Hoa",
+            "pid": 15730,
+            "type": 10,
+            "region": null,
+            "alias": "Công viên Nguyễn Thị Hoa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.488389691671077",
+            "lng": "107.2645568243964"
+        },
+        {
+            "id": 995877,
+            "name": "Công Viên Võ Thị Sáu",
+            "pid": 15730,
+            "type": 10,
+            "region": null,
+            "alias": "Công viên Võ Thị Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.48995229031365",
+            "lng": "107.27008018475932"
+        },
+        {
+            "id": 444845,
+            "name": "Khu Phố Hiệp Hòa",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hiệp Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444847,
+            "name": "Khu Phố Hòa Hội",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Hòa Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444843,
+            "name": "Khu Phố Phước Sơn",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444839,
+            "name": "Khu Phố Phước Thới",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444841,
+            "name": "Khu Phố Phước Trung",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Phước Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444853,
+            "name": "Khu Phố Thanh Bình",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Thanh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444851,
+            "name": "Khu Phố Thanh Long",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Thanh Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        },
+        {
+            "id": 444849,
+            "name": "Khu Phố Tường Thành",
+            "pid": 15730,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Tường Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4913475",
+            "lng": "107.27255049999997"
+        }
+    ],
+    "log_id": "675815b40d1ce393"
+}

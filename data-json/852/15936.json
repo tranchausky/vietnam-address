@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 836254,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 15936,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.404321",
+            "lng": "107.798396"
+        },
+        {
+            "id": 453547,
+            "name": "Làng Kleng",
+            "pid": 15936,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Kleng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4022419",
+            "lng": "107.79619320000006"
+        },
+        {
+            "id": 453537,
+            "name": "Thôn 1",
+            "pid": 15936,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4022419",
+            "lng": "107.79619320000006"
+        },
+        {
+            "id": 453539,
+            "name": "Thôn 2",
+            "pid": 15936,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4022419",
+            "lng": "107.79619320000006"
+        },
+        {
+            "id": 453541,
+            "name": "Thôn 3",
+            "pid": 15936,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4022419",
+            "lng": "107.79619320000006"
+        },
+        {
+            "id": 453543,
+            "name": "Thôn 4",
+            "pid": 15936,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4022419",
+            "lng": "107.79619320000006"
+        },
+        {
+            "id": 453545,
+            "name": "Thôn 5",
+            "pid": 15936,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.4022419",
+            "lng": "107.79619320000006"
+        }
+    ],
+    "log_id": "6758174ce0f95655"
+}

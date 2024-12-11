@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434535,
+            "name": "Ấp An Thường",
+            "pid": 7639,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Thường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7304947",
+            "lng": "106.10517049999999"
+        },
+        {
+            "id": 434531,
+            "name": "Ấp An Trung",
+            "pid": 7639,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7304947",
+            "lng": "106.10517049999999"
+        },
+        {
+            "id": 434533,
+            "name": "Ấp An Trung A",
+            "pid": 7639,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Trung A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7304947",
+            "lng": "106.10517049999999"
+        }
+    ],
+    "log_id": "675909c171d4851"
+}

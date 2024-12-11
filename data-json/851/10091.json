@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116229,
+            "name": "Ấp Bảy Biển",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bảy Biển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.823861",
+            "lng": "104.950833"
+        },
+        {
+            "id": 116259,
+            "name": "Ấp Đồng Giữa",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đồng Giữa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.793444",
+            "lng": "104.967278"
+        },
+        {
+            "id": 116243,
+            "name": "Ấp Thái Hoà",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thái Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.802083",
+            "lng": "104.953541"
+        },
+        {
+            "id": 116079,
+            "name": "Ấp Xẻo Đôi",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Đôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.834972",
+            "lng": "104.935167"
+        },
+        {
+            "id": 116185,
+            "name": "Ấp Xẻo Quao A",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Quao A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.845417",
+            "lng": "104.915361"
+        },
+        {
+            "id": 116195,
+            "name": "Ấp Xẻo Quao B",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Quao B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.814278",
+            "lng": "104.928083"
+        },
+        {
+            "id": 116217,
+            "name": "Ấp Xẻo Vẹt",
+            "pid": 10091,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xẻo Vẹt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.818500",
+            "lng": "104.971278"
+        }
+    ],
+    "log_id": "6758173635492671"
+}

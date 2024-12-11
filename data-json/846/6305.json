@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015648,
+            "name": "Đmx Đồng Tháp - Cao Lãnh 2",
+            "pid": 6305,
+            "type": 10,
+            "region": null,
+            "alias": "ĐMX Đồng Tháp - Cao Lãnh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.466918",
+            "lng": "105.625299"
+        },
+        {
+            "id": 443433,
+            "name": "Khóm Thuận An",
+            "pid": 6305,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Thuận An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4659127",
+            "lng": "105.61926029999995"
+        },
+        {
+            "id": 443431,
+            "name": "Khóm Thuận Phát",
+            "pid": 6305,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Thuận Phát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4659127",
+            "lng": "105.61926029999995"
+        },
+        {
+            "id": 443429,
+            "name": "Khóm Thuận Trung",
+            "pid": 6305,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm Thuận Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4659127",
+            "lng": "105.61926029999995"
+        },
+        {
+            "id": 866359,
+            "name": "Thuận Nghĩa",
+            "pid": 6305,
+            "type": 21,
+            "region": null,
+            "alias": "Thuận Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4659127",
+            "lng": "105.61926029999997"
+        }
+    ],
+    "log_id": "675816c06d5c6450"
+}

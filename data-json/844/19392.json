@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 725116,
+            "name": ".Phú Hưng",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": ".phú Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 727588,
+            "name": "Phú Hoà",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 731515,
+            "name": "Phú Lợi",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 731503,
+            "name": "Phú Sơn",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 731518,
+            "name": "Phú Thuận",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 731509,
+            "name": "Phú Trung",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 731497,
+            "name": "Phú Vinh",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Vinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        },
+        {
+            "id": 764743,
+            "name": "Thôn Phú Xuân",
+            "pid": 19392,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.236597",
+            "lng": "108.022629"
+        }
+    ],
+    "log_id": "6758169126f72900"
+}

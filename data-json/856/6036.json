@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 563591,
+            "name": "Phố Phúc Sơn 1",
+            "pid": 6036,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phúc Sơn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.241771",
+            "lng": "105.96628800000008"
+        },
+        {
+            "id": 802588,
+            "name": "Phố Phúc Son2",
+            "pid": 6036,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phúc Son2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2392144",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 563593,
+            "name": "Phố Phúc Sơn 2",
+            "pid": 6036,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Phúc Sơn 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.241771",
+            "lng": "105.96628800000008"
+        },
+        {
+            "id": 563597,
+            "name": "Thôn Cổ Loan Hạ",
+            "pid": 6036,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Loan Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2392144",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 563595,
+            "name": "Thôn Cổ Loan Thượng",
+            "pid": 6036,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ loan Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2392144",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 563599,
+            "name": "Thôn Cổ Loan Trung",
+            "pid": 6036,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Loan Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2392144",
+            "lng": "105.95236219999992"
+        },
+        {
+            "id": 563601,
+            "name": "Thôn Hoàng Sơn",
+            "pid": 6036,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.2392144",
+            "lng": "105.95236219999992"
+        }
+    ],
+    "log_id": "67581798d6ec5740"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 948101,
+            "name": "Công Ty May Minh Anh",
+            "pid": 20026,
+            "type": 4,
+            "region": null,
+            "alias": "CÔNG TY MAY MINH ANH",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.927269308269256, 106.05777421213145",
+            "lng": "20.927269308269256, 106.05777421213145"
+        },
+        {
+            "id": 954626,
+            "name": "Công Ty May Yên Mỹ",
+            "pid": 20026,
+            "type": 10,
+            "region": null,
+            "alias": "công ty may Yên Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.926776331080703, 106.06530250629149",
+            "lng": "20.926776331080703, 106.06530250629149"
+        },
+        {
+            "id": 701278,
+            "name": "Kcn Dệt May Phố Nối B",
+            "pid": 20026,
+            "type": 4,
+            "region": null,
+            "alias": "KCN dệt may Phố Nối B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9276465",
+            "lng": "106.04932259999998"
+        },
+        {
+            "id": 630396,
+            "name": "Thôn Thanh Xá",
+            "pid": 20026,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thanh xá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9276465",
+            "lng": "106.04932259999998"
+        },
+        {
+            "id": 630402,
+            "name": "Thôn Yên Lão",
+            "pid": 20026,
+            "type": 16,
+            "region": null,
+            "alias": "thôn yên lão",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9276465",
+            "lng": "106.04932259999998"
+        },
+        {
+            "id": 630399,
+            "name": "Thôn Yên Thổ",
+            "pid": 20026,
+            "type": 16,
+            "region": null,
+            "alias": "thôn yên thổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9276465",
+            "lng": "106.04932259999998"
+        }
+    ],
+    "log_id": "675814912fe32904"
+}

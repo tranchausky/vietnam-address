@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 827872,
+            "name": "Ấp Bắc 1",
+            "pid": 6574,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bắc 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3554847",
+            "lng": "106.7573946"
+        },
+        {
+            "id": 599106,
+            "name": "Âp Bắc 2",
+            "pid": 6574,
+            "type": 17,
+            "region": null,
+            "alias": "Âp Bắc 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3554847",
+            "lng": "106.7573946"
+        },
+        {
+            "id": 599100,
+            "name": "Âp Hộ",
+            "pid": 6574,
+            "type": 17,
+            "region": null,
+            "alias": "Âp Hộ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3554847",
+            "lng": "106.7573946"
+        },
+        {
+            "id": 599109,
+            "name": "Âp Nam",
+            "pid": 6574,
+            "type": 17,
+            "region": null,
+            "alias": "Âp Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3554847",
+            "lng": "106.7573946"
+        },
+        {
+            "id": 599103,
+            "name": "Âp Trung",
+            "pid": 6574,
+            "type": 17,
+            "region": null,
+            "alias": "Âp Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3554847",
+            "lng": "106.7573946"
+        },
+        {
+            "id": 599112,
+            "name": "Rạch Bùn",
+            "pid": 6574,
+            "type": 17,
+            "region": null,
+            "alias": "Rạch Bùn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3554847",
+            "lng": "106.7573946"
+        }
+    ],
+    "log_id": "675814f3ae524616"
+}

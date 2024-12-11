@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455701,
+            "name": "Thôn Đồng Dày",
+            "pid": 17605,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Dày",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.729641",
+            "lng": "108.93833770000003"
+        },
+        {
+            "id": 455703,
+            "name": "Thôn Rã Giữa",
+            "pid": 17605,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Rã Giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.729641",
+            "lng": "108.93833770000003"
+        },
+        {
+            "id": 455705,
+            "name": "Thôn Rã Trên",
+            "pid": 17605,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Rã Trên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.729641",
+            "lng": "108.93833770000003"
+        },
+        {
+            "id": 455707,
+            "name": "Thôn Tham Dú",
+            "pid": 17605,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tham Dú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.729641",
+            "lng": "108.93833770000003"
+        }
+    ],
+    "log_id": "675817b97981b239"
+}

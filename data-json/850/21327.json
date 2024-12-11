@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 839998,
+            "name": "Xóm Bả",
+            "pid": 21327,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Bả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6088483",
+            "lng": "105.22212569999999"
+        },
+        {
+            "id": 423131,
+            "name": "Xóm Bậy Chạo",
+            "pid": 21327,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bậy chạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6088483",
+            "lng": "105.22212569999999"
+        },
+        {
+            "id": 423127,
+            "name": "Xóm Đồi Lò",
+            "pid": 21327,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đồi lò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6088483",
+            "lng": "105.22212569999999"
+        }
+    ],
+    "log_id": "67581720e908670"
+}

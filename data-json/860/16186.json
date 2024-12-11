@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 632154,
+            "name": "Thạch Trụ Đông",
+            "pid": 16186,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch Trụ Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8958599",
+            "lng": "108.91672440000002"
+        },
+        {
+            "id": 632151,
+            "name": "Thạch Trụ Tây",
+            "pid": 16186,
+            "type": 16,
+            "region": null,
+            "alias": "Thạch Trụ Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8958599",
+            "lng": "108.91672440000002"
+        },
+        {
+            "id": 632145,
+            "name": "Tú Sơn 1",
+            "pid": 16186,
+            "type": 16,
+            "region": null,
+            "alias": "Tú Sơn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8958599",
+            "lng": "108.91672440000002"
+        },
+        {
+            "id": 632148,
+            "name": "Tú Sơn 2",
+            "pid": 16186,
+            "type": 16,
+            "region": null,
+            "alias": "Tú Sơn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.8958599",
+            "lng": "108.91672440000002"
+        }
+    ],
+    "log_id": "675909a513b11433"
+}

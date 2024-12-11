@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116323,
+            "name": "Ấp Cái Chanh",
+            "pid": 18107,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cái Chanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.551779",
+            "lng": "105.310009"
+        },
+        {
+            "id": 116325,
+            "name": "Ấp Cái Nhum",
+            "pid": 18107,
+            "type": 17,
+            "region": null,
+            "alias": "ấp cái nhum",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.540050",
+            "lng": "105.324443"
+        },
+        {
+            "id": 116327,
+            "name": "Ấp Ruộng Sạ",
+            "pid": 18107,
+            "type": 17,
+            "region": null,
+            "alias": "ấp ruộng sạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.478493",
+            "lng": "105.291109"
+        },
+        {
+            "id": 116329,
+            "name": "Ấp Thạnh Đông",
+            "pid": 18107,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Thạnh Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.536121",
+            "lng": "105.292684"
+        },
+        {
+            "id": 116321,
+            "name": "Ấp Vĩnh Thạnh",
+            "pid": 18107,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.539915",
+            "lng": "105.288538"
+        }
+    ],
+    "log_id": "675817363ba4c43"
+}

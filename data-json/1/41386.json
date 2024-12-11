@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829186,
+            "name": "Đường Đặng Vũ Hỷ",
+            "pid": 41386,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Vũ Hỷ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0655013",
+            "lng": "105.88831370000003"
+        },
+        {
+            "id": 829399,
+            "name": "Đường Gia Quất",
+            "pid": 41386,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Gia Quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0655013",
+            "lng": "105.88831370000003"
+        },
+        {
+            "id": 955303,
+            "name": "Đường Gia Thượng",
+            "pid": 41386,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Gia Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.069784",
+            "lng": "105.879718"
+        },
+        {
+            "id": 830614,
+            "name": "Đường Thanh Am",
+            "pid": 41386,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thanh Am",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.048956",
+            "lng": "105.88628119999998"
+        },
+        {
+            "id": 830677,
+            "name": "Đường Thượng Thanh",
+            "pid": 41386,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thượng Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0655013",
+            "lng": "105.88831370000003"
+        }
+    ],
+    "log_id": "675811bd41fe7816"
+}

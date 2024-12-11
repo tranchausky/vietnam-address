@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1787,
+            "name": "Huyện Bắc Hà",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bắc Hà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4965469",
+            "lng": "104.33264400000007"
+        },
+        {
+            "id": 1788,
+            "name": "Huyện Bảo Thắng",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bảo Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.3266996",
+            "lng": "104.14660460000005"
+        },
+        {
+            "id": 1789,
+            "name": "Huyện Bảo Yên",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bảo Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2763301",
+            "lng": "104.44903980000004"
+        },
+        {
+            "id": 1790,
+            "name": "Huyện Bát Xát",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bát Xát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.5539336",
+            "lng": "103.68258600000001"
+        },
+        {
+            "id": 1791,
+            "name": "Huyện Mường Khương",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Mường Khương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6785309",
+            "lng": "104.12336670000002"
+        },
+        {
+            "id": 1793,
+            "name": "Huyện Si Ma Cai",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Si Ma Cai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.6659838",
+            "lng": "104.26285099999996"
+        },
+        {
+            "id": 1794,
+            "name": "Huyện Văn Bàn",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Văn Bàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0894109",
+            "lng": "104.19309180000005"
+        },
+        {
+            "id": 1795,
+            "name": "Thành Phố Lào Cai",
+            "pid": 808,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Lào Cai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4458835",
+            "lng": "104.00377639999999"
+        },
+        {
+            "id": 1792,
+            "name": "Thị Xã Sa Pa",
+            "pid": 808,
+            "type": 7,
+            "region": null,
+            "alias": "Thị xã Sa Pa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2497168",
+            "lng": "103.9608091"
+        }
+    ],
+    "log_id": "67581444ad877954"
+}

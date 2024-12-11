@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 419999,
+            "name": "Thôn Đồng Bào",
+            "pid": 17176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Bào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9012845",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 419997,
+            "name": "Thôn Đồng Chí",
+            "pid": 17176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Chí",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9012845",
+            "lng": "105.62659080000003"
+        },
+        {
+            "id": 419995,
+            "name": "Thôn Đồng Minh",
+            "pid": 17176,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9012845",
+            "lng": "105.62659080000003"
+        }
+    ],
+    "log_id": "67590a23a8156689"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54826,
+            "name": "Trường Mầm Non",
+            "pid": 4729,
+            "type": 17,
+            "region": null,
+            "alias": "trường mầm non",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 120463,
+            "name": "Vĩnh Lạc",
+            "pid": 4729,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7700304",
+            "lng": "105.7021123"
+        },
+        {
+            "id": 120465,
+            "name": "Vĩnh Xương",
+            "pid": 4729,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Xương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.790182",
+            "lng": "105.7035791"
+        }
+    ],
+    "log_id": "675811bc46a6f676"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 765982,
+            "name": "Đội 11 Thôn Chử Xá",
+            "pid": 4199,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 11 Thôn Chử Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 765988,
+            "name": "Đội 12 Thôn Chử Xá",
+            "pid": 4199,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 12 Thôn Chử Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 765997,
+            "name": "Đội 14 Chử Xá",
+            "pid": 4199,
+            "type": 22,
+            "region": null,
+            "alias": "đội 14 Chử Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 765991,
+            "name": "Đội 15 Chử Xá",
+            "pid": 4199,
+            "type": 22,
+            "region": null,
+            "alias": "đội 15 Chử Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 765994,
+            "name": "Đội 16 Sơn Hô",
+            "pid": 4199,
+            "type": 22,
+            "region": null,
+            "alias": "đội 16 Sơn Hô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 784948,
+            "name": "Thôn Chử Xá",
+            "pid": 4199,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chử xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 765985,
+            "name": "Thôn Sơn Hô",
+            "pid": 4199,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Sơn Hô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9396212",
+            "lng": "105.89362240000004"
+        },
+        {
+            "id": 661171,
+            "name": "Thôn Trung Quan",
+            "pid": 4199,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Quan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.947238",
+            "lng": "105.8972931"
+        }
+    ],
+    "log_id": "675811bb9c5a2899"
+}

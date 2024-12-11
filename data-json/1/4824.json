@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 928684,
+            "name": "Thon Đong Phú Minh",
+            "pid": 4824,
+            "type": 16,
+            "region": null,
+            "alias": "Thon đong Phú Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1990662",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 53370,
+            "name": "Thpt Dl Nguyễn Thượng Hiền",
+            "pid": 4824,
+            "type": 9,
+            "region": null,
+            "alias": "THPT DL Nguyễn Thượng Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 996191,
+            "name": "Trại Cá",
+            "pid": 4824,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Cá",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55298,
+            "name": "Ubnd Xã Phú Minh",
+            "pid": 4824,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Phú Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 898276,
+            "name": "Ủy Ban Phú Minh",
+            "pid": 4824,
+            "type": 16,
+            "region": null,
+            "alias": "Ủy Ban Phú Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2295659",
+            "lng": "105.81604449999998"
+        },
+        {
+            "id": 928687,
+            "name": "Xóm Đoài",
+            "pid": 4824,
+            "type": 18,
+            "region": null,
+            "alias": "xóm Đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2046739",
+            "lng": "105.78793710000002"
+        }
+    ],
+    "log_id": "675811bc455c3350"
+}

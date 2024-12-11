@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758692,
+            "name": "Đồng Tiến",
+            "pid": 20094,
+            "type": 10,
+            "region": null,
+            "alias": "đồng Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8327581",
+            "lng": "106.01156000000003"
+        },
+        {
+            "id": 629745,
+            "name": "Thôn An Lạc",
+            "pid": 20094,
+            "type": 16,
+            "region": null,
+            "alias": "thôn an lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8327581",
+            "lng": "106.01156000000003"
+        },
+        {
+            "id": 629748,
+            "name": "Thôn Kim Tháp",
+            "pid": 20094,
+            "type": 16,
+            "region": null,
+            "alias": "thôn kim tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8327581",
+            "lng": "106.01156000000003"
+        },
+        {
+            "id": 629751,
+            "name": "Thôn Thổ",
+            "pid": 20094,
+            "type": 16,
+            "region": null,
+            "alias": "thôn thổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8327581",
+            "lng": "106.01156000000003"
+        }
+    ],
+    "log_id": "67581490beeb8310"
+}

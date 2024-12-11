@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 93746,
+            "name": "Ấp Dốc Mơ 1",
+            "pid": 7064,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Dốc Mơ 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.062690",
+            "lng": "107.132254"
+        },
+        {
+            "id": 93752,
+            "name": "Ấp Dốc Mơ 2",
+            "pid": 7064,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Dốc Mơ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.071553",
+            "lng": "107.178799"
+        },
+        {
+            "id": 93755,
+            "name": "Ấp Dốc Mơ 3",
+            "pid": 7064,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Dốc Mơ 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.065668",
+            "lng": "107.165803"
+        }
+    ],
+    "log_id": "675814dd39b47799"
+}

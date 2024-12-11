@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015113,
+            "name": "Huyên Trương",
+            "pid": 16953,
+            "type": 17,
+            "region": null,
+            "alias": "Huyên trương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.2002281847196",
+            "lng": " 105.86356423817564"
+        },
+        {
+            "id": 784513,
+            "name": "Thôn Khuổi Dấm",
+            "pid": 16953,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Khuổi Dấm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.205344600000004",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 784516,
+            "name": "Thôn Nà Ngăm",
+            "pid": 16953,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Ngăm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.205344600000004",
+            "lng": "105.87013159999992"
+        },
+        {
+            "id": 834445,
+            "name": "Thôn Nà Xỏm",
+            "pid": 16953,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà Xỏm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.205344600000004",
+            "lng": "105.87013159999992"
+        }
+    ],
+    "log_id": "675815c92cf23622"
+}

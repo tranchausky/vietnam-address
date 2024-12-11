@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 526137,
+            "name": "Phượng Lịch 1",
+            "pid": 20249,
+            "type": 18,
+            "region": null,
+            "alias": "Phượng Lịch 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "18.9906983",
+            "lng": "105.58554379999998"
+        },
+        {
+            "id": 666082,
+            "name": "Xóm 6",
+            "pid": 20249,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.9906983",
+            "lng": "105.58554379999998"
+        }
+    ],
+    "log_id": "6758120838468709"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 113411,
+            "name": "Ấp Bắc Đai",
+            "pid": 16569,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bắc Đai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.929619",
+            "lng": "105.068607"
+        },
+        {
+            "id": 113481,
+            "name": "Ấp Búng Lớn",
+            "pid": 16569,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Búng Lớn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.895934",
+            "lng": "105.088670"
+        },
+        {
+            "id": 113437,
+            "name": "Ấp Tắc Trúc",
+            "pid": 16569,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tắc Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.895934",
+            "lng": "105.050733"
+        }
+    ],
+    "log_id": "6758159ddc870159"
+}

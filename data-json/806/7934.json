@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 608328,
+            "name": "Ấp Nhơn Bình",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 608331,
+            "name": "Ấp Nhơn Bình A",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Bình A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 754348,
+            "name": "Ấp Nhơn Phú",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.6969788"
+        },
+        {
+            "id": 608316,
+            "name": "Ấp Nhơn Thọ 1",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Thọ 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 608319,
+            "name": "Ấp Nhơn Thọ 1A",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Thọ 1A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 608322,
+            "name": "Ấp Nhơn Thọ 2",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Thọ 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        },
+        {
+            "id": 608325,
+            "name": "Ấp Nhơn Thọ 2A",
+            "pid": 7934,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Thọ 2A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9689882",
+            "lng": "105.69697880000001"
+        }
+    ],
+    "log_id": "6758140cc2a6a797"
+}

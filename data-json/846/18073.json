@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 833260,
+            "name": "Khóm An Lợi",
+            "pid": 18073,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm An Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.797626199999998",
+            "lng": "105.35117360000004"
+        },
+        {
+            "id": 116919,
+            "name": "Khóm An Tài",
+            "pid": 18073,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm An Tài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7976262",
+            "lng": "105.35117360000004"
+        },
+        {
+            "id": 116911,
+            "name": "Khóm An Thạnh A",
+            "pid": 18073,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm An Thạnh A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7976262",
+            "lng": "105.35117360000004"
+        },
+        {
+            "id": 116913,
+            "name": "Khóm An Thạnh B",
+            "pid": 18073,
+            "type": 21,
+            "region": null,
+            "alias": "Khóm An Thạnh B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7976262",
+            "lng": "105.35117360000004"
+        }
+    ],
+    "log_id": "675816c06b079228"
+}

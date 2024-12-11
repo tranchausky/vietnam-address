@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 919132,
+            "name": "Ấp Vĩnh Bình",
+            "pid": 7237,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5240194",
+            "lng": "106.41176199999997"
+        },
+        {
+            "id": 884470,
+            "name": "Châu Văn Bảy",
+            "pid": 7237,
+            "type": 10,
+            "region": null,
+            "alias": "Châu Văn Bảy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5240194",
+            "lng": "106.41176199999997"
+        },
+        {
+            "id": 852373,
+            "name": "Công Ty Sen Vang",
+            "pid": 7237,
+            "type": 10,
+            "region": null,
+            "alias": "công ty Sen Vang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.5240194",
+            "lng": "106.41176199999995"
+        },
+        {
+            "id": 712579,
+            "name": "Khu Phố An Thuận 1",
+            "pid": 7237,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố an thuận 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712582,
+            "name": "Khu Phố An Thuận 2",
+            "pid": 7237,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố an thuận 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.54152610.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712573,
+            "name": "Khu Phố Bình An 1",
+            "pid": 7237,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố bình an 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        },
+        {
+            "id": 712576,
+            "name": "Khu Phố Bình An 2",
+            "pid": 7237,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố bình an 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.541526",
+            "lng": "10.541526"
+        }
+    ],
+    "log_id": "675817851bcd8261"
+}

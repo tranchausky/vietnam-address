@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599694,
+            "name": "Ấp Bình Cách 1",
+            "pid": 6566,
+            "type": 17,
+            "region": null,
+            "alias": "ấp bình cách 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3417297",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 599697,
+            "name": "Bình Cách 2",
+            "pid": 6566,
+            "type": 17,
+            "region": null,
+            "alias": "Bình Cách 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3417297",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 599688,
+            "name": "Long Bình",
+            "pid": 6566,
+            "type": 17,
+            "region": null,
+            "alias": "Long Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3417297",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 599685,
+            "name": "Phú Quới",
+            "pid": 6566,
+            "type": 17,
+            "region": null,
+            "alias": "Phú Quới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3417297",
+            "lng": "106.63502500000004"
+        },
+        {
+            "id": 599691,
+            "name": "Thạnh Phong",
+            "pid": 6566,
+            "type": 17,
+            "region": null,
+            "alias": "Thạnh Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.3417297",
+            "lng": "106.63502500000004"
+        }
+    ],
+    "log_id": "675814f3dd753944"
+}

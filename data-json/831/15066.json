@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 457365,
+            "name": "Bắc",
+            "pid": 15066,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4238748",
+            "lng": "109.0096562"
+        },
+        {
+            "id": 843601,
+            "name": "Thôn Nam",
+            "pid": 15066,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4238748",
+            "lng": "109.0096562"
+        },
+        {
+            "id": 457367,
+            "name": "Trung",
+            "pid": 15066,
+            "type": 16,
+            "region": null,
+            "alias": "Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.4644609",
+            "lng": "109.039911"
+        }
+    ],
+    "log_id": "67581585c00da698"
+}

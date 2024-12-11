@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 965858,
+            "name": "Ấp Bàu Càm",
+            "pid": 19273,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bàu Càm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2973749",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 965857,
+            "name": "Ấp Bàu Cừ",
+            "pid": 19273,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bàu Cừ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2973749",
+            "lng": "106.69398030000002"
+        },
+        {
+            "id": 965859,
+            "name": "Ấp Xóm Quạt",
+            "pid": 19273,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Xóm Quạt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2973749",
+            "lng": "106.69398030000002"
+        }
+    ],
+    "log_id": "6758162187ce3842"
+}

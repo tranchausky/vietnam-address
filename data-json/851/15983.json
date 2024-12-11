@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115879,
+            "name": "Ấp Ba Biển",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ba Biển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.855722",
+            "lng": "105.028667"
+        },
+        {
+            "id": 115889,
+            "name": "Ấp Ba Biển A",
+            "pid": 15983,
+            "type": 4,
+            "region": null,
+            "alias": "Ấp Ba Biển A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.882750",
+            "lng": "104.997611"
+        },
+        {
+            "id": 115901,
+            "name": "Ấp Ba Biển B",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ba Biển B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.880083",
+            "lng": "104.998472"
+        },
+        {
+            "id": 115951,
+            "name": "Ấp Bàu Trâm",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Trâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.841583 ",
+            "lng": "105.044417"
+        },
+        {
+            "id": 115865,
+            "name": "Ấp Hai Biển",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hai Biển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.885917",
+            "lng": "105.031194"
+        },
+        {
+            "id": 115855,
+            "name": "Ấp Hai Trong",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hai Trong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.885917",
+            "lng": "105.031194"
+        },
+        {
+            "id": 115859,
+            "name": "Ấp Hai Xáng",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hai Xáng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.859056",
+            "lng": "105.058917"
+        },
+        {
+            "id": 115911,
+            "name": "Ấp Yên Bình",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Yên Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.829722",
+            "lng": "105.065389"
+        },
+        {
+            "id": 115925,
+            "name": "Ấp Yên Lợi",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Yên Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.850722",
+            "lng": "105.049417"
+        },
+        {
+            "id": 115943,
+            "name": "Ấp Yên Quý",
+            "pid": 15983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Yên Quý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.879500",
+            "lng": "105.020778"
+        }
+    ],
+    "log_id": "67581736355d1429"
+}

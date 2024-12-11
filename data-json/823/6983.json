@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91868,
+            "name": "Ấp 1",
+            "pid": 6983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.68496475593641",
+            "lng": "107.04745418441956"
+        },
+        {
+            "id": 88520,
+            "name": "Ấp 2",
+            "pid": 6983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 88517,
+            "name": "Ấp 3",
+            "pid": 6983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 91871,
+            "name": "Ấp 4",
+            "pid": 6983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6922571",
+            "lng": "107.05091"
+        },
+        {
+            "id": 91874,
+            "name": "Ấp 5",
+            "pid": 6983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.690514083115865",
+            "lng": "107.04568473462639"
+        },
+        {
+            "id": 88511,
+            "name": "Ấp 6",
+            "pid": 6983,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.696178821842516",
+            "lng": "107.06115334915567"
+        },
+        {
+            "id": 768022,
+            "name": "Khu Láng Đế",
+            "pid": 6983,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Láng đế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.6984529",
+            "lng": "107.05984910000004"
+        }
+    ],
+    "log_id": "675814dd5d6dc108"
+}

@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1014594,
+            "name": "12\/1 Trần Hưng Đạo",
+            "pid": 8000,
+            "type": 10,
+            "region": null,
+            "alias": "12\/1 Trần Hưng Đạo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.357250579232602, ",
+            "lng": "105.45652050538968"
+        },
+        {
+            "id": 1014593,
+            "name": "18 Trần Hưng Đạo",
+            "pid": 8000,
+            "type": 10,
+            "region": null,
+            "alias": "18 Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.361445773759687,",
+            "lng": "105.45818883966761"
+        },
+        {
+            "id": 1018783,
+            "name": "Bv Hạnh Phúc",
+            "pid": 8000,
+            "type": 6,
+            "region": null,
+            "alias": "BV Hạnh Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.355142752782632, ",
+            "lng": "105.46529243119474"
+        },
+        {
+            "id": 115643,
+            "name": "Khóm An Hưng",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm An Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116399,
+            "name": "Khóm An Thới",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm An Thới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116411,
+            "name": "Khóm Long Hưng 1",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Long Hưng 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116415,
+            "name": "Khóm Long Hưng 2",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Long Hưng 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116393,
+            "name": "Khóm Tây An",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Tây An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116407,
+            "name": "Khóm Tây Thạnh",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Tây Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116401,
+            "name": "Khóm Thạnh An",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Thạnh An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116405,
+            "name": "Khóm Trung An",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Trung An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 115647,
+            "name": "Khóm Trung Hưng",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Trung Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        },
+        {
+            "id": 116391,
+            "name": "Khóm Trung Thạnh",
+            "pid": 8000,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Trung Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.3562421",
+            "lng": "105.45820460000004"
+        }
+    ],
+    "log_id": "6758159dc2145871"
+}

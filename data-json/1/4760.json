@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101381,
+            "name": "Thôn Bái Đô",
+            "pid": 4760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bái Đô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'11.1\"N",
+            "lng": "105°57'30.4\"E"
+        },
+        {
+            "id": 101303,
+            "name": "Thôn Hoàng Nguyên",
+            "pid": 4760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'23.4\"N",
+            "lng": "105°57'39.5\"E"
+        },
+        {
+            "id": 1009689,
+            "name": "Thôn Nhân Sơn",
+            "pid": 4760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nhân Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.702089176219044",
+            "lng": "105.95253856502336"
+        },
+        {
+            "id": 101234,
+            "name": "Thôn Tri Thuỷ",
+            "pid": 4760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tri Thuỷ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°42'47.8\"N",
+            "lng": "105°56'50.9\"E"
+        },
+        {
+            "id": 101189,
+            "name": "Thôn Vĩnh Ninh",
+            "pid": 4760,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vĩnh Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°41'49.7\"N",
+            "lng": "105°57'25.3\"E"
+        },
+        {
+            "id": 53718,
+            "name": "Thpt Phú Xuyên B",
+            "pid": 4760,
+            "type": 22,
+            "region": null,
+            "alias": "THPT Phú Xuyên B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.70905408579103, ",
+            "lng": "105.94127781124588"
+        },
+        {
+            "id": 54986,
+            "name": "Ubnd Xã Tri Thủy",
+            "pid": 4760,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tri Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.698797025531267",
+            "lng": "105.95586642320929"
+        }
+    ],
+    "log_id": "675811bcd5131341"
+}

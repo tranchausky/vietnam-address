@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 799204,
+            "name": "Thôn Nam Yên",
+            "pid": 16960,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Nam Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1954545",
+            "lng": "105.91124239999999"
+        },
+        {
+            "id": 784519,
+            "name": "Thôn Ngoàn",
+            "pid": 16960,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngoàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1954545",
+            "lng": "105.9112424"
+        },
+        {
+            "id": 839776,
+            "name": "Thôn Pác Thiên",
+            "pid": 16960,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Pác Thiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1954545",
+            "lng": "105.9112424"
+        }
+    ],
+    "log_id": "675815c9256af980"
+}

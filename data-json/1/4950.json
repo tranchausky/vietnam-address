@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 101642,
+            "name": "An Phú",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "An Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6668787",
+            "lng": "105.7828011"
+        },
+        {
+            "id": 101609,
+            "name": "Đặng Giang",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Đặng Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6746404",
+            "lng": "105.7850022"
+        },
+        {
+            "id": 101531,
+            "name": "Dư Xá Hạ",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Dư Xá Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6746404",
+            "lng": "105.7850022"
+        },
+        {
+            "id": 101654,
+            "name": "Lương Sơn",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6746404",
+            "lng": "105.7850022"
+        },
+        {
+            "id": 101600,
+            "name": "Nam Hòa 1",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6746404",
+            "lng": "105.7850022"
+        },
+        {
+            "id": 101606,
+            "name": "Nam Hòa 2",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6716425",
+            "lng": "105.7783496"
+        },
+        {
+            "id": 101624,
+            "name": "Quán Xá",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Quán Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6746404",
+            "lng": "105.7850022"
+        },
+        {
+            "id": 101615,
+            "name": "Thống Nhất",
+            "pid": 4950,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6758442",
+            "lng": "105.7798664"
+        },
+        {
+            "id": 55786,
+            "name": "Ubnd Xã Hòa Phú",
+            "pid": 4950,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hòa Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bd3f7db199"
+}

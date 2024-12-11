@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 480019,
+            "name": "Ấp Long An",
+            "pid": 6255,
+            "type": 17,
+            "region": null,
+            "alias": "ấp long an",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9237001",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 480021,
+            "name": "Ấp Long An A",
+            "pid": 6255,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Long An A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9237001",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 480023,
+            "name": "Ấp Long An B",
+            "pid": 6255,
+            "type": 5,
+            "region": null,
+            "alias": "Ấp Long An B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9237001",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 480025,
+            "name": "Ấp Tân An",
+            "pid": 6255,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9237001",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 480027,
+            "name": "Ấp Tân Phú",
+            "pid": 6255,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9237001",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 480029,
+            "name": "Ấp Tân Phú A",
+            "pid": 6255,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Phú A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.9237001",
+            "lng": "105.7380511"
+        },
+        {
+            "id": 878617,
+            "name": "Bưu Điện Cái Tắc",
+            "pid": 6255,
+            "type": 17,
+            "region": null,
+            "alias": "Bưu điện Cái Tắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675816fe44cef377"
+}

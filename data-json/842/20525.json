@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 834721,
+            "name": "Bản Nhăng",
+            "pid": 20525,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Nhăng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7456562",
+            "lng": "106.62986720000004"
+        },
+        {
+            "id": 505179,
+            "name": "Ubnd Xã Đức Quang",
+            "pid": 20525,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Xã Đức Quang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7456562",
+            "lng": "106.62986720000004"
+        },
+        {
+            "id": 400055,
+            "name": "Xóm Coỏng Hoài",
+            "pid": 20525,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Coỏng Hoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7456562",
+            "lng": "106.62986720000004"
+        },
+        {
+            "id": 400057,
+            "name": "Xóm Đoàn Kết",
+            "pid": 20525,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7456562",
+            "lng": "106.62986720000004"
+        },
+        {
+            "id": 400061,
+            "name": "Xóm Nà Ran",
+            "pid": 20525,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Ran",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7456562",
+            "lng": "106.62986720000004"
+        },
+        {
+            "id": 400063,
+            "name": "Xóm Nà Sao",
+            "pid": 20525,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Sao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.7456562",
+            "lng": "106.62986720000004"
+        }
+    ],
+    "log_id": "67581662ac742140"
+}

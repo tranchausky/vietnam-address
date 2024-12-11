@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514015,
+            "name": "Thôn Thiệu Mỹ",
+            "pid": 17726,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thiệu Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8344389",
+            "lng": "106.47744290000003"
+        },
+        {
+            "id": 514017,
+            "name": "Thôn Thuần Mỹ",
+            "pid": 17726,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thuần Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8344389",
+            "lng": "106.47744290000003"
+        },
+        {
+            "id": 514021,
+            "name": "Thôn Tú Y",
+            "pid": 17726,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tú Y",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8344389",
+            "lng": "106.47744290000003"
+        }
+    ],
+    "log_id": "675813f1c91b0295"
+}

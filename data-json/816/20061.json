@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630612,
+            "name": "Thôn Cảnh Lâm",
+            "pid": 20061,
+            "type": 16,
+            "region": null,
+            "alias": "thôn cảnh lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8512507",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 630618,
+            "name": "Thôn Giã Cầu",
+            "pid": 20061,
+            "type": 16,
+            "region": null,
+            "alias": "thôn giã cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8512507",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 630615,
+            "name": "Thôn Hoan Ái",
+            "pid": 20061,
+            "type": 16,
+            "region": null,
+            "alias": "thôn hoan ái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8512507",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 630621,
+            "name": "Thôn Lãng Cầu",
+            "pid": 20061,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lãng cầu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8512507",
+            "lng": "106.06107870000005"
+        },
+        {
+            "id": 630609,
+            "name": "Thôn Yến Đô",
+            "pid": 20061,
+            "type": 16,
+            "region": null,
+            "alias": "thôn yến đô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8512507",
+            "lng": "106.06107870000005"
+        }
+    ],
+    "log_id": "675814912356e41"
+}

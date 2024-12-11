@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117533,
+            "name": "Chúc Lý",
+            "pid": 4599,
+            "type": 16,
+            "region": null,
+            "alias": "Chúc Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9198545",
+            "lng": "105.6962454"
+        },
+        {
+            "id": 807427,
+            "name": "Công Ty K + K",
+            "pid": 4599,
+            "type": 5,
+            "region": null,
+            "alias": "Công ty K + K",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.915812",
+            "lng": "105.68524550000004"
+        },
+        {
+            "id": 117535,
+            "name": "Ngọc Giả",
+            "pid": 4599,
+            "type": 4,
+            "region": null,
+            "alias": "Ngọc Giả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.922835",
+            "lng": " 105.698621"
+        },
+        {
+            "id": 117543,
+            "name": "Non Nông",
+            "pid": 4599,
+            "type": 16,
+            "region": null,
+            "alias": "Non Nông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.924297",
+            "lng": " 105.680179"
+        },
+        {
+            "id": 117537,
+            "name": "Thôn Cả",
+            "pid": 4599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.915812",
+            "lng": "105.6852455"
+        },
+        {
+            "id": 117541,
+            "name": "Thôn Cầu",
+            "pid": 4599,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9245264",
+            "lng": "105.6793505"
+        },
+        {
+            "id": 54294,
+            "name": "Ubnd Xã Ngọc Hòa",
+            "pid": 4599,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Ngọc Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb69584812"
+}

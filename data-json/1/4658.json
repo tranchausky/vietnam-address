@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 36049,
+            "name": "Làng Cam",
+            "pid": 4658,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Cam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0105208",
+            "lng": "105.95294100000001"
+        },
+        {
+            "id": 36045,
+            "name": "Làng Vàng",
+            "pid": 4658,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Vàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0105208",
+            "lng": "105.95294100000001"
+        },
+        {
+            "id": 36053,
+            "name": "Thôn Hội",
+            "pid": 4658,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0105208",
+            "lng": "105.95294100000001"
+        }
+    ],
+    "log_id": "675811bb999ac54"
+}

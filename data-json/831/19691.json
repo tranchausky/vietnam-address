@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118787,
+            "name": "Thôn Bố Lang",
+            "pid": 19691,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bố Lang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.209694",
+            "lng": "108.763278"
+        },
+        {
+            "id": 118791,
+            "name": "Thôn Giang Biên",
+            "pid": 19691,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giang Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.227694",
+            "lng": "108.793611"
+        }
+    ],
+    "log_id": "67581585a4d3d35"
+}

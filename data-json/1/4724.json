@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120371,
+            "name": "Ải",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "Ải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6690058",
+            "lng": "105.702982"
+        },
+        {
+            "id": 120373,
+            "name": "Phú Hiền",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.668867",
+            "lng": "105.6991789"
+        },
+        {
+            "id": 120369,
+            "name": "Thọ",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6653996",
+            "lng": "105.7131132"
+        },
+        {
+            "id": 778696,
+            "name": "Thôn Thôn Vân",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Thôn Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6727806",
+            "lng": "105.71164640000006"
+        },
+        {
+            "id": 842827,
+            "name": "Thôn Vân",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6727806",
+            "lng": "105.71164640000006"
+        },
+        {
+            "id": 53630,
+            "name": "Thpt Hợp Thanh",
+            "pid": 4724,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Hợp Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 54886,
+            "name": "Ubnd Xã Hợp Thanh",
+            "pid": 4724,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Hợp Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 120365,
+            "name": "Vài",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "Vài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6690058",
+            "lng": "105.702982"
+        },
+        {
+            "id": 120375,
+            "name": "Vài Mới",
+            "pid": 4724,
+            "type": 16,
+            "region": null,
+            "alias": "Vài Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6690058",
+            "lng": "105.702982"
+        }
+    ],
+    "log_id": "675811bc194e9487"
+}

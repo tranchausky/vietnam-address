@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442855,
+            "name": "Ấp An Bình",
+            "pid": 16094,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309874",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 442857,
+            "name": "Ấp An Khương",
+            "pid": 16094,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Khương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309874",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 442851,
+            "name": "Ấp An Lợi A",
+            "pid": 16094,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Lợi A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309874",
+            "lng": "105.55329929999994"
+        },
+        {
+            "id": 442853,
+            "name": "Ấp An Lợi B",
+            "pid": 16094,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Lợi B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.309874",
+            "lng": "105.55329929999994"
+        }
+    ],
+    "log_id": "675816c07671b475"
+}

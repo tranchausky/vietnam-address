@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 861403,
+            "name": "Đường Ba Tháng Hai",
+            "pid": 1234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ba Tháng Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.75778",
+            "lng": "106.648677"
+        },
+        {
+            "id": 676171,
+            "name": "Đường Hàn Hải Nguyên",
+            "pid": 1234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Hải Nguyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7582772",
+            "lng": "106.6454542"
+        },
+        {
+            "id": 681811,
+            "name": "Đường Minh Phụng",
+            "pid": 1234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Minh Phụng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7564747",
+            "lng": "106.6435107"
+        },
+        {
+            "id": 680236,
+            "name": "Đường Phú Thọ",
+            "pid": 1234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phú Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7566544",
+            "lng": "106.6418374"
+        },
+        {
+            "id": 677185,
+            "name": "Đường Thái Phiên",
+            "pid": 1234,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thái Phiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7582641",
+            "lng": "106.6458408"
+        },
+        {
+            "id": 956164,
+            "name": "Hẻm 329 Minh Phụng, Phường 2, Quận 11",
+            "pid": 1234,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 329 Minh Phụng, Phường 2, Quận 11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.75681",
+            "lng": "106.643577"
+        },
+        {
+            "id": 956163,
+            "name": "Hẻm 347 Minh Phụng, Phường 2, Quận 11",
+            "pid": 1234,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 347 Minh Phụng, Phường 2, Quận 11",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.757752",
+            "lng": "106.64374"
+        }
+    ],
+    "log_id": "6758129ae7bf9312"
+}

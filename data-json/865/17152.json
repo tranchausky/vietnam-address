@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559659,
+            "name": "Thôn Chuế 1",
+            "pid": 17152,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chuế 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8753027",
+            "lng": "105.9141793"
+        },
+        {
+            "id": 559655,
+            "name": "Thôn Chuế 2",
+            "pid": 17152,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn chuế 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8753027",
+            "lng": "105.9141793"
+        },
+        {
+            "id": 827770,
+            "name": "Thôn Đoài",
+            "pid": 17152,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đoài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8753027",
+            "lng": "105.9141793"
+        },
+        {
+            "id": 559657,
+            "name": "Thôn Hùng Tiến",
+            "pid": 17152,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hùng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8753027",
+            "lng": "105.9141793"
+        },
+        {
+            "id": 741934,
+            "name": "Thôn Trung Ngoại",
+            "pid": 17152,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn trung ngoại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.8975441",
+            "lng": "105.79674190000004"
+        }
+    ],
+    "log_id": "67590a2375208311"
+}

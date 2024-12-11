@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 442223,
+            "name": "Ấp Hội Thành",
+            "pid": 7506,
+            "type": 17,
+            "region": null,
+            "alias": "ấp hội thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.128848138247674",
+            "lng": "106.31386004272034"
+        },
+        {
+            "id": 442227,
+            "name": "Ấp Phú Quới",
+            "pid": 7506,
+            "type": 17,
+            "region": null,
+            "alias": "ấp phú quới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.129847120738066",
+            "lng": "106.32726729491479"
+        },
+        {
+            "id": 442229,
+            "name": "Ấp Tân Lộc",
+            "pid": 7506,
+            "type": 17,
+            "region": null,
+            "alias": "ấp tân lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.122271868265582",
+            "lng": "106.31380028456536"
+        },
+        {
+            "id": 442225,
+            "name": "Ấp Vĩnh Hòa",
+            "pid": 7506,
+            "type": 17,
+            "region": null,
+            "alias": "ấp vĩnh hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.1281178",
+            "lng": "106.31400499999995"
+        }
+    ],
+    "log_id": "6758160def162145"
+}

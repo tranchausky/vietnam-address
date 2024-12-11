@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 89546,
+            "name": "Ấp 1",
+            "pid": 7049,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.776099",
+            "lng": "106.5780894"
+        },
+        {
+            "id": 89549,
+            "name": "Ấp 2",
+            "pid": 7049,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7324808",
+            "lng": "106.8528691"
+        },
+        {
+            "id": 89552,
+            "name": "Ấp 3",
+            "pid": 7049,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 89558,
+            "name": "Ấp Bầu Sen",
+            "pid": 7049,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bầu Sen",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9187546",
+            "lng": "107.2016295"
+        },
+        {
+            "id": 990679,
+            "name": "Đường Quách Thị Trang",
+            "pid": 7049,
+            "type": 17,
+            "region": null,
+            "alias": "Đường Quách Thị Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.704688155153814",
+            "lng": "106.83622465954814"
+        }
+    ],
+    "log_id": "675814dd49c7f458"
+}

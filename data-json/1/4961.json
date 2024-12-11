@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 99884,
+            "name": "Hoàng Dương",
+            "pid": 4961,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7579716",
+            "lng": "105.7226479"
+        },
+        {
+            "id": 99875,
+            "name": "Nghi Lộc",
+            "pid": 4961,
+            "type": 16,
+            "region": null,
+            "alias": "Nghi Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7507265",
+            "lng": "105.7226479"
+        },
+        {
+            "id": 55734,
+            "name": "Ubnd Xã Sơn Công",
+            "pid": 4961,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Sơn Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 99860,
+            "name": "Vĩnh Hạ",
+            "pid": 4961,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7434814",
+            "lng": "105.7226479"
+        },
+        {
+            "id": 99845,
+            "name": "Vĩnh Thượng",
+            "pid": 4961,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7484298",
+            "lng": "105.7006456"
+        }
+    ],
+    "log_id": "675811bd3d41461"
+}

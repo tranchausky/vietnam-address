@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 832354,
+            "name": "Dốc Mới 2",
+            "pid": 19090,
+            "type": 16,
+            "region": null,
+            "alias": "Dốc Mới 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.494435100000004",
+            "lng": "106.34932240000002"
+        },
+        {
+            "id": 832360,
+            "name": "Nhị Hà",
+            "pid": 19090,
+            "type": 16,
+            "region": null,
+            "alias": "Nhị Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.494435100000004",
+            "lng": "106.34932240000002"
+        },
+        {
+            "id": 714754,
+            "name": "Thôn Ngòi Na",
+            "pid": 19090,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngòi na",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.498498",
+            "lng": " 106.343168"
+        },
+        {
+            "id": 832357,
+            "name": "Trường Sơn",
+            "pid": 19090,
+            "type": 16,
+            "region": null,
+            "alias": "Trường Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.494435100000004",
+            "lng": "106.34932240000002"
+        }
+    ],
+    "log_id": "6758133f23087724"
+}

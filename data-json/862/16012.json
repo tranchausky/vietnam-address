@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112615,
+            "name": "Khu Phố Long Đại",
+            "pid": 16012,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Long Đại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.289191",
+            "lng": "106.149684"
+        },
+        {
+            "id": 112531,
+            "name": "Khu Phố Long Mỹ",
+            "pid": 16012,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Long Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.292793",
+            "lng": "106.134968"
+        },
+        {
+            "id": 112439,
+            "name": "Khu Phố Long Tân",
+            "pid": 16012,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Long Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.281065",
+            "lng": "106.138093"
+        },
+        {
+            "id": 112695,
+            "name": "Khu Phố Long Thời",
+            "pid": 16012,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Long Thời",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.283975",
+            "lng": "106.133906"
+        },
+        {
+            "id": 990901,
+            "name": "Khu Phố Sân Cu",
+            "pid": 16012,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố Sân Cu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.291059",
+            "lng": "106.145937"
+        }
+    ],
+    "log_id": "675909dce305d60"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 115433,
+            "name": "Khóm 1",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3045688",
+            "lng": "105.73299150000003"
+        },
+        {
+            "id": 115439,
+            "name": "Khóm 5",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.233014599999999,",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 115447,
+            "name": "Khóm 6",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.233014599999999",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 115457,
+            "name": "Khóm 7",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.233014599999999",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 115469,
+            "name": "Khóm 8",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.233014599999999",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 115477,
+            "name": "Khóm 9",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.233014599999999",
+            "lng": "105.69404540000005"
+        },
+        {
+            "id": 115481,
+            "name": "Khóm 10",
+            "pid": 8023,
+            "type": 17,
+            "region": null,
+            "alias": "Khóm 10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.233014599999999",
+            "lng": "105.69404540000005"
+        }
+    ],
+    "log_id": "675815e177c5a390"
+}

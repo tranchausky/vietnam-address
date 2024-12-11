@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462029,
+            "name": "Cao Cựu",
+            "pid": 21162,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Cựu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7298634",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 462021,
+            "name": "Hợp Hòa",
+            "pid": 21162,
+            "type": 16,
+            "region": null,
+            "alias": "Hợp Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7298634",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 462025,
+            "name": "Nhân Hòa",
+            "pid": 21162,
+            "type": 16,
+            "region": null,
+            "alias": "Nhân Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7298634",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 462027,
+            "name": "Thanh Tân",
+            "pid": 21162,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7298634",
+            "lng": "106.38464590000001"
+        },
+        {
+            "id": 462023,
+            "name": "Vĩnh Phú",
+            "pid": 21162,
+            "type": 16,
+            "region": null,
+            "alias": "Vĩnh Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7298634",
+            "lng": "106.38464590000001"
+        }
+    ],
+    "log_id": "675814aa0626a510"
+}

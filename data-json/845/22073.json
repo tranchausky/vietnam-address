@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 587982,
+            "name": "Bản Nậm Tắt 1",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Tắt 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 587985,
+            "name": "Bản Nậm Tắt 2",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Tắt 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 587988,
+            "name": "Bản Nương",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 587991,
+            "name": "Bản Pá Kha",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pá Kha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 509227,
+            "name": "Ngài Thầu",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Ngài Thầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 509225,
+            "name": "Ngài Thầu 1",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Ngài thầu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 587979,
+            "name": "Ngài Thầu 2",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Ngài Thầu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        },
+        {
+            "id": 587994,
+            "name": "Thôn Nà Bủng 2",
+            "pid": 22073,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nà bủng 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.8075872",
+            "lng": "102.76613700000007"
+        }
+    ],
+    "log_id": "675816a5985a1526"
+}

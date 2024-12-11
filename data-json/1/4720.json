@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120417,
+            "name": "Thượng Tiết",
+            "pid": 4720,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng TIết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.655347",
+            "lng": "105.750695"
+        },
+        {
+            "id": 120415,
+            "name": "Trinh Tiết",
+            "pid": 4720,
+            "type": 16,
+            "region": null,
+            "alias": "Trinh Tiết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6681108",
+            "lng": "105.7695951"
+        },
+        {
+            "id": 54858,
+            "name": "Ubnd Xã Đại Hưng",
+            "pid": 4720,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đại Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc1ae2b611"
+}

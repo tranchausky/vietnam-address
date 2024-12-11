@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 515505,
+            "name": "Duẩn Khê",
+            "pid": 20000,
+            "type": 16,
+            "region": null,
+            "alias": "Duẩn Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974726",
+            "lng": "106.53842830000008"
+        },
+        {
+            "id": 515507,
+            "name": "Ngư Uyên",
+            "pid": 20000,
+            "type": 16,
+            "region": null,
+            "alias": "Ngư Uyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.974726",
+            "lng": "106.53842830000008"
+        }
+    ],
+    "log_id": "675813f179912994"
+}

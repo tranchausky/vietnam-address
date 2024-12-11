@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 417711,
+            "name": "Thôn Ba Cầu",
+            "pid": 24181,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ba Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5651104",
+            "lng": "104.65295200000003"
+        },
+        {
+            "id": 417707,
+            "name": "Thôn Bu Cao",
+            "pid": 24181,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Bu Cao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5651104",
+            "lng": "104.65295200000003"
+        },
+        {
+            "id": 417709,
+            "name": "Thôn Bu Thấp",
+            "pid": 24181,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bu Thấp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.5651104",
+            "lng": "104.65295200000003"
+        }
+    ],
+    "log_id": "6758131fa5bec276"
+}

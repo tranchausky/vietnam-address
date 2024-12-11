@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 810112,
+            "name": "An Thông",
+            "pid": 16824,
+            "type": 16,
+            "region": null,
+            "alias": "An Thông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000005"
+        },
+        {
+            "id": 886417,
+            "name": "Hoàng Văn Thái",
+            "pid": 16824,
+            "type": 20,
+            "region": null,
+            "alias": "Hoàng Văn Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 700183,
+            "name": "Khu 4",
+            "pid": 16824,
+            "type": 9,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 737947,
+            "name": "Sa Long",
+            "pid": 16824,
+            "type": 16,
+            "region": null,
+            "alias": "Sa Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 737944,
+            "name": "Thôn Đông Ngàn",
+            "pid": 16824,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Ngàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 807091,
+            "name": "Thôn Tiên Hưng",
+            "pid": 16824,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tiên Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 764911,
+            "name": "Thôn Văn Tự",
+            "pid": 16824,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Tự",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 792826,
+            "name": "Trường Chinh",
+            "pid": 16824,
+            "type": 18,
+            "region": null,
+            "alias": "Trường Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        },
+        {
+            "id": 792829,
+            "name": "Tự Do",
+            "pid": 16824,
+            "type": 18,
+            "region": null,
+            "alias": "Tự Do",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3553478",
+            "lng": "105.97942450000004"
+        }
+    ],
+    "log_id": "675813d911fb977"
+}

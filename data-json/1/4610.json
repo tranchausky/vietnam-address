@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54314,
+            "name": "Ubnd Xã Tốt Động",
+            "pid": 4610,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tốt Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 117687,
+            "name": "Xóm Bến",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "xóm bến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2070493",
+            "lng": "105.8767381"
+        },
+        {
+            "id": 117673,
+            "name": "Xóm Cả",
+            "pid": 4610,
+            "type": 20,
+            "region": null,
+            "alias": "Xóm cả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.558156,",
+            "lng": "106.4980162"
+        },
+        {
+            "id": 117679,
+            "name": "Xóm Đầm",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đầm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1483028",
+            "lng": "105.8092161"
+        },
+        {
+            "id": 117681,
+            "name": "Xóm Đừn",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đừn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.2009448",
+            "lng": "105.7945406"
+        },
+        {
+            "id": 117685,
+            "name": "Xóm Leo",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "xóm leo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8780374",
+            "lng": "105.6736047"
+        },
+        {
+            "id": 117675,
+            "name": "Xóm Mát",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8873215",
+            "lng": "105.6566489"
+        },
+        {
+            "id": 117671,
+            "name": "Xóm Mới",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8834097",
+            "lng": "105.6636144"
+        },
+        {
+            "id": 117677,
+            "name": "Xóm Tròn",
+            "pid": 4610,
+            "type": 18,
+            "region": null,
+            "alias": "xóm tròn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8811599",
+            "lng": "105.6682688"
+        }
+    ],
+    "log_id": "675811bb743fd303"
+}

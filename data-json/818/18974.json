@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616362,
+            "name": "Thôn An Xá",
+            "pid": 18974,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2517947",
+            "lng": "106.75000249999994"
+        },
+        {
+            "id": 616356,
+            "name": "Thôn Hà Cạn",
+            "pid": 18974,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hà Cạn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2517947",
+            "lng": "106.75000249999994"
+        },
+        {
+            "id": 616359,
+            "name": "Thôn Tuy Lộc",
+            "pid": 18974,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tuy Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.2517947",
+            "lng": "106.75000249999994"
+        }
+    ],
+    "log_id": "675814a9d0fce463"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 650686,
+            "name": "Làng Giọt 2-",
+            "pid": 18448,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Giọt 2-",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8507924",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 862216,
+            "name": "Làng Kon Giang",
+            "pid": 18448,
+            "type": 16,
+            "region": null,
+            "alias": "làng kon giang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8507924",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 862213,
+            "name": "Làng Kon Giọt",
+            "pid": 18448,
+            "type": 16,
+            "region": null,
+            "alias": "làng kon giọt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8507924",
+            "lng": "108.81950119999999"
+        },
+        {
+            "id": 650692,
+            "name": "Thôn Giọt 1",
+            "pid": 18448,
+            "type": 16,
+            "region": null,
+            "alias": "thôn giọt 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8507924",
+            "lng": "108.81950119999999"
+        }
+    ],
+    "log_id": "6758150db06c477"
+}

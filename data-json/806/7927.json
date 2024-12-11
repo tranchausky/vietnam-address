@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1006591,
+            "name": "509A\/19 Quốc Lộ 91B",
+            "pid": 7927,
+            "type": 8,
+            "region": null,
+            "alias": "509A\/19 Quốc lộ 91B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.05510457100333",
+            "lng": "105.71594382245355"
+        },
+        {
+            "id": 1006917,
+            "name": "Cà Phê Thiên Thanh",
+            "pid": 7927,
+            "type": 21,
+            "region": null,
+            "alias": "cà phê thiên thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.05607907368591",
+            "lng": "105.74670615415924"
+        },
+        {
+            "id": 1005983,
+            "name": "Cầu Rạch Súc 91B",
+            "pid": 7927,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu rạch súc 91B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.040103029040448",
+            "lng": "105.74093923779627"
+        },
+        {
+            "id": 1006918,
+            "name": "Cầu Rạch Xúc Võ Văn Kiệt",
+            "pid": 7927,
+            "type": 21,
+            "region": null,
+            "alias": "Cầu rạch xúc võ văn kiệt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.059520040298946",
+            "lng": "105.74207188197508"
+        },
+        {
+            "id": 1005982,
+            "name": "Cây Xăng Số 9",
+            "pid": 7927,
+            "type": 21,
+            "region": null,
+            "alias": "Cây xăng số 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.044556942302323",
+            "lng": "105.735130566632"
+        },
+        {
+            "id": 1006315,
+            "name": "Cty Nhựa Trung Nghĩa",
+            "pid": 7927,
+            "type": 21,
+            "region": null,
+            "alias": "Cty nhựa Trung Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.044799135301705",
+            "lng": "105.73434833594635"
+        }
+    ],
+    "log_id": "6758140c8a413663"
+}

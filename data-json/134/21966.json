@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 846574,
+            "name": "Khuổi Vai",
+            "pid": 21966,
+            "type": 16,
+            "region": null,
+            "alias": "Khuổi Vai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3666912",
+            "lng": "106.22279679999995"
+        },
+        {
+            "id": 501329,
+            "name": "Thôn Vàng Can",
+            "pid": 21966,
+            "type": 16,
+            "region": null,
+            "alias": "thôn vàng can",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.3666912",
+            "lng": "106.22279679999997"
+        }
+    ],
+    "log_id": "6758133f7f035752"
+}

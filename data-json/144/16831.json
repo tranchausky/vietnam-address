@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 705223,
+            "name": "An Cập",
+            "pid": 16831,
+            "type": 16,
+            "region": null,
+            "alias": "An Cập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3810096",
+            "lng": "105.97292549999996"
+        },
+        {
+            "id": 698614,
+            "name": "Bảo An",
+            "pid": 16831,
+            "type": 16,
+            "region": null,
+            "alias": "Bảo An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3810096",
+            "lng": "105.97292549999996"
+        },
+        {
+            "id": 698608,
+            "name": "Hoàng Liên",
+            "pid": 16831,
+            "type": 16,
+            "region": null,
+            "alias": "Hoàng Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.3810096",
+            "lng": "105.97292549999996"
+        }
+    ],
+    "log_id": "675813d915700113"
+}

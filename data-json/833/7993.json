@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1010307,
+            "name": "Bùi Văn Danh",
+            "pid": 7993,
+            "type": 21,
+            "region": null,
+            "alias": "Bùi Văn Danh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.381806874880679, ",
+            "lng": "105.43116222943014"
+        },
+        {
+            "id": 116479,
+            "name": "Khóm Đông Phú",
+            "pid": 7993,
+            "type": 21,
+            "region": null,
+            "alias": "khóm Đông Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.375451",
+            "lng": "105.436114"
+        }
+    ],
+    "log_id": "6758159dc18af682"
+}

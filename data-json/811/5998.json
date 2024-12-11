@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 893413,
+            "name": "Chùa Cả",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Chùa Cả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525309,
+            "name": "Đường Hàn Thuyên",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hàn Thuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525311,
+            "name": "Đường Lê Hồng Phong",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525313,
+            "name": "Đường Ngõ Gốc Mít",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngõ Gốc Mít",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525317,
+            "name": "Đường Trần Nhân Tông",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Nhân Tông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525319,
+            "name": "Đường Trần Nhật Duật",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Nhật Duật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 971499,
+            "name": "Đường Trường Chinh",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.437037171622503",
+            "lng": "106.1793376361873"
+        },
+        {
+            "id": 525321,
+            "name": "Đường Vị Xuyên",
+            "pid": 5998,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vị Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7dad4342"
+}

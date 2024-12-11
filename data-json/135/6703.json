@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 412175,
+            "name": "Thôn Đại Lộc",
+            "pid": 6703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đại Lộc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6944172",
+            "lng": "106.72051540000007"
+        },
+        {
+            "id": 412173,
+            "name": "Thôn Đông Tác",
+            "pid": 6703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Tác",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6944172",
+            "lng": "106.72051540000007"
+        },
+        {
+            "id": 412171,
+            "name": "Thôn Quần Mục",
+            "pid": 6703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quần Mục",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6944172",
+            "lng": "106.72051540000007"
+        },
+        {
+            "id": 412169,
+            "name": "Thôn Việt Tiến",
+            "pid": 6703,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Việt Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6944172",
+            "lng": "106.72051540000007"
+        }
+    ],
+    "log_id": "6758136642bf127"
+}

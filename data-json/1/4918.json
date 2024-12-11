@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 112989,
+            "name": "Đội 10",
+            "pid": 4918,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 10",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9518836 ",
+            "lng": "105.9056889"
+        },
+        {
+            "id": 55626,
+            "name": "Ubnd Xã Tự Nhiên",
+            "pid": 4918,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Tự Nhiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 112869,
+            "name": "Xóm 1",
+            "pid": 4918,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8484119",
+            "lng": "105.9054887"
+        },
+        {
+            "id": 112877,
+            "name": "Xóm 2",
+            "pid": 4918,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8436418",
+            "lng": "105.9004945"
+        },
+        {
+            "id": 112907,
+            "name": "Xóm 3",
+            "pid": 4918,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8515604",
+            "lng": "105.9036715"
+        },
+        {
+            "id": 112913,
+            "name": "Xóm 4",
+            "pid": 4918,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8583468",
+            "lng": "105.9259271"
+        },
+        {
+            "id": 112933,
+            "name": "Xóm 6",
+            "pid": 4918,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 6",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980278,
+            "name": "Xóm 9, Xã Tự Nhiên, Thường Tín",
+            "pid": 4918,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 9, xã Tự Nhiên, Thường Tín",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.860355279700272",
+            "lng": "105.92454301120162"
+        }
+    ],
+    "log_id": "675811bc7253f317"
+}

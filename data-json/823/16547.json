@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94352,
+            "name": "Ấp 1",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.231991",
+            "lng": "107.378755"
+        },
+        {
+            "id": 94361,
+            "name": "Ấp 2",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.249051",
+            "lng": "107.340716"
+        },
+        {
+            "id": 94364,
+            "name": "Ấp 3",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.208632",
+            "lng": "107.362394"
+        },
+        {
+            "id": 94376,
+            "name": "Ấp 4",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.216186",
+            "lng": "107.361731"
+        },
+        {
+            "id": 94382,
+            "name": "Ấp 5",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.328344",
+            "lng": "107.396822"
+        },
+        {
+            "id": 94394,
+            "name": "Ấp Ba Tầng",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ba Tầng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.328344",
+            "lng": "107.396822"
+        },
+        {
+            "id": 94409,
+            "name": "Ấp Suối Soong 1",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Soong 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.249006",
+            "lng": "107.338801"
+        },
+        {
+            "id": 94415,
+            "name": "Ấp Suối Soong 2",
+            "pid": 16547,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Suối Soong 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.249006",
+            "lng": "107.338801"
+        }
+    ],
+    "log_id": "675814dd52276458"
+}

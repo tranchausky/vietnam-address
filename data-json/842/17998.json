@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 818182,
+            "name": "Đông Luông",
+            "pid": 17998,
+            "type": 18,
+            "region": null,
+            "alias": "Đông Luông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8149525",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 507009,
+            "name": "Xóm Bản Súm",
+            "pid": 17998,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Súm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8149525",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 507011,
+            "name": "Xóm Làn Hoài",
+            "pid": 17998,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Làn Hoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8149525",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 507013,
+            "name": "Xóm Lũng Nọc",
+            "pid": 17998,
+            "type": 10,
+            "region": null,
+            "alias": "Xóm Lũng Nọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8149525",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 507015,
+            "name": "Xóm Lũng Tung",
+            "pid": 17998,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lũng Tung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8149525",
+            "lng": "106.3640398"
+        },
+        {
+            "id": 507017,
+            "name": "Xóm Nà Ngỏn",
+            "pid": 17998,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Ngỏn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.8149525",
+            "lng": "106.3640398"
+        }
+    ],
+    "log_id": "675816629aae0482"
+}

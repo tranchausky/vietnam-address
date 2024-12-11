@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 807346,
+            "name": "Liễu Châu, Phú Châu",
+            "pid": 4566,
+            "type": 16,
+            "region": null,
+            "alias": "Liễu Châu, Phú Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.2067429",
+            "lng": "105.42730929999992"
+        },
+        {
+            "id": 826576,
+            "name": "Thôn Phú Xuyên 2",
+            "pid": 4566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Phú Xuyên 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2378481",
+            "lng": "105.43609630000003"
+        },
+        {
+            "id": 54130,
+            "name": "Tòa Nhà Ubnd Xã Phú Châu",
+            "pid": 4566,
+            "type": 4,
+            "region": null,
+            "alias": "Tòa nhà UBND xã Phú Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bb8aa86596"
+}

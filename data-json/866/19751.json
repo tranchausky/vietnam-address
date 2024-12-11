@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462587,
+            "name": "Thôn A Tia 1",
+            "pid": 19751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A Tia 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3353635",
+            "lng": "107.23708740000006"
+        },
+        {
+            "id": 462589,
+            "name": "Thôn A Tia 2",
+            "pid": 19751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A Tia 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3353635",
+            "lng": "107.23708740000006"
+        },
+        {
+            "id": 462591,
+            "name": "Thôn Đụt 1",
+            "pid": 19751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đụt 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3353635",
+            "lng": "107.23708740000006"
+        },
+        {
+            "id": 462593,
+            "name": "Thôn Đụt 2",
+            "pid": 19751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đụt 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.3353635",
+            "lng": "107.23708740000006"
+        }
+    ],
+    "log_id": "67590b265207b964"
+}

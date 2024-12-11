@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 977779,
+            "name": "Công Ty Ny Hoa Việt",
+            "pid": 20123,
+            "type": 10,
+            "region": null,
+            "alias": "Công ty NY Hoa Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.948728412947663",
+            "lng": "105.8003830842917"
+        },
+        {
+            "id": 804760,
+            "name": "Thôn Châu Tử",
+            "pid": 20123,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Châu Tử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9496339",
+            "lng": "105.79674190000003"
+        },
+        {
+            "id": 558139,
+            "name": "Thôn Phú Gia",
+            "pid": 20123,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn phú gia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9496339",
+            "lng": "105.79674190000003"
+        }
+    ],
+    "log_id": "67590a22f37b2692"
+}

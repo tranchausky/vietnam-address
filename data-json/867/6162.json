@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 705703,
+            "name": "Ấp An Cư",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Cư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.793768",
+            "lng": "106.194727"
+        },
+        {
+            "id": 728752,
+            "name": "Ấp Cần Tiêu",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cần Tiêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.750037",
+            "lng": "106.151057"
+        },
+        {
+            "id": 568998,
+            "name": "Ấp Cao 1",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cao 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 569013,
+            "name": "Ấp Nhơn Hòa",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 569007,
+            "name": "Ấp Sóc Dừa",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Dừa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 569010,
+            "name": "Ấp Sóc Tràm",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Tràm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 569004,
+            "name": "Ấp Tân Thành Đông",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 569001,
+            "name": "Ấp Tân Thành Tây",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 568995,
+            "name": "Ấp Trẹm",
+            "pid": 6162,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trẹm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7497967",
+            "lng": "106.15221259999998"
+        }
+    ],
+    "log_id": "67590b43a403b619"
+}

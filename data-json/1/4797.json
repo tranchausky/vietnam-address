@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 119425,
+            "name": "Thôn Thế Trụ",
+            "pid": 4797,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thế Trụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9745828",
+            "lng": "105.6148621"
+        },
+        {
+            "id": 119429,
+            "name": "Thôn Văn Khê",
+            "pid": 4797,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9745828",
+            "lng": "105.6148621"
+        },
+        {
+            "id": 119431,
+            "name": "Thôn Văn Quang",
+            "pid": 4797,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9709372",
+            "lng": "105.6119156"
+        },
+        {
+            "id": 55170,
+            "name": "Ubnd Xã Nghĩa Hương",
+            "pid": 4797,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Nghĩa Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bcd66b6631"
+}

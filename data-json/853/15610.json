@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 651433,
+            "name": "Ít Chom",
+            "pid": 15610,
+            "type": 16,
+            "region": null,
+            "alias": "Ít Chom",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.019368",
+            "lng": "103.684215"
+        },
+        {
+            "id": 651418,
+            "name": "Khăn Nọi",
+            "pid": 15610,
+            "type": 16,
+            "region": null,
+            "alias": "Khăn Nọi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.017109",
+            "lng": "103.647008"
+        },
+        {
+            "id": 651430,
+            "name": "Nậm Khăn",
+            "pid": 15610,
+            "type": 16,
+            "region": null,
+            "alias": "Nậm Khăn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.985176",
+            "lng": "103.705551"
+        }
+    ],
+    "log_id": "6758175e68dfc626"
+}

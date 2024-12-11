@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 720451,
+            "name": "Thôn Bình Lập",
+            "pid": 17674,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.844218",
+            "lng": "109.176246"
+        },
+        {
+            "id": 720454,
+            "name": "Thôn Nước Ngọt",
+            "pid": 17674,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nước Ngọt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.818166",
+            "lng": "109.130704"
+        }
+    ],
+    "log_id": "67581585b6555503"
+}

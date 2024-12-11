@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877312,
+            "name": "Đường Giang Văn Minh",
+            "pid": 35,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Giang Văn Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,031639",
+            "lng": "105,823499"
+        },
+        {
+            "id": 829756,
+            "name": "Đường Kim Mã",
+            "pid": 35,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kim Mã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0316443",
+            "lng": "105.82462659999999"
+        },
+        {
+            "id": 877318,
+            "name": "Đường Núi Trúc",
+            "pid": 35,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Núi Trúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.031470618510916,",
+            "lng": " 105.82376674477835"
+        },
+        {
+            "id": 877321,
+            "name": "Đường Sơn Tây",
+            "pid": 35,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Sơn Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,031639",
+            "lng": "105,823499"
+        },
+        {
+            "id": 830617,
+            "name": "Đường Thanh Bảo",
+            "pid": 35,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Thanh Bảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.03193493672982, ",
+            "lng": "105.83121264209568"
+        },
+        {
+            "id": 47348,
+            "name": "Ngõ 192 Kim Mã",
+            "pid": 35,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 192 Kim Mã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc47720360"
+}

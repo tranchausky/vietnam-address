@@ -1,0 +1,163 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 974895,
+            "name": "1-89 Nguyễn Cơ Thạch",
+            "pid": 972666,
+            "type": 29,
+            "region": null,
+            "alias": "1-89 Nguyễn Cơ Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7665486",
+            "lng": "106.7240682"
+        },
+        {
+            "id": 975322,
+            "name": "2 Mai Chí Thọ",
+            "pid": 972666,
+            "type": 16,
+            "region": null,
+            "alias": "2 Mai Chí Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.770654",
+            "lng": "106.7148177"
+        },
+        {
+            "id": 974893,
+            "name": "6-74 Nguyễn Cơ Thạchh",
+            "pid": 972666,
+            "type": 29,
+            "region": null,
+            "alias": "6-74 Nguyễn Cơ Thạchh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7679749",
+            "lng": "106.7225585"
+        },
+        {
+            "id": 974164,
+            "name": "12 Mai Chí Thọ",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "12 Mai Chí Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7747618",
+            "lng": "106.7249971"
+        },
+        {
+            "id": 974898,
+            "name": "89-153 Nguyễn Cơ Thạch",
+            "pid": 972666,
+            "type": 29,
+            "region": null,
+            "alias": "89-153 Nguyễn Cơ Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7692771",
+            "lng": "106.7225401"
+        },
+        {
+            "id": 975320,
+            "name": "Chẵn 6-70 Nguyễn Cơ Thạch",
+            "pid": 972666,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 6-70 Nguyễn Cơ Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7692335",
+            "lng": "106.725157"
+        },
+        {
+            "id": 973451,
+            "name": "Chung Cư Sadora",
+            "pid": 972666,
+            "type": 4,
+            "region": null,
+            "alias": "Chung cư Sadora",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7763988",
+            "lng": "106.7247027"
+        },
+        {
+            "id": 975317,
+            "name": "Đường B2",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "Đường B2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7732755",
+            "lng": "106.7265215"
+        },
+        {
+            "id": 973745,
+            "name": "Đường Hoàng Thế Thiện (Đường R8 Cũ)",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Thế Thiện (đường R8 cũ)",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7734877",
+            "lng": "106.7259768"
+        },
+        {
+            "id": 974021,
+            "name": "Đường N1",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "Đường N1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.799701",
+            "lng": "106.7932315"
+        },
+        {
+            "id": 973803,
+            "name": "Đường N2",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "Đường N2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7706709",
+            "lng": "106.7241425"
+        },
+        {
+            "id": 974036,
+            "name": "Đường N7",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "Đường N7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7692625",
+            "lng": "106.7248557"
+        },
+        {
+            "id": 973927,
+            "name": "Đường Nguyễn Cơ Thạch",
+            "pid": 972666,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Cơ Thạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7692625",
+            "lng": "106.7248557"
+        }
+    ],
+    "log_id": "6758129b26a90810"
+}

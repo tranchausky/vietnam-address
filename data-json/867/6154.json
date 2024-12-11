@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 569142,
+            "name": "Ấp Bà Ét",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bà Ét",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569133,
+            "name": "Ấp Cầu Tre",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cầu Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569139,
+            "name": "Ấp Cây Hẹ",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Hẹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569121,
+            "name": "Ấp Đại Mong",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đại Mong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569124,
+            "name": "Ấp Đại Trường",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đại Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569127,
+            "name": "Ấp Ô Ét",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ô Ét",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569136,
+            "name": "Ấp Sóc Tre",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Sóc Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        },
+        {
+            "id": 569130,
+            "name": "Ấp Xóm Vó",
+            "pid": 6154,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Vó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.808279299999999",
+            "lng": "106.16985629999999"
+        }
+    ],
+    "log_id": "67590b43a4a45105"
+}

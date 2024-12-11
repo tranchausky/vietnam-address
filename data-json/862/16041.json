@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435463,
+            "name": "Ấp Bàu Dài",
+            "pid": 16041,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bàu Dài",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368482",
+            "lng": "106.25298499999997"
+        },
+        {
+            "id": 435467,
+            "name": "Ấp Phước An",
+            "pid": 16041,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368482",
+            "lng": "106.25298499999997"
+        },
+        {
+            "id": 435459,
+            "name": "Ấp Phước Hiệp",
+            "pid": 16041,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3368482",
+            "lng": "106.25298499999997"
+        },
+        {
+            "id": 435469,
+            "name": "Ấp Phước Hội",
+            "pid": 16041,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Hội",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368482",
+            "lng": "106.25298499999997"
+        },
+        {
+            "id": 435461,
+            "name": "Ấp Phước Lễ",
+            "pid": 16041,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3368482",
+            "lng": "106.25298499999997"
+        },
+        {
+            "id": 435465,
+            "name": "Ấp Phước Tân",
+            "pid": 16041,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phước Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.3368482",
+            "lng": "106.25298499999997"
+        }
+    ],
+    "log_id": "675909dcd3edd836"
+}

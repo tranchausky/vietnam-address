@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434541,
+            "name": "Ấp Đoàn Văn Tố",
+            "pid": 7642,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Đoàn Văn Tố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.575175699999999",
+            "lng": "106.19926599999997"
+        },
+        {
+            "id": 434543,
+            "name": "Ấp Đoàn Văn Tố A",
+            "pid": 7642,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Đoàn Văn Tố A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.575175699999999",
+            "lng": "106.19926599999997"
+        },
+        {
+            "id": 434545,
+            "name": "Ấp Nguyễn Tăng",
+            "pid": 7642,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Nguyễn Tăng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.575175699999999",
+            "lng": "106.19926599999997"
+        },
+        {
+            "id": 434537,
+            "name": "Ấp Sáu Thử",
+            "pid": 7642,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Sáu Thử",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.575175699999999",
+            "lng": "106.19926599999997"
+        },
+        {
+            "id": 434539,
+            "name": "Ấp Văn Sáu",
+            "pid": 7642,
+            "type": 17,
+            "region": null,
+            "alias": "ấp VĂn Sáu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.575175699999999",
+            "lng": "106.19926599999997"
+        }
+    ],
+    "log_id": "675909c1762fe577"
+}

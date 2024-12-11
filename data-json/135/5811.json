@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 849226,
+            "name": "1-300 Đồng Hòa",
+            "pid": 5811,
+            "type": 29,
+            "region": null,
+            "alias": "1-300 Đồng Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8215601",
+            "lng": "106.66155290000006"
+        },
+        {
+            "id": 980954,
+            "name": "Đất Đỏ",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Đất Đỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 980952,
+            "name": "Đông Lập",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Đông Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 980951,
+            "name": "Đồng Tâm",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Đồng Tâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 636528,
+            "name": "Khu Tái Định Cư Đồng Hòa 2",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Khu tái định cư Đồng Hòa 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8215601",
+            "lng": "106.66155290000006"
+        },
+        {
+            "id": 980950,
+            "name": "Lãm Khê",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Lãm Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 980948,
+            "name": "Phương Khê",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Phương Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 980953,
+            "name": "Quán Trữ",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Quán Trữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980949,
+            "name": "Trường Chinh",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Trường Chinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 636531,
+            "name": "Trường Chinh 5",
+            "pid": 5811,
+            "type": 21,
+            "region": null,
+            "alias": "Trường Chinh 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8215601",
+            "lng": "106.66155290000006"
+        }
+    ],
+    "log_id": "6758136615c69818"
+}

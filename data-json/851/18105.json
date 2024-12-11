@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116641,
+            "name": "Ấp Bình Minh",
+            "pid": 18105,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.599709",
+            "lng": "105.215861"
+        },
+        {
+            "id": 116643,
+            "name": "Ấp Bời Lời B",
+            "pid": 18105,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bời Lời B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.537342",
+            "lng": "105.245560"
+        },
+        {
+            "id": 116645,
+            "name": "Ấp Cái Nứa",
+            "pid": 18105,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Cái Nứa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.580037",
+            "lng": "105.244798"
+        },
+        {
+            "id": 967848,
+            "name": "Chợ Ngã Năm",
+            "pid": 18105,
+            "type": 17,
+            "region": null,
+            "alias": "Chợ Ngã Năm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.602556",
+            "lng": "105.185699"
+        }
+    ],
+    "log_id": "675817363c046968"
+}

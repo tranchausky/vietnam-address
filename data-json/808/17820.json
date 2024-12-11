@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 606963,
+            "name": "Thôn Giàng Tả Chải",
+            "pid": 17820,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Giàng Tả Chải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.245128",
+            "lng": "103.879604"
+        },
+        {
+            "id": 606960,
+            "name": "Thôn Tả Van Dao",
+            "pid": 17820,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tả Van Dao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.245128",
+            "lng": "103.879604"
+        },
+        {
+            "id": 606954,
+            "name": "Thôn Tả Van Dáy",
+            "pid": 17820,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tả Van Dáy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.245128",
+            "lng": "103.879604"
+        },
+        {
+            "id": 606957,
+            "name": "Thôn Tả Van Mông",
+            "pid": 17820,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tả Van Mông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.245128",
+            "lng": "103.879604"
+        },
+        {
+            "id": 606966,
+            "name": "Thôn Ý Linh Hồ",
+            "pid": 17820,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ý Linh Hồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.245128",
+            "lng": "103.879604"
+        }
+    ],
+    "log_id": "6758144519f44346"
+}

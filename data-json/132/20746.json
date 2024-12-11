@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 416941,
+            "name": "Thôn Cà Lồ",
+            "pid": 20746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cà Lồ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9193226",
+            "lng": "104.97977530000003"
+        },
+        {
+            "id": 416943,
+            "name": "Thôn Cây Mơ",
+            "pid": 20746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cây Mơ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9193226",
+            "lng": "104.97977530000003"
+        },
+        {
+            "id": 416939,
+            "name": "Thôn Cây Tre",
+            "pid": 20746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cây Tre",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9193226",
+            "lng": "104.97977530000003"
+        },
+        {
+            "id": 416937,
+            "name": "Thôn Trung Tâm",
+            "pid": 20746,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Tâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.9193226",
+            "lng": "104.97977530000003"
+        }
+    ],
+    "log_id": "6758131faab3a458"
+}

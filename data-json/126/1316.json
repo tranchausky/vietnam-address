@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 848998,
+            "name": "Đường Bến Bãi Sậy",
+            "pid": 1316,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Bãi Sậy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7473737",
+            "lng": "106.6437227"
+        },
+        {
+            "id": 674422,
+            "name": "Đường Bình Tiên",
+            "pid": 1316,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bình Tiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7440691",
+            "lng": "106.6431188"
+        },
+        {
+            "id": 673183,
+            "name": "Đường Mai Xuân Thưởng",
+            "pid": 1316,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Mai Xuân Thưởng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7475533",
+            "lng": "106.6481964"
+        },
+        {
+            "id": 672757,
+            "name": "Đường Phạm Phú Thứ",
+            "pid": 1316,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Phú Thứ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7445777",
+            "lng": "106.6437882"
+        },
+        {
+            "id": 672991,
+            "name": "Đường Phạm Văn Chí",
+            "pid": 1316,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Chí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.74448",
+            "lng": "106.6461595"
+        }
+    ],
+    "log_id": "6758129ad8b26759"
+}

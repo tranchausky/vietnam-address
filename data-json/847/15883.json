@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 624204,
+            "name": "Làng Ngol",
+            "pid": 15883,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ngol",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.8393011",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 624198,
+            "name": "Làng Păm Kla",
+            "pid": 15883,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Păm Kla",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8393011",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 624201,
+            "name": "Làng Păm Kleo",
+            "pid": 15883,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Păm Kleo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8393011",
+            "lng": "108.1072924"
+        },
+        {
+            "id": 624207,
+            "name": "Làng Trar",
+            "pid": 15883,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Trar",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.8393011",
+            "lng": "108.1072924"
+        }
+    ],
+    "log_id": "675816d38c948797"
+}

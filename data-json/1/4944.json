@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102704,
+            "name": "Kim Châm",
+            "pid": 4944,
+            "type": 16,
+            "region": null,
+            "alias": "Kim Châm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6539673",
+            "lng": "105.8202234"
+        },
+        {
+            "id": 102728,
+            "name": "Ngoại Độ",
+            "pid": 4944,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoại Độ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.638691",
+            "lng": "105.8209573"
+        },
+        {
+            "id": 102677,
+            "name": "Thọ Vực",
+            "pid": 4944,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Vực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6579314",
+            "lng": "105.8165542"
+        },
+        {
+            "id": 102722,
+            "name": "Triều Khê",
+            "pid": 4944,
+            "type": 16,
+            "region": null,
+            "alias": "Triều Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.643539",
+            "lng": "105.8271951"
+        },
+        {
+            "id": 1006406,
+            "name": "Triều Khúc",
+            "pid": 4944,
+            "type": 16,
+            "region": null,
+            "alias": "Triều Khúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.645062",
+            "lng": "105.819136"
+        },
+        {
+            "id": 55790,
+            "name": "Ubnd Xã Đội Bình",
+            "pid": 4944,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Đội Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": 102668,
+            "name": "Xuân Quang",
+            "pid": 4944,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6676582",
+            "lng": "105.8209573"
+        }
+    ],
+    "log_id": "675811bd3f0b138"
+}

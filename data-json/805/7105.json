@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652267,
+            "name": "Thôn Liêu Xá",
+            "pid": 7105,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Liêu Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.875002",
+            "lng": "106.381620"
+        },
+        {
+            "id": 652273,
+            "name": "Thôn Nghĩa Dũng",
+            "pid": 7105,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Dũng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.874411",
+            "lng": "106.367661"
+        },
+        {
+            "id": 652270,
+            "name": "Thôn Nghĩa Xá",
+            "pid": 7105,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nghĩa Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.880360",
+            "lng": "106.372093"
+        }
+    ],
+    "log_id": "675813f20652a937"
+}

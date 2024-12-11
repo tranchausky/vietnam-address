@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 881557,
+            "name": "Đường K1",
+            "pid": 4932,
+            "type": 21,
+            "region": null,
+            "alias": "Đường K1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,047198",
+            "lng": "105,748294"
+        },
+        {
+            "id": 829699,
+            "name": "Đường K4",
+            "pid": 4932,
+            "type": 21,
+            "region": null,
+            "alias": "Đường K4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0522544",
+            "lng": "105.76005800000007"
+        },
+        {
+            "id": 830401,
+            "name": "Đường Phú Diễn",
+            "pid": 4932,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phú Diễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.05499524995654",
+            "lng": "105.76138451587133"
+        },
+        {
+            "id": 913171,
+            "name": "Khu Đô Thị Cầu Diễn",
+            "pid": 4932,
+            "type": 5,
+            "region": null,
+            "alias": "Khu đô thị Cầu Diễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.04683647331574",
+            "lng": "105.77040989975937"
+        },
+        {
+            "id": 958945,
+            "name": "Ngõ 332 Hoàng Công Chất",
+            "pid": 4932,
+            "type": 8,
+            "region": null,
+            "alias": "Ngõ 332 Hoàng Công Chất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.045493004199887",
+            "lng": "105.76845509874445"
+        },
+        {
+            "id": 723,
+            "name": "Nguyễn Đổng Chi",
+            "pid": 4932,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Đổng Chi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0372362",
+            "lng": "105.763957"
+        },
+        {
+            "id": 897,
+            "name": "Phú Diễn",
+            "pid": 4932,
+            "type": 2,
+            "region": null,
+            "alias": "Phú Diễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0535648",
+            "lng": "105.76152520000005"
+        },
+        {
+            "id": 3909,
+            "name": "Phú Kiều",
+            "pid": 4932,
+            "type": 2,
+            "region": null,
+            "alias": "Phú Kiều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.046723",
+            "lng": "105.74843120000003"
+        },
+        {
+            "id": 3931,
+            "name": "Phú Minh",
+            "pid": 4932,
+            "type": 2,
+            "region": null,
+            "alias": "Phú Minh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.046723",
+            "lng": "105.74843120000003"
+        }
+    ],
+    "log_id": "675811bc9dee219"
+}

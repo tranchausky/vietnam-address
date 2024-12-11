@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 104864,
+            "name": "Bảo Tháp",
+            "pid": 18308,
+            "type": 16,
+            "region": null,
+            "alias": "Bảo Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0726321",
+            "lng": "106.1791706"
+        },
+        {
+            "id": 739786,
+            "name": "Lê Văn Thịnh",
+            "pid": 18308,
+            "type": 10,
+            "region": null,
+            "alias": "Lê Văn Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0642",
+            "lng": "106.16397489999996"
+        },
+        {
+            "id": 971684,
+            "name": "Thôn Bảo Tháp",
+            "pid": 18308,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Bảo Tháp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0726321",
+            "lng": "106.1791706"
+        },
+        {
+            "id": 971678,
+            "name": "Thôn Cứu Sơn",
+            "pid": 18308,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Cứu Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0675162",
+            "lng": "106.1505354"
+        },
+        {
+            "id": 971682,
+            "name": "Thôn Hiệp Sơn",
+            "pid": 18308,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Hiệp Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0741988",
+            "lng": "106.1628306"
+        },
+        {
+            "id": 971683,
+            "name": "Thôn Nghĩa Thắng",
+            "pid": 18308,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Nghĩa Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0658191",
+            "lng": "106.1720145"
+        },
+        {
+            "id": 971677,
+            "name": "Thôn Yên Việt",
+            "pid": 18308,
+            "type": 10,
+            "region": null,
+            "alias": "Thôn Yên Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0665901",
+            "lng": "106.155814"
+        },
+        {
+            "id": 113287,
+            "name": "Xóm Chùa",
+            "pid": 18308,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chùa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0728011",
+            "lng": "106.1438163"
+        },
+        {
+            "id": 113343,
+            "name": "Xóm Ngoài",
+            "pid": 18308,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0728011",
+            "lng": "106.1438163"
+        }
+    ],
+    "log_id": "675815f8d2347529"
+}

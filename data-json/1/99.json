@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 49268,
+            "name": "Đại Học Kinh Tế Quốc Dân",
+            "pid": 99,
+            "type": 9,
+            "region": null,
+            "alias": "Đại học Kinh tế Quốc dân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9999251",
+            "lng": "105.84217450000006"
+        },
+        {
+            "id": 50120,
+            "name": "Đại Học Xây Dựng",
+            "pid": 99,
+            "type": 9,
+            "region": null,
+            "alias": "Đại học Xây Dựng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0033135",
+            "lng": "105.84332070000005"
+        },
+        {
+            "id": 830389,
+            "name": "Đường Phố Vọng",
+            "pid": 99,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phố Vọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.996669726314586",
+            "lng": "105.84277220439202"
+        },
+        {
+            "id": 876760,
+            "name": "Đường Trần Đại Nghĩa",
+            "pid": 99,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Đại Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,001569",
+            "lng": "105,841454"
+        },
+        {
+            "id": 830992,
+            "name": "Đường Vọng",
+            "pid": 99,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vọng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9986139",
+            "lng": "105.84444189999999"
+        },
+        {
+            "id": 49272,
+            "name": "Trường Đại Học Xây Dựng",
+            "pid": 99,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Đại học Xây dựng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0033135",
+            "lng": "105.84332070000005"
+        }
+    ],
+    "log_id": "675811bd1aada131"
+}

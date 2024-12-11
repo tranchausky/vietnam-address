@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1962,
+            "name": "Huyện Bến Cầu",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Bến Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1506368",
+            "lng": "106.08753260000003"
+        },
+        {
+            "id": 1963,
+            "name": "Huyện Châu Thành",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Châu Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3081393",
+            "lng": "106.01699710000003"
+        },
+        {
+            "id": 1964,
+            "name": "Huyện Dương Minh Châu",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Dương Minh Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3595908",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 1965,
+            "name": "Huyện Gò Dầu",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Gò Dầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 1967,
+            "name": "Huyện Tân Biên",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tân Biên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.572115",
+            "lng": "106.01699710000002"
+        },
+        {
+            "id": 1968,
+            "name": "Huyện Tân Châu",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Tân Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5614393",
+            "lng": "106.20514839999998"
+        },
+        {
+            "id": 1970,
+            "name": "Thành Phố Tây Ninh",
+            "pid": 862,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Tây Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.3675415",
+            "lng": "106.11928020000005"
+        },
+        {
+            "id": 1966,
+            "name": "Thị Xã Hòa Thành",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Thị xã Hòa Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2680459",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 1969,
+            "name": "Thị Xã Trảng Bàng",
+            "pid": 862,
+            "type": 7,
+            "region": null,
+            "alias": "Thị xã Trảng Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0328111",
+            "lng": "106.36456769999995"
+        }
+    ],
+    "log_id": "675909dcac8e9623"
+}

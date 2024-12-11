@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 979599,
+            "name": "157 Nguyễn Tất Thành",
+            "pid": 1285,
+            "type": 10,
+            "region": null,
+            "alias": "157 Nguyễn Tất Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.760210557060637",
+            "lng": "106.71305489670011"
+        },
+        {
+            "id": 670888,
+            "name": "Đường Đoàn Văn Bơ",
+            "pid": 1285,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.757324",
+            "lng": "106.7136005"
+        },
+        {
+            "id": 678508,
+            "name": "Đường Nguyễn Tất Thành",
+            "pid": 1285,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Tất Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7588509",
+            "lng": "106.7146445"
+        },
+        {
+            "id": 678412,
+            "name": "Đường Nguyễn Thần Hiến",
+            "pid": 1285,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thần Hiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7551671",
+            "lng": "106.7166483"
+        },
+        {
+            "id": 679438,
+            "name": "Đường Tôn Thất Thuyết",
+            "pid": 1285,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Tôn Thất Thuyết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7533315",
+            "lng": "106.7149688"
+        },
+        {
+            "id": 681664,
+            "name": "Đường Trương Đình Hợi",
+            "pid": 1285,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trương Đình Hợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7566445",
+            "lng": "106.7188379"
+        },
+        {
+            "id": 885382,
+            "name": "Đường Xóm Chiếu",
+            "pid": 1285,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Xóm Chiếu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7592573",
+            "lng": "106.7113406"
+        },
+        {
+            "id": 967811,
+            "name": "Hẻm 396 Nguyễn Tất Thành",
+            "pid": 1285,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 396 Nguyễn Tất Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7590328",
+            "lng": "106.7122173"
+        },
+        {
+            "id": 957369,
+            "name": "Hẻm 874 Đoàn Văn Bơ",
+            "pid": 1285,
+            "type": 8,
+            "region": null,
+            "alias": "Hẻm 874 Đoàn Văn Bơ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.755305",
+            "lng": "106.7154135"
+        },
+        {
+            "id": 45130,
+            "name": "Trường Thcs Khánh Hội A",
+            "pid": 1285,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THCS Khánh Hội A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7551316",
+            "lng": "106.71692189999999"
+        },
+        {
+            "id": 45138,
+            "name": "Trường Tiểu Học Khánh Hội B",
+            "pid": 1285,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu học Khánh Hội B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7551316",
+            "lng": "106.71692189999999"
+        }
+    ],
+    "log_id": "6758129a9753b859"
+}

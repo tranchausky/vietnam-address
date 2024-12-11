@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1017899,
+            "name": "Đông Lôi 1",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "đông lôi 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.718693654558237",
+            "lng": "106.43299685706964"
+        },
+        {
+            "id": 1011757,
+            "name": "Đông Lôi 2",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Lôi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.72066184167156",
+            "lng": "106.42822130749538"
+        },
+        {
+            "id": 1011760,
+            "name": "Đông Lôi 3",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Lôi 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.722099293611826",
+            "lng": "106.43038900940637"
+        },
+        {
+            "id": 632832,
+            "name": "Thôn Chanh Chử 1",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chanh chử 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 632835,
+            "name": "Thôn Chanh Chử 2",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chanh chử 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 632838,
+            "name": "Thôn Chanh Chử 3",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Chanh chử 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 632820,
+            "name": "Thôn Hà Phương 1",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hà Phương 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 632823,
+            "name": "Thôn Hà Phương 2",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hà Phương 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 632826,
+            "name": "Thôn Hà Phương 3",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hà Phương 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 632829,
+            "name": "Thôn Hà Phương 4",
+            "pid": 6745,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hà Phương 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7234225",
+            "lng": "106.42586430000006"
+        }
+    ],
+    "log_id": "67581365cd6d6896"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 103388,
+            "name": "Xóm Chiềng Châu",
+            "pid": 21379,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chiềng Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.63954437239076",
+            "lng": "105.07108740998162"
+        },
+        {
+            "id": 103253,
+            "name": "Xóm Mỏ",
+            "pid": 21379,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mỏ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.646857821562058",
+            "lng": "105.0771859338339"
+        },
+        {
+            "id": 103373,
+            "name": "Xóm Nà Sài",
+            "pid": 21379,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Sài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.629169391960147",
+            "lng": "105.05561919663494"
+        },
+        {
+            "id": 103268,
+            "name": "Xóm Nà Sò",
+            "pid": 21379,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Sò",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.632150701089635",
+            "lng": "105.06156200775297"
+        },
+        {
+            "id": 103289,
+            "name": "Xóm Nông Cụ",
+            "pid": 21379,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nông cụ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.64308570929252",
+            "lng": "105.07708432547378"
+        }
+    ],
+    "log_id": "6758172140d9e14"
+}

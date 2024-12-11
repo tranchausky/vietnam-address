@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 912997,
+            "name": "6-148 Vũ Tùng",
+            "pid": 1379,
+            "type": 29,
+            "region": null,
+            "alias": "6-148 Vũ Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.802299",
+            "lng": "106.702779"
+        },
+        {
+            "id": 912991,
+            "name": "15-175 Vũ Tùng",
+            "pid": 1379,
+            "type": 29,
+            "region": null,
+            "alias": "15-175 Vũ Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.80257",
+            "lng": "106.702719"
+        },
+        {
+            "id": 680716,
+            "name": "Bạch Đằng",
+            "pid": 1379,
+            "type": 21,
+            "region": null,
+            "alias": "Bạch Đằng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8037697",
+            "lng": "106.7013625"
+        },
+        {
+            "id": 902692,
+            "name": "Chẵn 22-384 Bùi Hữu Nghĩa",
+            "pid": 1379,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 22-384 Bùi Hữu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7984554",
+            "lng": "106.698333"
+        },
+        {
+            "id": 673825,
+            "name": "Đường Bùi Hữu Nghĩa",
+            "pid": 1379,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Hữu Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7981387",
+            "lng": "106.6990578"
+        },
+        {
+            "id": 931537,
+            "name": "Đường Nguyễn Xuân Ôn",
+            "pid": 1379,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Xuân Ôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.798622",
+            "lng": "106.700069"
+        },
+        {
+            "id": 670579,
+            "name": "Đường Vũ Tùng",
+            "pid": 1379,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Vũ Tùng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8013938",
+            "lng": "106.6999764"
+        },
+        {
+            "id": 677080,
+            "name": "Phan Bội Châu",
+            "pid": 1379,
+            "type": 21,
+            "region": null,
+            "alias": "Phan Bội Châu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8031983",
+            "lng": "106.7004301"
+        },
+        {
+            "id": 679792,
+            "name": "Phan Chu Trinh",
+            "pid": 1379,
+            "type": 21,
+            "region": null,
+            "alias": "Phan Chu Trinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8035865",
+            "lng": "106.7016041"
+        }
+    ],
+    "log_id": "6758129b035be760"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 106568,
+            "name": "Ấp Bãi Chà Và",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bãi Chà Và",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.314106",
+            "lng": " 104.533434"
+        },
+        {
+            "id": 106586,
+            "name": "Ấp Bãi Ớt",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Bãi Ớt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.295265",
+            "lng": "104.547224"
+        },
+        {
+            "id": 106556,
+            "name": "Ấp Hòn Heo",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Hòn Heo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.324016",
+            "lng": "104.576110"
+        },
+        {
+            "id": 106577,
+            "name": "Ấp Mũi Dừa",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Mũi Dừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.292239",
+            "lng": "104.541505"
+        },
+        {
+            "id": 106544,
+            "name": "Ấp Ngã Tư",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Ngã Tư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.315808",
+            "lng": "104.565031"
+        },
+        {
+            "id": 106610,
+            "name": "Ấp Tà Săng",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tà Săng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.305853",
+            "lng": "104.533019"
+        },
+        {
+            "id": 971154,
+            "name": "Cty Trung Sơn Ấp Bãi Ớt",
+            "pid": 17593,
+            "type": 17,
+            "region": null,
+            "alias": "Cty Trung Sơn ấp Bãi Ớt",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.292372 ",
+            "lng": "104.551517"
+        }
+    ],
+    "log_id": "675817363badf991"
+}

@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 665206,
+            "name": "Nga Sơn",
+            "pid": 21457,
+            "type": 10,
+            "region": null,
+            "alias": "Nga Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 581700,
+            "name": "Pòng",
+            "pid": 21457,
+            "type": 16,
+            "region": null,
+            "alias": "Pòng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 910552,
+            "name": "Thanh Sơn",
+            "pid": 21457,
+            "type": 18,
+            "region": null,
+            "alias": "Thanh Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 581682,
+            "name": "Thanh Tân",
+            "pid": 21457,
+            "type": 16,
+            "region": null,
+            "alias": "Thanh Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 581697,
+            "name": "Thôn Mưn",
+            "pid": 21457,
+            "type": 16,
+            "region": null,
+            "alias": "thôn mưn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 581688,
+            "name": "Thôn Na Pùa",
+            "pid": 21457,
+            "type": 16,
+            "region": null,
+            "alias": "thôn na pùa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 581694,
+            "name": "Thôn Nga Mi",
+            "pid": 21457,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nga mi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        },
+        {
+            "id": 581691,
+            "name": "Thôn Tân Tiến",
+            "pid": 21457,
+            "type": 16,
+            "region": null,
+            "alias": "thôn tân tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.6025893",
+            "lng": "105.21861239999998"
+        }
+    ],
+    "log_id": "67581208aecfb271"
+}

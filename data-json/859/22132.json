@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 641137,
+            "name": "Thôn Lộc Đông",
+            "pid": 22132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.705851",
+            "lng": "108.107938"
+        },
+        {
+            "id": 641140,
+            "name": "Thôn Lộc Tây",
+            "pid": 22132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.705851",
+            "lng": "108.107938"
+        },
+        {
+            "id": 641146,
+            "name": "Thôn Lộc Trung",
+            "pid": 22132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lộc Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.705851",
+            "lng": "108.107938"
+        },
+        {
+            "id": 641143,
+            "name": "Thôn Tân Phong",
+            "pid": 22132,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.705851",
+            "lng": "108.107938"
+        }
+    ],
+    "log_id": "675817e1846b5531"
+}

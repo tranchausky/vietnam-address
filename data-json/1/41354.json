@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829906,
+            "name": "Đường Lương Khánh Thiện",
+            "pid": 41354,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lương Khánh Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9885702",
+            "lng": "105.85104750000005"
+        },
+        {
+            "id": 830080,
+            "name": "Đường Nguyễn An Ninh",
+            "pid": 41354,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9885702",
+            "lng": "105.85104750000005"
+        },
+        {
+            "id": 671,
+            "name": "Lương Khánh Thiện",
+            "pid": 41354,
+            "type": 2,
+            "region": null,
+            "alias": "Lương Khánh Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9849907",
+            "lng": "105.85147600000005"
+        },
+        {
+            "id": 51118,
+            "name": "Ngõ 151 Nguyễn Đức Cảnh",
+            "pid": 41354,
+            "type": 21,
+            "region": null,
+            "alias": "Ngõ 151 Nguyễn Đức Cảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 18630,
+            "name": "Nguyễn An Ninh",
+            "pid": 41354,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn An Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9912965",
+            "lng": "105.84455230000003"
+        },
+        {
+            "id": 668,
+            "name": "Nguyễn Đức Cảnh",
+            "pid": 41354,
+            "type": 2,
+            "region": null,
+            "alias": "Nguyễn Đức Cảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9869084",
+            "lng": "105.85303520000002"
+        },
+        {
+            "id": 707,
+            "name": "Trương Định",
+            "pid": 41354,
+            "type": 2,
+            "region": null,
+            "alias": "Trương Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9946437",
+            "lng": "105.84811160000004"
+        },
+        {
+            "id": 680,
+            "name": "Tương Mai",
+            "pid": 41354,
+            "type": 2,
+            "region": null,
+            "alias": "Tương Mai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9885702",
+            "lng": "105.85104750000005"
+        }
+    ],
+    "log_id": "675811bd5398b385"
+}

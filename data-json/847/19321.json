@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 799879,
+            "name": "Thôn Cửu Đạo",
+            "pid": 19321,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cửu đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.0617431",
+            "lng": "108.67471810000006"
+        },
+        {
+            "id": 449573,
+            "name": "Thôn Tú Thủy 1",
+            "pid": 19321,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tú Thủy 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0617431",
+            "lng": "108.67471810000006"
+        },
+        {
+            "id": 449575,
+            "name": "Thôn Tú Thủy 2",
+            "pid": 19321,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tú Thủy 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.0617431",
+            "lng": "108.67471810000006"
+        }
+    ],
+    "log_id": "675816d33354264"
+}

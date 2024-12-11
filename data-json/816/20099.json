@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 629820,
+            "name": "Lôi Cầu",
+            "pid": 20099,
+            "type": 8,
+            "region": null,
+            "alias": "Lôi Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8105576",
+            "lng": "106.01993659999994"
+        },
+        {
+            "id": 629823,
+            "name": "Thôn Yên Khê",
+            "pid": 20099,
+            "type": 16,
+            "region": null,
+            "alias": "thôn yên khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8105576",
+            "lng": "106.01993659999994"
+        },
+        {
+            "id": 629826,
+            "name": "Thôn Yên Trung",
+            "pid": 20099,
+            "type": 16,
+            "region": null,
+            "alias": "thôn yên trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8105576",
+            "lng": "106.01993659999994"
+        },
+        {
+            "id": 629832,
+            "name": "Xóm 5 Việt Hòa",
+            "pid": 20099,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 5 Việt Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8105576",
+            "lng": "106.01993659999994"
+        },
+        {
+            "id": 629829,
+            "name": "Xóm 11 Việt Hòa",
+            "pid": 20099,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 11 Việt Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8105576",
+            "lng": "106.01993659999994"
+        }
+    ],
+    "log_id": "67581490c4d1f264"
+}

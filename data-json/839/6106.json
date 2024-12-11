@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 433331,
+            "name": "Ấp 1 - Trừ Văn Thố",
+            "pid": 6106,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 1 - Trừ Văn Thố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.348782739353572",
+            "lng": "106.63777570153599"
+        },
+        {
+            "id": 433333,
+            "name": "Ấp 2 - Trừ Văn Thố",
+            "pid": 6106,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 2 - Trừ Văn Thố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.345270365210416",
+            "lng": "106.62198944531517"
+        },
+        {
+            "id": 433335,
+            "name": "Ấp 3 - Trừ Văn Thố",
+            "pid": 6106,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 3 - Trừ Văn Thố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.342362473690704",
+            "lng": "106.60066985068956"
+        },
+        {
+            "id": 476917,
+            "name": "Ấp 4 - Trừ Văn Thố",
+            "pid": 6106,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp 4 - Trừ Văn Thố",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.369859124303298",
+            "lng": "106.6011126621182"
+        }
+    ],
+    "log_id": "675816219b7d290"
+}

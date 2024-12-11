@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 666610,
+            "name": "Khu 1 Phú Liêm",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1 Phú Liêm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538331,
+            "name": "Phố Đoàn Kết",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538333,
+            "name": "Phố Long Xuyên",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "phố Long Xuyên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538335,
+            "name": "Phố Sa Đéc",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "phố Sa Đéc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538337,
+            "name": "Phố Tân An",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "phố Tân An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538341,
+            "name": "Phố Tân Thành",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538343,
+            "name": "Phố Tân Trung",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "phố Tân Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        },
+        {
+            "id": 538339,
+            "name": "Tân Lập",
+            "pid": 18367,
+            "type": 21,
+            "region": null,
+            "alias": "Tân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.4052532",
+            "lng": "105.21216750000008"
+        }
+    ],
+    "log_id": "675817cd90e14298"
+}

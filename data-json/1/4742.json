@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102899,
+            "name": "An Mỹ",
+            "pid": 4742,
+            "type": 16,
+            "region": null,
+            "alias": "an mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.767611, 105.874515",
+            "lng": "20.767611, 105.874515"
+        },
+        {
+            "id": 102887,
+            "name": "Phú Đôi",
+            "pid": 4742,
+            "type": 16,
+            "region": null,
+            "alias": "Phú đôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.778264, 105.869343",
+            "lng": "20.778264, 105.869343"
+        },
+        {
+            "id": 97979,
+            "name": "Thôn Tạ Xá",
+            "pid": 4742,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tạ Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.776864",
+            "lng": "105.883803"
+        },
+        {
+            "id": 102860,
+            "name": "Văn Hội",
+            "pid": 4742,
+            "type": 16,
+            "region": null,
+            "alias": "văn hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.777361, 105.879386",
+            "lng": "20.777361, 105.879386"
+        }
+    ],
+    "log_id": "675811bcd369d753"
+}

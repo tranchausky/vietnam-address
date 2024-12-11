@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 555277,
+            "name": "Khu Bùi Xá",
+            "pid": 17295,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Bùi Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9477984",
+            "lng": "106.8709404"
+        },
+        {
+            "id": 555279,
+            "name": "Khu Đồng Mát",
+            "pid": 17295,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Đồng Mát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9477984",
+            "lng": "106.8709404"
+        },
+        {
+            "id": 555271,
+            "name": "Khu Thống Nhất 1",
+            "pid": 17295,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Thống Nhất 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9477984",
+            "lng": "106.8709404"
+        },
+        {
+            "id": 555273,
+            "name": "Khu Thống Nhất 2",
+            "pid": 17295,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Thống Nhất 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9477984",
+            "lng": "106.8709404"
+        },
+        {
+            "id": 555275,
+            "name": "Khu Thống Nhất 3",
+            "pid": 17295,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Thống Nhất 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9477984",
+            "lng": "106.8709404"
+        }
+    ],
+    "log_id": "675814c217e4c252"
+}

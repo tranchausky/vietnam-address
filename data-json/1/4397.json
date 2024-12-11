@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 960106,
+            "name": "Thôn Bối Khê",
+            "pid": 4397,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bối Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.87938182",
+            "lng": "105.7875667"
+        },
+        {
+            "id": 960108,
+            "name": "Thôn Bùi Xá",
+            "pid": 4397,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bùi Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.865696",
+            "lng": "105.795677"
+        },
+        {
+            "id": 960110,
+            "name": "Thôn Đại Định",
+            "pid": 4397,
+            "type": 22,
+            "region": null,
+            "alias": "Thôn Đại Định",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.88731017",
+            "lng": "105.78318099"
+        },
+        {
+            "id": 960109,
+            "name": "Thôn Hưng Giáo",
+            "pid": 4397,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hưng Giáo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8838022",
+            "lng": "105.7834161"
+        },
+        {
+            "id": 960105,
+            "name": "Thôn Lê Dương",
+            "pid": 4397,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lê Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8744114",
+            "lng": "105.7820999"
+        },
+        {
+            "id": 960112,
+            "name": "Thôn Tê Quả",
+            "pid": 4397,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tê Quả",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8886671",
+            "lng": "105.7761431"
+        },
+        {
+            "id": 960107,
+            "name": "Thôn Văn Khê",
+            "pid": 4397,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Văn Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8693616",
+            "lng": "105.7894915"
+        }
+    ],
+    "log_id": "675811bd6af64453"
+}

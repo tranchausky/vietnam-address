@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 90968,
+            "name": "Thôn Trung Dương",
+            "pid": 4666,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trung Dương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.983215",
+            "lng": "105.9604404"
+        },
+        {
+            "id": 90974,
+            "name": "Thôn Xuân Thụy",
+            "pid": 4666,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Thụy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.975533",
+            "lng": "105.9461203"
+        }
+    ],
+    "log_id": "675811bb9c965169"
+}

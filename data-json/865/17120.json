@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559555,
+            "name": "Thôn Thanh Nga",
+            "pid": 17120,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thanh Nga",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9174989",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 559553,
+            "name": "Thôn Trinh Nga",
+            "pid": 17120,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trinh Nga",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9174989",
+            "lng": "105.83196529999998"
+        },
+        {
+            "id": 559557,
+            "name": "Thôn Trung Hòa",
+            "pid": 17120,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9174989",
+            "lng": "105.83196529999998"
+        }
+    ],
+    "log_id": "67590a2375484360"
+}

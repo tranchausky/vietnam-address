@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 997757,
+            "name": "46-99 Nguyễn Huệ",
+            "pid": 19822,
+            "type": 29,
+            "region": null,
+            "alias": "46-99 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.658855609033898",
+            "lng": "106.61064818301168"
+        },
+        {
+            "id": 997751,
+            "name": "Chẳn 2-60 Hùng Vương",
+            "pid": 19822,
+            "type": 29,
+            "region": null,
+            "alias": "Chẳn 2-60 Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.653209502721316",
+            "lng": "106.60957285687928"
+        },
+        {
+            "id": 997755,
+            "name": "Chẳn 182-320 Nguyễn Huệ",
+            "pid": 19822,
+            "type": 29,
+            "region": null,
+            "alias": "Chẳn 182-320 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.658855609033898",
+            "lng": "106.61064818301168"
+        },
+        {
+            "id": 997756,
+            "name": "Chẳn 322-436 Nguyễn Huệ",
+            "pid": 19822,
+            "type": 29,
+            "region": null,
+            "alias": "Chẳn 322-436 Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.658855609033898",
+            "lng": "106.61064818301168"
+        },
+        {
+            "id": 436321,
+            "name": "Khu Phố Phú Hoà 1",
+            "pid": 19822,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Hoà 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6610857",
+            "lng": "106.62028869999994"
+        },
+        {
+            "id": 436319,
+            "name": "Khu Phố Phú Hưng",
+            "pid": 19822,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6610857",
+            "lng": "106.62028869999994"
+        },
+        {
+            "id": 436317,
+            "name": "Khu Phố Phú Thuận",
+            "pid": 19822,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.6610857",
+            "lng": "106.62028869999994"
+        },
+        {
+            "id": 989929,
+            "name": "Khu Phố Phú Xuân",
+            "pid": 19822,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.660499506637224",
+            "lng": "106.61802098081256"
+        },
+        {
+            "id": 997750,
+            "name": "Lẻ 1-73 Hùng Vương",
+            "pid": 19822,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1-73 Hùng Vương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.653209502721316",
+            "lng": "106.60957285687928"
+        }
+    ],
+    "log_id": "6758163780d4d12"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 114221,
+            "name": "Thôn Bạch Liên",
+            "pid": 4905,
+            "type": 4,
+            "region": null,
+            "alias": "thôn Bạch Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8747837",
+            "lng": "105.880563"
+        },
+        {
+            "id": 114229,
+            "name": "Thương Mại Hương Việt",
+            "pid": 4905,
+            "type": 16,
+            "region": null,
+            "alias": "Thương Mại Hương Việt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8324216",
+            "lng": "105.8379947"
+        },
+        {
+            "id": 55618,
+            "name": "Ubnd Xã Liên Phương",
+            "pid": 4905,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Liên Phương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8744736",
+            "lng": "105.8796493,17"
+        }
+    ],
+    "log_id": "675811bca599f35"
+}

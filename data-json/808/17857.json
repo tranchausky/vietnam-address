@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 415001,
+            "name": "Thôn Phình Báo 1",
+            "pid": 17857,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phình Báo 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4855789",
+            "lng": "103.65436120000004"
+        },
+        {
+            "id": 415003,
+            "name": "Thôn Phình Báo 2",
+            "pid": 17857,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phình Báo 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4855789",
+            "lng": "103.65436120000004"
+        },
+        {
+            "id": 415007,
+            "name": "Thôn Pờ Hồ Cao",
+            "pid": 17857,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pờ Hồ Cao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4855789",
+            "lng": "103.65436120000004"
+        },
+        {
+            "id": 415005,
+            "name": "Thôn Pờ Hồ Thấp",
+            "pid": 17857,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pờ Hồ Thấp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4855789",
+            "lng": "103.65436120000004"
+        },
+        {
+            "id": 909382,
+            "name": "Xéo Tả Lé",
+            "pid": 17857,
+            "type": 16,
+            "region": null,
+            "alias": "Xéo Tả Lé",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.4855789",
+            "lng": "103.65436120000004"
+        }
+    ],
+    "log_id": "67581445209f0964"
+}

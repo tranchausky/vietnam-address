@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 437143,
+            "name": "Ấp Đông Bình",
+            "pid": 15673,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đông Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.056571",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 437139,
+            "name": "Đông Hậu",
+            "pid": 15673,
+            "type": 21,
+            "region": null,
+            "alias": "Đông Hậu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.056571",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 437141,
+            "name": "Đông Lợi",
+            "pid": 15673,
+            "type": 17,
+            "region": null,
+            "alias": "Đông Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.056571",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 437145,
+            "name": "Phù Ly 1",
+            "pid": 15673,
+            "type": 17,
+            "region": null,
+            "alias": "Phù Ly 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.056571",
+            "lng": "105.84664369999996"
+        },
+        {
+            "id": 437147,
+            "name": "Phù Ly 2",
+            "pid": 15673,
+            "type": 17,
+            "region": null,
+            "alias": "Phù Ly 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.056571",
+            "lng": "105.84664369999996"
+        }
+    ],
+    "log_id": "67590b599d15a953"
+}

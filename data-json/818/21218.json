@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616752,
+            "name": "Thôn 1",
+            "pid": 21218,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9405307",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 616746,
+            "name": "Thôn Bản Cáo",
+            "pid": 21218,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bản Cáo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9405307",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 616743,
+            "name": "Thôn Bản Chuối",
+            "pid": 21218,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bản Chuối",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9405307",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 616749,
+            "name": "Thôn Bản Kè",
+            "pid": 21218,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bản Kè",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9405307",
+            "lng": "105.75859079999998"
+        },
+        {
+            "id": 616758,
+            "name": "Thôn Tiền Phong",
+            "pid": 21218,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiền Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.9405307",
+            "lng": "105.75859079999998"
+        }
+    ],
+    "log_id": "675814aa175d1919"
+}

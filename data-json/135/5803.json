@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980753,
+            "name": "1- 213 Phương Lưu",
+            "pid": 5803,
+            "type": 29,
+            "region": null,
+            "alias": "1- 213 Phương Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980750,
+            "name": "252 - 316 Bùi Thị Từ Nhiên",
+            "pid": 5803,
+            "type": 21,
+            "region": null,
+            "alias": "252 - 316 Bùi Thị Từ Nhiên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 984618,
+            "name": "940-1368 Nguyễn Bỉnh Khiêm",
+            "pid": 5803,
+            "type": 29,
+            "region": null,
+            "alias": "940-1368 Nguyễn Bỉnh Khiêm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.854228615240114",
+            "lng": "106.72790066403643"
+        },
+        {
+            "id": 980758,
+            "name": "Hoàng Thế Thiện",
+            "pid": 5803,
+            "type": 21,
+            "region": null,
+            "alias": "Hoàng Thế Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 980761,
+            "name": "Trần Hưng Đạo -Đông Hải 1",
+            "pid": 5803,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Hưng Đạo -Đông Hải 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "67581366015c9360"
+}

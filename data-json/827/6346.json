@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 550053,
+            "name": "Dân Trù",
+            "pid": 6346,
+            "type": 16,
+            "region": null,
+            "alias": "Dân Trù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550055,
+            "name": "Lũng Hạ",
+            "pid": 6346,
+            "type": 16,
+            "region": null,
+            "alias": "Lũng Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550057,
+            "name": "Phương Trù",
+            "pid": 6346,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Trù",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        },
+        {
+            "id": 550059,
+            "name": "Yên Thư",
+            "pid": 6346,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Thư",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1962199",
+            "lng": "105.57088650000003"
+        }
+    ],
+    "log_id": "67581533530fa130"
+}

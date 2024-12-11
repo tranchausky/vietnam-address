@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 665314,
+            "name": "Trại Bò Sữa Số2",
+            "pid": 21446,
+            "type": 10,
+            "region": null,
+            "alias": "Trại Bò Sữa Số2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 665317,
+            "name": "Văn Phòng Điều Hành",
+            "pid": 21446,
+            "type": 10,
+            "region": null,
+            "alias": "Văn Phòng điều Hành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 528891,
+            "name": "Xóm Đoài Bắc",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đoài Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 528893,
+            "name": "Xóm Đông Nam",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Đông Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 528895,
+            "name": "Xóm Liên Tây",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Liên Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 528897,
+            "name": "Xóm Sơn Hạ",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sơn Hạ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 697594,
+            "name": "Xóm Sơn Tây",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sơn Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 528899,
+            "name": "Xóm Sơn Thượng",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sơn Thượng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        },
+        {
+            "id": 528901,
+            "name": "Xóm Sơn Trung",
+            "pid": 21446,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Sơn Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.419528",
+            "lng": "105.44800050000003"
+        }
+    ],
+    "log_id": "67581208e0d87968"
+}

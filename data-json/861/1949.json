@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 7647,
+            "name": "Phường 1",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.330204",
+            "lng": "105.97880110000006"
+        },
+        {
+            "id": 7648,
+            "name": "Phường 2",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3413311",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 7649,
+            "name": "Phường Khánh Hòa",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Khánh Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4068611",
+            "lng": "106.00524369999994"
+        },
+        {
+            "id": 7650,
+            "name": "Phường Vĩnh Phước",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Vĩnh Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.324166",
+            "lng": "105.93473840000001"
+        },
+        {
+            "id": 7651,
+            "name": "Xã Hòa Đông",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hòa Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.4250794",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 7652,
+            "name": "Xã Lạc Hòa",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lạc Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3821101",
+            "lng": "106.07577489999994"
+        },
+        {
+            "id": 7653,
+            "name": "Xã Lai Hòa",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Lai Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3069609",
+            "lng": "105.84077219999995"
+        },
+        {
+            "id": 7654,
+            "name": "Xã Vĩnh Hải",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3788328",
+            "lng": "106.14633170000002"
+        },
+        {
+            "id": 7655,
+            "name": "Xã Vĩnh Hiệp",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Hiệp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3875385",
+            "lng": "105.95823719999999"
+        },
+        {
+            "id": 7656,
+            "name": "Xã Vĩnh Tân",
+            "pid": 1949,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vĩnh Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3263079",
+            "lng": "105.88774940000008"
+        }
+    ],
+    "log_id": "675909c153a2f925"
+}

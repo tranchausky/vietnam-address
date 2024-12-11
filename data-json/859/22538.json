@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 468245,
+            "name": "Thôn 2",
+            "pid": 22538,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 468243,
+            "name": "Thôn Pà Tôi",
+            "pid": 22538,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pà Tôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        },
+        {
+            "id": 468239,
+            "name": "Thôn Vinh",
+            "pid": 22538,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.6628546",
+            "lng": "107.62153209999997"
+        }
+    ],
+    "log_id": "675817e1b81c0865"
+}

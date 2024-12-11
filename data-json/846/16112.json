@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 833005,
+            "name": "Tan My",
+            "pid": 16112,
+            "type": 17,
+            "region": null,
+            "alias": "Tan My",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2955679",
+            "lng": "105.59032649999996"
+        },
+        {
+            "id": 833008,
+            "name": "Tan Qui",
+            "pid": 16112,
+            "type": 17,
+            "region": null,
+            "alias": "Tan Qui",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2955679",
+            "lng": "105.59032649999996"
+        },
+        {
+            "id": 833014,
+            "name": "Tan Thanh",
+            "pid": 16112,
+            "type": 17,
+            "region": null,
+            "alias": "Tan Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2955679",
+            "lng": "105.59032649999996"
+        }
+    ],
+    "log_id": "675816c05c990133"
+}

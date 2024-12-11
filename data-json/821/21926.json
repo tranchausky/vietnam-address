@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 527757,
+            "name": "Bản Chà Lăn",
+            "pid": 21926,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Chà Lăn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4402912",
+            "lng": "104.25122209999995"
+        },
+        {
+            "id": 527759,
+            "name": "Bản Na",
+            "pid": 21926,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Na",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4402912",
+            "lng": "104.25122209999995"
+        },
+        {
+            "id": 527761,
+            "name": "Bản Noọng Ó",
+            "pid": 21926,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Noọng Ó",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4402912",
+            "lng": "104.25122209999995"
+        },
+        {
+            "id": 666094,
+            "name": "Bản Xốp Nhị",
+            "pid": 21926,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Xốp Nhị",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.4402912",
+            "lng": "104.25122209999995"
+        },
+        {
+            "id": 527763,
+            "name": "Bản Xốp Thạng",
+            "pid": 21926,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Xốp Thạng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4402912",
+            "lng": "104.25122209999995"
+        },
+        {
+            "id": 527765,
+            "name": "Bản Xốp Thập",
+            "pid": 21926,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Xốp Thập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.4402912",
+            "lng": "104.25122209999995"
+        }
+    ],
+    "log_id": "675812084bc5f820"
+}

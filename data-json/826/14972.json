@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 566422,
+            "name": "Chẵn 2 - 78 Nguyễn Huệ P Lê Lợi",
+            "pid": 14972,
+            "type": 21,
+            "region": null,
+            "alias": "Chẵn 2 - 78 Nguyễn Huệ P Lê Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.770526",
+            "lng": "109.234486"
+        },
+        {
+            "id": 748060,
+            "name": "Đường 31\/3",
+            "pid": 14972,
+            "type": 21,
+            "region": null,
+            "alias": "đường 31\/3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.776555800000002",
+            "lng": "109.23866840000004"
+        },
+        {
+            "id": 784171,
+            "name": "Lẻ 1 - 03 Nguyễn Trãi",
+            "pid": 14972,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 1 - 03 Nguyễn Trãi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7718937",
+            "lng": "109.2340898"
+        },
+        {
+            "id": 566425,
+            "name": "Lẻ 43 - 91 Nguyễn Huệ P. Lê Lợi",
+            "pid": 14972,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 43 - 91 Nguyễn Huệ P. Lê Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.769904",
+            "lng": "109.232607"
+        },
+        {
+            "id": 814924,
+            "name": "Trần Bình Trọng",
+            "pid": 14972,
+            "type": 21,
+            "region": null,
+            "alias": "Trần Bình Trọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7718937",
+            "lng": "109.2340898"
+        },
+        {
+            "id": 751873,
+            "name": "Trung Tâm An Ninh Phú Thịnh",
+            "pid": 14972,
+            "type": 4,
+            "region": null,
+            "alias": "Trung Tâm An Ninh Phú Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7718937",
+            "lng": "109.2340898"
+        }
+    ],
+    "log_id": "6758150ddf6a2419"
+}

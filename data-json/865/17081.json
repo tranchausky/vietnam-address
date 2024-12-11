@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 813295,
+            "name": "Tân Cổ",
+            "pid": 17081,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Cổ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7376288",
+            "lng": "105.77326330000005"
+        },
+        {
+            "id": 813289,
+            "name": "Tân Đa",
+            "pid": 17081,
+            "type": 16,
+            "region": null,
+            "alias": "Tân đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7376288",
+            "lng": "105.77326330000005"
+        },
+        {
+            "id": 816433,
+            "name": "Tân Tiền",
+            "pid": 17081,
+            "type": 21,
+            "region": null,
+            "alias": "Tân Tiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7376288",
+            "lng": "105.77326330000004"
+        },
+        {
+            "id": 827785,
+            "name": "Thôn Đắc Thọ",
+            "pid": 17081,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đắc Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7376288",
+            "lng": "105.77326330000005"
+        },
+        {
+            "id": 849889,
+            "name": "Thôn Tân Trúc",
+            "pid": 17081,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Tân Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7376288",
+            "lng": "105.77326330000005"
+        }
+    ],
+    "log_id": "67590a233322a840"
+}

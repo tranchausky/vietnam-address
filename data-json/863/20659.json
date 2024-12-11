@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 731131,
+            "name": "Kỳ Nha",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Kỳ Nha",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.47887140000002"
+        },
+        {
+            "id": 410319,
+            "name": "Thôn Đồng Uyên",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Uyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410317,
+            "name": "Thôn Nha Xuyên",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nha Xuyên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410325,
+            "name": "Thôn Phúc Tiền",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Tiền",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410323,
+            "name": "Thôn Phúc Trung",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410321,
+            "name": "Thôn Tân Phúc",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.4788714"
+        },
+        {
+            "id": 410327,
+            "name": "Thôn Xuân Phố",
+            "pid": 20659,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Phố",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.5044156",
+            "lng": "106.4788714"
+        }
+    ],
+    "log_id": "675909f3be9d2716"
+}

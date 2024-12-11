@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 816007,
+            "name": "Nhà Máy Thủy Điện Gia Hưng",
+            "pid": 22566,
+            "type": 16,
+            "region": null,
+            "alias": "Nhà Máy Thủy điện Gia Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8903214",
+            "lng": "107.67480690000002"
+        },
+        {
+            "id": 816004,
+            "name": "Thôn A Xanh",
+            "pid": 22566,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A Xanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8903214",
+            "lng": "107.67480690000002"
+        },
+        {
+            "id": 787357,
+            "name": "Thôn Ka Dâu",
+            "pid": 22566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ka Dâu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8152821",
+            "lng": "107.69256740000004"
+        },
+        {
+            "id": 787390,
+            "name": "Thôn Xà Nghìn",
+            "pid": 22566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Xà Nghìn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8903214",
+            "lng": "107.67480690000002"
+        },
+        {
+            "id": 787384,
+            "name": "Thôn Za Hung",
+            "pid": 22566,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Za Hung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8903214",
+            "lng": "107.67480690000002"
+        }
+    ],
+    "log_id": "675817e187b8b86"
+}

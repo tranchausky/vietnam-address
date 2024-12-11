@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 108707,
+            "name": "Thôn Phú Bình 1",
+            "pid": 16437,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Bình 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.121054",
+            "lng": "109.105795"
+        },
+        {
+            "id": 108715,
+            "name": "Thôn Phú Bình 2",
+            "pid": 16437,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Bình 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.128208",
+            "lng": "109.102040"
+        },
+        {
+            "id": 108721,
+            "name": "Thôn Vinh Bình",
+            "pid": 16437,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.119554",
+            "lng": "109.108820"
+        },
+        {
+            "id": 108723,
+            "name": "Thôn Xuân Lập",
+            "pid": 16437,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xuân Lập",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.121421",
+            "lng": "109.098885"
+        }
+    ],
+    "log_id": "67581585d6e03121"
+}

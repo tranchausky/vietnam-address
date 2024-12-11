@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 2042,
+            "name": "Huyện Chiêm Hóa",
+            "pid": 137,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Chiêm Hóa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1306765",
+            "lng": "105.26629309999998"
+        },
+        {
+            "id": 2043,
+            "name": "Huyện Hàm Yên",
+            "pid": 137,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Hàm Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.0839452",
+            "lng": "105.02717400000006"
+        },
+        {
+            "id": 2100,
+            "name": "Huyện Lâm Bình",
+            "pid": 137,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Lâm Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4565907",
+            "lng": "105.21705889999998"
+        },
+        {
+            "id": 2044,
+            "name": "Huyện Nà Hang",
+            "pid": 137,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Nà Hang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.4933358",
+            "lng": "105.35995679999996"
+        },
+        {
+            "id": 2045,
+            "name": "Huyện Sơn Dương",
+            "pid": 137,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Sơn Dương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.6571812",
+            "lng": "105.35995679999996"
+        },
+        {
+            "id": 2046,
+            "name": "Huyện Yên Sơn",
+            "pid": 137,
+            "type": 7,
+            "region": null,
+            "alias": "Huyện Yên Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.9447986",
+            "lng": "105.26629309999998"
+        },
+        {
+            "id": 2047,
+            "name": "Thành Phố Tuyên Quang",
+            "pid": 137,
+            "type": 3,
+            "region": null,
+            "alias": "Thành phố Tuyên Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.7767246",
+            "lng": "105.22801959999993"
+        }
+    ],
+    "log_id": "67581389f3971477"
+}

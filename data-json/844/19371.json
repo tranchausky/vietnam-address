@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 725113,
+            "name": ".Phú Cường",
+            "pid": 19371,
+            "type": 16,
+            "region": null,
+            "alias": ".phú Cường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2847573",
+            "lng": "107.9354068"
+        },
+        {
+            "id": 731551,
+            "name": "Phú Lợi",
+            "pid": 19371,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lợi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2847573",
+            "lng": "107.9354068"
+        },
+        {
+            "id": 731542,
+            "name": "Phú Mỹ",
+            "pid": 19371,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2847573",
+            "lng": "107.9354068"
+        },
+        {
+            "id": 764758,
+            "name": "Phú Tân",
+            "pid": 19371,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Tân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2847573",
+            "lng": "107.9354068"
+        },
+        {
+            "id": 731545,
+            "name": "Phú Thịnh",
+            "pid": 19371,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Thịnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2847573",
+            "lng": "107.9354068"
+        },
+        {
+            "id": 764755,
+            "name": "Phú Tiến",
+            "pid": 19371,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2847573",
+            "lng": "107.9354068"
+        }
+    ],
+    "log_id": "6758169125bc659"
+}

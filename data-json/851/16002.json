@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 111421,
+            "name": "Ấp Đập Đá",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Đập Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.142771",
+            "lng": "105.090389"
+        },
+        {
+            "id": 111453,
+            "name": "Ấp Phước Hảo",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.179234",
+            "lng": "105.130249"
+        },
+        {
+            "id": 111481,
+            "name": "Ấp Phước Tân",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.142771",
+            "lng": "105.090393"
+        },
+        {
+            "id": 111491,
+            "name": "Ấp Phước Thái",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.135180",
+            "lng": "105.100722"
+        },
+        {
+            "id": 111467,
+            "name": "Ấp Phước Thạnh",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Phước Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.135032",
+            "lng": "105.100342"
+        },
+        {
+            "id": 111431,
+            "name": "Ấp Tràm Dưỡng",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tràm Dưỡng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.142771",
+            "lng": "105.090390"
+        },
+        {
+            "id": 968812,
+            "name": "Chợ Đập Đá",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "Chợ Đập Đá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.154791",
+            "lng": "105.106935"
+        },
+        {
+            "id": 968850,
+            "name": "Trường Thcs Phước Hảo",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "Trường THCS Phước hảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.180776",
+            "lng": "105.132310"
+        },
+        {
+            "id": 968846,
+            "name": "Ubnd Xã Mỹ Phước",
+            "pid": 16002,
+            "type": 17,
+            "region": null,
+            "alias": "UBND xã Mỹ Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.122322",
+            "lng": "105.078562"
+        }
+    ],
+    "log_id": "675817364a716781"
+}

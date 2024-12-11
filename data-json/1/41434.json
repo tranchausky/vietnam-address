@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877303,
+            "name": "Đường Đê Quai",
+            "pid": 41434,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đê Quai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,063486",
+            "lng": "105,830977"
+        },
+        {
+            "id": 830290,
+            "name": "Đường Nước Phần Lan",
+            "pid": 41434,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nước Phần Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0695076",
+            "lng": "105.83783659999995"
+        }
+    ],
+    "log_id": "675811bd6bc34216"
+}

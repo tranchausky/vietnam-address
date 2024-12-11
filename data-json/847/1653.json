@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 18094,
+            "name": "Phường Cheo Reo",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Cheo Reo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.4235122",
+            "lng": "108.42463739999994"
+        },
+        {
+            "id": 18098,
+            "name": "Phường Đoàn Kết",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đoàn Kết",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.4008921",
+            "lng": "108.43057199999998"
+        },
+        {
+            "id": 18097,
+            "name": "Phường Hòa Bình",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hòa Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.4115321",
+            "lng": "108.4365067"
+        },
+        {
+            "id": 18099,
+            "name": "Phường Sông Bờ",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Sông Bờ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.3944576",
+            "lng": "108.4424414"
+        },
+        {
+            "id": 18100,
+            "name": "Xã Chư Băh",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Chư Băh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.3743393",
+            "lng": "108.39898089999997"
+        },
+        {
+            "id": 18101,
+            "name": "Xã Ia Rbol",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ia Rbol",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        },
+        {
+            "id": 18102,
+            "name": "Xã Ia Rtô",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ia RTô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.359391",
+            "lng": "108.47585400000003"
+        },
+        {
+            "id": 18103,
+            "name": "Xã Ia Sao",
+            "pid": 1653,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Ia Sao",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.344339",
+            "lng": "108.447079"
+        }
+    ],
+    "log_id": "675816d312ca2103"
+}

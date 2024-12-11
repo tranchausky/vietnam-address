@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 98708,
+            "name": "Đội 8 Nhị Khê",
+            "pid": 4909,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 8 Nhị Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.898683",
+            "lng": "105.8374141"
+        },
+        {
+            "id": 98711,
+            "name": "Đội 9",
+            "pid": 4909,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 9",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8583468",
+            "lng": "105.9259271"
+        },
+        {
+            "id": 98669,
+            "name": "Khu Tập Thể Luyện Kim",
+            "pid": 4909,
+            "type": 21,
+            "region": null,
+            "alias": "khu tập thể luyện kim",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8985052",
+            "lng": "105.8266193"
+        },
+        {
+            "id": 98663,
+            "name": "Khu Tập Thể Que Hàn",
+            "pid": 4909,
+            "type": 21,
+            "region": null,
+            "alias": "khu tập thể Que Hàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8950451",
+            "lng": "105.8558183"
+        },
+        {
+            "id": 979608,
+            "name": "Quán Gánh, Nhị Khê, Thường Tín, Hà Nội",
+            "pid": 4909,
+            "type": 16,
+            "region": null,
+            "alias": "Quán Gánh, Nhị Khê, Thường Tín, Hà Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.89468440460495",
+            "lng": "105.85579271468923"
+        },
+        {
+            "id": 98681,
+            "name": "Thôn Thượng Đình",
+            "pid": 4909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8965135",
+            "lng": "105.8517814"
+        },
+        {
+            "id": 98690,
+            "name": "Thôn Văn Xá",
+            "pid": 4909,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Văn Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 53682,
+            "name": "Thpt Nguyễn Trãi",
+            "pid": 4909,
+            "type": 9,
+            "region": null,
+            "alias": "THPT Nguyễn Trãi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 55586,
+            "name": "Ubnd Xã Nhị Khê",
+            "pid": 4909,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Nhị Khê",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bc9eb50214"
+}

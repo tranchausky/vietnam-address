@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 578892,
+            "name": "Bản Cang",
+            "pid": 21388,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Cang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.741569449687713",
+            "lng": "104.93531670162437"
+        },
+        {
+            "id": 578880,
+            "name": "Xóm Chà Đáy",
+            "pid": 21388,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chà Đáy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.736723919281",
+            "lng": "104.91651259337799"
+        },
+        {
+            "id": 578889,
+            "name": "Xóm Pà Cò Con",
+            "pid": 21388,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Pà Cò con",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7545803",
+            "lng": "104.89428599999997"
+        },
+        {
+            "id": 578886,
+            "name": "Xóm Pà Cò Lớn",
+            "pid": 21388,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Pà Cò Lớn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7545803",
+            "lng": "104.89428599999997"
+        },
+        {
+            "id": 578883,
+            "name": "Xóm Pà Háng Lớn",
+            "pid": 21388,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Pà Háng Lớn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.761719056717645",
+            "lng": "104.87285488153223"
+        },
+        {
+            "id": 578877,
+            "name": "Xóm Xà Lính",
+            "pid": 21388,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Xà Lính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.743598866487147",
+            "lng": "104.92048781939597"
+        }
+    ],
+    "log_id": "6758172141b8e924"
+}

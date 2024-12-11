@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 638271,
+            "name": "Thôn Chuẩn Thừng",
+            "pid": 7160,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chuẩn Thừng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9141947",
+            "lng": "106.48476189999997"
+        },
+        {
+            "id": 638265,
+            "name": "Thôn Phù Tải I",
+            "pid": 7160,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Tải I",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9141947",
+            "lng": "106.48476189999997"
+        },
+        {
+            "id": 638268,
+            "name": "Thôn Phù Tải Ii",
+            "pid": 7160,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phù Tải II",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9141947",
+            "lng": "106.48476189999997"
+        }
+    ],
+    "log_id": "675813f2016e2809"
+}

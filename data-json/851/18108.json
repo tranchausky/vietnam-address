@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116511,
+            "name": "Ấp Kênh 1",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp kênh 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.521500",
+            "lng": "105.227846"
+        },
+        {
+            "id": 116521,
+            "name": "Ấp Kênh 1A",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp kênh 1a",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.536902",
+            "lng": "105.212005"
+        },
+        {
+            "id": 116533,
+            "name": "Ấp Kênh 2",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp kênh 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.513092",
+            "lng": "105.200838"
+        },
+        {
+            "id": 116525,
+            "name": "Ấp Kênh 2A",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp kênh 2a",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.511729",
+            "lng": "105.202533"
+        },
+        {
+            "id": 116515,
+            "name": "Ấp Lò Rèn",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Lò Rèn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.520682",
+            "lng": "105.215885"
+        },
+        {
+            "id": 116507,
+            "name": "Ấp Thắng Lợi",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp thắng lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.566870",
+            "lng": " 105.204329"
+        },
+        {
+            "id": 116539,
+            "name": "Ấp Vĩnh Lộc 1",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.491939",
+            "lng": "105.237798"
+        },
+        {
+            "id": 116541,
+            "name": "Ấp Vĩnh Lộc 2",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Vĩnh Lộc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.491939",
+            "lng": "105.237798"
+        },
+        {
+            "id": 965264,
+            "name": "Chợ Nổi Vĩnh Lộc 1",
+            "pid": 18108,
+            "type": 17,
+            "region": null,
+            "alias": "Chợ Nổi Vĩnh Lộc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.498792",
+            "lng": "105.244622"
+        },
+        {
+            "id": 967740,
+            "name": "Ubnd Xã Tân Thuận",
+            "pid": 18108,
+            "type": 16,
+            "region": null,
+            "alias": "UBND xã Tân Thuận",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.524450",
+            "lng": "105.224648"
+        }
+    ],
+    "log_id": "675817363bdd6620"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 628839,
+            "name": "Bến Long",
+            "pid": 15718,
+            "type": 16,
+            "region": null,
+            "alias": "Bến Long",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0086834",
+            "lng": "106.0113715"
+        },
+        {
+            "id": 628848,
+            "name": "Liễu Khê",
+            "pid": 15718,
+            "type": 16,
+            "region": null,
+            "alias": "Liễu Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0041988",
+            "lng": "106.0143221"
+        },
+        {
+            "id": 628845,
+            "name": "Liễu Lâm",
+            "pid": 15718,
+            "type": 16,
+            "region": null,
+            "alias": "Liễu Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0004853",
+            "lng": "106.0076701"
+        },
+        {
+            "id": 628842,
+            "name": "Ngọc Lâm",
+            "pid": 15718,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0051353",
+            "lng": "105.9935295"
+        },
+        {
+            "id": 628851,
+            "name": "Ngọc Tỉnh",
+            "pid": 15718,
+            "type": 16,
+            "region": null,
+            "alias": "Ngọc Tỉnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0058314",
+            "lng": "106.0210168"
+        }
+    ],
+    "log_id": "675815f8c24fc907"
+}

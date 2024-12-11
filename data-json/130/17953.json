@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 803071,
+            "name": "Bản Mé",
+            "pid": 17953,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Mé",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0176455",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 803074,
+            "name": "Bản Ngoàng",
+            "pid": 17953,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Ngoàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0176455",
+            "lng": "104.32100949999995"
+        },
+        {
+            "id": 911281,
+            "name": "Bản Pút",
+            "pid": 17953,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Pút",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0176455",
+            "lng": "104.32100949999996"
+        },
+        {
+            "id": 803077,
+            "name": "Bản Tủm",
+            "pid": 17953,
+            "type": 16,
+            "region": null,
+            "alias": "bản tủm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0176455",
+            "lng": "104.32100949999995"
+        }
+    ],
+    "log_id": "675812ef19780686"
+}

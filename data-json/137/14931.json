@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 864517,
+            "name": "Phú Lâm",
+            "pid": 14931,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1973822",
+            "lng": "105.41852270000004"
+        },
+        {
+            "id": 710953,
+            "name": "Phú Lâm",
+            "pid": 14931,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.187332",
+            "lng": "105.426412"
+        },
+        {
+            "id": 832801,
+            "name": "Phú Linh",
+            "pid": 14931,
+            "type": 16,
+            "region": null,
+            "alias": "Phú Linh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1973822",
+            "lng": "105.41852270000004"
+        }
+    ],
+    "log_id": "6758138a2f3f168"
+}

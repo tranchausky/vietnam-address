@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 577824,
+            "name": "Thôn Phát Chi",
+            "pid": 13494,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phát Chi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8668251",
+            "lng": "108.56168509999998"
+        },
+        {
+            "id": 577827,
+            "name": "Thôn Trường Thọ",
+            "pid": 13494,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trường Thọ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.8668251",
+            "lng": "108.56168509999998"
+        },
+        {
+            "id": 577818,
+            "name": "Trạm Hành 1",
+            "pid": 13494,
+            "type": 16,
+            "region": null,
+            "alias": "Trạm Hành 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8668251",
+            "lng": "108.56168509999998"
+        },
+        {
+            "id": 577821,
+            "name": "Trạm Hành 2",
+            "pid": 13494,
+            "type": 16,
+            "region": null,
+            "alias": "Trạm Hành 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.8668251",
+            "lng": "108.56168509999998"
+        }
+    ],
+    "log_id": "67581771cb566502"
+}

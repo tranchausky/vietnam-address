@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 600360,
+            "name": "Đài Trúc",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "Đài Trúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 600378,
+            "name": "Hưng Thông",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "Hưng Thông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 600372,
+            "name": "Khu Phố Đồn Trại",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Đồn Trại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 600363,
+            "name": "Khu Phố Khang Thái",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Khang Thái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 600375,
+            "name": "Trung Kinh",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "Trung Kinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 600369,
+            "name": "Văn Phú",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "Văn Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        },
+        {
+            "id": 600366,
+            "name": "Vinh Phúc",
+            "pid": 25252,
+            "type": 21,
+            "region": null,
+            "alias": "Vinh Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.7528378",
+            "lng": "105.86132329999998"
+        }
+    ],
+    "log_id": "67590a239c9c7593"
+}

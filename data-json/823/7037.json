@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 94151,
+            "name": "Ấp Lò Than",
+            "pid": 7037,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lò Than",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.835355",
+            "lng": "107.273209"
+        },
+        {
+            "id": 94154,
+            "name": "Ấp Tân Bảo",
+            "pid": 7037,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Bảo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.835633",
+            "lng": "107.301997"
+        },
+        {
+            "id": 94157,
+            "name": "Ấp Tân Bình",
+            "pid": 7037,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.835783",
+            "lng": "107.298203"
+        },
+        {
+            "id": 94163,
+            "name": "Ấp Tân Hòa",
+            "pid": 7037,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.831154",
+            "lng": "107.294058"
+        },
+        {
+            "id": 94160,
+            "name": "Ấp Tân Xuân",
+            "pid": 7037,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.836107",
+            "lng": "107.293606"
+        }
+    ],
+    "log_id": "675814dd4320c624"
+}

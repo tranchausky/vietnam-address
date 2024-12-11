@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 565714,
+            "name": "Khu 3",
+            "pid": 15555,
+            "type": 21,
+            "region": null,
+            "alias": "khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.380501",
+            "lng": "102.821967"
+        },
+        {
+            "id": 565726,
+            "name": "Khu 7",
+            "pid": 15555,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.387926",
+            "lng": "102.811566"
+        },
+        {
+            "id": 565729,
+            "name": "Khu 8",
+            "pid": 15555,
+            "type": 21,
+            "region": null,
+            "alias": "khu 8",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.385733",
+            "lng": "102.804222"
+        },
+        {
+            "id": 565732,
+            "name": "Khu 9",
+            "pid": 15555,
+            "type": 21,
+            "region": null,
+            "alias": "khu 9",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.385159",
+            "lng": "102.795807"
+        },
+        {
+            "id": 565735,
+            "name": "Khu 10",
+            "pid": 15555,
+            "type": 21,
+            "region": null,
+            "alias": "khu 10",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.384783",
+            "lng": "102.808369"
+        },
+        {
+            "id": 565741,
+            "name": "Khu 12",
+            "pid": 15555,
+            "type": 5,
+            "region": null,
+            "alias": "khu 12",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.379347",
+            "lng": "102.821058"
+        }
+    ],
+    "log_id": "6758175e6a709827"
+}

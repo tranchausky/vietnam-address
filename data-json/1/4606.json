@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117643,
+            "name": "An Mỹ",
+            "pid": 4606,
+            "type": 16,
+            "region": null,
+            "alias": "An Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.016643,",
+            "lng": "106.6818922"
+        },
+        {
+            "id": 117647,
+            "name": "An Thượng",
+            "pid": 4606,
+            "type": 16,
+            "region": null,
+            "alias": "An Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9895318",
+            "lng": "105.7028457"
+        },
+        {
+            "id": 117649,
+            "name": "Đồng Luân",
+            "pid": 4606,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Luân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.855611,",
+            "lng": "105.7167804"
+        },
+        {
+            "id": 1009425,
+            "name": "Hn57_Nghĩa Trang Xã Đồng Luân",
+            "pid": 4606,
+            "type": 17,
+            "region": null,
+            "alias": "HN57_Nghĩa trang xã Đồng Luân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.853317933877324",
+            "lng": "105.71564469190352"
+        },
+        {
+            "id": 117651,
+            "name": "Trung Vực Ngoài",
+            "pid": 4606,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Vực Ngoài",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8509486",
+            "lng": "105.7241684"
+        },
+        {
+            "id": 117653,
+            "name": "Trung Vực Trong",
+            "pid": 4606,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Vực Trong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8487464",
+            "lng": "105.7204476"
+        },
+        {
+            "id": 54350,
+            "name": "Ubnd Xã Thượng Vực",
+            "pid": 4606,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thượng Vực",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bb73ce6843"
+}

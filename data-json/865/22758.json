@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 699061,
+            "name": "Cao Phong",
+            "pid": 22758,
+            "type": 9,
+            "region": null,
+            "alias": "Cao phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.906271148222586",
+            "lng": "105.54986591125794"
+        },
+        {
+            "id": 699049,
+            "name": "Nhà Vườn Hảo Xinh",
+            "pid": 22758,
+            "type": 16,
+            "region": null,
+            "alias": "Nhà vườn Hảo Xinh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.910177568351145",
+            "lng": "105.53428043741303"
+        },
+        {
+            "id": 699058,
+            "name": "Phố Neo",
+            "pid": 22758,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Neo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.908614",
+            "lng": "105.54450640000003"
+        },
+        {
+            "id": 699052,
+            "name": "Phong Lạc 1",
+            "pid": 22758,
+            "type": 16,
+            "region": null,
+            "alias": "Phong Lạc 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": "105.54450640000003"
+        },
+        {
+            "id": 880348,
+            "name": "Phong Lạc 2",
+            "pid": 22758,
+            "type": 16,
+            "region": null,
+            "alias": "Phong Lạc 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.908614",
+            "lng": "105.54450640000003"
+        },
+        {
+            "id": 984143,
+            "name": "Thôn Cao Phong",
+            "pid": 22758,
+            "type": 4,
+            "region": null,
+            "alias": "thôn cao phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.908291606661578",
+            "lng": "105.54458431153193"
+        },
+        {
+            "id": 701989,
+            "name": "Thôn Kim Bảng",
+            "pid": 22758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Bảng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.908614",
+            "lng": "105.54450640000003"
+        },
+        {
+            "id": 699064,
+            "name": "Thôn Phú Gia",
+            "pid": 22758,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Gia",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.908614",
+            "lng": "105.54450640000003"
+        }
+    ],
+    "log_id": "67590a23d9501495"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 414559,
+            "name": "Đại Lâm",
+            "pid": 13606,
+            "type": 16,
+            "region": null,
+            "alias": "Đại Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.218655",
+            "lng": "106.032722"
+        },
+        {
+            "id": 414553,
+            "name": "Đức Lý",
+            "pid": 13606,
+            "type": 16,
+            "region": null,
+            "alias": "Đức Lý",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.240400",
+            "lng": "106.019092"
+        },
+        {
+            "id": 414557,
+            "name": "Phấn Động",
+            "pid": 13606,
+            "type": 16,
+            "region": null,
+            "alias": "Phấn Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.227962",
+            "lng": "106.032464"
+        },
+        {
+            "id": 414555,
+            "name": "Thọ Đức",
+            "pid": 13606,
+            "type": 16,
+            "region": null,
+            "alias": "Thọ Đức",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.241902",
+            "lng": "106.025480"
+        }
+    ],
+    "log_id": "675815f8d64ae759"
+}

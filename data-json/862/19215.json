@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 493953,
+            "name": "Ấp Bầu Vừng",
+            "pid": 19215,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bầu Vừng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 493955,
+            "name": "Ấp Cây Nính",
+            "pid": 19215,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cây Nính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        },
+        {
+            "id": 493957,
+            "name": "Ấp Xóm Mía",
+            "pid": 19215,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Xóm Mía",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.1402783",
+            "lng": "106.27575139999999"
+        }
+    ],
+    "log_id": "675909dcc5cd5553"
+}

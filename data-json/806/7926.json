@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 962786,
+            "name": "Hamaco",
+            "pid": 7926,
+            "type": 21,
+            "region": null,
+            "alias": "Hamaco",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0560844",
+            "lng": "105.7671947"
+        },
+        {
+            "id": 954622,
+            "name": "Hội Linh Cổ Tự",
+            "pid": 7926,
+            "type": 21,
+            "region": null,
+            "alias": "Hội Linh Cổ Tự",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.0632194",
+            "lng": "105.7630668"
+        }
+    ],
+    "log_id": "6758140c7faf590"
+}

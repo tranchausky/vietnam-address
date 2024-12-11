@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 6221,
+            "name": "Phường 1",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7781802",
+            "lng": "105.46685449999995"
+        },
+        {
+            "id": 6222,
+            "name": "Phường 3",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.762531899999999",
+            "lng": "105.46353249999993"
+        },
+        {
+            "id": 6223,
+            "name": "Phường 4",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7956954",
+            "lng": "105.46831930000008"
+        },
+        {
+            "id": 6224,
+            "name": "Phường 5",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7814906",
+            "lng": "105.4829681"
+        },
+        {
+            "id": 6225,
+            "name": "Phường 7",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 7",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7540429",
+            "lng": "105.43316729999992"
+        },
+        {
+            "id": 6227,
+            "name": "Xã Hỏa Lựu",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hỏa Lựu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.729783699999999",
+            "lng": "105.43996420000008"
+        },
+        {
+            "id": 6229,
+            "name": "Xã Hỏa Tiến",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hỏa Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7228528",
+            "lng": "105.39612950000003"
+        },
+        {
+            "id": 6228,
+            "name": "Xã Tân Tiến",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7432237",
+            "lng": "105.3991413"
+        },
+        {
+            "id": 6226,
+            "name": "Xã Vị Tân",
+            "pid": 1701,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Vị Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.7756245",
+            "lng": "105.43661870000005"
+        }
+    ],
+    "log_id": "675816fe0c15e244"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 827239,
+            "name": "Kéo Nọi",
+            "pid": 19833,
+            "type": 16,
+            "region": null,
+            "alias": "Kéo Nọi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7284177",
+            "lng": "106.48651459999996"
+        },
+        {
+            "id": 715825,
+            "name": "Kéo Phị",
+            "pid": 19833,
+            "type": 16,
+            "region": null,
+            "alias": "Kéo Phị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7284177",
+            "lng": "106.48651459999996"
+        },
+        {
+            "id": 786091,
+            "name": "Pá Tào",
+            "pid": 19833,
+            "type": 16,
+            "region": null,
+            "alias": "Pá Tào",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.7284177",
+            "lng": "106.48651459999996"
+        }
+    ],
+    "log_id": "6758133f26027503"
+}

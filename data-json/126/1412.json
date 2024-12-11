@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 655321,
+            "name": "Chẵn 110-186 Đặng Văn Ngữ",
+            "pid": 1412,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 110-186 Đặng Văn Ngữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.790868",
+            "lng": "106.666699"
+        },
+        {
+            "id": 806821,
+            "name": "Chẵn 346-420 Huỳnh Văn Bánh",
+            "pid": 1412,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 346-420 Huỳnh Văn Bánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7918062",
+            "lng": "106.669381"
+        },
+        {
+            "id": 95930,
+            "name": "Chẵn 1200-1266 Trường Sa",
+            "pid": 1412,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 1200-1266 Trường Sa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7909628",
+            "lng": "106.6660532"
+        },
+        {
+            "id": 682711,
+            "name": "Đường Đặng Văn Ngữ",
+            "pid": 1412,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đặng Văn Ngữ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7928047",
+            "lng": "106.6682924"
+        },
+        {
+            "id": 671137,
+            "name": "Đường Huỳnh Văn Bánh",
+            "pid": 1412,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Huỳnh Văn Bánh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7916755",
+            "lng": "106.6701196"
+        },
+        {
+            "id": 672685,
+            "name": "Đường Lê Văn Sỹ",
+            "pid": 1412,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7933988",
+            "lng": "106.6695074"
+        },
+        {
+            "id": 681709,
+            "name": "Đường Trường Sa",
+            "pid": 1412,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trường Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7894534",
+            "lng": "106.6674154"
+        },
+        {
+            "id": 95915,
+            "name": "Lẻ 47-175 Đặng Văn Ngữ",
+            "pid": 1412,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 47-175 Đặng Văn Ngữ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7913238",
+            "lng": "106.6664876"
+        },
+        {
+            "id": 95918,
+            "name": "Lẻ 149-257 Lê Văn Sỹ",
+            "pid": 1412,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 149-257 Lê Văn Sỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.793918",
+            "lng": "106.668546"
+        }
+    ],
+    "log_id": "6758129ab813c271"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 417155,
+            "name": "Thôn Hát 1",
+            "pid": 21865,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hát 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.436359",
+            "lng": "104.39665030000003"
+        },
+        {
+            "id": 417157,
+            "name": "Thôn Hát 2",
+            "pid": 21865,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hát 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.436359",
+            "lng": "104.39665030000003"
+        },
+        {
+            "id": 417159,
+            "name": "Thôn Lừu 1",
+            "pid": 21865,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lừu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.436359",
+            "lng": "104.39665030000003"
+        },
+        {
+            "id": 417161,
+            "name": "Thôn Lừu 2",
+            "pid": 21865,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lừu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.436359",
+            "lng": "104.39665030000003"
+        }
+    ],
+    "log_id": "6758131fa440a272"
+}

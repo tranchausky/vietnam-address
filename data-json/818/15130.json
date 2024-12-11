@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 732016,
+            "name": "Nguyễn Dình Chiểu",
+            "pid": 15130,
+            "type": 21,
+            "region": null,
+            "alias": "Nguyễn Dình Chiểu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.465556",
+            "lng": "106.6225"
+        },
+        {
+            "id": 615552,
+            "name": "Tổ Dân Phố 1",
+            "pid": 15130,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.475711",
+            "lng": "106.6247095"
+        },
+        {
+            "id": 615555,
+            "name": "Tổ Dân Phố 2",
+            "pid": 15130,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.475711",
+            "lng": "106.6247095"
+        },
+        {
+            "id": 615558,
+            "name": "Tổ Dân Phố 3",
+            "pid": 15130,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.475711",
+            "lng": "106.6247095"
+        },
+        {
+            "id": 615561,
+            "name": "Tổ Dân Phố 4",
+            "pid": 15130,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.475711",
+            "lng": "106.6247095"
+        },
+        {
+            "id": 615564,
+            "name": "Tổ Dân Phố 5",
+            "pid": 15130,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ dân phố 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.475711",
+            "lng": "106.6247095"
+        }
+    ],
+    "log_id": "675814aa17c4d168"
+}

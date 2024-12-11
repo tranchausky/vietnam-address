@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 525273,
+            "name": "Đường Bùi Thị Xuân",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Thị Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525277,
+            "name": "Đường Giải Phóng",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Giải Phóng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525279,
+            "name": "Đường Nguyễn An Ninh",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn An Ninh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525281,
+            "name": "Đường Nguyễn Thái Học",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thái Học",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525283,
+            "name": "Đường Nguyễn Tri Phương",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Tri Phương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525289,
+            "name": "Đường Trân Huy Liệu",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trân Huy Liệu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        },
+        {
+            "id": 525293,
+            "name": "Đường Văn Cao",
+            "pid": 5996,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Văn Cao",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4388225",
+            "lng": "106.16210530000001"
+        }
+    ],
+    "log_id": "6758145d7f335211"
+}

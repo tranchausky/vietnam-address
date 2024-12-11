@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514109,
+            "name": "Bằng Bộ",
+            "pid": 7205,
+            "type": 16,
+            "region": null,
+            "alias": "Bằng Bộ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7579699",
+            "lng": "106.21085289999996"
+        },
+        {
+            "id": 514111,
+            "name": "Cao Lý",
+            "pid": 7205,
+            "type": 16,
+            "region": null,
+            "alias": "Cao Lý",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7579699",
+            "lng": "106.21085289999996"
+        },
+        {
+            "id": 514113,
+            "name": "Hoà Bình",
+            "pid": 7205,
+            "type": 16,
+            "region": null,
+            "alias": "Hoà Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7579699",
+            "lng": "106.21085289999996"
+        },
+        {
+            "id": 514115,
+            "name": "Phạm Khê",
+            "pid": 7205,
+            "type": 16,
+            "region": null,
+            "alias": "Phạm Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7579699",
+            "lng": "106.21085289999996"
+        },
+        {
+            "id": 514117,
+            "name": "Văn Khê",
+            "pid": 7205,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7579699",
+            "lng": "106.21085289999996"
+        }
+    ],
+    "log_id": "675813f1df82e566"
+}

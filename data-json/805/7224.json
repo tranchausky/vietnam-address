@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 811696,
+            "name": "Duong Le Thanh Tong",
+            "pid": 7224,
+            "type": 22,
+            "region": null,
+            "alias": "Duong Le Thanh Tong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0828863",
+            "lng": "106.35077679999995"
+        },
+        {
+            "id": 725389,
+            "name": "Kinh Trung",
+            "pid": 7224,
+            "type": 21,
+            "region": null,
+            "alias": "Kinh Trung",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0828863",
+            "lng": "106.35077679999996"
+        },
+        {
+            "id": 811648,
+            "name": "Kỳ Đặc",
+            "pid": 7224,
+            "type": 21,
+            "region": null,
+            "alias": "Kỳ đặc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1085338",
+            "lng": "106.39053379999996"
+        },
+        {
+            "id": 111613,
+            "name": "Thôn Kiệt Thượng",
+            "pid": 7224,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kiệt Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0883792",
+            "lng": "106.3420071"
+        },
+        {
+            "id": 843007,
+            "name": "Trại Mới",
+            "pid": 7224,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0828863",
+            "lng": "106.35077679999996"
+        },
+        {
+            "id": 843004,
+            "name": "Trại Sen",
+            "pid": 7224,
+            "type": 16,
+            "region": null,
+            "alias": "Trại Sen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.073335",
+            "lng": "106.390441"
+        },
+        {
+            "id": 811735,
+            "name": "Văn An",
+            "pid": 7224,
+            "type": 10,
+            "region": null,
+            "alias": "Văn An",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0506973",
+            "lng": "106.39053379999996"
+        }
+    ],
+    "log_id": "675813f1cfe3125"
+}

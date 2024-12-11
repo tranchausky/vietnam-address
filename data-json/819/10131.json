@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 554447,
+            "name": "Khu 1",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 554449,
+            "name": "Khu 2",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 554451,
+            "name": "Khu 3",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 554453,
+            "name": "Khu 4",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 554455,
+            "name": "Khu 5",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 5",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 554457,
+            "name": "Khu 6",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 6",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 554459,
+            "name": "Khu 7",
+            "pid": 10131,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.5227428",
+            "lng": "107.91763119999996"
+        },
+        {
+            "id": 662812,
+            "name": "Km2 Hải Yên",
+            "pid": 10131,
+            "type": 10,
+            "region": null,
+            "alias": "Km2 Hải Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.542828",
+            "lng": "107.914542"
+        },
+        {
+            "id": 662806,
+            "name": "Km6 Hải Yên",
+            "pid": 10131,
+            "type": 10,
+            "region": null,
+            "alias": "Km6 Hải Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.537247",
+            "lng": "107.945151"
+        },
+        {
+            "id": 662809,
+            "name": "Km7 Hải Yên",
+            "pid": 10131,
+            "type": 10,
+            "region": null,
+            "alias": "Km7 Hải Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.537247",
+            "lng": "107.945151"
+        }
+    ],
+    "log_id": "675814c244a6710"
+}

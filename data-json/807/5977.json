@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 103151,
+            "name": "Thôn An Thư",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.524137",
+            "lng": "105.991751"
+        },
+        {
+            "id": 102998,
+            "name": "Thôn Bùi",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bùi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.535230",
+            "lng": "105.974805"
+        },
+        {
+            "id": 103100,
+            "name": "Thôn Đôn Thư",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đôn Thư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.525149",
+            "lng": "105.987553"
+        },
+        {
+            "id": 103307,
+            "name": "Thôn Hoàng",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.533891",
+            "lng": "105.991791"
+        },
+        {
+            "id": 103058,
+            "name": "Thôn Nguyễn",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nguyễn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.536213",
+            "lng": "105.977061"
+        },
+        {
+            "id": 103076,
+            "name": "Thôn Thượng",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.541407",
+            "lng": "105.982060"
+        },
+        {
+            "id": 103067,
+            "name": "Thôn Tràng",
+            "pid": 5977,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tràng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.544119",
+            "lng": "105.977420"
+        }
+    ],
+    "log_id": "675814283bd40552"
+}

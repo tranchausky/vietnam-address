@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 565696,
+            "name": "Bản Huổi Chát 1",
+            "pid": 15549,
+            "type": 16,
+            "region": null,
+            "alias": "bản Huổi Chát 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.112975",
+            "lng": "102.969007"
+        },
+        {
+            "id": 565699,
+            "name": "Bản Huổi Chát 2",
+            "pid": 15549,
+            "type": 16,
+            "region": null,
+            "alias": "bản Huổi Chát 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.125736",
+            "lng": "102.942841"
+        },
+        {
+            "id": 565702,
+            "name": "Bản Huổi Héo",
+            "pid": 15549,
+            "type": 16,
+            "region": null,
+            "alias": "bản Huổi Héo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.106381",
+            "lng": "102.985145"
+        },
+        {
+            "id": 564892,
+            "name": "Bản Nậm Manh",
+            "pid": 15549,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Nậm Manh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.070592",
+            "lng": "103.006431"
+        },
+        {
+            "id": 565693,
+            "name": "Bản Nậm Nàn",
+            "pid": 15549,
+            "type": 16,
+            "region": null,
+            "alias": "bản Nậm Nàn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.084560",
+            "lng": "102.955396"
+        },
+        {
+            "id": 565705,
+            "name": "Bản Phiêng Manh",
+            "pid": 15549,
+            "type": 16,
+            "region": null,
+            "alias": "bản Phiêng Manh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.107198",
+            "lng": "102.985830"
+        }
+    ],
+    "log_id": "6758175e65cc1955"
+}

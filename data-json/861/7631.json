@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434777,
+            "name": "Ấp Cái Đường",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Đường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.597056",
+            "lng": "106.054167"
+        },
+        {
+            "id": 434779,
+            "name": "Ấp Cái Quanh",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Quanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.614417",
+            "lng": "106.052000"
+        },
+        {
+            "id": 434781,
+            "name": "Ấp Cái Xe",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Cái Xe",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.623972",
+            "lng": "106.044556"
+        },
+        {
+            "id": 434783,
+            "name": "Ấp Mương Tra",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mương Tra",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.589944",
+            "lng": "106.022222"
+        },
+        {
+            "id": 434785,
+            "name": "Ấp Ngã Tư",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Ngã Tư",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.610333",
+            "lng": "106.031500"
+        },
+        {
+            "id": 434787,
+            "name": "Ấp Saintard",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Saintard",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.628389",
+            "lng": "106.025194"
+        },
+        {
+            "id": 434789,
+            "name": "Ấp Tân Hội",
+            "pid": 7631,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8469276",
+            "lng": "106.034778"
+        }
+    ],
+    "log_id": "675909c171678326"
+}

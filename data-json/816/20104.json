@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 980442,
+            "name": "Cầu Sài Thị",
+            "pid": 20104,
+            "type": 10,
+            "region": null,
+            "alias": "Cầu Sài Thị",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.775795",
+            "lng": "105.998320"
+        },
+        {
+            "id": 629901,
+            "name": "Thôn 1 Thuần Hưng",
+            "pid": 20104,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 1 Thuần Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        },
+        {
+            "id": 629898,
+            "name": "Thôn 3 Thuần Hưng",
+            "pid": 20104,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 3 Thuần Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        },
+        {
+            "id": 629904,
+            "name": "Thôn 5 Thuần Hưng",
+            "pid": 20104,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 5 Thuần Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        },
+        {
+            "id": 629910,
+            "name": "Thuần Lễ",
+            "pid": 20104,
+            "type": 16,
+            "region": null,
+            "alias": "Thuần Lễ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        },
+        {
+            "id": 849169,
+            "name": "Trạm Y Tế Thuần Hưng",
+            "pid": 20104,
+            "type": 21,
+            "region": null,
+            "alias": "Trạm Y Tế Thuần Hưng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        },
+        {
+            "id": 923878,
+            "name": "Xóm 1 Thuần Lễ",
+            "pid": 20104,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 1 Thuần Lễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8313956",
+            "lng": "105.98099639999998"
+        },
+        {
+            "id": 629907,
+            "name": "Xóm 6 Thuần Hưng",
+            "pid": 20104,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 6 Thuần Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        },
+        {
+            "id": 629895,
+            "name": "Xóm 10 Thuần Hưng",
+            "pid": 20104,
+            "type": 18,
+            "region": null,
+            "alias": "xóm 10 Thuần Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7771898",
+            "lng": "105.99074169999994"
+        }
+    ],
+    "log_id": "67581490c7816617"
+}

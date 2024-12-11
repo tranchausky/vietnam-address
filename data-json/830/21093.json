@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571467,
+            "name": "Hoa Cà",
+            "pid": 21093,
+            "type": 16,
+            "region": null,
+            "alias": "hoa cà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2692777",
+            "lng": "105.43609630000003"
+        },
+        {
+            "id": 571470,
+            "name": "Thèn Pả",
+            "pid": 21093,
+            "type": 16,
+            "region": null,
+            "alias": "thèn pả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2692777",
+            "lng": "105.43609630000003"
+        },
+        {
+            "id": 887284,
+            "name": "Thôn Bản Trang",
+            "pid": 21093,
+            "type": 18,
+            "region": null,
+            "alias": "Thôn Bản Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.2692777",
+            "lng": "105.43609630000003"
+        }
+    ],
+    "log_id": "6758156649be4276"
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 781117,
+            "name": "Đường Hậu Giang",
+            "pid": 1311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hậu Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7506069",
+            "lng": "106.6335513"
+        },
+        {
+            "id": 677809,
+            "name": "Đường Hồng Bàng",
+            "pid": 1311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hồng Bàng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7545904",
+            "lng": "106.6376222"
+        },
+        {
+            "id": 681349,
+            "name": "Đường Kinh Dương Vương",
+            "pid": 1311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Kinh Dương Vương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7497046",
+            "lng": "106.6289033"
+        },
+        {
+            "id": 675697,
+            "name": "Đường Nguyễn Văn Luông",
+            "pid": 1311,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Luông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7493053",
+            "lng": "106.6353809"
+        }
+    ],
+    "log_id": "6758129ae08b445"
+}

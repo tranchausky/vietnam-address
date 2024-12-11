@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 476429,
+            "name": "Khu 1",
+            "pid": 13578,
+            "type": 21,
+            "region": null,
+            "alias": "khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1534803",
+            "lng": "106.15368280000007"
+        },
+        {
+            "id": 476431,
+            "name": "Khu 2",
+            "pid": 13578,
+            "type": 21,
+            "region": null,
+            "alias": "khu 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1534803",
+            "lng": "106.15368280000007"
+        },
+        {
+            "id": 476433,
+            "name": "Khu 3",
+            "pid": 13578,
+            "type": 21,
+            "region": null,
+            "alias": "khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1534803",
+            "lng": "106.15368280000007"
+        },
+        {
+            "id": 476435,
+            "name": "Khu 4",
+            "pid": 13578,
+            "type": 21,
+            "region": null,
+            "alias": "khu 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1534803",
+            "lng": "106.15368280000007"
+        },
+        {
+            "id": 476427,
+            "name": "Làng Nghiêm Thôn",
+            "pid": 13578,
+            "type": 16,
+            "region": null,
+            "alias": "làng Nghiêm Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1534803",
+            "lng": "106.15368280000007"
+        },
+        {
+            "id": 961890,
+            "name": "Ngã 4 Phố Mới",
+            "pid": 13578,
+            "type": 10,
+            "region": null,
+            "alias": "ngã 4 phố mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1527384",
+            "lng": "106.1513508,18.25"
+        },
+        {
+            "id": 103799,
+            "name": "Thôn Đỉnh",
+            "pid": 13578,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Đỉnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1513123",
+            "lng": "106.1549699"
+        },
+        {
+            "id": 476423,
+            "name": "Thôn Thịnh Cầu",
+            "pid": 13578,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thịnh Cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1534803",
+            "lng": "106.15368280000007"
+        },
+        {
+            "id": 961800,
+            "name": "Trường Thpt Quế Võ Số 1",
+            "pid": 13578,
+            "type": 9,
+            "region": null,
+            "alias": "Trường THPT Quế Võ số 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1628395",
+            "lng": "106.1482863,18"
+        }
+    ],
+    "log_id": "675815f8c481e1000"
+}

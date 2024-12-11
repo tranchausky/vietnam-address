@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 408351,
+            "name": "Thôn An Trạch",
+            "pid": 16815,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn An Trạch",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.4702333",
+            "lng": "106.41408679999995"
+        },
+        {
+            "id": 408353,
+            "name": "Thôn Bằng Trạch",
+            "pid": 16815,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bằng Trạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4702333",
+            "lng": "106.41408679999995"
+        },
+        {
+            "id": 408355,
+            "name": "Thôn Bình Trật Bắc",
+            "pid": 16815,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Trật Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4702333",
+            "lng": "106.41408679999995"
+        },
+        {
+            "id": 408357,
+            "name": "Thôn Bình Trật Nam",
+            "pid": 16815,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Trật Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.4702333",
+            "lng": "106.41408679999995"
+        }
+    ],
+    "log_id": "675909f369fe2299"
+}

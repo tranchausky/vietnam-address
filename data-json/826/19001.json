@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1000700,
+            "name": "Định Trị, Vĩnh Hảo",
+            "pid": 19001,
+            "type": 17,
+            "region": null,
+            "alias": "Định trị, vĩnh hảo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.157132245639051",
+            "lng": "108.7412539632537"
+        },
+        {
+            "id": 747802,
+            "name": "Hồ Định Bình ( Thôn Định Nhất)",
+            "pid": 19001,
+            "type": 16,
+            "region": null,
+            "alias": "Hồ Định Bình ( THÔN ĐỊNH NHẤT)",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1139858",
+            "lng": "108.7782522"
+        },
+        {
+            "id": 700939,
+            "name": "Làng L7",
+            "pid": 19001,
+            "type": 16,
+            "region": null,
+            "alias": "Làng L7",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1139858",
+            "lng": "108.7782522"
+        },
+        {
+            "id": 713869,
+            "name": "Thôn Định Tam",
+            "pid": 19001,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Định Tam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1139858",
+            "lng": "108.7782522"
+        },
+        {
+            "id": 713866,
+            "name": "Thôn Định Tự",
+            "pid": 19001,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Định Tự",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.1139858",
+            "lng": "108.7782522"
+        }
+    ],
+    "log_id": "6758150da872515"
+}

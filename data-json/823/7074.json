@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 91790,
+            "name": "Ấp An Hòa",
+            "pid": 7074,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7436984",
+            "lng": "105.3892372"
+        },
+        {
+            "id": 91787,
+            "name": "Ấp Lộc Hòa",
+            "pid": 7074,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Lộc Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0047648",
+            "lng": "106.2954776"
+        },
+        {
+            "id": 91784,
+            "name": "Ấp Nhân Hòa",
+            "pid": 7074,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhân Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.040633",
+            "lng": "105.7985155"
+        },
+        {
+            "id": 998190,
+            "name": "Bánh Kem Ngọc Lan",
+            "pid": 7074,
+            "type": 10,
+            "region": null,
+            "alias": "Bánh kem Ngọc Lan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.946452883248034",
+            "lng": " 107.04973963512899"
+        },
+        {
+            "id": 1002117,
+            "name": "Đồng Cỏ Quán",
+            "pid": 7074,
+            "type": 10,
+            "region": null,
+            "alias": "Đồng Cỏ Quán",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.944321600402803",
+            "lng": "107.05177209510755"
+        },
+        {
+            "id": 998191,
+            "name": "Quầy Thuốc Hiểu Phượng",
+            "pid": 7074,
+            "type": 10,
+            "region": null,
+            "alias": "Quầy Thuốc Hiểu Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.946644963617734",
+            "lng": " 107.04681318487522"
+        }
+    ],
+    "log_id": "675814dd45d6d962"
+}

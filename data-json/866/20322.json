@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 462879,
+            "name": "Thôn A2",
+            "pid": 20322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn A2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1713675",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 462881,
+            "name": "Thôn Bhar Bha",
+            "pid": 20322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bhar Bha",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1713675",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 462877,
+            "name": "Thôn Pa Noong",
+            "pid": 20322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Pa Noong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1713675",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 462875,
+            "name": "Thôn Ta Rung",
+            "pid": 20322,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ta Rung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.1713675",
+            "lng": "107.63337000000001"
+        }
+    ],
+    "log_id": "67590b26351f2710"
+}

@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 117413,
+            "name": "Ấp Đào Viên",
+            "pid": 7594,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đào Viên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.503009",
+            "lng": "106.096057"
+        },
+        {
+            "id": 117409,
+            "name": "Ấp Phdau Pên",
+            "pid": 7594,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Phdau Pên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.483525",
+            "lng": "106.064761"
+        },
+        {
+            "id": 117419,
+            "name": "Ấp Trà Ông",
+            "pid": 7594,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Trà Ông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "9.480405",
+            "lng": "106.081048"
+        }
+    ],
+    "log_id": "675909c167263693"
+}

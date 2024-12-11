@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 628773,
+            "name": "Phương Quan",
+            "pid": 15721,
+            "type": 16,
+            "region": null,
+            "alias": "Phương Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0381657",
+            "lng": "106.0144219"
+        },
+        {
+            "id": 628764,
+            "name": "Trà Lâm",
+            "pid": 15721,
+            "type": 16,
+            "region": null,
+            "alias": "Trà Lâm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0484676",
+            "lng": "106.0227442"
+        },
+        {
+            "id": 628761,
+            "name": "Tư Thế",
+            "pid": 15721,
+            "type": 16,
+            "region": null,
+            "alias": "Tư Thế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0443174",
+            "lng": "106.0256196"
+        },
+        {
+            "id": 628767,
+            "name": "Văn Quan",
+            "pid": 15721,
+            "type": 16,
+            "region": null,
+            "alias": "Văn Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0450131",
+            "lng": "106.0374749"
+        },
+        {
+            "id": 628770,
+            "name": "Xuân Quan",
+            "pid": 15721,
+            "type": 16,
+            "region": null,
+            "alias": "Xuân Quan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0438492",
+            "lng": "106.0303663"
+        }
+    ],
+    "log_id": "675815f8c2ad0892"
+}

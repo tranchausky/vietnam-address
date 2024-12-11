@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 741064,
+            "name": "Công Ty Đồ Chơi",
+            "pid": 7571,
+            "type": 16,
+            "region": null,
+            "alias": "Công Ty đồ Chơi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6949263",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 630858,
+            "name": "Thôn Đại Nại",
+            "pid": 7571,
+            "type": 16,
+            "region": null,
+            "alias": "thôn đại nại",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6949263",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 630861,
+            "name": "Thôn Nội Linh",
+            "pid": 7571,
+            "type": 16,
+            "region": null,
+            "alias": "thôn nội linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6949263",
+            "lng": "106.15221259999998"
+        },
+        {
+            "id": 630864,
+            "name": "Thôn Trịnh Mỹ",
+            "pid": 7571,
+            "type": 16,
+            "region": null,
+            "alias": "thôn trịnh mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6949263",
+            "lng": "106.15221259999998"
+        }
+    ],
+    "log_id": "67581490f1a0a443"
+}

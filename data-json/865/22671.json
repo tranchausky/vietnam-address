@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 559823,
+            "name": "Khu Phố 1",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6683311",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 559827,
+            "name": "Khu Phố 3",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6683311",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 559833,
+            "name": "Khu Phố Lúng",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Lúng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6683311",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 848527,
+            "name": "Khu Phố Phú Quế",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Phú Quế",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.668331100000003",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 559831,
+            "name": "Khu Phố Thăng Bình",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Thăng Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.6683311",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 848539,
+            "name": "Khu Phố Xuân Chính",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Xuân Chính",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.668331100000003",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 848530,
+            "name": "Khu Phố Xuân Thịnh",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Xuân Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.668331100000003",
+            "lng": "105.44488380000007"
+        },
+        {
+            "id": 848533,
+            "name": "Khu Phố Yên Thắng",
+            "pid": 22671,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Yên Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.668331100000003",
+            "lng": "105.44488380000007"
+        }
+    ],
+    "log_id": "67590a234655b757"
+}

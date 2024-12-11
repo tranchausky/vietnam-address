@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 116981,
+            "name": "Ấp Long Hậu",
+            "pid": 18080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8031699",
+            "lng": "105.29555749999997"
+        },
+        {
+            "id": 116991,
+            "name": "Ấp Long Hữu",
+            "pid": 18080,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Hữu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7910359",
+            "lng": "105.3189726"
+        },
+        {
+            "id": 116979,
+            "name": "Ấp Long Phước",
+            "pid": 18080,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8031699",
+            "lng": "105.29555749999997"
+        },
+        {
+            "id": 116993,
+            "name": "Ấp Long Tả",
+            "pid": 18080,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Long Tả",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7910359",
+            "lng": "105.3189726"
+        },
+        {
+            "id": 116985,
+            "name": "Ấp Long Thạnh A",
+            "pid": 18080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Thạnh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8031699",
+            "lng": "105.29555749999997"
+        },
+        {
+            "id": 116987,
+            "name": "Ấp Long Thạnh B",
+            "pid": 18080,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Thạnh B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8031699",
+            "lng": "105.29555749999997"
+        }
+    ],
+    "log_id": "675816c04272f555"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97253,
+            "name": "Ấp Bình Hữu 1",
+            "pid": 7365,
+            "type": 21,
+            "region": null,
+            "alias": "Ấp Bình Hữu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8610187",
+            "lng": "106.4470602"
+        },
+        {
+            "id": 97256,
+            "name": "Ấp Bình Hữu 2",
+            "pid": 7365,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bình Hữu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8610187",
+            "lng": "106.4470602"
+        },
+        {
+            "id": 97265,
+            "name": "Ấp Hậu Hòa",
+            "pid": 7365,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Hậu Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8639663",
+            "lng": "106.4391322"
+        },
+        {
+            "id": 97259,
+            "name": "Ấp Nhơn Hòa 1",
+            "pid": 7365,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Hòa 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8644544",
+            "lng": "106.4471749"
+        },
+        {
+            "id": 97262,
+            "name": "Ấp Nhơn Hòa 2",
+            "pid": 7365,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Nhơn Hòa 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8675341",
+            "lng": "106.4406754"
+        }
+    ],
+    "log_id": "67581784f3e49677"
+}

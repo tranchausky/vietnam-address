@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 792598,
+            "name": "Cty May Phú Long",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Cty May Phú Long",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000003"
+        },
+        {
+            "id": 567804,
+            "name": "Khu Phố Phú An",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú An",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        },
+        {
+            "id": 567795,
+            "name": "Khu Phố Phú Hòa",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        },
+        {
+            "id": 567801,
+            "name": "Khu Phố Phú Mỹ",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        },
+        {
+            "id": 567783,
+            "name": "Khu Phố Phú Thành",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        },
+        {
+            "id": 567792,
+            "name": "Khu Phố Phú Thịnh",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Thịnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        },
+        {
+            "id": 567789,
+            "name": "Khu Phố Phú Trường",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Trường",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        },
+        {
+            "id": 567798,
+            "name": "Khu Phố Phú Xuân",
+            "pid": 15120,
+            "type": 21,
+            "region": null,
+            "alias": "Khu Phố Phú Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9787601",
+            "lng": "108.14674820000005"
+        }
+    ],
+    "log_id": "67581478083b0920"
+}

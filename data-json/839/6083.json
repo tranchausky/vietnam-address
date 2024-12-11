@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 999973,
+            "name": "Bách Apple",
+            "pid": 6083,
+            "type": 16,
+            "region": null,
+            "alias": "BÁCH APPLE",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.128202019049471",
+            "lng": "106.7716889214757"
+        },
+        {
+            "id": 885610,
+            "name": "Kcn Nam Tân Uyên Mở Rộng",
+            "pid": 6083,
+            "type": 5,
+            "region": null,
+            "alias": "KCN Nam Tân Uyên Mở Rộng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.0027074",
+            "lng": "106.73230969999996"
+        },
+        {
+            "id": 885619,
+            "name": "Khu Phố 1 Hội Nghĩa",
+            "pid": 6083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 1 Hội Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.10085280760219",
+            "lng": "106.76628140356698"
+        },
+        {
+            "id": 92387,
+            "name": "Khu Phố 2 Hội Nghĩa",
+            "pid": 6083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 2 Hội Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9297825",
+            "lng": "106.8727972"
+        },
+        {
+            "id": 92390,
+            "name": "Khu Phố 3 Hội Nghĩa",
+            "pid": 6083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 3 Hội Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.858752",
+            "lng": "106.5911003"
+        },
+        {
+            "id": 92393,
+            "name": "Khu Phố 4 Hội Nghĩa",
+            "pid": 6083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 4 Hội Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9545783",
+            "lng": "105.1073995"
+        },
+        {
+            "id": 92396,
+            "name": "Khu Phố 5 Hội Nghĩa",
+            "pid": 6083,
+            "type": 21,
+            "region": null,
+            "alias": "Khu phố 5 Hội Nghĩa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.5335974",
+            "lng": "106.2110311"
+        }
+    ],
+    "log_id": "67581621963d5537"
+}

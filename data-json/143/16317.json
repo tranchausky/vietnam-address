@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 465607,
+            "name": "Thôn Tân Kỳ",
+            "pid": 16317,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tân Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8813148",
+            "lng": "107.08106850000001"
+        },
+        {
+            "id": 465601,
+            "name": "Thôn Trúc Lâm",
+            "pid": 16317,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trúc Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8813148",
+            "lng": "107.08106850000001"
+        },
+        {
+            "id": 465613,
+            "name": "Thôn Vinh Quang Hạ",
+            "pid": 16317,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh Quang Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8813148",
+            "lng": "107.08106850000001"
+        },
+        {
+            "id": 465609,
+            "name": "Thôn Vinh Quang Thượng",
+            "pid": 16317,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vinh Quang Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "16.8813148",
+            "lng": "107.08106850000001"
+        }
+    ],
+    "log_id": "675813bc4ab9e920"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 443873,
+            "name": "Thôn Hảo Danh",
+            "pid": 17572,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hảo Danh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3759359",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 443875,
+            "name": "Thôn Hảo Nghĩa",
+            "pid": 17572,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hảo Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3759359",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 443871,
+            "name": "Thôn Mỹ Lương",
+            "pid": 17572,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Lương",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3759359",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 443869,
+            "name": "Thôn Triều Sơn",
+            "pid": 17572,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Triều Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3759359",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 833941,
+            "name": "Trạm Y Tế Xã Xuân Thọ 2",
+            "pid": 17572,
+            "type": 21,
+            "region": null,
+            "alias": "Trạm y tế xã Xuân Thọ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3759359",
+            "lng": "109.22368310000002"
+        },
+        {
+            "id": 833938,
+            "name": "Ubnd Xã Xuân Thọ 2",
+            "pid": 17572,
+            "type": 21,
+            "region": null,
+            "alias": "UBND xã Xuân Thọ 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3759359",
+            "lng": "109.22368310000002"
+        }
+    ],
+    "log_id": "67590b80943ab283"
+}

@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 444067,
+            "name": "Thôn Mỹ Quang Bắc",
+            "pid": 16499,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Quang Bắc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1858324",
+            "lng": "109.28787609999995"
+        },
+        {
+            "id": 444065,
+            "name": "Thôn Mỹ Quang Nam",
+            "pid": 16499,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Mỹ Quang Nam",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1858324",
+            "lng": "109.28787609999995"
+        },
+        {
+            "id": 444071,
+            "name": "Thôn Phú Hạnh",
+            "pid": 16499,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Hạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1858324",
+            "lng": "109.28787609999995"
+        },
+        {
+            "id": 444069,
+            "name": "Thôn Phú Phong",
+            "pid": 16499,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1858324",
+            "lng": "109.28787609999995"
+        },
+        {
+            "id": 444073,
+            "name": "Thôn Phú Qúy",
+            "pid": 16499,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Qúy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.1858324",
+            "lng": "109.28787609999995"
+        }
+    ],
+    "log_id": "67590b809faad296"
+}

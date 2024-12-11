@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 787333,
+            "name": "Thôn A Bung",
+            "pid": 22569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn A Bung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8726386",
+            "lng": "107.61561329999996"
+        },
+        {
+            "id": 787324,
+            "name": "Thôn A Dung",
+            "pid": 22569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn A Dung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8726386",
+            "lng": "107.61561329999996"
+        },
+        {
+            "id": 787321,
+            "name": "Thôn Ka Đắp",
+            "pid": 22569,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Ka đắp",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.8726386",
+            "lng": "107.61561329999996"
+        }
+    ],
+    "log_id": "675817e185936177"
+}

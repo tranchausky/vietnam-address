@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 910798,
+            "name": "Chùa Bụt",
+            "pid": 21202,
+            "type": 16,
+            "region": null,
+            "alias": "Chùa Bụt",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7733468",
+            "lng": "106.18710629999998"
+        },
+        {
+            "id": 724939,
+            "name": "Sơn Thủy",
+            "pid": 21202,
+            "type": 16,
+            "region": null,
+            "alias": "Sơn Thủy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7733468",
+            "lng": "106.18710629999998"
+        },
+        {
+            "id": 910789,
+            "name": "Tân Tiến",
+            "pid": 21202,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7733468",
+            "lng": "106.18710629999998"
+        },
+        {
+            "id": 910801,
+            "name": "Thôn Tiến Mại",
+            "pid": 21202,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tiến Mại",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.7733468",
+            "lng": "106.18710629999998"
+        },
+        {
+            "id": 905764,
+            "name": "Thôn Vỉnh Xuân",
+            "pid": 21202,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Vỉnh Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.7733468",
+            "lng": "106.18710629999998"
+        }
+    ],
+    "log_id": "675814aa1c1b1133"
+}

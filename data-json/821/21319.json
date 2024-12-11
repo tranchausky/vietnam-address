@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 665305,
+            "name": "Bản Boong",
+            "pid": 21319,
+            "type": 16,
+            "region": null,
+            "alias": "Bản Boong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.74042689999999"
+        },
+        {
+            "id": 525897,
+            "name": "Bản Đồng Tiến",
+            "pid": 21319,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Đồng Tiến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.74042689999999"
+        },
+        {
+            "id": 525901,
+            "name": "Bản Khe Thơi",
+            "pid": 21319,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Khe Thơi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.74042689999999"
+        },
+        {
+            "id": 525903,
+            "name": "Bản Yên Hoà",
+            "pid": 21319,
+            "type": 18,
+            "region": null,
+            "alias": "Bản Yên Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.74042689999999"
+        },
+        {
+            "id": 812239,
+            "name": "Chôm Lôm",
+            "pid": 21319,
+            "type": 18,
+            "region": null,
+            "alias": "Chôm Lôm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.74042689999999"
+        },
+        {
+            "id": 766927,
+            "name": "Huoi Mac",
+            "pid": 21319,
+            "type": 16,
+            "region": null,
+            "alias": "Huoi Mac",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.7404269"
+        },
+        {
+            "id": 525905,
+            "name": "Thôn Piềng Khử",
+            "pid": 21319,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Piềng Khử",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.1221707",
+            "lng": "104.74042689999999"
+        }
+    ],
+    "log_id": "675812090d41d466"
+}

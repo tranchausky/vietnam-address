@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 434519,
+            "name": "Ấp An Lạc",
+            "pid": 7643,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6862394",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 434525,
+            "name": "Ấp An Phú",
+            "pid": 7643,
+            "type": 17,
+            "region": null,
+            "alias": "ấp AN Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6862394",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 434523,
+            "name": "Ấp An Phú A",
+            "pid": 7643,
+            "type": 17,
+            "region": null,
+            "alias": "ấp AN Phú A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6862394",
+            "lng": "106.12869009999997"
+        },
+        {
+            "id": 434521,
+            "name": "Ấp An Thạnh Tây A",
+            "pid": 7643,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Thạnh Tây A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.6862394",
+            "lng": "106.12869009999997"
+        }
+    ],
+    "log_id": "675909c1729a8699"
+}

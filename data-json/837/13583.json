@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 758122,
+            "name": "Đô Đàn",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Đô Đàn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        },
+        {
+            "id": 842356,
+            "name": "Đức Tái",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Đức Tái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        },
+        {
+            "id": 784702,
+            "name": "Mai Thôn",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Mai Thôn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        },
+        {
+            "id": 758131,
+            "name": "Mão",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Mão",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        },
+        {
+            "id": 784699,
+            "name": "Quế Ổ",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Quế Ổ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        },
+        {
+            "id": 784705,
+            "name": "Tập Ninh",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Tập Ninh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        },
+        {
+            "id": 870370,
+            "name": "Thủy",
+            "pid": 13583,
+            "type": 16,
+            "region": null,
+            "alias": "Thủy",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0962004",
+            "lng": "106.13438670000004"
+        }
+    ],
+    "log_id": "675815f8c4781514"
+}

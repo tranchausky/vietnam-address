@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1004933,
+            "name": "169 Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 10,
+            "region": null,
+            "alias": "169 TRẦN HƯNG ĐẠO",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.0858406426221",
+            "lng": "109.30501479386923"
+        },
+        {
+            "id": 1004936,
+            "name": "178 Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 10,
+            "region": null,
+            "alias": "178 TRẦN HƯNG ĐẠO",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.086279691534145",
+            "lng": "109.30506034784322"
+        },
+        {
+            "id": 1004942,
+            "name": "178 Trần Hưng Đạo 1",
+            "pid": 15008,
+            "type": 10,
+            "region": null,
+            "alias": "178 TRẦN HƯNG ĐẠO 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.086331942580022",
+            "lng": "109.30523200921125"
+        },
+        {
+            "id": 1004934,
+            "name": "192 Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 10,
+            "region": null,
+            "alias": "192 TRẦN HƯNG ĐẠO",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.08640664164042",
+            "lng": "109.30559830736279"
+        },
+        {
+            "id": 1004931,
+            "name": "194 Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 10,
+            "region": null,
+            "alias": "194 TRẦN HƯNG ĐẠO",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "13.086474140738389",
+            "lng": "109.30557510736276"
+        },
+        {
+            "id": 992626,
+            "name": "Chẳn 196-222 Đường Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 21,
+            "region": null,
+            "alias": "Chẳn 196-222 Đường Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0861001",
+            "lng": "109.3059211979931"
+        },
+        {
+            "id": 708391,
+            "name": "Đường Nguyễn Công Trứ",
+            "pid": 15008,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Công Trứ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0863763",
+            "lng": "109.30471280000006"
+        },
+        {
+            "id": 708301,
+            "name": "Đường Nguyễn Huệ",
+            "pid": 15008,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0863763",
+            "lng": "109.30471280000006"
+        },
+        {
+            "id": 444377,
+            "name": "Đường Nguyễn Thái Học",
+            "pid": 15008,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thái Học",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0301401",
+            "lng": "105.836961"
+        },
+        {
+            "id": 1018975,
+            "name": "Đường Phan Đình Phùng",
+            "pid": 15008,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Phan Đình Phùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0863763",
+            "lng": "109.30471280000006"
+        },
+        {
+            "id": 1018974,
+            "name": "Đường Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 16,
+            "region": null,
+            "alias": "Đường Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0863763",
+            "lng": "109.30471280000006"
+        },
+        {
+            "id": 992621,
+            "name": "Lẻ 125-183 Trần Hưng Đạo",
+            "pid": 15008,
+            "type": 21,
+            "region": null,
+            "alias": "Lẻ 125-183 Trần Hưng Đạo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.0854254",
+            "lng": "109.30365428816097"
+        }
+    ],
+    "log_id": "67590b80b5ef5571"
+}

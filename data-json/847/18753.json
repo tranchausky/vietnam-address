@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 625725,
+            "name": "Đội 12",
+            "pid": 18753,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 12",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7185807",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 625728,
+            "name": "Đội 711",
+            "pid": 18753,
+            "type": 22,
+            "region": null,
+            "alias": "Đội 711",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7185807",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 625716,
+            "name": "Làng Ba",
+            "pid": 18753,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ba",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7185807",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 625713,
+            "name": "Làng Bò",
+            "pid": 18753,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Bò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7185807",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 625722,
+            "name": "Làng Chan",
+            "pid": 18753,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Chan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7185807",
+            "lng": "107.63337000000001"
+        },
+        {
+            "id": 625719,
+            "name": "Làng Tên",
+            "pid": 18753,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Tên",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.7185807",
+            "lng": "107.63337000000001"
+        }
+    ],
+    "log_id": "675816d33fc0e417"
+}

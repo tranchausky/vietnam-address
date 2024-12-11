@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 701665,
+            "name": "Bãi Ban",
+            "pid": 36218,
+            "type": 16,
+            "region": null,
+            "alias": "Bãi Ban",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3785203",
+            "lng": "106.08753260000003"
+        },
+        {
+            "id": 928348,
+            "name": "Phố Đoàn Kết",
+            "pid": 36218,
+            "type": 21,
+            "region": null,
+            "alias": "Phố Đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.3785203",
+            "lng": "106.08753260000003"
+        }
+    ],
+    "log_id": "675813d95a13e472"
+}

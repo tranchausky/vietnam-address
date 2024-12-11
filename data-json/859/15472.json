@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 896200,
+            "name": "Bầu Ốc Hạ",
+            "pid": 15472,
+            "type": 16,
+            "region": null,
+            "alias": "Bầu Ốc Hạ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9018679",
+            "lng": "108.31384419999996"
+        },
+        {
+            "id": 896203,
+            "name": "Bầu Ốc Thượng",
+            "pid": 15472,
+            "type": 16,
+            "region": null,
+            "alias": "Bầu Ốc Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9018679",
+            "lng": "108.31384419999996"
+        },
+        {
+            "id": 937874,
+            "name": "Đường Lê Hồng Phong",
+            "pid": 15472,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lê Hồng Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9018679",
+            "lng": "108.31384419999996"
+        },
+        {
+            "id": 1015867,
+            "name": "Tổ 17 Bến Trễ",
+            "pid": 15472,
+            "type": 20,
+            "region": null,
+            "alias": "Tổ 17 Bến Trễ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 722728,
+            "name": "Trảng Kèo",
+            "pid": 15472,
+            "type": 16,
+            "region": null,
+            "alias": "Trảng Kèo",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9018679",
+            "lng": "108.31384419999996"
+        },
+        {
+            "id": 755809,
+            "name": "Trảng Suối",
+            "pid": 15472,
+            "type": 16,
+            "region": null,
+            "alias": "Trảng Suối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.9018679",
+            "lng": "108.31384419999996"
+        }
+    ],
+    "log_id": "675817e1b910d985"
+}

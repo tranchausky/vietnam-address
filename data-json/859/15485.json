@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 1015730,
+            "name": "Dmx Quảng Nam - Tam Kỳ",
+            "pid": 15485,
+            "type": 10,
+            "region": null,
+            "alias": "DMX Quảng Nam - Tam Kỳ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.543.565",
+            "lng": "1.084.892"
+        },
+        {
+            "id": 755842,
+            "name": "Lữ Đoàn Công Binh 270",
+            "pid": 15485,
+            "type": 4,
+            "region": null,
+            "alias": "LỮ ĐOÀN CÔNG BINH 270",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5308346",
+            "lng": "108.48398780000002"
+        },
+        {
+            "id": 733531,
+            "name": "Thôn Thọ Tân",
+            "pid": 15485,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thọ Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5308346",
+            "lng": "108.48398780000002"
+        },
+        {
+            "id": 733528,
+            "name": "Ủy Ban Nhân Dân Xã Tam Ngọc",
+            "pid": 15485,
+            "type": 4,
+            "region": null,
+            "alias": "Ủy Ban Nhân Dân Xã Tam Ngọc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.5308346",
+            "lng": "108.48398780000002"
+        }
+    ],
+    "log_id": "675817e1bb37e874"
+}

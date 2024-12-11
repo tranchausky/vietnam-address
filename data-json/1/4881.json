@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 74258,
+            "name": "Tập Thể Bộ Tư Lệnh Đặc Công",
+            "pid": 4881,
+            "type": 10,
+            "region": null,
+            "alias": "Tập thể bộ tư lệnh Đặc Công",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.918923",
+            "lng": "105.873576"
+        },
+        {
+            "id": 721645,
+            "name": "Thôn 1 Đông Mỹ",
+            "pid": 4881,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1 Đông Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 729466,
+            "name": "Thôn1B",
+            "pid": 4881,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn1b",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 721690,
+            "name": "Thôn 3 Đông Mỹ",
+            "pid": 4881,
+            "type": 16,
+            "region": null,
+            "alias": "thôn 3 đông mỹ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 721525,
+            "name": "Trạm Y Tế",
+            "pid": 4881,
+            "type": 10,
+            "region": null,
+            "alias": "Trạm Y Tế",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        }
+    ],
+    "log_id": "675811bd1a96028"
+}

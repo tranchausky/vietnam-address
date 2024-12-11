@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 17521,
+            "name": "Phường 1",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Phường 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.260136",
+            "lng": "105.37531289999993"
+        },
+        {
+            "id": 17522,
+            "name": "Phường Hộ Phòng",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Hộ Phòng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2234179",
+            "lng": "105.42438040000002"
+        },
+        {
+            "id": 17523,
+            "name": "Phường Láng Tròn",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Láng Tròn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2735574",
+            "lng": "105.50640870000007"
+        },
+        {
+            "id": 17525,
+            "name": "Xã Phong Tân",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phong Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3247982",
+            "lng": "105.44195460000003"
+        },
+        {
+            "id": 17528,
+            "name": "Xã Phong Thạnh",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phong Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.3053443",
+            "lng": "105.3950939"
+        },
+        {
+            "id": 17524,
+            "name": "Xã Phong Thạnh A",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phong Thạnh A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2612954",
+            "lng": "105.41852270000004"
+        },
+        {
+            "id": 17530,
+            "name": "Xã Phong Thạnh Đông",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phong Thạnh Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.317086999999999",
+            "lng": "105.494688"
+        },
+        {
+            "id": 17527,
+            "name": "Xã Phong Thạnh Tây",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phong Thạnh Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2653877",
+            "lng": "105.32482690000006"
+        },
+        {
+            "id": 17529,
+            "name": "Xã Tân Phong",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Phong",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2213584",
+            "lng": "105.34824600000002"
+        },
+        {
+            "id": 17526,
+            "name": "Xã Tân Thạnh",
+            "pid": 8033,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Thạnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "9.2090313",
+            "lng": "105.26044090000005"
+        }
+    ],
+    "log_id": "675815e1576be42"
+}

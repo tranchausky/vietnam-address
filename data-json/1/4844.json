@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 822745,
+            "name": "Chầm Muộn",
+            "pid": 4844,
+            "type": 18,
+            "region": null,
+            "alias": "Chầm Muộn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        },
+        {
+            "id": 489111,
+            "name": "Đồng Kho",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Kho",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9939165",
+            "lng": "105.5749853"
+        },
+        {
+            "id": 810643,
+            "name": "Khu 3",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "khu 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        },
+        {
+            "id": 120921,
+            "name": "Tam Cảnh",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "Tam Cảnh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9905591",
+            "lng": "105.5679552"
+        },
+        {
+            "id": 489107,
+            "name": "Thôn Đồng Táng",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đồng Táng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9919535",
+            "lng": "105.5774673"
+        },
+        {
+            "id": 810646,
+            "name": "Thôn Hòa Bình",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Hòa Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        },
+        {
+            "id": 785008,
+            "name": "Thôn Khoang Mái",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Khoang Mái",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        },
+        {
+            "id": 831355,
+            "name": "Thôn Trúc Voi",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "thôn Trúc Voi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        },
+        {
+            "id": 120923,
+            "name": "Trúc Động",
+            "pid": 4844,
+            "type": 16,
+            "region": null,
+            "alias": "Trúc Động",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.989038",
+            "lng": "105.574789"
+        },
+        {
+            "id": 810640,
+            "name": "Xóm Chiến Thắng",
+            "pid": 4844,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Chiến Thắng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        },
+        {
+            "id": 810649,
+            "name": "Xóm Đông",
+            "pid": 4844,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9934926",
+            "lng": "105.56979409999997"
+        }
+    ],
+    "log_id": "675811bc101ef636"
+}

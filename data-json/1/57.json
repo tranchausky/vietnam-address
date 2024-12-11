@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 877309,
+            "name": "Đường Đông Tác",
+            "pid": 57,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Đông Tác",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21,005752",
+            "lng": "105,83543"
+        },
+        {
+            "id": 829639,
+            "name": "Đường Hoàng Tích Trí",
+            "pid": 57,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Tích Trí",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0066938",
+            "lng": "105.83563479999998"
+        },
+        {
+            "id": 35804,
+            "name": "Vincom Số 2 Phạm Ngọc Thạch",
+            "pid": 57,
+            "type": 4,
+            "region": null,
+            "alias": "Vincom số 2 Phạm Ngọc Thạch",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0180725",
+            "lng": "105.8299495"
+        }
+    ],
+    "log_id": "675811bbd4da7911"
+}

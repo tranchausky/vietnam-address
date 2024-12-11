@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 455689,
+            "name": "Thôn Núi Rây",
+            "pid": 17602,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Núi Rây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.7764655",
+            "lng": "108.89079879999997"
+        },
+        {
+            "id": 455687,
+            "name": "Thôn Suối Khô",
+            "pid": 17602,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Khô",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.7764655",
+            "lng": "108.89079879999997"
+        },
+        {
+            "id": 455685,
+            "name": "Thôn Suối Rớ",
+            "pid": 17602,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Rớ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.7764655",
+            "lng": "108.89079879999997"
+        }
+    ],
+    "log_id": "675817b97a22e153"
+}

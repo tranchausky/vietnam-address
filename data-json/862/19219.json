@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603801,
+            "name": "Ấp Bến",
+            "pid": 19219,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Bến",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.076117",
+            "lng": "106.234333"
+        },
+        {
+            "id": 603804,
+            "name": "Ấp Chánh",
+            "pid": 19219,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Chánh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.076117",
+            "lng": "106.234333"
+        },
+        {
+            "id": 603798,
+            "name": "Ấp Voi",
+            "pid": 19219,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Voi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.076117",
+            "lng": "106.234333"
+        }
+    ],
+    "log_id": "675909dcd204b943"
+}

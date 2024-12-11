@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 616014,
+            "name": "Thôn Bình Minh",
+            "pid": 18978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Minh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.1787411",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 616008,
+            "name": "Thôn Đông Thiện",
+            "pid": 18978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đông Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1787411",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 616011,
+            "name": "Thôn Nam Thiện",
+            "pid": 18978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1787411",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 616005,
+            "name": "Thôn Tây Thiện",
+            "pid": 18978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tây Thiện",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "17.1787411",
+            "lng": "106.83553719999998"
+        },
+        {
+            "id": 616002,
+            "name": "Thôn Trung Thiện",
+            "pid": 18978,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "17.1787411",
+            "lng": "106.83553719999998"
+        }
+    ],
+    "log_id": "675814a9ac549694"
+}

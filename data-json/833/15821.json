@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 107006,
+            "name": "Ấp Tân Hiệp",
+            "pid": 15821,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hiệp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.275753",
+            "lng": "105.1317431"
+        },
+        {
+            "id": 107048,
+            "name": "Ấp Tân Huệ",
+            "pid": 15821,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Huệ",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.275753",
+            "lng": "105.1317431"
+        },
+        {
+            "id": 107060,
+            "name": "Ấp Tân Thành",
+            "pid": 15821,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.275753",
+            "lng": "105.1317431"
+        },
+        {
+            "id": 107027,
+            "name": "Ấp Tân Vọng",
+            "pid": 15821,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Vọng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.275753",
+            "lng": "105.1317431"
+        }
+    ],
+    "log_id": "6758159dc1996380"
+}

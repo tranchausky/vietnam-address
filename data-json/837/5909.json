@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 866881,
+            "name": "Đạo Chân",
+            "pid": 5909,
+            "type": 10,
+            "region": null,
+            "alias": "đạo Chân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1881139",
+            "lng": "106.06548750000002"
+        },
+        {
+            "id": 913495,
+            "name": "Kim Đôi",
+            "pid": 5909,
+            "type": 10,
+            "region": null,
+            "alias": "Kim đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.2026299",
+            "lng": "106.09488149999993"
+        },
+        {
+            "id": 414709,
+            "name": "Thôn Đạo Chân",
+            "pid": 5909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đạo Chân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1883145",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 414703,
+            "name": "Thôn Kim Đôi",
+            "pid": 5909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kim Đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1883145",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 414705,
+            "name": "Thôn Ngọc Đôi",
+            "pid": 5909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Ngọc Đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1883145",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 414711,
+            "name": "Thôn Phú Xuân",
+            "pid": 5909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Xuân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1883145",
+            "lng": "106.10811030000002"
+        },
+        {
+            "id": 414707,
+            "name": "Thôn Quỳnh Đôi",
+            "pid": 5909,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quỳnh Đôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1883145",
+            "lng": "106.10811030000002"
+        }
+    ],
+    "log_id": "675815f8bbc70932"
+}

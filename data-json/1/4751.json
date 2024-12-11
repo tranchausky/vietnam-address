@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 102773,
+            "name": "Thôn Đường La",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đường La",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'28.2\"N ",
+            "lng": "105°48'44.6\"E"
+        },
+        {
+            "id": 102752,
+            "name": "Thôn Hoàng Xá",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Hoàng Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'15.2\"N ",
+            "lng": "105°48'40.4\"E"
+        },
+        {
+            "id": 102743,
+            "name": "Thôn Lưu Đông",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lưu Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'46.3\"N ",
+            "lng": "105°48'03.1\"E"
+        },
+        {
+            "id": 102707,
+            "name": "Thôn Lưu Thượng",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lưu Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'35.2\"N ",
+            "lng": "105°48'00.7\"E"
+        },
+        {
+            "id": 102683,
+            "name": "Thôn Lưu Xá",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Lưu Xá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'24.3\"N ",
+            "lng": "105°48'33.4\"E"
+        },
+        {
+            "id": 102665,
+            "name": "Thôn Phú Túc",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phú Túc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'40.4\"N",
+            "lng": "105°48'40.0\"E"
+        },
+        {
+            "id": 102653,
+            "name": "Thôn Trình Viên",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trình Viên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°46'41.8\"N",
+            "lng": "105°48'31.5\"E"
+        },
+        {
+            "id": 102644,
+            "name": "Thôn Tư Sản",
+            "pid": 4751,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tư Sản",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20°45'49.6\"N ",
+            "lng": "105°48'19.4\"E"
+        }
+    ],
+    "log_id": "675811bcd40a8553"
+}

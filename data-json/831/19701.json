@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 118837,
+            "name": "Thôn Đa Râm",
+            "pid": 19701,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đa Râm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.345444",
+            "lng": "108.798500"
+        },
+        {
+            "id": 118843,
+            "name": "Thôn Suối Cát",
+            "pid": 19701,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Suối Cát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.285639,",
+            "lng": "108.806722"
+        },
+        {
+            "id": 118831,
+            "name": "Thôn Tà Gộc",
+            "pid": 19701,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Tà Gộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.333861",
+            "lng": "108.781111"
+        },
+        {
+            "id": 118827,
+            "name": "Thôn Trang",
+            "pid": 19701,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.319611",
+            "lng": "108.737833"
+        }
+    ],
+    "log_id": "675815859e416567"
+}

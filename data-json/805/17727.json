@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 514093,
+            "name": "Thôn Cổ Chẩm",
+            "pid": 17727,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Cổ Chẩm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9546894",
+            "lng": "106.42586430000006"
+        },
+        {
+            "id": 514099,
+            "name": "Thôn Quân Khê",
+            "pid": 17727,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Quân Khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9546894",
+            "lng": "106.42586430000006"
+        }
+    ],
+    "log_id": "675813f1c7e75420"
+}

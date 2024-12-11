@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 676087,
+            "name": "Đường Hoàng Hoa Thám",
+            "pid": 1389,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Hoa Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8083335",
+            "lng": "106.6880874"
+        },
+        {
+            "id": 674440,
+            "name": "Đường Lam Sơn",
+            "pid": 1389,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8050226",
+            "lng": "106.6883007"
+        },
+        {
+            "id": 680080,
+            "name": "Đường Nguyễn Huy Tưởng",
+            "pid": 1389,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Huy Tưởng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8036358",
+            "lng": "106.6894172"
+        },
+        {
+            "id": 673057,
+            "name": "Đường Nguyễn Thượng Hiền",
+            "pid": 1389,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Thượng Hiền",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8083167",
+            "lng": "106.6841841"
+        },
+        {
+            "id": 674950,
+            "name": "Đường Nguyễn Văn Đậu",
+            "pid": 1389,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Nguyễn Văn Đậu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8074339",
+            "lng": "106.6875615"
+        },
+        {
+            "id": 672730,
+            "name": "Đường Phan Đăng Lưu",
+            "pid": 1389,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phan Đăng Lưu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8036462",
+            "lng": "106.6881359"
+        },
+        {
+            "id": 641038,
+            "name": "Lẻ 1-131 Hoàng Hoa Thám",
+            "pid": 1389,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 1-131 Hoàng Hoa Thám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.8080761",
+            "lng": "106.6881647"
+        },
+        {
+            "id": 956667,
+            "name": "Lẻ 153-207 Hoàng Hoa Thám",
+            "pid": 1389,
+            "type": 29,
+            "region": null,
+            "alias": "Lẻ 153-207 Hoàng Hoa Thám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8097633",
+            "lng": "106.6840074"
+        }
+    ],
+    "log_id": "6758129b027c2159"
+}

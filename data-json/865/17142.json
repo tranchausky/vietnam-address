@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 969685,
+            "name": "Thôn Bắc Hội Triêu",
+            "pid": 17142,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bắc Hội Triêu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.80255",
+            "lng": "105.88366"
+        },
+        {
+            "id": 559473,
+            "name": "Thôn Nam Hội Triều",
+            "pid": 17142,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Nam HộI Triều",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8017063",
+            "lng": "105.89655900000002"
+        },
+        {
+            "id": 559477,
+            "name": "Thôn Phong Mỹ",
+            "pid": 17142,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phong Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.8017063",
+            "lng": "105.89655900000002"
+        }
+    ],
+    "log_id": "67590a2387eba11"
+}

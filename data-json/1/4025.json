@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 54510,
+            "name": "Cầu E",
+            "pid": 4025,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu E",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 908485,
+            "name": "Cầu Việt Thắng",
+            "pid": 4025,
+            "type": 16,
+            "region": null,
+            "alias": "Cầu Việt Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1108103",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 908491,
+            "name": "Chợ Cổ Điển",
+            "pid": 4025,
+            "type": 16,
+            "region": null,
+            "alias": "Chợ Cổ điển",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1108103",
+            "lng": "105.79967690000001"
+        },
+        {
+            "id": 908482,
+            "name": "Xóm 4 Hải Bối",
+            "pid": 4025,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm 4 Hải Bối",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1108103",
+            "lng": "105.79967690000001"
+        }
+    ],
+    "log_id": "675811bbc8ca6216"
+}

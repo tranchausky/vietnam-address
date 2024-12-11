@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 603057,
+            "name": "Thôn Bỉnh Nghĩa",
+            "pid": 15759,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bỉnh Nghĩa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6747146",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 603054,
+            "name": "Thôn Láng Me",
+            "pid": 15759,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Láng Me",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6747146",
+            "lng": "109.10476629999994"
+        },
+        {
+            "id": 603060,
+            "name": "Thôn Xóm Bằng",
+            "pid": 15759,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Xóm Bằng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.6747146",
+            "lng": "109.10476629999994"
+        }
+    ],
+    "log_id": "675817b98be90758"
+}

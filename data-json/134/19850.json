@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 786220,
+            "name": "Nam Lân 1",
+            "pid": 19850,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Lân 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.622207",
+            "lng": "106.44500419999996"
+        },
+        {
+            "id": 863635,
+            "name": "Nam Lân 2",
+            "pid": 19850,
+            "type": 16,
+            "region": null,
+            "alias": "Nam Lân 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.622207",
+            "lng": "106.44500419999996"
+        }
+    ],
+    "log_id": "6758133f2e755189"
+}

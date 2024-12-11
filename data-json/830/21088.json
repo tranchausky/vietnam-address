@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 571440,
+            "name": "Lùng Lẻo B",
+            "pid": 21088,
+            "type": 16,
+            "region": null,
+            "alias": "lùng lẻo b",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1606843",
+            "lng": "105.53571390000002"
+        },
+        {
+            "id": 855670,
+            "name": "Nho Quế 2",
+            "pid": 21088,
+            "type": 18,
+            "region": null,
+            "alias": "Nho Quế 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1606843",
+            "lng": "105.53571390000002"
+        },
+        {
+            "id": 571437,
+            "name": "Thôn Lùng Lẻo A",
+            "pid": 21088,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn lùng lẻo a",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1606843",
+            "lng": "105.53571390000002"
+        },
+        {
+            "id": 855658,
+            "name": "Thôn Phe Thán",
+            "pid": 21088,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phe Thán",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1606843",
+            "lng": "105.53571390000002"
+        },
+        {
+            "id": 916276,
+            "name": "Xóm Mà Núng",
+            "pid": 21088,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Mà Núng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "23.1606843",
+            "lng": "105.53571390000002"
+        }
+    ],
+    "log_id": "675815664a8a1978"
+}

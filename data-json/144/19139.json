@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 784372,
+            "name": "Đồng Đèo",
+            "pid": 19139,
+            "type": 16,
+            "region": null,
+            "alias": "đồng đèo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 757582,
+            "name": "Đồng Láy",
+            "pid": 19139,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Láy",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 757585,
+            "name": "Đồng Phúc",
+            "pid": 19139,
+            "type": 16,
+            "region": null,
+            "alias": "đồng Phúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 762487,
+            "name": "Đồng Rãng",
+            "pid": 19139,
+            "type": 16,
+            "region": null,
+            "alias": "Đồng Rãng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 762490,
+            "name": "Kim Sơn",
+            "pid": 19139,
+            "type": 10,
+            "region": null,
+            "alias": "Kim Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 762493,
+            "name": "Lập Thành",
+            "pid": 19139,
+            "type": 16,
+            "region": null,
+            "alias": "Lập Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        },
+        {
+            "id": 757588,
+            "name": "Tân Thành",
+            "pid": 19139,
+            "type": 16,
+            "region": null,
+            "alias": "Tân Thành",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.4126553",
+            "lng": "106.7293611"
+        }
+    ],
+    "log_id": "675813d90f607821"
+}

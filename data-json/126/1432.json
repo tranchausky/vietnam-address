@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 971935,
+            "name": "Chẵn 852-1036 Cách Mạng Tháng Tám",
+            "pid": 1432,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn 852-1036 Cách Mạng Tháng Tám",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7906856",
+            "lng": "106.6577877"
+        },
+        {
+            "id": 681352,
+            "name": "Đường Bùi Thị Xuân",
+            "pid": 1432,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bùi Thị Xuân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7923973",
+            "lng": "106.6653677"
+        },
+        {
+            "id": 861493,
+            "name": "Đường Cách Mạng Tháng Tám",
+            "pid": 1432,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cách Mạng Tháng Tám",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7884756",
+            "lng": "106.6617522"
+        },
+        {
+            "id": 672946,
+            "name": "Đường Hoàng Sa",
+            "pid": 1432,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Sa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7914702",
+            "lng": "106.6628122"
+        },
+        {
+            "id": 683641,
+            "name": "Đường Lưu Nhân Chú",
+            "pid": 1432,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Lưu Nhân Chú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7909471",
+            "lng": "106.662781"
+        },
+        {
+            "id": 678847,
+            "name": "Đường Phạm Văn Hai",
+            "pid": 1432,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Phạm Văn Hai",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7914581",
+            "lng": "106.6619985"
+        },
+        {
+            "id": 94622,
+            "name": "Sabay Tower Phạm Văn Hai",
+            "pid": 1432,
+            "type": 4,
+            "region": null,
+            "alias": "Sabay Tower Phạm Văn Hai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.789728",
+            "lng": "106.660953"
+        }
+    ],
+    "log_id": "6758129a8ed06259"
+}

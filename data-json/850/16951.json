@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 395829,
+            "name": "Xóm Đúc",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đúc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 395827,
+            "name": "Xóm Khuận",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm khuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 395823,
+            "name": "Xóm Mạc",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm mạc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 395819,
+            "name": "Xóm Nam Thái",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm nam thái",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 395817,
+            "name": "Xóm Nam Thành",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm nam thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 395825,
+            "name": "Xóm Ong",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm ong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        },
+        {
+            "id": 395821,
+            "name": "Xóm Trẹo",
+            "pid": 16951,
+            "type": 18,
+            "region": null,
+            "alias": "xóm trẹo",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6449697",
+            "lng": "105.31897260000005"
+        }
+    ],
+    "log_id": "67581721288c6192"
+}

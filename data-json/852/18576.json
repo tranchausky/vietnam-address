@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 453309,
+            "name": "Thôn 1",
+            "pid": 18576,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6005876",
+            "lng": "107.87615879999998"
+        },
+        {
+            "id": 453311,
+            "name": "Thôn 2",
+            "pid": 18576,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6005876",
+            "lng": "107.87615879999998"
+        },
+        {
+            "id": 453313,
+            "name": "Thôn 3",
+            "pid": 18576,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 3",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6005876",
+            "lng": "107.87615879999998"
+        },
+        {
+            "id": 453315,
+            "name": "Thôn 4",
+            "pid": 18576,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 4",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6005876",
+            "lng": "107.87615879999998"
+        },
+        {
+            "id": 453317,
+            "name": "Thôn 5",
+            "pid": 18576,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn 5",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "14.6005876",
+            "lng": "107.87615879999998"
+        },
+        {
+            "id": 453321,
+            "name": "Thôn Đăk Kan Pen",
+            "pid": 18576,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Đăk Kan Pen",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "14.6005876",
+            "lng": "107.87615879999998"
+        }
+    ],
+    "log_id": "6758174cc4b8f607"
+}

@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 557749,
+            "name": "Khu 1",
+            "pid": 20186,
+            "type": 21,
+            "region": null,
+            "alias": "Khu 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0600379",
+            "lng": "105.61632810000003"
+        },
+        {
+            "id": 557751,
+            "name": "Khu 2",
+            "pid": 20186,
+            "type": 10,
+            "region": null,
+            "alias": "Khu 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.0600379",
+            "lng": "105.61632810000003"
+        }
+    ],
+    "log_id": "67590a238ac1e711"
+}

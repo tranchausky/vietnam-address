@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 723688,
+            "name": "An Hoà",
+            "pid": 18422,
+            "type": 17,
+            "region": null,
+            "alias": "An Hoà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2856663",
+            "lng": "105.8231588"
+        },
+        {
+            "id": 78791,
+            "name": "Ấp An Thạnh",
+            "pid": 18422,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp An Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2856663",
+            "lng": "105.82315879999999"
+        },
+        {
+            "id": 78785,
+            "name": "Ấp An Thuận",
+            "pid": 18422,
+            "type": 17,
+            "region": null,
+            "alias": "ấp An Thuận",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2856663",
+            "lng": "105.82315879999999"
+        },
+        {
+            "id": 78794,
+            "name": "Ấp Tân Hòa",
+            "pid": 18422,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2856663",
+            "lng": "105.82315879999999"
+        },
+        {
+            "id": 78797,
+            "name": "Ấp Tân Thạnh",
+            "pid": 18422,
+            "type": 17,
+            "region": null,
+            "alias": "ấp Tân Thạnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2856663",
+            "lng": "105.82315879999999"
+        }
+    ],
+    "log_id": "675816c05f607594"
+}

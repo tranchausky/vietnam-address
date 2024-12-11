@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 754096,
+            "name": "Chợ Đống Đa",
+            "pid": 17982,
+            "type": 18,
+            "region": null,
+            "alias": "Chợ đống đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6273964",
+            "lng": "106.3875898"
+        },
+        {
+            "id": 754093,
+            "name": "Đống Đa",
+            "pid": 17982,
+            "type": 18,
+            "region": null,
+            "alias": "đống đa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6273964",
+            "lng": "106.3875898"
+        },
+        {
+            "id": 754090,
+            "name": "Lũng Nhàu",
+            "pid": 17982,
+            "type": 18,
+            "region": null,
+            "alias": "Lũng Nhàu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.6273964",
+            "lng": "106.3875898"
+        },
+        {
+            "id": 1016653,
+            "name": "Nà Du",
+            "pid": 17982,
+            "type": 18,
+            "region": null,
+            "alias": "Nà Du",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "106.410962",
+            "lng": "22.628495"
+        }
+    ],
+    "log_id": "6758166286525902"
+}

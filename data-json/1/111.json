@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 829387,
+            "name": "Đường Dương Văn Bé",
+            "pid": 111,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Dương Văn Bé",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9984853",
+            "lng": "105.86866350000003"
+        },
+        {
+            "id": 831079,
+            "name": "Đường Yên Lạc",
+            "pid": 111,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Yên Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9984853",
+            "lng": "105.86866350000003"
+        },
+        {
+            "id": 985769,
+            "name": "Park 9 Times City",
+            "pid": 111,
+            "type": 10,
+            "region": null,
+            "alias": "Park 9 Times City",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.99288972835769",
+            "lng": "105.8664887261049"
+        },
+        {
+            "id": 829948,
+            "name": "Phố Bưởi",
+            "pid": 111,
+            "type": 21,
+            "region": null,
+            "alias": "phố bưởi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9984853",
+            "lng": "105.86866350000003"
+        },
+        {
+            "id": 871,
+            "name": "Yên Lạc",
+            "pid": 111,
+            "type": 2,
+            "region": null,
+            "alias": "Yên Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0002221",
+            "lng": "105.86342020000006"
+        }
+    ],
+    "log_id": "675811bd1d439184"
+}

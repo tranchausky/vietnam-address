@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 652252,
+            "name": "Thôn Bình Di",
+            "pid": 7112,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Bình Di",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.881710",
+            "lng": "106.361889"
+        },
+        {
+            "id": 652246,
+            "name": "Thôn Phương Quất",
+            "pid": 7112,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phương Quất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.876594",
+            "lng": "106.353735"
+        }
+    ],
+    "log_id": "675813f1df99e791"
+}

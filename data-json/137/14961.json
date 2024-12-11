@@ -1,0 +1,103 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 911770,
+            "name": "Làng Lải",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Lải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1866115",
+            "lng": "105.27360870000008"
+        },
+        {
+            "id": 711223,
+            "name": "Làng Ngoã",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Ngoã",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.186739",
+            "lng": "105.270751"
+        },
+        {
+            "id": 797167,
+            "name": "Nà Lá",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Lá",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1866115",
+            "lng": "105.27360870000008"
+        },
+        {
+            "id": 797179,
+            "name": "Nà Nẻm",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Nà Nẻm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1866115",
+            "lng": "105.27360870000008"
+        },
+        {
+            "id": 711253,
+            "name": "Ngoan A",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoan A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.186739",
+            "lng": "105.270751"
+        },
+        {
+            "id": 844651,
+            "name": "Ngoan A",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoan A",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1866115",
+            "lng": "105.27360870000008"
+        },
+        {
+            "id": 832831,
+            "name": "Ngoan B",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Ngoan B",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1866115",
+            "lng": "105.27360870000008"
+        },
+        {
+            "id": 832834,
+            "name": "Trung Quang",
+            "pid": 14961,
+            "type": 16,
+            "region": null,
+            "alias": "Trung Quang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "22.1866115",
+            "lng": "105.27360870000008"
+        }
+    ],
+    "log_id": "6758138a48d07735"
+}

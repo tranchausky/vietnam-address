@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 805339,
+            "name": "Chung Linh",
+            "pid": 20614,
+            "type": 16,
+            "region": null,
+            "alias": "Chung Linh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6705826",
+            "lng": "106.29345439999997"
+        },
+        {
+            "id": 749980,
+            "name": "Thôn Đà Thôn",
+            "pid": 20614,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn đà Thôn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6705826",
+            "lng": "106.29345439999996"
+        },
+        {
+            "id": 805342,
+            "name": "Thôn Kỹ Trang",
+            "pid": 20614,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Kỹ Trang",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.6705826",
+            "lng": "106.29345439999997"
+        },
+        {
+            "id": 409093,
+            "name": "Thôn Ngẫu Khê",
+            "pid": 20614,
+            "type": 16,
+            "region": null,
+            "alias": "thôn ngẫu khê",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.68111",
+            "lng": "106.28366430000005"
+        }
+    ],
+    "log_id": "675909f39ab88448"
+}

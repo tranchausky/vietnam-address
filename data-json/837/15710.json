@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 628968,
+            "name": "Công Hà",
+            "pid": 15710,
+            "type": 16,
+            "region": null,
+            "alias": "Công Hà",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.032436",
+            "lng": "106.032003"
+        },
+        {
+            "id": 628977,
+            "name": "Đông Cốc",
+            "pid": 15710,
+            "type": 16,
+            "region": null,
+            "alias": "Đông Cốc",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.0260969",
+            "lng": "106.037786"
+        },
+        {
+            "id": 628971,
+            "name": "Mãn Xá Đông",
+            "pid": 15710,
+            "type": 16,
+            "region": null,
+            "alias": "Mãn Xá Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.019851",
+            "lng": "106.025540"
+        },
+        {
+            "id": 628974,
+            "name": "Mãn Xá Tây",
+            "pid": 15710,
+            "type": 16,
+            "region": null,
+            "alias": "Mãn Xá Tây",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.022547",
+            "lng": "106.028956"
+        }
+    ],
+    "log_id": "675815f8c399e55"
+}

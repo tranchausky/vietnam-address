@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 963164,
+            "name": "Chẵn Lẽ 1-86 Hoài Thanh",
+            "pid": 1337,
+            "type": 29,
+            "region": null,
+            "alias": "Chẵn Lẽ 1-86 Hoài Thanh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.738171",
+            "lng": "106.648484"
+        },
+        {
+            "id": 958005,
+            "name": "Chợ Bình Đông",
+            "pid": 1337,
+            "type": 10,
+            "region": null,
+            "alias": "Chợ Bình Đông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.7386208",
+            "lng": "106.6432058"
+        },
+        {
+            "id": 681400,
+            "name": "Đường Bến Bình Đông",
+            "pid": 1337,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Bến Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7408772",
+            "lng": "106.6466016"
+        },
+        {
+            "id": 675628,
+            "name": "Đường Cây Sung",
+            "pid": 1337,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cây Sung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7379409",
+            "lng": "106.6451058"
+        },
+        {
+            "id": 680761,
+            "name": "Đường Hoài Thanh",
+            "pid": 1337,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoài Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7383956",
+            "lng": "106.6491952"
+        },
+        {
+            "id": 681586,
+            "name": "Đường Hoàng Sĩ Khải",
+            "pid": 1337,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Hoàng Sĩ Khải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7368546",
+            "lng": "106.6432255"
+        },
+        {
+            "id": 680377,
+            "name": "Đường Ngô Sỹ Liên",
+            "pid": 1337,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Ngô Sỹ Liên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.7419685",
+            "lng": "106.6486176"
+        }
+    ],
+    "log_id": "6758129ad88f5906"
+}

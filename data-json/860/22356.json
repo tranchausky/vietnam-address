@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 460999,
+            "name": "Bình Đông",
+            "pid": 22356,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Đông",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2501527",
+            "lng": "108.60828300000003"
+        },
+        {
+            "id": 460997,
+            "name": "Bình Tân",
+            "pid": 22356,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2501527",
+            "lng": "108.60828300000003"
+        },
+        {
+            "id": 460993,
+            "name": "Bình Thanh",
+            "pid": 22356,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Thanh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2501527",
+            "lng": "108.60828300000003"
+        },
+        {
+            "id": 460995,
+            "name": "Bình Trung",
+            "pid": 22356,
+            "type": 16,
+            "region": null,
+            "alias": "Bình Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "15.2501527",
+            "lng": "108.60828300000003"
+        }
+    ],
+    "log_id": "675909a4e21ed577"
+}

@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 120271,
+            "name": "Nội",
+            "pid": 4733,
+            "type": 16,
+            "region": null,
+            "alias": "Nội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.6735131"
+        },
+        {
+            "id": 120269,
+            "name": "Phượng",
+            "pid": 4733,
+            "type": 16,
+            "region": null,
+            "alias": "Phượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.6735131"
+        },
+        {
+            "id": 120265,
+            "name": "Thượng",
+            "pid": 4733,
+            "type": 16,
+            "region": null,
+            "alias": "Thượng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.6735131"
+        },
+        {
+            "id": 120263,
+            "name": "Trì",
+            "pid": 4733,
+            "type": 16,
+            "region": null,
+            "alias": "Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.794698",
+            "lng": "105.6757816"
+        },
+        {
+            "id": 120267,
+            "name": "Trung",
+            "pid": 4733,
+            "type": 16,
+            "region": null,
+            "alias": "Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.789361",
+            "lng": "105.6735131"
+        },
+        {
+            "id": 54814,
+            "name": "Ubnd Xã Thượng Lâm",
+            "pid": 4733,
+            "type": 4,
+            "region": null,
+            "alias": "UBND Xã Thượng Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": null,
+            "lng": null
+        }
+    ],
+    "log_id": "675811bc45bb1890"
+}

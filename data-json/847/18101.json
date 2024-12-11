@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 626124,
+            "name": "Thôn Buôn Krai",
+            "pid": 18101,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Krai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        },
+        {
+            "id": 626133,
+            "name": "Thôn Buôn Rưng Ma Đoan",
+            "pid": 18101,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Rưng Ma Đoan",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        },
+        {
+            "id": 626130,
+            "name": "Thôn Buôn Rưng Ma Nhiu",
+            "pid": 18101,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Rưng Ma Nhiu",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        },
+        {
+            "id": 626136,
+            "name": "Thôn Buôn Rưng Manin",
+            "pid": 18101,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Rưng Manin",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        },
+        {
+            "id": 626139,
+            "name": "Thôn Buôn Rưng Ma Rai",
+            "pid": 18101,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Rưng Ma Rai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        },
+        {
+            "id": 626127,
+            "name": "Thôn Buôn Sar",
+            "pid": 18101,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Buôn Sar",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "13.3868744",
+            "lng": "108.41425219999996"
+        }
+    ],
+    "log_id": "675816d3775eb582"
+}

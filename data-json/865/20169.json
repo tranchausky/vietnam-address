@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 558111,
+            "name": "Thôn Chiến Thắng",
+            "pid": 20169,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Chiến Thắng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 558113,
+            "name": "Thôn Thắng Phúc",
+            "pid": 20169,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 558115,
+            "name": "Thôn Thắng Tây",
+            "pid": 20169,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thắng Tây",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 558117,
+            "name": "Thôn Thành Lập",
+            "pid": 20169,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Thành Lập",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 558121,
+            "name": "Xóm Bắc",
+            "pid": 20169,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bắc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 900304,
+            "name": "Xóm Bắc Thọ",
+            "pid": 20169,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bắc Thọ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.928852600000006",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 558119,
+            "name": "Xóm Lộc",
+            "pid": 20169,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lộc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 880048,
+            "name": "Xóm Nam",
+            "pid": 20169,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nam",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.928852600000006",
+            "lng": "105.96117479999998"
+        },
+        {
+            "id": 558123,
+            "name": "Xóm Phúc",
+            "pid": 20169,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Phúc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "19.9288526",
+            "lng": "105.96117479999998"
+        }
+    ],
+    "log_id": "67590a2307100500"
+}

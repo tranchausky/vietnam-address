@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 428521,
+            "name": "Bắc Kinh",
+            "pid": 17781,
+            "type": 16,
+            "region": null,
+            "alias": "Bắc Kinh",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4437837",
+            "lng": "105.8378366"
+        },
+        {
+            "id": 428517,
+            "name": "Ích Mỹ",
+            "pid": 17781,
+            "type": 16,
+            "region": null,
+            "alias": "Ích Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4437837",
+            "lng": "105.8378366"
+        },
+        {
+            "id": 428519,
+            "name": "Lương Trung",
+            "pid": 17781,
+            "type": 16,
+            "region": null,
+            "alias": "Lương Trung",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4437837",
+            "lng": "105.8378366"
+        },
+        {
+            "id": 428523,
+            "name": "Phù Ích",
+            "pid": 17781,
+            "type": 16,
+            "region": null,
+            "alias": "Phù Ích",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4437837",
+            "lng": "105.8378366"
+        },
+        {
+            "id": 428515,
+            "name": "Thống Nhất",
+            "pid": 17781,
+            "type": 16,
+            "region": null,
+            "alias": "Thống Nhất",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "18.4437837",
+            "lng": "105.8378366"
+        }
+    ],
+    "log_id": "675816e9e75ba705"
+}

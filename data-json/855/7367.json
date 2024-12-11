@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 97304,
+            "name": "Ấp Đức Ngải 1",
+            "pid": 7367,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đức Ngải 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9324084",
+            "lng": "106.4125571"
+        },
+        {
+            "id": 97307,
+            "name": "Ấp Đức Ngãi 2",
+            "pid": 7367,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Đức Ngãi 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9286994",
+            "lng": "106.4204826"
+        },
+        {
+            "id": 97301,
+            "name": "Ấp Tân Hội",
+            "pid": 7367,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Tân Hội",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.9164126",
+            "lng": "106.393147"
+        }
+    ],
+    "log_id": "6758178505e13690"
+}

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 10557,
+            "name": "Phường Cát Bi",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Cát Bi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8335553",
+            "lng": "106.7196616"
+        },
+        {
+            "id": 10391,
+            "name": "Phường Đằng Hải",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đằng Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8342128",
+            "lng": "106.72253279999995"
+        },
+        {
+            "id": 5804,
+            "name": "Phường Đằng Lâm",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đằng Lâm",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8342128",
+            "lng": "106.72253279999995"
+        },
+        {
+            "id": 5803,
+            "name": "Phường Đông Hải 1",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Hải 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8335553",
+            "lng": "106.7196616"
+        },
+        {
+            "id": 5806,
+            "name": "Phường Đông Hải 2",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Đông Hải 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8335553",
+            "lng": "106.7196616"
+        },
+        {
+            "id": 10173,
+            "name": "Phường Nam Hải",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Nam Hải",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8335553",
+            "lng": "106.7196616"
+        },
+        {
+            "id": 5808,
+            "name": "Phường Thành Tô",
+            "pid": 1109,
+            "type": 1,
+            "region": null,
+            "alias": "Phường Thành Tô",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.8300935",
+            "lng": "106.72196310000004"
+        }
+    ],
+    "log_id": "675813659881110"
+}

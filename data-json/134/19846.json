@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 827281,
+            "name": "Đoàn Kết",
+            "pid": 19846,
+            "type": 16,
+            "region": null,
+            "alias": "đoàn Kết",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6941745",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 827278,
+            "name": "Hợp Nhất",
+            "pid": 19846,
+            "type": 16,
+            "region": null,
+            "alias": "Hợp Nhất",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6941745",
+            "lng": "106.57608570000002"
+        },
+        {
+            "id": 715324,
+            "name": "Quán Hàng",
+            "pid": 19846,
+            "type": 16,
+            "region": null,
+            "alias": "Quán Hàng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6941745",
+            "lng": "106.57608570000002"
+        }
+    ],
+    "log_id": "6758133f29b40335"
+}

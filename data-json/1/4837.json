@@ -1,0 +1,115 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 53998,
+            "name": "Asean Resort & Spa",
+            "pid": 4837,
+            "type": 10,
+            "region": null,
+            "alias": "Asean Resort & Spa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 489083,
+            "name": "Cánh Chủ",
+            "pid": 4837,
+            "type": 16,
+            "region": null,
+            "alias": "Cánh Chủ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0365284",
+            "lng": "105.5381515"
+        },
+        {
+            "id": 489093,
+            "name": "Hòa Lạc",
+            "pid": 4837,
+            "type": 10,
+            "region": null,
+            "alias": "Hòa Lạc",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0321376",
+            "lng": " 105.538232"
+        },
+        {
+            "id": 120899,
+            "name": "Sen Trì Bình Yên",
+            "pid": 4837,
+            "type": 16,
+            "region": null,
+            "alias": "Sen Trì Bình Yên",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0321376",
+            "lng": " 105.538232"
+        },
+        {
+            "id": 489089,
+            "name": "Thái Bình",
+            "pid": 4837,
+            "type": 16,
+            "region": null,
+            "alias": "Thái Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.5386936",
+            "lng": "106.3934777"
+        },
+        {
+            "id": 489081,
+            "name": "Thôn Phúc Tiến",
+            "pid": 4837,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Phúc Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.7251289",
+            "lng": "105.9259271"
+        },
+        {
+            "id": 489069,
+            "name": "Thôn Yên Mỹ",
+            "pid": 4837,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Mỹ",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0494828",
+            "lng": " 105.552801"
+        },
+        {
+            "id": 55366,
+            "name": "Ubnd",
+            "pid": 4837,
+            "type": 4,
+            "region": null,
+            "alias": "UBND",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "",
+            "lng": ""
+        },
+        {
+            "id": 489087,
+            "name": "Vân Lôi",
+            "pid": 4837,
+            "type": 16,
+            "region": null,
+            "alias": "Vân Lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.0302318",
+            "lng": "105.5415455"
+        }
+    ],
+    "log_id": "675811bc0afb5526"
+}

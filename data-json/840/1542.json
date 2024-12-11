@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 18517,
+            "name": "Thị Trấn Thanh Bình",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Thị trấn Thanh Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9598232",
+            "lng": "106.82373740000003"
+        },
+        {
+            "id": 19863,
+            "name": "Xã Hưng Phước",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Hưng Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.0435964",
+            "lng": "106.80603880000001"
+        },
+        {
+            "id": 18518,
+            "name": "Xã Phước Thiện",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Phước Thiện",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.027811",
+            "lng": "106.887161"
+        },
+        {
+            "id": 18519,
+            "name": "Xã Tân Thành",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9391097",
+            "lng": "106.71167000000003"
+        },
+        {
+            "id": 19867,
+            "name": "Xã Tân Tiến",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Tân Tiến",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9321598",
+            "lng": "106.74227559999997"
+        },
+        {
+            "id": 18520,
+            "name": "Xã Thanh Hoà",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thanh Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9285713",
+            "lng": "106.80659190000006"
+        },
+        {
+            "id": 18521,
+            "name": "Xã Thiện Hưng",
+            "pid": 1542,
+            "type": 1,
+            "region": null,
+            "alias": "Xã Thiện Hưng",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.9912019",
+            "lng": "106.78325419999999"
+        }
+    ],
+    "log_id": "6758163763cb5133"
+}

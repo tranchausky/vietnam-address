@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 913618,
+            "name": "Lũng Mới",
+            "pid": 19907,
+            "type": 18,
+            "region": null,
+            "alias": "Lũng Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875120000002"
+        },
+        {
+            "id": 505443,
+            "name": "Trường Tiểu Học Quý Quân",
+            "pid": 19907,
+            "type": 9,
+            "region": null,
+            "alias": "Trường Tiểu Học Quý Quân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 505445,
+            "name": "Ubnd Xã Quý Quân",
+            "pid": 19907,
+            "type": 16,
+            "region": null,
+            "alias": "UBND Xã Quý Quân",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 505447,
+            "name": "Xóm Bản Láp",
+            "pid": 19907,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Bản Láp",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 505449,
+            "name": "Xóm Lũng Nhùng",
+            "pid": 19907,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Lũng Nhùng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 505451,
+            "name": "Xóm Nà Pò",
+            "pid": 19907,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Nà Pò",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875119999999"
+        },
+        {
+            "id": 505453,
+            "name": "Xóm Tềnh Cà Lừa",
+            "pid": 19907,
+            "type": 18,
+            "region": null,
+            "alias": "Xóm Tềnh Cà Lừa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.8555722",
+            "lng": "106.02875119999999"
+        }
+    ],
+    "log_id": "675816627628243"
+}

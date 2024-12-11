@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 435491,
+            "name": "Ấp Thuận Bình",
+            "pid": 16043,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Bình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2129685",
+            "lng": "106.27672189999998"
+        },
+        {
+            "id": 435489,
+            "name": "Ấp Thuận Phước",
+            "pid": 16043,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Phước",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2129685",
+            "lng": "106.27672189999998"
+        },
+        {
+            "id": 435495,
+            "name": "Ấp Thuận Tân",
+            "pid": 16043,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Thuận Tân",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "11.2129685",
+            "lng": "106.27672189999998"
+        }
+    ],
+    "log_id": "675909dcd31d5523"
+}

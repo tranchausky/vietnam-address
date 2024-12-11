@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 630381,
+            "name": "Thôn Giai Phạm",
+            "pid": 20013,
+            "type": 16,
+            "region": null,
+            "alias": "thôn giai phạm",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9369988",
+            "lng": "106.02728189999993"
+        },
+        {
+            "id": 630384,
+            "name": "Thôn Lạc Cầu",
+            "pid": 20013,
+            "type": 16,
+            "region": null,
+            "alias": "thôn lạc cầu",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "20.9369988",
+            "lng": "106.02728189999993"
+        },
+        {
+            "id": 630393,
+            "name": "Xóm Đồng",
+            "pid": 20013,
+            "type": 18,
+            "region": null,
+            "alias": "xóm đồng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9369988",
+            "lng": "106.02728189999993"
+        },
+        {
+            "id": 630390,
+            "name": "Xóm Giữa",
+            "pid": 20013,
+            "type": 18,
+            "region": null,
+            "alias": "xóm giữa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.9369988",
+            "lng": "106.02728189999993"
+        },
+        {
+            "id": 919012,
+            "name": "Yên Phú",
+            "pid": 20013,
+            "type": 16,
+            "region": null,
+            "alias": "Yên Phú",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.8844709",
+            "lng": "105.98685790000002"
+        }
+    ],
+    "log_id": "67581491237b6271"
+}

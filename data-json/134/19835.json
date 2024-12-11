@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 888130,
+            "name": "Làng Cằng",
+            "pid": 19835,
+            "type": 16,
+            "region": null,
+            "alias": "Làng Cằng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6012862",
+            "lng": "106.52305419999992"
+        },
+        {
+            "id": 863590,
+            "name": "Minh Khai",
+            "pid": 19835,
+            "type": 16,
+            "region": null,
+            "alias": "Minh Khai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6012862",
+            "lng": "106.52305419999992"
+        },
+        {
+            "id": 755488,
+            "name": "Thôn Làng Ngũa",
+            "pid": 19835,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Làng Ngũa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6012862",
+            "lng": "106.52305419999992"
+        },
+        {
+            "id": 715483,
+            "name": "Xóm Mới",
+            "pid": 19835,
+            "type": 16,
+            "region": null,
+            "alias": "Xóm Mới",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.6012862",
+            "lng": "106.52305419999992"
+        }
+    ],
+    "log_id": "6758133f25aa6296"
+}

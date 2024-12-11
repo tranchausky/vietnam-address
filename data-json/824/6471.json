@@ -1,0 +1,139 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 454111,
+            "name": "Ấp 2",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.8266376",
+            "lng": "106.458302"
+        },
+        {
+            "id": 454105,
+            "name": "Ấp Kinh 2A",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 2A",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4387547",
+            "lng": "106.2381531"
+        },
+        {
+            "id": 454107,
+            "name": "Ấp Kinh 2B",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Kinh 2B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4604116",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 454109,
+            "name": "Ấp Long Hòa B",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Long Hòa B",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "11.12276",
+            "lng": "108.210999"
+        },
+        {
+            "id": 454103,
+            "name": "Ấp Mỹ Bình",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Bình",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.4971359",
+            "lng": "105.4063025"
+        },
+        {
+            "id": 454099,
+            "name": "Ấp Mỹ Đức",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Đức",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "20.725768",
+            "lng": "105.7157513"
+        },
+        {
+            "id": 1006527,
+            "name": "Ấp Mỹ Hoà",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Hoà",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4604116",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 454095,
+            "name": "Ấp Mỹ Lợi",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Lợi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4604116",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 1006528,
+            "name": "Ấp Mỹ Phú",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Phú",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4604116",
+            "lng": "106.23456329999999"
+        },
+        {
+            "id": 454097,
+            "name": "Ấp Mỹ Thành",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Thành",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.4380999",
+            "lng": "106.0346285"
+        },
+        {
+            "id": 454101,
+            "name": "Ấp Mỹ Trường",
+            "pid": 6471,
+            "type": 17,
+            "region": null,
+            "alias": "Ấp Mỹ Trường",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "16.6638093",
+            "lng": "107.2710728"
+        }
+    ],
+    "log_id": "675814f38fee1194"
+}

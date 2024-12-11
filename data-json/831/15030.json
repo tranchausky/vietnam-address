@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 104675,
+            "name": "Đường Cao Bá Quát",
+            "pid": 15030,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Cao Bá Quát",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2408776",
+            "lng": "109.1830729,17"
+        },
+        {
+            "id": 978443,
+            "name": "Đường Lê Hồng Phong",
+            "pid": 15030,
+            "type": 5,
+            "region": null,
+            "alias": "Đường Lê Hồng Phong",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "12.2341387",
+            "lng": "09.1823115"
+        },
+        {
+            "id": 104597,
+            "name": "Đường Trần Nhật Duật",
+            "pid": 15030,
+            "type": 21,
+            "region": null,
+            "alias": "Đường Trần Nhật Duật",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2373595",
+            "lng": "109.1832696,17"
+        },
+        {
+            "id": 856639,
+            "name": "Hồ Xuân Hương",
+            "pid": 15030,
+            "type": 21,
+            "region": null,
+            "alias": "Hồ Xuân Hương",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2389498",
+            "lng": "109.1810224"
+        },
+        {
+            "id": 818809,
+            "name": "Hương Giang",
+            "pid": 15030,
+            "type": 21,
+            "region": null,
+            "alias": "Hương Giang",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2356161",
+            "lng": "109.1857364"
+        },
+        {
+            "id": 856633,
+            "name": "Lam Sơn",
+            "pid": 15030,
+            "type": 21,
+            "region": null,
+            "alias": "Lam Sơn",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2358107",
+            "lng": "109.181626"
+        },
+        {
+            "id": 744256,
+            "name": "Phùng Khắc Khoan",
+            "pid": 15030,
+            "type": 21,
+            "region": null,
+            "alias": "Phùng Khắc Khoan",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "12.2356161",
+            "lng": "109.1857364"
+        }
+    ],
+    "log_id": "67581585dd12d913"
+}

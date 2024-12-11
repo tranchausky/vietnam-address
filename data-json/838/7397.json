@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 441411,
+            "name": "Ấp 1",
+            "pid": 7397,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2099064",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 441413,
+            "name": "Ấp 2",
+            "pid": 7397,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2099064",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 441415,
+            "name": "Ấp 3",
+            "pid": 7397,
+            "type": 16,
+            "region": null,
+            "alias": "Ấp 3",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2099064",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 441417,
+            "name": "Ấp 4",
+            "pid": 7397,
+            "type": 4,
+            "region": null,
+            "alias": "Ấp 4",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2099064",
+            "lng": "106.6703963"
+        },
+        {
+            "id": 839842,
+            "name": "Khu Phố Bình Hòa",
+            "pid": 7397,
+            "type": 21,
+            "region": null,
+            "alias": "khu phố Bình Hòa",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2099064",
+            "lng": "106.6703963"
+        }
+    ],
+    "log_id": "6758160db44f3447"
+}

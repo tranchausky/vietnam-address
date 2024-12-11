@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 599838,
+            "name": "Bà Tiên 1",
+            "pid": 19806,
+            "type": 17,
+            "region": null,
+            "alias": "Bà Tiên 1",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599841,
+            "name": "Bà Tiên 2",
+            "pid": 19806,
+            "type": 17,
+            "region": null,
+            "alias": "Bà Tiên 2",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599835,
+            "name": "Lý Quan 1",
+            "pid": 19806,
+            "type": 17,
+            "region": null,
+            "alias": "Lý Quan 1",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599832,
+            "name": "Lý Quàn 2",
+            "pid": 19806,
+            "type": 17,
+            "region": null,
+            "alias": "Lý Quàn 2",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        },
+        {
+            "id": 599844,
+            "name": "Rãnh",
+            "pid": 19806,
+            "type": 17,
+            "region": null,
+            "alias": "Rãnh",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "10.2462427",
+            "lng": "106.6998767"
+        }
+    ],
+    "log_id": "675814f3f4178832"
+}

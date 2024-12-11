@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 501563,
+            "name": "Thôn Khuổi Vai",
+            "pid": 14658,
+            "type": 16,
+            "region": null,
+            "alias": "thôn khuổi vai",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1988749",
+            "lng": "106.41997549999996"
+        },
+        {
+            "id": 501565,
+            "name": "Thôn Pò Có",
+            "pid": 14658,
+            "type": 16,
+            "region": null,
+            "alias": "thôn pò có",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "22.1988749",
+            "lng": "106.41997549999996"
+        }
+    ],
+    "log_id": "6758133f3cc0b289"
+}

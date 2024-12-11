@@ -1,0 +1,151 @@
+{
+    "success": true,
+    "message": "Get list address success!",
+    "data": [
+        {
+            "id": 822166,
+            "name": "Đường 295",
+            "pid": 13618,
+            "type": 10,
+            "region": null,
+            "alias": "ĐƯỜNG 295",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1117670",
+            "lng": "105.9810486"
+        },
+        {
+            "id": 964872,
+            "name": "Dương Lôi",
+            "pid": 13618,
+            "type": 16,
+            "region": null,
+            "alias": "Dương Lôi",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1135353",
+            "lng": "105.9752312"
+        },
+        {
+            "id": 964874,
+            "name": "Đường Lý Thánh Tông",
+            "pid": 13618,
+            "type": 8,
+            "region": null,
+            "alias": "đường lý thánh tông",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1135353",
+            "lng": "105.9752312"
+        },
+        {
+            "id": 795277,
+            "name": "Huyndai Từ Sơn",
+            "pid": 13618,
+            "type": 10,
+            "region": null,
+            "alias": "Huyndai Từ Sơn",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999997"
+        },
+        {
+            "id": 740185,
+            "name": "Kcn Mở Rộng",
+            "pid": 13618,
+            "type": 10,
+            "region": null,
+            "alias": "KCN mở rộng",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1171856",
+            "lng": "105.9825305"
+        },
+        {
+            "id": 476617,
+            "name": "Nội Trì",
+            "pid": 13618,
+            "type": 10,
+            "region": null,
+            "alias": "Nội trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1196529",
+            "lng": "105.96231609999995"
+        },
+        {
+            "id": 964873,
+            "name": "Siseong Global Vina",
+            "pid": 13618,
+            "type": 10,
+            "region": null,
+            "alias": "Siseong Global Vina",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1135353",
+            "lng": "105.9752312"
+        },
+        {
+            "id": 476615,
+            "name": "Thôn Đại Đình",
+            "pid": 13618,
+            "type": 21,
+            "region": null,
+            "alias": "Thôn Đại Đình",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1019418",
+            "lng": "105.9658592"
+        },
+        {
+            "id": 476621,
+            "name": "Thôn Dương Lôi",
+            "pid": 13618,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Dương Lôi",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1137847",
+            "lng": "105.9759701"
+        },
+        {
+            "id": 753388,
+            "name": "Thôn Nội Trì",
+            "pid": 13618,
+            "type": 9,
+            "region": null,
+            "alias": "thôn Nội Trì",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1101446",
+            "lng": "105.9687160"
+        },
+        {
+            "id": 476623,
+            "name": "Thôn Trung Hòa",
+            "pid": 13618,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Trung Hòa",
+            "is_picked": 1,
+            "is_delivered": 1,
+            "lat": "21.1032521",
+            "lng": "105.9804152"
+        },
+        {
+            "id": 476619,
+            "name": "Thôn Yên Lã",
+            "pid": 13618,
+            "type": 16,
+            "region": null,
+            "alias": "Thôn Yên Lã",
+            "is_picked": "",
+            "is_delivered": 1,
+            "lat": "21.1135726",
+            "lng": "105.9697071"
+        }
+    ],
+    "log_id": "675815f8b26bd337"
+}
